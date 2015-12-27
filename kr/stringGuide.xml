@@ -17,7 +17,7 @@
 	<key id="2022" name="Shall we use the minimap?" voiceID="" />
 	<key id="2030" name="Check the minimap" voiceID="" />
 	<key id="2031" name="Destination\nScattered Flower Garden " voiceID="" />
-	<key id="2032" name="Now, my location " voiceID="" />
+	<key id="2032" name="My Location " voiceID="" />
 	<key id="2060" name="Are you sure you know where to go?" voiceID="" />
 	<key id="2061" name="So you can see where the mini map." voiceID="ko/Tutorial/8" />
 	<key id="2070" name="When you want to see the mini map and greatly [[keyText:Tab]]Press the &lt; enter &gt; key to." voiceID="ko/Tutorial/9" />
