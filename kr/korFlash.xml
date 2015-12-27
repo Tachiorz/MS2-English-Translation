@@ -5,7 +5,7 @@
   <!-- textLimit set/Varies by country ex) Is-Hih &#xAC00;-&#xD7A4;--> 
   <key id="$s_common_text_restrict" value="0-9a-zA-Z가-힣"/>
   
-  <key id="$s_common_confirm" value="Ok"/>
+  <key id="$s_common_confirm" value="Confirm"/>
   <key id="$s_common_cancel" value="Cancel"/>
   <key id="$s_common_save" value="Save" />
   <key id="$s_common_close" value="Close" />
@@ -19,57 +19,57 @@
   <key id="$s_common_receive" value="Receive"/>
   <key id="$s_common_input_search_default" value="Please enter a search term."/>
 
-  <key id="$s_common_fh" value="Face equip"/>
-  <key id="$s_common_ey" value="Eye decor"/>
+  <key id="$s_common_fh" value="Face Accessory"/>
+  <key id="$s_common_ey" value="Eye Decoration"/>
   <key id="$s_common_ea" value="Earrings"/>
-  <key id="$s_common_cp" value="Cap"/>
-  <key id="$s_common_cl" value="Costumes"/>
-  <key id="$s_common_pa" value="Of the"/>
+  <key id="$s_common_cp" value="Hat"/>
+  <key id="$s_common_cl" value="Top"/>
+  <key id="$s_common_pa" value="Bottom"/>
   <key id="$s_common_gl" value="Gloves"/>
   <key id="$s_common_sh" value="Shoes"/>
-  <key id="$s_common_mt" value="Capes"/>
+  <key id="$s_common_mt" value="Cape"/>
   <key id="$s_common_pd" value="Necklace"/>
   <key id="$s_common_ri" value="Ring"/>
   <key id="$s_common_be" value="Belt"/>
-  <key id="$s_common_clpa" value="Body clothing"/>
-  <key id="$s_common_rh" value="Right hand"/>
-  <key id="$s_common_lh" value="Left hand"/>
-  <key id="$s_common_rhlh" value="Both hands"/>
+  <key id="$s_common_clpa" value="Overall"/>
+  <key id="$s_common_rh" value="Right-handed"/>
+  <key id="$s_common_lh" value="Left-handed"/>
+  <key id="$s_common_rhlh" value="Two-handed"/>
   <key id="$s_common_consume" value="Consume"/>
-  <key id="$s_common_etc" value="Etc"/>
+  <key id="$s_common_etc" value="ETC"/>
   <key id="$s_common_mission" value="Mission"/>
-  <key id="$s_common_skill" value="Skill"/>
-  <key id="$s_common_install" value="Install"/>
+  <key id="$s_common_skill" value="Skills"/>
+  <key id="$s_common_install" value="Construction"/>
   
   <!--Shop sale tags (Megan Barrett market, Cathy shop)-->
   <key id="$s_saletag_new" value="NEW"/>
   <key id="$s_saletag_sale" value="SALE"/>
   <key id="$s_saletag_event" value="EVENT"/>
   <key id="$s_saletag_hot" value="HOT"/>
-  <key id="$s_saletag_special" value="Special sale"/>
+  <key id="$s_saletag_special" value="Special Sale"/>
   
   <!--talkpanelsetting-->
-  <key id="$s_talkpanelsetting_title" value="The chat tab settings"/>
-  <key id="$s_talkpanelsetting_initialize" value="Initialization"/>
+  <key id="$s_talkpanelsetting_title" value="Chat Tab Settings"/>
+  <key id="$s_talkpanelsetting_initialize" value="Reset"/>
   <key id="$s_talkpanelsetting_apply" value="Apply"/>
-  <key id="$s_talkpanelsetting_ok" value="OK"/>
-  <key id="$s_talkpanelsetting_default" value="The default setting"/>
-  <key id="$s_talkpanelsetting_message" value="Message settings"/>
-  <key id="$s_talkpanelsetting_tab" value="Tab name"/>
-  <key id="$s_talkpanelsetting_damage" value="Tab notification"/>
-  <key id="$s_talkpanelsetting_fontsize" value="Font size"/>
-  <key id="$s_talkpanelsetting_transparent" value="Adjust the transparency"/>
-  <key id="$s_talkpanelsetting_show" value="To display the"/>
+  <key id="$s_talkpanelsetting_ok" value="Confirm"/>
+  <key id="$s_talkpanelsetting_default" value="Default Settings"/>
+  <key id="$s_talkpanelsetting_message" value="Message Settings"/>
+  <key id="$s_talkpanelsetting_tab" value="Tab Name"/>
+  <key id="$s_talkpanelsetting_damage" value="Tab Notification"/>
+  <key id="$s_talkpanelsetting_fontsize" value="Font Size"/>
+  <key id="$s_talkpanelsetting_transparent" value="Adjust Transparency"/>
+  <key id="$s_talkpanelsetting_show" value="Display"/>
   <key id="$s_talkpanelsetting_hide" value="Hide"/>
-  <key id="$s_talkpanelsetting_entire" value="Full enforcement"/>
+  <key id="$s_talkpanelsetting_entire" value="Apply All"/>
     
-  <key id="$s_talkpanelsetting_talk" value="Dialog message"/>
+  <key id="$s_talkpanelsetting_talk" value="Dialog Messages"/>
   <key id="$s_talkpanelsetting_world" value="World"/>
   <key id="$s_talkpanelsetting_channel" value="Channel"/>
   <key id="$s_talkpanelsetting_social" value="Area"/>
   <key id="$s_talkpanelsetting_party" value="Party"/>
   <key id="$s_talkpanelsetting_guild" value="Guild"/>
-  <key id="$s_talkpanelsetting_whisper" value="A whisper"/>
+  <key id="$s_talkpanelsetting_whisper" value="Whisper"/>
 
   <key id="$s_talkpanelsetting_require" value="Acquired a message"/>
   <key id="$s_talkpanelsetting_meso" value="Meredith acquired the cow"/>
@@ -91,22 +91,22 @@
   <key id="$s_talkpanelsetting_tooltip_entire" value="You can apply transparency and font settings for the entire chat tab will be applied to the entire"/>
 
   <!--messenger-->
-  <key id="$messenger_tab_setting" value="Tab settings"/>
-  <key id="$messenger_tab_delete" value="Delete this tab"/>
+  <key id="$messenger_tab_setting" value="Tab Settings"/>
+  <key id="$messenger_tab_delete" value="Delete Tab"/>
   <key id="$messenger_tab_name_entire" value="General"/>
   <key id="$messenger_tab_name_item" value="Battle"/>
 
   <!--inventory-->
-  <key id="$s_inventory_title" value="Belongings"/>
+  <key id="$s_inventory_title" value="Inventory"/>
   <key id="$s_inventory_tab_equip" value="Equipment"/>
   <key id="$s_inventory_tab_skill" value="Skill"/>
-  <key id="$s_inventory_tab_install" value="Install"/>
-  <key id="$s_inventory_tab_misc" value="Misc"/>
-  <key id="$s_inventory_tab_ridee" value="Mounts"/>
-  <key id="$s_inventory_meso_drop" value="Megan cow and discard"/>
-  <key id="$s_inventory_range" value="Range"/>
-  <key id="$s_inventory_item_option" value="Pick up a set of items"/> 
-  <key id="$s_inventory_remake_item_option" value="Change options for the equipment"/> 
+  <key id="$s_inventory_tab_install" value="Construction"/>
+  <key id="$s_inventory_tab_misc" value="ETC"/>
+  <key id="$s_inventory_tab_ridee" value="Mount"/>
+  <key id="$s_inventory_meso_drop" value="Drop Meso"/>
+  <key id="$s_inventory_range" value="Auto Sort"/>
+  <key id="$s_inventory_item_option" value="Item Pick-Up Settings"/> 
+  <key id="$s_inventory_remake_item_option" value="Change Equipment Option"/> 
   <key id="$s_inventory_slot_count" value="Displays information about the current tab in the slot.\nCan your Khan / Can the entire Khan"/> 
   
   <!--itemoption-->
@@ -120,10 +120,10 @@
   <key id="$s_itemopion_check_auto_merat" value="Megan Barrett auto pick up"/>
   <key id="$s_itemopion_check_auto_token" value="Other goods auto pick up" />
   
-  <key id="$s_itemopion_dropdown_rank_all" value="All acquired"/>
+  <key id="$s_itemopion_dropdown_rank_all" value="All Rank Acquired"/>
   <key id="$s_itemopion_dropdown_rank_up06" value="&lt;FONT color='#ff8c37'&gt;Artifact&lt;/FONT&gt;Acquired over"/>
-  <key id="$s_itemopion_dropdown_rank_up05" value="&lt;FONT color='#ffd533'&gt;Legend further&lt;/FONT&gt;Acquired over"/>
-  <key id="$s_itemopion_dropdown_rank_up04" value="&lt;FONT color='#c888ff'&gt;New torrent&lt;/FONT&gt;Acquired over"/>
+  <key id="$s_itemopion_dropdown_rank_up05" value="&lt;FONT color='#ffd533'&gt;Legendary&lt;/FONT&gt;Acquired over"/>
+  <key id="$s_itemopion_dropdown_rank_up04" value="&lt;FONT color='#c888ff'&gt;Excellent&lt;/FONT&gt;Acquired over"/>
   <key id="$s_itemopion_dropdown_rank_up03" value="&lt;FONT color='#45d1ff'&gt;Elite&lt;/FONT&gt;Acquired over"/>
   <key id="$s_itemopion_dropdown_rank_up02" value="&lt;FONT color='#b0f350'&gt;Rare&lt;/FONT&gt;Acquired over"/>
   
@@ -139,11 +139,11 @@
   
   <key id="$s_gameoption_category_camera" value="Camera"/>
   <key id="$s_gameoption_category_interface" value="Interface"/>
-  <key id="$s_gameoption_category_status" value="Status"/>
-  <key id="$s_gameoption_category_battle" value="Battle"/>
+  <key id="$s_gameoption_category_status" value="Status Information"/>
+  <key id="$s_gameoption_category_battle" value="Battle Information"/>
   <key id="$s_gameoption_category_community" value="Community"/>
-  <key id="$s_gameoption_category_graphic" value="The default setting"/>
-  <key id="$s_gameoption_category_sound" value="The default setting"/>
+  <key id="$s_gameoption_category_graphic" value="Default Settings"/>
+  <key id="$s_gameoption_category_sound" value="Default Settings"/>
   <key id="$s_gameoption_category_input_action" value="Action"/>
   <key id="$s_gameoption_category_input_menu" value="Menu"/>
   <key id="$s_gameoption_category_input_etc" value="Other"/>
@@ -202,11 +202,11 @@
   <key id="$s_gameoption_tooltip_vsync"		value="Monitor refresh rate in line with the FPSFix.\n\n&lt;FONT color='#FFD200' &gt;If option is checked the screen shakes. \nHowever, there is a FPSCan be lowered.&lt;/FONT&gt;"/>
   <key id="$s_gameoption_tooltip_effect"	value="Adjusts the quality of the effect.\n\n&lt;FONT color='#FFD200' &gt;The higher the steps and requires a specification.&lt;/FONT&gt;"/>
   
-  <key id="$s_gameoption_MyName"			value="Display my name"/>
-  <key id="$s_gameoption_FriendlyName"		value="Friendly players name display"/>
-  <key id="$s_gameoption_EnemyName"			value="Displays a hostile player name"/>
-  <key id="$s_gameoption_NpcName"			value="NPC Name display"/>
-  <key id="$s_gameoption_MonsterName"		value="Monster name display"/>
+  <key id="$s_gameoption_MyName"			value="Display My Name"/>
+  <key id="$s_gameoption_FriendlyName"		value="Display Friendly Players' Name"/>
+  <key id="$s_gameoption_EnemyName"			value="Displays Hostile Players' Name"/>
+  <key id="$s_gameoption_NpcName"			value="Display NPC Names"/>
+  <key id="$s_gameoption_MonsterName"		value="Display Monster Names"/>
   <key id="$s_gameoption_MonsterGaugeValue"	value="Monster gauges remaining HP Figures always appear"/>
   <key id="$s_gameoption_ExpValue"			value="Experience of experience held in the figures always appear a gauge"/>
   <key id="$s_gameoption_MyHpGauge"			value="My character head HP Gauges display"/>
@@ -216,8 +216,8 @@
   <key id="$s_gameoption_PartyChatBalloon"	value="Displays the dialog of the comic party"/>
   <key id="$s_gameoption_GuildChatBalloon"	value="The Guild comic dialogue show"/>
   
-  <key id="$s_gameoption_MyGiveDamage"	value="I show damage"/>
-  <key id="$s_gameoption_MyTakeDamage"	value="I received the damage display"/>
+  <key id="$s_gameoption_MyGiveDamage"	value="Display My Inflicted Damage"/>
+  <key id="$s_gameoption_MyTakeDamage"	value="Display Damage Taken"/>
   <key id="$s_gameoption_MyGiveRecovery"	value="I coated the figures show recovery"/>
   <key id="$s_gameoption_MyTakeRecovery"	value="The figures show the recovery I have received"/>
   <key id="$s_gameoption_PartyGiveDamage"	value="Party circles show damage"/>
@@ -274,24 +274,24 @@
   
   <key id="$s_gameoption_effect" value="Effect"/>
 
-  <key id="$s_gameoption_sound_effect" value="Sound effects"/>
-  <key id="$s_gameoption_sound_background" value="Background music"/>
-  <key id="$s_gameoption_sound_environment" value="Environmental well"/>
+  <key id="$s_gameoption_sound_effect" value="Sound Effects"/>
+  <key id="$s_gameoption_sound_background" value="Background Music"/>
+  <key id="$s_gameoption_sound_environment" value="Environmental Sound"/>
   <key id="$s_gameoption_visual_damage" value="Damage"/>
-  <key id="$s_gameoption_visual_mapname" value="Map name"/>
-  <key id="$s_gameoption_low" value="The lowest"/>
+  <key id="$s_gameoption_visual_mapname" value="Map Name"/>
+  <key id="$s_gameoption_low" value="Lowest"/>
   <key id="$s_gameoption_medium" value="Medium"/>
-  <key id="$s_gameoption_high" value="The best"/>
-  <key id="$s_gameoption_button_ok" value="OK"/>
+  <key id="$s_gameoption_high" value="Highest"/>
+  <key id="$s_gameoption_button_ok" value="Confirm"/>
   <key id="$s_gameoption_button_apply" value="Apply"/>
-  <key id="$s_gameoption_button_init" value="Initialization"/>
-  <key id="$s_gameoption_radio_show" value="To display the"/>
+  <key id="$s_gameoption_button_init" value="Reset"/>
+  <key id="$s_gameoption_radio_show" value="Display"/>
   <key id="$s_gameoption_radio_hide" value="Hide"/>
   <key id="$s_gameoption_check_off" value="Off"/>
-  <key id="$s_gameoption_option_default" value="The default setting"/>
-  <key id="$s_gameoption_option_input" value="Input keys"/>
+  <key id="$s_gameoption_option_default" value="Default Settings"/>
+  <key id="$s_gameoption_option_input" value="Enter Key"/>
   <key id="$s_gameoption_option_user" value="Manual settings"/>
-  <key id="$s_gameoption_option_set_ui" value="UI Set"/>
+  <key id="$s_gameoption_option_set_ui" value="UI Settings"/>
   <key id="$s_gameoption_option_ui_scale" value="Size"/>
   <key id="$s_gameoption_option_ui" value="UI"/>
   <key id="$s_gameoption_option_ui_mydamage" value="My damage display"/>
@@ -317,41 +317,41 @@
   <key id="$s_skill_action" value="Action"/>
 
   <!--quest-->
-  <key id="$s_quest_information" value="Quest information"/>
-  <key id="$s_quest_alramadd_quest_max" value="Quest alert register up to five."/>
+  <key id="$s_quest_information" value="Quest Information"/>
+  <key id="$s_quest_alramadd_quest_max" value="You can register up to 5 quest alerts."/>
   <key id="$s_quest_title" value="Story"/>
-  <key id="$s_quest_enable_guide" value="Story Alerts window view"/>
+  <key id="$s_quest_enable_guide" value="View Story Notification Window"/>
   <key id="$s_quest_condition" value="Summary"/>
-  <key id="$s_quest_reward" value="Compensation"/>
-  <key id="$s_quest_giveup" value="To give up"/>
-  <key id="$s_quest_find_new_quest" value="New quests."/>  
-  <key id="$s_quest_no_have_quest" value="Once you have completed the quest yet."/>  
-  <key id="$s_quest_select_complete_quest" value="Once you have completed the quest."/>  
-  <key id="$s_quest_select_quest" value="Please select your ongoing quest."/>  
-  <key id="$s_quest_satisfied" value="It is possible to complete"/>
+  <key id="$s_quest_reward" value="Reward"/>
+  <key id="$s_quest_giveup" value="Forfeit"/>
+  <key id="$s_quest_find_new_quest" value="Find new quests."/>  
+  <key id="$s_quest_no_have_quest" value="There is no completed quest yet."/>  
+  <key id="$s_quest_select_complete_quest" value="Select a completed quest."/>  
+  <key id="$s_quest_select_quest" value="Select a quest in progress."/>  
+  <key id="$s_quest_satisfied" value="Completable"/>
   <key id="$s_quest_complete" value="Complete"/>
-  <key id="$s_quest_tab_main" value="EPIC"/>
+  <key id="$s_quest_tab_main" value="Epic"/>
   <key id="$s_quest_tab_sub" value="World"/>
-  <key id="$s_quest_tab_progress" value="In progress"/>
+  <key id="$s_quest_tab_progress" value="In Progress"/>
   <key id="$s_quest_tab_complete" value="In the last story"/>
   
   <!--gamemenu-->
-  <key id="$s_gamemenu_btn_worldmap" value="World map"/>
-  <key id="$s_gamemenu_btn_partysearch" value="Find a party"/>	
-  <key id="$s_gamemenu_btn_mail" value="Vote-by-mail"/>	
+  <key id="$s_gamemenu_btn_worldmap" value="World Map"/>
+  <key id="$s_gamemenu_btn_partysearch" value="Find Parties"/>	
+  <key id="$s_gamemenu_btn_mail" value="Mailbox"/>	
   <key id="$s_gamemenu_btn_community" value="Community"/>	
   <key id="$s_gamemenu_btn_ugc_shop" value="Market"/>	
-  <key id="$s_gamemenu_btn_cashshop" value="The cache shop"/>
+  <key id="$s_gamemenu_btn_cashshop" value="Cash Shop"/>
   <key id="$s_gamemenu_btn_userinfo" value="Character"/>
-  <key id="$s_gamemenu_btn_inven" value="Belongings"/>
+  <key id="$s_gamemenu_btn_inven" value="Inventory"/>
   <key id="$s_gamemenu_btn_skillbook" value="Skill"/> 
   <key id="$s_gamemenu_btn_quest" value="Quest"/>	
   <key id="$s_gamemenu_btn_achievement" value="Trophy"/> 
   <key id="$s_gamemenu_btn_gameoption" value="Menu"/> 
-  <key id="$s_gamemenu_popup_selectcharacter" value="Select the characters"/>
-  <key id="$s_gamemenu_popup_gameexit" value="The game ends"/>
+  <key id="$s_gamemenu_popup_selectcharacter" value="Select Character"/>
+  <key id="$s_gamemenu_popup_gameexit" value="Exit Game"/>
   <key id="$s_gamemenu_popup_guild" value="Guild"/>
-  <key id="$s_gamemenu_popup_maview" value="Mei views"/>
+  <key id="$s_gamemenu_popup_maview" value="Maview"/>
 
   <!--Construction mode toggle button-->
   <key id="$s_gamemenu_btn_demolish" value="Indoor zeroing"/>
@@ -368,41 +368,41 @@
   <key id="$s_construct_slot_pgdn" value="&lt;FONT color='#FFD200' size='15' &gt;Next page-turn&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nClick on the button, or press the shortcut key to display a list of the next page.\nIf the last page, and return to the first page of the most."/> 
   
   <!--characterSelect-->
-  <key id="$s_charselect_title" value="Select the characters"/>
-  <key id="$s_charselect_create_newchar" value="Create new character"/>
+  <key id="$s_charselect_title" value="Select Character"/>
+  <key id="$s_charselect_create_newchar" value="Create New Character"/>
   <key id="$s_charselect_start_game" value="Start"/>
   <key id="$s_charselect_create_char" value="Create"/>
   <key id="$s_charselect_delete_char" value="Delete"/>
-  <key id="$s_charselect_select_server" value="Server selection"/>
+  <key id="$s_charselect_select_server" value="Select Server"/>
   <key id="$s_charselect_cancle_delete" value="Undelete"/>
   <key id="$s_charselect_deleting" value="Delete"/>
-  <key id="$s_charselect_enable_delete" value="Disposable"/>
-  <key id="$s_charselect_revival_char" value="Evoking"/>
-  <key id="$s_charselect_final_delete" value="Delete now"/>
-  <key id="$s_charselect_lock_tooltip" value="Purchasing a franchise character in the cache shop slot expansion."/>
+  <key id="$s_charselect_enable_delete" value="Deletable"/>
+  <key id="$s_charselect_revival_char" value="Bring Back"/>
+  <key id="$s_charselect_final_delete" value="Delete Now"/>
+  <key id="$s_charselect_lock_tooltip" value="Please buy a character slot expansion voucher in Cash Shop."/>
   
   <!--characterCreateSelect-->
-  <key id="$s_charcreateselect_btn_create_char" value="Character creation"/>
+  <key id="$s_charcreateselect_btn_create_char" value="Create Character"/>
   <key id="$s_charcreateselect_btn_prev" value="Back"/>
   
   <!--characterCreate-->
-  <key id="$s_charcreate_look" value="Looks"/>
+  <key id="$s_charcreate_look" value="Customize Appearance"/>
   <key id="$s_charcreate_equip" value="Equipment"/>
   <key id="$s_charcreate_create" value="Create"/>
-  <key id="$s_charcreate_customize" value="Character customization"/>
+  <key id="$s_charcreate_customize" value="Customize Character"/>
   <key id="$s_charcreate_description" value="Description"/>
-  <key id="$s_charcreate_input_name" value="Please enter the name"/>
+  <key id="$s_charcreate_input_name" value="Please enter a name"/>
   <key id="$s_charcreate_male" value="Male"/>
   <key id="$s_charcreate_female" value="Female"/>
   <key id="$s_charcreate_category_hair" value="Hair"/>
   <key id="$s_charcreate_category_face" value="Face"/>
   <key id="$s_charcreate_category_makeup" value="Makeup"/>
   <key id="$s_charcreate_category_skin" value="Skin"/>
-  <key id="$s_charcreate_category_clothes" value="Clothes"/>
+  <key id="$s_charcreate_category_clothes" value="Clothing"/>
   <key id="$s_charcreate_category_pants" value="Pants"/>
   <key id="$s_charcreate_category_shoes" value="Shoes"/>
   <key id="$s_charcreate_random_select" value="Random"/>
-  <key id="$s_charcreate_select_char" value="Select character"/>
+  <key id="$s_charcreate_select_char" value="Select Character"/>
   
   <key id="$s_charcreate_size" value="Size"/>
   <key id="$s_charcreate_length" value="Length"/>
@@ -427,24 +427,24 @@
   <key id="$s_worldmap_ellinia" 	  value="Ellinia"/>
   <key id="$s_worldmap_perion" 		  value="Perion"/>
   <key id="$s_worldmap_kerningcity" value="Kerning City"/>
-  <key id="$s_worldmap_dropdown_default" value="World map"/>
+  <key id="$s_worldmap_dropdown_default" value="World Map"/>
   <key id="$s_worldmap_dropdown_statistics" value="Statistics"/>
-  <key id="$s_worldmap_dropdown_normalworld" value="Maple world"/>
-  <key id="$s_worldmap_dropdown_shadowworld" value="Shadow world"/>
-  <key id="$s_worldmap_dropdown_root" value="The whole world"/>
-  <key id="$s_worldmap_btn_normalworld" value="Maple world"/>
-  <key id="$s_worldmap_btn_shadowworld" value="Shadow world"/>
-  <key id="$s_worldmap_radio_hotplace" value="Hot place"/>
-  <key id="$s_worldmap_radio_quest_progress" value="Quest in progress areas"/>
-  <key id="$s_worldmap_radio_default" value="The default"/>
+  <key id="$s_worldmap_dropdown_normalworld" value="Maple World"/>
+  <key id="$s_worldmap_dropdown_shadowworld" value="Shadow World"/>
+  <key id="$s_worldmap_dropdown_root" value="Entire World"/>
+  <key id="$s_worldmap_btn_normalworld" value="Maple World"/>
+  <key id="$s_worldmap_btn_shadowworld" value="Shadow World"/>
+  <key id="$s_worldmap_radio_hotplace" value="Hot Place"/>
+  <key id="$s_worldmap_radio_quest_progress" value="Quest In Progress Area"/>
+  <key id="$s_worldmap_radio_default" value="Default"/>
   <key id="$s_worldmap_tooltip_hotplace" value="Check out the map where players gathered in the lot."/>
   <key id="$s_worldmap_tooltip_quest_progress" value="Check out the map where you can proceed with quests."/>
   <key id="$s_worldmap_tooltip_radio_default" value="Return to the default state of the world map."/>
-  <key id="$s_worldmap_airtaxi_ticket" value="Lotus air taxi"/>
+  <key id="$s_worldmap_airtaxi_ticket" value="Lotus Air Taxi"/>
   <key id="$s_worldmap_tooltip_airtaxi_icon" value="&lt;FONT color='#FFD200' size='15' &gt;Lotus air taxi&lt;/FONT&gt;\nYou want to move the map by clicking on the icon in the air taxi\nYou can move the helicopter to the right."/>
   <key id="$s_worldmap_tooltip_airtaxi_ticket" value="&lt;FONT color='#FFD200' size='15' &gt;Lotus air taxi&lt;/FONT&gt;\nIn order to use Lotus the Lotus air taxi radio and\n1Times when radio one will be deducted."/>
   <key id="$s_worldmap_search_field" value="Please enter the name of the map you want to retrieve."/>
-  <key id="$s_worldmap_setting" value="The world map settings"/>
+  <key id="$s_worldmap_setting" value="World Map Settings"/>
   <key id="$s_worldmap_setting_check0" value="&lt;FONT color='#00a2ed'&gt;Epic quest show&lt;/FONT&gt;"/>
   <key id="$s_worldmap_setting_check1" value="&lt;FONT color='#ffcc00'&gt;World quest show&lt;/FONT&gt;"/>
   <key id="$s_worldmap_setting_check2" value="&lt;FONT color='#51d600'&gt;Repeat the quest display&lt;/FONT&gt;"/>
@@ -458,21 +458,21 @@
   <key id="$s_worldmap_setting_ok" value="OK"/>
   <key id="$s_worldmap_island_maple" value="Maple Island"/>
   <key id="$s_worldmap_island_victoria" value="Victoria Island"/>
-  <key id="$s_worldmap_island_karkar" value="Kar Kar Island"/>
+  <key id="$s_worldmap_island_karkar" value="Karkar Island"/>
   <key id="$s_worldmap_island_darkness" value="Darkness Island"/>
   <key id="$s_worldmap_island_runeblader" value="Carl Liv Island"/>
   
   <!--minimap-->
-  <key id="$s_minimap_shop"	value="Trader"/>
+  <key id="$s_minimap_shop"	value="Merchant"/>
   <key id="$s_minimap_friendly_npc"	value="Friendly NPC"/>
   <key id="$s_minimap_enemy"	value="Monster"/>
   <key id="$s_minimap_portal"	value="Portal"/>
-  <key id="$s_minimap_buddy"	value="Friends"/>
-  <key id="$s_minimap_other_pc"	value="The other players"/>
-  <key id="$s_minimap_text"	value="Name display"/>
-  <key id="$s_minimap_quest_epic"	value="Epic quests"/>
-  <key id="$s_minimap_quest_world"	value="World quest"/>
-  <key id="$s_minimap_quest_repeat"	value="Repeat quest"/>
+  <key id="$s_minimap_buddy"	value="Friend"/>
+  <key id="$s_minimap_other_pc"	value="Other Player"/>
+  <key id="$s_minimap_text"	value="Display Name"/>
+  <key id="$s_minimap_quest_epic"	value="Epic Quest"/>
+  <key id="$s_minimap_quest_world"	value="World Quest"/>
+  <key id="$s_minimap_quest_repeat"	value="Repeatable Quest"/>
 
   <!--upper hud-->  
   <key id="$s_upper_hud_tooltip_attend"	value="&lt;FONT color='#FFD200' size='15' &gt;Check the event attendance&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can see my account, check the record of attendance."/>
@@ -481,12 +481,12 @@
   
   <!--myInfo-->
   <key id="$s_myInfo_title" 	      value="Character information"/>
-  <key id="$s_myInfo_guild_empty" 	value="No Guild"/>
-  <key id="$s_myInfo_todaymemo" 	      value="Please enter a word of the day."/>
+  <key id="$s_myInfo_guild_empty" 	value="You are not in a guild"/>
+  <key id="$s_myInfo_todaymemo" 	      value="Please enter your word of the day."/>
   <key id="$s_myInfo_game" 	      value="Equipment"/>
   <key id="$s_myInfo_skin" 	      value="Skin"/>
-  <key id="$s_myInfo_detail_show" 	  value="Read more about stats"/>
-  <key id="$s_myInfo_detail_hide" 	  value="Ability to hide"/>
+  <key id="$s_myInfo_detail_show" 	  value="View More Stats"/>
+  <key id="$s_myInfo_detail_hide" 	  value="Hide Stats"/>
   <key id="$s_myInfo_transparency_gem" 	  value="Enable transparent items"/>
   <key id="$s_myInfo_transparency_cp" 	  value="Hide Hat"/>
   <key id="$s_myInfo_transparency_ey" 	  value="Snow ornament hide"/>
@@ -498,34 +498,34 @@
   <key id="$s_myInfo_transparency_gl" 	  value="Hide gloves"/>
   <key id="$s_myInfo_transparency_ri" 	  value="Hide the ring"/>
   <key id="$s_myInfo_transparency_sh" 	  value="Hide the shoes"/>
-  <key id="$s_myInfo_transparency_ok" 	  value="OK"/>
+  <key id="$s_myInfo_transparency_ok" 	  value="Confirm"/>
   <key id="$s_myInfo_transparency_cancel" 	  value="Cancel"/>
-  <key id="$s_myinfo_empty_title" 	  	value="No title"/>
+  <key id="$s_myinfo_empty_title" 	  	value="No Title"/>
   <key id="$s_myinfo_my_news_tooltip" 	  	value="&lt;FONT color='#FFD200' size='15' &gt;News search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMei, 2009 by Yahoo! News search results for this character appeared in the view."/>
-  <key id="$s_myinfo_empty_todaymemo" 	  	value="No word of the day"/>
+  <key id="$s_myinfo_empty_todaymemo" 	  	value="You have no word of the day"/>
   
-  <key id="$s_myInfo_menu_select_profile_enable" value = "Profile settings"/>
+  <key id="$s_myInfo_menu_select_profile_enable" value = "Profile Settings"/>
   <key id="$s_myInfo_menu_select_profile_disable" value = "Profile"/>
-  <key id="$s_myInfo_menu_take_photo" value = "Photo op"/>
-  <key id="$s_myInfo_menu_input_memo" value = "Word of the day"/>
+  <key id="$s_myInfo_menu_take_photo" value = "Take Photo"/>
+  <key id="$s_myInfo_menu_input_memo" value = "Word of the Day"/>
   <key id="$s_myInfo_menu_hp" value = "HP"/>
   <key id="$s_myInfo_menu_sp" value = "SP"/>
   <key id="$s_myInfo_menu_lv" value = "Level"/>
   <key id="$s_myInfo_menu_cb" value = "Battle"/>
   <key id="$s_myInfo_menu_ad" value = "Adventure"/>
   <key id="$s_myInfo_menu_lf" value = "Life"/>
-  <key id="$s_myInfo_menu_statistic" value = "Statistical information"/>
-  <key id="$s_myInfo_menu_stat" value = "Character stat"/>
-  <key id="$s_myInfo_menu_delete_profile"	value="Initialization"/>
-  <key id="$s_myInfo_ugc_contract"	value="Real estate contracts"/>
-  <key id="$s_myInfo_home_name"	value="House name"/>
-  <key id="$s_myInfo_home_term"	value="The term"/>
+  <key id="$s_myInfo_menu_statistic" value = "Statistics"/>
+  <key id="$s_myInfo_menu_stat" value = "Character Stat"/>
+  <key id="$s_myInfo_menu_delete_profile"	value="Reset"/>
+  <key id="$s_myInfo_ugc_contract"	value="Real Estate Contract"/>
+  <key id="$s_myInfo_home_name"	value="House Name"/>
+  <key id="$s_myInfo_home_term"	value="Term"/>
   <key id="$s_myInfo_home_price" value="Price"/>
-  <key id="$s_myInfo_home_term_myinfo"	value="The term of the agreement"/>
-  <key id="$s_myInfo_home_price_myinfo"	value="Contract price"/>
+  <key id="$s_myInfo_home_term_myinfo"	value="Contract Term"/>
+  <key id="$s_myInfo_home_price_myinfo"	value="Contract Price"/>
 
-  <key id="$s_myInfo_label_damage"	value="Damage"/>
-  <key id="$s_myInfo_label_defense"	value="Defense power"/>
+  <key id="$s_myInfo_label_damage"	value="Attack"/>
+  <key id="$s_myInfo_label_defense"	value="Defense"/>
   <key id="$s_myInfo_label_str"	value="STR"/>
   <key id="$s_myInfo_label_dex"	value="DEX"/>
   <key id="$s_myInfo_label_int"	value="INT"/>
@@ -574,7 +574,7 @@
   <key id="$s_ugc_itemedit_cb_hide_ui" value="UI Hide"/>
   
   <!--ugc banner-->
-  <key id="$s_ugc_banner_title" value="Board registration"/>
+  <key id="$s_ugc_banner_title" value="Billboard Registration"/>
   <key id="$s_ugc_banner_btn_upload" value="Book now"/>
   <key id="$s_ugc_banner_btn_newdraw" value="New drawing"/>
   <key id="$s_ugc_banner_btn_terms" value="View the contents of a"/>
@@ -1148,7 +1148,7 @@
   <key id="$s_mf_status_item_get" value="Instantly receive"/>
 
   <!-- Vote-by-mail -->
-  <key id="$s_mail_dialog_title" value="Postbox"/>
+  <key id="$s_mail_dialog_title" value="Mailbox"/>
   <key id="$s_mail_dialog_bg_msg" value="Please select a letter from the list."/>
   <key id="$s_mail_new" value="Send your inquiry to a new letter"/>
   <key id="$s_mail_tab_normal" value="Regular mail"/>
@@ -1262,14 +1262,14 @@
   <key id="$s_fittingdoll_transform" value="A change of clothing"/>
   
   <!-- Camera -->
-  <key id="$s_ugccamera_title" value="Profile camera"/>
+  <key id="$s_ugccamera_title" value="Profile Camera"/>
 
   <!-- Guide -->
   <key id="$s_guideevent_tip" value="&lt;FONT size='24'&gt;TIP&lt;/FONT&gt;"/>
   
   <!-- Ex- -->
-  <key id="$s_jobchange_difficulty" value="Manipulation difficulty :"/>
-  <key id="$s_jobchange_mainskill" value="The main skill"/>
+  <key id="$s_jobchange_difficulty" value="Difficulty :"/>
+  <key id="$s_jobchange_mainskill" value="Main Skill"/>
   
   
     <!-- Report Report -->
@@ -1325,12 +1325,12 @@
   <key id="$s_report_category5_description" value="And false: &lt;FONT color='#be0202'&gt;Strong punishment&lt;/FONT&gt;You can receive a Please be careful.&lt;/FONT&gt;" />
 
   <!-- The storybook -->
-   <key id="$s_storybook_prev_page" value="Previous page" /> 
-   <key id="$s_storybook_next_page" value="On the next page" /> 
+   <key id="$s_storybook_prev_page" value="Previous Page" /> 
+   <key id="$s_storybook_next_page" value="Next Page" /> 
    <key id="$s_storybook_close" value="Close" /> 
    
-   <key id="$s_tutorial_skip_button" value="Tutorial end" /> 
-   <key id="$s_tutorial_skip_message" value="Skip the tutorial?" /> 
+   <key id="$s_tutorial_skip_button" value="End Tutorial" /> 
+   <key id="$s_tutorial_skip_message" value="Do you want to skip the tutorial?" /> 
    <key id="$s_tutorial_skip_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Tutorial end&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTutorial to stop to go to Amherst.\nAfter moving to Amherst, you cannot come back\nThe tutorial cannot be rewarded." /> 
    
    <!-- Party damage meter -->
@@ -1367,13 +1367,13 @@
   <key id="$s_groupmessenger_addbutton" value="Group dialog"/>
   
   <!-- guild -->
-  <key id="$s_guild_mail_header" value="The Guild vote-by-mail" />
+  <key id="$s_guild_mail_header" value="Guild Mailbox" />
   <key id="$s_guild_mail_content_desc" value="Number of characters {0} / {1}" />
   <key id="$s_guild_mail_title" value="Title" />
-  <key id="$s_guild_mail_content" value="The contents of the" />
+  <key id="$s_guild_mail_content" value="Contents" />
   <key id="$s_guild_mail_send" value="Send" />
   <key id="$s_guild_header_name" value="Guild" />
-  <key id="$s_guild_join_doyowant_create" value="To create a new Guild?" />  
+  <key id="$s_guild_join_doyowant_create" value="Do you want to create a new guild?" />  
   <key id="$s_guild_join_create_detail_01" value="As a new Guild and Guild activity!" />
   <key id="$s_guild_join_create_detail_02" value="Guild garden 25 people." />
   <key id="$s_guild_join_create_detail_03" value="Guild creation requires 5,000 cows in Medan." />
@@ -1467,7 +1467,7 @@
   <key id="$s_guild_main_tab_menu14" value="Subscription management" />
   <key id="$s_guild_main_tab_menu15" value="Guild management" />
   
-  <key id="$s_mavier_title" value="Mei views  |  BETA" />
+  <key id="$s_mavier_title" value="Maview  |  BETA" />
   
   <!-- Private battlefield -->
   <key id="$s_regist_arena_tooltip" value="Chapter position battle." />
