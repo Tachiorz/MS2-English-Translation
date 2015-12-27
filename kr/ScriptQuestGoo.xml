@@ -47,7 +47,7 @@
 	<key id="0901101205000046" npc="Gérard" name="HO HO HO ... It&#8217;s already here and gone. Guess I&#8217;ll have to go back to stop.&#x0A;For Ding!!" />
 	<key id="0901101205000047" npc="Terence" name="The bridge is closed and the roads are broken,&#x0A;I&#8217;ll come in here and feel uncomfortable and minweoni." />
 	<key id="0901101205000048" npc="Terence" name='First of all you can see from the hand ladder that was destroyed, but the material is insufficient.&#x0A;I was in a warehouse &lt;font color=&quot;#ffd200&quot;&gt;$item:30000196$&lt;/font&gt; $npc:21000007$Both have turnovers.' />
-	<key id="0901101205000049" npc="Terence" name='This is the place for residents as it falls,&#x0A;$npc:21000007$$pp2:, As$From &lt;font color=&quot;#ffd200&quot;&gt;$item:30000196$&lt;/font&gt; Back to them?' />
+	<key id="0901101205000049" npc="Terence" name='This is the place for residents as it falls,&#x0A;$npc:21000007$ From &lt;font color=&quot;#ffd200&quot;&gt;$item:30000196$&lt;/font&gt; Back to them?' />
 	<key id="0901101205000050" npc="Terence" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000196$&lt;/font&gt; Know something that it is not easy to obtain.&#x0A;A bit more power.' />
 	<key id="0901101205000051" npc="Terence" name="There&#8217;s a save. Ask sooner drill, puffy alone moans moans aches.&#x0A;If support staff should only make the force arrived, and left." />
 	<key id="0901101205000052" npc="Carabinieri won Paul" name="By the way, asked me one more note, okay?" />
@@ -71,7 +71,7 @@
 	<key id="0901101205000070" npc="Carabinieri won Merthyr peoples" name="I even write and report." />
 	<key id="0901101205000071" npc="Carabinieri won Tommy" name="$MyPCName$, One more favor." />
 	<key id="0901101205000072" npc="Carabinieri won Tommy" name="Asked what it was." />
-	<key id="0901101205000073" npc="Carabinieri won Tommy" name='This &lt;font color=&quot;#ffd200&quot;&gt;$item:30000070$&lt;/font&gt; &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000157$&lt;/font&gt;I&#8217;d like to get.&#x0A;You need to pass in a hurry, $map:02000001$$pp2:, As$ I would like to support the burden would not be able to send. ' />
+	<key id="0901101205000073" npc="Carabinieri won Tommy" name='This &lt;font color=&quot;#ffd200&quot;&gt;$item:30000070$&lt;/font&gt; &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000157$&lt;/font&gt;I&#8217;d like to get.&#x0A;You need to pass in a hurry, $map:02000001$  I would like to support the burden would not be able to send. ' />
 	<key id="0901101205000074" npc="Carabinieri won Tommy" name="I&#8217;m from here, let&#8217;s take a look at the food ingredients more available." />
 	<key id="0901101205000075" npc="Carabinieri won Tommy" name="Again." />
 	<key id="0901101205000076" npc="Carabinieri won Tommy" name="$item:30000070$ He or she has lost." />
@@ -146,7 +146,7 @@
 	<key id="0901101205000145" npc="Remy" name='$map:2000111$ Being able to find the old look,&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:21000025$&lt;/font&gt; &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000058$&lt;/font&gt; From here you can scare.' />
 	<key id="0901101205000146" npc="Remy" name="If you look at only me huh, lawn lies ignorance award." />
 	<key id="0901101205000147" npc="Remy" name="For a while, and the grass grow.&#x0A;Sinkholes have been covered with the blue grass come." />
-	<key id="0901101205000148" npc="Boy injured in non-" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000118$&lt;/font&gt;$pp2:, As$ If you go ask one!' />
+	<key id="0901101205000148" npc="Boy injured in non-" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000118$&lt;/font&gt;  If you go ask one!' />
 	<key id="0901101205000149" npc="Boy injured in non-" name="The Carabinieri is the lack of food and the food in the store at the base with fielded requests,&#x0A;Like food, put a bunch of bots what recyclable Jim wouldn&#8217;t attend." />
 	<key id="0901101205000150" npc="Boy injured in non-" name='Get your food to go into nearby villages,&#x0A;You&#8217;ll take a look at the same time &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000157$&lt;/font&gt;Tell him to get in.' />
 	<key id="0901101205000151" npc="Boy injured in non-" name='By the way, &lt;font color=&quot;#ffd200&quot;&gt;$map:02000118$&lt;/font&gt;This was tons of Monster ...&#x0A;I get a little easier way to get rid of the monsters Chase?' />
@@ -367,7 +367,7 @@
 	<key id="0901101205000366" npc="Boy injured in BP Chemicals" name="I&#8217;d say just to help the matter." />
 	<key id="0901101205000367" npc="Boy injured in BP Chemicals" name='Then &lt;font color=&quot;#ffd200&quot;&gt;$item:30000311$&lt;/font&gt; Find &lt;font color=&quot;#ffd200&quot;&gt;$map:02000239$&lt;/font&gt;In&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$item:30000312$&lt;/font&gt; Get some?&#x0A;$map:02000239$ $map:02000042$ I&#8217;m in the Middle, and hard to find.' />
 	<key id="0901101205000368" npc="Boy injured in BP Chemicals" name="Non-DNP, helping up to KC." />
-	<key id="0901101205000369" npc="Boy injured in BP Chemicals" name="Once $map:02000239$$pp2:, As$ Body and blood.&#x0A;Thank you." />
+	<key id="0901101205000369" npc="Boy injured in BP Chemicals" name="Once $map:02000239$  Body and blood.&#x0A;Thank you." />
 	<key id="0901101205000370" npc="Mont-shell" name="What to do? Everybody is looking at me.&#x0A;There are Monster guys, take a look at the to go laugh at me." />
 	<key id="0901101205000371" npc="Mont-shell" name="Why do these fancy dressed as." />
 	<key id="0901101205000372" npc="Mont-shell" name="Questions, do it! Am there is no mate.&#x0A;Stop to look like a witch walking out Wen come on,&#x0A;I bet the big gem-studded cane by showing you&#8217;re giving it if." />

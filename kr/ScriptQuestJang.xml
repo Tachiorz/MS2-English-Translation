@@ -171,8 +171,8 @@
 	<key id="0831175903000169" npc="Norman" name="Ask what&#8217;s going on." />
 	<key id="0831175903000170" npc="Norman" name='Isn&#8217;t this pathetic boy above the cable car &lt;font color=&quot;#ffd200&quot;&gt;Pranks drifts&lt;/font&gt; &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;Falling in the wind&lt;/font&gt; Would be greatly harmed.' />
 	<key id="0831175903000171" npc="Norman" name="Significantly cut sounds awful ... &#x0A;Not even hand me the sign of the number of write!" />
-	<key id="0831175903000172" npc="Norman" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000134$&lt;/font&gt;$pp2:, As$ Go ahead goal in pharmaceutical &lt;font color=&quot;#ffd200&quot;&gt;$item:20000057$&lt;/font&gt; Some would bring?' />
-	<key id="0831175903000173" npc="Norman" name='Thank goodness I found this guy was a sign of ... &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000134$&lt;/font&gt;$pp2:, As$ Go ahead goal in pharmaceutical &lt;font color=&quot;#ffd200&quot;&gt;$item:20000057$&lt;/font&gt; A little come on fetch!' />
+	<key id="0831175903000172" npc="Norman" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000134$&lt;/font&gt;  Go ahead goal in pharmaceutical &lt;font color=&quot;#ffd200&quot;&gt;$item:20000057$&lt;/font&gt; Some would bring?' />
+	<key id="0831175903000173" npc="Norman" name='Thank goodness I found this guy was a sign of ... &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000134$&lt;/font&gt;  Go ahead goal in pharmaceutical &lt;font color=&quot;#ffd200&quot;&gt;$item:20000057$&lt;/font&gt; A little come on fetch!' />
 	<key id="0831175903000174" npc="Norman" name="Thanks mate! &#x0A;Now this pathetic guy could cure!" />
 	<key id="0831175903000175" npc="Sharin" name="Not what a lot of crap here! AW is annoying!" />
 	<key id="0831175903000176" npc="Sharin" name="Why were annoyed." />
@@ -224,10 +224,10 @@
 	<key id="0831175903000222" npc="TiVo" name='In my opinion, is their weapon &lt;font color=&quot;#ffd200&quot;&gt;Apple&lt;/font&gt;Throw away to get rid of them!&#x0A;Tall trees dotted between the Apple trees be!&#x0A;To get rid of all the apples from the trees that give away!' />
 	<key id="0831175903000223" npc="TiVo" name='&lt;font color=&quot;#ffd200&quot;&gt;$npc:21090071$&lt;/font&gt; These guys are in the vicinity of the Apple trees.&#x0A;From there, those guys throwing apples to all warm and away!' />
 	<key id="0831175903000224" npc="TiVo" name="Thanks mate! Now you can see a little sales pitch to start properly!" />
-	<key id="0831175903000225" npc="John" name="There is a $MyPCName$, You if you ever $map:02000116$$pp2:, As$ I&#8217;m on my way?&#x0A;Then on the way to my uncle to me, this Bento a little give?" />
+	<key id="0831175903000225" npc="John" name="There is a $MyPCName$, You if you ever $map:02000116$  I&#8217;m on my way?&#x0A;Then on the way to my uncle to me, this Bento a little give?" />
 	<key id="0831175903000226" npc="John" name="Ask what&#8217;s going on." />
-	<key id="0831175903000227" npc="John" name='My uncle has an article in La jimgguni Al Royal Hyun-Sik &lt;font color=&quot;#ffd200&quot;&gt;$map:02000116$&lt;/font&gt;$pp2:, As$ Is entered, &#x0A;What&#8217;s to stop went over lunch.' />
-	<key id="0831175903000228" npc="John" name='Since the earthquake, &lt;font color=&quot;#ffd200&quot;&gt;$map:02000001$&lt;/font&gt;$pp2:, As$ If I&#8217;m going to &lt;font color=&quot;#ffd200&quot;&gt;$map:02000116$&lt;/font&gt;&#x0A;You have to go through the ... I&#8217;m afraid I couldn&#8217;t go along ...' />
+	<key id="0831175903000227" npc="John" name='My uncle has an article in La jimgguni Al Royal Hyun-Sik &lt;font color=&quot;#ffd200&quot;&gt;$map:02000116$&lt;/font&gt;  Is entered, &#x0A;What&#8217;s to stop went over lunch.' />
+	<key id="0831175903000228" npc="John" name='Since the earthquake, &lt;font color=&quot;#ffd200&quot;&gt;$map:02000001$&lt;/font&gt;  If I&#8217;m going to &lt;font color=&quot;#ffd200&quot;&gt;$map:02000116$&lt;/font&gt;&#x0A;You have to go through the ... I&#8217;m afraid I couldn&#8217;t go along ...' />
 	<key id="0831175903000229" npc="John" name="Too rough times gopeumyeon more thirsty.&#x0A;Request!" />
 	<key id="0831175903000230" npc="John" name="Why is it back? Have you ever wondered $MyPCName$Too scared?" />
 	<key id="0831175903000231" npc="John" name="$item:30000129$ He or she has lost." />
@@ -342,11 +342,11 @@
 	<key id="0831175903000340" npc="Marco Mayor&#8217;s Secretary" name="$MyPCName$By Hello? There is good news!" />
 	<key id="0831175903000341" npc="Marco Mayor&#8217;s Secretary" name="What is the news." />
 	<key id="0831175903000342" npc="Marco Mayor&#8217;s Secretary" name='&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000065$&lt;/font&gt;This helped thanks to the pollution water treatment OT&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;The goal in the company&lt;/font&gt;Did you send a letter of recommendation joining!' />
-	<key id="0831175903000343" npc="Marco Mayor&#8217;s Secretary" name='Ah ... Envy ... &#x0A;There are all these people want to go company!&#x0A;Now Vikram &lt;font color=&quot;#ffd200&quot;&gt;$map:02000189$&lt;/font&gt;$pp2:, As$ Go &lt;font color=&quot;#ffd200&quot;&gt;Interview&lt;/font&gt;Take a look at! ' />
+	<key id="0831175903000343" npc="Marco Mayor&#8217;s Secretary" name='Ah ... Envy ... &#x0A;There are all these people want to go company!&#x0A;Now Vikram &lt;font color=&quot;#ffd200&quot;&gt;$map:02000189$&lt;/font&gt;  Go &lt;font color=&quot;#ffd200&quot;&gt;Interview&lt;/font&gt;Take a look at! ' />
 	<key id="0831175903000344" npc="Marco Mayor&#8217;s Secretary" name="Not interested in a job." />
 	<key id="0831175903000345" npc="Marco Mayor&#8217;s Secretary" name="What are you talking about!&#x0A;Once you go to the interview!" />
 	<key id="0831175903000346" npc="Marco Mayor&#8217;s Secretary" name='Once again, &lt;font color=&quot;#ffd200&quot;&gt;The two joined in the goal&lt;/font&gt; The thing that&#x0A;It&#8217;s the dream of all people!' />
-	<key id="0831175903000347" npc="Marco Mayor&#8217;s Secretary" name='Ah ... Two goals from interview teleportation!&#x0A;I&#8217;m so envious $MyPCName$De ... &#x0A;Come on &lt;font color=&quot;#ffd200&quot;&gt;$map:02000189$&lt;/font&gt;$pp2:, As$ Go away!' />
+	<key id="0831175903000347" npc="Marco Mayor&#8217;s Secretary" name='Ah ... Two goals from interview teleportation!&#x0A;I&#8217;m so envious $MyPCName$De ... &#x0A;Come on &lt;font color=&quot;#ffd200&quot;&gt;$map:02000189$&lt;/font&gt;  Go away!' />
 	<key id="0831175903000348" npc="Marco Mayor&#8217;s Secretary" name='How are you? &lt;font color=&quot;#ffd200&quot;&gt;Marco Mayor&lt;/font&gt; A lot of good words.' />
 	<key id="0831175903000349" npc="Marco Mayor&#8217;s Secretary" name="Of course, you&#8217;ll want to come to the interview?" />
 	<key id="0831175903000350" npc="Marco Mayor&#8217;s Secretary" name="Even so." />
@@ -401,14 +401,14 @@
 	<key id="0831175903000399" npc="Mark" name="This time I also ask what." />
 	<key id="0831175903000400" npc="Mark" name="A bottle of alcohol is in the shadows ... &#x0A;$npc:23100025$ $item:30000190$ If you lose&#x0A;Were going to be a shadow history of chaos ... Is the horse." />
 	<key id="0831175903000401" npc="Mark" name="If that&#8217;s true ... If it is a horse ... &#x0A;If I am $item:30000190$ $npcTitle:11000119$Dear&#x0A;Go with ... Arsenal did not make a mistake is perfectly ... Catch up on &#x0A;It sounds like you would be able to ... " />
-	<key id="0831175903000402" npc="Mark" name="$MyPCName$Once the person animating Lord Shem ... &#x0A;$map:02000315$$pp2:, As$ Go $npc:23100025$As to the $item:30000190$&#x0A;Please do not take away from and?" />
-	<key id="0831175903000403" npc="Mark" name="$map:02000315$$pp2:, As$ Go $npc:23100025$As to the $item:30000190$ SER &#x0A;If you bring it to me ... So I will forget this grace!" />
+	<key id="0831175903000402" npc="Mark" name="$MyPCName$Once the person animating Lord Shem ... &#x0A;$map:02000315$  Go $npc:23100025$As to the $item:30000190$&#x0A;Please do not take away from and?" />
+	<key id="0831175903000403" npc="Mark" name="$map:02000315$  Go $npc:23100025$As to the $item:30000190$ SER &#x0A;If you bring it to me ... So I will forget this grace!" />
 	<key id="0831175903000404" npc="Mark" name="$MyPCName$The Lord! Welcome back.&#x0A;I was asking ... How ... " />
 	<key id="0831175903000405" npc="Mark" name="$item:30000190$ Hands." />
 	<key id="0831175903000406" npc="Mark" name="Ah ... Thank you very much.&#x0A;When a hair from your arsenal so far. .. Always $MyPCName$But getting help&#x0A;... Yeomciga.&#x0A;Someday I&#8217;m sure we will pay off the debt." />
 	<key id="0831175903000407" npc="Mark" name="Now quickly $item:30000190$ The Carabinieri is blind after ... Ah!!!&#x0A;That if you ever $map:02000315$Traces of Red Riding Hood in ... I have found this&#x0A;?" />
 	<key id="0831175903000408" npc="Mark" name="Says." />
-	<key id="0831175903000409" npc="Mark" name="Ah ... Indeed ... Clear $map:02000315$$pp2:, As$ I went to ...&#x0A;In the meantime, where does that disappeared ...  " />
+	<key id="0831175903000409" npc="Mark" name="Ah ... Indeed ... Clear $map:02000315$  I went to ...&#x0A;In the meantime, where does that disappeared ...  " />
 	<key id="0831175903000410" npc="ES Tan" name='To the rhythm hut~Two! Hut~Two!&#x0A;Ah ... Why &lt;font color=&quot;#ffd200&quot;&gt;You guys are&lt;/font&gt; Dance is going to do with it!' />
 	<key id="0831175903000411" npc="ES Tan" name='&lt;font color=&quot;#ffd200&quot;&gt;You guys&lt;/font&gt;This is who I am.' />
 	<key id="0831175903000412" npc="ES Tan" name='Who is who! My behind &lt;font color=&quot;#ffd200&quot;&gt;Chiu $npc:21000069$&lt;/font&gt; Suckers!&#x0A;' />
@@ -493,7 +493,7 @@
 	<key id="0831175903000491" npc="Michael Dr" name="By the way, have you ever wondered where I stand under something&#x0A;Does not feel the shaking?&#x0A;" />
 	<key id="0831175903000492" npc="Michael Dr" name='Right under this &lt;font color=&quot;#ffd200&quot;&gt;$map:02000240$&lt;/font&gt; And,&#x0A;There is even what Monster look!' />
 	<key id="0831175903000493" npc="Michael Dr" name='It is what it is &lt;font color=&quot;#ffd200&quot;&gt;Curious bear&lt;/font&gt; No Yes!&#x0A;Once &lt;font color=&quot;#ffd200&quot;&gt;$map:02000240$&lt;/font&gt;Let me go check it out on me.' />
-	<key id="0831175903000494" npc="Michael Dr" name='Come on &lt;font color=&quot;#ffd200&quot;&gt;$map:02000240$&lt;/font&gt;$pp2:, As$ Go see monsters!&#x0A;So get a clue indicating the identity of the monster, something I&#8217;ll be able to!' />
+	<key id="0831175903000494" npc="Michael Dr" name='Come on &lt;font color=&quot;#ffd200&quot;&gt;$map:02000240$&lt;/font&gt;  Go see monsters!&#x0A;So get a clue indicating the identity of the monster, something I&#8217;ll be able to!' />
 	<key id="0831175903000495" npc="Michael Dr" name="Huh? Note ...?&#x0A;What is the identity of that laughter was replaced?" />
 	<key id="0831175903000496" npc="Michael Dr" name="Alive was a doll." />
 	<key id="0831175903000497" npc="Michael Dr" name="Doll teleportation ... An alternative that&#8217;s what ...?&#x0A;This note is so ... I bought this doll was a parent letter?" />
@@ -532,19 +532,19 @@
 	<key id="0831175903000530" npc="DK" name="My girl friend $npc:11000106$ I remember?&#x0A;These days, don&#8217;t touch the tub ..." />
 	<key id="0831175903000531" npc="DK" name='&lt;font color=&quot;#ffd200&quot;&gt;&quot;You are doing.&quot;&lt;/font&gt;&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;&quot;Why.&quot;&lt;/font&gt;&#x0A;So if any of my whole entire week was a girlfriend by sending a character ... ' />
 	<key id="0831175903000532" npc="DK" name="These days I didn&#8217;t sleep well and sleep around?&#x0A;This is not about Ron!" />
-	<key id="0831175903000533" npc="DK" name='$MyPCName$! Right now, &lt;font color=&quot;#ffd200&quot;&gt;$map:02000162&lt;/font&gt;$$pp2:, As$ Go&#x0A;Monster from them &lt;font color=&quot;#ffd200&quot;&gt;$item:30000035$&lt;/font&gt; Save everything!' />
+	<key id="0831175903000533" npc="DK" name='$MyPCName$! Right now, &lt;font color=&quot;#ffd200&quot;&gt;$map:02000162&lt;/font&gt;$  Go&#x0A;Monster from them &lt;font color=&quot;#ffd200&quot;&gt;$item:30000035$&lt;/font&gt; Save everything!' />
 	<key id="0831175903000534" npc="DK" name='With that, $npc:11000106$Of &lt;font color=&quot;#ffd200&quot;&gt;Character history&lt;/font&gt;To&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;Need to hack!&lt;/font&gt;' />
 	<key id="0831175903000535" npc="DK" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000035$&lt;/font&gt; After you have gathered, there is &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000594$&lt;/font&gt; Doc after &#x0A;What happens if I bring you should submit it!' />
-	<key id="0831175903000536" npc="DK" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000162$&lt;/font&gt;$pp2:, As$ Go&#x0A;Monster from them &lt;font color=&quot;#ffd200&quot;&gt;$item:30000035$&lt;/font&gt; Save everything&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000594$&lt;/font&gt; Doc after bringing!' />
+	<key id="0831175903000536" npc="DK" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000162$&lt;/font&gt;  Go&#x0A;Monster from them &lt;font color=&quot;#ffd200&quot;&gt;$item:30000035$&lt;/font&gt; Save everything&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000594$&lt;/font&gt; Doc after bringing!' />
 	<key id="0831175903000537" npc="DK" name='Well? It&#8217;s &lt;font color=&quot;#ffd200&quot;&gt;$item:30000035$&lt;/font&gt; Or not?&#x0A;By the way, this is why imported?' />
-	<key id="0831175903000538" npc="Ravi" name='Yes, &lt;font color=&quot;#ffd200&quot;&gt;$item:30000035$&lt;/font&gt;$pp2:, As$ Saanen alternative&#x0A;You&#8217;re trying to do?' />
+	<key id="0831175903000538" npc="Ravi" name='Yes, &lt;font color=&quot;#ffd200&quot;&gt;$item:30000035$&lt;/font&gt;  Saanen alternative&#x0A;You&#8217;re trying to do?' />
 	<key id="0831175903000539" npc="Ravi" name="$npc:11000664$Of the matter." />
 	<key id="0831175903000540" npc="Ravi" name='What ...?&#x0A;That guy ... You&#8217;re here &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000666$&lt;/font&gt;&#x0A;Would you want to hack!' />
 	<key id="0831175903000541" npc="Ravi" name="I was scared to get yourself ... &#x0A;Well anyway I know!" />
 	<key id="0831175903000542" npc="Ravi" name='You have imported &lt;font color=&quot;#ffd200&quot;&gt;$item:30000035$&lt;/font&gt;Hacking into the program&#x0A;In order to be able to make a guess! &#x0A;Just wait.' />
 	<key id="0831175903000543" npc="Ravi" name="…" />
 	<key id="0831175903000544" npc="Ravi" name="…" />
-	<key id="0831175903000545" npc="Ravi" name='Now! Here&#8217;s the tradeoff. &#x0A;This &lt;font color=&quot;#ffd200&quot;&gt;$item:30000040$&lt;/font&gt; Have &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000666$&lt;/font&gt;$pp2:, As$ If you&#8217;ll be able to try the hack!' />
+	<key id="0831175903000545" npc="Ravi" name='Now! Here&#8217;s the tradeoff. &#x0A;This &lt;font color=&quot;#ffd200&quot;&gt;$item:30000040$&lt;/font&gt; Have &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000666$&lt;/font&gt;  If you&#8217;ll be able to try the hack!' />
 	<key id="0831175903000546" npc="Ravi" name="Do not assimilating, $npc:11000664$ Asked only of materials&#x0A;Try tripping!" />
 	<key id="0831175903000547" npc="Ravi" name="It is a tough job and I have helped Saanen go ahead antenna hack!" />
 	<key id="0831175903000548" npc="Ravi" name="$item:30000040$ He or she has lost." />
@@ -627,8 +627,8 @@
 	<key id="0831175903000625" npc="Matthew Voinovich" name='A few days ago in our town &lt;font color=&quot;#ffd200&quot;&gt;Black suit&lt;/font&gt;Those who showed up and received an award in&#x0A;My son, $npc:11000502$Went to ask the whereabouts of the military.' />
 	<key id="0831175903000626" npc="Matthew Voinovich" name="My slack would be culpable in the runaways so far did not find a thing ... &#x0A;Since those days I sleep does not come ... &#x0A;What happened to the guy ... " />
 	<key id="0831175903000627" npc="Matthew Voinovich" name='My son Guy, as usual $map:02000083$In &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000101$&lt;/font&gt;Had a guy and often used to play.' />
-	<key id="0831175903000628" npc="Matthew Voinovich" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000083$&lt;/font&gt;$pp2:, As$ Go &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000101$&lt;/font&gt;To &#x0A;My bet is doing and find out where to get a week?' />
-	<key id="0831175903000629" npc="Matthew Voinovich" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000083$&lt;/font&gt;$pp2:, As$ Go &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000101$&lt;/font&gt;To &#x0A;My bet is doing and find out where to get.' />
+	<key id="0831175903000628" npc="Matthew Voinovich" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000083$&lt;/font&gt;  Go &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000101$&lt;/font&gt;To &#x0A;My bet is doing and find out where to get a week?' />
+	<key id="0831175903000629" npc="Matthew Voinovich" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000083$&lt;/font&gt;  Go &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000101$&lt;/font&gt;To &#x0A;My bet is doing and find out where to get.' />
 	<key id="0831175903000630" npc="Matthew Voinovich" name='C&#8217;mon, that&#8217;s what~?&#x0A;Earl Zeng property except &lt;font color=&quot;#ffd200&quot;&gt;Home~And!&lt;/font&gt;' />
 	<key id="0831175903000631" npc="Ray" name="C&#8217;mon still not gone?&#x0A;What the hell is going on top~" />
 	<key id="0831175903000632" npc="Ray" name="$npc:11000502$Asks the whereabouts of." />
@@ -654,17 +654,17 @@
 	<key id="0831175903000652" npc="Oh Le Mano" name="Tell me what happened to look it up." />
 	<key id="0831175903000653" npc="Oh Le Mano" name='&lt;font color=&quot;#ffd200&quot;&gt;Black stone&lt;/font&gt;I know that?&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;Shadow world&lt;/font&gt;You can only get the precious stuff.' />
 	<key id="0831175903000654" npc="Oh Le Mano" name='The black crusade, this black stone holds a large number of ... &#x0A;That precious stuff TT &lt;font color=&quot;#ffd200&quot;&gt;Bargain price&lt;/font&gt;You&#8217;re selling! ' />
-	<key id="0831175903000655" npc="Oh Le Mano" name='I am deft &lt;font color=&quot;#ffd200&quot;&gt;Gemological characters&lt;/font&gt;««How to get to know them.&#x0A;So secretly diverted them to the black stone&#x0A;Much more valuable &lt;font color=&quot;#ffd200&quot;&gt;$item:30000016$&lt;/font&gt;$pp2:, As$ Did the processing!&#x0A;Very~ I think you can sell more expensive.' />
+	<key id="0831175903000655" npc="Oh Le Mano" name='I am deft &lt;font color=&quot;#ffd200&quot;&gt;Gemological characters&lt;/font&gt;««How to get to know them.&#x0A;So secretly diverted them to the black stone&#x0A;Much more valuable &lt;font color=&quot;#ffd200&quot;&gt;$item:30000016$&lt;/font&gt;  Did the processing!&#x0A;Very~ I think you can sell more expensive.' />
 	<key id="0831175903000656" npc="Oh Le Mano" name="It was an idea to sell to anyone who asks." />
 	<key id="0831175903000657" npc="Oh Le Mano" name='Who is who! Of course &lt;font color=&quot;#ffd200&quot;&gt;The stolen goods AVI&lt;/font&gt;Suckers!' />
 	<key id="0831175903000658" npc="Oh Le Mano" name='&quot;&lt;font color=&quot;#ffd200&quot;&gt;Can stolen goods seller in stuck, go to AVI&lt;/font&gt;&quot;&#x0A;I do not know the word?' />
 	<key id="0831175903000659" npc="Oh Le Mano" name="Try and keep to was saying." />
 	<key id="0831175903000660" npc="Oh Le Mano" name="But from then on it&#8217;s all starting to go wrong ..." />
-	<key id="0831175903000661" npc="Oh Le Mano" name='The stolen goods in AVI &lt;font color=&quot;#ffd200&quot;&gt;$map:02000141$&lt;/font&gt;$pp2:, As$ Entered as soon as &#x0A;Some bad guys cover me crazy ... &#x0A;The taken &lt;font color=&quot;#ffd200&quot;&gt;$item:30000016$&lt;/font&gt; TODO robbed barely out of the body&#x0A;Macmillan ... ' />
+	<key id="0831175903000661" npc="Oh Le Mano" name='The stolen goods in AVI &lt;font color=&quot;#ffd200&quot;&gt;$map:02000141$&lt;/font&gt;  Entered as soon as &#x0A;Some bad guys cover me crazy ... &#x0A;The taken &lt;font color=&quot;#ffd200&quot;&gt;$item:30000016$&lt;/font&gt; TODO robbed barely out of the body&#x0A;Macmillan ... ' />
 	<key id="0831175903000662" npc="Oh Le Mano" name='Since then I have the black crusade from &lt;font color=&quot;#ffd200&quot;&gt;Renegade&lt;/font&gt;Branded as stamped on the&#x0A;This compels us to look at was being kicked out of ...' />
 	<key id="0831175903000663" npc="Oh Le Mano" name='Black ... &lt;font color=&quot;#ffd200&quot;&gt;Dad&lt;/font&gt;… Now I want to see ... &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;Home&lt;/font&gt;… I want to go back to ... ' />
-	<key id="0831175903000664" npc="Oh Le Mano" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000016$&lt;/font&gt;If you find that you&#8217;re able to return home only ...&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000141$&lt;/font&gt;$pp2:, As$ Go to my &lt;font color=&quot;#ffd200&quot;&gt;$item:30000016$&lt;/font&gt;Be sure to get them to give back ... ' />
-	<key id="0831175903000665" npc="Oh Le Mano" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000141$&lt;/font&gt;$pp2:, As$ Go&#x0A;My &lt;font color=&quot;#ffd200&quot;&gt;$item:30000016$&lt;/font&gt;Be sure to get them to give back ... ' />
+	<key id="0831175903000664" npc="Oh Le Mano" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000016$&lt;/font&gt;If you find that you&#8217;re able to return home only ...&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000141$&lt;/font&gt;  Go to my &lt;font color=&quot;#ffd200&quot;&gt;$item:30000016$&lt;/font&gt;Be sure to get them to give back ... ' />
+	<key id="0831175903000665" npc="Oh Le Mano" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000141$&lt;/font&gt;  Go&#x0A;My &lt;font color=&quot;#ffd200&quot;&gt;$item:30000016$&lt;/font&gt;Be sure to get them to give back ... ' />
 	<key id="0831175903000666" npc="Oh Le Mano" name="Shhh, Shhh!&#x0A;We&#8217;ve seen that when ...?" />
 	<key id="0831175903000667" npc="Oh Le Mano" name="For example, say that you&#8217;ve never seen before." />
 	<key id="0831175903000668" npc="Oh Le Mano" name="See for the first time." />
@@ -679,12 +679,12 @@
 	<key id="0831175903000677" npc="Lu Chen" name="Strange ...?" />
 	<key id="0831175903000678" npc="Lu Chen" name='The 8th floor. &lt;font color=&quot;#ffd200&quot;&gt;8Floor&lt;/font&gt;!&#x0A;This would be another layer in the Golden Tower is did you try?' />
 	<key id="0831175903000679" npc="Lu Chen" name="Ask whether there is an entrance to another layer." />
-	<key id="0831175903000680" npc="Lu Chen" name='Go out of the building on the right side of the wrought iron staircase will appear.&#x0A;He dropped down the stairs &lt;font color=&quot;#ffd200&quot;&gt;$map:02000241$&lt;/font&gt;$pp2:, As$ Connected&#x0A;There will be a small door.' />
+	<key id="0831175903000680" npc="Lu Chen" name='Go out of the building on the right side of the wrought iron staircase will appear.&#x0A;He dropped down the stairs &lt;font color=&quot;#ffd200&quot;&gt;$map:02000241$&lt;/font&gt;  Connected&#x0A;There will be a small door.' />
 	<key id="0831175903000681" npc="Lu Chen" name='If you find the door! If you have the courage to tell you!&#x0A;Go down &lt;font color=&quot;#ffd200&quot;&gt;$item:30000016$&lt;/font&gt; I&#8217;m going to be able to look it up.' />
 	<key id="0831175903000682" npc="Lu Chen" name='True. &lt;font color=&quot;#ffd200&quot;&gt;One of the more&lt;/font&gt;.' />
 	<key id="0831175903000683" npc="Lu Chen" name='Stolen AVI please &lt;font color=&quot;#ffd200&quot;&gt;4Preferably&lt;/font&gt; Built around a mate.&#x0A;The stolen goods in the world of small and large forces disputing whether the AVI ...&#x0A;To survive among them naturally to assemble.' />
 	<key id="0831175903000684" npc="Lu Chen" name='If you want to you dealing with them would not go it alone, blindly&#x0A;Get your colleagues &lt;font color=&quot;#ffd200&quot;&gt;4People&lt;/font&gt;Acer &lt;font color=&quot;#ffd200&quot;&gt;Like 7 floors&lt;/font&gt; Let down &#x0A;Would be best.' />
-	<key id="0831175903000685" npc="Lu Chen" name='Go out of this building descend the stairs, right outer steel&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000241$&lt;/font&gt;$pp2:, As$ You can go to.&#x0A;Get your colleagues &lt;font color=&quot;#ffd200&quot;&gt;4People&lt;/font&gt;This &lt;font color=&quot;#ffd200&quot;&gt;With 7 floors&lt;/font&gt; Let down &#x0A;Would be best.' />
+	<key id="0831175903000685" npc="Lu Chen" name='Go out of this building descend the stairs, right outer steel&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000241$&lt;/font&gt;  You can go to.&#x0A;Get your colleagues &lt;font color=&quot;#ffd200&quot;&gt;4People&lt;/font&gt;This &lt;font color=&quot;#ffd200&quot;&gt;With 7 floors&lt;/font&gt; Let down &#x0A;Would be best.' />
 	<key id="0831175903000686" npc="Lu Chen" name='Also ... Are back! &lt;font color=&quot;#ffd200&quot;&gt;$item:30000016$&lt;/font&gt; Save?' />
 	<key id="0831175903000687" npc="Lu Chen" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000016$&lt;/font&gt; Hands.' />
 	<key id="0831175903000688" npc="Lu Chen" name='And ... Thank you so much!!&#x0A;Watch this &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000251$&lt;/font&gt;We are back ... Pray for forgiveness ...  ' />
@@ -893,7 +893,7 @@
 	<key id="0831175903000891" npc="Boy injured Kamil" name='Oh, too &lt;font color=&quot;#ffd200&quot;&gt;To kill&lt;/font&gt; Is there a law seems to be.&#x0A;$npc:11000832$Enjoy your stay in medicine from all submitted by &lt;font color=&quot;#ffd200&quot;&gt;Apart from the&lt;/font&gt;I was going to.' />
 	<key id="0831175903000892" npc="Boy injured Kamil" name='This &lt;font color=&quot;#ffd200&quot;&gt;About&lt;/font&gt;To get. I collapsed on the way the people in the &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;Treatment&lt;/font&gt;, The immediate &lt;font color=&quot;#ffd200&quot;&gt;Pain&lt;/font&gt;I&#8217;ll be the better.' />
 	<key id="0831175903000893" npc="Boy injured Kamil" name='&lt;font color=&quot;#ffd200&quot;&gt;$MyPCName$&lt;/font&gt;Ay, I &lt;font color=&quot;#ffd200&quot;&gt;Sigh&lt;/font&gt; After turning, the&#x0A;$npc:11000832$To see again the necessary &lt;font color=&quot;#ffd200&quot;&gt;Medications&lt;/font&gt;I&#8217;ll be snatching.' />
-	<key id="0831175903000894" npc="Boy injured Kamil" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000287$&lt;/font&gt;$pp2:, As$ Injured people &#x0A;Please treat. As of right now &lt;font color=&quot;#ffd200&quot;&gt;Pain&lt;/font&gt;I&#8217;ll be the better.' />
+	<key id="0831175903000894" npc="Boy injured Kamil" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000287$&lt;/font&gt;  Injured people &#x0A;Please treat. As of right now &lt;font color=&quot;#ffd200&quot;&gt;Pain&lt;/font&gt;I&#8217;ll be the better.' />
 	<key id="0831175903000895" npc="Boy injured Kamil" name="$item:30000287$ Everything she wrote." />
 	<key id="0831175903000896" npc="Boy injured Kamil" name="I am not anything." />
 	<key id="0831175903000897" npc="Boy injured Kamil" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000287$&lt;/font&gt;Has already done WID?&#x0A;Now I really didn&#8217;t regret ... In a hurry $npc:11000832$Dear &#x0A;Trip. ' />
@@ -1181,7 +1181,7 @@
 	<key id="0831175903001179" npc="Heavy rain-Jin" name="Has been up here trying to recall u guys ... Wrong, wrong.&#x0A;If you look at all the eyes can see. Already there is a slave of evil." />
 	<key id="0831175903001180" npc="Heavy rain-Jin" name="If you still don&#8217;t like wearing one, or I&#8217;ve been living under one roof, the child&#x0A;My why can&#8217;t my guys hand aid RA. .. " />
 	<key id="0831175903001181" npc="Heavy rain-Jin" name="You go to the Hall of evil make your section had them aid.&#x0A;Oh, so now the only enemy dragons, Blackwood, Shu chin books introduction to life were divided between [the USFK]. Huh ... " />
-	<key id="0831175903001182" npc="Heavy rain-Jin" name="Bad Hall drove to let them fix your section.&#x0A;Oh, now I $npc:21000312$, $npc:21000311$, $npc:21000310$$pp2:, As$ &#x0A;Had to call [the USFK]." />
+	<key id="0831175903001182" npc="Heavy rain-Jin" name="Bad Hall drove to let them fix your section.&#x0A;Oh, now I $npc:21000312$, $npc:21000311$, $npc:21000310$  &#x0A;Had to call [the USFK]." />
 	<key id="0831175903001183" npc="Heavy rain-Jin" name="This I also got enlightenment, bar, &#x0A;Today, in accordance with the exceptionally turbulent wind chest ache too." />
 	<key id="0831175903001184" npc="Heavy rain-Jin" name="As your eyes, I do not need the advice of Bo ineman,&#x0A;Do not always have the humility or pride. " />
 	<key id="0831175903001185" npc="Alicia" name="Air squats~ I look at things~ &#x0A;Just me this~~~How to let a whole bunch of?!" />
@@ -1339,8 +1339,8 @@
 	<key id="0831175903001337" npc="Matt" name="Oh, and I too had a lot to say. The problem is not that old.&#x0A;Still $map:02000276$In $npc:22000023$ It&#8217;s alive." />
 	<key id="0831175903001338" npc="Matt" name="$map:02000276$I thought it was an electrical fire due to leakage,&#x0A;It&#8217;s not that, it&#8217;s $npc:22000023$The treatment of this infallible." />
 	<key id="0831175903001339" npc="Matt" name="If you leave this as $map:02000276$ Of course&#x0A;Maybe $map:02000270$ The whole place could be in danger." />
-	<key id="0831175903001340" npc="Matt" name="$map:02000276$$pp2:, As$ Go $npc:22000023$ &#x0A;Aid me." />
-	<key id="0831175903001341" npc="Matt" name="$map:02000276$$pp2:, As$ Go $npc:22000023$ &#x0A;Aid me." />
+	<key id="0831175903001340" npc="Matt" name="$map:02000276$  Go $npc:22000023$ &#x0A;Aid me." />
+	<key id="0831175903001341" npc="Matt" name="$map:02000276$  Go $npc:22000023$ &#x0A;Aid me." />
 	<key id="0831175903001342" npc="Matt" name="This is how you should return the favor ... &#x0A;Thanks to you, now $map:02000276$Could be cleaned up a little." />
 	<key id="0831175903001343" npc="Lexington car" name="Gaegwaceonseon project is what ... &#x0A;At any rate, lots of time, money and a lot of good half are doing so each time &#x0A;Fritter should." />
 	<key id="0831175903001344" npc="Lexington car" name="No, unlike prisoners, prisoners. When the society &#x0A;Adaptation, just easier to snag &#x0A;Building Sin prisoner." />
@@ -1504,10 +1504,10 @@
 	<key id="0917194303001831" npc="Bar El" name='That&#8217;s what you mean ... Black ... Over time, I&#8217;m a little flower, grass&#x0A;Lost is coming to life, and portrays the black again &lt;font color=&quot;#ffd200&quot;&gt;: Instance&lt;/font&gt; Abandoned.' />
 	<key id="0917194303001832" npc="Bar El" name='Low~ He was away &lt;font color=&quot;#ffd200&quot;&gt;$map:02000023$&lt;/font&gt;As far as the letter directly, Dr. of &#x0A;I&#8217;ve been asked, by writing in the air &lt;font color=&quot;#ffd200&quot;&gt;Spore powder&lt;/font&gt;Is somewhere in the head &#x0A;Also the flowers affair seems so cedar.' />
 	<key id="0917194303001833" npc="Bar El" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000167$&lt;/font&gt;People look back to the old garden &#x0A;I&#8217;m glad when I got ... A sobbing ' />
-	<key id="0917194303001834" npc="Bar El" name='$MyPCName$Lord, please once again only &lt;font color=&quot;#ffd200&quot;&gt;$map:02000328$&lt;/font&gt;$pp2:, As$&#x0A;Please go check it out?' />
+	<key id="0917194303001834" npc="Bar El" name='$MyPCName$Lord, please once again only &lt;font color=&quot;#ffd200&quot;&gt;$map:02000328$&lt;/font&gt; &#x0A;Please go check it out?' />
 	<key id="0917194303001835" npc="Bar El" name='The garden again &lt;font color=&quot;#ffd200&quot;&gt;Closed&lt;/font&gt;Before it finally went to the uncle says that&#x0A;On the eve of an awful awful turned away &lt;font color=&quot;#ffd200&quot;&gt;Giant flowers&lt;/font&gt;Saw something ... ' />
 	<key id="0917194303001836" npc="Bar El" name='Well ... The name ... &#x0A;Ah! &lt;font color=&quot;#ffd200&quot;&gt;$npc:24001103$&lt;/font&gt;… That&#8217;s right, this should be the name.&#x0A;$npc:24001103$ Please, please get rid of it. Yes?' />
-	<key id="0917194303001837" npc="Bar El" name='Once again, but &lt;font color=&quot;#ffd200&quot;&gt;$map:02000328$&lt;/font&gt;$pp2:, As$ Go&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:24001103$&lt;/font&gt; Please get rid of it. Yes?' />
+	<key id="0917194303001837" npc="Bar El" name='Once again, but &lt;font color=&quot;#ffd200&quot;&gt;$map:02000328$&lt;/font&gt;  Go&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:24001103$&lt;/font&gt; Please get rid of it. Yes?' />
 	<key id="0917194303001838" npc="Bar El" name='Now really, really double back garden &lt;font color=&quot;#ffd200&quot;&gt;Pollution&lt;/font&gt;Become days &#x0A;Guess not ...? ' />
 	<key id="0917194303001839" npc="Bar El" name='I work hard today &lt;font color=&quot;#ffd200&quot;&gt;Plant&lt;/font&gt;About &lt;font color=&quot;#ffd200&quot;&gt;Study&lt;/font&gt;I think you do.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000167$&lt;/font&gt;Garden I&#8217;d keep!' />
 	<key id="0915214503001717" npc="Garderen" name='This is true ... Usually it is not. &#x0A;Now, because of their pile of workmen, &lt;font color=&quot;#ffd200&quot;&gt;Safety ply&lt;/font&gt; Get the bird &#x0A;, Working environment is increasingly &lt;font color=&quot;#ffd200&quot;&gt;The worst of it&lt;/font&gt;To ... ' />
@@ -1577,9 +1577,9 @@
 	<key id="0915214503001781" npc="Hugh Jo" name='Oh, did you?! &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$item:30000386$&lt;/font&gt; Were you looking for?' />
 	<key id="0915214503001782" npc="Hugh Jo" name="Have been looking for." />
 	<key id="0915214503001783" npc="Hugh Jo" name='Oh, glad it. I am so glad. &#x0A;Personnel at a later time, and once you are in a hurry &lt;font color=&quot;#ffd200&quot;&gt;Warehouse&lt;/font&gt;Seems to be going into a. ' />
-	<key id="0915214503001784" npc="" name='First of all &lt;font color=&quot;#ffd200&quot;&gt;$item:30000386$&lt;/font&gt;$pp2:, As$ Warehouse &lt;font color=&quot;#ffd200&quot;&gt;Open the door and&lt;/font&gt;,&#x0A;Trapped people &lt;font color=&quot;#ffd200&quot;&gt;To the rescue&lt;/font&gt;It is imperative that seems to be.' />
+	<key id="0915214503001784" npc="" name='First of all &lt;font color=&quot;#ffd200&quot;&gt;$item:30000386$&lt;/font&gt;  Warehouse &lt;font color=&quot;#ffd200&quot;&gt;Open the door and&lt;/font&gt;,&#x0A;Trapped people &lt;font color=&quot;#ffd200&quot;&gt;To the rescue&lt;/font&gt;It is imperative that seems to be.' />
 	<key id="0915214503001785" npc="" name='Men, did not eat anything for a while and all the people who are trapped &#x0A;It sounded dumb, &lt;font color=&quot;#ffd200&quot;&gt;Health&lt;/font&gt;This is a profoundly worrying.' />
-	<key id="0915214503001786" npc="" name='There is no time. &lt;font color=&quot;#ffd200&quot;&gt;$item:30000386$&lt;/font&gt;$pp2:, As$ Open the door to the warehouse,&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000330$&lt;/font&gt; Inside, people &lt;font color=&quot;#ffd200&quot;&gt;To the rescue&lt;/font&gt;Let me in.' />
+	<key id="0915214503001786" npc="" name='There is no time. &lt;font color=&quot;#ffd200&quot;&gt;$item:30000386$&lt;/font&gt;  Open the door to the warehouse,&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000330$&lt;/font&gt; Inside, people &lt;font color=&quot;#ffd200&quot;&gt;To the rescue&lt;/font&gt;Let me in.' />
 	<key id="0915214503001787" npc="" name='De, finally! The door opened! I lived! I have lived!&#x0A;Ladies and gentlemen, it is now &lt;font color=&quot;#ffd200&quot;&gt;Home&lt;/font&gt; You can go?~!' />
 	<key id="0915214503001788" npc="" name="Oh I don&#8217;t know what I have to say thanks.&#x0A;That would further weaken people exhausted up to this clenched true but ...&#x0A;In fact I managed to get the Vertigo was ...  " />
 	<key id="0915214503001789" npc="" name='The warm sunshine, cool breezes and balmy air ... All grip.&#x0A;Come on people, ugly slur &lt;font color=&quot;#ffd200&quot;&gt;Escape&lt;/font&gt;Uneventful. ' />

@@ -2,7 +2,7 @@
 <!-- Parsing this data used do not directly modify the -->
 <ms2>
 	<key id="21100001" name="(Account) Knight&#8217;s way" />
-	<key id="21100002" name="(The way of the account), University Communications" />
+	<key id="21100002" name="(The way of the account), Berserker" />
 	<key id="21100003" name="(Jadeuyi on the way the account)" />
 	<key id="21100004" name="(The way of the account), priest" />
 	<key id="21100005" name="(Account) Ranger&#8217;s road" />
@@ -10,7 +10,7 @@
 	<key id="21100007" name="(A way of shifting the account)" />
 	<key id="21100009" name="(Account) Assassin&#8217;s way" />
 	<key id="21100010" name="(Account) Knight master" />
-	<key id="21100011" name="(University Communications master account)" />
+	<key id="21100011" name="(Berserker master account)" />
 	<key id="21100012" name="(Account) on the master" />
 	<key id="21100013" name="(The Frist master account)" />
 	<key id="21100014" name="(Account) Ranger master" />

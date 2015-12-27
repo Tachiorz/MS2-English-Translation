@@ -330,14 +330,14 @@
 	<key id="10011301" name="$skill:10900041$ Skill" voiceID="" />
 	<key id="10011320" name="[[icon:epic_questcomplete]] $npcName:11001232$ To communicate" voiceID="" />
 	<key id="10011330" name="[[icon:epic_questaccept]] $npcName:11001232$ To communicate" voiceID="" />
-	<key id="10011340" name="$map:52000015$$pp2:, As$ Go to the" voiceID="" />
-	<key id="10011350" name="[[icon:portal]] Take a portal $map:52000015$$pp2:, As$ Go to the" voiceID="" />
+	<key id="10011340" name="$map:52000015$  Go to the" voiceID="" />
+	<key id="10011350" name="[[icon:portal]] Take a portal $map:52000015$  Go to the" voiceID="" />
 	<key id="10012010" name="[[icon:epic_questcomplete]] $npcName:11001233$ To communicate" voiceID="" />
 	<key id="10012020" name="[[icon:epic_questaccept]] $npcName:11001233$ To communicate" voiceID="" />
 	<key id="10012030" name="$npcName:11001229$ Go to find the" voiceID="" />
 	<key id="10012040" name="[[icon:epic_questcomplete]] $npcName:11001229$ To communicate" voiceID="" />
 	<key id="10012050" name="[[icon:epic_questaccept]] $npcName:11001229$ To communicate" voiceID="" />
-	<key id="10012051" name="$skill:10900001$$pp2:, As$ Enhanced skills to use" voiceID="" />
+	<key id="10012051" name="$skill:10900001$  Enhanced skills to use" voiceID="" />
 	<key id="10012052" name="$skill:10900001$" voiceID="" />
 	<key id="10012053" name="$skill:10900032$" voiceID="" />
 	<key id="10012054" name="$skill:10900042$" voiceID="" />
@@ -358,20 +358,20 @@
 	<key id="10013110" name="$npcName:11001234$ Go to find the" voiceID="" />
 	<key id="10013120" name="[[icon:epic_questcomplete]] $npcName:11001234$ To communicate" voiceID="" />
 	<key id="10013130" name="[[icon:epic_questaccept]] $npcName:11001234$ To communicate" voiceID="" />
-	<key id="10013140" name="$map:52000016$$pp2:, As$ Go to the" voiceID="" />
+	<key id="10013140" name="$map:52000016$  Go to the" voiceID="" />
 	<key id="10013150" name="[[icon:epic_questcomplete]] $npcName:11001230$ To communicate" voiceID="" />
 	<key id="10013160" name="[[icon:epic_questaccept]] $npcName:11001230$ To communicate" voiceID="" />
-	<key id="10013170" name="$map:63000013$$pp2:, As$ Heading to the search portal" voiceID="" />
-	<key id="10013180" name="Take a portal $map:63000013$$pp2:, As$ Go to the" voiceID="" />
+	<key id="10013170" name="$map:63000013$  Heading to the search portal" voiceID="" />
+	<key id="10013180" name="Take a portal $map:63000013$  Go to the" voiceID="" />
 	<key id="10014010" name="[[keyAction:totalAction]]Press the &lt; enter &gt; key to lifting hole rock" voiceID="" />
 	<key id="10014020" name="The point of rocks after the goal to carry [[keyAction:totalAction]]Press the &lt; enter &gt; key to drop down" voiceID="" />
 	<key id="10014030" name="To all the attention surrounding monsters" voiceID="" />
 	<key id="10014031" name="Lever to work" voiceID="" />
 	<key id="10014032" name="Go across the bridge" voiceID="" />
-	<key id="10014040" name="[[icon:portal]] Take a portal $map:63000012$$pp2:, As$ Go to the" voiceID="" />
+	<key id="10014040" name="[[icon:portal]] Take a portal $map:63000012$  Go to the" voiceID="" />
 	<key id="10015010" name="[[icon:epic_questcomplete]] $npc:11001257$ To communicate" voiceID="" />
 	<key id="10015020" name="[[icon:epic_questaccept]] $npc:11001257$ To communicate" voiceID="" />
-	<key id="10015030" name="$npc:11001257$ Dialogue $map:02000001$$pp2:, As$ Go to the" voiceID="" />
+	<key id="10015030" name="$npc:11001257$ Dialogue $map:02000001$  Go to the" voiceID="" />
 	<key id="10015040" name="[[icon:epic_questcomplete]] $npcName:11000390$ To communicate" voiceID="" />
 	<key id="20000010" name='[[keyAction:totalAction]]Press the &lt; enter &gt; key to holding the bomb &lt;font color=&quot;#00a2ed&quot;&gt;Monster&lt;/font&gt;Toss toward!' voiceID="" />
 	<key id="20000020" name='&lt;font color=&quot;#00a2ed&quot;&gt;Cannon&lt;/font&gt;Go to the [[keyAction:totalAction]]Press the &lt; enter &gt; key to launch!' voiceID="" />
