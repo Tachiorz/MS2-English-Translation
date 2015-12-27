@@ -27,33 +27,33 @@
 	<key id="s_err_system_graphic_error18" value="Does not support the graphics card. (Hardwareinstancing)" />
 
 	<!-- Moderators -->
-	<key id="s_admin_character_name" value="Moderators"/>
+	<key id="s_admin_character_name" value="Moderator"/>
 
    <!-- [Items related] -->
-   <key id="s_err_inventory" value="Please empty your belongings."/>
+   <key id="s_err_inventory" value="Please empty your inventory."/>
    <key id="s_err_inventory_tab_full" value="Belongings [{0}] Tab is empty."/>
    <key id="s_err_dropitem_pickfail_ownership" value="It&#8217;s not my items."/>
    <key id="s_msg_item_upgrade_disabled" value="There is one item which Chan it is impossible."/>
    <key id="s_msg_item_use_only_shadowcontinent" value="Shadow can only be used in the world."/>
    <key id="s_err_gender" value="You cannot use a different gender."/>
    <key id="s_word_item_notuse" value="Now it is not available."/>
-   <key id="s_word_item_notuse_hpfull" value="HPIs already full."/>
-   <key id="s_word_item_notuse_spfull" value="SPIs already full."/>
-   <key id="s_word_item_notuse_epfull" value="EPIs already full."/>
+   <key id="s_word_item_notuse_hpfull" value="Your HP is already full."/>
+   <key id="s_word_item_notuse_spfull" value="Your SP is already full."/>
+   <key id="s_word_item_notuse_epfull" value="Your EP is already full."/>
    <key id="s_item_err_use_low_level" value="Low levels are not available."/>
    <key id="s_item_invalid_function_item" value="The item is not available."/>
   
    <key id="s_err_job" value="Job-specific."/>
-   <key id="s_err_lack_meso" value="Not enough money." />
-   <key id="s_err_lack_merat" value="Merat is low." />
-   <key id="s_err_lack_payment_item" value="{0} Items lacking." />
-   <key id="s_err_lack_honor_token" value="The lack of a table of Valor." />
-   <key id="s_err_lack_karma_token" value="Karma is lacking." />
-   <key id="s_err_lack_lu_token" value="Lou&#8217;s lacking." />
-   <key id="s_err_lack_habi_token" value="Harvey." />
+   <key id="s_err_lack_meso" value="Insufficient Meso." />
+   <key id="s_err_lack_merat" value="Insufficient Merit." />
+   <key id="s_err_lack_payment_item" value="Insufficient {0} " />
+   <key id="s_err_lack_honor_token" value="Insufficient Honor Token." />
+   <key id="s_err_lack_karma_token" value="Insufficient Karma." />
+   <key id="s_err_lack_lu_token" value="Insufficient Lu." />
+   <key id="s_err_lack_habi_token" value="Insufficient Habi Token." />
 
    <key id="s_item_err_code" value="System error : Item (s). code = {0}"/> <!-- Pop up a notification message in the Central and-->
-   <key id="s_err_invalid_item" value="The item does not exist."/>
+   <key id="s_err_invalid_item" value="This item does not exist."/>
    <key id="s_err_lack_shopitem" value="The lack of stock."/>
    <key id="s_word_item_title_create" value="Discover the hidden ability to unleash the weapon&#8217;s seal."/>
    <key id="s_msg_item_upgrade_level" value="Level {0} Upgrade"/>
@@ -94,7 +94,7 @@
    <key id="s_err_job_debuff" value="You cannot use."/>
    <key id="s_err_job_guild" value="You must sign up for the Guild."/>
    <key id="s_err_job_unknown" value="If the condition is not available."/>
-   <key id="s_err_job_inventory_full" value="Belongings window {0}Khan."/>
+   <key id="s_err_job_inventory_full" value="Please empty {0} slots in your inventory."/>
 
 
    <!-- [Vote-by-mail] -->
@@ -120,7 +120,7 @@
    <key id="s_inventory_tab_equip" value="Equipment"/>
    <key id="s_inventory_tab_install" value="Construction"/>
    <key id="s_inventory_tab_etc" value="Other"/>
-     <key id="s_inventory_tab_ridee" value="Mounts"/>
+     <key id="s_inventory_tab_ridee" value="Mount"/>
 
 
 	   <!-- [Skill, fight] -->
@@ -339,12 +339,12 @@
 
 
   <!-- [Friends] -->
-	  <key id="s_buddy_alert_receive_request" value="I received a new friend requests."/>
+	  <key id="s_buddy_alert_receive_request" value="You've received a new friend request."/>
 
 	  <!-- [Party] -->
-	  <key id="s_party_leave_me" value="Withdrawal of a party."/>
+	  <key id="s_party_leave_me" value="has left the party."/>
 	  <key id="s_party_break" value="The party was disbanded."/>
-	  <key id="s_party_join_me" value="Join the party."/>
+	  <key id="s_party_join_me" value="Joined the party."/>
 	  <key id="s_party_expel_me" value="The expulsion from the party."/>
 	  <key id="s_party_join_someone" value="{0} Like to join the party."/>
 	  <key id="s_party_leave_someone" value="{0} By withdrawing the party."/>
@@ -436,15 +436,15 @@
 	  <key id="s_guild_search_accept_requested_member" value="{0} Join the Guild has accepted an application submitted by." />
 	  <key id="s_guild_search_reject_requested_member" value="{0} Join the Guild has declined the application submitted by." />
   
-	  <key id="s_guild_ui_offline_time_day" value="{0}Day (s) ago" />
-	  <key id="s_guild_ui_offline_time_hour" value="{0}Hour (s) ago" />
-	  <key id="s_guild_ui_offline_time_min" value="{0}2 minutes ago" />
+	  <key id="s_guild_ui_offline_time_day" value="{0} days ago" />
+	  <key id="s_guild_ui_offline_time_hour" value="{0} hours ago" />
+	  <key id="s_guild_ui_offline_time_min" value="{0} minutes ago" />
 	  <key id="s_guild_ui_offline_time_sec" value="A little while ago" />
 	  <key id="s_guild_ui_offline_unknown" value="Unknown" />
 	  <key id="s_guild_ui_offline" value="Offline {0}" />
 	  <key id="s_guild_ui_member_location" value="{0} Channel | {1}" />
 	  <key id="s_guild_ui_member_detail" value="Level {0} {1} | {2}" />
-	  <key id="s_guild_ui_invite_member" value="Please enter the name of the character you want to invite to the Guild." />
+	  <key id="s_guild_ui_invite_member" value="Please enter the name of the character you want to invite to the guild." />
 	  <key id="s_guild_ui_create" value="&lt;FONT color='#FFA200'&gt;Create a Guild name&lt;/FONT&gt;Please enter your.\nThe cost is &lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt;&lt;Img Src='export_common_icon_meso' vspace='-4'&gt;&lt;/Img&gt;.\n(10Characters and spaces are not allowed.)" />
 	  <key id="s_guild_ui_change_notify" value="Our Guild announcements." />
 	  <key id="s_guild_ui_extend_member" value="&lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt;&lt;Img Src='export_common_icon_meso' vspace='-4'&gt;&lt;/Img&gt;Using\nThe Guild up personnel &lt;FONT color='#FFA200'&gt;{1}&lt;/FONT&gt;Do you want to expand to?" />
@@ -537,10 +537,10 @@
 
   <!-- Messenger -->
 	<key id="s_err_cannot_find_user" value="You cannot send a whisper."/>
-    <key id="s_err_input_whisper_target" value="Please enter a destination to send a whisper."/>
+    <key id="s_err_input_whisper_target" value="Please enter your target to send a whisper."/>
 
   <!--[Acquisition]-->
-    <key id="s_msg_take_item" value="{0} Item (s)."/>
+    <key id="s_msg_take_item" value="Obtained: {0} Item (s)."/>
     <key id="s_msg_take_item_count" value="{0} Items {1}The dog has earned."/>
 	<key id="s_msg_take_exp" value="Experience {0} Has earned. "/>
 	<key id="s_msg_take_assist_bonus_exp" value="Bonus experience {0} Has earned. "/>
@@ -558,16 +558,16 @@
 
 
 	  <!-- [Party] -->
-	  <key id="s_msg_party_invite" value="{0} You are invited to the party.\nAre you sure you want to join the party?"/>
-	  <key id="s_msg_popup_time" value="Standby time {0}Seconds"/>
+	  <key id="s_msg_party_invite" value="{0} You are invited to a party.\nDo you want to join this party?"/>
+	  <key id="s_msg_popup_time" value="Standby time {0} seconds"/>
 	  <key id="s_party_err_code" value="System error : Party, code = {0}, {1}"/>
 	  <key id="s_party_err_not_exist" value="Invite to the party."/>
 	  <key id="s_party_err_target" value="Invite to the party."/>
 	  <key id="s_party_err_already" value="Already party."/>
 	  <key id="s_party_err_alreadyInvite" value="{0} You&#8217;ve already been asked to state a party."/>
 	  <key id="s_party_err_alreadyInvite_by_autojoin" value="{0} It is submitted by the other party responds to the request. Please try again after a while."/>
-	  <key id="s_party_err_not_chief" value="Patijangi."/>
-	  <key id="s_party_err_full" value="You have exceeded the maximum number of a party."/>
+	  <key id="s_party_err_not_chief" value="You are not the party leader."/>
+	  <key id="s_party_err_full" value="You cannot send an invite anymore because the party is full."/>
 	  <key id="s_party_err_myself" value="You cannot request to yourself."/>
       <key id="s_party_err_cannot_invite" value="Invite to the party."/>
 	  <key id="s_party_err_deny" value="{0} This party did not accept the invitation."/>
@@ -586,7 +586,7 @@
 	  <key id="s_party_err_wrong_recruit" value="Party recruitment information is not valid. Please refresh and try again." />
 
 	  <key id="s_whisper_err_myself" value="Unable to send a whisper to yourself."/>
-	  <key id="s_whisper_err_target" value="Is the wrong target." />
+	  <key id="s_whisper_err_target" value="Wrong target." />
 
 	  <!-- [Operators sanctions] -->
 	  <key id="s_admin_block_velma_notice" value="Velma&#8217;s judgment while being unable to do. Velma&#8217;s judgment is {0:04d}Years {1}- {2}Days {3:02d}: {4:02d}Min. {5:02d}Candles will last up to."/>
@@ -625,9 +625,9 @@
  <!-- Pop-up reminder OpenMessageBox The definitive phrases s-->
 
   	  <!-- [Friends] -->
-	  <key id="s_buddy_confirm_ban_somebody" value="{0} Are you sure you want to block him?"/>
-	  <key id="s_buddy_confirm_del_somebody_from_list" value="{0} Are you sure you want to delete from the list by friends?"/>
-	  <key id="s_buddy_confirm_del_somebody_from_banlist" value="{0} Are you sure you want to delete from the list of blocked him?"/>
+	  <key id="s_buddy_confirm_ban_somebody" value="Are you sure you want to block {0}?"/>
+	  <key id="s_buddy_confirm_del_somebody_from_list" value="Are you sure you want to delete {0} from your friends list?"/>
+	  <key id="s_buddy_confirm_del_somebody_from_banlist" value="Are you sure you want to delete {0} from your block list?"/>
 
 	  <!-- [Access] -->
 	  <key id="s_login_err_connect" value="You cannot connect.\n(code = {0})"/>
@@ -638,9 +638,9 @@
       <key id="s_msg_game_over" value="It&#8217;s really going to leave?"/>
 
 	  <!-- [Item (s)] -->
-	  <key id="s_item_err_drop" value="Can not throw away item."/>
+	  <key id="s_item_err_drop" value="You cannot discard this item."/>
 	  <key id="s_item_err_cannot_drop" value="Turn out to be destroyed.\nItems &lt;FONT color='#FFA200'&gt;All&lt;/FONT&gt; Are you sure you want to destroy?"/>
-	  <key id="s_item_err_cant_sell" value="Unable to sell the item."/>
+	  <key id="s_item_err_cant_sell" value="You cannot sell this item."/>
 	  <key id="s_skill_err_low_level" value="Low levels are not available."/>
 	  <key id="s_item_err_cash_putoff" value="First, the skin will take the items."/>
 	  <key id="s_item_err_invalid_count" value="The number of the item."/>
@@ -667,10 +667,10 @@
 	<key id="s_msg_cant_movechannel" value="Invalid channel number."/>
 	
 	<!-- Character gender change vol -->
-	<key id="s_change_gender_confirm" value="{0} Are you sure you want to change the sex of your character?"/>
+	<key id="s_change_gender_confirm" value="{0} Are you sure you want to change the gender of your character?"/>
 	<key id="s_change_gender_err_equip_items" value="Gender restricted equipment off."/>	
-	<key id="s_change_gender_result_success" value="Sex has been changed."/>	
-	<key id="s_change_gender_result_failed" value="An error occurred while changing the gender."/>	
+	<key id="s_change_gender_result_success" value="Your gender has been successfully changed."/>	
+	<key id="s_change_gender_result_failed" value="An error occurred while changing your gender."/>	
 
   <!-- [ugc Image registration] -->
 	  <key id="s_ugc_camera_profile_upload" value="Are you sure you want to register a profile picture taken?"/>
@@ -759,39 +759,39 @@
  	 <key id="s_msg_preparing" value="We are preparing."/>
 
 	 <!-- [Character creation, delete,] -->
-	 <key id="s_char_input_name" value="The character&#8217;s name.\n(Korean six-party, * you can enter up to 12 characters.)"/>
+	 <key id="s_char_input_name" value="Name your character.\n(You can enter up to 6 Hangul and 12 English characters.)"/>
 	 <key id="s_char_level_job" value="Level {0} {1}"/>
-	 <key id="s_char_delete_waiting" value="Delete pending {0}"/>
-	 <key id="s_char_ask_delete" value="&lt;FONT color='#FFD200'&gt;{0} &lt;/FONT&gt;Are you sure you want to delete the character?\nPlease enter the name of the character you want to delete."/>
+	 <key id="s_char_delete_waiting" value="{0} Pending Delete"/>
+	 <key id="s_char_ask_delete" value="&lt;FONT color='#FFD200'&gt;{0} &lt;/FONT&gt;Are you sure you want to delete this character?\nPlease enter the name of the character you want to delete."/>
 	 <key id="s_char_ask_delete_with_wait" value="&lt;FONT color='#FFD200'&gt;{0}Level&lt;/FONT&gt; Or more characters &lt;FONT color='#FFD200'&gt;{1}&lt;/FONT&gt;Of \nDelete, you can delete it after the wait time.\n&lt;FONT color='#FFD200'&gt;{2} &lt;/FONT&gt;Are you sure you want to delete the character?\nPlease enter the name of the character you want to delete."/>
 	 <key id="s_char_ask_delete_final" value="&lt;FONT color='#FFD200'&gt;{0} &lt;/FONT&gt;Are you sure you want to delete a character, really?\nWhen you delete a character cannot save information."/>
-	 <key id="s_char_ask_revival_char" value="&lt;FONT color='#FFD200'&gt;{0} &lt;/FONT&gt;Brings back the character?"/>
+	 <key id="s_char_ask_revival_char" value="&lt;FONT color='#FFD200'&gt;{0} &lt;/FONT&gt;Do you want to bring back your character?"/>
 	 <key id="s_char_err_input" value="Please enter at least 2 letters or more."/>
-	 <key id="s_char_err_delete_name" value="You mistyped the name of the character."/>
-  	 <key id="s_char_err_char_count" value="Character {0}You can create up to."/>
+	 <key id="s_char_err_delete_name" value="The character name you entered is incorrect."/>
+  	 <key id="s_char_err_char_count" value="You can create up to {0} characters."/>
 	 <key id="s_char_err_name" value="Please enter at least 2 letters or more."/>
-	 <key id="s_char_err_already_taken" value="The name is already in use."/>
-	 <key id="s_char_err_system" value="You cannot create a character and system failure."/>
-	 <key id="s_char_err_ban_all" value="This is the name that is not available."/>
-	 <key id="s_char_err_ban_any" value="You can use words ({0})Included."/>
+	 <key id="s_char_err_already_taken" value="This name is already in use."/>
+	 <key id="s_char_err_system" value="Due to a system error, your character cannot be created."/>
+	 <key id="s_char_err_ban_all" value="This name is unavailable."/>
+	 <key id="s_char_err_ban_any" value="({0}) contains a word that cannot be used."/>
 	 <key id="s_char_err_unknown" value="Error : Character creation disabled"/>
 	 <key id="s_char_err_exist_ugc_map" value="Real estate because it has at least one character must be present in your account."/> <!--Having real estate on my account will not be able to delete a character-->
-	 <key id="s_char_err_already_destroy" value="Already deleted character."/>
+	 <key id="s_char_err_already_destroy" value="This character has already been deleted."/>
 	 <key id="s_char_err_destroy" value="System error : Inability to delete a character code = {0}"/>
 	 <key id="s_char_err_invalid_def_item" value="The wrong gear."/>
-	 <key id="s_char_err_guild_master" value="Guild chapters cannot be deleted."/>
-	 <key id="s_char_err_guild" value="Join a Guild, you cannot delete a character."/>
-	 <key id="s_char_err_ugc_market" value="Designer&#8217;s shop in the item is registered, a character and cannot be deleted."/>
-	 <key id="s_char_err_unread_mail" value="You&#8217;ve got unread messages, you cannot delete a character."/>
-	 <key id="s_char_err_black_market_count" value="I&#8217;m a registered item on the black market, you cannot delete a character."/>
-	 <key id="s_char_err_no_destroy_wait" value="Delete it&#8217;s not a character waiting."/>
-	 <key id="s_char_err_cannot_select_destroy_wait" value="Delete I can&#8217;t connect to the game, the characters are waiting."/>
+	 <key id="s_char_err_guild_master" value="A guild master cannot be deleted."/>
+	 <key id="s_char_err_guild" value="You cannot delete a guild who is apart of a guild."/>
+	 <key id="s_char_err_ugc_market" value="You cannot delete a character who has items registered to the Designers Shop."/>
+	 <key id="s_char_err_unread_mail" value="You cannot delete a character with unread mail."/>
+	 <key id="s_char_err_black_market_count" value="You cannot delete a character who has items registered to the Black Market."/>
+	 <key id="s_char_err_no_destroy_wait" value="Your character is not waiting to be deleted."/>
+	 <key id="s_char_err_cannot_select_destroy_wait" value="A character waiting for deletion cannot access the game."/>
 
 	 <!-- [The character login] -->
 	 <key id="s_msg_admin_input_accountsn" value="Access accountsnPlease enter your."/>
 
 	<!--Beauty shop-->
-	<key id="s_beauty_skin_name" value="Skin change"/>
+	<key id="s_beauty_skin_name" value="Change Skin"/>
 	<key id="s_beauty_notice_hide_cap_by_transp_badge" value="Transparent cap badge and status."/>
 	<key id="s_beauty_msg_back_game_no_save" value="The changes to the &lt;FONT color='#FF5F5F'&gt;Do not save&lt;/FONT&gt;\nTo return to the game."/> <!--Beauty shop from going out during use, pop-->
 	<key id="s_beauty_msg_error_code" value="A system error has occurred. code = {0}\nTo return to the game."/>
@@ -2415,10 +2415,10 @@
   <key id="s_itemenchant_damaged_item_tooltip" value="&lt;FONT color='#FF4040'&gt;Equipment damage due to Chan Tran disabled&lt;/FONT&gt;"/>
   <key id="s_itemenchant_damaged_item" value="Damaged items."/>
   <key id="s_itemenchant_lack_ingredient" value="Materials are lacking."/>
-  <key id="s_itemenchant_fail_sec" value="Seconds"/>
-  <key id="s_itemenchant_fail_min" value="Min."/>
-  <key id="s_itemenchant_fail_hour" value="Time"/>
-  <key id="s_itemenchant_fail_day" value="Days"/>
+  <key id="s_itemenchant_fail_sec" value="s"/>
+  <key id="s_itemenchant_fail_min" value="m"/>
+  <key id="s_itemenchant_fail_hour" value="h"/>
+  <key id="s_itemenchant_fail_day" value="d"/>
   <key id="s_itemenchant_fail_duration" value="For Chan Tran disabled"/>
   <key id="s_itemenchant_return_item" value="Apple&#8217;s gift"/>
   <key id="s_itemenchant_cinematic_btn" value="To stop:ESC"/>
@@ -2433,13 +2433,13 @@
   
   <!--&lt;FONT color='#FFA200' size='13' &gt;          &lt;/FONT&gt;-->
   <!-- Common -->
-  <key id="s_common_sec" value="{0}Seconds"/>
-  <key id="s_common_min" value="{0}Min."/>
-  <key id="s_common_hour" value="{0}Time"/>
-  <key id="s_common_min_sec" value="{0}Min. {1}Seconds"/>
-  <key id="s_common_hour_min" value="{0}Time {1}Min."/>
+  <key id="s_common_sec" value="{0}s"/>
+  <key id="s_common_min" value="{0}m."/>
+  <key id="s_common_hour" value="{0}h"/>
+  <key id="s_common_min_sec" value="{0}m {1}s"/>
+  <key id="s_common_hour_min" value="{0}h {1}m"/>
   <key id="s_common_date_week" value="{0}- {1}({2})"/>
-  <key id="s_common_max_size" value="Max" />
+  <key id="s_common_max_size" value="Maximum" />
   <key id="s_common_min_size" value="Minimum" />
   <key id="s_common_text_count" value="Now" />
   <key id="s_common_set" value="{0} Set" />
@@ -2509,15 +2509,15 @@
 
   <!-- Quick slot registration prompts -->
   <key id="s_msg_shortcutkey_slot_full" value="Empty quick slot does not exist." />
-  <key id="s_msg_shortcutkey_error" value="Passive skills that cannot be registered on the quick slot." />
+  <key id="s_msg_shortcutkey_error" value="Passive skills cannot be registered to quick slots." />
 
   <!-- Souvenir ToolTip -->
-  <key id="s_bootypopup_buff_duration" value="Buff duration {0}Min." />
+  <key id="s_bootypopup_buff_duration" value="Buff Duration {0}m." />
 
   <!-- Dungeon entry / Find a party / Find a party registration -->
-  <key id="s_common_ui_dungeon_recommand_level" value="Recommended level {0}"/>
-  <key id="s_common_ui_dungeon_recommand_players" value="{0}Inn"/>
-  <key id="s_common_ui_dungeon_recommand_gear_score" value=" / Item scores {0}"/>
+  <key id="s_common_ui_dungeon_recommand_level" value="Recommended Level {0}"/>
+  <key id="s_common_ui_dungeon_recommand_players" value="{0}"/>
+  <key id="s_common_ui_dungeon_recommand_gear_score" value=" / Item Score {0}"/>
   
   <!-- Dungeon entry -->
   <key id="s_field_enteracne_dungeon_boss_tooltip" value="&lt;FONT color='#FFD200'&gt;{0}&lt;/FONT&gt;" />
@@ -2528,19 +2528,19 @@
   <key id="s_field_enteracne_party_status_level" value="Level limit" />
   <key id="s_field_enteracne_party_status_etc" value="Conditions the u.s. achieved" />
   <key id="s_field_enteracne_party_notify_enter_cheif" value="Before the entry was patijangi." />
-  <key id="s_field_enteracne_party_notify_reset_dungeon" value="Patijangi Dungeon was initialized." />
-  <key id="s_field_enteracne_find_party_cooldown" value="{0}After a few seconds, you can recruit a party again." />
+  <key id="s_field_enteracne_party_notify_reset_dungeon" value="The party leader has reset the dungeon." />
+  <key id="s_field_enteracne_find_party_cooldown" value="You can recruit a new party after {0} seconds." />
   <key id="s_field_enteracne_find_party_fullmember" value="The party won more than the recommended personnel cannot be recruited to the party." />
   <key id="s_field_enteracne_dungeon_enter_confirm" value="{2}&lt;FONT color='#FFA200'&gt;{0}:[{1}]&lt;/FONT&gt;Are you sure you want to enter?" />
   <key id="s_field_enteracne_dungeon_enter_warnning" value="&lt;FONT color='#FF5F5F'&gt;My character was alone before a position\nWe may not be able to invite other party circle position.\n&lt;/FONT&gt;" />
-  <key id="s_field_enterance_solo_status" value="My condition status"/>
-  <key id="s_field_enterance_party_status" value="The party won conditional status"/>
-  <key id="s_field_enteracne_reset_dungeon" value="Dungeons have been initialized." />
+  <key id="s_field_enterance_solo_status" value="My Condition"/>
+  <key id="s_field_enterance_party_status" value="Party Member Condition"/>
+  <key id="s_field_enteracne_reset_dungeon" value="The dungeon has been reset." />
   
-  <key id="s_dungeonRoom_cooldown_nextDay" value="(Day 0: initialization)" />
-  <key id="s_dungeonRoom_cooldown_dayOfWeeks" value="(Weekly {0} 0: Initialization)" />
+  <key id="s_dungeonRoom_cooldown_nextDay" value="(Resets daily at midnight)" />
+  <key id="s_dungeonRoom_cooldown_dayOfWeeks" value="(Resets weekly at {0} midnight)" />
   <key id="s_dungeonRoom_notify_nonReward" value="This exceeds the number of the compensation obtained by a Dungeon anymore, compensation will not be paid." />
-  <key id="s_dungeonRoom_enterButton_enter" value="Entry to" />
+  <key id="s_dungeonRoom_enterButton_enter" value="Enter" />
   <key id="s_dungeonRoom_enterButton_already_enter" value="Open to the Dungeon entrance" />
 
   <!-- When you shut down the server and game server connection Center for emergency maintenance -->
@@ -2766,16 +2766,16 @@
   <key id="s_messenger_comfirm_chat_world" value="The world would have a conversation?\n {0}&lt;Img Src='export_common_icon_merat' vspace='-4'/&gt; This is consumed.\n"/>
   <key id="s_messenger_comfirm_chat_channel" value="Channels send a conversation?\n {0}&lt;Img Src='export_common_icon_merat' vspace='-4'/&gt;This is consumed.\n"/>
   <key id="s_messenger_no_show_messagebox" value="Do not show again"/>
-  <key id="s_messenger_whisper" value="/A whisper"/>
-  <key id="s_messenger_party_chatballoon_prefix" value="&lt;FONT color='#8CAFFF'&gt;[Party conversation]&lt;/font&gt;\n"/>
-  <key id="s_messenger_guild_chatballoon_prefix" value="&lt;FONT color='#FF8ADF'&gt;[Guild dialog]&lt;/font&gt;\n"/>
+  <key id="s_messenger_whisper" value="/whisper"/>
+  <key id="s_messenger_party_chatballoon_prefix" value="&lt;FONT color='#8CAFFF'&gt;[Party]&lt;/font&gt;\n"/>
+  <key id="s_messenger_guild_chatballoon_prefix" value="&lt;FONT color='#FF8ADF'&gt;[Guild]&lt;/font&gt;\n"/>
   
-  <key id="s_gem_error_inventory_full" value="Belongings are full. Please empty your belongings."/>
+  <key id="s_gem_error_inventory_full" value="Your inventory is full."/>
   <key id="s_gem_error_InvalidSlot" value="Invalid slot."/>
-  <key id="s_gem_error_InvalidItem" value="The item is not valid."/>
-  <key id="s_gem_error_Expired" value="Expired items."/>
+  <key id="s_gem_error_InvalidItem" value="Invalid item."/>
+  <key id="s_gem_error_Expired" value="Expired item."/>
   <key id="s_gem_error_PCBang" value="PCRoom only."/>
-  <key id="s_gem_error_unknown" value="System error."/>
+  <key id="s_gem_error_unknown" value="System Error."/>
 
   <key id="s_room_exit_ugc_indoor" value="Get out of the House"/>
   <key id="s_room_exit_boss_dungeon" value="Out in the Dunne"/>
@@ -2812,8 +2812,8 @@
   <key id="s_alreadyloginuser_request_kick" value="Access to the game on a different computer.\nThe current connection will be terminated."/>
   <key id="s_alreadyloginuser_response_kick" value="Access to the game on a different computer I&#8217;ve had to shut down the existing connection. Please try the connection again. \nTry repeatedly to access does not work \n5Minutes later, try again or contact customer service."/>
 
-  <key id="s_pcbang_play_time1" value="{0}Time {1}Minutes access"/>
-  <key id="s_pcbang_play_time2" value="{0}Minutes access"/>
+  <key id="s_pcbang_play_time1" value="{0}h {1}m access"/>
+  <key id="s_pcbang_play_time2" value="{0}m access"/>
   <key id="s_pcbang_cant_tutorial_field" value="You can receive after the end of the tutorial."/>
   <key id="s_pcbang_no_pcbang" value="NEXON PCYou can only get out of the room."/>
   <key id="s_pcbang_get_gift_item" value="PCRoom-only items."/>
@@ -2822,18 +2822,18 @@
 
   <key id="s_play_warnning" value="&lt;FONT color='#FF5F5F'&gt;Game time {0}Time lapse.\nExcessive use of normal everyday life interfere with the game.&lt;/FONT&gt;"/>
 
-  <key id="s_nametag_symbol_none" value="Mark n"/>
-  <key id="s_nametag_symbol_enchant" value="Power CHAN-"/>
+  <key id="s_nametag_symbol_none" value="No Mark"/>
+  <key id="s_nametag_symbol_enchant" value="Power Enchanter"/>
   <key id="s_nametag_symbol_seller" value="Top Designer"/>
-  <key id="s_nametag_symbol_guild" value="A true champion"/>
-  <key id="s_nametag_symbol_architect" value="Star architects"/>
-  <key id="s_nametag_symbol_trophy" value="Trophy mania"/>
+  <key id="s_nametag_symbol_guild" value="True Champion"/>
+  <key id="s_nametag_symbol_architect" value="Star Architect"/>
+  <key id="s_nametag_symbol_trophy" value="Trophy Mania"/>
 
-  <key id="s_nametag_symbol_enchant_desc" value="+12 Show more new equipment mounting"/>
-  <key id="s_nametag_symbol_seller_desc" value="Top designers show: title"/>
-  <key id="s_nametag_symbol_guild_desc" value="Displays the true champion title:"/>
-  <key id="s_nametag_symbol_architect_desc" value="Star architect obtained the title of show"/>
-  <key id="s_nametag_symbol_trophy_desc" value="[Trophy mania] After achieving the title of acquisition the trophy display"/>
+  <key id="s_nametag_symbol_enchant_desc" value="Displays when equipping an Excellent +12 or higher equipment"/>
+  <key id="s_nametag_symbol_seller_desc" value="Displays when obtaining the Top Designer title"/>
+  <key id="s_nametag_symbol_guild_desc" value="Displays when obtaining the True Champion title"/>
+  <key id="s_nametag_symbol_architect_desc" value="Displays when obtaining the Star Architect title"/>
+  <key id="s_nametag_symbol_trophy_desc" value="Displays after obtaining the [Trophy mania] trophy award"/>
   
   <key id="s_attend_play_gift_slot" value="{0}\n{1}Access time:"/>
   <key id="s_attend_play_gift_received" value="Mailing complete : Today I received all of the gifts you can receive."/>
@@ -2996,9 +2996,9 @@
 
   <!-- world name -->
   <key id="s_server_name_scania" value="Scania"/>
-  <key id="s_server_name_mardia" value="Mar DIA"/>
-  <key id="s_server_name_hasello" value="Into the cell to"/>
-  <key id="s_server_name_windia" value="Win-DIA"/>
+  <key id="s_server_name_mardia" value="Mardia"/>
+  <key id="s_server_name_hasello" value="Hacello"/>
+  <key id="s_server_name_windia" value="Windia"/>
   <key id="s_server_name_flata" value="Fleta"/>
   
   <!-- Inn Chen Trois scroll -->
