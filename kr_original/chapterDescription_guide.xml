@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<chapter id="9000" name="무직은 이제 그만" isTutorial="" regionID="" />
+	<chapter id="9001" name="예뻐지려면 노력이 필요해" isTutorial="" regionID="" />
+	<chapter id="9002" name="그녀가 믿는 구석" isTutorial="" regionID="" />
+	<chapter id="9003" name="공용금고를 사용하는 방법" isTutorial="" regionID="" />
+	<chapter id="9004" name="갈라져버린 땅" isTutorial="" regionID="" />
+	<chapter id="9005" name="알현식 준비" isTutorial="" regionID="" />
+	<chapter id="9006" name="골두스 건설의 특별 프로모션" isTutorial="" regionID="" />
+	<chapter id="9007" name="강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9008" name="강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9009" name="강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9010" name="강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9011" name="강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9012" name="강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9013" name="강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9014" name="강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9018" name="달콤 향긋한 꿀!" isTutorial="1" regionID="" />
+	<chapter id="9019" name="도와줘요!!!" isTutorial="1" regionID="" />
+	<chapter id="9020" name="더욱 강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9021" name="더욱 강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9022" name="더욱 강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9023" name="더욱 강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9024" name="더욱 강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9025" name="더욱 강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9026" name="더욱 강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9027" name="더욱 강해지는 방법" isTutorial="" regionID="" />
+	<chapter id="9030" name="첫 번째 임무" isTutorial="" regionID="" />
+	<chapter id="9031" name="첫 번째 임무" isTutorial="" regionID="" />
+	<chapter id="9032" name="첫 번째 임무" isTutorial="" regionID="" />
+	<chapter id="9033" name="첫 번째 임무" isTutorial="" regionID="" />
+	<chapter id="9034" name="첫 번째 임무" isTutorial="" regionID="" />
+	<chapter id="9035" name="첫 번째 임무" isTutorial="" regionID="" />
+	<chapter id="9036" name="첫 번째 임무" isTutorial="" regionID="" />
+	<chapter id="9037" name="첫 번째 임무" isTutorial="" regionID="" />
+	<chapter id="9038" name="그루브를 느껴봐!" isTutorial="" regionID="" />
+	<chapter id="9039" name="쉐도우 월드로" isTutorial="" regionID="" />
+	<chapter id="9040" name="드림네이즈 특별 이벤트" isTutorial="" regionID="" />
+	<chapter id="9041" name="오닉스 수집가" isTutorial="" regionID="" />
+	<chapter id="9042" name="칼리브의 변절자" isTutorial="1" regionID="" />
+	<chapter id="9043" name="새로운 땅으로" isTutorial="" regionID="" />
+</ms2>

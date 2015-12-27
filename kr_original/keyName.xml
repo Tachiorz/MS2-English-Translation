@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <key id="200001" name="위"/>
+  <key id="200002" name="아래"/>
+  <key id="200003" name="왼쪽"/>
+  <key id="200004" name="오른쪽"/>
+  
+  <key id="300001" name="점프"/>
+  <key id="300002" name="액션"/>
+  <key id="300003" name="줍기"/>
+  <key id="300004" name="앉기"/>
+  <key id="300005" name="기어가기"/>
+  <key id="300006" name="달리기"/>
+  <key id="300007" name="채팅"/>
+  <key id="300008" name="줌인"/>
+  <key id="300009" name="줌아웃"/>
+  <key id="300010" name="걷기"/>
+  <key id="300013" name="건설"/>
+  <key id="300014" name="다음 트리거"/>
+  <key id="300015" name="스크린샷"/>
+  <key id="300016" name="올라타기"/>
+  <key id="300017" name="피팅돌 1"/>
+  <key id="300018" name="피팅돌 2"/>
+  <key id="300019" name="피팅돌 3"/>
+  <key id="300020" name="피팅돌 4"/>
+  <key id="300021" name="피팅돌 5"/>  
+  <key id="300022" name="카메라각도변경"/>
+  <key id="300033" name="기본 공격"/>
+  <key id="300034" name="붙잡기"/>
+  <key id="300035" name="귀환"/>
+  <key id="300036" name="UI숨기기"/>
+  <key id="300037" name="귓속말"/>
+  <key id="300038" name="아이템 미리보기"/>
+  <key id="300039" name="미니맵 확대"/>
+
+  <key id="400001" name="소지품"/>
+  <key id="400002" name="캐릭터"/>
+  <key id="400005" name="스킬"/>
+  <key id="400006" name="월드맵"/>
+  <key id="400007" name="퀘스트"/>
+  <key id="400008" name="프로필 카메라"/>
+  <key id="400009" name="트로피"/>
+  <key id="400010" name="뷰티숍"/>
+  <key id="400011" name="아이템 편집"/>
+  <key id="400012" name="커뮤니티"/>
+  <key id="400013" name="우편"/>
+  <key id="400014" name="길드"/>
+  <key id="400015" name="메이뷰"/>
+  <key id="400016" name="마켓"/>
+  <key id="400017" name="캐시샵"/>
+  <key id="400018" name="파티 찾기"/>
+  <key id="400019" name="메이드 제작 상황"/>
+  <key id="400020" name="개인 전투장"/>
+ 
+  <key id="500001" name="퀵슬롯 1"/>
+  <key id="500002" name="퀵슬롯 2"/>
+  <key id="500003" name="퀵슬롯 3"/>
+  <key id="500004" name="퀵슬롯 4"/>
+  <key id="500005" name="퀵슬롯 5"/>
+  <key id="500006" name="퀵슬롯 6"/>
+  <key id="500007" name="퀵슬롯 7"/>
+  <key id="500008" name="퀵슬롯 8"/>
+  <key id="500009" name="퀵슬롯 9"/>
+  <key id="500010" name="퀵슬롯 10"/>
+  <key id="500011" name="퀵슬롯 11"/>
+  <key id="500012" name="퀵슬롯 12"/>
+  <key id="500013" name="퀵슬롯 13"/>
+  <key id="500014" name="퀵슬롯 14"/>
+  <key id="500015" name="퀵슬롯 15"/>
+  <key id="500016" name="퀵슬롯 16"/>
+  <key id="500017" name="퀵슬롯 17"/>
+  <key id="500018" name="퀵슬롯 18"/>
+  <key id="500019" name="퀵슬롯 19"/>
+  <key id="500020" name="퀵슬롯 20"/>
+  <key id="500021" name="퀵슬롯 21"/>
+  <key id="500022" name="퀵슬롯 22"/>
+
+  <key id="600001" name="MODE"/>
+
+ </ms2>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<quest questID="90000000" name="새로운 길" desc="$map:02000001$의 $npc:11000160$ 뒤쪽에 있는 커다란 문으로 들어가면 $map:02000188$$pp2:로,으로$ 연결된다. 그곳에 모여 있는 많은 방문객들 중 내가 원하는 직업의 길을 이미 걷고 있는 이들을 찾아가서 전직을 해보자." manual="$map:02000001$에 있는 $map:02000188$$pp2:로,으로$ 가서 전직하기" complete="" count="0" />
+	<quest questID="90000010" name="스타일 체인지!" desc="$map:02000001$에서 광고 전단을 나눠주는 아르바이트생 $npc:11000373$에게 $map:02000107$에 관한 정보를 들었다.&#x0A;$map:02000107$$pp2:로,으로$ 가서 $npc:11000462$$pp:를,을$ 만나 스타일을 바꿀 수 있는 방법을 더 자세하게 알아봐야겠다." manual="" complete="$map:02000107$에서 $npc:11000462$ 만나기" count="" />
+	<quest questID="90000020" name="철 없는 아가씨" desc="$map:02000107$에서 만난 $npc:11000154$$pp:는,은$ 방금 뷰티샵에서 바꾼 헤어스타일이 마음에 들지 않아 다시 해야겠다며, 오빠 $npc:11000331$에게 돈을 들고 $map:52000008$$pp2:로,으로$ 오라고 전해 달라는 부탁을 해왔다.&#x0A;꽤나 마음이 조급한 모양인지 $map:02000001$까지 택시를 타고 가라는데… 그녀의 말대로 택시를 불러서 타고 가볼까?" manual="" complete="$map:02000001$에서 $npc:11000331$ 만나기" count="" />
+	<quest questID="90000030" name="소중한 물건은 금고에" desc="$npc:11000325$의 부탁대로 $npc:11000011$에게 가서 $npcName:11000325$의 반지를 잘 보관하고 있는지 물어보자! $npc:11000011$$pp:는,은$  $map:02000034$에 있다." manual="" complete="$map:02000001$ $map:02000034$에서 $npc:11000011$ 만나기" count="" />
+	<quest questID="90000040" name="엄청난 지진의 여파" desc="지진의 여파가 정말 엄청난 것 같다. 대체 땅이 얼마나 깊게 갈라진 것인지 $npc:11000112$ 옆에 있는 망원경으로 살펴보자." manual="" complete="$map:02000115$를 망원경으로 살펴보고 $npc:11000112$와 이야기하기 " count="" />
+	<quest questID="90000050" name="음식에 필요한 재료" desc="알현식 연회 음식 재료로 사용할 닭고기가 절벽 아래로 떨어져버렸다고 한다. 절벽 아래로 내려가 $item:20000063$$pp:를,을$ 가지고 오자. &#x0A;절벽을 오르내릴 때 $skill:20000011$ 스킬을 활용하면 훨씬 쉽게 가지고 올 수 있을 것 같다." manual="$npc:11000159$ 뒤편의 솟아오른 땅에서 $item:20000063$ 찾아오기" complete="$map:02000118$에서 $npc:11000159$ 만나기" count="1" />
+	<quest questID="90000060" name="럭셔리 아파트 모델하우스" desc="골두스 건설과 $map:02000123$$pp:가,이$ 제휴 기념으로 프로모션을 준비했다고 한다. 최고급만을 추구하는 골두스 건설에서 이번에 새로 짓는 럭셔리 아파트가 있는데 그 모델 하우스를 하루 동안 이용할 수 있는 쿠폰을 준다는 것! &#x0A;이런 황금 같은 기회를 놓칠 순 없지! &#x0A;어서 $map:02000001$에 있는 $map:02000123$$pp2:로,으로$ 가서 $npc:11000600$$pp:를,을$ 만나 봐야겠다!" manual="" complete="$map:02000001$에 있는 $map:02000123$에서 $npc:11000600$ 만나기" count="" />
+	<quest questID="90000070" name="빛나는 크리스탈" desc="나이트 전직 교관인 $npc:11000040$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000080" name="빛나는 크리스탈" desc="버서커 전직 교관인 $npc:11000041$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000090" name="빛나는 크리스탈" desc="위자드 전직 교관인 $npc:11000042$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000100" name="빛나는 크리스탈" desc="프리스트 전직 교관인 $npc:11000043$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000110" name="빛나는 크리스탈" desc="레인저 전직 교관인 $npc:11000045$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000120" name="빛나는 크리스탈" desc="헤비거너 전직 교관인 $npc:11000046$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000130" name="빛나는 크리스탈" desc="시프 전직 교관인 $npc:11000050$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000140" name="빛나는 크리스탈" desc="어쌔신 전직 교관인 $npc:11000051$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000180" name="꽃가루 알레르기" desc="꽃가루 알레르기에는 $item:30000125$$pp:가,이$ 즉효라는데 정작 $npc:11000408$$pp:는,은$ 알레르기 때문에 꿀을 딸 수가 없다고 한다. 아무래도 아저씨를 도와주고 가야겠다.&#x0A;어서 들꽃에서 $item:30000125$$pp:를,을$ 따오자." manual="" complete="" count="" />
+	<quest questID="90000190" name="도움!" desc="$npc:99000041$때문에 이곳 오솔길이 위험해졌다고 한다. $npc:11000409$$pp:를,을$ 도와 $npc:99000041$$pp:를,을$ 처치하자." manual="" complete="" count="" />
+	<quest questID="90000191" name="안전통행" desc="$npc:11000409$$pp:는,은$ 혼자 있을 $npc:11000410$$pp:를,을$ 걱정하고 있다. 어서 포털을 타고 $map:63000010$$pp2:로,으로$ 가서 $npc:11000410$$pp:가,이$ 어디 있는지 찾아보자." manual="" complete="" count="" />
+	<quest questID="90000192" name="돼지를 막아야 되지" desc="오솔길을 안전하게 하기 위해 노력하고 있는 $npc:11000410$. 어서 $npc:11000410$$pp:를,을$ 도와 $npc:99000042$$pp:를,을$ 처치하자. 스킬을 사용하면 더욱 쉽게 처치할 수 있을 것 같다!" manual="" complete="" count="" />
+	<quest questID="90000200" name="강한 자가 더 강해지려면?" desc="나이트 전직 교관인 $npc:11000040$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000210" name="강한 자가 더 강해지려면?" desc="버서커 전직 교관인 $npc:11000041$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000220" name="강한 자가 더 강해지려면?" desc="위자드 전직 교관인 $npc:11000042$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000230" name="강한 자가 더 강해지려면?" desc="프리스트 전직 교관인 $npc:11000043$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000240" name="강한 자가 더 강해지려면?" desc="레인저 전직 교관인 $npc:11000045$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000250" name="강한 자가 더 강해지려면?" desc="헤비거너 전직 교관인 $npc:11000046$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000260" name="강한 자가 더 강해지려면?" desc="시프 전직 교관인 $npc:11000050$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000270" name="강한 자가 더 강해지려면?" desc="어쌔신 전직 교관인 $npc:11000051$$pp:가,이$ 나에게 더 강해지는 방법을 알려주겠다고 한다.&#x0A;" manual="" complete="" count="" />
+	<quest questID="90000280" name="회오리 검술" desc="스킬창을 열어 새로 배운 스킬인 $skill:10100011$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10100011$$pp:를,을$ 사용해보자." manual="토네이도 슬래쉬 사용하기" complete="" count="1" />
+	<quest questID="90000281" name="허공을 가르는 칼날" desc="스킬창을 열어 새로 배운 스킬인 $skill:10100001$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10100001$$pp:를,을$ 사용해보자." manual="$skill:10100001$ 사용하기" complete="" count="1" />
+	<quest questID="90000290" name="모두 쓸어버려" desc="스킬창을 열어 새로 배운 스킬인 $skill:10200011$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10200011$$pp:를,을$ 사용해보자." manual="$skill:10200011$ 사용하기" complete="" count="1" />
+	<quest questID="90000291" name="분노의 일격" desc="스킬창을 열어 새로 배운 스킬인 $skill:10200001$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10200001$$pp:를,을$ 사용해보자." manual="$skill:10200001$ 사용하기" complete="" count="1" />
+	<quest questID="90000300" name="몰아치는 번개" desc="스킬창을 열어 새로 배운 스킬인 $skill:10300031$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10300031$$pp:를,을$ 사용해보자." manual="$skill:10300031$ 사용하기" complete="" count="1" />
+	<quest questID="90000301" name="성난 발톱" desc="스킬창을 열어 새로 배운 스킬인 $skill:10300001$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10300001$$pp:를,을$ 사용해보자." manual="$skill:10300001$ 사용하기" complete="" count="1" />
+	<quest questID="90000310" name="폭발하는 빛" desc="스킬창을 열어 새로 배운 스킬인 $skill:10400011$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10400011$$pp:를,을$ 사용해보자." manual="$skill:10400011$ 사용하기" complete="" count="1" />
+	<quest questID="90000311" name="신성한 빛" desc="스킬창을 열어 새로 배운 스킬인 $skill:10400001$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10400001$$pp:를,을$ 사용해보자." manual="$skill:10400001$ 사용하기" complete="" count="1" />
+	<quest questID="90000320" name="바람을 가르는 화살" desc="스킬창을 열어 새로 배운 스킬인 $skill:10500011$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10500011$$pp:를,을$ 사용해보자." manual="$skill:10500011$ 사용하기" complete="" count="1" />
+	<quest questID="90000321" name="벌처럼 쏴라!" desc="스킬창을 열어 새로 배운 스킬인 $skill:10500001$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10500001$$pp:를,을$ 사용해보자." manual="$skill:10500001$ 사용하기" complete="" count="1" />
+	<quest questID="90000330" name="화끈한 화염" desc="스킬창을 열어 새로 배운 스킬인 $skill:10600021$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10600021$$pp:를,을$ 사용해보자." manual="$skill:10600021$ 사용하기" complete="" count="1" />
+	<quest questID="90000331" name="속사포 캐논" desc="스킬창을 열어 새로 배운 스킬인 $skill:10600001$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10600001$$pp:를,을$ 사용해보자." manual="$skill:10600001$ 사용하기" complete="" count="1" />
+	<quest questID="90000340" name="독술의 기초" desc="스킬창을 열어 새로 배운 스킬인 $skill:10700011$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10700011$$pp:를,을$ 사용해보자." manual="$skill:10700011$ 사용하기" complete="" count="1" />
+	<quest questID="90000341" name="빛보다 빠르게" desc="스킬창을 열어 새로 배운 스킬인 $skill:10700001$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10700001$$pp:를,을$ 사용해보자." manual="$skill:10700001$ 사용하기" complete="" count="1" />
+	<quest questID="90000350" name="흩뿌려진 표창" desc="스킬창을 열어 새로 배운 스킬인 $skill:10800021$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10800021$$pp:를,을$ 사용해보자." manual="$skill:10800021$ 사용하기" complete="" count="1" />
+	<quest questID="90000351" name="표창의 반전" desc="스킬창을 열어 새로 배운 스킬인 $skill:10800001$$pp:를,을$ 퀵슬롯에 장착한 뒤, $skill:10800001$$pp:를,을$ 사용해보자." manual="$skill:10800001$ 사용하기" complete="" count="1" />
+	<quest questID="90000360" name="둠칫 두둠칫!" desc="$npc:11000324$$pp:가,이$ 알려준 대로 채팅 입력창 옆에 있는 다이나믹 액션 버튼을 눌러 원하는 감정 표현을 아무것이나 클릭해보자." manual="" complete="" count="" />
+	<quest questID="90000370" name="빚의 굴레" desc="$npc:11000609$$pp:는,은$ 흑성회와 비밀리에 $item:20000046$$pp:를,을$ 거래하던 레이먼의 심부름꾼이었다. &#x0A;그러던 어느 날, 레이먼이 $item:20000046$ 대금을 흑성회에 지급하지 않은 채 흔적도 없이 사라져 버렸고, 모든 빚을 대신 뒤집어쓰게 되었다. &#x0A;흑성회에 쫓기던 $npcName:11000609$$pp:는,은$ 평소 잘 알고 지내던 흑성회 $npc:11000610$에게 사정을 설명하고 레이먼을 찾을 때까지 대금 지급을 미뤄달라고 부탁하려 한다.&#x0A;하지만 $npcName:11000609$$pp:가,이$ 직접 쉐도우 월드로 내려가면 사정 설명을 하기도 전에 당장 끌려갈 판이니 내가 대신 쉐도우 월드로 가서 $npcName:11000610$$pp:를,을$ 만나 그의 딱한 사정을 얘기해봐야겠다." manual="" complete="그림자 비석에 적힌 설명을 읽고 쉐도우 월드에 있는 $map:03000014$$pp2:로,으로$ 가서 $npc:11000610$ 만나기" count="" />
+	<quest questID="90000371" name="위험한 노동" desc="흑성회에는 봐주는 것 따윈 없다고 딱 잘라 말해버리는 $npc:11000610$. 야박하기 짝이 없다.&#x0A;게다가 땅끝까지라도 쫓아가 $npc:11000609$$pp:를,을$ 끌고 올거라고 말하는 걸 보니 역시 보통 나쁜 놈들이 아닌 것 같다.&#x0A;불쌍한 $npc:11000609$$pp:를,을$ 대신해 $item:20000102$$pp:를,을$ 구해봐야겠다." manual="$map:03000014$에 있는 빠두란 독초에서 $item:20000102$ 따기" complete="$map:03000014$에서 $npc:11000610$ 만나기" count="1" />
+	<quest questID="90000372" name="떠돌이 원혼" desc="$npc:11000610$$pp:는,은$ 이 정도론 빚을 탕감해줄 수 없다며 더 어려운 것을 요구해왔다. $map:03000014$의 어둠 속에서 눈을 번뜩이며 광기를 내뿜는 괴수들을 처치하고 $item:30000331$$pp:를,을$ 찾아서 오라는 것!&#x0A;$npc:11000609$의 빚을 탕감해주기 위해서는 선택의 여지가 없을 것 같다. &#x0A;$map:03000014$의 몬스터를 처치하고 $item:30000331$$pp:를,을$ 찾아보자!" manual="$map:03000014$의 몬스터를 처치하고 $item:30000331$ 찾기" complete="$map:03000014$에서 $npc:11000610$ 만나기" count="1" />
+	<quest questID="90000373" name="족쇄를 벗어나" desc="드디어 $npc:11000610$$pp:가,이$ $npc:11000609$의 빚을 탕감해주었다! 이 기쁜 소식을 어서 $npcName:11000609$에게 말해주러 가야겠다." manual="" complete="$map:02000014$에서 $npc:11000609$ 만나기" count="" />
+	<quest questID="90000390" name="양심선언" desc="$map:02000203$에 있는 $npc:11000511$$pp:는,은$ 대량의 $item:40100023$$pp:를,을$ 잃어버린 사람을 찾고 있다고 한다." manual="" complete="$map:02000203$에서 $npc:11000511$ 만나기" count="" />
+	<quest questID="90000400" name="꿈꾸는 메이드" desc="$map:02000001$의 $npc:11000160$$pp:는,은$ 드림네이즈 취업 홍보 이벤트로 메이드를&#x0A;무료로 고용해 볼 수 있는 쿠폰을 나눠주고 있다며, $npc:11000700$$pp:를,을$ 찾아가 보라고 제안했다.&#x0A;무료로 메이드를 고용해 볼 수 있다니… &apos;내 집 마련&apos;의 꿈을 이룬 사람에게는 아주 좋은 기회인 것 같다." manual="" complete="$map:02000001$에서 $npc:11000700$ 만나기" count="" />
+	<quest questID="90000410" name="떨어진 별" desc="" manual="$map:63000011$ 찾아가기" complete="$map:63000011$에서 $npcName:11001232$ 만나기" count="0" />
+	<quest questID="90000411" name="룬의 부름" desc="" manual="$item:30000439$ 수거하기" complete="$npcName:11001232$$pp:와,과$ 대화하기" count="1" />
+	<quest questID="90000412" name="친구를 찾아서" desc="" manual="$map:52000015$ 찾아서 들어가기" complete="쓰러진 $npcName:11001233$ 상태 살펴보기" count="0" />
+	<quest questID="90000413" name="지브릿타의 반란" desc="" manual="" complete="$map:52000015$에서 $npcName:11001229$ 만나기" count="" />
+	<quest questID="90000414" name="살아남는 법" desc="" manual="$skill:10900001$$pp2:로,으로$ 강화된 $skill:10900032$$pp:나,이나$ $skill:10900042$ 연습해보기" complete="$map:63000012$에서 $npcName:11001233$ 만나기" count="1" />
+	<quest questID="90000415" name="변절의 이유" desc="" manual="" complete="$map:63000012$에서 단장 대리 $npcName:11001230$ 만나기" count="" />
+	<quest questID="90000416" name="스승의 당부" desc="" manual="" complete="$map:63000012$에서 $npc:11001234$ 만나기" count="" />
+	<quest questID="90000417" name="선조의 지식" desc="" manual="$map:52000016$ 안쪽으로 들어가기,$map:52000016$ 내부 상황 파악하기" complete="$map:63000012$에서 단장 대리 $npcName:11001230$ 만나기" count="0,0" />
+	<quest questID="90000418" name="룬이 열어준 길" desc="" manual="$map:63000013$ 찾아가기" complete="$map:63000013$의 $npc:11001257$$pp:와,과$ 대화하기" count="0" />
+	<quest questID="90000419" name="스승을 찾아서" desc="$npc:11001257$$pp:는,은$ $npcName:11001229$$pp:가,이$ 빅토리아 아일랜드의 $map:2000001$$pp2:로,으로$ 갔다는 사실을 알려주며, 그곳까지 이동시킬 룬 마력이 준비되었는지 살펴봐야 한다며 기다려 달라고 말했다.&#x0A;$map:2000001$… $npcName:11001229$$pp:가,이$ 그곳에서 만나봐야 할 사람이 있다고 했었는데… 누굴까?&#x0A;일단, 룬 마력의 힘을 빌려 $npcName:11001229$$pp:가,이$ 있는 곳까지 이동해서 그를 만나봐야겠다." manual="$map:63000013$의 $npc:11001257$$pp:와,과$ 대화해 $npcName:11001229$에게 이동하기" complete="$map:02000033$에서 $npcName:11000390$ 만나기" count="0" />
+	<quest questID="90000420" name="손은 눈 보다 빠른 법!" desc="" manual="$skill:10900031$ 사용하기" complete="$npcName:11001232$$pp:와,과$ 대화하기" count="1" />
+	<quest questID="90000421" name="멀리 있는 적도 가볍게!" desc="" manual="$skill:10900041$ 사용하기" complete="$npcName:11001232$$pp:와,과$ 대화하기" count="1" />
+</ms2>

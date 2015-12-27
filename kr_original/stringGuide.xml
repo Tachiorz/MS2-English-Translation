@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<key id="1" name="[[keyAction:totalAction]] " voiceID="" />
+	<key id="2" name="[[keyAction:dialogInventory]] " voiceID="" />
+	<key id="3" name="[[keyAction:dialogMyInfo]] " voiceID="" />
+	<key id="4" name="[[keyText:ESC]]" voiceID="" />
+	<key id="1010" name="오두막 할아버지의 얘기는 잘 들으셨나요?" voiceID="ko/Tutorial/1" />
+	<key id="1020" name="이제 오두막 밖으로 나가, 암허스트로 이동해 봅시다." voiceID="ko/Tutorial/2" />
+	<key id="1030" name="[[keyDirection:1]] 방향키를 이용해 파란색 포털로 이동해 보세요." voiceID="ko/Tutorial/3" />
+	<key id="1031" name="방향키 2개를 동시에 눌러 대각선으로 이동할 수도 있습니다." voiceID="ko/Tutorial/4" />
+	<key id="1040" name="[[icon:portal_arrow]] 파란색 포털로 이동하기" voiceID="" />
+	<key id="1050" name="포털을 사용해 오두막 밖으로 나가 봅시다." voiceID="ko/Tutorial/5" />
+	<key id="1060" name="포털 위치에서 [[keyAction:totalAction]] 키 누르기" voiceID="" />
+	<key id="2020" name="암허스트로 가려면 흩날리는 꽃밭을 지나야 합니다." voiceID="ko/Tutorial/6" />
+	<key id="2021" name="어디로 가야할 지 모를 때는 미니맵을 이용해 보세요." voiceID="ko/Tutorial/7" />
+	<key id="2022" name="미니맵을 한번 볼까요?" voiceID="" />
+	<key id="2030" name="미니맵 확인하기" voiceID="" />
+	<key id="2031" name="목적지\n흩날리는 꽃밭 " voiceID="" />
+	<key id="2032" name="지금 내 위치 " voiceID="" />
+	<key id="2060" name="어디로 가야할 지 확인했나요?" voiceID="" />
+	<key id="2061" name="이렇게 미니맵으로 위치를 확인할 수 있습니다." voiceID="ko/Tutorial/8" />
+	<key id="2070" name="미니맵을 크게 보고 싶을 땐 [[keyText:Tab]]키를 눌러 보세요." voiceID="ko/Tutorial/9" />
+	<key id="2090" name="[[keyText:Tab]]키를 눌러 미니맵 크게 보기" voiceID="" />
+	<key id="2100" name="이제 시냇물을 건너 목적지까지 이동해 봅시다." voiceID="ko/Tutorial/10" />
+	<key id="2110" name="목적지를 향해 이동하기" voiceID="" />
+	<key id="2120" name="잠깐! 물 속에서는 자동으로 수영할 수 있습니다." voiceID="ko/Tutorial/11" />
+	<key id="2170" name="[[keyAction:moveUp]] 키를 눌러 사다리 올라가기" voiceID="" />
+	<key id="2190" name="[[keyAction:jump]] 키로 점프하여 언덕 올라가기" voiceID="" />
+	<key id="2210" name="[[keyAction:jump]] 키로 점프하여 포털로 이동하기" voiceID="" />
+	<key id="2220" name="[[icon:portal]]포털을 타고 흩날리는 꽃밭으로 이동하기" voiceID="" />
+	<key id="2900" name='기본 조작 방법을 알려주는 튜토리얼 구간입니다.\n&lt;font color=&apos;#00A2ED&apos;&gt;[Space]&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 누르면 튜토리얼 대사를 빨리 넘길 수 있습니다.&lt;/font&gt;\n&lt;font color=&quot;#909090&quot;&gt;이 창은&lt;/font&gt; &lt;font color=&apos;#00A2ED&apos;&gt;[Esc]&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 눌러 닫을 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="3020" name="머리 위에 노란 느낌표가 있는 사람이 보이네요." voiceID="ko/Tutorial/12" />
+	<key id="3021" name="가까이 가서 말을 걸어 보세요." voiceID="ko/Tutorial/13" />
+	<key id="3030" name="[[icon:questaccept]]그리파 아저씨에게 가까이 가기" voiceID="" />
+	<key id="3040" name="[[keyAction:totalAction]] 키로 대화하기" voiceID="" />
+	<key id="3060" name="[[icon:effect]]그리파 아저씨가 말한 들꽃 찾기" voiceID="" />
+	<key id="3070" name="꽃을 찾았으니 꿀을 모아 볼까요?" voiceID="ko/Tutorial/14" />
+	<key id="3080" name="[[keyAction:totalAction]]키를 눌러 꿀 채집하기" voiceID="" />
+	<key id="3081" name="[[keyAction:get]]키를 눌러 떨어진 꿀 줍기" voiceID="" />
+	<key id="3110" name="진행중인 퀘스트" voiceID="" />
+	<key id="3111" name="퀘스트 정보 자세히 보기" voiceID="" />
+	<key id="3112" name='진행중인 퀘스트를 확인하세요.\n&lt;font color=&quot;#909090&quot;&gt;화면 오른쪽의&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;퀘스트 가이드&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;로 진행중인 퀘스트들을 확인할 수 있습니다. 퀘스트 가이드를 클릭하면 더 자세한 정보를 볼 수도 있습니다.&lt;/font&gt;\n&lt;font color=&apos;#00A2ED&apos;&gt;단축키 [L]&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이나 우측 하단의 &lt;/font&gt;&lt;font color=&quot;#00a2ed&quot;&gt;퀘스트 메뉴&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 사용해도 됩니다.&lt;/font&gt;' voiceID="" />
+	<key id="3113" name="퀘스트 창 닫기" voiceID="" />
+	<key id="3120" name="[[icon:questprogress]]남은 꿀 모으기" voiceID="" />
+	<key id="3130" name="벌써 다 모았네요." voiceID="" />
+	<key id="3131" name="이제 아저씨에게 가져가 볼까요?" voiceID="" />
+	<key id="3140" name="[[icon:questcomplete]]그리파 아저씨와 대화하기" voiceID="" />
+	<key id="3150" name="소지품 창을 열어 아저씨가 주신 선물을 확인해 봅시다." voiceID="ko/Tutorial/15" />
+	<key id="3160" name="[[keyAction:dialogInventory]]키로 소지품 창 열기" voiceID="" />
+	<key id="3170" name="무기가 들어 있군요. 바로 장착해 볼까요?" voiceID="ko/Tutorial/16" />
+	<key id="3172" name="낡은 클럽" voiceID="" />
+	<key id="3180" name="[[keyAction:dialogMyInfo]]키로 캐릭터 창 열기" voiceID="" />
+	<key id="3190" name="소지품 창에 있는 낡은 클럽을 무기 슬롯에 장착하기" voiceID="" />
+	<key id="3191" name="우클릭 또는 드래그해서\n무기 슬롯에 장착하기" voiceID="" />
+	<key id="3192" name="무기 슬롯" voiceID="" />
+	<key id="3200" name="방금 장착한 무기를 사용해 볼까요?" voiceID="ko/Tutorial/17" />
+	<key id="3201" name="먼저 열려 있는 창을 닫아 보세요." voiceID="ko/Tutorial/18" />
+	<key id="3210" name="[[keyText:Esc]]키로 열려있는 창 모두 닫기" voiceID="" />
+	<key id="3220" name="이제 장착한 무기를 휘둘러 봅시다." voiceID="ko/Tutorial/19" />
+	<key id="3230" name="[[keyAction:attack]] 또는 [[keyActionSub:attack]] 키를 눌러 무기 휘두르기" voiceID="" />
+	<key id="3240" name="좋아요! 이제 몬스터들도 상대할 수 있겠네요." voiceID="ko/Tutorial/20" />
+	<key id="3241" name="그럼 바람부는 오솔길로 가볼까요?" voiceID="ko/Tutorial/21" />
+	<key id="3250" name="[[icon:portal]]바람부는 오솔길로 이동하기" voiceID="" />
+	<key id="4010" name="[[icon:questaccept]]줄리앙과 대화하기" voiceID="" />
+	<key id="4020" name="선물 받은 무기를 사용해 오솔길 버섯을 처치해 봅시다." voiceID="ko/Tutorial/22" />
+	<key id="4021" name="몬스터와 싸우기 전에 알려 드릴 것이 있어요." voiceID="ko/Tutorial/23" />
+	<key id="4030" name="아래 화살표가 가리키는 것이 HP입니다." voiceID="ko/Tutorial/24" />
+	<key id="4031" name="전투할 때 공격을 받으면 HP가 줄어듭니다." voiceID="ko/Tutorial/25" />
+	<key id="4032" name="현재 내 HP" voiceID="" />
+	<key id="4040" name="HP가 0이 되면 비석에 깔려 움직일 수 없으니 조심해야 합니다." voiceID="ko/Tutorial/26" />
+	<key id="4041" name="HP가 0이 되지 않도록 주의!" voiceID="" />
+	<key id="4050" name="HP를 신경쓰면서 오솔길 버섯을 사냥해 봅시다." voiceID="ko/Tutorial/27" />
+	<key id="4060" name="[[keyAction:attack]] 또는 [[keyActionSub:attack]] 키로 오솔길 버섯 사냥하기" voiceID="" />
+	<key id="4070" name="[[icon:questcomplete]]줄리앙에게 돌아가기" voiceID="" />
+	<key id="4080" name="보답으로 빨간 약초를 받았네요." voiceID="ko/Tutorial/28" />
+	<key id="4081" name="이런 포션 아이템은 퀵슬롯에 등록해서 사용할 수 있습니다." voiceID="ko/Tutorial/29" />
+	<key id="4090" name="[[keyAction:dialogInventory]]키로 소지품 창 열기" voiceID="" />
+	<key id="4100" name="[[icon:click]] 소지품 창의 기타 탭 클릭하기" voiceID="" />
+	<key id="4101" name="기타 탭 클릭" voiceID="" />
+	<key id="4110" name="[[icon:drag]] 소지품 창에 있는 빨간 약초를 퀵슬롯에 올리기" voiceID="" />
+	<key id="4111" name="빨간 약초" voiceID="" />
+	<key id="4112" name="마우스로 드래그해서 \n아이템 올리기" voiceID="" />
+	<key id="4120" name="빨간 약초가 퀵슬롯에 등록됐네요." voiceID="ko/Tutorial/30" />
+	<key id="4121" name="위험할 때  [[keyAction:actionSlot9]] 키를 누르면 사용할 수 있습니다." voiceID="ko/Tutorial/31" />
+	<key id="4122" name="이제 소지품 창을 닫아 봅시다." voiceID="ko/Tutorial/32" />
+	<key id="4130" name="[[keyText:Esc]]키로 소지품 창 닫기" voiceID="" />
+	<key id="4140" name="줄리앙이 또 할 말이 있나 보네요." voiceID="ko/Tutorial/33" />
+	<key id="4141" name="줄리앙과 이야기해 봅시다." voiceID="" />
+	<key id="4150" name="[[icon:questaccept]]줄리앙과 대화하기" voiceID="" />
+	<key id="4170" name="[[icon:portal]]위험한 오솔길로 이동하기" voiceID="" />
+	<key id="5020" name="[[icon:questcomplete]]비너스와 대화하기" voiceID="" />
+	<key id="5030" name="축하합니다! 레벨이 올랐군요." voiceID="ko/Tutorial/34" />
+	<key id="5040" name="경험치가 모이면 레벨이 올라갑니다." voiceID="ko/Tutorial/35" />
+	<key id="5041" name="경험치는 몬스터를 사냥하거나 친구들을 도와주면 얻을 수 있답니다." voiceID="ko/Tutorial/36" />
+	<key id="5042" name="레벨이 오르면 능력치가 높아지고 새로운 스킬을 배울 수도 있습니다." voiceID="ko/Tutorial/37" />
+	<key id="5050" name="마침 퀵슬롯에 새로 배운 스킬이 있네요." voiceID="ko/Tutorial/38" />
+	<key id="5051" name="[[keyAction:actionSlot6]]키를 눌러 파워 스트라이크 스킬을 사용해 봅시다." voiceID="ko/Tutorial/39" />
+	<key id="5052" name="파워 스트라이크" voiceID="" />
+	<key id="5060" name="[[keyAction:actionSlot6]]키를 눌러 파워 스트라이크 스킬 사용하기 " voiceID="" />
+	<key id="5070" name="좋아요! 이제 더 강한 몬스터도 잡을 수 있겠네요." voiceID="ko/Tutorial/40" />
+	<key id="5080" name="그런데 SP가 줄어들었네요. 몇 번 휘두르면 금방 없어지겠어요." voiceID="ko/Tutorial/41" />
+	<key id="5081" name="이런 스킬은 사용할 때마다 SP를 소모합니다." voiceID="ko/Tutorial/42" />
+	<key id="5082" name="SP\n강력한 스킬을 사용할 때 필요" voiceID="" />
+	<key id="5090" name="SP가 부족하면 스킬을 사용할 수 없게 되지요." voiceID="ko/Tutorial/43" />
+	<key id="5091" name="SP는 저절로 회복되기도 하지만, SP를 회복하는 스킬을 사용하면 더 빨리 회복됩니다." voiceID="ko/Tutorial/44" />
+	<key id="5100" name="퀵슬롯에 등록된 해머링 스킬을 사용해 봅시다." voiceID="ko/Tutorial/45" />
+	<key id="5101" name="해머링 사용하기" voiceID="" />
+	<key id="5110" name="[[keyAction:actionSlot5]]키를 눌러 해머링 스킬 사용하기" voiceID="" />
+	<key id="5120" name="지금은 SP가 회복되지 않지만, 몬스터를 때리면 SP가 회복됩니다." voiceID="ko/Tutorial/46" />
+	<key id="5121" name="적을 쓰러뜨리려면 항상 SP를 신경쓰며 전투에 임해야 합니다." voiceID="ko/Tutorial/47" />
+	<key id="5122" name="비너스가 할 말이 있나 보네요." voiceID="ko/Tutorial/48" />
+	<key id="5123" name="이야기를 들어 볼까요?" voiceID="" />
+	<key id="5130" name="[[icon:questaccept]]비너스와 대화하기" voiceID="" />
+	<key id="5140" name="새로 배운 스킬들을 사용해 오솔길 돼지를 사냥해 봅시다." voiceID="ko/Tutorial/49" />
+	<key id="5150" name="[[icon:questprogress]]비너스의 부탁대로 오솔길 돼지 사냥하기" voiceID="" />
+	<key id="5160" name="[[icon:questcomplete]]비너스에게 돌아가기" voiceID="" />
+	<key id="5180" name="[[icon:portal]]암허스트로 이동하기" voiceID="" />
+	<key id="5190" name="암허스트에 도착했습니다." voiceID="ko/Tutorial/79" />
+	<key id="5191" name="산티아고 할아버지를 찾아가 보세요." voiceID="ko/Tutorial/80" />
+	<key id="5192" name="저는 이만 돌아갈게요. 앞으로 더 즐거운 모험이 기다리고 있을 거예요!" voiceID="ko/Tutorial/81" />
+	<key id="5200" name="버튼을 눌러 부활하기" voiceID="" />
+	<key id="6000" name="클릭해서 집 계약하기" voiceID="" />
+	<key id="6002" name='집을 계약했습니다.\n&lt;font color=&quot;#909090&quot;&gt;드디어 메이플 월드에 보금자리를 만들었습니다.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;계약한 기간&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;동안 &lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;계정 내의 모든 캐릭터&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;가 함께 사용하는 집을 마음껏 꾸밀 수 있습니다. 집에서 멀리 떨어져 있다면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;귀환 장치&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 이용해 집으로 귀환할 수도 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="6003" name="귀환 장치" voiceID="" />
+	<key id="6004" name="클릭해서 입장하기" voiceID="" />
+	<key id="6020" name="잠깐, 내 집에 아이템을 설치해 볼까요?" voiceID="" />
+	<key id="6030" name="[[keyAction:install]]키를 눌러 건설 시작하기" voiceID="" />
+	<key id="6040" name="집에 아이템을 설치할 수 있는 건설 모드입니다." voiceID="ko/Tutorial/52" />
+	<key id="6041" name="건설 모드에서는 캐릭터 대신 커서를 조작하게 됩니다." voiceID="ko/Tutorial/53" />
+	<key id="6042" name="커서를 파란색 지점으로 움직여 볼까요?" voiceID="ko/Tutorial/54" />
+	<key id="6050" name="[[icon:portal]]이동키로 커서를 목표 지점까지 이동하기" voiceID="" />
+	<key id="6060" name="잘했습니다." voiceID="ko/Tutorial/55" />
+	<key id="6061" name="[[keyText:W]]키를 눌러 커서를 위로 올려 볼까요?" voiceID="ko/Tutorial/56" />
+	<key id="6070" name="[[keyText:W]]키로 커서를 위로 올리기" voiceID="" />
+	<key id="6071" name="[[keyText:W]]" voiceID="" />
+	<key id="6080" name="이번엔 커서를 아래로 내려 볼까요?" voiceID="ko/Tutorial/57" />
+	<key id="6090" name="[[keyText:S]]키로 커서 내리기" voiceID="" />
+	<key id="6091" name="[[keyText:S]]" voiceID="" />
+	<key id="6100" name="잘했어요! 이렇게 커서를 움직일 수 있답니다." voiceID="ko/Tutorial/58" />
+	<key id="6101" name="그럼 커서를 아래로 더 내려볼까요?" voiceID="ko/Tutorial/59" />
+	<key id="6110" name="[[keyText:S]]키로 커서를 바닥까지 내리기" voiceID="" />
+	<key id="6120" name="이렇게 바닥까지 커서를 이동시킬 수 있답니다." voiceID="ko/Tutorial/60" />
+	<key id="6121" name="이제 커서를 파란색 목표 지점으로 이동해 봅시다." voiceID="ko/Tutorial/61" />
+	<key id="6130" name="[[icon:portal]]커서를 목표 지점으로 이동하기" voiceID="" />
+	<key id="6131" name="[[icon:effect]]목표 지점으로 이동하기" voiceID="" />
+	<key id="6140" name="좋아요! 이번엔 아이템을 설치해 볼까요?" voiceID="ko/Tutorial/62" />
+	<key id="6141" name="[[keyText:Space]] 키를 누르면 아이템을 설치할 수 있습니다." voiceID="ko/Tutorial/63" />
+	<key id="6150" name="목표 지점에 [[keyText:Space]]키로 아이템 설치하기" voiceID="" />
+	<key id="6151" name="[[keyText:Space]]" voiceID="" />
+	<key id="6152" name="[[keyText:E]]키를 눌러 아이템 회수하기" voiceID="" />
+	<key id="6153" name="[[keyText:E]]" voiceID="" />
+	<key id="6160" name="완벽해요! 이렇게 들고 있는 아이템을 설치할 수 있답니다." voiceID="ko/Tutorial/64" />
+	<key id="6161" name="이번엔 들고 있는 아이템을 다른 아이템으로 바꿔 볼까요?" voiceID="ko/Tutorial/65" />
+	<key id="6162" name="소지하고 있는 건설 아이템이 아래의 목록에 나타납니다." voiceID="ko/Tutorial/66" />
+	<key id="6163" name="숫자 키를 눌러 아래 목록에서 아이템을 선택해 볼까요?" voiceID="ko/Tutorial/67" />
+	<key id="6170" name="[[keyText:2]]키로 아이템 선택하기" voiceID="" />
+	<key id="6171" name="[[keyText:2]]" voiceID="" />
+	<key id="6180" name="목표 지점에 [[keyText:Space]]키로 아이템 설치하기" voiceID="" />
+	<key id="6200" name="좋아요! 이렇게 아이템을 내 집에 설치하면 된답니다." voiceID="ko/Tutorial/68" />
+	<key id="6210" name="다음은 설치한 아이템을 회전해 볼까요?" voiceID="ko/Tutorial/69" />
+	<key id="6211" name="설치된 아이템의 방향이 마음에 들지 않으면  &lt;Img src=&apos;guide_key_R.png&apos; vspace=&apos;-17&apos; width=&apos;62&apos; height=&apos;60&apos; &gt;&lt;/Img&gt; 키를 눌러 회전할 수 있습니다." voiceID="ko/Tutorial/70" />
+	<key id="6212" name="파란색 지점에 설치한 아이템을 회전해 볼까요?" voiceID="ko/Tutorial/71" />
+	<key id="6230" name="[[icon:portal]]파란색 지점으로 이동하기" voiceID="" />
+	<key id="6240" name="[[keyText:R]]키를 눌러 아이템 회전하기" voiceID="" />
+	<key id="6241" name="[[keyText:R]]" voiceID="" />
+	<key id="6250" name="잘했습니다. 설치한 아이템은 이렇게 방향을 바꿀 수 있습니다." voiceID="ko/Tutorial/72" />
+	<key id="6251" name="마지막으로 설치한 아이템을 회수하는 법을 배워 봅시다." voiceID="ko/Tutorial/73" />
+	<key id="6252" name="[[keyText:E]]키로 파란색 지점에 설치한 아이템을 회수해 볼까요?" voiceID="ko/Tutorial/74" />
+	<key id="6280" name="네, 이렇게 회수한 아이템은 다시 소지품에 들어온답니다." voiceID="ko/Tutorial/75" />
+	<key id="6281" name="소지품에 들어온 아이템은, 목록에도 자동으로 추가됩니다." voiceID="ko/Tutorial/76" />
+	<key id="6282" name="이제 기본 조작을 배웠으니 내 집에 아이템을 설치해 보세요." voiceID="ko/Tutorial/77" />
+	<key id="6283" name="집에 설치할 수 있는 아이템 중에는 특별한 기능을 가진 것들도 있답니다." voiceID="ko/Tutorial/78" />
+	<key id="6290" name="[[keyText:B]] 또는 [[keyText:ESC]] 키를 눌러 건설모드 종료하기" voiceID="" />
+	<key id="6300" name='건설 아이템을 구입하세요.\n&lt;font color=&quot;#909090&quot;&gt;자신의 부지나 건물 안에는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;건설 아이템&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 배치할 수 있습니다. 큰 마을에 있는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;건설 상인&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;또는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;원예 상인&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 찾아가거나, 건설모드일 때&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;바니걸의 상점&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에서 구입할 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="6900" name='집으로 귀환했습니다.\n&lt;font color=&quot;#909090&quot;&gt;귀환 장치를 이용하면 집 앞으로&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;귀환&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있습니다. 또한 집 앞에 만들어진&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 이용해&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;귀환하기 전의 장소&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;로 바로 돌아갈 수도 있습니다. 하지만 귀환 장치로 만들어진 포털은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;일정 시간&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;만 유지된다는 점을 잊지마세요.&lt;/font&gt;' voiceID="" />
+	<key id="6901" name='집 계약을 해지했습니다.\n&lt;font color=&quot;#909090&quot;&gt;이제 메이플 월드에 보금자리가 없어졌지만, 새로운 집을 계약할 수 있게 되었습니다. 계약을 해지할 때 설치되어 있던 아이템들은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;이삿짐 보관 창고&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;30일(메럿 및 캐시로 구입한 아이템은 365일)&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;간 보관됩니다.&lt;/font&gt;' voiceID="" />
+	<key id="6902" name='건물을 회수했습니다.\n&lt;font color=&quot;#909090&quot;&gt;실내에 아이템이 배치된 건물을 회수했습니다. 해당 건물의 실내에 배치했던 아이템들은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;이삿짐 보관 창고&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에서&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;30일(메럿 및 캐시로 구입한 아이템은 365일)&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;간 보관합니다. 실내의 아이템들을 먼저 회수하면 창고에 들르는 수고를 줄일 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="6903" name="건설 아이템 구입하기" voiceID="" />
+	<key id="6904" name='새로운 부동산을 계약해 보세요.\n&lt;font color=&quot;#00a2ed&quot;&gt;저렴한 보급형 공동주택&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이 있는 에반스빌, 가막새 마을, 아일린 타운, 수정 광산 마을, 골두스 뉴타운 등을 방문해 보는 건 어떨까요? 좀더 자세한 정보를 알고 싶다면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;메이뷰 부동산&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 활용해 보세요.&lt;/font&gt;' voiceID="" />
+	<key id="7000" name='메이드를 고용해 보세요.\n&lt;font color=&quot;#909090&quot;&gt;집을 비워두기 싫다면,&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;트라이아&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에서&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;타바사&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 만나거나&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;바니걸의 상점&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에 들러 메이드를 고용해 보세요.&lt;/font&gt;\n&lt;font color=&quot;#909090&quot;&gt;좀 더 특별한 메이드를 찾는다면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;메럿 마켓&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 방문하셔도 좋습니다.&lt;/font&gt;' voiceID="" />
+	<key id="7010" name='메이드 심볼을 배치해 보세요.\n&lt;font color=&quot;#909090&quot;&gt;메이드 심볼을 내 집 실내에&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;배치&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;하면 메이드가 나타나고, 메이드에게 말을 걸어 &lt;/font&gt;&lt;font color=&quot;#00a2ed&quot;&gt;아이템 제작을 요청&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있습니다. 메이드 심볼을 회수하면 메이드가 사라집니다.&lt;/font&gt;' voiceID="" />
+	<key id="7020" name='메이드에게 아이템 제작을 요청해 보세요.\n&lt;font color=&quot;#909090&quot;&gt;제작에 필요한 재료를 준비한 후 메이드에게 말을 걸어&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;아이템 제작&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 요청할 수 있습니다. 또한 메이드와의 친밀도가 높아지면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;제작 가능한 아이템의 종류&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;가 늘어납니다.&lt;/font&gt; ' voiceID="" />
+	<key id="7030" name='메이드의 아이템 제작 상황을 확인해 보세요.\n&lt;font color=&quot;#909090&quot;&gt;메이드의&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;아이템 제작이 얼마만큼 진행됐는지&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;확인할 수 있습니다. 집에 있지 않더라도 상단 바의 아이콘을 클릭해 진행 상황을 확인해 보세요. 제작이 완료됐다면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;메이드를 찾아가&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;아이템을 받을 수 있습니다.&lt;/font&gt; ' voiceID="" />
+	<key id="7031" name="메이드 제작 상황 확인하기" voiceID="" />
+	<key id="7100" name='드림네이즈 이용 쿠폰을 사용해 보세요.\n&lt;font color=&quot;#00a2ed&quot;&gt;트라이아의 타바사&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에게 &lt;/font&gt;&lt;font color=&quot;#00a2ed&quot;&gt;드림네이즈 이용 쿠폰&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 건네주면 30일간 무료로 메이드를 고용할 수 있습니다. 단, 드림네이즈 이용 쿠폰은 일부 메이드에 한해 사용가능합니다. &lt;/font&gt;' voiceID="" />
+	<key id="10000" name='트로피를 달성했습니다.\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드에서 생활하다 보면 다양한&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;트로피&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 달성할 수 있습니다. 일부 트로피는 달성하면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;보상&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 받을 수도 있으니, 트로피를 달성하면 트로피 창에서 보상 탭을 눌러 확인해 보세요.&lt;/font&gt;' voiceID="" />
+	<key id="10001" name="트로피 창을 열어 보상을 받으세요." voiceID="" />
+	<key id="10002" name="보상 탭 클릭하기" voiceID="" />
+	<key id="10010" name="소지품 창을 열어 아이템 자동 줍기를 설정하세요." voiceID="" />
+	<key id="10011" name="아이템 자동 줍기 설정" voiceID="" />
+	<key id="10020" name='비석에 깔렸습니다.\n&lt;font color=&quot;#909090&quot;&gt;부활하기 버튼을 누르면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;안전한 장소에서 부활&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있습니다.\n다른 플레이어가 비석을 때려 게이지를 없애면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;제자리에서 부활&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;합니다.&lt;/font&gt;' voiceID="" />
+	<key id="10021" name='비석을 치우고 부활했습니다.\n&lt;font color=&quot;#909090&quot;&gt;부활은 했지만&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;깊은 상처가 한 시간&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;동안 남게 됩니다. 상처는 의사에게 치료를 받으면 즉시 사라집니다. 하지만 치료받지 않고 상처가 남은 상태에서&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;또다시 HP가 0이 되면 강철 비석&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에 깔리게 됩니다.&lt;/font&gt;' voiceID="" />
+	<key id="10022" name='높은 곳에서 떨어졌습니다.\n&lt;font color=&quot;#909090&quot;&gt;높은 곳에서 떨어질수록&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;더 많은 대미지&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 입습니다. 아주 높은 곳에서 떨어지면 비석에 깔릴 수도 있으니 조심하세요.&lt;/font&gt;' voiceID="" />
+	<key id="10023" name='강철 비석에 깔렸습니다.\n&lt;font color=&quot;#909090&quot;&gt;비석을 치우고 부활했으나 깊은 상처가 남은 상태에서 또다시 HP가 0이 돼,&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;강철 비석&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에 깔렸습니다. 강철 비석에 깔리면 다른 플레이어의 도움을 받을 수 없으며&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;부활하기 버튼으로 부활&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;해야 합니다.&lt;/font&gt;' voiceID="" />
+	<key id="10030" name='전직할 수 있는 레벨이 되었습니다.\n&lt;font color=&quot;#00a2ed&quot;&gt;트라이아&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;의&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;그랜드 홀&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에 있는 전직 교관들을 찾아가 자세한 설명을 듣고&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;직업&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 선택해 보세요. 직업을 선택하면 직업&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;전용 장비와 스킬&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 사용해서 더 강해질 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10040" name='힘을 합쳐 싸우세요!!\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드에는 혼자서는 상대하기 힘든&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;강한 몬스터들&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;도 존재합니다. 강한 몬스터가 나타나면 다른 사람과 힘을 합쳐보세요.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt; 파티를 맺지 않아도 함께 싸울 수 있고, 전리품도 함께 얻을 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10050" name="월드맵을 열어보세요" voiceID="" />
+	<key id="10051" name='월드맵을 확인해 보세요.\n&lt;font color=&quot;#00a2ed&quot;&gt;월드맵&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;창에서는 퀘스트, 이벤트, 보스, 택시 정류장 등이 있는 맵을 한눈에 확인할 수 있어, 혹시 목적지를 찾다가 길을 잃었거나 할 일이 어디에 있는지 모를 때 좋은 참고가 될 것입니다.&lt;/font&gt;' voiceID="" />
+	<key id="10052" name='이벤트가 열려 있는 맵이 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드에서는 가끔&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;특별한 이벤트&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;가 벌어지기도 합니다. 이런 이벤트는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;월드맵에서 확인&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있고, 이벤트 아이콘을 클릭하면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;무료로 이동&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;도 할 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10053" name="메이플 월드 확인하기" voiceID="" />
+	<key id="10054" name='사람들이 많이 몰려 있는 핫플레이스는 어디일까요?\n&lt;font color=&quot;#00a2ed&quot;&gt;월드맵에서 핫플레이스를 체크&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;하면 플레이어들이 몰려 있는 맵과 채널 정보를 확인할 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10055" name="핫플레이스 확인하기" voiceID="" />
+	<key id="10056" name="퀘스트 진행 지역 확인하기" voiceID="" />
+	<key id="10057" name="쉐도우 월드 확인하기" voiceID="" />
+	<key id="10060" name='암벽 등반 스킬을 활용하세요.\n&lt;font color=&quot;#909090&quot;&gt;새로 배운&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;암벽 등반 스킬&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 활용하면 점프로 이동할 수 없었던 곳도 쉽게 이동할 수 있습니다. 하지만 암벽 등반 스킬은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;EP&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 소모하니&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;EP&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;가 부족해 떨어지지 않도록 주의하세요.&lt;/font&gt;' voiceID="" />
+	<key id="10061" name="암벽 등반" voiceID="" />
+	<key id="10062" name="스킬 창을 열어 암벽 등반 스킬을 장착하세요" voiceID="" />
+	<key id="10070" name='새로운 직업을 얻었습니다.\n&lt;font color=&quot;#909090&quot;&gt;전직 교관의 도움을 받아&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;새로운 직업&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 얻었습니다. 이제 직업 전용의&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;새로운 스킬들&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 사용할 수 있습니다. 다른 직업의 무기도 착용할 수는 있지만&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;직업 전용 스킬들은 올바른 무기를 들어야 한다&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;는 건 잊지 마세요.&lt;/font&gt;' voiceID="" />
+	<key id="10071" name="직업 전용 스킬을 장착해서 사용해 보세요" voiceID="" />
+	<key id="10080" name='택시 정류장을 발견했습니다.\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드 곳곳에는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;택시 정류장&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이 설치되어 있습니다. 발견해둔 택시 정류장에서는 택시를 불러 발견해둔&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;다른 택시 정류장으로 이동&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있습니다. 하지만&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;택시비&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;가 필요하다는 점을 잊어서는 안됩니다.&lt;/font&gt;' voiceID="" />
+	<key id="10081" name='택시 정류장을 선택하세요.\n&lt;font color=&quot;#909090&quot;&gt;이동하고 싶은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;택시 정류장을 선택&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;하세요. 단, 이미 발견해둔 택시 정류장으로만 이동할 수 있습니다. 멀리 있는 정류장으로 이동할수록 택시비가 비싸집니다.&lt;/font&gt;' voiceID="" />
+	<key id="10091" name="소지품 창 열어 액션 수강증 확인하기" voiceID="" />
+	<key id="10092" name="기타 탭 클릭" voiceID="" />
+	<key id="10093" name="더블 클릭해 액션 배우기" voiceID="" />
+	<key id="10094" name="다이나믹 액션 창 열기" voiceID="" />
+	<key id="10095" name="마우스 더블클릭 또는\n단축키를 설정해 이용" voiceID="" />
+	<key id="10100" name='카메라를 줌인, 줌아웃해 보세요.\n&lt;font color=&quot;#00a2ed&quot;&gt;마우스 휠&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 이용하면 카메라를&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;줌인&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;,&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;줌아웃&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있습니다. 예쁘게 꾸민 자신의 모습을 더 잘 살펴보고 싶거나, 멀리 있는 하늘이 보고 싶을 때 줌인해서 살펴보면 좋겠네요.&lt;/font&gt;' voiceID="" />
+	<key id="10110" name="소지품 창 열어 탈것 확인하기" voiceID="" />
+	<key id="10112" name="더블클릭으로 탈것 소환/해제" voiceID="" />
+	<key id="10113" name="탈것 탭 클릭" voiceID="" />
+	<key id="10120" name='대미지를 측정합니다.\n&lt;font color=&quot;#909090&quot;&gt;대미지 미터 창에서는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;누적 시간 동안 내 캐릭터가 적에게 입힌 대미지량&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 확인할 수 있습니다. 또한 대미지 미터 창 상단의 초기화 버튼을 클릭하면 누적 시간과 대미지 기록을 초기화할 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10121" name="마우스 올려 메뉴 확인하기" voiceID="" />
+	<key id="10130" name='다른 파티원의 전투를 관전할 수 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;비석에 깔린 상태에서는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;다른 파티원의 시점으로 전투를 관전&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있습니다. 파티 UI에 표시되어 있는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;카메라 버튼&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 클릭해 보세요.&lt;/font&gt;' voiceID="" />
+	<key id="10131" name="카메라를 클릭해 관전 모드 실행하기" voiceID="" />
+	<key id="10140" name='아이템 및 메소를 보관할 수 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;소지하고 있는 아이템을 드래그하거나 우클릭해 보관함으로 옮길 수 있으며, 입금하기 버튼을 사용해 메소를 보관할 수도 있습니다. 보관된 아이템 및 메소는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;계정 내 다른 캐릭터의 소지품 칸으로 옮길 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10150" name='20레벨 이상의 장비를 분해해 오닉스 결정을 추출합니다.\n&lt;font color=&quot;#00a2ed&quot;&gt;오닉스 결정은 무기나 방어구 아이템을 인챈트할 때 사용하는 필수 재료&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이며, 분해하는 아이템의 등급과 판매 가격에 따라 추출되는 오닉스 결정의 개수가 달라집니다.&lt;/font&gt;' voiceID="" />
+	<key id="10160" name='상점에 진열된 아이템을 교체할 수 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;상점에 마음에 드는 아이템이 없거나 배송 트럭을 기다리기 지루하다면,&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;&apos;즉시 입고&apos; 버튼을 눌러보세요.&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;단, &apos;즉시 입고&apos; 기능을 사용하면 수수료가 부과됩니다.&lt;/font&gt;' voiceID="" />
+	<key id="10161" name="판매 목록을 즉시 교체하기" voiceID="" />
+	<key id="10170" name='이삿짐 보관 창고에 보관 중인 아이템이 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;집을 판매하거나 계약 기간이 만료되면 집에 설치, 보관했던 아이템은 이삿짐 보관 창고에 보관됩니다.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;보관 기간은 30일(메럿 및 캐시로 구입한 아이템은 365일)&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이며, 기간 내에 찾아가지 않은 아이템은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;자동 폐기&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;됩니다.&lt;/font&gt;' voiceID="" />
+	<key id="10180" name='블랙마켓에서는 아이템을 판매 혹은 구매할 수 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;블랙마켓에서의 모든 거래는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;트레이더를 통해&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;은밀하게 이뤄집니다. 판매자와 구매자의 신원은 비밀이 보장되며, 엑설런트 이상 등급의 아이템도 거래가 가능합니다.&lt;/font&gt;' voiceID="" />
+	<key id="10190" name='잘못을 저지르면 벨마의 심판을 받게 됩니다.\n&lt;font color=&quot;#909090&quot;&gt;다른 친구들의 플레이를 방해하는 잘못을 반복해서 저지르면,&lt;/font&gt;\n&lt;font color=&quot;#00a2ed&quot;&gt;일정 시간 동안 채팅, UGC 이용 등이 제한&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;됩니다.\n이때&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;감옥에서 반성의 노역&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 하면 제재 시간이 단축됩니다.&lt;/font&gt;' voiceID="" />
+	<key id="10200" name='쉐도우 월드의 무법지대에서는 사방을 주시해야 합니다.\n&lt;font color=&quot;#909090&quot;&gt;쉐도우 월드는 사악한 악마 투르카가 지배하는 세상으로, 안전지대와 무법지대로 나눠져 있습니다.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;라펜타의 보호 없이 무법지대에 들어서면 다른 친구들의 사냥감&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이 될 수 있으니 주의가 필요합니다.&lt;/font&gt;' voiceID="" />
+	<key id="10201" name='쉐도우 월드에 입장하면 그림자의 기운이 스며듭니다.\n&lt;font color=&quot;#909090&quot;&gt;그림자의 기운은 체력을 비약적으로 증가시키나, 영혼을 더럽혀 동료를 적으로 돌리게 만듭니다.\n그림자의 기운으로 끌어올려진 체력은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;엘릭서&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;로도 보충할 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10210" name='용맹의 봉우리에는 전투장이 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;대대로 페리온 부족들 간에 갈등이 생기면 전투장의 문이 열렸습니다.\n지금은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;남들과 겨루며 무공을 자랑하려는&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;전사들을 위해 문이 열립니다.\n전투장에 참여해 그 동안 갈고 닦은 무공을 뽐내 보세요.&lt;/font&gt;' voiceID="" />
+	<key id="10220" name='공간의 틈에 입장했습니다.\n&lt;font color=&quot;#909090&quot;&gt;공간의 틈으로 들어가는 입구는 곳곳에 존재하며, 입장 시마다 다른 형태의 맵을 만날 수 있습니다. 공간의 틈에서는 메소나 깜짝 선물을 얻을 수도 있으니, 푸른 빛이 새어나오는 모자를 발견하면 그냥 지나치지 마세요.&lt;/font&gt;' voiceID="" />
+	<key id="10230" name='퀘스트 정보창에서 에픽 탭과 월드 탭을 클릭해 보세요.\n&lt;font color=&quot;#909090&quot;&gt;에픽은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;메인 스토리&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;와 관련된 퀘스트입니다.&lt;/font&gt;\n&lt;font color=&quot;#909090&quot;&gt;월드는 월드의&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;각 지역에 흩어져 있는 스토리들&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;과 관련된 퀘스트입니다.&lt;/font&gt;' voiceID="" />
+	<key id="10240" name='내 캐릭터 이름 앞에 칭호를 달아 보세요.\n&lt;font color=&quot;#909090&quot;&gt;칭호는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;트로피 보상으로 획득&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있으며, 획득한 칭호는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;캐릭터 정보 창&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에서 확인 및 선택할 수 있습니다. 더 많은 트로피를 달성해, 내 캐릭터에 어울리는 다양한 칭호를 얻어 보세요.&lt;/font&gt; ' voiceID="" />
+	<key id="10250" name="캐릭터 정보 창을 열어 칭호 확인하기" voiceID="" />
+	<key id="10260" name="칭호 선택하기" voiceID="" />
+	<key id="10270" name='출석 체크를 하고 선물을 받으세요.\n&lt;font color=&quot;#909090&quot;&gt;출석만 하면, 바니걸 &apos;바닐라&apos;가 선물을 드립니다.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;게임에 접속하면 자동으로 출석 체크&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;되며,&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;계정 단위로 하루 한 번&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;만 이뤄집니다. 또한 화면 상단의&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;출석 체크 이벤트 아이콘&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 클릭해 출석 기록을 확인할 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10280" name='빅토리아 아일랜드에 도착했습니다.\n&lt;font color=&quot;#909090&quot;&gt;여제 에레브의 알현식이 열리는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;트라이아&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 방문해 보세요.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;10레벨&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이 되면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;트라이아의 그랜드 홀&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에서 나이트, 버서커, 위자드, 프리스트, 레인저, 헤비거너, 시프, 어쌔신 중 하나의 직업으로&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;전직&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수도 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10290" name='깃발에 이름을 올려보세요.\n&lt;font color=&quot;#909090&quot;&gt;트로피를 많이 획득하거나 길드 전장에서 우수한 성적을 거두면 길드 마크나 프로필 이미지가 깃발에 새겨집니다. 트로피와 길드 전장 순위는 하루에 한번 집계됩니다.&lt;/font&gt;' voiceID="" />
+	<key id="10300" name='던전 입장 전에 미리 알아 두세요.\n&lt;font color=&quot;#909090&quot;&gt;일부 던전은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;던전 열쇠가 있어야만 입장&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있습니다. 던전 열쇠는 화면 좌측 상단에서 소지 개수를 확인할 수 있으며,&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;1시간마다 하나씩&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;채워집니다. 또한 던전에 혼자 입장도 가능하나, 파티를 맺으면 공략이 수월해 집니다.&lt;/font&gt;' voiceID="" />
+	<key id="10310" name='길드원들과 함께 길드 챔피언십에 참여해보세요.\n&lt;font color=&quot;#00a2ed&quot;&gt;50레벨 이상의 길드원 3명&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이 접속해 있으면 신청할 수 있습니다. 신청 후 매칭이 성사되면 경기장에 입장할 수 있으며 전투에 참여하는 길드원 외에 다른 길드원들도&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;응원을 위해 입장&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10311" name='길드전 전적을 확인해 보세요.\n&lt;font color=&quot;#909090&quot;&gt;현재 진행 중인 시즌 및 이전 시즌의 길드전 전적을 확인할 수 있습니다. 현재 전적 탭에서는 (+)버튼을 눌러 최근 10개 경기의 결과를 살펴볼 수 있습니다. 이전 전적 탭은 과거 길드전에 참여한 기록이 있을 때만 확인이 가능합니다.&lt;/font&gt;' voiceID="" />
+	<key id="10320" name='카르마로 특별한 아이템을 구입해 보세요.\n&lt;font color=&quot;#909090&quot;&gt;쉐도우 월드의&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;그림자 상인&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에게 물건을 구입하려면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;카르마&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;가 필요합니다. 카르마는 쉐도우 월드에서 몬스터를 처치하거나 퀘스트를 완료, 혹은 투르카의 보석함을 열어 구할 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10330" name='착용 중인 장비가 마음에 안 드나요?\n&lt;font color=&quot;#909090&quot;&gt;네르만 대장간 거리에서는 오닉스 결정을 장비와 교환해 주는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;엘리아나 슈아브리체&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;, 인챈트 마스터인&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;오필리아&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;, 장비 상인&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;모건&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;, 카오닉스 수집가&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;녹스&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 만날 수 있습니다. 성능 좋은 장비를 원한다면 이들과 대화해 보세요.&lt;/font&gt;' voiceID="" />
+	<key id="10340" name='보물 상자를 발견했습니다.\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드에는 주인을 알 수 없는 보물 상자가 곳곳에 숨겨져 있습니다. 특히,&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;황금 보물 상자&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;안에는 진귀한 장비가 들어 있어 보물 사냥꾼들의 표적이 되고 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10350" name='집어들 수 있는 구조물을 활용해 보세요.\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드 곳곳에&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;집어 들 수 있는 구조물&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이 있습니다. 구조물에 가까이 가&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;Space 키&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 누르면 구조물을 손에 들게 되고,&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;Space 또는 X 키&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 누르면 구조물을 던질 수 있습니다. 이때 구조물별로 특수한 효과가 발동됩니다.&lt;/font&gt;' voiceID="" />
+	<key id="10360" name='미니맵에서 느낌표를 찾아보세요.\n&lt;font color=&quot;#909090&quot;&gt;Tab키를 눌러 미니맵을 확장해 보세요.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;시작 가능한 퀘스트를 지닌 NPC의 위치&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 쉽게 확인할 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10370" name='용맹의 증표를 모아 특별한 아이템을 구입해 보세요.\n&lt;font color=&quot;#909090&quot;&gt;트라이아에 있는 전투 장비 상인&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;일곱 빛깔 무지개&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;와 탈것 상인&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;붉은 태양의 노래&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에게 물건을 구입하려면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;용맹의 증표가 필요&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;합니다. 용맹의 증표는 길드 전장에서 승리하면 얻을 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10380" name="개인 전투장 참여하기" voiceID="" />
+	<key id="10381" name='전투장에 참여해 보세요.\n&lt;font color=&quot;#909090&quot;&gt;전투장에 참여하여&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;다른 캐릭터와 실력을 겨룰 수 있습니다.&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;입장하기를&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;원하는 전투장을 골라 신청하기 버튼&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 누르세요. 대전 상대가 결정되면 알림이 떠서 전투장으로 바로 입장할 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10390" name="아이템 판매 기간 만료 임박!" voiceID="" />
+	<key id="10391" name='마이샵에서 내가 등록한 아이템의 판매 기간을 확인해 보세요.\n&lt;font color=&quot;#909090&quot;&gt;디자이너스샵에 등록한 아이템 중&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;판매 기간이 얼마 남지 않은 아이템&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이 있습니다. 해당 아이템을 계속 판매하기 위해서는 판매 기간이 만료된 후&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;재판매&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;버튼을 눌러 상품 등록을 다시 해야 합니다.&lt;/font&gt;' voiceID="" />
+	<key id="10400" name="부동산 계약 기간 만료 임박!" voiceID="" />
+	<key id="10401" name='내 집의 계약 기간을 확인해 보세요.\n&lt;font color=&quot;#00a2ed&quot;&gt;부동산 계약 만료일이 얼마 남지 않았습니다.&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;현재 거주 중인 집에 계속 거주하려면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;부동산 계약서에 있는 계약 연장&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;버튼을 눌러 부동산 계약을 연장해야 합니다.&lt;/font&gt;' voiceID="" />
+	<key id="10410" name='맵 곳곳에 있는 회복 포인트를 찾아 보세요.\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드 곳곳에는 몬스터의 공격을 피해&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;HP를 빠르게 회복&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;시킬 수 있는 회복 포인트가 있습니다. 전투 중, 위험한 상황에 처한다면 가까운 곳에 있는 회복 포인트로 몸을 피해 보세요.&lt;/font&gt;' voiceID="" />
+	<key id="10420" name="파티 찾기" voiceID="" />
+	<key id="10421" name='파티 찾기를 시도해 보세요.\n&lt;font color=&quot;#909090&quot;&gt;파티 찾기 창에서는 원하는 조건의 파티를 검색해&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;파티 참가 신청&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 할 수 있으며, 파티장이 돼&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;파티원을 모집&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수도 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10430" name='SP 구슬을 주웠습니다.\n&lt;font color=&quot;#909090&quot;&gt;SP 구슬은 몬스터가 떨구며, 가까이 가면 자동으로 주울 수 있습니다.\nSP 구슬을 주우면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;SP 회복 스킬을 사용하지 않고도 일정량의 SP를 즉시 회복&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;시킬 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10440" name='EP 구슬을 주웠습니다.\n&lt;font color=&quot;#909090&quot;&gt;EP 구슬은 부서지는 사물을 부서트리거나, 필드의 엘리트 및 보스 몬스터를 때리면 등장합니다. EP 구슬을 주우면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;EP 회복 시간을 기다릴 필요 없이 일정량의 EP를 즉시 회복&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;시킬 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10470" name='미니맵에서 물음표를 찾아보세요.\n&lt;font color=&quot;#909090&quot;&gt;Tab키를 눌러 미니맵을 확장해 보세요.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;퀘스트를 완료할 수 있는 NPC의 위치&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 쉽게 확인할 수 있습니다. 또한&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;느낌표가 표시된 위치에는 시작 가능한 퀘스트를 지닌 NPC&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;가 있다는 것도 함께 알아두세요.&lt;/font&gt;' voiceID="" />
+	<key id="20000" name='모두 함께 볼 수 있는 전광판입니다.\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드 곳곳에 배치되어 있는 전광판에서는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;원하는 날짜와 시간을 예약&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;해&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;자신이 등록한 사진&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 모두 함께 볼 수 있습니다. 하지만 다른 사람이 먼저 예약한 시간에는 자신의 사진을 예약할 수 없습니다.&lt;/font&gt;' voiceID="" />
+	<key id="20001" name='모두 함께 볼 수 있는 벽보입니다.\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드 곳곳에 배치되어 있는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;벽보&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에는 저렴한 비용으로&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;누구나 자유롭게&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;사진을 붙일 수 있습니다. 하지만&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;새로운 사진이 등록되면 이전의 사진은 사라진다&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;는 점을 명심하세요.&lt;/font&gt;' voiceID="" />
+	<key id="20010" name='프로필을 등록하세요.\n&lt;font color=&quot;#909090&quot;&gt;자신의 개성을 뽐낼 수 있는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;프로필&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 등록할 수 있습니다.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;PC에 보관하고 있던 사진&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;도 좋고&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;프로필 카메라로 촬영한 사진&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;도 좋습니다. 남들과 다른 자신을 표현해 보세요.&lt;/font&gt;' voiceID="" />
+	<key id="20011" name="프로필 카메라" voiceID="" />
+	<key id="21000" name='직접 아이템을 디자인할 수 있습니다.\n&lt;font color=&quot;#00a2ed&quot;&gt;아이템 편집 창&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에서는 그림판을 이용해 직접 텍스쳐를 그리거나 미리 그려둔 텍스쳐를 업로드해&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;자신만의 아이템&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 만들 수 있습니다. 특별한 자신을 표현하기 위해 실력을 맘껏 뽐내보세요.&lt;/font&gt;   ' voiceID="" />
+	<key id="21001" name="소지품 창 열기" voiceID="" />
+	<key id="21002" name="더블클릭으로 디자인하기" voiceID="" />
+	<key id="21004" name="아이템 이름 입력하기" voiceID="" />
+	<key id="21005" name="디자인을 선택하거나\n새로 그리기" voiceID="" />
+	<key id="21006" name="아이콘 촬영하기" voiceID="" />
+	<key id="21010" name='자신만의 아이템을 마켓에 올려보세요.\n&lt;font color=&quot;#909090&quot;&gt;디자인 재료 아이템을 이용해 특별한 아이템을 만들었다면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;마켓&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 통해&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;더 많은 사람들이 이용&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;하게 할 수 있습니다. 물론 덕분에&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;수입&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이 생기기도 합니다.&lt;/font&gt;' voiceID="" />
+	<key id="21011" name="마켓 열기" voiceID="" />
+	<key id="21012" name="마켓에 아이템 등록하기" voiceID="" />
+	<key id="21013" name="판매할 아이템 고르기" voiceID="" />
+	<key id="21014" name="판매 관리로 이동" voiceID="" />
+	<key id="21015" name='자신이 판매 등록한 아이템을 관리하세요.\n&lt;font color=&quot;#909090&quot;&gt;이곳에서는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;판매를 위해 등록한 아이템의 정보 및 상태를 변경&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;하거나 판매된 물품의&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;판매 금액을 정산&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;해서 받을 수 있습니다.&lt;/font&gt; ' voiceID="" />
+	<key id="21016" name="판매 가격 및 개수 설정하기" voiceID="" />
+	<key id="21017" name="약관 확인하기" voiceID="" />
+	<key id="22006" name="클릭해서 집 계약하기" voiceID="" />
+	<key id="30000" name="스킬 사용하기" voiceID="" />
+	<key id="30001" name="스킬 창을 열어 스킬을 장착하세요" voiceID="" />
+	<key id="40000" name="암허스트 도착" voiceID="" />
+	<key id="40001" name="길드 챔피언십 시즌 알림" voiceID="" />
+	<key id="40002" name='길드 챔피언십 오픈 안내\n&lt;font color=&quot;#00a2ed&quot;&gt;길드 챔피언십 새 시즌&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이 시작됐습니다.&lt;/font&gt;\n&lt;font color=&quot;#909090&quot;&gt;길드원이라면 챔피언십 탭에서 신청하기 버튼을 눌러 보세요!&lt;/font&gt;' voiceID="" />
+	<key id="40003" name="트라이아에 도착했습니다." voiceID="ko/Tutorial/82" />
+	<key id="40004" name="트라이아 내에 있는 그랜드 홀을 찾아가 전직 교관들을 만나보세요." voiceID="ko/Tutorial/83" />
+	<key id="40005" name="원하는 직업으로 전직하고 더 큰 모험을 즐기시길 바랍니다." voiceID="ko/Tutorial/84" />
+	<key id="40007" name="메이뷰를 열어 페스티벌 가이드 확인하기" voiceID="" />
+	<key id="40008" name='마이샵 이용 안내\n&lt;font color=&quot;#909090&quot;&gt;빅토리아 디자인 협회에서는 디자이너스샵 활성화와 신인 디자이너 발굴을 위해, &lt;/font&gt;&lt;font color=&quot;#00a2ed&quot;&gt;월 판매 수익이 10만 메럿&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이 넘으면 &lt;/font&gt;&lt;font color=&quot;#00a2ed&quot;&gt;그 달의 상품 판매를 제한&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;하고 있습니다. 다음 달 1일부터 다시 상품을 판매할 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="40009" name='[[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;을 타고 이동하세요.' voiceID="" />
+	<key id="40010" name='주변 &lt;font color=&quot;#00a2ed&quot;&gt;몬스터&lt;/font&gt;를 모두 처치하세요.' voiceID="" />
+	<key id="40011" name='다음 &lt;font color=&quot;#00a2ed&quot;&gt;지역&lt;/font&gt;으로 이동하세요.' voiceID="" />
+	<key id="40012" name="잠시 후에 시작합니다." voiceID="" />
+	<key id="10010000" name="방향키를 이용해 화살표가 가리키는 곳으로 이동하기" voiceID="" />
+	<key id="10010001" name="방향키를 눌러 움직여 보기" voiceID="" />
+	<key id="10010010" name="[[keyText:Tab]]키를 눌러 미니맵 크게 보기" voiceID="" />
+	<key id="10010011" name="목적지\n$map:63000011$" voiceID="" />
+	<key id="10010020" name="$npcName:11001229$$pp:를,을$ 향해 이동하기" voiceID="" />
+	<key id="10010030" name="방향키를 이용해 수영하기" voiceID="" />
+	<key id="10010040" name="[[keyAction:moveUp]]키를 눌러 사다리 올라가기" voiceID="" />
+	<key id="10010050" name="[[keyAction:jump]]키로 점프하여 언덕 올라가기" voiceID="" />
+	<key id="10010060" name="[[keyAction:totalAction]]키로 $npcName:11001229$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10010070" name="포털 위치에서 [[keyAction:totalAction]]키 누르기" voiceID="" />
+	<key id="10011020" name="$npcName:11001232$에게 가까이 가기" voiceID="" />
+	<key id="10011030" name="[[keyAction:totalAction]]키로 $npcName:11001232$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10011040" name="[[icon:epic_questaccept]]$npcName:11001232$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10011050" name="룬 마력 통신탑 찾기" voiceID="" />
+	<key id="10011060" name="[[keyAction:totalAction]]키를 눌러 마력이 소진된 룬 주문석 회수하기" voiceID="" />
+	<key id="10011070" name="[[keyAction:get]]키를 눌러 떨어진 룬 주문석 줍기" voiceID="" />
+	<key id="10011110" name="룬 주문석 마저 모으기" voiceID="" />
+	<key id="10011130" name="[[icon:epic_questcomplete]] $npcName:11001232$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10011160" name="[[keyAction:dialogInventory]]키로 소지품 창 열기" voiceID="" />
+	<key id="10011170" name="블레이드" voiceID="" />
+	<key id="10011180" name="[[keyAction:dialogMyInfo]]키로 캐릭터 창 열기" voiceID="" />
+	<key id="10011190" name="소지품 창에 있는 블레이드를 무기 슬롯에 장착하기" voiceID="" />
+	<key id="10011191" name="우클릭 또는 드래그해서\n무기 슬롯에 장착하기" voiceID="" />
+	<key id="10011192" name="무기 슬롯" voiceID="" />
+	<key id="10011220" name="[[keyText:Esc]]키로 열려있는 창 모두 닫기" voiceID="" />
+	<key id="10011230" name="[[keyAction:attack]] 또는 [[keyActionSub:attack]]키를 눌러 무기 휘두르기" voiceID="" />
+	<key id="10011250" name="[[icon:epic_questaccept]]$npcName:11001232$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10011260" name="$skill:10900031$ 스킬 사용하기" voiceID="" />
+	<key id="10011261" name="$skill:10900031$ 스킬" voiceID="" />
+	<key id="10011280" name="[[icon:epic_questcomplete]] $npcName:11001232$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10011290" name="[[icon:epic_questaccept]]$npcName:11001232$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10011300" name="$skill:10900041$ 스킬 사용하기" voiceID="" />
+	<key id="10011301" name="$skill:10900041$ 스킬" voiceID="" />
+	<key id="10011320" name="[[icon:epic_questcomplete]] $npcName:11001232$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10011330" name="[[icon:epic_questaccept]] $npcName:11001232$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10011340" name="$map:52000015$$pp2:로,으로$ 이동하기" voiceID="" />
+	<key id="10011350" name="[[icon:portal]] 포털을 타고 $map:52000015$$pp2:로,으로$ 이동하기" voiceID="" />
+	<key id="10012010" name="[[icon:epic_questcomplete]] $npcName:11001233$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10012020" name="[[icon:epic_questaccept]] $npcName:11001233$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10012030" name="$npcName:11001229$$pp:를,을$ 찾아 이동하기" voiceID="" />
+	<key id="10012040" name="[[icon:epic_questcomplete]] $npcName:11001229$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10012050" name="[[icon:epic_questaccept]] $npcName:11001229$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10012051" name="$skill:10900001$$pp2:로,으로$ 강화된 스킬 사용하기" voiceID="" />
+	<key id="10012052" name="$skill:10900001$" voiceID="" />
+	<key id="10012053" name="$skill:10900032$" voiceID="" />
+	<key id="10012054" name="$skill:10900042$" voiceID="" />
+	<key id="10012060" name="화살표가 가리키는 것이 HP 입니다.\nHP가 0이 되면 비석에 깔리게 되니 조심하십시오." voiceID="" />
+	<key id="10013010" name="[[icon:epic_questcomplete]] $npcName:11001233$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10013020" name="[[keyAction:dialogInventory]]키로 소지품 창 열기" voiceID="" />
+	<key id="10013030" name="[[icon:click]] 소지품 창의 기타 탭 클릭하기" voiceID="" />
+	<key id="10013031" name="기타 탭 클릭" voiceID="" />
+	<key id="10013040" name="[[icon:drag]] 소지품 창에 있는 $item:20000028$$pp:를,을$ 퀵슬롯에 올리기" voiceID="" />
+	<key id="10013041" name="$item:20000028$" voiceID="" />
+	<key id="10013042" name="마우스로 드래그해서 \n아이템 올리기" voiceID="" />
+	<key id="10013050" name="퀵슬롯에 $item:20000028$ 등록 완료" voiceID="" />
+	<key id="10013060" name="[[keyText:Esc]]키로 소지품 창 닫기" voiceID="" />
+	<key id="10013070" name="[[icon:epic_questaccept]] $npcName:11001233$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10013080" name="$npcName:11001230$$pp:를,을$ 찾아 이동하기" voiceID="" />
+	<key id="10013090" name="[[icon:epic_questcomplete]] $npcName:11001230$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10013100" name="[[icon:epic_questaccept]] $npcName:11001230$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10013110" name="$npcName:11001234$$pp:를,을$ 찾아 이동하기" voiceID="" />
+	<key id="10013120" name="[[icon:epic_questcomplete]] $npcName:11001234$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10013130" name="[[icon:epic_questaccept]] $npcName:11001234$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10013140" name="$map:52000016$$pp2:로,으로$ 이동하기" voiceID="" />
+	<key id="10013150" name="[[icon:epic_questcomplete]] $npcName:11001230$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10013160" name="[[icon:epic_questaccept]] $npcName:11001230$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10013170" name="$map:63000013$$pp2:로,으로$ 향하는 포털 찾기" voiceID="" />
+	<key id="10013180" name="포털을 타고 $map:63000013$$pp2:로,으로$ 이동하기" voiceID="" />
+	<key id="10014010" name="[[keyAction:totalAction]]키를 눌러 바위덩이 들기" voiceID="" />
+	<key id="10014020" name="목표지점으로 바위를 나른 후 [[keyAction:totalAction]]키를 눌러 내려놓기" voiceID="" />
+	<key id="10014030" name="주변 몬스터 모두 처치하기" voiceID="" />
+	<key id="10014031" name="레버 작동시키기" voiceID="" />
+	<key id="10014032" name="다리 건너가기" voiceID="" />
+	<key id="10014040" name="[[icon:portal]] 포털을 타고 $map:63000012$$pp2:로,으로$ 이동하기" voiceID="" />
+	<key id="10015010" name="[[icon:epic_questcomplete]] $npc:11001257$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10015020" name="[[icon:epic_questaccept]] $npc:11001257$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="10015030" name="$npc:11001257$$pp:와,과$ 대화해 $map:02000001$$pp2:로,으로$ 이동하기" voiceID="" />
+	<key id="10015040" name="[[icon:epic_questcomplete]] $npcName:11000390$$pp:와,과$ 대화하기" voiceID="" />
+	<key id="20000010" name='[[keyAction:totalAction]]키를 눌러 폭탄을 들고 &lt;font color=&quot;#00a2ed&quot;&gt;몬스터&lt;/font&gt;를 향해 던지세요!' voiceID="" />
+	<key id="20000020" name='&lt;font color=&quot;#00a2ed&quot;&gt;대포&lt;/font&gt;로 이동하여 [[keyAction:totalAction]]키를 눌러 발사하세요!' voiceID="" />
+	<key id="20000030" name='&lt;font color=&quot;#00a2ed&quot;&gt;닭장&lt;/font&gt;을 공격하여 닭들을 구출하세요!' voiceID="" />
+	<key id="20000040" name='&lt;font color=&quot;#00a2ed&quot;&gt;비행 풍선&lt;/font&gt; 스킬을 사용하여 건너가세요.' voiceID="" />
+	<key id="20000050" name='&lt;font color=&quot;#00a2ed&quot;&gt;닭장&lt;/font&gt;으로 이동 후, [[keyAction:totalAction]]키를 눌러 닭을 구출하세요.' voiceID="" />
+	<key id="20000060" name="[[keyAction:moveUp]]키를 눌러 사다리를 올라가세요." voiceID="" />
+	<key id="20000070" name='&lt;font color=&quot;#00a2ed&quot;&gt;$npc:24001004$&lt;/font&gt; 와 &lt;font color=&quot;#00a2ed&quot;&gt;$npc:24001006$&lt;/font&gt; 을 처치하세요!' voiceID="" />
+	<key id="20000080" name='&lt;font color=&quot;#00a2ed&quot;&gt;스위치&lt;/font&gt;를 작동하여, 전력을 차단하세요.' voiceID="" />
+	<key id="20000661" name="어둠의 힘이 점점 강해지고 있습니다." voiceID="" />
+	<key id="20000662" name="어둠의 힘이 약해졌습니다." voiceID="" />
+	<key id="20000663" name="&lt;font color=&apos;#e91945&apos;&gt;경비병이 쓰러졌습니다.&lt;/font&gt;" voiceID="" />
+	<key id="20000664" name="&lt;font color=&apos;#e91945&apos;&gt;게이트가 파괴되었습니다.&lt;/font&gt;" voiceID="" />
+	<key id="20002411" name='&lt;font color=&quot;#00a2ed&quot;&gt;발판&lt;/font&gt; 위에 올라서세요.' voiceID="" />
+	<key id="20002421" name='타이어 사이에 숨겨진 &lt;font color=&quot;#00a2ed&quot;&gt;발판&lt;/font&gt;을 밟으면 문이 열립니다.' voiceID="" />
+	<key id="20002422" name="타이어를 옮겨서 길을 만드세요." voiceID="" />
+	<key id="20002441" name='&lt;font color=&quot;#00a2ed&quot;&gt;레버&lt;/font&gt;를 당기세요.' voiceID="" />
+	<key id="20002451" name='&lt;font color=&quot;#00a2ed&quot;&gt;발판&lt;/font&gt; 위에 서면 불이 꺼집니다.' voiceID="" />
+	<key id="20002452" name='불이 꺼진 후에 &lt;font color=&quot;#00a2ed&quot;&gt;레버&lt;/font&gt;를 당기세요.' voiceID="" />
+	<key id="20002461" name="사다리를 타고 내려가 숨겨진 길을 찾으세요." voiceID="" />
+	<key id="20002521" name="잠시 후에 시작합니다." voiceID="" />
+	<key id="20002522" name="&lt;font color=&apos;#e91945&apos;&gt;지옥의 불길&lt;/font&gt;을 피하세요." voiceID="" />
+	<key id="20002523" name="기둥이 솟아나고 있습니다." voiceID="" />
+	<key id="20002524" name="지하 연회장으로 이동하세요." voiceID="" />
+	<key id="20002525" name='[[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;을 타고 이동하세요.' voiceID="" />
+	<key id="20002811" name="잠시 후 동굴 속으로 들어갈 수 있습니다." voiceID="" />
+	<key id="20002812" name="사다리를 타고 올라가세요." voiceID="" />
+	<key id="20002813" name='[[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;을 타고 이동하세요.' voiceID="" />
+	<key id="20002814" name='&lt;font color=&quot;#00a2ed&quot;&gt;마지막 단서&lt;/font&gt;를 조사하세요.' voiceID="" />
+	<key id="20002901" name="잠시 후 벚꽃 숲 속으로 들어갈 수 있습니다." voiceID="" />
+	<key id="20002902" name="폭포 위쪽으로 올라가거나 왼쪽으로 돌아서 가세요." voiceID="" />
+	<key id="20002903" name="사다리를 타고 올라가세요." voiceID="" />
+	<key id="20002904" name='가시덤불 속에 갇힌  &lt;font color=&quot;#00a2ed&quot;&gt;요미공주&lt;/font&gt;를 구해주세요.' voiceID="" />
+	<key id="20002905" name='[[icon:portal]]벚꽃 숲 밖으로 나가는 &lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;이 열렸습니다.' voiceID="" />
+	<key id="20002906" name="&lt;font color=&apos;#e91945&apos;&gt;게으른 스텀피가 깊은숨을 들이마십니다.&lt;/font&gt;" voiceID="" />
+	<key id="20002921" name="잠시 후 광산으로 진입할 수 있는 문이 열립니다." voiceID="" />
+	<key id="20002922" name="감시관 광부들의 눈을 피해 윗층으로 몰래 이동하세요." voiceID="" />
+	<key id="20002923" name='올라가는 길이 막혔습니다. &lt;font color=&quot;#00a2ed&quot;&gt;$npc:24000522$&lt;/font&gt;$pp:를,을$ 처치하세요.' voiceID="" />
+	<key id="20002924" name="윗층으로 올라가는 사다리를 타고 이동하세요." voiceID="" />
+	<key id="20002931" name="온실에서 대장간 문을 열 수 있는 열쇠를 찾으세요." voiceID="" />
+	<key id="20002932" name="열쇠를 주워 닫힌 문을 열고 이동하세요." voiceID="" />
+	<key id="20002941" name='용광로 괴수, &lt;font color=&quot;#00a2ed&quot;&gt;$npc:24000512$&lt;/font&gt;$pp:를,을$ 처치하세요!' voiceID="" />
+	<key id="20002942" name="사다리를 타고 올라가세요." voiceID="" />
+	<key id="20002951" name="투기장의 포악한 야수들이 몰려옵니다. 모두 처치하세요!" voiceID="" />
+	<key id="20002952" name="사다리를 타고 올라가세요." voiceID="" />
+	<key id="20002961" name="영혼의 구슬에 속박된 주민들을 구해주세요!" voiceID="" />
+	<key id="20002962" name="사다리를 타고 올라가세요." voiceID="" />
+	<key id="20002971" name='[[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;을 타고 이동하세요.' voiceID="" />
+	<key id="20002981" name="잠시 후에 연구 기지 문이 열립니다." voiceID="" />
+	<key id="20002982" name='4자리 &lt;font color=&quot;#00a2ed&quot;&gt;패스코드&lt;/font&gt;를 입력하시오.' voiceID="" />
+	<key id="20002983" name='&lt;font color=&quot;#00a2ed&quot;&gt;패스코드 일치&lt;/font&gt;' voiceID="" />
+	<key id="20002984" name="잠금모드를 해제합니다." voiceID="" />
+	<key id="20002985" name="&lt;font color=&apos;#e91945&apos;&gt;패스코드 불일치&lt;/font&gt;" voiceID="" />
+	<key id="20002986" name="&lt;font color=&apos;#e91945&apos;&gt;경고 : 시스템 방어모드 발동&lt;/font&gt;" voiceID="" />
+	<key id="20002987" name='&lt;font color=&quot;#00a2ed&quot;&gt;미래&lt;/font&gt;로 시간을 설정합니다.' voiceID="" />
+	<key id="20002988" name='&lt;font color=&quot;#00a2ed&quot;&gt;과거&lt;/font&gt;로 시간을 설정합니다.' voiceID="" />
+	<key id="20002989" name="시스템 : 데이터 분석 중…" voiceID="" />
+	<key id="20002994" name="&lt;font color=&apos;#e91945&apos;&gt;인증되지 않은 시공간입니다.&lt;/font&gt;" voiceID="" />
+	<key id="20002995" name="&lt;font color=&apos;#e91945&apos;&gt;시스템 : 방어모드 전환&lt;/font&gt;" voiceID="" />
+	<key id="20002996" name="시스템 : 방어모드 종료" voiceID="" />
+	<key id="20002997" name="&lt;font color=&apos;#e91945&apos;&gt;경고 : 시스템 오류 발생&lt;/font&gt;" voiceID="" />
+	<key id="20002999" name='&lt;font color=&quot;#00a2ed&quot;&gt;귀환 장치&lt;/font&gt;를 사용하세요.' voiceID="" />
+	<key id="20003001" name="&lt;font color=&apos;#e91945&apos;&gt;시스템 : 침입자 감지&lt;/font&gt;" voiceID="" />
+	<key id="20003002" name="&lt;font color=&apos;#e91945&apos;&gt;시스템 : 침입자 경보&lt;/font&gt;" voiceID="" />
+	<key id="20003003" name='&lt;font color=&quot;#00a2ed&quot;&gt;타임 플로어&lt;/font&gt; 전원을 차단하세요!' voiceID="" />
+	<key id="20003004" name='[[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;을 타고 원하는 곳으로 이동하세요!' voiceID="" />
+	<key id="20003281" name="오염된 땅이 조금씩 정화되고 있습니다." voiceID="" />
+	<key id="20003282" name="정원을 오염시키고 있는 적들을 처치하세요." voiceID="" />
+	<key id="20003283" name='숲을 오염시키는 주범 &lt;font color=&quot;#00a2ed&quot;&gt;$npc:24001103$&lt;/font&gt;$pp:를,을$ 처치하세요.' voiceID="" />
+	<key id="20003284" name="오염되었던 땅이 정화되어 본래의 모습을 되찾았습니다." voiceID="" />
+	<key id="20003311" name="$npc:11001165$$pp:를,이를$ 따라가 볼까요?" voiceID="" />
+	<key id="20003312" name="스킬을 사용해서 덤불을 없애 주세요." voiceID="" />
+	<key id="20003313" name="발자국을 따라가서 친구를 찾아 보세요." voiceID="" />
+	<key id="20003314" name="주변에서 레버를 찾아 당겨 보세요." voiceID="" />
+	<key id="20003315" name="갇혀 있는 $npc:11001172$$pp:를,을$ 구해 주세요." voiceID="" />
+	<key id="20003491" name="뒤엉킨 어둠의 뿌리가 점점 풀리고 있습니다." voiceID="" />
+	<key id="20003492" name='검은 뿌리 덩굴 속에 갇힌 &lt;font color=&quot;#00a2ed&quot;&gt;요정&lt;/font&gt;을 구해주세요.' voiceID="" />
+	<key id="20003493" name='[[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;을 타고 이동하세요.' voiceID="" />
+	<key id="20003494" name="칠흑 속에 숨겨진 &lt;font color=&apos;#e91945&apos;&gt;어둠의 씨앗&lt;/font&gt;을 모두 제거하세요." voiceID="" />
+	<key id="20003495" name='검은 뿌리 덩굴 속에 갇힌 &lt;font color=&quot;#00a2ed&quot;&gt;레논&lt;/font&gt;을 구해주세요.' voiceID="" />
+	<key id="20100701" name="화살표를 따라 이동하세요." voiceID="" />
+	<key id="20100702" name="몰려오는 몬스터를 모두 처치하세요!" voiceID="" />
+	<key id="20100703" name="숲을 오염시키는 주범 카칼프$pp:를,을$ 처치하세요." voiceID="" />
+	<key id="20100704" name="사원 가운데 화살표가 있는 곳으로 이동하세요." voiceID="" />
+	<key id="20100705" name='[[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;을 타고 이동하세요.' voiceID="" />
+	<key id="25200201" name='&lt;font color=&quot;#00a2ed&quot;&gt;레버&lt;/font&gt;를 당기세요.' voiceID="" />
+	<key id="25200202" name="잘했습니다. 이제 오른쪽으로 이동하세요." voiceID="" />
+	<key id="25200203" name='[[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;을 타고 에반스빌로 이동하세요.' voiceID="" />
+	<key id="25200204" name="부서진 울타리를 모두 수리하세요." voiceID="" />
+	<key id="25200205" name="양들을 모두 구출하세요." voiceID="" />
+	<key id="25200206" name="오른쪽으로 점프해서 이동하세요." voiceID="" />
+	<key id="25200401" name="오른쪽에 보이는 피자를 들고 가세요." voiceID="" />
+	<key id="25200402" name='&lt;font color=&quot;#00a2ed&quot;&gt;불량 꿀꿀이&lt;/font&gt;를 처치하세요.' voiceID="" />
+	<key id="25200403" name='[[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;을 타고 이동하세요.' voiceID="" />
+	<key id="25200404" name="피자를 내려놓으면 스킬을 사용할 수 있습니다." voiceID="" />
+	<key id="25200405" name="벽을 부수고 피자를 다시 집어들어 왼쪽으로 가세요." voiceID="" />
+	<key id="25200406" name="더러운 큰빗하수구벌레가 나타났어요." voiceID="" />
+	<key id="25200407" name="엘리베이터를 타고 2층으로 올라가세요." voiceID="" />
+	<key id="25200408" name="벽돌 바닥을 밟으면 부서지니 조심하세요." voiceID="" />
+	<key id="25200409" name="배고픈 꿀꿀이들을 조심하세요." voiceID="" />
+	<key id="26100001" name="잠시 후에 시작합니다." voiceID="" />
+	<key id="26100002" name="다른 친구들이 올 때까지 조금만 기다려주세요." voiceID="" />
+	<key id="20003371" name='&lt;font color=&quot;#00a2ed&quot;&gt;기관실&lt;/font&gt; 내부로 이동하세요.' voiceID="" />
+	<key id="20003372" name='&lt;font color=&quot;#00a2ed&quot;&gt;레버&lt;/font&gt;를 조작하여 열차를 정지시키세요' voiceID="" />
+</ms2>

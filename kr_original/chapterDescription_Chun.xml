@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<chapter id="5000" name="무한한 힘의 원천" isTutorial="" regionID="" />
+	<chapter id="5001" name="지식이 모이는 곳" isTutorial="" regionID="" />
+	<chapter id="5002" name="정보를 사고 파는 상단" isTutorial="" regionID="" />
+	<chapter id="5003" name="인내하고 또 인내하라" isTutorial="" regionID="" />
+	<chapter id="5004" name="스승과의 작별" isTutorial="" regionID="" />
+	<chapter id="5005" name="떠오르는 선조의 유산" isTutorial="" regionID="" />
+	<chapter id="5006" name="스승의 소식" isTutorial="" regionID="" />
+	<chapter id="5007" name="스승의 첫 번째 가르침" isTutorial="" regionID="" />
+	<chapter id="5008" name="스승의 두 번째 가르침" isTutorial="" regionID="" />
+</ms2>

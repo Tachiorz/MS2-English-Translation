@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="1001" name="추천상품"/>
+	<key id="1002" name="전체"/>
+  
+	<key id="1003" name="전체"/>
+	<key id="1004" name="장비"/>
+	<key id="1005" name="전체"/>
+	<key id="1006" name="건설"/>
+	<key id="1007" name="전체"/>
+	<key id="1008" name="재료"/>
+	<key id="1009" name="탈것"/>	
+	<key id="1010" name="기타"/>
+	
+   	<key id="2000" name="한벌"/> 
+	<key id="2001" name="상의"/>
+	<key id="2002" name="하의"/>
+	<key id="2003" name="모자"/>
+	<key id="2004" name="망토"/>
+	<key id="2005" name="신발"/>
+	<key id="2006" name="장갑"/>
+	<key id="2007" name="얼굴장식"/>
+	<key id="2008" name="눈장식"/>  
+	<key id="2009" name="귀고리"/>
+	<key id="2010" name="목걸이"/>
+	<key id="2011" name="반지"/>  
+	<key id="2012" name="한손 무기"/>  
+	<key id="2013" name="양손 무기"/>
+	<key id="2014" name="보조 장비"/>
+	<key id="2015" name="물약"/>
+	<key id="2016" name="디자인 의상"/>
+	<key id="2017" name="무기"/>
+	<key id="2018" name="방어구"/>
+	<key id="2019" name="생활용품"/>
+	<key id="2020" name="과일주스"/>
+	<key id="2021" name="리키스 룩"/>	
+	<key id="2022" name="쿨 퍼니쳐"/>		
+	<key id="2023" name="벨트"/>		
+	<key id="2024" name="무기"/>		
+	<key id="2025" name="액세서리"/>
+	<key id="2026" name="스킬북"/>			
+	<key id="2027" name="스낵"/>			
+	<key id="2028" name="장난감"/>
+	<key id="2029" name="응원용품"/>
+	<key id="2030" name="스페셜 스킨"/>				
+	<key id="2031" name="스킨"/>		
+	<key id="2032" name="간식"/>			
+	<key id="2033" name="바비큐"/>				
+	<key id="2034" name="음료수"/>	
+	<key id="2035" name="럭셔리 다이닝"/>	
+	<key id="2036" name="달콤한 열매"/>		
+	<key id="2037" name="수영복"/>
+	<key id="2038" name="스페셜 의상"/>
+	
+	<key id="2040" name="자동차"/>
+	<key id="2041" name="몬스터"/>
+
+	<key id="2042" name="공예 재료"/>
+	<key id="2043" name="식재료"/>
+	<key id="2044" name="연금 재료"/>
+	<key id="2045" name="기타 재료"/>
+	
+	<key id="2050" name="화보집"/>
+	<key id="2051" name="메이플 코믹스"/>
+	
+	<key id="2060" name="명예의 무기"/>
+	<key id="2061" name="명예의 방어구"/>
+	<key id="2062" name="명예의 탈것"/>
+	
+	<key id="2070" name="카르마 스킨"/>
+	<key id="2071" name="카르마 무기"/>
+	<key id="2072" name="카르마 방어구"/>
+	<key id="2073" name="카르마 탈것"/>
+
+	<key id="2074" name="디자인 원본"/>
+	<key id="2075" name="마네킹"/>	
+
+	<key id="2076" name="스페셜 무기"/>
+	<key id="2077" name="이벤트 상품"/>	
+	
+	<key id="2078" name="광물"/>	
+	
+	<key id="3000" name="장식용 건물"/>
+	<key id="3001" name="지형"/>
+	<key id="3002" name="인테리어 소품"/>
+	<key id="3003" name="피팅돌"/>
+	<key id="3004" name="탈것"/>
+	<key id="3005" name="기념품"/>	
+	<key id="3006" name="금고"/>	
+	<key id="3007" name="몬스터 박스"/>
+	<key id="3008" name="특산품"/>
+	<key id="3009" name="생활,가전"/>
+	<key id="3010" name="나무"/>
+	<key id="3011" name="풀, 꽃, 버섯"/>
+	<key id="3012" name="계단 큐브"/>
+	<key id="3013" name="특이한 상품"/>
+	<key id="3014" name="기념품"/>	
+	<key id="3015" name="액션 수강증"/>
+	<key id="3016" name="엔필라르"/>
+	<key id="3017" name="뷰티 쿠폰"/>		
+	<key id="3018" name="마네킹"/>
+	<key id="3019" name="몬스터 탈것"/>			
+	<key id="3020" name="다용도 보관함"/>			
+	<key id="3021" name="수납형 가구"/>
+	<key id="3022" name="실내가 있는 건물"/>	
+	<key id="3023" name="실외 패키지"/>			
+	<key id="3024" name="실내 패키지"/>
+	<key id="3025" name="터보 지프"/>		
+	<key id="3026" name="라이더 쵸퍼"/>	
+	<key id="3027" name="건물"/>	
+	<key id="3028" name="큐브"/>	
+	<key id="3029" name="데코"/>		
+
+	<key id="3030" name="제작 도구"/>	
+	<key id="3031" name="공예 도구"/>
+	<key id="3032" name="연금 도구"/>
+	<key id="3033" name="조리 도구"/>	
+	
+	<key id="9001" name="조립형 건물"/>	
+	<key id="9002" name="단층 건물"/>	
+	<key id="9003" name="원예 소품"/>	
+	<key id="9004" name="지형, 벽"/>
+	<key id="9005" name="구조물"/>
+	<key id="9006" name="벽장식"/>	
+	<key id="9007" name="가구"/>	
+	<key id="9008" name="욕실"/>	
+	<key id="9009" name="인테리어"/>	
+	<key id="9010" name="전자제품"/>	
+	<key id="9011" name="산업"/>	
+	<key id="9012" name="DIY"/>	
+
+	
+	<key id="9100" name="1층"/>		
+	<key id="9101" name="중간층"/>		
+	<key id="9102" name="옥상"/>		
+
+	<key id="9103" name="실내가 있는 단층"/>		
+	<key id="9104" name="꾸미기 단층 건물"/>		
+
+	<key id="9105" name="나무"/>		
+	<key id="9106" name="풀, 꽃"/>	
+	<key id="9107" name="화단, 화분"/>	
+	<key id="9108" name="정원 장식"/>	
+
+	<key id="9109" name="벽"/>	
+	<key id="9110" name="바닥"/>	
+	<key id="9111" name="경사로"/>	
+	<key id="9112" name="창문"/>	
+	<key id="9113" name="문"/>	
+
+	<key id="9114" name="펜스"/>	
+	<key id="9115" name="계단, 창문"/>	
+	<key id="9116" name="사다리"/>	
+	<key id="9117" name="문 큐브"/>	
+	<key id="9118" name="프레임"/>	
+
+	<key id="9119" name="장식품"/>	
+	<key id="9120" name="선반"/>	
+	<key id="9121" name="액자"/>	
+	<key id="9122" name="벽거울"/>	
+	<key id="9123" name="커튼"/>	
+	<key id="9124" name="조명"/>	
+	<key id="9125" name="프레임"/>	
+
+	<key id="9126" name="침대"/>	
+	<key id="9127" name="수납"/>	
+	<key id="9128" name="테이블"/>	
+	<key id="9129" name="의자"/>		
+	<key id="9130" name="소파"/>			
+
+	<key id="9131" name="거실용품"/>			
+	<key id="9132" name="조명, 난방"/>			
+	<key id="9133" name="생활 용품"/>			
+	<key id="9134" name="주방 용품"/>		
+	<key id="9135" name="장식품"/>		
+
+	<key id="9136" name="제어 기기"/>		
+	<key id="9137" name="생활가전"/>	
+	
+
+	
+	<key id="9138" name="마네킹, 보관함"/>	
+	<key id="9139" name="통합 보관함"/>
+	<key id="9140" name="전용 보관함"/>	
+	<key id="9141" name="기본 자재"/>	
+	<key id="9142" name="울타리"/>	
+	<key id="9143" name="인테리어"/>	
+	<key id="9144" name="침실"/>		
+	<key id="9145" name="서재"/>	
+	<key id="9146" name="식당"/>
+	<key id="9147" name="화장실"/>	
+	<key id="9148" name="다용도실"/>	
+	<key id="9149" name="실내 인테리어"/>	
+	<key id="9150" name="정원"/>	
+	<key id="9151" name="거리"/>	
+	<key id="9152" name="실외 인테리어"/>	
+	<key id="9153" name="단층"/>		
+	<key id="9154" name="조립식"/>		
+	<key id="9155" name="조립식 상층"/>		
+	<key id="9156" name="단층"/>
+	<key id="9157" name="실내"/>	
+	<key id="9158" name="실외"/>			
+	<key id="9159" name="메이드"/>
+	<key id="9160" name="건물"/>
+	<key id="9163" name="인테리어 공사권"/>	
+
+	<key id="9161" name="메이드 고용"/>
+	<key id="9162" name="쿠폰 사용"/>		
+	
+	<key id="9900" name="남성 의류" />
+	<key id="9901" name="여성 의류" />
+	<key id="9902" name="남여공용 의류" />
+	<key id="9903" name="디자인 큐브" />
+	<key id="9904" name="디자인 탈것" />
+
+  <key id="9904" name="이벤트 모자" />
+  <key id="9905" name="크리스마스 소품" />
+  <key id="9907" name="이벤트 탈것" /> 
+  <key id="9906" name="산타파파의 애장품" />
+  <key id="9908" name="산타파파의 간식" />
+
+  <key id="9999" name="★ 추천"/>	
+	<key id="10000" name="패키지"/>		
+		
+			
+
+<!--블랙마켓 카테고리-->
+	
+	<key id="31000" name="무기" />		
+	<key id="31130" name="둔기" />		
+	<key id="31131" name="단검" />		
+	<key id="31132" name="롱소드" />	
+	<key id="31133" name="홀" />		
+	<key id="31134" name="표창" />		
+	<key id="31150" name="라지소드" />	
+	<key id="31151" name="활" />		
+	<key id="31152" name="스태프" />	
+	<key id="31153" name="캐논" />		
+	<key id="31154" name="블레이드" />	
+
+	<key id="32000" name="보조무기" />	
+	<key id="32140" name="법전" />	
+	<key id="32141" name="방패" />	
+	
+	<key id="33000" name="방어구" />	
+	<key id="33122" name="한벌" />	
+	<key id="33114" name="상의" />		
+	<key id="33115" name="하의" />		
+	<key id="33113" name="모자" />		
+	<key id="33118" name="망토" />		
+	<key id="33117" name="신발" />		
+	<key id="33116" name="장갑" />		
+	<key id="33121" name="벨트" />		
+	
+	<key id="34000" name="악세서리" />	
+	<key id="34112" name="귀고리" />	
+	<key id="34119" name="목걸이" />	
+	<key id="34120" name="반지" />		
+	
+	<key id="35000" name="스킨" />		
+	<key id="35122" name="한벌" />	
+	<key id="35114" name="상의" />		
+	<key id="35115" name="하의" />		
+	<key id="35113" name="모자" />		
+	<key id="35118" name="망토" />		
+	<key id="35117" name="신발" />		
+	<key id="35116" name="장갑" />		
+	<key id="35110" name="얼굴장식" />	
+	<key id="35111" name="눈장식" />	
+	<key id="35112" name="귀고리" />	
+	<key id="36000" name="무기" />		
+
+	
+	<key id="37000" name="건설" />		
+	<key id="37010" name="지형" />		
+	<key id="37011" name="건물" />		
+	<key id="37012" name="데코" />		
+	<key id="37013" name="기념품" />	
+	<key id="37015" name="마네킹" />	
+	<key id="37016" name="보관함" />	
+	<key id="37017" name="컨트롤러" />	
+	<key id="37018" name="패키지" />
+	<key id="37019" name="공사권" />
+	
+	<key id="38000" name="스킬북" />	
+	<key id="38004" name="액티브" />	
+	<key id="38005" name="패시브" />	
+	<key id="38019" name="액션" />		
+	
+	<key id="39000" name="그 외" />		
+	<key id="39006" name="포션" />		
+	<key id="39014" name="탈것" />		
+	<key id="39008" name="액션" />		
+	<key id="39021" name="스토리북" />	
+	<key id="39009" name="기타" />	
+	<key id="39010" name="전체" />		
+
+<!--프리미엄 샵-->
+	<key id="40000" name="디자인 원본" />		
+	<key id="40001" name="특가판매" />		
+	<key id="40002" name="건설" />
+		
+	<key id="40100" name="스킨 방어구"/>
+	<key id="40101" name="액세서리" />	
+	<key id="40104" name="모자" />	
+	<key id="40105" name="한벌" />	
+	<key id="40106" name="상의" />	
+	<key id="40107" name="하의" />		
+	<key id="40108" name="신발" />		
+	<key id="40109" name="장갑" />			
+	<key id="40110" name="망토" />		
+	<key id="40200" name="스킨 무기" />	
+	<key id="40201" name="오른손 무기" />	
+	<key id="40202" name="왼손 무기" />	
+	<key id="40203" name="양손 무기" />	
+	
+	<key id="40300" name="건설" />	
+	<key id="40301" name="일반" />	
+	<key id="40302" name="설치 장비" />	
+	<key id="40400" name="보관함" />	
+	<key id="40500" name="메이드" />	
+	<key id="40600" name="마네킹" />	
+	<key id="40700" name="탈것" />	
+	<key id="40800" name="액션 수강증" />	
+	<key id="40900" name="액션 스킬북" />		
+	<key id="41000" name="소비,기타" />
+	<key id="41100" name="배지" />
+	
+	</ms2>
+

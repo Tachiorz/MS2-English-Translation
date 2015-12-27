@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<chapter id="1" name="알현식을 향해" isTutorial="OK" regionID="" />
+	<chapter id="2" name="보이지 않는 진실" isTutorial="OK" regionID="" />
+	<chapter id="3" name="드리워진 그림자" isTutorial="OK" regionID="" />
+	<chapter id="4" name="특별한 임무" isTutorial="OK" regionID="" />
+	<chapter id="5" name="붉은 망토의 비밀" isTutorial="OK" regionID="" />
+	<chapter id="6" name="희망의 빛" isTutorial="OK" regionID="" />
+	<chapter id="7" name="바람과 함께 사라지다" isTutorial="OK" regionID="" />
+	<chapter id="8" name="드러나는 진실" isTutorial="OK" regionID="" />
+	<chapter id="9" name="제자리로 돌아오다" isTutorial="OK" regionID="" />
+	<chapter id="10" name="멈춰버린 시간을 찾아서" isTutorial="OK" regionID="" />
+	<chapter id="101" name="고집불통 루크" isTutorial="OK" regionID="" />
+	<chapter id="102" name="어둠의 숲, 그 속에는…" isTutorial="OK" regionID="" />
+	<chapter id="103" name="꿀 도둑" isTutorial="OK" regionID="" />
+	<chapter id="104" name="세상에 없는 효자" isTutorial="OK" regionID="" />
+	<chapter id="105" name="개구쟁이 내 동생" isTutorial="OK" regionID="" />
+	<chapter id="106" name="얼어버린 사람들" isTutorial="OK" regionID="" />
+	<chapter id="107" name="손녀를 살리는 약초" isTutorial="OK" regionID="" />
+	<chapter id="108" name="가장의 무게" isTutorial="OK" regionID="" />
+	<chapter id="109" name="나무꾼의 분노" isTutorial="OK" regionID="" />
+	<chapter id="110" name="그들이 사는 법" isTutorial="OK" regionID="" />
+	<chapter id="111" name="꽃게 정복" isTutorial="OK" regionID="" />
+	<chapter id="112" name="진주 캐는 소녀" isTutorial="OK" regionID="" />
+	<chapter id="113" name="먹보의 입맛" isTutorial="OK" regionID="" />
+	<chapter id="114" name="체력이 곧 재산" isTutorial="OK" regionID="" />
+	<chapter id="115" name="골두스 제약의 비밀" isTutorial="OK" regionID="" />
+	<chapter id="116" name="초보 메이드의 실수" isTutorial="OK" regionID="" />
+	<chapter id="117" name="그도 누군가에게는 은인이었다" isTutorial="OK" regionID="" />
+	<chapter id="118" name="위험한 DNA" isTutorial="OK" regionID="" />
+	<chapter id="119" name="금성에서 온 여자" isTutorial="OK" regionID="" />
+	<chapter id="120" name="친구를 위한 선물" isTutorial="OK" regionID="" />
+	<chapter id="121" name="새 집을 구합니다" isTutorial="OK" regionID="" />
+	<chapter id="122" name="다시 만난 친구" isTutorial="OK" regionID="" />
+	<chapter id="123" name="갈라진 땅" isTutorial="OK" regionID="" />
+	<chapter id="124" name="유일한 낙" isTutorial="OK" regionID="" />
+	<chapter id="125" name="초원의 무법자" isTutorial="OK" regionID="" />
+	<chapter id="126" name="남자가 사랑할 때" isTutorial="OK" regionID="" />
+	<chapter id="127" name="폭풍의 날개 : 그리피나" isTutorial="OK" regionID="" />
+	<chapter id="128" name="요정에게 유리구두란?" isTutorial="OK" regionID="" />
+	<chapter id="129" name="단 하나의 사랑" isTutorial="OK" regionID="" />
+	<chapter id="130" name="갈 곳 잃은 요정, 엘보" isTutorial="OK" regionID="" />
+	<chapter id="131" name="구리구리 악질의 횡포" isTutorial="OK" regionID="" />
+	<chapter id="132" name="재도약을 꿈꾸며" isTutorial="OK" regionID="" />
+	<chapter id="133" name="자유를 찾아서" isTutorial="OK" regionID="" />
+	<chapter id="134" name="농사, 참 어렵더라" isTutorial="OK" regionID="" />
+	<chapter id="135" name="메를린이 원하는 것" isTutorial="OK" regionID="" />
+	<chapter id="136" name="늘 곤란한 젝스" isTutorial="OK" regionID="" />
+	<chapter id="137" name="사랑과 집착 사이" isTutorial="OK" regionID="" />
+	<chapter id="138" name="전설이 된 주술사" isTutorial="OK" regionID="" />
+	<chapter id="139" name="상위 1%의 취향" isTutorial="OK" regionID="" />
+	<chapter id="140" name="사라졌던 쁘띠 몽슈슈" isTutorial="OK" regionID="" />
+	<chapter id="141" name="마음의 벽" isTutorial="OK" regionID="" />
+	<chapter id="142" name="유니콘의 비극" isTutorial="OK" regionID="" />
+	<chapter id="143" name="죽음의 향기" isTutorial="OK" regionID="" />
+	<chapter id="144" name="엑스텀프의 도끼에 대하여" isTutorial="OK" regionID="" />
+	<chapter id="145" name="화물 손상의 원인" isTutorial="OK" regionID="" />
+	<chapter id="146" name="눈치 빠른 장사꾼" isTutorial="OK" regionID="" />
+	<chapter id="147" name="위기의 레볼딕" isTutorial="OK" regionID="" />
+	<chapter id="148" name="자원의 재활용" isTutorial="OK" regionID="" />
+	<chapter id="149" name="협곡의 늑대잡이" isTutorial="OK" regionID="" />
+	<chapter id="150" name="쉿! 천기누설" isTutorial="OK" regionID="" />
+	<chapter id="151" name="목구멍이 포도청" isTutorial="OK" regionID="" />
+	<chapter id="152" name="인터체인지 대폭동" isTutorial="OK" regionID="" />
+	<chapter id="153" name="차우의 흑역사" isTutorial="OK" regionID="" />
+	<chapter id="154" name="이웃의 마음으로" isTutorial="OK" regionID="" />
+	<chapter id="155" name="그리운 숲" isTutorial="OK" regionID="" />
+	<chapter id="156" name="불의의 사고" isTutorial="OK" regionID="" />
+	<chapter id="157" name="어둠의 악령 : 분노의 바포메트" isTutorial="OK" regionID="" />
+	<chapter id="158" name="안전한 아르바이트" isTutorial="OK" regionID="" />
+	<chapter id="159" name="거북의 분노" isTutorial="OK" regionID="" />
+	<chapter id="160" name="질투의 화신" isTutorial="OK" regionID="" />
+	<chapter id="161" name="사라진 소녀들 : 매드오네뜨" isTutorial="OK" regionID="" />
+	<chapter id="162" name="폭풍의 날개 : 그리폰" isTutorial="OK" regionID="" />
+	<chapter id="163" name="그립고, 그립다" isTutorial="OK" regionID="" />
+	<chapter id="164" name="보스 던전 : 오빠 찾아 삼만리" isTutorial="OK" regionID="" />
+	<chapter id="165" name="꿈은 이루어진다" isTutorial="OK" regionID="" />
+	<chapter id="166" name="종이꽃에 숨겨진 마음" isTutorial="OK" regionID="" />
+	<chapter id="167" name="사라진 문헌의 기록" isTutorial="OK" regionID="" />
+	<chapter id="168" name="그림자 군단의 제단" isTutorial="OK" regionID="" />
+	<chapter id="169" name="카트라무스를 향하여" isTutorial="OK" regionID="" />
+	<chapter id="170" name="푸른 소용돌이" isTutorial="OK" regionID="" />
+	<chapter id="171" name="보스 던전 : 고대인의 보물" isTutorial="OK" regionID="" />
+	<chapter id="172" name="커져가는 위험" isTutorial="OK" regionID="" />
+	<chapter id="173" name="쉐도우 월드에 대한 속설" isTutorial="OK" regionID="" />
+	<chapter id="174" name="낙원을 찾아서" isTutorial="OK" regionID="" />
+	<chapter id="175" name="개과천선의 미덕" isTutorial="OK" regionID="" />
+	<chapter id="176" name="메를린에게 필요한 것" isTutorial="OK" regionID="" />
+	<chapter id="177" name="보스 던전 : 시계탑의 비밀" isTutorial="OK" regionID="" />
+	<chapter id="178" name="독액을 가르며" isTutorial="OK" regionID="" />
+	<chapter id="179" name="독 오른 보물" isTutorial="OK" regionID="" />
+	<chapter id="180" name="바람아 멈추어 다오" isTutorial="OK" regionID="" />
+	<chapter id="181" name="다시 만난 보로보로" isTutorial="OK" regionID="" />
+	<chapter id="182" name="오! 나의 공주님" isTutorial="OK" regionID="" />
+	<chapter id="183" name="복수는 나의 것" isTutorial="OK" regionID="" />
+	<chapter id="184" name="끝없는 전쟁" isTutorial="OK" regionID="" />
+	<chapter id="185" name="고요한 폭풍" isTutorial="OK" regionID="" />
+	<chapter id="186" name="거침없는 발걸음" isTutorial="OK" regionID="" />
+	<chapter id="187" name="루루의 소원" isTutorial="OK" regionID="" />
+	<chapter id="188" name="영웅의 길 : 발돋움" isTutorial="OK" regionID="" />
+	<chapter id="189" name="도시의 위협자" isTutorial="OK" regionID="" />
+	<chapter id="190" name="바야르 산맥의 저주" isTutorial="OK" regionID="" />
+	<chapter id="191" name="악마의 하수인" isTutorial="OK" regionID="" />
+	<chapter id="192" name="숲의 괴수" isTutorial="OK" regionID="" />
+	<chapter id="193" name="달빛 선장의 비밀" isTutorial="OK" regionID="" />
+	<chapter id="194" name="영웅의 길 : 도약" isTutorial="OK" regionID="" />
+	<chapter id="195" name="숲의 빛" isTutorial="OK" regionID="" />
+	<chapter id="196" name="땅의 힘" isTutorial="OK" regionID="" />
+	<chapter id="197" name="바다의 그림자" isTutorial="OK" regionID="" />
+	<chapter id="198" name="시간의 그림자" isTutorial="OK" regionID="" />
+	<chapter id="199" name="핑크램을 아시나요?" isTutorial="OK" regionID="" />
+	<chapter id="200" name="늑대야, 물럿거라!" isTutorial="OK" regionID="" />
+	<chapter id="201" name="합격을 향해" isTutorial="OK" regionID="" />
+	<chapter id="202" name="시간을 가로질러" isTutorial="OK" regionID="" />
+	<chapter id="203" name="시간을 지배하려는 자" isTutorial="OK" regionID="" />
+	<chapter id="204" name="죄와 벌" isTutorial="OK" regionID="" />
+	<chapter id="205" name="어쩌면 그곳에" isTutorial="OK" regionID="" />
+	<chapter id="206" name="차가운 거인" isTutorial="OK" regionID="" />
+	<chapter id="207" name="환령의 수련" isTutorial="OK" regionID="" />
+	<chapter id="208" name="용맹의 시험" isTutorial="OK" regionID="" />
+	<chapter id="209" name="대장의 마음" isTutorial="OK" regionID="" />
+	<chapter id="210" name="돼지들의 반란" isTutorial="OK" regionID="" />
+	<chapter id="211" name="낯선 이방인" isTutorial="OK" regionID="" />
+	<chapter id="212" name="마요르의 메이플 적응기" isTutorial="OK" regionID="" />
+	<chapter id="213" name="소리없는 침략" isTutorial="OK" regionID="" />
+	<chapter id="214" name="어둠의 꽃" isTutorial="OK" regionID="" />
+	<chapter id="215" name="어둠의 줄기" isTutorial="OK" regionID="" />
+	<chapter id="216" name="끝없는 도전" isTutorial="OK" regionID="" />
+	<chapter id="217" name="마왕의 아들" isTutorial="OK" regionID="" />
+	<chapter id="218" name="어둠의 뿌리" isTutorial="OK" regionID="" />
+	<chapter id="219" name="메르카즈의 보물" isTutorial="OK" regionID="" />
+	<chapter id="220" name="보마르는 어디에" isTutorial="OK" regionID="" />
+</ms2>

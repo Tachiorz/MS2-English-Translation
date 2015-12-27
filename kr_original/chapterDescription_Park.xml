@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<chapter id="4000" name="동생을 찾아주세요" isTutorial="" regionID="" />
+	<chapter id="4001" name="위기의 어린이들" isTutorial="" regionID="" />
+	<chapter id="4002" name="메이플 TV 교양국의 위기" isTutorial="" regionID="" />
+	<chapter id="4003" name="무한한 힘의 봉인을 풀 방법" isTutorial="" regionID="" />
+	<chapter id="4004" name="어둠의 힘 : 초보자의 파해법" isTutorial="" regionID="" />
+	<chapter id="4005" name="어둠의 힘 : 나이트의 파해법" isTutorial="" regionID="" />
+	<chapter id="4006" name="어둠의 힘 : 버서커의 파해법" isTutorial="" regionID="" />
+	<chapter id="4007" name="어둠의 힘 : 위자드의 파해법" isTutorial="" regionID="" />
+	<chapter id="4008" name="어둠의 힘 : 프리스트의 파해법" isTutorial="" regionID="" />
+	<chapter id="4009" name="어둠의 힘 : 레인저의 파해법" isTutorial="" regionID="" />
+	<chapter id="4010" name="어둠의 힘 : 헤비거너의 파해법" isTutorial="" regionID="" />
+	<chapter id="4011" name="어둠의 힘 : 시프의 파해법" isTutorial="" regionID="" />
+	<chapter id="4012" name="어둠의 힘 : 어쌔신의 파해법" isTutorial="" regionID="" />
+	<chapter id="4013" name="저주받은 무기 : 초보자의 기다림 " isTutorial="" regionID="" />
+	<chapter id="4014" name="저주받은 무기 : 나이트의 기다림 " isTutorial="" regionID="" />
+	<chapter id="4015" name="저주받은 무기 : 버서커의 기다림 " isTutorial="" regionID="" />
+	<chapter id="4016" name="저주받은 무기 : 위자드의 기다림 " isTutorial="" regionID="" />
+	<chapter id="4017" name="저주받은 무기 : 프리스트의 기다림 " isTutorial="" regionID="" />
+	<chapter id="4018" name="저주받은 무기 : 레인저의 기다림 " isTutorial="" regionID="" />
+	<chapter id="4019" name="저주받은 무기 : 헤비거너의 기다림 " isTutorial="" regionID="" />
+	<chapter id="4020" name="저주받은 무기 : 시프의 기다림 " isTutorial="" regionID="" />
+	<chapter id="4021" name="저주받은 무기 : 어쌔신의 기다림 " isTutorial="" regionID="" />
+	<chapter id="4022" name="어둠의 힘 : 룬 블레이더의 파해법" isTutorial="" regionID="" />
+	<chapter id="4023" name="저주받은 무기 : 룬 블레이더의 기다림 " isTutorial="" regionID="" />
+</ms2>

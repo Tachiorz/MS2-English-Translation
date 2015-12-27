@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="1013092705000877" npc="브린" name='$MyPCName$님! 혹시 작은 아이 하나 못 보셨나요? &#x0A;노란색 머리에, 키는 제 허리 정도까지 오는.. 이름은 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001166$&lt;/font&gt;이라고 해요. &#x0A;제 동생인데.. 아무리 찾아봐도 보이질 않네요.' />
+	<key id="1013092705000878" npc="브린" name='친구들을 불러 모으는 것 같았는데.. 아무래도 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000331$&lt;/font&gt;$pp:으로,로$ &#x0A;다 함께 들어가 버린 건 아닌지 걱정이 되네요.&#x0A;절대 들어가면 안 되고, 어딘지 찾아볼 생각도 말라고 그렇게 말했는데…!' />
+	<key id="1013092705000879" npc="브린" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000331$&lt;/font&gt;$pp:가,이$ 어떤 곳이길래 걱정이 되는지 묻는다.' />
+	<key id="1013092705000880" npc="브린" name="알록달록 꽃나무가 많아서 무척 예쁜 숲길이죠. &#x0A;하지만, 위험하니 들어가면 안 된다며 어른들이 입구를 막아 버린 곳이기도 해요.&#x0A;아주 까칠한 마법사가 살고 있는데, 숲에 들어오는 사람은 무조건 공격한대요." />
+	<key id="1013092705000881" npc="브린" name="동생이 왜 그곳에 갔다고 생각하는지 묻는다." />
+	<key id="1013092705000882" npc="브린" name='&lt;font color=&quot;#ffd200&quot;&gt;$npc:11001166$&lt;/font&gt;$pp:는,은$ 호기심이 많고 활발한 아이죠. &#x0A;친구도 많아서, 여럿이 함께 우르르 몰려다니며 놀고 그래요.' />
+	<key id="1013092705000883" npc="브린" name='그런데 며칠 전, 저에게 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000331$$pp:가,이$ 어딘지 아느냐고&lt;/font&gt; 묻더라고요.&#x0A;갑자기 묻는 걸 보니 들어가 보려는 것 같아서, 절대 안 된다며 크게 혼냈거든요. &#x0A;그래서 그랬는지 말도 없이 사라져 버렸네요... 빨리 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001166$&lt;/font&gt; 이 녀석을 찾아야 해요.' />
+	<key id="1013092705000884" npc="브린" name="어떻게 도우면 좋을지 묻는다." />
+	<key id="1013092705000885" npc="브린" name="좀더 따끔하게 야단치지 그랬냐고 질책한다." />
+	<key id="1013092705000886" npc="브린" name='저는 이 길을 따라 마을 북쪽을 훑어보려고 해요. &#x0A;$MyPCName$님께선 &lt;font color=&quot;#ffd200&quot;&gt;마을 남쪽&lt;/font&gt;을 좀 찾아봐 주시겠어요? &#x0A;친구들도 함께 있을 텐데..  잘 타일러 안전한 곳으로 데려와 주세요. 부탁드려요. ' />
+	<key id="1013092705000887" npc="브린" name='아직 어려서, 잘 몰라서 그러니 이해해 주세요. 찾으면 잘 타이를게요. &#x0A;$MyPCName$님께선 &lt;font color=&quot;#ffd200&quot;&gt;마을 남쪽&lt;/font&gt;을 좀 찾아봐 주시겠어요? 전 북쪽으로 가 볼게요.&#x0A;친구들도 함께 있을 텐데..  제발 부탁드려요. ' />
+	<key id="1013092705000888" npc="브린" name='$MyPCName$님, $npcName:11001166$$pp:를,을$ 보시면 안전한 곳으로 데려와 주세요. &#x0A;전 마을 북쪽을 찾아볼 테니, &lt;font color=&quot;#ffd200&quot;&gt;마을 남쪽&lt;/font&gt;을 살펴봐 주세요. 부탁드려요.' />
+	<key id="1013092705000889" npc="브린" name='앗... 네. 맞아요, 제가 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001166$&lt;/font&gt;이예요. &#x0A;어떻게 아셨어요?' />
+	<key id="1013092705000890" npc="메린" name="네? 형이 절 찾고 있다고요? &#x0A;진짜로요? " />
+	<key id="1013092705000891" npc="메린" name="안전한 곳으로 돌아가야 한다고 타이른다." />
+	<key id="1013092705000892" npc="메린" name='안돼요, 그럴 순 없어요!&#x0A;아직 &lt;font color=&quot;#ffd200&quot;&gt;친구들&lt;/font&gt;이 안에 있단 말예요... 엉엉...' />
+	<key id="1013092705000893" npc="메린" name="울지 말고 천천히 얘기해 보라고 달랜다." />
+	<key id="1013092705000894" npc="메린" name='친구들이랑 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000331$&lt;/font&gt;에서 막 &lt;font color=&quot;#ffd200&quot;&gt;숨바꼭질&lt;/font&gt;을 시작하려는데… 으흑. &#x0A;뭔가 펑펑 터지는 것 같은 큰 소리가 나고, &#x0A;누가 움직이는 것 같은 소리도 들렸어요…!' />
+	<key id="1013092705000895" npc="메린" name='$npc:11001167$ 형이 말했던 &lt;font color=&quot;#ffd200&quot;&gt;까칠한 마법사&lt;/font&gt;가&#x0A;우릴 보고, 잡아가려고 오는 같아서, 무서워서…!&#x0A;막 뛰어나왔어요. 으앙…!  ' />
+	<key id="1013092705000896" npc="메린" name="친구들은 아직 숲 안에 있느냐고 묻는다." />
+	<key id="1013092705000897" npc="메린" name="네, 맞아요…! 아마 어딘가 숨어 있을 것 같은데… &#x0A;$MyPCName$님, $map:02000331$에 같이 들어가서 친구들 좀 구해 주세요..!&#x0A;$MyPCName$님이라면 그 무서운 마법사도 이길 수 있잖아요~ 네? " />
+	<key id="1013092705000898" npc="메린" name="$MyPCName$님, $map:02000331$$pp2:로,으로$ 가려면&#x0A;이 입구로 들어가면 돼요. $map:02000331$ 안에서 만나요!" />
+	<key id="1013092705000899" npc="메린" name="$MyPCName$님 덕분에 우리 모두 무사히 빠져나왔어요.&#x0A;친구들도 모두 고맙다고 전해 달래요! 복 받으실 거예요! " />
+	<key id="1013092705000900" npc="메린" name="우와! $MyPCName$님이다!!&#x0A;저 좀 도와주시면 안 돼요? 제발요~!" />
+	<key id="1013092705000901" npc="메린" name='또.. 또 그 &lt;font color=&quot;#ffd200&quot;&gt;까칠한 마법사&lt;/font&gt;한테 들키고 말았어요! &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000331$&lt;/font&gt;에 같이 들어가서 친구들 좀 도와주세요..!&#x0A;흑흑.. 난 몰라.. ' />
+	<key id="1013092705000902" npc="메린" name="그러게 위험한 곳에 왜 또 들어갔느냐고 혼낸다." />
+	<key id="1013092705000903" npc="메린" name='$map:02000331$엔 예쁜 꽃나무도 많고, 사람도 없어서 &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;숨바꼭질&lt;/font&gt;하기 정말 좋단 말예요.&#x0A;그 &lt;font color=&quot;#ffd200&quot;&gt;마법사&lt;/font&gt;한테 들키지만 않으면 되는데.. 왜 꼭 제가 술래일 때만 나타나는지…!' />
+	<key id="1013094405000907" npc="메린" name="(그게 문제가 아닌 것 같은데…) " />
+	<key id="1013092705000904" npc="메린" name="$MyPCName$님은 강하잖아요. 그러니까 한 번만 더 도와주세요.  &#x0A;이렇게 부탁할게요, 네? 제발요~" />
+	<key id="1013092705000905" npc="메린" name="역시, $MyPCName$님 최고예요~! 또 도와주신다니!!&#x0A;$map:02000331$ 안에서 만나요!" />
+	<key id="1013092705000906" npc="메린" name="$MyPCName$님, 이번에도 진~짜로 멋있었어요! &#x0A;도와주신 덕에 모두 무사히 빠져나왔어요. 정말 고마워요!" />
+	<key id="1021032505000908" npc="교양 PD 요안나" name='안녕하세요. &#x0A;혹시 &lt;font color=&quot;#ffd200&quot;&gt;메이플 TV 소속&lt;/font&gt;이세요? ' />
+	<key id="1021032505000909" npc="교양 PD 요안나" name="그렇다고 말한다." />
+	<key id="1021032505000910" npc="교양 PD 요안나" name="아니라고 말한다." />
+	<key id="1021032505000911" npc="교양 PD 요안나" name='그래요? 처음 보는 분 같은데… &lt;font color=&quot;#ffd200&quot;&gt;신입사원&lt;/font&gt;인 모양이죠? &#x0A;그렇다면 지금부터 &lt;font color=&quot;#ffd200&quot;&gt;내가 지시하는 일&lt;/font&gt; 좀 해 줘요, 후배님. ' />
+	<key id="1021032505000912" npc="교양 PD 요안나" name="사실은 메이플 TV 소속이 아니라고 솔직하게 말한다." />
+	<key id="1021032505000913" npc="교양 PD 요안나" name="무엇이든 시켜만 달라고 말한다." />
+	<key id="1021032505000914" npc="교양 PD 요안나" name="하긴… 한창 바쁜 시간인데 나와 있는 사람은 저뿐일 거예요.&#x0A;걱정은 되는데, 직접 찾으러 갈 수도 없는 상황이고…&#x0A;답답해서 잠시 머리 식힐 겸 나왔죠. 곧 들어가 봐야 하지만요." />
+	<key id="1021032505000915" npc="교양 PD 요안나" name="무슨 걱정이라도 있는지 묻는다." />
+	<key id="1021032505000916" npc="교양 PD 요안나" name='전 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001191$&lt;/font&gt;$pp:라,이라$고 합니다. 생태계 이상 현상을 다루는 다큐멘터리를 &#x0A;준비하고 있는데, &lt;font color=&quot;#ffd200&quot;&gt;현장에 간 우리 스태프들&lt;/font&gt;이 돌아오질 않네요.&#x0A;일손도, 일정도 부족한 가운데 정말 노력하고 있는 사람들인데… &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;무슨 일이라도 생긴 건 아닌지&lt;/font&gt; 걱정이 돼요.' />
+	<key id="1021032505000917" npc="교양 PD 요안나" name='촬영 현장은 &lt;font color=&quot;#ffd200&quot;&gt;$map:2000045$, $map:2000003$, $map:2000010$,&#x0A;$map:2000255$, $map:2000007$&lt;/font&gt;예요. 총 다섯 군데랍니다. &#x0A;국장님께서 화면을 보고 싶어 하시는데, 영상 촬영분이 너무 부족해요.&#x0A;한 명이라도, &lt;font color=&quot;#ffd200&quot;&gt;설치한 카메라를 회수&lt;/font&gt;해 오기만 하면 되는데…. ' />
+	<key id="1021032505000918" npc="교양 PD 요안나" name='&lt;font color=&quot;#ffd200&quot;&gt;$npc:11001193$, $npc:11001194$&lt;/font&gt; 같은 프로들은 괜찮을 것 같지만… &#x0A;어리바리한 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001192$&lt;/font&gt;$pp:나,이나$ 만사 귀찮은 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001196$&lt;/font&gt; 씨는 좀 불안해요. ' />
+	<key id="1021032505000919" npc="교양 PD 요안나" name='특히 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001195$&lt;/font&gt;, 이 분은 우리 팀 소속이 아닌데도&#x0A;일손이 모자란다는 이야기를 듣고, 도와주시겠다며 &lt;font color=&quot;#ffd200&quot;&gt;$map:2000045$&lt;/font&gt;$pp2:로,으로$&#x0A;떠나신지 며칠 됐어요. 그런데 아직까지 전혀 소식이 없네요. ' />
+	<key id="1021032505000920" npc="교양 PD 요안나" name="도와주겠다고 말한다." />
+	<key id="1021032505000921" npc="교양 PD 요안나" name='정말 고맙습니다. &#x0A;그럼, &lt;font color=&quot;#ffd200&quot;&gt;$map:2000045$&lt;/font&gt;에서 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001195$&lt;/font&gt; 씨를 만나봐 주세요.&#x0A;무슨 일이 생긴 건 아닌지 확인해야 할 것 같아요. ' />
+	<key id="1021032505000922" npc="교양 PD 요안나" name='사실 $npcName:11001195$ 씨 말고 다른 사람들도 걱정이에요.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;촬영 현장 다섯 군데&lt;/font&gt;가 모두 흩어져 있어서, 서로 도와줄 수도 없을 텐데….&#x0A;이 와중에 &lt;font color=&quot;#ffd200&quot;&gt;국장님&lt;/font&gt;은 영상 언제 볼 수 있느냐며 재촉하세요. &#x0A;참 난감하네요.' />
+	<key id="1021032505000923" npc="교양 PD 요안나" name='&lt;font color=&quot;#ffd200&quot;&gt;$npc:11001195$&lt;/font&gt;…? 그거 난데. 왜 날 찾고 있죠? &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;방송국 사람&lt;/font&gt;인가?' />
+	<key id="1021032505000924" npc="교양 PD 요안나" name='&lt;font color=&quot;#ffd200&quot;&gt;$npc:11001191$&lt;/font&gt;$pp:가,이$ 찾고 있다고 전해 준다.' />
+	<key id="1021032505000925" npc="교양 PD 요안나" name='뭐라고! 이런 이런. 나의 도도새, &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001191$&lt;/font&gt;에게 걱정을 끼치고 말았잖아! &#x0A;보다시피 내 몸은 그럭저럭 멀쩡해요. &#x0A;내 마음이, 영혼이 울고 있을 뿐이야~' />
+	<key id="1021032505000926" npc="교양 PD 요안나" name='그나저나 걱정이네. 여기서만 난리가 난 건 아닐 것 같은데….&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;다른 촬영 현장에 간 사람들&lt;/font&gt;에게도 &lt;font color=&quot;#ffd200&quot;&gt;도.움.&lt;/font&gt;이 필요할 것 같은데! &#x0A;내 &lt;font color=&quot;#ffd200&quot;&gt;남다른 직감&lt;/font&gt;이 그렇게 말하고 있다고!' />
+	<key id="1021032505000927" npc="스타일리스트 팻" name="저기요, 허니! 거기 아름다운 자기~ &#x0A;이왕 온 김에 손 좀 빌려줘 봐봐." />
+	<key id="1021032505000928" npc="스타일리스트 팻" name="고 따위로 말할 거면 그만 가겠다고 한다." />
+	<key id="1021032505000929" npc="스타일리스트 팻" name='어머, 자기야! 내 진심을 오해하는 거 아니야! &#x0A;나는 순수한 마음으로 &lt;font color=&quot;#ffd200&quot;&gt;도움&lt;/font&gt;을 청하려는 것뿐이야! &#x0A;이해해 줘, 여기 너무 덥고 건조해서 내 피부랑~ 말투랑~ 까칠해졌네.&#x0A;아휴, 이거 산업 재해야. 줄여서 산! 재!' />
+	<key id="1021032505000930" npc="스타일리스트 팻" name="(정말 마음이 아픈 사람인가보다. 참아 주자.)" />
+	<key id="1021032505000931" npc="스타일리스트 팻" name='으흥, 다름이 아니고. 저 안에서 &lt;font color=&quot;#ffd200&quot;&gt;촬영 테이프 회수&lt;/font&gt; 좀 해줄 수 있을까나?&#x0A;우리 도도새네 팀 촬영 카메라가 저 안에 있거든. 내가 테이프를 꺼내려는데&#x0A;글쎄, &lt;font color=&quot;#ffd200&quot;&gt;집채만 한 빨간 덩어리&lt;/font&gt;가 훌라~훌라~ 나타나서 날 위협하지 뭐야!&#x0A;아우, 놀래라. 가슴이야. ' />
+	<key id="1021032505000932" npc="스타일리스트 팻" name='생각해 보니까 그거 &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000068$&lt;/font&gt;였던 것 같아. 건조한 데 산다는 몬스터.&#x0A;근데 빨간색이고 엄청 컸어. 실룩실룩거리는 게 꼭 춤추는 것 같기도 하고..&#x0A;참 나, 그래도 그렇지 뭐 저런 걸 찍어. 필름 아깝게. &#x0A;더 재밌고 더 특이한, 뭐 그런 거 없냔 말이야.' />
+	<key id="1021032505000933" npc="스타일리스트 팻" name="색도 덩치도 보통 플라카와 다르다면, 이상하긴 한 것 같다고 한다." />
+	<key id="1021032505000934" npc="스타일리스트 팻" name='자기야! 장난하니!&#x0A;색깔 다르다고 &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000068$&lt;/font&gt;$pp:가,이$ &lt;font color=&quot;#ffd200&quot;&gt;플랑크톤&lt;/font&gt; 되니? &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000068$&lt;/font&gt;$pp:가,이$ &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000068$&lt;/font&gt;$pp:지,이지$!&#x0A;기가 막혀, 정말!' />
+	<key id="1021032505000935" npc="스타일리스트 팻" name="도와줄 테니 진정하라고 말한다." />
+	<key id="1021032505000936" npc="스타일리스트 팻" name="흑, 나도 원래는 부드러운 남자인데 세상이 날 가만두질 않네. &#x0A;미안해, 자기. 그럼 부탁할게." />
+	<key id="1021032505000937" npc="스타일리스트 팻" name='뭐 해, 자기? 얼른 저기 들어가서 촬영 테이프 회수 좀 해다 줘.&#x0A;그 &lt;font color=&quot;#ffd200&quot;&gt;빨간 덩어리&lt;/font&gt; 때문에 난 도~저히 못 가겠단 말이야. &#x0A;우리 예쁜 도도새 볼 낯이 없어서 며칠을 여기 서 있다고… 휴…!' />
+	<key id="1021032505000938" npc="스타일리스트 팻" name='어머나. &lt;font color=&quot;#ffd200&quot;&gt;$item:30000414$&lt;/font&gt;…! 맞아, 이거야! &#x0A;자기 덕에 난 무사했지만 다른 사람들이 걱정되긴 하네. &#x0A;특히 &lt;font color=&quot;#ffd200&quot;&gt;$map:2000003$&lt;/font&gt;에 갔다는 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001194$&lt;/font&gt; 녀석. 착해빠졌거든.&#x0A;어쨌든, 우리 도도새는 이 테이프라도 받으면 한시름 놓겠다~' />
+	<key id="1021032505000939" npc="스타일리스트 팻" name="도도새…가 설마 $npc:11001191$$pp:를,을$ 말하는 거냐고 묻는다." />
+	<key id="1021032505000940" npc="스타일리스트 팻" name='맞아. 아름다운 내 뮤즈는 &lt;font color=&quot;#ffd200&quot;&gt;도도한 매력&lt;/font&gt;이 철철 넘치거든. 그래서 &lt;font color=&quot;#ffd200&quot;&gt;도도새&lt;/font&gt;!&#x0A;아무튼 자기, 진~짜 고마워! &lt;font color=&quot;#ffd200&quot;&gt;교양국 구세주&lt;/font&gt; 되겠다!' />
+	<key id="1021032505000941" npc="촬영 스태프 하이컷" name='앗, 누구시죠? 처음 뵙는 것 같은데…&#x0A;혹시 &lt;font color=&quot;#ffd200&quot;&gt;메이플 TV&lt;/font&gt;에서 &lt;font color=&quot;#ffd200&quot;&gt;현장 지원&lt;/font&gt; 나온 분이신가요? ' />
+	<key id="1021032505000942" npc="촬영 스태프 하이컷" name='&lt;font color=&quot;#ffd200&quot;&gt;$npc:11001191$&lt;/font&gt;의 팀 소속인지 물어본다.' />
+	<key id="1021032505000943" npc="촬영 스태프 하이컷" name='네, 맞아요. &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001194$&lt;/font&gt;$pp:라고,이라고$ 합니다. &#x0A;아니… 이제 백수 $npcName:11001194$일지도 몰라요. &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;마감&lt;/font&gt;이 코앞인데 &lt;font color=&quot;#ffd200&quot;&gt;촬영 테이프 회수&lt;/font&gt;도 못 하다니… 최악이야…!' />
+	<key id="1021032505000944" npc="촬영 스태프 하이컷" name="현장에 무슨 일이 생겼는지 묻는다." />
+	<key id="1021032505000945" npc="촬영 스태프 하이컷" name='이곳, &lt;font color=&quot;#ffd200&quot;&gt;$map:2000003$&lt;/font&gt;의 물은 루디브리엄으로 굳어가고 있습니다.&#x0A;정확한 원인은 밝혀지지 않았는데요, 얼마 전부터 이곳 어디에선가&#x0A;이상한 소리가 난다는 제보가 들어왔답니다.&#x0A;그래서 저 동굴 안에 &lt;font color=&quot;#ffd200&quot;&gt;카메라를 설치&lt;/font&gt;해 두고 관찰하기로 한 거죠.' />
+	<key id="1021032505000946" npc="촬영 스태프 하이컷" name='그리고 오늘… 촬영 테이프를 회수하러 왔더니 글쎄,&#x0A;덜그럭거리는 소리와 함께 &lt;font color=&quot;#ffd200&quot;&gt;거대한 블록 골렘&lt;/font&gt;이 나타났어요.&#x0A;도망쳐 나온 후에야 알았습니다. &lt;font color=&quot;#ffd200&quot;&gt;촬영 테이프&lt;/font&gt;, 못 가지고 나왔다는 걸요….' />
+	<key id="1021032505000947" npc="촬영 스태프 하이컷" name="몬스터였다면 위험했겠다고 $npcName:11001194$$pp:를,을$ 위로한다." />
+	<key id="1021032505000948" npc="촬영 스태프 하이컷" name='그래서 말인데… 죄송하지만 저 대신 &lt;font color=&quot;#ffd200&quot;&gt;촬영 테이프&lt;/font&gt;를 회수해 주실 수 있을까요? &#x0A;저는 카메라밖에 다룰 줄 몰라서… 몬스터를 상대하기엔 역부족입니다.&#x0A;실은 오늘 &lt;font color=&quot;#ffd200&quot;&gt;약혼녀&lt;/font&gt;와 약속이 있는데, 오늘마저 &lt;font color=&quot;#ffd200&quot;&gt;약속을 어길&lt;/font&gt; 순 없어요. ' />
+	<key id="1021032505000949" npc="촬영 스태프 하이컷" name='&lt;font color=&quot;#ffd200&quot;&gt;촬영 테이프를 회수&lt;/font&gt;해서 PD님께 갖다 드려야 &lt;font color=&quot;#ffd200&quot;&gt;퇴근&lt;/font&gt;을 할 수 있는데….&#x0A;만약 오늘마저 약속을 어긴다면 전 그녀를 볼 낯이 없어요…!&#x0A;제가 너무 바빠서, &lt;font color=&quot;#ffd200&quot;&gt;약혼녀&lt;/font&gt;가 결혼 준비를 거의 다 하고 있거든요. &#x0A;가구까지 혼자 사게 할 수는 없습니다. TV는 큰 거 사야죠.' />
+	<key id="1021032505000950" npc="촬영 스태프 하이컷" name='오…! $MyPCName$님, 돌아오셨군요! &#x0A;드디어 저도 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001196$&lt;/font&gt;님처럼 정시 퇴근을 해 보겠군요. &#x0A;지금은 &lt;font color=&quot;#ffd200&quot;&gt;$map:2000010$&lt;/font&gt;에 나가 계신 것 같지만…' />
+	<key id="1021181805001001" npc="촬영 스태프 하이컷" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000415$&lt;/font&gt;$pp:를,을$ 건네준다.' />
+	<key id="1021181805001002" npc="촬영 스태프 하이컷" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000415$&lt;/font&gt;… 네, 맞습니다!  &#x0A;정말 고맙습니다, $MyPCName$님!  ' />
+	<key id="1021032505000951" npc="지원팀 글루" name="음…? 자네는… $MyPCName$ 아니던가…? &#x0A;이런 곳까지 어쩐 일인가?" />
+	<key id="1021032505000952" npc="지원팀 글루" name="내 이름은 어떻게 알았는지 묻는다." />
+	<key id="1021032505000953" npc="지원팀 글루" name='허허, 놀라긴. $MyPCName$ 자네, 나름 &lt;font color=&quot;#ffd200&quot;&gt;유능한 모험가&lt;/font&gt;로 &#x0A;이름이 알려지고 있는 것 같더군. 많은 이들을 도와주고 있다면서? &#x0A;혹시 &lt;font color=&quot;#ffd200&quot;&gt;내게도 도움&lt;/font&gt;을 줄 수 있겠는가?' />
+	<key id="1021032505000954" npc="지원팀 글루" name="무슨 일인지 말해 보라고 한다." />
+	<key id="1021032505000955" npc="지원팀 글루" name='난 &lt;font color=&quot;#ffd200&quot;&gt;메이플 TV 지원팀&lt;/font&gt; 소속이라네. 즉, 현장에 나올 이유가 전-혀 없지. &#x0A;하지만 난, &lt;font color=&quot;#ffd200&quot;&gt;권력자인 국장&lt;/font&gt;과 &lt;font color=&quot;#ffd200&quot;&gt;자비 없는 PD&lt;/font&gt;에게 떠밀려 &#x0A;여기까지 와서 아픈 허리를 부여잡고 씁쓸하게 서 있다네… ' />
+	<key id="1021032505000956" npc="지원팀 글루" name="아프면 못 나온다고 하지 그랬냐고 묻는다." />
+	<key id="1021163905000998" npc="지원팀 글루" name='허허, 이 친구… 아직 어려서 세상의 진리를 모르는군. &#x0A;좋아, 내 친절하게 알려 주겠네. 잘 생각해 보게나.&#x0A;회사에 다니다 보면 &lt;font color=&quot;#ffd200&quot;&gt;몸이 아플 때&lt;/font&gt;가 많이 있지.&#x0A;몸이 아프면 병원에 가서 치료를 받아야겠지? ' />
+	<key id="1021032505000957" npc="지원팀 글루" name='그러자면 &lt;font color=&quot;#ffd200&quot;&gt;치료비&lt;/font&gt;가 필요하다네. 메소 말이야.&#x0A;하지만 메소는 저절로 생기는 게 아니지. &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;메소를 벌려면&lt;/font&gt; 어떻게 해야 할까?' />
+	<key id="1021032505000958" npc="지원팀 글루" name="사냥을 해서 메소를 벌면 된다고 대답한다." />
+	<key id="1021032505000959" npc="지원팀 글루" name="회사에 가서 메소를 벌어야 한다고 대답한다." />
+	<key id="1021032505000960" npc="지원팀 글루" name='떽! 어른을 놀리면 못 써!&#x0A;허리 디스크가 얼마나 괴로운 병인 줄 알고 그런 농담을 하는 건가? &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;어른을 놀렸으니&lt;/font&gt; 그 대가를 치르시게! &#x0A;저 동굴 안에 있는 카메라에서 &lt;font color=&quot;#ffd200&quot;&gt;촬영 테이프를 회수&lt;/font&gt;해서 내게 가져와!' />
+	<key id="1021032505000961" npc="지원팀 글루" name='그렇지, 바로 그거야. 그러니까 아파도, 괴로워도 회사에 다녀야 해. &#x0A;그러니 자네, 어쩔 수 없이 &lt;font color=&quot;#ffd200&quot;&gt;회사의 명령&lt;/font&gt;에 따르고 있는 날 도와주게나.&#x0A;저 동굴 안에 설치된 카메라에서 &lt;font color=&quot;#ffd200&quot;&gt;촬영 테이프를 회수&lt;/font&gt;해서 가져다 주게.' />
+	<key id="1021032505000962" npc="지원팀 글루" name='자네 뭐 하나…? &#x0A;동굴 안에 카메라는 딱 한 대 설치되어 있다네. &#x0A;그걸 조사해서 &lt;font color=&quot;#ffd200&quot;&gt;촬영 테이프 회수&lt;/font&gt;만 해 오면 되는 간단한 일이란 말이야.&#x0A;빨리 좀 갖다주게, 현기증이 나서 서 있기조차 힘들단 말일세…! ' />
+	<key id="1021032505000963" npc="지원팀 글루" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000416$&lt;/font&gt;… 맞군, 맞아! &#x0A;$MyPCName$, 자네는 정말 배려심 깊고 훌륭한 젊은이구먼! &#x0A;덜떨어진 &lt;font color=&quot;#ffd200&quot;&gt;교양국 $npc:11001192$&lt;/font&gt;$pp:와,과$는 비교가 안 되게 훌륭해. ' />
+	<key id="1021171405001000" npc="지원팀 글루" name='그 녀석은 지금쯤 &lt;font color=&quot;#ffd200&quot;&gt;$map:2000255$&lt;/font&gt; 어딘가에서 울먹이고 있겠지…. 크크. &#x0A;여튼, 고생했네. 앞으로도 수고하게나! ' />
+	<key id="1021032505000964" npc="막내 작가 피로로" name="누구시죠? &#x0A;절 너무 불쌍하게 쳐다보시는 것 아닌가요? " />
+	<key id="1021032505000965" npc="막내 작가 피로로" name="아니라고 말한다." />
+	<key id="1021032505000966" npc="막내 작가 피로로" name="너무 피곤해 보인다고 솔직하게 말한다." />
+	<key id="1021032505000967" npc="막내 작가 피로로" name='아니긴요. 저 불쌍한 거 맞아요. 마치 &lt;font color=&quot;#ffd200&quot;&gt;노예&lt;/font&gt;가 된 것 같은 기분이에요. &#x0A;허드렛일에… 잔심부름에… 저도 우리 집에선 &lt;font color=&quot;#ffd200&quot;&gt;왕자&lt;/font&gt;란 말입니다…! &#x0A;하… 괴롭네요. 더 늦기 전에 &lt;font color=&quot;#ffd200&quot;&gt;회사, 그만둬야 하나…&lt;/font&gt; ' />
+	<key id="1021032505000968" npc="막내 작가 피로로" name="이왕 시작한 일인데, 힘내 보라고 위로한다." />
+	<key id="1021032505000969" npc="막내 작가 피로로" name="확 때려치우라고 부추긴다." />
+	<key id="1021032505000970" npc="막내 작가 피로로" name='맞아요. 아무리 꾸미고 나와도 눈 밑 다크서클 때문에 그냥 &lt;font color=&quot;#ffd200&quot;&gt;폐인&lt;/font&gt; 같죠.&#x0A;자꾸 &lt;font color=&quot;#ffd200&quot;&gt;새로운 아이디어&lt;/font&gt;를 내라고 하면서 허드렛일에… 잔심부름에… &#x0A;하… 괴롭네요. 더 늦기 전에 &lt;font color=&quot;#ffd200&quot;&gt;회사, 그만둬야 하나…&lt;/font&gt; ' />
+	<key id="1021032505000971" npc="막내 작가 피로로" name="이왕 시작한 일인데, 힘내 보라고 위로한다." />
+	<key id="1021032505000972" npc="막내 작가 피로로" name="확 때려치우라고 부추긴다." />
+	<key id="1021032505000973" npc="막내 작가 피로로" name='네, 그렇죠. 그래야겠죠. 버티다 보면 달라질 수도 있겠죠. &#x0A;하지만… 저런 끔찍한 몬스터를 물리치는 건 저한텐 불가능한 일이에요.&#x0A;그것도 &lt;font color=&quot;#ffd200&quot;&gt;마감이 일주일밖에 안 남은&lt;/font&gt; 이런 시점에…' />
+	<key id="1021032505000974" npc="막내 작가 피로로" name="촬영 현장에 몬스터가 나타났느냐고 묻는다." />
+	<key id="1021032505000975" npc="막내 작가 피로로" name='그러게요. 생각할수록 정말 억울하네요. &#x0A;제가 왜 퇴근은 못 하면서 출근은 매일 하고 있는 건지, &#x0A;이렇게 제 청춘을 갈아 넣어 메소 몇 푼 버는 게 과연 의미가 있을까요?&#x0A;저런 &lt;font color=&quot;#ffd200&quot;&gt;끔찍한 몬스터&lt;/font&gt;까지 만나면서 말이에요!! ' />
+	<key id="1021032505000976" npc="막내 작가 피로로" name="촬영 현장에 몬스터가 나타났느냐고 묻는다." />
+	<key id="1021032505000977" npc="막내 작가 피로로" name='네. 여기 뒷골목에 사람을 &lt;font color=&quot;#ffd200&quot;&gt;깜짝 놀라게 만드는 이상한 공간&lt;/font&gt;이 있다는&#x0A;제보가 들어와서, 며칠 전에 관찰 카메라를 설치했거든요. &#x0A;그래서 오늘 회수하러 온 건데, 깜짝은 무슨… &lt;font color=&quot;#ffd200&quot;&gt;끔찍한 경험&lt;/font&gt;이었어요.' />
+	<key id="1021032505000978" npc="막내 작가 피로로" name='카메라를 설치할 때만 하더라도 어두운 공터였는데,&#x0A;오늘 와 보니 예쁜 장난감 사이에 &lt;font color=&quot;#ffd200&quot;&gt;선물 상자&lt;/font&gt;가 놓여 있더라고요.&#x0A;무서웠지만 참고 다가갔죠… 그런데 갑자기 &lt;font color=&quot;#ffd200&quot;&gt;몬스터&lt;/font&gt;가 확 튀어나왔어요! &#x0A;으으, 너무 무서워요. 다시는 생각도 하기 싫어요.' />
+	<key id="1021032505000979" npc="막내 작가 피로로" name='촬영 테이프를 못 가져가면 선배들에게 크게 혼날 텐데…&#x0A;다시 저 안에 들어갈 자신은 정말 없어요. 너무 무서우니까요. &#x0A;$MyPCName$님, 저 대신 &lt;font color=&quot;#ffd200&quot;&gt;촬영 테이프&lt;/font&gt;를 회수해 주시면 안 될까요? &#x0A;모험가 몇 분이 모여서 가시면 정말 후딱 끝내 버릴 수 있는 일일 텐데…' />
+	<key id="1021032505000980" npc="막내 작가 피로로" name='설마… $MyPCName$님도 무서우신 거예요? &#x0A;그렇다면 &lt;font color=&quot;#ffd200&quot;&gt;파티원을 모집&lt;/font&gt;해서 함께 가는 것도 방법이죠.&#x0A;전…. 그래도 못 가겠지만…요. ' />
+	<key id="1021032505000981" npc="막내 작가 피로로" name='아, $MyPCName$님! 기다리다 잠깐 졸았네요. 하하하….&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:11001193$ 선배님&lt;/font&gt;처럼 멋진 방송인이 되는 꿈을 꿨어요.&#x0A;카메라 회수하러 &lt;font color=&quot;#ffd200&quot;&gt;$map:2000007$&lt;/font&gt;에 가셨다는데, &#x0A;아직 거기 계신지 연락 한 번 해 봐야겠어요. ' />
+	<key id="1021032505000982" npc="막내 작가 피로로" name="촬영 테이프를 건네주며 확인해 보라고 한다." />
+	<key id="1021032505000983" npc="막내 작가 피로로" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000417$&lt;/font&gt;… 맞아요, 이거 맞아요!&#x0A;$MyPCName$님, 정말 감사합니다! 너무너무 고맙습니다! ' />
+	<key id="1021032505000984" npc="조명 감독 일루나" name="어머나? 이런 외딴 곳에 찾아오시다니.. &#x0A;모험가세요? " />
+	<key id="1021032505000985" npc="조명 감독 일루나" name='&lt;font color=&quot;#ffd200&quot;&gt;$npc:11001191$&lt;/font&gt;$pp:를,을$ 아느냐고 묻는다.' />
+	<key id="1021032505000986" npc="조명 감독 일루나" name='네. $npc:11001191$$pp:는,은$ 제 동기죠. 같이 프로그램 준비하고 있어요. &#x0A;아, 혹시 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001191$$pp:가,이$ 절 찾고 있나요?&lt;/font&gt; ' />
+	<key id="1021032505000987" npc="조명 감독 일루나" name="무슨 일이 있는 건 아닌지 궁금해하고 있더라고 전한다." />
+	<key id="1021032505000988" npc="조명 감독 일루나" name='아, 저런. 역시 그랬군요.  &#x0A;네, &lt;font color=&quot;#ffd200&quot;&gt;촬영 카메라 회수&lt;/font&gt;하려다 지옥 구경 할 뻔했어요. 호호호.&#x0A;뭐, 국장 아저씨 농담에 진심으로 웃는 척했던 &lt;font color=&quot;#ffd200&quot;&gt;오늘 아침도 지옥&lt;/font&gt;이었지만.' />
+	<key id="1021032505000989" npc="조명 감독 일루나" name="왜요? 제가 너무 비꼬는 것처럼 들리나요? &#x0A;하지만, 이렇게라도 나 자신을 위로하지 않으면 너무 슬퍼서 살 수가 없을 걸요. &#x0A;내 성적, 내 월급 빼고 다 오르는 이 세상~ 와~ 아.름.답.다~" />
+	<key id="1021032505000990" npc="조명 감독 일루나" name="(분명 웃고 있는데 하나도 기뻐 보이지 않는다.)" />
+	<key id="1021032505000991" npc="조명 감독 일루나" name='제가 근무한 시간만큼 메소를 받았다면 &lt;font color=&quot;#ffd200&quot;&gt;트라이아에 주택&lt;/font&gt;을 샀겠죠.&#x0A;하지만 현실은 &lt;font color=&quot;#ffd200&quot;&gt;우드버리 고시원 주민&lt;/font&gt;! 다 이런 거예요. 호호호… &#x0A;…앗, 제가 좀 흥분했네요. 죄송. 본론으로 돌아갈게요.' />
+	<key id="1021034105000995" npc="조명 감독 일루나" name='$MyPCName$님, 저 안에 설치된 카메라에서 &lt;font color=&quot;#ffd200&quot;&gt;촬영 테이프&lt;/font&gt;를&#x0A;회수해 주실 수 있을까요? &lt;font color=&quot;#ffd200&quot;&gt;난폭한 녀석&lt;/font&gt; 때문에 제가 회수를 못 했거든요. &#x0A;하지만, $npcName:11001191$$pp:는,은$ 지금도 절 애타게 기다리고 있을 거예요….' />
+	<key id="1021034105000996" npc="조명 감독 일루나" name='$MyPCName$님, 여기 나타난 몬스터는 좀… 요란하고 과격해요. &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;파티원을 모집&lt;/font&gt;해서 함께 가는 편이 안전할지도 몰라요.' />
+	<key id="1021034105000997" npc="조명 감독 일루나" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000418$&lt;/font&gt;… 퍼펙트! 정확해요. &#x0A;$MyPCName$님이 &lt;font color=&quot;#ffd200&quot;&gt;우리 동네 해결사&lt;/font&gt;라는 소문이 진짜였군요!' />
+	<key id="1021181805001003" npc="조명 감독 일루나" name='빨리 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001191$&lt;/font&gt;에게 갖고 가서 편집본 만들자고 해야겠네요.&#x0A;$MyPCName$님 덕분에 우리 동기 힘 좀 나겠어요. 고맙습니다! ' />
+	<key id="1126000805001004" npc="주다쿠" name='오, $MyPCName$! &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$item:30000421$&lt;/font&gt;$pp:를,을$ 잔뜩 사 가더니, 필요한 곳에 잘 썼나? &#x0A;뭔가 아주 중요한 쓰임이 있었던 거지? 예를 들면 힘을 다스린다던가.' />
+	<key id="1126000805001005" npc="주다쿠" name="어떻게 알았냐고 묻는다." />
+	<key id="1126000805001006" npc="주다쿠" name="(말려들지 말아야겠다. 모른 척 한다.)" />
+	<key id="1126000805001007" npc="주다쿠" name='크크크…. 어떻게 알긴. 장사 하루 이틀 하나? 척하면 척이지. &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;이곳에선 나지 않는 물건&lt;/font&gt;을, 굳이 아리까리 상단 녀석들의 비위를 맞춰 가며 &#x0A;힘들게 얻은 &lt;font color=&quot;#ffd200&quot;&gt;루&lt;/font&gt;를 주고 나에게 사 간다니…. 꼭 필요한 데가 있다는 소리지.' />
+	<key id="1126000805001008" npc="주다쿠" name="뭔가 아는 게 있는지 물어본다." />
+	<key id="1126000805001009" npc="주다쿠" name='크크크…. 모르는 척하기는. 눈빛이 흔들리는 걸 내가 다 봤다.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;이곳에선 나지 않는 물건&lt;/font&gt;을, 굳이 아리까리 상단 녀석들의 비위를 맞춰 가며 &#x0A;힘들게 얻은 &lt;font color=&quot;#ffd200&quot;&gt;루&lt;/font&gt;를 주고 나에게 사 간다니… 꼭 필요한 데가 있단 소리잖아?' />
+	<key id="1126000805001010" npc="주다쿠" name="뭔가 아는 게 있는지 물어본다." />
+	<key id="1126000805001011" npc="주다쿠" name="$item:30000421$$pp:는,은$ 힘의 균형을 맞추려는 성질이 있지.&#x0A;이 대륙에 존재하는 것으로는 다스릴 수 없는 무언가와 얽혀 있는 거지? &#x0A;크크크, 경계하지 말고 말해 보라구. 사실은 지금도 답답해 미칠 지경일 텐데? " />
+	<key id="1126000805001012" npc="주다쿠" name="봉인된 발록의 무기에 대해 털어놓는다." />
+	<key id="1126000805001013" npc="주다쿠" name='호오, 흥미로운 이야기인걸? &#x0A;분명 강한 힘을 가진 무기를 얻을 수 있을 줄 알고 재료를 모았는데, &#x0A;결과물은 &lt;font color=&quot;#ffd200&quot;&gt;불길한 마력&lt;/font&gt;에 휩싸여 장비조차 못하는 물건이었다고….&#x0A;그리고, 자네에게서 느껴지는 그 &lt;font color=&quot;#ffd200&quot;&gt;어둠의 기운&lt;/font&gt;. 심상치 않단 말이지… 크크크…' />
+	<key id="1126000805001014" npc="주다쿠" name='저 그림자 문이 보이나…? &#x0A;요즘 저 너머에서 뿜어져 나오는 기운도, 소문도 하나같이 심상치 않아.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;쉐도우 월드&lt;/font&gt; 곳곳에서 보다 강력한 어둠의 힘이 싹을 틔우고 있다거나,&#x0A;어딘가에 깊은 &lt;font color=&quot;#ffd200&quot;&gt;어둠의 뿌리가 얽힌 동굴&lt;/font&gt;이 있다는 얘기까지.. &#x0A;크크크크…. 신기하다, 신기해.' />
+	<key id="1126000805001015" npc="주다쿠" name='이 얘길 해준 녀석은 내가 떠돌던 시절 만난 괴짜인데, &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;어둠의 힘&lt;/font&gt;… &lt;font color=&quot;#ffd200&quot;&gt;파장&lt;/font&gt;…? 뭐 그런 걸 연구하겠다며 직접 쉐도우 월드로 건너갔지.&#x0A;혹시 그 녀석이라면 &lt;font color=&quot;#ffd200&quot;&gt;자네가 궁금해하는 걸 알려줄 수 있을지도&lt;/font&gt; 몰라. ' />
+	<key id="1126000805001016" npc="주다쿠" name="그 녀석… 아니, 사람을 소개시켜 줄 수 있는지 묻는다." />
+	<key id="1126000805001017" npc="주다쿠" name='뭐야? 맨입으로? &#x0A;…라고 말할 줄 알았겠지만, 신기한 얘길 들려줬으니 특별히 알려주지. &#x0A;녀석의 이름은 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001242$&lt;/font&gt;.&#x0A;저 그림자 문을 넘어 쉐도우 월드로 갔으니, 한번 만나보라구. 크크크크…. ' />
+	<key id="1126000805001018" npc="주다쿠" name='뭐야? 아직도 안 갔어? &#x0A;쯧쯧…. 아리까리 상단 녀석들 버금가는 멍텅구리로군. &#x0A;저기 그림자 비석을 잘 살펴보고, &lt;font color=&quot;#ffd200&quot;&gt;쉐도우 월드&lt;/font&gt;로 건너가 보라고. &#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001242$&lt;/font&gt; 녀석$pp:라,이라$면 뭔가 알지도 모른다니까? ' />
+	<key id="1126000805001019" npc="주다쿠" name="뭐지? 난 바쁘다고. &#x0A;귀찮게 하지 말란 말이야. 저리 가, 훠이! " />
+	<key id="1126000805001020" npc="주다쿠" name="$npcName:11001212$의 소개로 왔으며, 특이한 물건을 가지고 있다고 말한다." />
+	<key id="1126000805001021" npc="주다쿠" name='&lt;font color=&quot;#ffd200&quot;&gt;특이한 물건&lt;/font&gt;이라고? 어디 한번 볼까? &#x0A;안 특이하기만 해 봐라. ' />
+	<key id="1126000805001022" npc="오데사" name='어, 이 힘은…? 이봐, 이 물건 어디서 구했지? &#x0A;자네도 엄청나게 궁금하니까 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001212$&lt;/font&gt;같은 수상한 녀석의 말까지 &#x0A;주의 깊게 듣고 여기까지 왔을 거 아니야. 냉큼 말해 봐. ' />
+	<key id="1126000805001023" npc="오데사" name="$npcName:23090005$$pp:를,을$ 쓰러트린 이후의 자초지종을 설명한다." />
+	<key id="1126000805001024" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:를,을$ 쓰러트리고 얻은 물질을 정화하고,&#x0A;거기 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000421$&lt;/font&gt;까지 이용해 만든 무기에 힘을 주입했는데 &#x0A;결과는 무기로 쓸 수 없는 잡동사니가 튀어나왔다 이거지? ' />
+	<key id="1126000805001025" npc="오데사" name="그렇다고 말한다. " />
+	<key id="1126000805001026" npc="오데사" name='크하하핫! 자네, 날 만난 걸 행운으로 생각해.&#x0A;마침 내가 연구하고 있던 이 &lt;font color=&quot;#ffd200&quot;&gt;쉐도우 월드의 어둠의 힘이 가진 파장&lt;/font&gt;과&#x0A;이 물건을 둘러싼 &lt;font color=&quot;#ffd200&quot;&gt;기묘하고 불길한 마력의 파장&lt;/font&gt;이 꽤 비슷한 형태군. &#x0A;좋아, 이거라면 되겠어. &lt;font color=&quot;#ffd200&quot;&gt;방법&lt;/font&gt;이 있겠다고.' />
+	<key id="1126000805001027" npc="오데사" name='뭐, 알아들을 수 있을지 모르겠지만 간단히 설명하자면 이런 원리야.&#x0A;힘은 &lt;font color=&quot;#ffd200&quot;&gt;같은 파장의 힘&lt;/font&gt;을 만나면 순간 큰 힘을 내며 밀어내지.&#x0A;두 개의 자석을 같은 극끼리 마주치게 하면 서로 밀어내는 것처럼 말이야.' />
+	<key id="1126000805001028" npc="오데사" name='최근 쉐도우 월드에 흐르고 있는 강한 어둠의 에너지를 잔뜩 모아 &#x0A;자네가 가져온 이 물건과 충돌시키면? &lt;font color=&quot;#ffd200&quot;&gt;서로 밀어내는 큰 힘&lt;/font&gt;이 일어날 거야.&#x0A;그러면 이 물건을 감싼 불길한 마력의 &lt;font color=&quot;#ffd200&quot;&gt;봉인을 깰&lt;/font&gt; 수도 있겠지.' />
+	<key id="1126000805001029" npc="오데사" name="그럼 어서 해 보라고 말한다." />
+	<key id="1126000805001030" npc="오데사" name='이봐. 깨져라, 짠! 하면 순식간에 뿅! 하고 되는 게 아니라고. &#x0A;어둠의 에너지를 &lt;font color=&quot;#ffd200&quot;&gt;잔뜩 모아서 충돌&lt;/font&gt;시켜야 한다니까? &#x0A;강한 어둠의 에너지가 아주 많이 필요하다고! &lt;font color=&quot;#ffd200&quot;&gt;그걸 모아오는 게 먼저&lt;/font&gt;란 말이야.' />
+	<key id="1126000805001031" npc="오데사" name="그런 건 어디서 얻어야 하는지 묻는다." />
+	<key id="1126000805001032" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;$pp:라,이라$고 들어봤나? 어둠의 씨앗에서 퍼져 나온 그림자 줄기.&#x0A;한때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000023$&lt;/font&gt; 인근까지 깊숙하게 파고들었지만,&#x0A;$npc:11000031$$pp:와,과$ 요정들의 힘으로 간신히 막아냈다고 해. &#x0A;그때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;에 들어갔다가 &lt;font color=&quot;#ffd200&quot;&gt;하비독에 중독된 요정들&lt;/font&gt;이 있지. ' />
+	<key id="1126000805001033" npc="오데사" name='그 요정들의 몸에서는 매일 하나씩 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:가,이$ 자라나는데, &#x0A;그걸 열면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;$pp:라,이라$는 걸 얻을 수 있다고 하더군.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;강력한 어둠의 에너지가 응축된 결정체&lt;/font&gt;이니, 그걸 많이 모아와. &#x0A;그 정도는 되어야 자네의 그 물건을 둘러싼 봉인에 힘을 쓸 수 있을 거야.' />
+	<key id="1126000805001034" npc="오데사" name='최근 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;에서 $map:02000350$$pp2:로,으로$ 통하는 입구가 발견됐다고 하더군.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보는 게 좋을 거야. ' />
+	<key id="1126000805001035" npc="오데사" name='$map:02000350$$pp2:로,으로$ 통하는 입구는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;이야.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보고, 충분하게 모아와. &#x0A;서둘러, 내 맘이 변하기 전에 움직이라고!' />
+	<key id="1126000805001036" npc="오데사" name='어디 보자… 오, 됐군. 이 정도면 충분하겠어! &#x0A;어서 이리 줘, &lt;font color=&quot;#ffd200&quot;&gt;작업&lt;/font&gt;을 시작할 테니.' />
+	<key id="1126000805001037" npc="오데사" name="$npcName:11001242$의 작업이 끝나길 기다린다." />
+	<key id="1126000805001038" npc="오데사" name="이거…. 그렇지. &#x0A;그러니까…. 여기서." />
+	<key id="1126000805001039" npc="오데사" name="좀 더 기다린다." />
+	<key id="1126000805001040" npc="오데사" name="그래… 분명, 이렇게. 그리고 여기서 그렇게." />
+	<key id="1126000805001041" npc="오데사" name="$npcName:11001242$의 표정이 뭔가 수상한 것 같다." />
+	<key id="1126000805001042" npc="오데사" name="다 됐다. 여기, 받아." />
+	<key id="1126000805001043" npc="오데사" name='잠깐. 거기 서서 내 말을 들어 봐.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;무기를 사용하기 전&lt;/font&gt;에 반드시 해야 할 것이 있지.&#x0A;봉인은 풀렸지만, 그걸 하기 전엔 아직 완전한 무기라고 할 수 없을 테니 말이야.' />
+	<key id="1126000805001044" npc="오데사" name="무엇을 해야 하느냐고 묻는다." />
+	<key id="1126000805001045" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;이지. 특히 강한 무기일수록 더욱 해야 하는 법이야.&#x0A;자네, 꼭 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;에 찾아가 무기를 제련하도록 해.&#x0A;그 전에 함부로 무기를 휘둘렀다가 벌어지는 일은 &lt;font color=&quot;#ffd200&quot;&gt;모두 자네 책임&lt;/font&gt;이야.' />
+	<key id="1126000805001046" npc="오데사" name='안 가고 뭐 해? &#x0A;제련도 안 하고 무기를 사용하면 절대 안 된다는 걸 명심하라고!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;$pp2:로,으로$ 가! 어서! ' />
+	<key id="1126000805001047" npc="오데사" name="반갑네, $MyPCName$! 그동안 잘 지냈나? " />
+	<key id="1126000805001048" npc="오데사" name="$item:13200043$$pp:를,을$ 보여주며 제련을 부탁한다." />
+	<key id="1126000805001049" npc="오데사" name='아니, 이것은…! 설마 자네, 봉인을 풀었나? &#x0A;그보다도, 잠깐… 자네, &lt;font color=&quot;#ffd200&quot;&gt;몸은 괜찮은가&lt;/font&gt;? 여기까지 오는 동안 별일 없었고?' />
+	<key id="1126000805001050" npc="오데사" name="무기를 휘둘러 보았다가 큰일날 뻔했으니 어서 제련해 달라고 한다." />
+	<key id="1126000805001051" npc="오데사" name="별 일 없었지만, 무기 사용 전 제련은 필수라던 $npcName:11001242$의 말을 전한다." />
+	<key id="1126000805001052" npc="오데사" name='이건 &lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;해서 해결될 일이 아닐세. &#x0A;자네가 가져온 이 무기에 깃든 기운은 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:가,이$ 가진 무한한 생명력의 본질, &#x0A;다른 살아있는 존재들의 피를 흡수해 자신의 것으로 삼는 그것과 같다네. &#x0A;이 무기는 &lt;font color=&quot;#ffd200&quot;&gt;장비한 자의 기운을 흡수&lt;/font&gt;하려는 성질을 가지고 있어. ' />
+	<key id="1126000805001053" npc="오데사" name='설마 이게, 그때 내가 힘을 주입했다가 &lt;font color=&quot;#ffd200&quot;&gt;폭주&lt;/font&gt;해 버린 그 무기가 맞나? &#x0A;대체 무슨 일이 있었던 건지 자세히 설명해 주게.' />
+	<key id="1126000805001054" npc="오데사" name="자초지종을 자세히 설명한다." />
+	<key id="1126000805001055" npc="오데사" name='쉐도우 월드의 강력한 &lt;font color=&quot;#ffd200&quot;&gt;어둠의 기운&lt;/font&gt;으로 &lt;font color=&quot;#ffd200&quot;&gt;불길한 마력의 봉인에 균열&lt;/font&gt;을…?&#x0A;흥미로운 접근이군. 결국 장비할 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;무기&lt;/font&gt;의 형태가 되기도 하였고…!&#x0A;하지만, 봉인을 깨는 것만으로는 &lt;font color=&quot;#ffd200&quot;&gt;진정한 힘을 얻을 수는 없었던 것&lt;/font&gt; 같네. ' />
+	<key id="1126000805001056" npc="오데사" name="그렇다면 어떻게 해야 하는지 묻는다." />
+	<key id="1126000805001057" npc="오데사" name='선조들께서 남긴 기록에 따르면 &lt;font color=&quot;#ffd200&quot;&gt;마력을 불어넣은 무기&lt;/font&gt;는 &#x0A;힘의 원천이 되는 존재와 닮아, 그 영향을 강하게 받는다 하였다네. &#x0A;이 무기에 불어넣은 마력의 원천이 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;에게서 비롯된 것이니만큼&#x0A;역시…. 뭔가 &lt;font color=&quot;#ffd200&quot;&gt;다른 방법&lt;/font&gt;이 필요할 것 같은데.' />
+	<key id="1126000805001058" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:는,은$ 일반적인 생명의 순환과는 다른 영역에 있는 불멸의 존재이니,&#x0A;그 마력을 이용한 힘을 &lt;font color=&quot;#ffd200&quot;&gt;온전히 활용&lt;/font&gt;할 수 있는 방법은 &#x0A;그 존재의 비밀과 닿아 있지 않을까…?&#x0A;하지만 이 역시 &lt;font color=&quot;#ffd200&quot;&gt;추측&lt;/font&gt;일 뿐, 정확한 것은 없고 단서는 희미하지.' />
+	<key id="1126000805001059" npc="오데사" name='사실 무기에 힘을 불어넣는 데 실패한 그날부터, 나는 &lt;font color=&quot;#ffd200&quot;&gt;선조들의 기록&lt;/font&gt;은 물론&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;다른 대륙에서 온 자료&lt;/font&gt;까지도 꾸준히 탐독하고 있었다네.&#x0A;답답하겠지만 조금만 더 참아 주게나. 내 반드시 &lt;font color=&quot;#ffd200&quot;&gt;해결책&lt;/font&gt;을 찾아낼 테니!' />
+	<key id="1126164905001060" npc="오데사" name='어, 이 힘은…? 이봐, 이 물건 어디서 구했지? &#x0A;자네도 엄청나게 궁금하니까 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001212$&lt;/font&gt;같은 수상한 녀석의 말까지 &#x0A;주의 깊게 듣고 여기까지 왔을 거 아니야. 냉큼 말해 봐. ' />
+	<key id="1126164905001061" npc="오데사" name="$npcName:23090005$$pp:를,을$ 쓰러트린 이후의 자초지종을 설명한다." />
+	<key id="1126164905001062" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:를,을$ 쓰러트리고 얻은 물질을 정화하고,&#x0A;거기 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000421$&lt;/font&gt;까지 이용해 만든 무기에 힘을 주입했는데 &#x0A;결과는 무기로 쓸 수 없는 잡동사니가 튀어나왔다 이거지? ' />
+	<key id="1126164905001063" npc="오데사" name="그렇다고 말한다. " />
+	<key id="1126164905001064" npc="오데사" name='크하하핫! 자네, 날 만난 걸 행운으로 생각해.&#x0A;마침 내가 연구하고 있던 이 &lt;font color=&quot;#ffd200&quot;&gt;쉐도우 월드의 어둠의 힘이 가진 파장&lt;/font&gt;과&#x0A;이 물건을 둘러싼 &lt;font color=&quot;#ffd200&quot;&gt;기묘하고 불길한 마력의 파장&lt;/font&gt;이 꽤 비슷한 형태군. &#x0A;좋아, 이거라면 되겠어. &lt;font color=&quot;#ffd200&quot;&gt;방법&lt;/font&gt;이 있겠다고.' />
+	<key id="1126164905001065" npc="오데사" name='뭐, 알아들을 수 있을지 모르겠지만 간단히 설명하자면 이런 원리야.&#x0A;힘은 &lt;font color=&quot;#ffd200&quot;&gt;같은 파장의 힘&lt;/font&gt;을 만나면 순간 큰 힘을 내며 밀어내지.&#x0A;두 개의 자석을 같은 극끼리 마주치게 하면 서로 밀어내는 것처럼 말이야.' />
+	<key id="1126164905001066" npc="오데사" name='최근 쉐도우 월드에 흐르고 있는 강한 어둠의 에너지를 잔뜩 모아 &#x0A;자네가 가져온 이 물건과 충돌시키면? &lt;font color=&quot;#ffd200&quot;&gt;서로 밀어내는 큰 힘&lt;/font&gt;이 일어날 거야.&#x0A;그러면 이 물건을 감싼 불길한 마력의 &lt;font color=&quot;#ffd200&quot;&gt;봉인을 깰&lt;/font&gt; 수도 있겠지.' />
+	<key id="1126164905001067" npc="오데사" name="그럼 어서 해 보라고 말한다." />
+	<key id="1126164905001068" npc="오데사" name='이봐. 깨져라, 짠! 하면 순식간에 뿅! 하고 되는 게 아니라고. &#x0A;어둠의 에너지를 &lt;font color=&quot;#ffd200&quot;&gt;잔뜩 모아서 충돌&lt;/font&gt;시켜야 한다니까? &#x0A;강한 어둠의 에너지가 아주 많이 필요하다고! &lt;font color=&quot;#ffd200&quot;&gt;그걸 모아오는 게 먼저&lt;/font&gt;란 말이야.' />
+	<key id="1126164905001069" npc="오데사" name="그런 건 어디서 얻어야 하는지 묻는다." />
+	<key id="1126164905001070" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;$pp:라,이라$고 들어봤나? 어둠의 씨앗에서 퍼져 나온 그림자 줄기.&#x0A;한때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000023$&lt;/font&gt; 인근까지 깊숙하게 파고들었지만,&#x0A;$npc:11000031$$pp:와,과$ 요정들의 힘으로 간신히 막아냈다고 해. &#x0A;그때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;에 들어갔다가 &lt;font color=&quot;#ffd200&quot;&gt;하비독에 중독된 요정들&lt;/font&gt;이 있지. ' />
+	<key id="1126164905001071" npc="오데사" name='그 요정들의 몸에서는 매일 하나씩 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:가,이$ 자라나는데, &#x0A;그걸 열면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;$pp:라,이라$는 걸 얻을 수 있다고 하더군.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;강력한 어둠의 에너지가 응축된 결정체&lt;/font&gt;이니, 그걸 많이 모아와. &#x0A;그 정도는 되어야 자네의 그 물건을 둘러싼 봉인에 힘을 쓸 수 있을 거야.' />
+	<key id="1126164905001072" npc="오데사" name='최근 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;에서 $map:02000350$$pp2:로,으로$ 통하는 입구가 발견됐다고 하더군.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보는 게 좋을 거야. ' />
+	<key id="1126164905001073" npc="오데사" name='$map:02000350$$pp2:로,으로$ 통하는 입구는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;이야.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보고, 충분하게 모아와. &#x0A;서둘러, 내 맘이 변하기 전에 움직이라고!' />
+	<key id="1126164905001074" npc="오데사" name='어디 보자… 오, 됐군. 이 정도면 충분하겠어! &#x0A;어서 이리 줘, &lt;font color=&quot;#ffd200&quot;&gt;작업&lt;/font&gt;을 시작할 테니.' />
+	<key id="1126164905001075" npc="오데사" name="$npcName:11001242$의 작업이 끝나길 기다린다." />
+	<key id="1126164905001076" npc="오데사" name="이거…. 그렇지. &#x0A;그러니까…. 여기서." />
+	<key id="1126164905001077" npc="오데사" name="좀 더 기다린다." />
+	<key id="1126164905001078" npc="오데사" name="그래… 분명, 이렇게. 그리고 여기서 그렇게." />
+	<key id="1126164905001079" npc="오데사" name="$npcName:11001242$의 표정이 뭔가 수상한 것 같다." />
+	<key id="1126164905001080" npc="오데사" name="다 됐다. 여기, 받아." />
+	<key id="1126164905001081" npc="오데사" name='잠깐. 거기 서서 내 말을 들어 봐.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;무기를 사용하기 전&lt;/font&gt;에 반드시 해야 할 것이 있지.&#x0A;봉인은 풀렸지만, 그걸 하기 전엔 아직 완전한 무기라고 할 수 없을 테니 말이야.' />
+	<key id="1126164905001082" npc="오데사" name="무엇을 해야 하느냐고 묻는다." />
+	<key id="1126164905001083" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;이지. 특히 강한 무기일수록 더욱 해야 하는 법이야.&#x0A;자네, 꼭 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;에 찾아가 무기를 제련하도록 해.&#x0A;그 전에 함부로 무기를 휘둘렀다가 벌어지는 일은 &lt;font color=&quot;#ffd200&quot;&gt;모두 자네 책임&lt;/font&gt;이야.' />
+	<key id="1126164905001084" npc="오데사" name='안 가고 뭐 해? &#x0A;제련도 안 하고 무기를 사용하면 절대 안 된다는 걸 명심하라고!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;$pp2:로,으로$ 가! 어서! ' />
+	<key id="1126164905001085" npc="오데사" name="반갑네, $MyPCName$! 그동안 잘 지냈나? " />
+	<key id="1126164905001086" npc="오데사" name="$item:13200043$$pp:를,을$ 보여주며 제련을 부탁한다." />
+	<key id="1126164905001087" npc="오데사" name='아니, 이것은…! 설마 자네, 봉인을 풀었나? &#x0A;그보다도, 잠깐… 자네, &lt;font color=&quot;#ffd200&quot;&gt;몸은 괜찮은가&lt;/font&gt;? 여기까지 오는 동안 별일 없었고?' />
+	<key id="1126164905001088" npc="오데사" name="무기를 휘둘러 보았다가 큰일날 뻔했으니 어서 제련해 달라고 한다." />
+	<key id="1126164905001089" npc="오데사" name="별 일 없었지만, 무기 사용 전 제련은 필수라던 $npcName:11001242$의 말을 전한다." />
+	<key id="1126164905001090" npc="오데사" name='이건 &lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;해서 해결될 일이 아닐세. &#x0A;자네가 가져온 이 무기에 깃든 기운은 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:가,이$ 가진 무한한 생명력의 본질, &#x0A;다른 살아있는 존재들의 피를 흡수해 자신의 것으로 삼는 그것과 같다네. &#x0A;이 무기는 &lt;font color=&quot;#ffd200&quot;&gt;장비한 자의 기운을 흡수&lt;/font&gt;하려는 성질을 가지고 있어. ' />
+	<key id="1126164905001091" npc="오데사" name='설마 이게, 그때 내가 힘을 주입했다가 &lt;font color=&quot;#ffd200&quot;&gt;폭주&lt;/font&gt;해 버린 그 무기가 맞나? &#x0A;대체 무슨 일이 있었던 건지 자세히 설명해 주게.' />
+	<key id="1126164905001092" npc="오데사" name="자초지종을 자세히 설명한다." />
+	<key id="1126164905001093" npc="오데사" name='쉐도우 월드의 강력한 &lt;font color=&quot;#ffd200&quot;&gt;어둠의 기운&lt;/font&gt;으로 &lt;font color=&quot;#ffd200&quot;&gt;불길한 마력의 봉인에 균열&lt;/font&gt;을…?&#x0A;흥미로운 접근이군. 결국 장비할 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;무기&lt;/font&gt;의 형태가 되기도 하였고…!&#x0A;하지만, 봉인을 깨는 것만으로는 &lt;font color=&quot;#ffd200&quot;&gt;진정한 힘을 얻을 수는 없었던 것&lt;/font&gt; 같네. ' />
+	<key id="1126164905001094" npc="오데사" name="그렇다면 어떻게 해야 하는지 묻는다." />
+	<key id="1126164905001095" npc="오데사" name='선조들께서 남긴 기록에 따르면 &lt;font color=&quot;#ffd200&quot;&gt;마력을 불어넣은 무기&lt;/font&gt;는 &#x0A;힘의 원천이 되는 존재와 닮아, 그 영향을 강하게 받는다 하였다네. &#x0A;이 무기에 불어넣은 마력의 원천이 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;에게서 비롯된 것이니만큼&#x0A;역시…. 뭔가 &lt;font color=&quot;#ffd200&quot;&gt;다른 방법&lt;/font&gt;이 필요할 것 같은데.' />
+	<key id="1126164905001096" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:는,은$ 일반적인 생명의 순환과는 다른 영역에 있는 불멸의 존재이니,&#x0A;그 마력을 이용한 힘을 &lt;font color=&quot;#ffd200&quot;&gt;온전히 활용&lt;/font&gt;할 수 있는 방법은 &#x0A;그 존재의 비밀과 닿아 있지 않을까…?&#x0A;하지만 이 역시 &lt;font color=&quot;#ffd200&quot;&gt;추측&lt;/font&gt;일 뿐, 정확한 것은 없고 단서는 희미하지.' />
+	<key id="1126164905001097" npc="오데사" name='사실 무기에 힘을 불어넣는 데 실패한 그날부터, 나는 &lt;font color=&quot;#ffd200&quot;&gt;선조들의 기록&lt;/font&gt;은 물론&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;다른 대륙에서 온 자료&lt;/font&gt;까지도 꾸준히 탐독하고 있었다네.&#x0A;답답하겠지만 조금만 더 참아 주게나. 내 반드시 &lt;font color=&quot;#ffd200&quot;&gt;해결책&lt;/font&gt;을 찾아낼 테니!' />
+	<key id="1126164905001098" npc="오데사" name='어, 이 힘은…? 이봐, 이 물건 어디서 구했지? &#x0A;자네도 엄청나게 궁금하니까 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001212$&lt;/font&gt;같은 수상한 녀석의 말까지 &#x0A;주의 깊게 듣고 여기까지 왔을 거 아니야. 냉큼 말해 봐. ' />
+	<key id="1126164905001099" npc="오데사" name="$npcName:23090005$$pp:를,을$ 쓰러트린 이후의 자초지종을 설명한다." />
+	<key id="1126164905001100" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:를,을$ 쓰러트리고 얻은 물질을 정화하고,&#x0A;거기 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000421$&lt;/font&gt;까지 이용해 만든 무기에 힘을 주입했는데 &#x0A;결과는 무기로 쓸 수 없는 잡동사니가 튀어나왔다 이거지? ' />
+	<key id="1126164905001101" npc="오데사" name="그렇다고 말한다. " />
+	<key id="1126164905001102" npc="오데사" name='크하하핫! 자네, 날 만난 걸 행운으로 생각해.&#x0A;마침 내가 연구하고 있던 이 &lt;font color=&quot;#ffd200&quot;&gt;쉐도우 월드의 어둠의 힘이 가진 파장&lt;/font&gt;과&#x0A;이 물건을 둘러싼 &lt;font color=&quot;#ffd200&quot;&gt;기묘하고 불길한 마력의 파장&lt;/font&gt;이 꽤 비슷한 형태군. &#x0A;좋아, 이거라면 되겠어. &lt;font color=&quot;#ffd200&quot;&gt;방법&lt;/font&gt;이 있겠다고.' />
+	<key id="1126164905001103" npc="오데사" name='뭐, 알아들을 수 있을지 모르겠지만 간단히 설명하자면 이런 원리야.&#x0A;힘은 &lt;font color=&quot;#ffd200&quot;&gt;같은 파장의 힘&lt;/font&gt;을 만나면 순간 큰 힘을 내며 밀어내지.&#x0A;두 개의 자석을 같은 극끼리 마주치게 하면 서로 밀어내는 것처럼 말이야.' />
+	<key id="1126164905001104" npc="오데사" name='최근 쉐도우 월드에 흐르고 있는 강한 어둠의 에너지를 잔뜩 모아 &#x0A;자네가 가져온 이 물건과 충돌시키면? &lt;font color=&quot;#ffd200&quot;&gt;서로 밀어내는 큰 힘&lt;/font&gt;이 일어날 거야.&#x0A;그러면 이 물건을 감싼 불길한 마력의 &lt;font color=&quot;#ffd200&quot;&gt;봉인을 깰&lt;/font&gt; 수도 있겠지.' />
+	<key id="1126164905001105" npc="오데사" name="그럼 어서 해 보라고 말한다." />
+	<key id="1126164905001106" npc="오데사" name='이봐. 깨져라, 짠! 하면 순식간에 뿅! 하고 되는 게 아니라고. &#x0A;어둠의 에너지를 &lt;font color=&quot;#ffd200&quot;&gt;잔뜩 모아서 충돌&lt;/font&gt;시켜야 한다니까? &#x0A;강한 어둠의 에너지가 아주 많이 필요하다고! &lt;font color=&quot;#ffd200&quot;&gt;그걸 모아오는 게 먼저&lt;/font&gt;란 말이야.' />
+	<key id="1126164905001107" npc="오데사" name="그런 건 어디서 얻어야 하는지 묻는다." />
+	<key id="1126164905001108" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;$pp:라,이라$고 들어봤나? 어둠의 씨앗에서 퍼져 나온 그림자 줄기.&#x0A;한때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000023$&lt;/font&gt; 인근까지 깊숙하게 파고들었지만,&#x0A;$npc:11000031$$pp:와,과$ 요정들의 힘으로 간신히 막아냈다고 해. &#x0A;그때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;에 들어갔다가 &lt;font color=&quot;#ffd200&quot;&gt;하비독에 중독된 요정들&lt;/font&gt;이 있지. ' />
+	<key id="1126164905001109" npc="오데사" name='그 요정들의 몸에서는 매일 하나씩 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:가,이$ 자라나는데, &#x0A;그걸 열면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;$pp:라,이라$는 걸 얻을 수 있다고 하더군.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;강력한 어둠의 에너지가 응축된 결정체&lt;/font&gt;이니, 그걸 많이 모아와. &#x0A;그 정도는 되어야 자네의 그 물건을 둘러싼 봉인에 힘을 쓸 수 있을 거야.' />
+	<key id="1126164905001110" npc="오데사" name='최근 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;에서 $map:02000350$$pp2:로,으로$ 통하는 입구가 발견됐다고 하더군.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보는 게 좋을 거야. ' />
+	<key id="1126164905001111" npc="오데사" name='$map:02000350$$pp2:로,으로$ 통하는 입구는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;이야.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보고, 충분하게 모아와. &#x0A;서둘러, 내 맘이 변하기 전에 움직이라고!' />
+	<key id="1126164905001112" npc="오데사" name='어디 보자… 오, 됐군. 이 정도면 충분하겠어! &#x0A;어서 이리 줘, &lt;font color=&quot;#ffd200&quot;&gt;작업&lt;/font&gt;을 시작할 테니.' />
+	<key id="1126164905001113" npc="오데사" name="$npcName:11001242$의 작업이 끝나길 기다린다." />
+	<key id="1126164905001114" npc="오데사" name="이거…. 그렇지. &#x0A;그러니까…. 여기서." />
+	<key id="1126164905001115" npc="오데사" name="좀 더 기다린다." />
+	<key id="1126164905001116" npc="오데사" name="그래… 분명, 이렇게. 그리고 여기서 그렇게." />
+	<key id="1126164905001117" npc="오데사" name="$npcName:11001242$의 표정이 뭔가 수상한 것 같다." />
+	<key id="1126164905001118" npc="오데사" name="다 됐다. 여기, 받아." />
+	<key id="1126164905001119" npc="오데사" name='잠깐. 거기 서서 내 말을 들어 봐.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;무기를 사용하기 전&lt;/font&gt;에 반드시 해야 할 것이 있지.&#x0A;봉인은 풀렸지만, 그걸 하기 전엔 아직 완전한 무기라고 할 수 없을 테니 말이야.' />
+	<key id="1126164905001120" npc="오데사" name="무엇을 해야 하느냐고 묻는다." />
+	<key id="1126164905001121" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;이지. 특히 강한 무기일수록 더욱 해야 하는 법이야.&#x0A;자네, 꼭 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;에 찾아가 무기를 제련하도록 해.&#x0A;그 전에 함부로 무기를 휘둘렀다가 벌어지는 일은 &lt;font color=&quot;#ffd200&quot;&gt;모두 자네 책임&lt;/font&gt;이야.' />
+	<key id="1126164905001122" npc="오데사" name='안 가고 뭐 해? &#x0A;제련도 안 하고 무기를 사용하면 절대 안 된다는 걸 명심하라고!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;$pp2:로,으로$ 가! 어서! ' />
+	<key id="1126164905001123" npc="오데사" name="반갑네, $MyPCName$! 그동안 잘 지냈나? " />
+	<key id="1126164905001124" npc="오데사" name="$item:15000041$$pp:를,을$ 보여주며 제련을 부탁한다." />
+	<key id="1126164905001125" npc="오데사" name='아니, 이것은…! 설마 자네, 봉인을 풀었나? &#x0A;그보다도, 잠깐… 자네, &lt;font color=&quot;#ffd200&quot;&gt;몸은 괜찮은가&lt;/font&gt;? 여기까지 오는 동안 별일 없었고?' />
+	<key id="1126164905001126" npc="오데사" name="무기를 휘둘러 보았다가 큰일날 뻔했으니 어서 제련해 달라고 한다." />
+	<key id="1126164905001127" npc="오데사" name="별 일 없었지만, 무기 사용 전 제련은 필수라던 $npcName:11001242$의 말을 전한다." />
+	<key id="1126164905001128" npc="오데사" name='이건 &lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;해서 해결될 일이 아닐세. &#x0A;자네가 가져온 이 무기에 깃든 기운은 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:가,이$ 가진 무한한 생명력의 본질, &#x0A;다른 살아있는 존재들의 피를 흡수해 자신의 것으로 삼는 그것과 같다네. &#x0A;이 무기는 &lt;font color=&quot;#ffd200&quot;&gt;장비한 자의 기운을 흡수&lt;/font&gt;하려는 성질을 가지고 있어. ' />
+	<key id="1126164905001129" npc="오데사" name='설마 이게, 그때 내가 힘을 주입했다가 &lt;font color=&quot;#ffd200&quot;&gt;폭주&lt;/font&gt;해 버린 그 무기가 맞나? &#x0A;대체 무슨 일이 있었던 건지 자세히 설명해 주게.' />
+	<key id="1126164905001130" npc="오데사" name="자초지종을 자세히 설명한다." />
+	<key id="1126164905001131" npc="오데사" name='쉐도우 월드의 강력한 &lt;font color=&quot;#ffd200&quot;&gt;어둠의 기운&lt;/font&gt;으로 &lt;font color=&quot;#ffd200&quot;&gt;불길한 마력의 봉인에 균열&lt;/font&gt;을…?&#x0A;흥미로운 접근이군. 결국 장비할 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;무기&lt;/font&gt;의 형태가 되기도 하였고…!&#x0A;하지만, 봉인을 깨는 것만으로는 &lt;font color=&quot;#ffd200&quot;&gt;진정한 힘을 얻을 수는 없었던 것&lt;/font&gt; 같네. ' />
+	<key id="1126164905001132" npc="오데사" name="그렇다면 어떻게 해야 하는지 묻는다." />
+	<key id="1126164905001133" npc="오데사" name='선조들께서 남긴 기록에 따르면 &lt;font color=&quot;#ffd200&quot;&gt;마력을 불어넣은 무기&lt;/font&gt;는 &#x0A;힘의 원천이 되는 존재와 닮아, 그 영향을 강하게 받는다 하였다네. &#x0A;이 무기에 불어넣은 마력의 원천이 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;에게서 비롯된 것이니만큼&#x0A;역시…. 뭔가 &lt;font color=&quot;#ffd200&quot;&gt;다른 방법&lt;/font&gt;이 필요할 것 같은데.' />
+	<key id="1126164905001134" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:는,은$ 일반적인 생명의 순환과는 다른 영역에 있는 불멸의 존재이니,&#x0A;그 마력을 이용한 힘을 &lt;font color=&quot;#ffd200&quot;&gt;온전히 활용&lt;/font&gt;할 수 있는 방법은 &#x0A;그 존재의 비밀과 닿아 있지 않을까…?&#x0A;하지만 이 역시 &lt;font color=&quot;#ffd200&quot;&gt;추측&lt;/font&gt;일 뿐, 정확한 것은 없고 단서는 희미하지.' />
+	<key id="1126164905001135" npc="오데사" name='사실 무기에 힘을 불어넣는 데 실패한 그날부터, 나는 &lt;font color=&quot;#ffd200&quot;&gt;선조들의 기록&lt;/font&gt;은 물론&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;다른 대륙에서 온 자료&lt;/font&gt;까지도 꾸준히 탐독하고 있었다네.&#x0A;답답하겠지만 조금만 더 참아 주게나. 내 반드시 &lt;font color=&quot;#ffd200&quot;&gt;해결책&lt;/font&gt;을 찾아낼 테니!' />
+	<key id="1126164905001136" npc="오데사" name='어, 이 힘은…? 이봐, 이 물건 어디서 구했지? &#x0A;자네도 엄청나게 궁금하니까 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001212$&lt;/font&gt;같은 수상한 녀석의 말까지 &#x0A;주의 깊게 듣고 여기까지 왔을 거 아니야. 냉큼 말해 봐. ' />
+	<key id="1126164905001137" npc="오데사" name="$npcName:23090005$$pp:를,을$ 쓰러트린 이후의 자초지종을 설명한다." />
+	<key id="1126164905001138" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:를,을$ 쓰러트리고 얻은 물질을 정화하고,&#x0A;거기 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000421$&lt;/font&gt;까지 이용해 만든 무기에 힘을 주입했는데 &#x0A;결과는 무기로 쓸 수 없는 잡동사니가 튀어나왔다 이거지? ' />
+	<key id="1126164905001139" npc="오데사" name="그렇다고 말한다. " />
+	<key id="1126164905001140" npc="오데사" name='크하하핫! 자네, 날 만난 걸 행운으로 생각해.&#x0A;마침 내가 연구하고 있던 이 &lt;font color=&quot;#ffd200&quot;&gt;쉐도우 월드의 어둠의 힘이 가진 파장&lt;/font&gt;과&#x0A;이 물건을 둘러싼 &lt;font color=&quot;#ffd200&quot;&gt;기묘하고 불길한 마력의 파장&lt;/font&gt;이 꽤 비슷한 형태군. &#x0A;좋아, 이거라면 되겠어. &lt;font color=&quot;#ffd200&quot;&gt;방법&lt;/font&gt;이 있겠다고.' />
+	<key id="1126164905001141" npc="오데사" name='뭐, 알아들을 수 있을지 모르겠지만 간단히 설명하자면 이런 원리야.&#x0A;힘은 &lt;font color=&quot;#ffd200&quot;&gt;같은 파장의 힘&lt;/font&gt;을 만나면 순간 큰 힘을 내며 밀어내지.&#x0A;두 개의 자석을 같은 극끼리 마주치게 하면 서로 밀어내는 것처럼 말이야.' />
+	<key id="1126164905001142" npc="오데사" name='최근 쉐도우 월드에 흐르고 있는 강한 어둠의 에너지를 잔뜩 모아 &#x0A;자네가 가져온 이 물건과 충돌시키면? &lt;font color=&quot;#ffd200&quot;&gt;서로 밀어내는 큰 힘&lt;/font&gt;이 일어날 거야.&#x0A;그러면 이 물건을 감싼 불길한 마력의 &lt;font color=&quot;#ffd200&quot;&gt;봉인을 깰&lt;/font&gt; 수도 있겠지.' />
+	<key id="1126164905001143" npc="오데사" name="그럼 어서 해 보라고 말한다." />
+	<key id="1126164905001144" npc="오데사" name='이봐. 깨져라, 짠! 하면 순식간에 뿅! 하고 되는 게 아니라고. &#x0A;어둠의 에너지를 &lt;font color=&quot;#ffd200&quot;&gt;잔뜩 모아서 충돌&lt;/font&gt;시켜야 한다니까? &#x0A;강한 어둠의 에너지가 아주 많이 필요하다고! &lt;font color=&quot;#ffd200&quot;&gt;그걸 모아오는 게 먼저&lt;/font&gt;란 말이야.' />
+	<key id="1126164905001145" npc="오데사" name="그런 건 어디서 얻어야 하는지 묻는다." />
+	<key id="1126164905001146" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;$pp:라,이라$고 들어봤나? 어둠의 씨앗에서 퍼져 나온 그림자 줄기.&#x0A;한때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000023$&lt;/font&gt; 인근까지 깊숙하게 파고들었지만,&#x0A;$npc:11000031$$pp:와,과$ 요정들의 힘으로 간신히 막아냈다고 해. &#x0A;그때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;에 들어갔다가 &lt;font color=&quot;#ffd200&quot;&gt;하비독에 중독된 요정들&lt;/font&gt;이 있지. ' />
+	<key id="1126164905001147" npc="오데사" name='그 요정들의 몸에서는 매일 하나씩 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:가,이$ 자라나는데, &#x0A;그걸 열면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;$pp:라,이라$는 걸 얻을 수 있다고 하더군.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;강력한 어둠의 에너지가 응축된 결정체&lt;/font&gt;이니, 그걸 많이 모아와. &#x0A;그 정도는 되어야 자네의 그 물건을 둘러싼 봉인에 힘을 쓸 수 있을 거야.' />
+	<key id="1126164905001148" npc="오데사" name='최근 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;에서 $map:02000350$$pp2:로,으로$ 통하는 입구가 발견됐다고 하더군.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보는 게 좋을 거야. ' />
+	<key id="1126164905001149" npc="오데사" name='$map:02000350$$pp2:로,으로$ 통하는 입구는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;이야.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보고, 충분하게 모아와. &#x0A;서둘러, 내 맘이 변하기 전에 움직이라고!' />
+	<key id="1126164905001150" npc="오데사" name='어디 보자… 오, 됐군. 이 정도면 충분하겠어! &#x0A;어서 이리 줘, &lt;font color=&quot;#ffd200&quot;&gt;작업&lt;/font&gt;을 시작할 테니.' />
+	<key id="1126164905001151" npc="오데사" name="$npcName:11001242$의 작업이 끝나길 기다린다." />
+	<key id="1126164905001152" npc="오데사" name="이거…. 그렇지. &#x0A;그러니까…. 여기서." />
+	<key id="1126164905001153" npc="오데사" name="좀 더 기다린다." />
+	<key id="1126164905001154" npc="오데사" name="그래… 분명, 이렇게. 그리고 여기서 그렇게." />
+	<key id="1126164905001155" npc="오데사" name="$npcName:11001242$의 표정이 뭔가 수상한 것 같다." />
+	<key id="1126164905001156" npc="오데사" name="다 됐다. 여기, 받아." />
+	<key id="1126164905001157" npc="오데사" name='잠깐. 거기 서서 내 말을 들어 봐.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;무기를 사용하기 전&lt;/font&gt;에 반드시 해야 할 것이 있지.&#x0A;봉인은 풀렸지만, 그걸 하기 전엔 아직 완전한 무기라고 할 수 없을 테니 말이야.' />
+	<key id="1126164905001158" npc="오데사" name="무엇을 해야 하느냐고 묻는다." />
+	<key id="1126164905001159" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;이지. 특히 강한 무기일수록 더욱 해야 하는 법이야.&#x0A;자네, 꼭 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;에 찾아가 무기를 제련하도록 해.&#x0A;그 전에 함부로 무기를 휘둘렀다가 벌어지는 일은 &lt;font color=&quot;#ffd200&quot;&gt;모두 자네 책임&lt;/font&gt;이야.' />
+	<key id="1126164905001160" npc="오데사" name='안 가고 뭐 해? &#x0A;제련도 안 하고 무기를 사용하면 절대 안 된다는 걸 명심하라고!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;$pp2:로,으로$ 가! 어서! ' />
+	<key id="1126164905001161" npc="오데사" name="반갑네, $MyPCName$! 그동안 잘 지냈나? " />
+	<key id="1126164905001162" npc="오데사" name="$item:15200142$$pp:를,을$ 보여주며 제련을 부탁한다." />
+	<key id="1126164905001163" npc="오데사" name='아니, 이것은…! 설마 자네, 봉인을 풀었나? &#x0A;그보다도, 잠깐… 자네, &lt;font color=&quot;#ffd200&quot;&gt;몸은 괜찮은가&lt;/font&gt;? 여기까지 오는 동안 별일 없었고?' />
+	<key id="1126164905001164" npc="오데사" name="무기를 휘둘러 보았다가 큰일날 뻔했으니 어서 제련해 달라고 한다." />
+	<key id="1126164905001165" npc="오데사" name="별 일 없었지만, 무기 사용 전 제련은 필수라던 $npcName:11001242$의 말을 전한다." />
+	<key id="1126164905001166" npc="오데사" name='이건 &lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;해서 해결될 일이 아닐세. &#x0A;자네가 가져온 이 무기에 깃든 기운은 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:가,이$ 가진 무한한 생명력의 본질, &#x0A;다른 살아있는 존재들의 피를 흡수해 자신의 것으로 삼는 그것과 같다네. &#x0A;이 무기는 &lt;font color=&quot;#ffd200&quot;&gt;장비한 자의 기운을 흡수&lt;/font&gt;하려는 성질을 가지고 있어. ' />
+	<key id="1126164905001167" npc="오데사" name='설마 이게, 그때 내가 힘을 주입했다가 &lt;font color=&quot;#ffd200&quot;&gt;폭주&lt;/font&gt;해 버린 그 무기가 맞나? &#x0A;대체 무슨 일이 있었던 건지 자세히 설명해 주게.' />
+	<key id="1126164905001168" npc="오데사" name="자초지종을 자세히 설명한다." />
+	<key id="1126164905001169" npc="오데사" name='쉐도우 월드의 강력한 &lt;font color=&quot;#ffd200&quot;&gt;어둠의 기운&lt;/font&gt;으로 &lt;font color=&quot;#ffd200&quot;&gt;불길한 마력의 봉인에 균열&lt;/font&gt;을…?&#x0A;흥미로운 접근이군. 결국 장비할 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;무기&lt;/font&gt;의 형태가 되기도 하였고…!&#x0A;하지만, 봉인을 깨는 것만으로는 &lt;font color=&quot;#ffd200&quot;&gt;진정한 힘을 얻을 수는 없었던 것&lt;/font&gt; 같네. ' />
+	<key id="1126164905001170" npc="오데사" name="그렇다면 어떻게 해야 하는지 묻는다." />
+	<key id="1126164905001171" npc="오데사" name='선조들께서 남긴 기록에 따르면 &lt;font color=&quot;#ffd200&quot;&gt;마력을 불어넣은 무기&lt;/font&gt;는 &#x0A;힘의 원천이 되는 존재와 닮아, 그 영향을 강하게 받는다 하였다네. &#x0A;이 무기에 불어넣은 마력의 원천이 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;에게서 비롯된 것이니만큼&#x0A;역시…. 뭔가 &lt;font color=&quot;#ffd200&quot;&gt;다른 방법&lt;/font&gt;이 필요할 것 같은데.' />
+	<key id="1126164905001172" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:는,은$ 일반적인 생명의 순환과는 다른 영역에 있는 불멸의 존재이니,&#x0A;그 마력을 이용한 힘을 &lt;font color=&quot;#ffd200&quot;&gt;온전히 활용&lt;/font&gt;할 수 있는 방법은 &#x0A;그 존재의 비밀과 닿아 있지 않을까…?&#x0A;하지만 이 역시 &lt;font color=&quot;#ffd200&quot;&gt;추측&lt;/font&gt;일 뿐, 정확한 것은 없고 단서는 희미하지.' />
+	<key id="1126164905001173" npc="오데사" name='사실 무기에 힘을 불어넣는 데 실패한 그날부터, 나는 &lt;font color=&quot;#ffd200&quot;&gt;선조들의 기록&lt;/font&gt;은 물론&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;다른 대륙에서 온 자료&lt;/font&gt;까지도 꾸준히 탐독하고 있었다네.&#x0A;답답하겠지만 조금만 더 참아 주게나. 내 반드시 &lt;font color=&quot;#ffd200&quot;&gt;해결책&lt;/font&gt;을 찾아낼 테니!' />
+	<key id="1126164905001174" npc="오데사" name='어, 이 힘은…? 이봐, 이 물건 어디서 구했지? &#x0A;자네도 엄청나게 궁금하니까 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001212$&lt;/font&gt;같은 수상한 녀석의 말까지 &#x0A;주의 깊게 듣고 여기까지 왔을 거 아니야. 냉큼 말해 봐. ' />
+	<key id="1126164905001175" npc="오데사" name="$npcName:23090005$$pp:를,을$ 쓰러트린 이후의 자초지종을 설명한다." />
+	<key id="1126164905001176" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:를,을$ 쓰러트리고 얻은 물질을 정화하고,&#x0A;거기 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000421$&lt;/font&gt;까지 이용해 만든 무기에 힘을 주입했는데 &#x0A;결과는 무기로 쓸 수 없는 잡동사니가 튀어나왔다 이거지? ' />
+	<key id="1126164905001177" npc="오데사" name="그렇다고 말한다. " />
+	<key id="1126164905001178" npc="오데사" name='크하하핫! 자네, 날 만난 걸 행운으로 생각해.&#x0A;마침 내가 연구하고 있던 이 &lt;font color=&quot;#ffd200&quot;&gt;쉐도우 월드의 어둠의 힘이 가진 파장&lt;/font&gt;과&#x0A;이 물건을 둘러싼 &lt;font color=&quot;#ffd200&quot;&gt;기묘하고 불길한 마력의 파장&lt;/font&gt;이 꽤 비슷한 형태군. &#x0A;좋아, 이거라면 되겠어. &lt;font color=&quot;#ffd200&quot;&gt;방법&lt;/font&gt;이 있겠다고.' />
+	<key id="1126164905001179" npc="오데사" name='뭐, 알아들을 수 있을지 모르겠지만 간단히 설명하자면 이런 원리야.&#x0A;힘은 &lt;font color=&quot;#ffd200&quot;&gt;같은 파장의 힘&lt;/font&gt;을 만나면 순간 큰 힘을 내며 밀어내지.&#x0A;두 개의 자석을 같은 극끼리 마주치게 하면 서로 밀어내는 것처럼 말이야.' />
+	<key id="1126164905001180" npc="오데사" name='최근 쉐도우 월드에 흐르고 있는 강한 어둠의 에너지를 잔뜩 모아 &#x0A;자네가 가져온 이 물건과 충돌시키면? &lt;font color=&quot;#ffd200&quot;&gt;서로 밀어내는 큰 힘&lt;/font&gt;이 일어날 거야.&#x0A;그러면 이 물건을 감싼 불길한 마력의 &lt;font color=&quot;#ffd200&quot;&gt;봉인을 깰&lt;/font&gt; 수도 있겠지.' />
+	<key id="1126164905001181" npc="오데사" name="그럼 어서 해 보라고 말한다." />
+	<key id="1126164905001182" npc="오데사" name='이봐. 깨져라, 짠! 하면 순식간에 뿅! 하고 되는 게 아니라고. &#x0A;어둠의 에너지를 &lt;font color=&quot;#ffd200&quot;&gt;잔뜩 모아서 충돌&lt;/font&gt;시켜야 한다니까? &#x0A;강한 어둠의 에너지가 아주 많이 필요하다고! &lt;font color=&quot;#ffd200&quot;&gt;그걸 모아오는 게 먼저&lt;/font&gt;란 말이야.' />
+	<key id="1126164905001183" npc="오데사" name="그런 건 어디서 얻어야 하는지 묻는다." />
+	<key id="1126164905001184" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;$pp:라,이라$고 들어봤나? 어둠의 씨앗에서 퍼져 나온 그림자 줄기.&#x0A;한때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000023$&lt;/font&gt; 인근까지 깊숙하게 파고들었지만,&#x0A;$npc:11000031$$pp:와,과$ 요정들의 힘으로 간신히 막아냈다고 해. &#x0A;그때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;에 들어갔다가 &lt;font color=&quot;#ffd200&quot;&gt;하비독에 중독된 요정들&lt;/font&gt;이 있지. ' />
+	<key id="1126164905001185" npc="오데사" name='그 요정들의 몸에서는 매일 하나씩 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:가,이$ 자라나는데, &#x0A;그걸 열면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;$pp:라,이라$는 걸 얻을 수 있다고 하더군.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;강력한 어둠의 에너지가 응축된 결정체&lt;/font&gt;이니, 그걸 많이 모아와. &#x0A;그 정도는 되어야 자네의 그 물건을 둘러싼 봉인에 힘을 쓸 수 있을 거야.' />
+	<key id="1126164905001186" npc="오데사" name='최근 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;에서 $map:02000350$$pp2:로,으로$ 통하는 입구가 발견됐다고 하더군.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보는 게 좋을 거야. ' />
+	<key id="1126164905001187" npc="오데사" name='$map:02000350$$pp2:로,으로$ 통하는 입구는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;이야.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보고, 충분하게 모아와. &#x0A;서둘러, 내 맘이 변하기 전에 움직이라고!' />
+	<key id="1126164905001188" npc="오데사" name='어디 보자… 오, 됐군. 이 정도면 충분하겠어! &#x0A;어서 이리 줘, &lt;font color=&quot;#ffd200&quot;&gt;작업&lt;/font&gt;을 시작할 테니.' />
+	<key id="1126164905001189" npc="오데사" name="$npcName:11001242$의 작업이 끝나길 기다린다." />
+	<key id="1126164905001190" npc="오데사" name="이거…. 그렇지. &#x0A;그러니까…. 여기서." />
+	<key id="1126164905001191" npc="오데사" name="좀 더 기다린다." />
+	<key id="1126164905001192" npc="오데사" name="그래… 분명, 이렇게. 그리고 여기서 그렇게." />
+	<key id="1126164905001193" npc="오데사" name="$npcName:11001242$의 표정이 뭔가 수상한 것 같다." />
+	<key id="1126164905001194" npc="오데사" name="다 됐다. 여기, 받아." />
+	<key id="1126164905001195" npc="오데사" name='잠깐. 거기 서서 내 말을 들어 봐.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;무기를 사용하기 전&lt;/font&gt;에 반드시 해야 할 것이 있지.&#x0A;봉인은 풀렸지만, 그걸 하기 전엔 아직 완전한 무기라고 할 수 없을 테니 말이야.' />
+	<key id="1126164905001196" npc="오데사" name="무엇을 해야 하느냐고 묻는다." />
+	<key id="1126164905001197" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;이지. 특히 강한 무기일수록 더욱 해야 하는 법이야.&#x0A;자네, 꼭 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;에 찾아가 무기를 제련하도록 해.&#x0A;그 전에 함부로 무기를 휘둘렀다가 벌어지는 일은 &lt;font color=&quot;#ffd200&quot;&gt;모두 자네 책임&lt;/font&gt;이야.' />
+	<key id="1126164905001198" npc="오데사" name='안 가고 뭐 해? &#x0A;제련도 안 하고 무기를 사용하면 절대 안 된다는 걸 명심하라고!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;$pp2:로,으로$ 가! 어서! ' />
+	<key id="1126164905001199" npc="오데사" name="반갑네, $MyPCName$! 그동안 잘 지냈나? " />
+	<key id="1126164905001200" npc="오데사" name="$item:13300138$$pp:를,을$ 보여주며 제련을 부탁한다." />
+	<key id="1126164905001201" npc="오데사" name='아니, 이것은…! 설마 자네, 봉인을 풀었나? &#x0A;그보다도, 잠깐… 자네, &lt;font color=&quot;#ffd200&quot;&gt;몸은 괜찮은가&lt;/font&gt;? 여기까지 오는 동안 별일 없었고?' />
+	<key id="1126164905001202" npc="오데사" name="무기를 휘둘러 보았다가 큰일날 뻔했으니 어서 제련해 달라고 한다." />
+	<key id="1126164905001203" npc="오데사" name="별 일 없었지만, 무기 사용 전 제련은 필수라던 $npcName:11001242$의 말을 전한다." />
+	<key id="1126164905001204" npc="오데사" name='이건 &lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;해서 해결될 일이 아닐세. &#x0A;자네가 가져온 이 무기에 깃든 기운은 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:가,이$ 가진 무한한 생명력의 본질, &#x0A;다른 살아있는 존재들의 피를 흡수해 자신의 것으로 삼는 그것과 같다네. &#x0A;이 무기는 &lt;font color=&quot;#ffd200&quot;&gt;장비한 자의 기운을 흡수&lt;/font&gt;하려는 성질을 가지고 있어. ' />
+	<key id="1126164905001205" npc="오데사" name='설마 이게, 그때 내가 힘을 주입했다가 &lt;font color=&quot;#ffd200&quot;&gt;폭주&lt;/font&gt;해 버린 그 무기가 맞나? &#x0A;대체 무슨 일이 있었던 건지 자세히 설명해 주게.' />
+	<key id="1126164905001206" npc="오데사" name="자초지종을 자세히 설명한다." />
+	<key id="1126164905001207" npc="오데사" name='쉐도우 월드의 강력한 &lt;font color=&quot;#ffd200&quot;&gt;어둠의 기운&lt;/font&gt;으로 &lt;font color=&quot;#ffd200&quot;&gt;불길한 마력의 봉인에 균열&lt;/font&gt;을…?&#x0A;흥미로운 접근이군. 결국 장비할 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;무기&lt;/font&gt;의 형태가 되기도 하였고…!&#x0A;하지만, 봉인을 깨는 것만으로는 &lt;font color=&quot;#ffd200&quot;&gt;진정한 힘을 얻을 수는 없었던 것&lt;/font&gt; 같네. ' />
+	<key id="1126164905001208" npc="오데사" name="그렇다면 어떻게 해야 하는지 묻는다." />
+	<key id="1126164905001209" npc="오데사" name='선조들께서 남긴 기록에 따르면 &lt;font color=&quot;#ffd200&quot;&gt;마력을 불어넣은 무기&lt;/font&gt;는 &#x0A;힘의 원천이 되는 존재와 닮아, 그 영향을 강하게 받는다 하였다네. &#x0A;이 무기에 불어넣은 마력의 원천이 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;에게서 비롯된 것이니만큼&#x0A;역시…. 뭔가 &lt;font color=&quot;#ffd200&quot;&gt;다른 방법&lt;/font&gt;이 필요할 것 같은데.' />
+	<key id="1126164905001210" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:는,은$ 일반적인 생명의 순환과는 다른 영역에 있는 불멸의 존재이니,&#x0A;그 마력을 이용한 힘을 &lt;font color=&quot;#ffd200&quot;&gt;온전히 활용&lt;/font&gt;할 수 있는 방법은 &#x0A;그 존재의 비밀과 닿아 있지 않을까…?&#x0A;하지만 이 역시 &lt;font color=&quot;#ffd200&quot;&gt;추측&lt;/font&gt;일 뿐, 정확한 것은 없고 단서는 희미하지.' />
+	<key id="1126164905001211" npc="오데사" name='사실 무기에 힘을 불어넣는 데 실패한 그날부터, 나는 &lt;font color=&quot;#ffd200&quot;&gt;선조들의 기록&lt;/font&gt;은 물론&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;다른 대륙에서 온 자료&lt;/font&gt;까지도 꾸준히 탐독하고 있었다네.&#x0A;답답하겠지만 조금만 더 참아 주게나. 내 반드시 &lt;font color=&quot;#ffd200&quot;&gt;해결책&lt;/font&gt;을 찾아낼 테니!' />
+	<key id="1126164905001212" npc="오데사" name='어, 이 힘은…? 이봐, 이 물건 어디서 구했지? &#x0A;자네도 엄청나게 궁금하니까 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001212$&lt;/font&gt;같은 수상한 녀석의 말까지 &#x0A;주의 깊게 듣고 여기까지 왔을 거 아니야. 냉큼 말해 봐. ' />
+	<key id="1126164905001213" npc="오데사" name="$npcName:23090005$$pp:를,을$ 쓰러트린 이후의 자초지종을 설명한다." />
+	<key id="1126164905001214" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:를,을$ 쓰러트리고 얻은 물질을 정화하고,&#x0A;거기 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000421$&lt;/font&gt;까지 이용해 만든 무기에 힘을 주입했는데 &#x0A;결과는 무기로 쓸 수 없는 잡동사니가 튀어나왔다 이거지? ' />
+	<key id="1126164905001215" npc="오데사" name="그렇다고 말한다. " />
+	<key id="1126164905001216" npc="오데사" name='크하하핫! 자네, 날 만난 걸 행운으로 생각해.&#x0A;마침 내가 연구하고 있던 이 &lt;font color=&quot;#ffd200&quot;&gt;쉐도우 월드의 어둠의 힘이 가진 파장&lt;/font&gt;과&#x0A;이 물건을 둘러싼 &lt;font color=&quot;#ffd200&quot;&gt;기묘하고 불길한 마력의 파장&lt;/font&gt;이 꽤 비슷한 형태군. &#x0A;좋아, 이거라면 되겠어. &lt;font color=&quot;#ffd200&quot;&gt;방법&lt;/font&gt;이 있겠다고.' />
+	<key id="1126164905001217" npc="오데사" name='뭐, 알아들을 수 있을지 모르겠지만 간단히 설명하자면 이런 원리야.&#x0A;힘은 &lt;font color=&quot;#ffd200&quot;&gt;같은 파장의 힘&lt;/font&gt;을 만나면 순간 큰 힘을 내며 밀어내지.&#x0A;두 개의 자석을 같은 극끼리 마주치게 하면 서로 밀어내는 것처럼 말이야.' />
+	<key id="1126164905001218" npc="오데사" name='최근 쉐도우 월드에 흐르고 있는 강한 어둠의 에너지를 잔뜩 모아 &#x0A;자네가 가져온 이 물건과 충돌시키면? &lt;font color=&quot;#ffd200&quot;&gt;서로 밀어내는 큰 힘&lt;/font&gt;이 일어날 거야.&#x0A;그러면 이 물건을 감싼 불길한 마력의 &lt;font color=&quot;#ffd200&quot;&gt;봉인을 깰&lt;/font&gt; 수도 있겠지.' />
+	<key id="1126164905001219" npc="오데사" name="그럼 어서 해 보라고 말한다." />
+	<key id="1126164905001220" npc="오데사" name='이봐. 깨져라, 짠! 하면 순식간에 뿅! 하고 되는 게 아니라고. &#x0A;어둠의 에너지를 &lt;font color=&quot;#ffd200&quot;&gt;잔뜩 모아서 충돌&lt;/font&gt;시켜야 한다니까? &#x0A;강한 어둠의 에너지가 아주 많이 필요하다고! &lt;font color=&quot;#ffd200&quot;&gt;그걸 모아오는 게 먼저&lt;/font&gt;란 말이야.' />
+	<key id="1126164905001221" npc="오데사" name="그런 건 어디서 얻어야 하는지 묻는다." />
+	<key id="1126164905001222" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;$pp:라,이라$고 들어봤나? 어둠의 씨앗에서 퍼져 나온 그림자 줄기.&#x0A;한때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000023$&lt;/font&gt; 인근까지 깊숙하게 파고들었지만,&#x0A;$npc:11000031$$pp:와,과$ 요정들의 힘으로 간신히 막아냈다고 해. &#x0A;그때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;에 들어갔다가 &lt;font color=&quot;#ffd200&quot;&gt;하비독에 중독된 요정들&lt;/font&gt;이 있지. ' />
+	<key id="1126164905001223" npc="오데사" name='그 요정들의 몸에서는 매일 하나씩 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:가,이$ 자라나는데, &#x0A;그걸 열면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;$pp:라,이라$는 걸 얻을 수 있다고 하더군.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;강력한 어둠의 에너지가 응축된 결정체&lt;/font&gt;이니, 그걸 많이 모아와. &#x0A;그 정도는 되어야 자네의 그 물건을 둘러싼 봉인에 힘을 쓸 수 있을 거야.' />
+	<key id="1126164905001224" npc="오데사" name='최근 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;에서 $map:02000350$$pp2:로,으로$ 통하는 입구가 발견됐다고 하더군.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보는 게 좋을 거야. ' />
+	<key id="1126164905001225" npc="오데사" name='$map:02000350$$pp2:로,으로$ 통하는 입구는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;이야.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보고, 충분하게 모아와. &#x0A;서둘러, 내 맘이 변하기 전에 움직이라고!' />
+	<key id="1126164905001226" npc="오데사" name='어디 보자… 오, 됐군. 이 정도면 충분하겠어! &#x0A;어서 이리 줘, &lt;font color=&quot;#ffd200&quot;&gt;작업&lt;/font&gt;을 시작할 테니.' />
+	<key id="1126164905001227" npc="오데사" name="$npcName:11001242$의 작업이 끝나길 기다린다." />
+	<key id="1126164905001228" npc="오데사" name="이거…. 그렇지. &#x0A;그러니까…. 여기서." />
+	<key id="1126164905001229" npc="오데사" name="좀 더 기다린다." />
+	<key id="1126164905001230" npc="오데사" name="그래… 분명, 이렇게. 그리고 여기서 그렇게." />
+	<key id="1126164905001231" npc="오데사" name="$npcName:11001242$의 표정이 뭔가 수상한 것 같다." />
+	<key id="1126164905001232" npc="오데사" name="다 됐다. 여기, 받아." />
+	<key id="1126164905001233" npc="오데사" name='잠깐. 거기 서서 내 말을 들어 봐.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;무기를 사용하기 전&lt;/font&gt;에 반드시 해야 할 것이 있지.&#x0A;봉인은 풀렸지만, 그걸 하기 전엔 아직 완전한 무기라고 할 수 없을 테니 말이야.' />
+	<key id="1126164905001234" npc="오데사" name="무엇을 해야 하느냐고 묻는다." />
+	<key id="1126164905001235" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;이지. 특히 강한 무기일수록 더욱 해야 하는 법이야.&#x0A;자네, 꼭 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;에 찾아가 무기를 제련하도록 해.&#x0A;그 전에 함부로 무기를 휘둘렀다가 벌어지는 일은 &lt;font color=&quot;#ffd200&quot;&gt;모두 자네 책임&lt;/font&gt;이야.' />
+	<key id="1126164905001236" npc="오데사" name='안 가고 뭐 해? &#x0A;제련도 안 하고 무기를 사용하면 절대 안 된다는 걸 명심하라고!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;$pp2:로,으로$ 가! 어서! ' />
+	<key id="1126164905001237" npc="오데사" name="반갑네, $MyPCName$! 그동안 잘 지냈나? " />
+	<key id="1126164905001238" npc="오데사" name="$item:15100136$$pp:를,을$ 보여주며 제련을 부탁한다." />
+	<key id="1126164905001239" npc="오데사" name='아니, 이것은…! 설마 자네, 봉인을 풀었나? &#x0A;그보다도, 잠깐… 자네, &lt;font color=&quot;#ffd200&quot;&gt;몸은 괜찮은가&lt;/font&gt;? 여기까지 오는 동안 별일 없었고?' />
+	<key id="1126164905001240" npc="오데사" name="무기를 휘둘러 보았다가 큰일날 뻔했으니 어서 제련해 달라고 한다." />
+	<key id="1126164905001241" npc="오데사" name="별 일 없었지만, 무기 사용 전 제련은 필수라던 $npcName:11001242$의 말을 전한다." />
+	<key id="1126164905001242" npc="오데사" name='이건 &lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;해서 해결될 일이 아닐세. &#x0A;자네가 가져온 이 무기에 깃든 기운은 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:가,이$ 가진 무한한 생명력의 본질, &#x0A;다른 살아있는 존재들의 피를 흡수해 자신의 것으로 삼는 그것과 같다네. &#x0A;이 무기는 &lt;font color=&quot;#ffd200&quot;&gt;장비한 자의 기운을 흡수&lt;/font&gt;하려는 성질을 가지고 있어. ' />
+	<key id="1126164905001243" npc="오데사" name='설마 이게, 그때 내가 힘을 주입했다가 &lt;font color=&quot;#ffd200&quot;&gt;폭주&lt;/font&gt;해 버린 그 무기가 맞나? &#x0A;대체 무슨 일이 있었던 건지 자세히 설명해 주게.' />
+	<key id="1126164905001244" npc="오데사" name="자초지종을 자세히 설명한다." />
+	<key id="1126164905001245" npc="오데사" name='쉐도우 월드의 강력한 &lt;font color=&quot;#ffd200&quot;&gt;어둠의 기운&lt;/font&gt;으로 &lt;font color=&quot;#ffd200&quot;&gt;불길한 마력의 봉인에 균열&lt;/font&gt;을…?&#x0A;흥미로운 접근이군. 결국 장비할 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;무기&lt;/font&gt;의 형태가 되기도 하였고…!&#x0A;하지만, 봉인을 깨는 것만으로는 &lt;font color=&quot;#ffd200&quot;&gt;진정한 힘을 얻을 수는 없었던 것&lt;/font&gt; 같네. ' />
+	<key id="1126164905001246" npc="오데사" name="그렇다면 어떻게 해야 하는지 묻는다." />
+	<key id="1126164905001247" npc="오데사" name='선조들께서 남긴 기록에 따르면 &lt;font color=&quot;#ffd200&quot;&gt;마력을 불어넣은 무기&lt;/font&gt;는 &#x0A;힘의 원천이 되는 존재와 닮아, 그 영향을 강하게 받는다 하였다네. &#x0A;이 무기에 불어넣은 마력의 원천이 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;에게서 비롯된 것이니만큼&#x0A;역시…. 뭔가 &lt;font color=&quot;#ffd200&quot;&gt;다른 방법&lt;/font&gt;이 필요할 것 같은데.' />
+	<key id="1126164905001248" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:는,은$ 일반적인 생명의 순환과는 다른 영역에 있는 불멸의 존재이니,&#x0A;그 마력을 이용한 힘을 &lt;font color=&quot;#ffd200&quot;&gt;온전히 활용&lt;/font&gt;할 수 있는 방법은 &#x0A;그 존재의 비밀과 닿아 있지 않을까…?&#x0A;하지만 이 역시 &lt;font color=&quot;#ffd200&quot;&gt;추측&lt;/font&gt;일 뿐, 정확한 것은 없고 단서는 희미하지.' />
+	<key id="1126164905001249" npc="오데사" name='사실 무기에 힘을 불어넣는 데 실패한 그날부터, 나는 &lt;font color=&quot;#ffd200&quot;&gt;선조들의 기록&lt;/font&gt;은 물론&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;다른 대륙에서 온 자료&lt;/font&gt;까지도 꾸준히 탐독하고 있었다네.&#x0A;답답하겠지만 조금만 더 참아 주게나. 내 반드시 &lt;font color=&quot;#ffd200&quot;&gt;해결책&lt;/font&gt;을 찾아낼 테니!' />
+	<key id="1126164905001250" npc="오데사" name='어, 이 힘은…? 이봐, 이 물건 어디서 구했지? &#x0A;자네도 엄청나게 궁금하니까 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001212$&lt;/font&gt;같은 수상한 녀석의 말까지 &#x0A;주의 깊게 듣고 여기까지 왔을 거 아니야. 냉큼 말해 봐. ' />
+	<key id="1126164905001251" npc="오데사" name="$npcName:23090005$$pp:를,을$ 쓰러트린 이후의 자초지종을 설명한다." />
+	<key id="1126164905001252" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:를,을$ 쓰러트리고 얻은 물질을 정화하고,&#x0A;거기 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000421$&lt;/font&gt;까지 이용해 만든 무기에 힘을 주입했는데 &#x0A;결과는 무기로 쓸 수 없는 잡동사니가 튀어나왔다 이거지? ' />
+	<key id="1126164905001253" npc="오데사" name="그렇다고 말한다. " />
+	<key id="1126164905001254" npc="오데사" name='크하하핫! 자네, 날 만난 걸 행운으로 생각해.&#x0A;마침 내가 연구하고 있던 이 &lt;font color=&quot;#ffd200&quot;&gt;쉐도우 월드의 어둠의 힘이 가진 파장&lt;/font&gt;과&#x0A;이 물건을 둘러싼 &lt;font color=&quot;#ffd200&quot;&gt;기묘하고 불길한 마력의 파장&lt;/font&gt;이 꽤 비슷한 형태군. &#x0A;좋아, 이거라면 되겠어. &lt;font color=&quot;#ffd200&quot;&gt;방법&lt;/font&gt;이 있겠다고.' />
+	<key id="1126164905001255" npc="오데사" name='뭐, 알아들을 수 있을지 모르겠지만 간단히 설명하자면 이런 원리야.&#x0A;힘은 &lt;font color=&quot;#ffd200&quot;&gt;같은 파장의 힘&lt;/font&gt;을 만나면 순간 큰 힘을 내며 밀어내지.&#x0A;두 개의 자석을 같은 극끼리 마주치게 하면 서로 밀어내는 것처럼 말이야.' />
+	<key id="1126164905001256" npc="오데사" name='최근 쉐도우 월드에 흐르고 있는 강한 어둠의 에너지를 잔뜩 모아 &#x0A;자네가 가져온 이 물건과 충돌시키면? &lt;font color=&quot;#ffd200&quot;&gt;서로 밀어내는 큰 힘&lt;/font&gt;이 일어날 거야.&#x0A;그러면 이 물건을 감싼 불길한 마력의 &lt;font color=&quot;#ffd200&quot;&gt;봉인을 깰&lt;/font&gt; 수도 있겠지.' />
+	<key id="1126164905001257" npc="오데사" name="그럼 어서 해 보라고 말한다." />
+	<key id="1126164905001258" npc="오데사" name='이봐. 깨져라, 짠! 하면 순식간에 뿅! 하고 되는 게 아니라고. &#x0A;어둠의 에너지를 &lt;font color=&quot;#ffd200&quot;&gt;잔뜩 모아서 충돌&lt;/font&gt;시켜야 한다니까? &#x0A;강한 어둠의 에너지가 아주 많이 필요하다고! &lt;font color=&quot;#ffd200&quot;&gt;그걸 모아오는 게 먼저&lt;/font&gt;란 말이야.' />
+	<key id="1126164905001259" npc="오데사" name="그런 건 어디서 얻어야 하는지 묻는다." />
+	<key id="1126164905001260" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;$pp:라,이라$고 들어봤나? 어둠의 씨앗에서 퍼져 나온 그림자 줄기.&#x0A;한때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000023$&lt;/font&gt; 인근까지 깊숙하게 파고들었지만,&#x0A;$npc:11000031$$pp:와,과$ 요정들의 힘으로 간신히 막아냈다고 해. &#x0A;그때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;에 들어갔다가 &lt;font color=&quot;#ffd200&quot;&gt;하비독에 중독된 요정들&lt;/font&gt;이 있지. ' />
+	<key id="1126164905001261" npc="오데사" name='그 요정들의 몸에서는 매일 하나씩 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:가,이$ 자라나는데, &#x0A;그걸 열면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;$pp:라,이라$는 걸 얻을 수 있다고 하더군.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;강력한 어둠의 에너지가 응축된 결정체&lt;/font&gt;이니, 그걸 많이 모아와. &#x0A;그 정도는 되어야 자네의 그 물건을 둘러싼 봉인에 힘을 쓸 수 있을 거야.' />
+	<key id="1126164905001262" npc="오데사" name='최근 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;에서 $map:02000350$$pp2:로,으로$ 통하는 입구가 발견됐다고 하더군.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보는 게 좋을 거야. ' />
+	<key id="1126164905001263" npc="오데사" name='$map:02000350$$pp2:로,으로$ 통하는 입구는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;이야.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보고, 충분하게 모아와. &#x0A;서둘러, 내 맘이 변하기 전에 움직이라고!' />
+	<key id="1126164905001264" npc="오데사" name='어디 보자… 오, 됐군. 이 정도면 충분하겠어! &#x0A;어서 이리 줘, &lt;font color=&quot;#ffd200&quot;&gt;작업&lt;/font&gt;을 시작할 테니.' />
+	<key id="1126164905001265" npc="오데사" name="$npcName:11001242$의 작업이 끝나길 기다린다." />
+	<key id="1126164905001266" npc="오데사" name="이거…. 그렇지. &#x0A;그러니까…. 여기서." />
+	<key id="1126164905001267" npc="오데사" name="좀 더 기다린다." />
+	<key id="1126164905001268" npc="오데사" name="그래… 분명, 이렇게. 그리고 여기서 그렇게." />
+	<key id="1126164905001269" npc="오데사" name="$npcName:11001242$의 표정이 뭔가 수상한 것 같다." />
+	<key id="1126164905001270" npc="오데사" name="다 됐다. 여기, 받아." />
+	<key id="1126164905001271" npc="오데사" name='잠깐. 거기 서서 내 말을 들어 봐.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;무기를 사용하기 전&lt;/font&gt;에 반드시 해야 할 것이 있지.&#x0A;봉인은 풀렸지만, 그걸 하기 전엔 아직 완전한 무기라고 할 수 없을 테니 말이야.' />
+	<key id="1126164905001272" npc="오데사" name="무엇을 해야 하느냐고 묻는다." />
+	<key id="1126164905001273" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;이지. 특히 강한 무기일수록 더욱 해야 하는 법이야.&#x0A;자네, 꼭 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;에 찾아가 무기를 제련하도록 해.&#x0A;그 전에 함부로 무기를 휘둘렀다가 벌어지는 일은 &lt;font color=&quot;#ffd200&quot;&gt;모두 자네 책임&lt;/font&gt;이야.' />
+	<key id="1126164905001274" npc="오데사" name='안 가고 뭐 해? &#x0A;제련도 안 하고 무기를 사용하면 절대 안 된다는 걸 명심하라고!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;$pp2:로,으로$ 가! 어서! ' />
+	<key id="1126164905001275" npc="오데사" name="반갑네, $MyPCName$! 그동안 잘 지냈나? " />
+	<key id="1126164905001276" npc="오데사" name="$item:15300136$$pp:를,을$ 보여주며 제련을 부탁한다." />
+	<key id="1126164905001277" npc="오데사" name='아니, 이것은…! 설마 자네, 봉인을 풀었나? &#x0A;그보다도, 잠깐… 자네, &lt;font color=&quot;#ffd200&quot;&gt;몸은 괜찮은가&lt;/font&gt;? 여기까지 오는 동안 별일 없었고?' />
+	<key id="1126164905001278" npc="오데사" name="무기를 휘둘러 보았다가 큰일날 뻔했으니 어서 제련해 달라고 한다." />
+	<key id="1126164905001279" npc="오데사" name="별 일 없었지만, 무기 사용 전 제련은 필수라던 $npcName:11001242$의 말을 전한다." />
+	<key id="1126164905001280" npc="오데사" name='이건 &lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;해서 해결될 일이 아닐세. &#x0A;자네가 가져온 이 무기에 깃든 기운은 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:가,이$ 가진 무한한 생명력의 본질, &#x0A;다른 살아있는 존재들의 피를 흡수해 자신의 것으로 삼는 그것과 같다네. &#x0A;이 무기는 &lt;font color=&quot;#ffd200&quot;&gt;장비한 자의 기운을 흡수&lt;/font&gt;하려는 성질을 가지고 있어. ' />
+	<key id="1126164905001281" npc="오데사" name='설마 이게, 그때 내가 힘을 주입했다가 &lt;font color=&quot;#ffd200&quot;&gt;폭주&lt;/font&gt;해 버린 그 무기가 맞나? &#x0A;대체 무슨 일이 있었던 건지 자세히 설명해 주게.' />
+	<key id="1126164905001282" npc="오데사" name="자초지종을 자세히 설명한다." />
+	<key id="1126164905001283" npc="오데사" name='쉐도우 월드의 강력한 &lt;font color=&quot;#ffd200&quot;&gt;어둠의 기운&lt;/font&gt;으로 &lt;font color=&quot;#ffd200&quot;&gt;불길한 마력의 봉인에 균열&lt;/font&gt;을…?&#x0A;흥미로운 접근이군. 결국 장비할 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;무기&lt;/font&gt;의 형태가 되기도 하였고…!&#x0A;하지만, 봉인을 깨는 것만으로는 &lt;font color=&quot;#ffd200&quot;&gt;진정한 힘을 얻을 수는 없었던 것&lt;/font&gt; 같네. ' />
+	<key id="1126164905001284" npc="오데사" name="그렇다면 어떻게 해야 하는지 묻는다." />
+	<key id="1126164905001285" npc="오데사" name='선조들께서 남긴 기록에 따르면 &lt;font color=&quot;#ffd200&quot;&gt;마력을 불어넣은 무기&lt;/font&gt;는 &#x0A;힘의 원천이 되는 존재와 닮아, 그 영향을 강하게 받는다 하였다네. &#x0A;이 무기에 불어넣은 마력의 원천이 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;에게서 비롯된 것이니만큼&#x0A;역시…. 뭔가 &lt;font color=&quot;#ffd200&quot;&gt;다른 방법&lt;/font&gt;이 필요할 것 같은데.' />
+	<key id="1126164905001286" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:는,은$ 일반적인 생명의 순환과는 다른 영역에 있는 불멸의 존재이니,&#x0A;그 마력을 이용한 힘을 &lt;font color=&quot;#ffd200&quot;&gt;온전히 활용&lt;/font&gt;할 수 있는 방법은 &#x0A;그 존재의 비밀과 닿아 있지 않을까…?&#x0A;하지만 이 역시 &lt;font color=&quot;#ffd200&quot;&gt;추측&lt;/font&gt;일 뿐, 정확한 것은 없고 단서는 희미하지.' />
+	<key id="1126164905001287" npc="오데사" name='사실 무기에 힘을 불어넣는 데 실패한 그날부터, 나는 &lt;font color=&quot;#ffd200&quot;&gt;선조들의 기록&lt;/font&gt;은 물론&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;다른 대륙에서 온 자료&lt;/font&gt;까지도 꾸준히 탐독하고 있었다네.&#x0A;답답하겠지만 조금만 더 참아 주게나. 내 반드시 &lt;font color=&quot;#ffd200&quot;&gt;해결책&lt;/font&gt;을 찾아낼 테니!' />
+	<key id="1126164905001288" npc="오데사" name='어, 이 힘은…? 이봐, 이 물건 어디서 구했지? &#x0A;자네도 엄청나게 궁금하니까 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001212$&lt;/font&gt;같은 수상한 녀석의 말까지 &#x0A;주의 깊게 듣고 여기까지 왔을 거 아니야. 냉큼 말해 봐. ' />
+	<key id="1126164905001289" npc="오데사" name="$npcName:23090005$$pp:를,을$ 쓰러트린 이후의 자초지종을 설명한다." />
+	<key id="1126164905001290" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:를,을$ 쓰러트리고 얻은 물질을 정화하고,&#x0A;거기 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000421$&lt;/font&gt;까지 이용해 만든 무기에 힘을 주입했는데 &#x0A;결과는 무기로 쓸 수 없는 잡동사니가 튀어나왔다 이거지? ' />
+	<key id="1126164905001291" npc="오데사" name="그렇다고 말한다. " />
+	<key id="1126164905001292" npc="오데사" name='크하하핫! 자네, 날 만난 걸 행운으로 생각해.&#x0A;마침 내가 연구하고 있던 이 &lt;font color=&quot;#ffd200&quot;&gt;쉐도우 월드의 어둠의 힘이 가진 파장&lt;/font&gt;과&#x0A;이 물건을 둘러싼 &lt;font color=&quot;#ffd200&quot;&gt;기묘하고 불길한 마력의 파장&lt;/font&gt;이 꽤 비슷한 형태군. &#x0A;좋아, 이거라면 되겠어. &lt;font color=&quot;#ffd200&quot;&gt;방법&lt;/font&gt;이 있겠다고.' />
+	<key id="1126164905001293" npc="오데사" name='뭐, 알아들을 수 있을지 모르겠지만 간단히 설명하자면 이런 원리야.&#x0A;힘은 &lt;font color=&quot;#ffd200&quot;&gt;같은 파장의 힘&lt;/font&gt;을 만나면 순간 큰 힘을 내며 밀어내지.&#x0A;두 개의 자석을 같은 극끼리 마주치게 하면 서로 밀어내는 것처럼 말이야.' />
+	<key id="1126164905001294" npc="오데사" name='최근 쉐도우 월드에 흐르고 있는 강한 어둠의 에너지를 잔뜩 모아 &#x0A;자네가 가져온 이 물건과 충돌시키면? &lt;font color=&quot;#ffd200&quot;&gt;서로 밀어내는 큰 힘&lt;/font&gt;이 일어날 거야.&#x0A;그러면 이 물건을 감싼 불길한 마력의 &lt;font color=&quot;#ffd200&quot;&gt;봉인을 깰&lt;/font&gt; 수도 있겠지.' />
+	<key id="1126164905001295" npc="오데사" name="그럼 어서 해 보라고 말한다." />
+	<key id="1126164905001296" npc="오데사" name='이봐. 깨져라, 짠! 하면 순식간에 뿅! 하고 되는 게 아니라고. &#x0A;어둠의 에너지를 &lt;font color=&quot;#ffd200&quot;&gt;잔뜩 모아서 충돌&lt;/font&gt;시켜야 한다니까? &#x0A;강한 어둠의 에너지가 아주 많이 필요하다고! &lt;font color=&quot;#ffd200&quot;&gt;그걸 모아오는 게 먼저&lt;/font&gt;란 말이야.' />
+	<key id="1126164905001297" npc="오데사" name="그런 건 어디서 얻어야 하는지 묻는다." />
+	<key id="1126164905001298" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;$pp:라,이라$고 들어봤나? 어둠의 씨앗에서 퍼져 나온 그림자 줄기.&#x0A;한때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000023$&lt;/font&gt; 인근까지 깊숙하게 파고들었지만,&#x0A;$npc:11000031$$pp:와,과$ 요정들의 힘으로 간신히 막아냈다고 해. &#x0A;그때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;에 들어갔다가 &lt;font color=&quot;#ffd200&quot;&gt;하비독에 중독된 요정들&lt;/font&gt;이 있지. ' />
+	<key id="1126164905001299" npc="오데사" name='그 요정들의 몸에서는 매일 하나씩 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:가,이$ 자라나는데, &#x0A;그걸 열면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;$pp:라,이라$는 걸 얻을 수 있다고 하더군.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;강력한 어둠의 에너지가 응축된 결정체&lt;/font&gt;이니, 그걸 많이 모아와. &#x0A;그 정도는 되어야 자네의 그 물건을 둘러싼 봉인에 힘을 쓸 수 있을 거야.' />
+	<key id="1126164905001300" npc="오데사" name='최근 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;에서 $map:02000350$$pp2:로,으로$ 통하는 입구가 발견됐다고 하더군.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보는 게 좋을 거야. ' />
+	<key id="1126164905001301" npc="오데사" name='$map:02000350$$pp2:로,으로$ 통하는 입구는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;이야.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보고, 충분하게 모아와. &#x0A;서둘러, 내 맘이 변하기 전에 움직이라고!' />
+	<key id="1126164905001302" npc="오데사" name='어디 보자… 오, 됐군. 이 정도면 충분하겠어! &#x0A;어서 이리 줘, &lt;font color=&quot;#ffd200&quot;&gt;작업&lt;/font&gt;을 시작할 테니.' />
+	<key id="1126164905001303" npc="오데사" name="$npcName:11001242$의 작업이 끝나길 기다린다." />
+	<key id="1126164905001304" npc="오데사" name="이거…. 그렇지. &#x0A;그러니까…. 여기서." />
+	<key id="1126164905001305" npc="오데사" name="좀 더 기다린다." />
+	<key id="1126164905001306" npc="오데사" name="그래… 분명, 이렇게. 그리고 여기서 그렇게." />
+	<key id="1126164905001307" npc="오데사" name="$npcName:11001242$의 표정이 뭔가 수상한 것 같다." />
+	<key id="1126164905001308" npc="오데사" name="다 됐다. 여기, 받아." />
+	<key id="1126164905001309" npc="오데사" name='잠깐. 거기 서서 내 말을 들어 봐.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;무기를 사용하기 전&lt;/font&gt;에 반드시 해야 할 것이 있지.&#x0A;봉인은 풀렸지만, 그걸 하기 전엔 아직 완전한 무기라고 할 수 없을 테니 말이야.' />
+	<key id="1126164905001310" npc="오데사" name="무엇을 해야 하느냐고 묻는다." />
+	<key id="1126164905001311" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;이지. 특히 강한 무기일수록 더욱 해야 하는 법이야.&#x0A;자네, 꼭 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;에 찾아가 무기를 제련하도록 해.&#x0A;그 전에 함부로 무기를 휘둘렀다가 벌어지는 일은 &lt;font color=&quot;#ffd200&quot;&gt;모두 자네 책임&lt;/font&gt;이야.' />
+	<key id="1126164905001312" npc="오데사" name='안 가고 뭐 해? &#x0A;제련도 안 하고 무기를 사용하면 절대 안 된다는 걸 명심하라고!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;$pp2:로,으로$ 가! 어서! ' />
+	<key id="1126164905001313" npc="오데사" name="반갑네, $MyPCName$! 그동안 잘 지냈나? " />
+	<key id="1126164905001314" npc="오데사" name="$item:13100028$$pp:를,을$ 보여주며 제련을 부탁한다." />
+	<key id="1126164905001315" npc="오데사" name='아니, 이것은…! 설마 자네, 봉인을 풀었나? &#x0A;그보다도, 잠깐… 자네, &lt;font color=&quot;#ffd200&quot;&gt;몸은 괜찮은가&lt;/font&gt;? 여기까지 오는 동안 별일 없었고?' />
+	<key id="1126164905001316" npc="오데사" name="무기를 휘둘러 보았다가 큰일날 뻔했으니 어서 제련해 달라고 한다." />
+	<key id="1126164905001317" npc="오데사" name="별 일 없었지만, 무기 사용 전 제련은 필수라던 $npcName:11001242$의 말을 전한다." />
+	<key id="1126164905001318" npc="오데사" name='이건 &lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;해서 해결될 일이 아닐세. &#x0A;자네가 가져온 이 무기에 깃든 기운은 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:가,이$ 가진 무한한 생명력의 본질, &#x0A;다른 살아있는 존재들의 피를 흡수해 자신의 것으로 삼는 그것과 같다네. &#x0A;이 무기는 &lt;font color=&quot;#ffd200&quot;&gt;장비한 자의 기운을 흡수&lt;/font&gt;하려는 성질을 가지고 있어. ' />
+	<key id="1126164905001319" npc="오데사" name='설마 이게, 그때 내가 힘을 주입했다가 &lt;font color=&quot;#ffd200&quot;&gt;폭주&lt;/font&gt;해 버린 그 무기가 맞나? &#x0A;대체 무슨 일이 있었던 건지 자세히 설명해 주게.' />
+	<key id="1126164905001320" npc="오데사" name="자초지종을 자세히 설명한다." />
+	<key id="1126164905001321" npc="오데사" name='쉐도우 월드의 강력한 &lt;font color=&quot;#ffd200&quot;&gt;어둠의 기운&lt;/font&gt;으로 &lt;font color=&quot;#ffd200&quot;&gt;불길한 마력의 봉인에 균열&lt;/font&gt;을…?&#x0A;흥미로운 접근이군. 결국 장비할 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;무기&lt;/font&gt;의 형태가 되기도 하였고…!&#x0A;하지만, 봉인을 깨는 것만으로는 &lt;font color=&quot;#ffd200&quot;&gt;진정한 힘을 얻을 수는 없었던 것&lt;/font&gt; 같네. ' />
+	<key id="1126164905001322" npc="오데사" name="그렇다면 어떻게 해야 하는지 묻는다." />
+	<key id="1126164905001323" npc="오데사" name='선조들께서 남긴 기록에 따르면 &lt;font color=&quot;#ffd200&quot;&gt;마력을 불어넣은 무기&lt;/font&gt;는 &#x0A;힘의 원천이 되는 존재와 닮아, 그 영향을 강하게 받는다 하였다네. &#x0A;이 무기에 불어넣은 마력의 원천이 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;에게서 비롯된 것이니만큼&#x0A;역시…. 뭔가 &lt;font color=&quot;#ffd200&quot;&gt;다른 방법&lt;/font&gt;이 필요할 것 같은데.' />
+	<key id="1126164905001324" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:는,은$ 일반적인 생명의 순환과는 다른 영역에 있는 불멸의 존재이니,&#x0A;그 마력을 이용한 힘을 &lt;font color=&quot;#ffd200&quot;&gt;온전히 활용&lt;/font&gt;할 수 있는 방법은 &#x0A;그 존재의 비밀과 닿아 있지 않을까…?&#x0A;하지만 이 역시 &lt;font color=&quot;#ffd200&quot;&gt;추측&lt;/font&gt;일 뿐, 정확한 것은 없고 단서는 희미하지.' />
+	<key id="1126164905001325" npc="오데사" name='사실 무기에 힘을 불어넣는 데 실패한 그날부터, 나는 &lt;font color=&quot;#ffd200&quot;&gt;선조들의 기록&lt;/font&gt;은 물론&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;다른 대륙에서 온 자료&lt;/font&gt;까지도 꾸준히 탐독하고 있었다네.&#x0A;답답하겠지만 조금만 더 참아 주게나. 내 반드시 &lt;font color=&quot;#ffd200&quot;&gt;해결책&lt;/font&gt;을 찾아낼 테니!' />
+	<key id="1126164905001326" npc="오데사" name='어, 이 힘은…? 이봐, 이 물건 어디서 구했지? &#x0A;자네도 엄청나게 궁금하니까 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001212$&lt;/font&gt;같은 수상한 녀석의 말까지 &#x0A;주의 깊게 듣고 여기까지 왔을 거 아니야. 냉큼 말해 봐. ' />
+	<key id="1126164905001327" npc="오데사" name="$npcName:23090005$$pp:를,을$ 쓰러트린 이후의 자초지종을 설명한다." />
+	<key id="1126164905001328" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:를,을$ 쓰러트리고 얻은 물질을 정화하고,&#x0A;거기 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000421$&lt;/font&gt;까지 이용해 만든 무기에 힘을 주입했는데 &#x0A;결과는 무기로 쓸 수 없는 잡동사니가 튀어나왔다 이거지? ' />
+	<key id="1126164905001329" npc="오데사" name="그렇다고 말한다. " />
+	<key id="1126164905001330" npc="오데사" name='크하하핫! 자네, 날 만난 걸 행운으로 생각해.&#x0A;마침 내가 연구하고 있던 이 &lt;font color=&quot;#ffd200&quot;&gt;쉐도우 월드의 어둠의 힘이 가진 파장&lt;/font&gt;과&#x0A;이 물건을 둘러싼 &lt;font color=&quot;#ffd200&quot;&gt;기묘하고 불길한 마력의 파장&lt;/font&gt;이 꽤 비슷한 형태군. &#x0A;좋아, 이거라면 되겠어. &lt;font color=&quot;#ffd200&quot;&gt;방법&lt;/font&gt;이 있겠다고.' />
+	<key id="1126164905001331" npc="오데사" name='뭐, 알아들을 수 있을지 모르겠지만 간단히 설명하자면 이런 원리야.&#x0A;힘은 &lt;font color=&quot;#ffd200&quot;&gt;같은 파장의 힘&lt;/font&gt;을 만나면 순간 큰 힘을 내며 밀어내지.&#x0A;두 개의 자석을 같은 극끼리 마주치게 하면 서로 밀어내는 것처럼 말이야.' />
+	<key id="1126164905001332" npc="오데사" name='최근 쉐도우 월드에 흐르고 있는 강한 어둠의 에너지를 잔뜩 모아 &#x0A;자네가 가져온 이 물건과 충돌시키면? &lt;font color=&quot;#ffd200&quot;&gt;서로 밀어내는 큰 힘&lt;/font&gt;이 일어날 거야.&#x0A;그러면 이 물건을 감싼 불길한 마력의 &lt;font color=&quot;#ffd200&quot;&gt;봉인을 깰&lt;/font&gt; 수도 있겠지.' />
+	<key id="1126164905001333" npc="오데사" name="그럼 어서 해 보라고 말한다." />
+	<key id="1126164905001334" npc="오데사" name='이봐. 깨져라, 짠! 하면 순식간에 뿅! 하고 되는 게 아니라고. &#x0A;어둠의 에너지를 &lt;font color=&quot;#ffd200&quot;&gt;잔뜩 모아서 충돌&lt;/font&gt;시켜야 한다니까? &#x0A;강한 어둠의 에너지가 아주 많이 필요하다고! &lt;font color=&quot;#ffd200&quot;&gt;그걸 모아오는 게 먼저&lt;/font&gt;란 말이야.' />
+	<key id="1126164905001335" npc="오데사" name="그런 건 어디서 얻어야 하는지 묻는다." />
+	<key id="1126164905001336" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;$pp:라,이라$고 들어봤나? 어둠의 씨앗에서 퍼져 나온 그림자 줄기.&#x0A;한때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000023$&lt;/font&gt; 인근까지 깊숙하게 파고들었지만,&#x0A;$npc:11000031$$pp:와,과$ 요정들의 힘으로 간신히 막아냈다고 해. &#x0A;그때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;에 들어갔다가 &lt;font color=&quot;#ffd200&quot;&gt;하비독에 중독된 요정들&lt;/font&gt;이 있지. ' />
+	<key id="1126164905001337" npc="오데사" name='그 요정들의 몸에서는 매일 하나씩 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:가,이$ 자라나는데, &#x0A;그걸 열면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;$pp:라,이라$는 걸 얻을 수 있다고 하더군.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;강력한 어둠의 에너지가 응축된 결정체&lt;/font&gt;이니, 그걸 많이 모아와. &#x0A;그 정도는 되어야 자네의 그 물건을 둘러싼 봉인에 힘을 쓸 수 있을 거야.' />
+	<key id="1126164905001338" npc="오데사" name='최근 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;에서 $map:02000350$$pp2:로,으로$ 통하는 입구가 발견됐다고 하더군.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보는 게 좋을 거야. ' />
+	<key id="1126164905001339" npc="오데사" name='$map:02000350$$pp2:로,으로$ 통하는 입구는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;이야.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보고, 충분하게 모아와. &#x0A;서둘러, 내 맘이 변하기 전에 움직이라고!' />
+	<key id="1126164905001340" npc="오데사" name='어디 보자… 오, 됐군. 이 정도면 충분하겠어! &#x0A;어서 이리 줘, &lt;font color=&quot;#ffd200&quot;&gt;작업&lt;/font&gt;을 시작할 테니.' />
+	<key id="1126164905001341" npc="오데사" name="$npcName:11001242$의 작업이 끝나길 기다린다." />
+	<key id="1126164905001342" npc="오데사" name="이거…. 그렇지. &#x0A;그러니까…. 여기서." />
+	<key id="1126164905001343" npc="오데사" name="좀 더 기다린다." />
+	<key id="1126164905001344" npc="오데사" name="그래… 분명, 이렇게. 그리고 여기서 그렇게." />
+	<key id="1126164905001345" npc="오데사" name="$npcName:11001242$의 표정이 뭔가 수상한 것 같다." />
+	<key id="1126164905001346" npc="오데사" name="다 됐다. 여기, 받아." />
+	<key id="1126164905001347" npc="오데사" name='잠깐. 거기 서서 내 말을 들어 봐.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;무기를 사용하기 전&lt;/font&gt;에 반드시 해야 할 것이 있지.&#x0A;봉인은 풀렸지만, 그걸 하기 전엔 아직 완전한 무기라고 할 수 없을 테니 말이야.' />
+	<key id="1126164905001348" npc="오데사" name="무엇을 해야 하느냐고 묻는다." />
+	<key id="1126164905001349" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;이지. 특히 강한 무기일수록 더욱 해야 하는 법이야.&#x0A;자네, 꼭 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;에 찾아가 무기를 제련하도록 해.&#x0A;그 전에 함부로 무기를 휘둘렀다가 벌어지는 일은 &lt;font color=&quot;#ffd200&quot;&gt;모두 자네 책임&lt;/font&gt;이야.' />
+	<key id="1126164905001350" npc="오데사" name='안 가고 뭐 해? &#x0A;제련도 안 하고 무기를 사용하면 절대 안 된다는 걸 명심하라고!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;$pp2:로,으로$ 가! 어서! ' />
+	<key id="1126164905001351" npc="오데사" name="반갑네, $MyPCName$! 그동안 잘 지냈나? " />
+	<key id="1126164905001352" npc="오데사" name="$item:13400136$$pp:를,을$ 보여주며 제련을 부탁한다." />
+	<key id="1126164905001353" npc="오데사" name='아니, 이것은…! 설마 자네, 봉인을 풀었나? &#x0A;그보다도, 잠깐… 자네, &lt;font color=&quot;#ffd200&quot;&gt;몸은 괜찮은가&lt;/font&gt;? 여기까지 오는 동안 별일 없었고?' />
+	<key id="1126164905001354" npc="오데사" name="무기를 휘둘러 보았다가 큰일날 뻔했으니 어서 제련해 달라고 한다." />
+	<key id="1126164905001355" npc="오데사" name="별 일 없었지만, 무기 사용 전 제련은 필수라던 $npcName:11001242$의 말을 전한다." />
+	<key id="1126164905001356" npc="오데사" name='이건 &lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;해서 해결될 일이 아닐세. &#x0A;자네가 가져온 이 무기에 깃든 기운은 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:가,이$ 가진 무한한 생명력의 본질, &#x0A;다른 살아있는 존재들의 피를 흡수해 자신의 것으로 삼는 그것과 같다네. &#x0A;이 무기는 &lt;font color=&quot;#ffd200&quot;&gt;장비한 자의 기운을 흡수&lt;/font&gt;하려는 성질을 가지고 있어. ' />
+	<key id="1126164905001357" npc="오데사" name='설마 이게, 그때 내가 힘을 주입했다가 &lt;font color=&quot;#ffd200&quot;&gt;폭주&lt;/font&gt;해 버린 그 무기가 맞나? &#x0A;대체 무슨 일이 있었던 건지 자세히 설명해 주게.' />
+	<key id="1126164905001358" npc="오데사" name="자초지종을 자세히 설명한다." />
+	<key id="1126164905001359" npc="오데사" name='쉐도우 월드의 강력한 &lt;font color=&quot;#ffd200&quot;&gt;어둠의 기운&lt;/font&gt;으로 &lt;font color=&quot;#ffd200&quot;&gt;불길한 마력의 봉인에 균열&lt;/font&gt;을…?&#x0A;흥미로운 접근이군. 결국 장비할 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;무기&lt;/font&gt;의 형태가 되기도 하였고…!&#x0A;하지만, 봉인을 깨는 것만으로는 &lt;font color=&quot;#ffd200&quot;&gt;진정한 힘을 얻을 수는 없었던 것&lt;/font&gt; 같네. ' />
+	<key id="1126164905001360" npc="오데사" name="그렇다면 어떻게 해야 하는지 묻는다." />
+	<key id="1126164905001361" npc="오데사" name='선조들께서 남긴 기록에 따르면 &lt;font color=&quot;#ffd200&quot;&gt;마력을 불어넣은 무기&lt;/font&gt;는 &#x0A;힘의 원천이 되는 존재와 닮아, 그 영향을 강하게 받는다 하였다네. &#x0A;이 무기에 불어넣은 마력의 원천이 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;에게서 비롯된 것이니만큼&#x0A;역시…. 뭔가 &lt;font color=&quot;#ffd200&quot;&gt;다른 방법&lt;/font&gt;이 필요할 것 같은데.' />
+	<key id="1126164905001362" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:는,은$ 일반적인 생명의 순환과는 다른 영역에 있는 불멸의 존재이니,&#x0A;그 마력을 이용한 힘을 &lt;font color=&quot;#ffd200&quot;&gt;온전히 활용&lt;/font&gt;할 수 있는 방법은 &#x0A;그 존재의 비밀과 닿아 있지 않을까…?&#x0A;하지만 이 역시 &lt;font color=&quot;#ffd200&quot;&gt;추측&lt;/font&gt;일 뿐, 정확한 것은 없고 단서는 희미하지.' />
+	<key id="1126164905001363" npc="오데사" name='사실 무기에 힘을 불어넣는 데 실패한 그날부터, 나는 &lt;font color=&quot;#ffd200&quot;&gt;선조들의 기록&lt;/font&gt;은 물론&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;다른 대륙에서 온 자료&lt;/font&gt;까지도 꾸준히 탐독하고 있었다네.&#x0A;답답하겠지만 조금만 더 참아 주게나. 내 반드시 &lt;font color=&quot;#ffd200&quot;&gt;해결책&lt;/font&gt;을 찾아낼 테니!' />
+	<key id="1209200205001364" npc="오데사" name='어, 이 힘은…? 이봐, 이 물건 어디서 구했지? &#x0A;자네도 엄청나게 궁금하니까 &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001212$&lt;/font&gt;같은 수상한 녀석의 말까지 &#x0A;주의 깊게 듣고 여기까지 왔을 거 아니야. 냉큼 말해 봐. ' />
+	<key id="1209200205001365" npc="오데사" name="$npcName:23090005$$pp:를,을$ 쓰러트린 이후의 자초지종을 설명한다." />
+	<key id="1209200205001366" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:를,을$ 쓰러트리고 얻은 물질을 정화하고,&#x0A;거기 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000421$&lt;/font&gt;까지 이용해 만든 무기에 힘을 주입했는데 &#x0A;결과는 무기로 쓸 수 없는 잡동사니가 튀어나왔다 이거지? ' />
+	<key id="1209200205001367" npc="오데사" name="그렇다고 말한다. " />
+	<key id="1209200205001368" npc="오데사" name='크하하핫! 자네, 날 만난 걸 행운으로 생각해.&#x0A;마침 내가 연구하고 있던 이 &lt;font color=&quot;#ffd200&quot;&gt;쉐도우 월드의 어둠의 힘이 가진 파장&lt;/font&gt;과&#x0A;이 물건을 둘러싼 &lt;font color=&quot;#ffd200&quot;&gt;기묘하고 불길한 마력의 파장&lt;/font&gt;이 꽤 비슷한 형태군. &#x0A;좋아, 이거라면 되겠어. &lt;font color=&quot;#ffd200&quot;&gt;방법&lt;/font&gt;이 있겠다고.' />
+	<key id="1209200205001369" npc="오데사" name='뭐, 알아들을 수 있을지 모르겠지만 간단히 설명하자면 이런 원리야.&#x0A;힘은 &lt;font color=&quot;#ffd200&quot;&gt;같은 파장의 힘&lt;/font&gt;을 만나면 순간 큰 힘을 내며 밀어내지.&#x0A;두 개의 자석을 같은 극끼리 마주치게 하면 서로 밀어내는 것처럼 말이야.' />
+	<key id="1209200205001370" npc="오데사" name='최근 쉐도우 월드에 흐르고 있는 강한 어둠의 에너지를 잔뜩 모아 &#x0A;자네가 가져온 이 물건과 충돌시키면? &lt;font color=&quot;#ffd200&quot;&gt;서로 밀어내는 큰 힘&lt;/font&gt;이 일어날 거야.&#x0A;그러면 이 물건을 감싼 불길한 마력의 &lt;font color=&quot;#ffd200&quot;&gt;봉인을 깰&lt;/font&gt; 수도 있겠지.' />
+	<key id="1209200205001371" npc="오데사" name="그럼 어서 해 보라고 말한다." />
+	<key id="1209200205001372" npc="오데사" name='이봐. 깨져라, 짠! 하면 순식간에 뿅! 하고 되는 게 아니라고. &#x0A;어둠의 에너지를 &lt;font color=&quot;#ffd200&quot;&gt;잔뜩 모아서 충돌&lt;/font&gt;시켜야 한다니까? &#x0A;강한 어둠의 에너지가 아주 많이 필요하다고! &lt;font color=&quot;#ffd200&quot;&gt;그걸 모아오는 게 먼저&lt;/font&gt;란 말이야.' />
+	<key id="1209200205001373" npc="오데사" name="그런 건 어디서 얻어야 하는지 묻는다." />
+	<key id="1209200205001374" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;$pp:라,이라$고 들어봤나? 어둠의 씨앗에서 퍼져 나온 그림자 줄기.&#x0A;한때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000023$&lt;/font&gt; 인근까지 깊숙하게 파고들었지만,&#x0A;$npc:11000031$$pp:와,과$ 요정들의 힘으로 간신히 막아냈다고 해. &#x0A;그때 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000350$&lt;/font&gt;에 들어갔다가 &lt;font color=&quot;#ffd200&quot;&gt;하비독에 중독된 요정들&lt;/font&gt;이 있지. ' />
+	<key id="1209200205001375" npc="오데사" name='그 요정들의 몸에서는 매일 하나씩 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:가,이$ 자라나는데, &#x0A;그걸 열면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;$pp:라,이라$는 걸 얻을 수 있다고 하더군.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;강력한 어둠의 에너지가 응축된 결정체&lt;/font&gt;이니, 그걸 많이 모아와. &#x0A;그 정도는 되어야 자네의 그 물건을 둘러싼 봉인에 힘을 쓸 수 있을 거야.' />
+	<key id="1209200205001376" npc="오데사" name='최근 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;에서 $map:02000350$$pp2:로,으로$ 통하는 입구가 발견됐다고 하더군.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:59200180$&lt;/font&gt;$pp:와,과$ &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보는 게 좋을 거야. ' />
+	<key id="1209200205001377" npc="오데사" name='$map:02000350$$pp2:로,으로$ 통하는 입구는 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000048$&lt;/font&gt;이야.&#x0A;그곳에서 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000437$&lt;/font&gt;에 대해 알아보고, 충분하게 모아와. &#x0A;서둘러, 내 맘이 변하기 전에 움직이라고!' />
+	<key id="1209200205001378" npc="오데사" name='어디 보자… 오, 됐군. 이 정도면 충분하겠어! &#x0A;어서 이리 줘, &lt;font color=&quot;#ffd200&quot;&gt;작업&lt;/font&gt;을 시작할 테니.' />
+	<key id="1209200205001379" npc="오데사" name="$npcName:11001242$의 작업이 끝나길 기다린다." />
+	<key id="1209200205001380" npc="오데사" name="이거…. 그렇지. &#x0A;그러니까…. 여기서." />
+	<key id="1209200205001381" npc="오데사" name="좀 더 기다린다." />
+	<key id="1209200205001382" npc="오데사" name="그래… 분명, 이렇게. 그리고 여기서 그렇게." />
+	<key id="1209200205001383" npc="오데사" name="$npcName:11001242$의 표정이 뭔가 수상한 것 같다." />
+	<key id="1209200205001384" npc="오데사" name="다 됐다. 여기, 받아." />
+	<key id="1209200205001385" npc="오데사" name='잠깐. 거기 서서 내 말을 들어 봐.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;무기를 사용하기 전&lt;/font&gt;에 반드시 해야 할 것이 있지.&#x0A;봉인은 풀렸지만, 그걸 하기 전엔 아직 완전한 무기라고 할 수 없을 테니 말이야.' />
+	<key id="1209200205001386" npc="오데사" name="무엇을 해야 하느냐고 묻는다." />
+	<key id="1209200205001387" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;이지. 특히 강한 무기일수록 더욱 해야 하는 법이야.&#x0A;자네, 꼭 &lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;에 찾아가 무기를 제련하도록 해.&#x0A;그 전에 함부로 무기를 휘둘렀다가 벌어지는 일은 &lt;font color=&quot;#ffd200&quot;&gt;모두 자네 책임&lt;/font&gt;이야.' />
+	<key id="1209200205001388" npc="오데사" name='안 가고 뭐 해? &#x0A;제련도 안 하고 무기를 사용하면 절대 안 된다는 걸 명심하라고!&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000203$&lt;/font&gt;$pp2:로,으로$ 가! 어서! ' />
+	<key id="1209200205001389" npc="오데사" name="반갑네, $MyPCName$! 그동안 잘 지냈나? " />
+	<key id="1209200205001390" npc="오데사" name="$item:15400064$$pp:를,을$ 보여주며 제련을 부탁한다." />
+	<key id="1209200205001391" npc="오데사" name='아니, 이것은…! 설마 자네, 봉인을 풀었나? &#x0A;그보다도, 잠깐… 자네, &lt;font color=&quot;#ffd200&quot;&gt;몸은 괜찮은가&lt;/font&gt;? 여기까지 오는 동안 별일 없었고?' />
+	<key id="1209200205001392" npc="오데사" name="무기를 휘둘러 보았다가 큰일날 뻔했으니 어서 제련해 달라고 한다." />
+	<key id="1209200205001393" npc="오데사" name="별 일 없었지만, 무기 사용 전 제련은 필수라던 $npcName:11001242$의 말을 전한다." />
+	<key id="1209200205001394" npc="오데사" name='이건 &lt;font color=&quot;#ffd200&quot;&gt;제련&lt;/font&gt;해서 해결될 일이 아닐세. &#x0A;자네가 가져온 이 무기에 깃든 기운은 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:가,이$ 가진 무한한 생명력의 본질, &#x0A;다른 살아있는 존재들의 피를 흡수해 자신의 것으로 삼는 그것과 같다네. &#x0A;이 무기는 &lt;font color=&quot;#ffd200&quot;&gt;장비한 자의 기운을 흡수&lt;/font&gt;하려는 성질을 가지고 있어. ' />
+	<key id="1209200205001395" npc="오데사" name='설마 이게, 그때 내가 힘을 주입했다가 &lt;font color=&quot;#ffd200&quot;&gt;폭주&lt;/font&gt;해 버린 그 무기가 맞나? &#x0A;대체 무슨 일이 있었던 건지 자세히 설명해 주게.' />
+	<key id="1209200205001396" npc="오데사" name="자초지종을 자세히 설명한다." />
+	<key id="1209200205001397" npc="오데사" name='쉐도우 월드의 강력한 &lt;font color=&quot;#ffd200&quot;&gt;어둠의 기운&lt;/font&gt;으로 &lt;font color=&quot;#ffd200&quot;&gt;불길한 마력의 봉인에 균열&lt;/font&gt;을…?&#x0A;흥미로운 접근이군. 결국 장비할 수 있는 &lt;font color=&quot;#ffd200&quot;&gt;무기&lt;/font&gt;의 형태가 되기도 하였고…!&#x0A;하지만, 봉인을 깨는 것만으로는 &lt;font color=&quot;#ffd200&quot;&gt;진정한 힘을 얻을 수는 없었던 것&lt;/font&gt; 같네. ' />
+	<key id="1209200205001398" npc="오데사" name="그렇다면 어떻게 해야 하는지 묻는다." />
+	<key id="1209200205001399" npc="오데사" name='선조들께서 남긴 기록에 따르면 &lt;font color=&quot;#ffd200&quot;&gt;마력을 불어넣은 무기&lt;/font&gt;는 &#x0A;힘의 원천이 되는 존재와 닮아, 그 영향을 강하게 받는다 하였다네. &#x0A;이 무기에 불어넣은 마력의 원천이 &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;에게서 비롯된 것이니만큼&#x0A;역시…. 뭔가 &lt;font color=&quot;#ffd200&quot;&gt;다른 방법&lt;/font&gt;이 필요할 것 같은데.' />
+	<key id="1209200205001400" npc="오데사" name='&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090005$&lt;/font&gt;$pp:는,은$ 일반적인 생명의 순환과는 다른 영역에 있는 불멸의 존재이니,&#x0A;그 마력을 이용한 힘을 &lt;font color=&quot;#ffd200&quot;&gt;온전히 활용&lt;/font&gt;할 수 있는 방법은 &#x0A;그 존재의 비밀과 닿아 있지 않을까…?&#x0A;하지만 이 역시 &lt;font color=&quot;#ffd200&quot;&gt;추측&lt;/font&gt;일 뿐, 정확한 것은 없고 단서는 희미하지.' />
+	<key id="1209200205001401" npc="오데사" name='사실 무기에 힘을 불어넣는 데 실패한 그날부터, 나는 &lt;font color=&quot;#ffd200&quot;&gt;선조들의 기록&lt;/font&gt;은 물론&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;다른 대륙에서 온 자료&lt;/font&gt;까지도 꾸준히 탐독하고 있었다네.&#x0A;답답하겠지만 조금만 더 참아 주게나. 내 반드시 &lt;font color=&quot;#ffd200&quot;&gt;해결책&lt;/font&gt;을 찾아낼 테니!' />
+</ms2>

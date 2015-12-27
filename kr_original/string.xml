@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <type id="1" name="itemName"/>  
+  <type id="2" name="npcName"/>
+  <type id="3" name="mapName"/>
+  <type id="4" name="skillName"/>
+  <type id="5" name="keyName"/>	
+  <type id="6" name="jobName"/>
+  <type id="7" name="popupMenu"/>
+  <type id="8" name="slotName"/>
+  <type id="9" name="tooltipName"/>
+  <type id="10" name="npcFunctionName"/>
+  <type id="11" name="stringInteractObjectAction"/>
+  <type id="12" name="stringLiftableTargetBox"/>
+  <type id="13" name="categoryName"/>
+  <type id="14" name="actionName"/>
+  <type id="15" name="mapNamePortalTooltip"/>
+  <type id="16" name="interactName"/>
+  <type id="17" name="raceName" parser="raceName"  />
+  <type id="18" name="regionName" />
+  <type id="19" name="npcTitle" />
+  <type id="20" name="stringFieldEnterance" />
+  <type id="21" name="stringFieldEnterance" parser="customValue" parserValue="uiDescription"/>
+  <type id="22" name="titleName"/>
+  <type id="23" name="channelGroupName"/>
+  <type id="24" name="achieveName"/>
+  <type id="25" name="continentName"/>
+  <type id="26" name="islandName"/>
+  <type id="27" name="attendGift"/>
+  <type id="28" name="stringCharacterCreateSelect"/>
+</ms2>

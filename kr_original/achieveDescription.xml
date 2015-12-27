@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<achieve id="21100001" desc="" complete="" manualDesc="나이트로 전직하기" manualComplete="나이트로 전직" />
+	<achieve id="21100002" desc="" complete="" manualDesc="버서커로 전직하기" manualComplete="버서커로 전직" />
+	<achieve id="21100003" desc="" complete="" manualDesc="위자드로 전직하기" manualComplete="위자드로 전직" />
+	<achieve id="21100004" desc="" complete="" manualDesc="프리스트로 전직하기" manualComplete="프리스트로 전직" />
+	<achieve id="21100005" desc="" complete="" manualDesc="레인저로 전직하기" manualComplete="레인저로 전직" />
+	<achieve id="21100006" desc="" complete="" manualDesc="헤비거너로 전직하기" manualComplete="헤비거너로 전직" />
+	<achieve id="21100007" desc="" complete="" manualDesc="시프로 전직하기" manualComplete="시프로 전직" />
+	<achieve id="21100009" desc="" complete="" manualDesc="어쌔신으로 전직하기" manualComplete="어쌔신으로 전직" />
+	<achieve id="21100010" desc="" complete="" manualDesc="나이트로 전직 후 50레벨까지 성장하기" manualComplete="나이트로 전직 후 50레벨까지 성장" />
+	<achieve id="21100011" desc="" complete="" manualDesc="버서커로 전직 후 50레벨까지 성장하기" manualComplete="버서커로 전직 후 50레벨까지 성장" />
+	<achieve id="21100012" desc="" complete="" manualDesc="위자드로 전직 후 50레벨까지 성장하기" manualComplete="위자드로 전직 후 50레벨까지 성장" />
+	<achieve id="21100013" desc="" complete="" manualDesc="프리스트로 전직 후 50레벨까지 성장하기" manualComplete="프리스트로 전직 후 50레벨까지 성장" />
+	<achieve id="21100014" desc="" complete="" manualDesc="레인저로 전직 후 50레벨까지 성장하기" manualComplete="레인저로 전직 후 50레벨까지 성장" />
+	<achieve id="21100015" desc="" complete="" manualDesc="헤비거너로 전직 후 50레벨까지 성장하기" manualComplete="헤비거너로 전직 후 50레벨까지 성장" />
+	<achieve id="21100016" desc="" complete="" manualDesc="시프로 전직 후 50레벨까지 성장하기" manualComplete="시프로 전직 후 50레벨까지 성장" />
+	<achieve id="21100017" desc="" complete="" manualDesc="어쌔신으로 전직 후 50레벨까지 성장하기" manualComplete="어쌔신으로 전직 후 50레벨까지 성장" />
+	<achieve id="21100018" desc="" complete="" manualDesc="전직없이 초보자로 50레벨까지 성장하기" manualComplete="전직없이 초보자로 50레벨까지 성장" />
+	<achieve id="21100019" desc="직업별 마스터 트로피 {0}개 획득하기" complete="지금까지 마스터 트로피 {0}개 획득" manualDesc="" manualComplete="">
+		<reward grade="5" uiDesc="$item:50600046$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600046$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21100020" desc="" complete="" manualDesc="나이트로 전직 후 30레벨까지 성장하기" manualComplete="나이트로 전직 후 30레벨까지 성장" />
+	<achieve id="21100021" desc="" complete="" manualDesc="버서커로 전직 후 30레벨까지 성장하기" manualComplete="버서커로 전직 후 30레벨까지 성장" />
+	<achieve id="21100022" desc="" complete="" manualDesc="위자드로 전직 후 30레벨까지 성장하기" manualComplete="위자드로 전직 후 30레벨까지 성장" />
+	<achieve id="21100023" desc="" complete="" manualDesc="프리스트로 전직 후 30레벨까지 성장하기" manualComplete="프리스트로 전직 후 30레벨까지 성장" />
+	<achieve id="21100024" desc="" complete="" manualDesc="레인저로 전직 후 30레벨까지 성장하기" manualComplete="레인저로 전직 후 30레벨까지 성장" />
+	<achieve id="21100025" desc="" complete="" manualDesc="헤비거너로 전직 후 30레벨까지 성장하기" manualComplete="헤비거너로 전직 후 30레벨까지 성장" />
+	<achieve id="21100026" desc="" complete="" manualDesc="시프로 전직 후 30레벨까지 성장하기" manualComplete="시프로 전직 후 30레벨까지 성장" />
+	<achieve id="21100027" desc="" complete="" manualDesc="어쌔신으로 전직 후 30레벨까지 성장하기" manualComplete="어쌔신으로 전직 후 30레벨까지 성장" />
+	<achieve id="21100028" desc="" complete="" manualDesc="전직없이 초보자로 30레벨까지 성장하기" manualComplete="전직없이 초보자로 30레벨까지 성장" />
+	<achieve id="21100029" desc="" complete="" manualDesc="나이트로 전직 후 40레벨까지 성장하기" manualComplete="나이트로 전직 후 40레벨까지 성장" />
+	<achieve id="21100030" desc="" complete="" manualDesc="버서커로 전직 후 40레벨까지 성장하기" manualComplete="버서커로 전직 후 40레벨까지 성장" />
+	<achieve id="21100031" desc="" complete="" manualDesc="위자드로 전직 후 40레벨까지 성장하기" manualComplete="위자드로 전직 후 40레벨까지 성장" />
+	<achieve id="21100032" desc="" complete="" manualDesc="프리스트로 전직 후 40레벨까지 성장하기" manualComplete="프리스트로 전직 후 40레벨까지 성장" />
+	<achieve id="21100033" desc="" complete="" manualDesc="레인저로 전직 후 40레벨까지 성장하기" manualComplete="레인저로 전직 후 40레벨까지 성장" />
+	<achieve id="21100034" desc="" complete="" manualDesc="헤비거너로 전직 후 40레벨까지 성장하기" manualComplete="헤비거너로 전직 후 40레벨까지 성장" />
+	<achieve id="21100035" desc="" complete="" manualDesc="시프로 전직 후 40레벨까지 성장하기" manualComplete="시프로 전직 후 40레벨까지 성장" />
+	<achieve id="21100036" desc="" complete="" manualDesc="어쌔신으로 전직 후 40레벨까지 성장하기" manualComplete="어쌔신으로 전직 후 40레벨까지 성장" />
+	<achieve id="21100037" desc="" complete="" manualDesc="전직없이 초보자로 40레벨까지 성장하기" manualComplete="전직없이 초보자로 40레벨까지 성장" />
+	<achieve id="21100038" desc="" complete="" manualDesc="룬 블레이더로 30레벨까지 성장하기" manualComplete="룬 블레이더로 30레벨까지 성장" />
+	<achieve id="21100039" desc="" complete="" manualDesc="룬 블레이더로 40레벨까지 성장하기" manualComplete="룬 블레이더로 40레벨까지 성장" />
+	<achieve id="21100040" desc="" complete="" manualDesc="룬 블레이더로 50레벨까지 성장하기" manualComplete="룬 블레이더로 50레벨까지 성장" />
+	<achieve id="21210001" desc="몬스터 {0}마리 처치하기!" complete="지금까지 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21210002" desc="식물 몬스터 {0}마리 처치하기!" complete="지금까지 식물 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21210003" desc="야수 몬스터 {0}마리 처치하기!" complete="지금까지 야수 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21210004" desc="벌레 몬스터 {0}마리 처치하기!" complete="지금까지 벌레 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21210005" desc="신수 몬스터 {0}마리 처치하기!" complete="지금까지 신수 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21210006" desc="정령 몬스터 {0}마리 처치하기!" complete="지금까지 정령 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21210007" desc="요정 몬스터 {0}마리 처치하기!" complete="지금까지 요정 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21210008" desc="언데드 몬스터 {0}마리 처치하기!" complete="지금까지 언데드 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21210009" desc="악마 몬스터 {0}마리 처치하기!" complete="지금까지 악마 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21210010" desc="기계 몬스터 {0}마리 처치하기!" complete="지금까지 기계 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21210011" desc="사물 몬스터 {0}마리 처치하기!" complete="지금까지 사물 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21210012" desc="인간형 몬스터 {0}마리 처치하기!" complete="지금까지 인간형 몬스터 {0}마리 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21210014" desc="몬스터 연속 {0}마리 처치하기" complete="지금까지 몬스터 연속 {0}마리 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21210015" desc="$npc:21000425$ {0}번 처치하기" complete="지금까지 $npc:21000425$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21210016" desc='(던전) &quot;$dungeonTitle:02000298$&quot;에서 $npc:24000613$ {0}번 처치하기' complete='(던전) &quot;$dungeonTitle:02000298$&quot;에서 $npc:24000613$ {0}번 처치!' manualDesc="" manualComplete="" />
+	<achieve id="21210017" desc="(던전) $map:02000292$에서 $npc:24000522$ {0}번 처치하기" complete="(던전) $map:02000292$에서 $npc:24000522$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21220001" desc="$npc:22300149$ {0}번 처치하기" complete="지금까지 $npc:22300149$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="1" uiDesc="$item:50730020$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730020$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220002" desc="$npc:22000022$ {0}번 처치하기" complete="지금까지 $npc:22000022$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="1" uiDesc="$item:50730021$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730021$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220003" desc="$npc:22300105$ {0}번 처치하기" complete="지금까지 $npc:22300105$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730010$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730010$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220004" desc="$npc:22000003$와 $npc:22000004$ 자매 중 1명을 {0}번 처치하기" complete="지금까지 $npc:22000003$와 $npc:22000004$ 자매 중 1명을 {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730003$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730003$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220005" desc="$npc:22090165$ {0}번 처치하기" complete="지금까지 $npc:22090165$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730006$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730006$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220006" desc="$npc:22000001$ {0}번 처치하기" complete="지금까지 $npc:22000001$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730001$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730001$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220007" desc="$npc:22090107$ {0}번 처치하기" complete="지금까지 $npc:22090107$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730022$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730022$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220008" desc="$npc:22000321$ {0}번 처치하기" complete="지금까지 $npc:22000321$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730008$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730008$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220009" desc="$npc:22000011$ {0}번 처치하기" complete="지금까지 $npc:22000011$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730007$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730007$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220010" desc="$npc:22000002$ {0}번 처치하기" complete="지금까지 $npc:22000002$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730002$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730002$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220011" desc="$npc:22000005$ {0}번 처치하기" complete="지금까지 $npc:22000005$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730004$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730004$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220012" desc="$npc:22000322$ {0}번 처치하기" complete="지금까지 $npc:22000322$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730009$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730009$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220013" desc="$npc:22000023$ {0}번 처치하기" complete="지금까지 $npc:22000023$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730011$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730011$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220014" desc="$npc:22090166$ {0}번 처치하기" complete="지금까지 $npc:22090166$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730016$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730016$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220015" desc="$npc:22000038$ {0}번 처치하기" complete="지금까지 $npc:22000038$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730019$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730019$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220016" desc="$npc:22000009$ {0}번 처치하기" complete="지금까지 $npc:22000009$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730005$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730005$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220017" desc="$npc:22000007$ {0}번 처치하기" complete="지금까지 $npc:22000007$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730017$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730017$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220018" desc="$npc:22090007$ {0}번 처치하기" complete="지금까지 $npc:22090007$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730018$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730018$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220019" desc="$npc:22000059$ {0}번 처치하기" complete="지금까지 $npc:22000059$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730023$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730023$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220020" desc="$npc:22000024$ {0}번 처치하기" complete="지금까지 $npc:22000024$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730012$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730012$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220021" desc="$npc:22000053$ {0}번 처치하기" complete="지금까지 $npc:22000053$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730014$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730014$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220022" desc="$npc:22000042$ {0}번 처치하기" complete="지금까지 $npc:22000042$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730024$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730024$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220023" desc="$npc:22000034$ {0}번 처치하기" complete="지금까지 $npc:22000034$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730013$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730013$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220024" desc="$npc:22000052$ {0}번 처치하기" complete="지금까지 $npc:22000052$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730025$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730025$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220025" desc="$npc:22000045$ {0}번 처치하기" complete="지금까지 $npc:22000045$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730026$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730026$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220026" desc="$npc:22409035$ {0}번 처치하기" complete="지금까지 $npc:22409035$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21220027" desc="$npc:22409034$ {0}번 처치하기" complete="지금까지 $npc:22409034$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21220028" desc="$map:02000194$의 $npc:22400062$ {0}번 처치하기" complete="지금까지 $map:02000194$의 $npc:22400062$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21220029" desc="$npc:22400071$ {0}번 처치하기" complete="지금까지 $npc:22400071$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21220030" desc="$npc:22090123$ {0}번 처치하기" complete="지금까지 $npc:22090123$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730015$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730015$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21220031" desc="$npc:24001705$ {0}번 처치하기" complete="지금까지 $npc:24001705$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730027$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730027$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230001" desc="$npc:23000024$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000024$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740009$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740009$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230002" desc="$npc:23000018$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000018$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740005$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740005$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230003" desc="$npc:23000019$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000019$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740006$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740006$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230004" desc="$npc:23000017$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000017$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740004$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740004$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230005" desc="(챌린지 모드) $npc:23000025$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000025$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230006" desc="$npc:23000099$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000099$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740012$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740012$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230007" desc="$npc:23000020$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000020$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740007$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740007$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230008" desc="(챌린지 모드) $npc:23000100$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000100$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230009" desc="$npc:23000026$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000026$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740011$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740011$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230010" desc="(챌린지 모드) $npc:23000006$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000006$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230011" desc="(챌린지 모드) $npc:23000021$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000021$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230012" desc="$npc:23090005$ {0}번 처치하기" complete="지금까지 $npc:23090005$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740003$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740003$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230013" desc="$npc:23000001$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000001$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740001$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740001$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230014" desc="$npc:23000008$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000008$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740016$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740016$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230015" desc="(챌린지 모드) $npc:23000007$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000007$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230016" desc="$npc:23000054$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000054$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740014$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740014$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230017" desc="(챌린지 모드) $npc:23000056$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000056$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230018" desc="$npc:23000035$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000035$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740015$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740015$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230019" desc="$npc:23000034$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000034$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740018$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740018$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230020" desc="$npc:23000071$ {0}번 처치하기" complete="지금까지 $npc:23000071$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740022$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740022$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230021" desc="(챌린지 모드) $npc:23000055$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000055$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230022" desc="" complete="" manualDesc="밤 11시 59분에 나의 마지막 일격으로 $npc:23000017$ 처치하기" manualComplete="밤 11시 59분에 나의 마지막 일격으로 $npc:23000017$ 처치!" />
+	<achieve id="21230023" desc="$npc:23000013$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000013$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740030$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740030$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230024" desc="(챌린지 모드) $npc:23000039$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000039$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230025" desc="$npc:23000047$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000047$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740023$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740023$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230026" desc="(챌린지 모드) $npc:23000015$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000015$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230027" desc="(챌린지 모드) $npc:23000077$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000077$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230028" desc="$npc:23000045$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000045$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740027$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740027$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230029" desc="(챌린지 모드) $npc:23000011$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000011$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740028$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740028$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230030" desc="$npc:23000012$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000012$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740029$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740029$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230031" desc="(챌린지 모드) $npc:23000033$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000033$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230032" desc="(챌린지 모드) $npc:23000041$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000041$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230033" desc="(챌린지 모드) $npc:23000011$ {0}번 마주하기" complete="지금까지 (챌린지 모드) $npc:23000011$ 마주하기 {0}번 완료!" manualDesc="" manualComplete="" />
+	<achieve id="21230034" desc="(노멀 모드) $npc:23100015$ {0}번 처치하기" complete="지금까지 (노멀 모드) $npc:23100015$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740025$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740025$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230035" desc="(노멀 모드) $npc:23100021$ {0}번 처치하기" complete="지금까지 (노멀 모드) $npc:23100021$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740008$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740008$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230036" desc="(노멀 모드) $npc:23100025$ {0}번 처치하기" complete="지금까지 (노멀 모드) $npc:23100025$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740010$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740010$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230037" desc="(노멀 모드) $npc:23100033$ {0}번 처치하기" complete="지금까지 (노멀 모드) $npc:23100033$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740019$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740019$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230038" desc="(노멀 모드) $npc:23100039$ {0}번 처치하기" complete="지금까지 (노멀 모드) $npc:23100039$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740031$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740031$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230039" desc="(노멀 모드) $npc:23100041$ {0}번 처치하기" complete="지금까지 (노멀 모드) $npc:23100041$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740032$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740032$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230040" desc="(노멀 모드) $npc:23100055$ {0}번 처치하기" complete="지금까지 (노멀 모드) $npc:23100055$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740017$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740017$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230041" desc="(노멀 모드) $npc:23100056$ {0}번 처치하기" complete="지금까지 (노멀 모드) $npc:23100056$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740021$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740021$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230042" desc="(노멀 모드) $npc:23100100$ {0}번 처치하기" complete="지금까지 (노멀 모드) $npc:23100100$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740013$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740013$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230043" desc="(노멀 모드) $npc:23100006$ {0}번 처치하기" complete="지금까지 (노멀 모드) $npc:23100006$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740002$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740002$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230044" desc="(카오스 모드) $npc:23200007$ {0}번 처치하기" complete="지금까지 (카오스 모드) $npc:23200007$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230045" desc="(카오스 모드) $npc:23200015$ {0}번 처치하기" complete="지금까지 (카오스 모드) $npc:23200015$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230046" desc="(노멀 모드) $npc:23100007$ {0}번 처치하기" complete="지금까지 (노멀 모드) $npc:23100007$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740020$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740020$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230047" desc="(노멀 모드) $npc:23100077$ {0}번 처치하기" complete="지금까지 (노멀 모드) $npc:23100077$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740026$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740026$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21231001" desc="나의 마지막 일격으로 $npc:23000024$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000024$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231002" desc="나의 마지막 일격으로 $npc:23000018$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000018$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231003" desc="나의 마지막 일격으로 $npc:23000019$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000019$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231004" desc="나의 마지막 일격으로 $npc:23000017$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000017$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231005" desc="나의 마지막 일격으로 (챌린지 모드) $npc:23000025$ {0}회 처치하기" complete="나의 마지막 일격으로 (챌린지 모드) $npc:23000025$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231006" desc="나의 마지막 일격으로 $npc:23000099$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000099$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231007" desc="나의 마지막 일격으로 $npc:23000020$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000020$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231008" desc="나의 마지막 일격으로 (챌린지 모드) $npc:23000100$ {0}회 처치하기" complete="나의 마지막 일격으로 (챌린지 모드) $npc:23000100$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231009" desc="나의 마지막 일격으로 $npc:23000026$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000026$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231010" desc="나의 마지막 일격으로 (챌린지 모드) $npc:23000006$ {0}회 처치하기" complete="나의 마지막 일격으로 (챌린지 모드) $npc:23000006$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231011" desc="나의 마지막 일격으로 (챌린지 모드) $npc:23000021$ {0}회 처치하기" complete="나의 마지막 일격으로 (챌린지 모드) $npc:23000021$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231012" desc="나의 마지막 일격으로 $npc:23090005$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23090005$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231013" desc="나의 마지막 일격으로 $npc:23000001$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000001$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231014" desc="나의 마지막 일격으로 $npc:23000008$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000008$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231015" desc="나의 마지막 일격으로 (챌린지 모드) $npc:23000007$ {0}회 처치하기" complete="나의 마지막 일격으로 (챌린지 모드) $npc:23000007$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231016" desc="나의 마지막 일격으로 $npc:23000054$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000054$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231017" desc="나의 마지막 일격으로 (챌린지 모드) $npc:23000056$ {0}회 처치하기" complete="나의 마지막 일격으로 (챌린지 모드) $npc:23000056$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231018" desc="나의 마지막 일격으로 $npc:23000035$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000035$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231019" desc="나의 마지막 일격으로 $npc:23000034$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000034$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231020" desc="나의 마지막 일격으로 $npc:23000071$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000071$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231021" desc="나의 마지막 일격으로 $npc:23000013$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000013$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231022" desc="나의 마지막 일격으로 (챌린지 모드) $npc:23000039$ {0}회 처치하기" complete="나의 마지막 일격으로 (챌린지 모드) $npc:23000039$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231023" desc="나의 마지막 일격으로 $npc:23000047$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000047$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231024" desc="나의 마지막 일격으로 (챌린지 모드) $npc:23000015$ {0}회 처치하기" complete="나의 마지막 일격으로 (챌린지 모드) $npc:23000015$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231025" desc="나의 마지막 일격으로 $npc:23000077$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000077$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231026" desc="나의 마지막 일격으로 $npc:23000045$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000045$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231027" desc="나의 마지막 일격으로 (챌린지 모드) $npc:23000011$ {0}회 처치하기" complete="나의 마지막 일격으로 (챌린지 모드) $npc:23000011$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231028" desc="나의 마지막 일격으로 $npc:23000012$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000012$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231029" desc="나의 마지막 일격으로 (챌린지 모드) $npc:23000033$ {0}회 처치하기" complete="나의 마지막 일격으로 (챌린지 모드) $npc:23000033$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231030" desc="나의 마지막 일격으로 (챌린지 모드) $npc:23000055$ {0}회 처치하기" complete="나의 마지막 일격으로 (챌린지 모드) $npc:23000055$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21231031" desc="나의 마지막 일격으로 (챌린지 모드) $npc:23000041$ {0}회 처치하기" complete="나의 마지막 일격으로 (챌린지 모드) $npc:23000041$ {0}회 처치" manualDesc="" manualComplete="" />
+	<achieve id="21232001" desc="$npc:29000037$의 침에 {0}번 맞기" complete="지금까지 $npc:29000037$의 침에 {0}번 맞음" manualDesc="" manualComplete="" />
+	<achieve id="21232002" desc="$npc:22000015$의 빠른 회전 공격에 의해 비석에 {0}번 깔리기" complete="지금까지 $npc:22000015$의 빠른 회전 공격에 의해 비석에 {0}번 깔림" manualDesc="" manualComplete="" />
+	<achieve id="21232003" desc="" complete="" manualDesc="$npc:22090107$의 공격을 받아 작아지기" manualComplete="$npc:22090107$의 공격을 받아 작아지기" />
+	<achieve id="21232004" desc="" complete="" manualDesc="$npc:22090107$의 물감옥에 갇혀보기" manualComplete="$npc:22090107$의 물감옥에 갇혀보기" />
+	<achieve id="21233001" desc="" complete="" manualDesc="$npc:23000018$의 공격에 맞아 메슥거림에 걸려 토하기" manualComplete="$npc:23000018$의 공격에 맞아 메슥거림에 걸려 토하기" />
+	<achieve id="21233002" desc="" complete="" manualDesc="$npc:23000018$의 물감옥에 갇혀보기" manualComplete="$npc:23000018$의 물감옥에 갇혀보기" />
+	<achieve id="21233003" desc="$npc:23000017$$pp:가,이$ 회전하며 날리는 뿔에 맞아 비석에 {0}번 깔리기" complete="지금까지 $npc:23000017$$pp:가,이$ 회전하며 날리는 뿔에 맞아 비석에 {0}번 깔림" manualDesc="" manualComplete="" />
+	<achieve id="21233004" desc="" complete="" manualDesc="$npc:23000019$에 매달려 날기" manualComplete="$npc:23000019$에 매달려 날기" />
+	<achieve id="21233005" desc="" complete="" manualDesc="$npc:23000020$에 매달려 날기" manualComplete="$npc:23000020$에 매달려 날기" />
+	<achieve id="21233006" desc="" complete="" manualDesc="$npc:23000021$에 매달려 날기" manualComplete="$npc:23000021$에 매달려 날기" />
+	<achieve id="21233007" desc="$npc:23000100$$pp:가,이$ 일으킨 성난 회오리에 휩쓸려 비석에 {0}번 깔리기" complete="지금까지 $npc:23000100$$pp:가,이$ 일으킨 성난 회오리에 휩쓸려 비석에 {0}번 깔림" manualDesc="" manualComplete="" />
+	<achieve id="21233008" desc="$npc:23000006$$pp:가,이$ 일으킨 냉기 회오리에 휩쓸려 비석에 {0}번 깔리기" complete="지금까지 $npc:23000006$$pp:가,이$ 일으킨 냉기 회오리에 휩쓸려 비석에 {0}번 깔림" manualDesc="" manualComplete="" />
+	<achieve id="21233009" desc="$npc:23000006$의 고드름에 맞아 비석에 {0}번 깔리기" complete="지금까지 $npc:23000006$의 고드름에 맞아 비석에 {0}번 깔림" manualDesc="" manualComplete="" />
+	<achieve id="21233010" desc="" complete="" manualDesc="$npc:23000055$의 전기 공격에 감전당해 기절하기" manualComplete="$npc:23000055$의 전기 공격에 감전당해 기절하기" />
+	<achieve id="21233011" desc="$npc:23000007$의 어둠의 화살을 맞고 비석에 {0}번 깔리기" complete="지금까지 $npc:23000007$의 어둠의 화살을 맞고 비석에 {0}번 깔림" manualDesc="" manualComplete="" />
+	<achieve id="21233012" desc="$npc:23000035$의 맨얼굴 공격에 {0}번 당하기" complete="지금까지 $npc:23000035$의 맨얼굴에 {0}번 공격당함" manualDesc="" manualComplete="" />
+	<achieve id="21233013" desc="$npc:23000034$의 맨얼굴 공격에 {0}번 당하기" complete="지금까지 $npc:23000034$의 맨얼굴에 {0}번 공격당함" manualDesc="" manualComplete="" />
+	<achieve id="21233014" desc="" complete="" manualDesc="$npc:23000033$의 얼굴 마법진을 밟아 소인으로 변하기" manualComplete="$npc:23000033$의 얼굴 마법진을 밟아 소인으로 변하기" />
+	<achieve id="21233015" desc="$npc:23000056$의 지뢰 폭발에 당해 {0}번 기절하기" complete="지금까지 $npc:23000056$의 지뢰 폭발에 당해 {0}번 기절" manualDesc="" manualComplete="" />
+	<achieve id="21233016" desc="$npc:23000041$의 고속 회전 망치에 한 대도 맞지 않고 {0}번 버티기" complete="지금까지 $npc:23000041$의 고속 회전 망치에 한 대도 맞지 않고 {0}번 버티기" manualDesc="" manualComplete="" />
+	<achieve id="21233017" desc="$npc:23090005$$pp:가,이$ 휘두른 죽음의 갈고리에 맞아 비석에 {0}번 깔리기" complete="지금까지 $npc:23090005$$pp:가,이$ 휘두른 죽음의 갈고리에 맞아 비석에 {0}번 깔림" manualDesc="" manualComplete="" />
+	<achieve id="21233018" desc="$npc:23000071$의 손바닥에 짓눌려 {0}번 찌그러지기" complete="지금까지 $npc:23000071$의 손바닥에 짓눌려 {0}번 찌그러짐" manualDesc="" manualComplete="" />
+	<achieve id="21233019" desc="$npc:23000071$에게서 죽음의 선고 {0}번 받기" complete="지금까지 $npc:23000071$에게서 죽음의 선고 {0}번 받기" manualDesc="" manualComplete="" />
+	<achieve id="21233020" desc="" complete="" manualDesc="$npc:22400071$의 공격을 받고 작아지기" manualComplete="$npc:22400071$의 공격을 받고 작아지기" />
+	<achieve id="21240001" desc="엘리트 및 보스 몬스터 사냥 트로피 {0}개 모으기" complete="지금까지 엘리트 및 보스 몬스터 사냥 트로피 {0}개 수집!" manualDesc="" manualComplete="" />
+	<achieve id="21250001" desc="" complete="" manualDesc="8분 안에 (챌린지 모드) $npc:23000100$ 처치하기" manualComplete="8분 안에 (챌린지 모드) $npc:23000100$ 처치!" />
+	<achieve id="21250002" desc="" complete="" manualDesc="8분 안에 (챌린지 모드) $npc:23000055$ 처치하기" manualComplete="8분 안에 (챌린지 모드) $npc:23000055$ 처치!" />
+	<achieve id="21250003" desc="" complete="" manualDesc="8분 안에 (챌린지 모드) $npc:23000007$ 처치하기" manualComplete="8분 안에 (챌린지 모드) $npc:23000007$ 처치!" />
+	<achieve id="21300001" desc="쉐도우 월드에서 다른 캐릭터를 {0}회 쓰러뜨리기" complete="지금까지 쉐도우 월드에서 다른 캐릭터를 {0}회 쓰러뜨림" manualDesc="" manualComplete="" />
+	<achieve id="21300002" desc="쉐도우 월드에서 다른 캐릭터에게 {0}회 쓰러지기" complete="지금까지 쉐도우 월드에서 다른 캐릭터에게 {0}회 쓰러짐" manualDesc="" manualComplete="" />
+	<achieve id="21300003" desc="$map:65000001$에서 {0}회 우승하기" complete="지금까지 $map:65000001$에서 {0}회 우승" manualDesc="" manualComplete="" />
+	<achieve id="21300004" desc="$map:65000001$에서 다른 캐릭터를 {0}회 쓰러뜨리기" complete="지금까지 $map:65000001$에서 다른 캐릭터를 {0}명 쓰러뜨림" manualDesc="" manualComplete="" />
+	<achieve id="21300005" desc="$map:65000001$에서 다른 캐릭터에게 {0}회 쓰러지기" complete="지금까지 $map:65000001$에서 다른 캐릭터에게 {0}회 쓰러짐" manualDesc="" manualComplete="" />
+	<achieve id="21300006" desc="$map:65000002$에서 {0}회 우승하기" complete="지금까지 $map:65000002$에서 {0}회 우승" manualDesc="" manualComplete="" />
+	<achieve id="21300007" desc="$map:65000002$에서 다른 캐릭터를 {0}회 쓰러뜨리기" complete="지금까지 $map:65000002$에서 다른 캐릭터를 {0}명 쓰러뜨림" manualDesc="" manualComplete="" />
+	<achieve id="21300008" desc="$map:65000002$에서 다른 캐릭터에게 {0}회 쓰러지기" complete="지금까지 $map:65000002$에서 다른 캐릭터에게 {0}회 쓰러짐" manualDesc="" manualComplete="" />
+	<achieve id="21300009" desc="$map:64000001$에서 상대 길드원을 {0}회 쓰러뜨리기" complete="지금까지 $map:64000001$에서 상대 길드원을 {0}회 쓰러뜨림" manualDesc="" manualComplete="" />
+	<achieve id="21300010" desc="$map:64000001$에서 상대 길드원에게 {0}회 쓰러지기" complete="지금까지 $map:64000001$에서 상대 길드원에게 {0}회 쓰러짐" manualDesc="" manualComplete="" />
+	<achieve id="21300011" desc="$map:64000001$에서 상대 길드를 물리치고 {0}회 승리하기" complete="지금까지 $map:64000001$에서 상대 길드를 물리치고 {0}회 승리" manualDesc="" manualComplete="">
+		<reward grade="4" uiDesc="$npc:11000626$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$npc:11000626$ 판매 아이템 일부에 대한 구매 권한 획득" />
+		<reward grade="6" uiDesc="$npc:11000626$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$npc:11000626$ 판매 아이템 일부에 대한 구매 권한 획득" />
+	</achieve>
+	<achieve id="21300012" desc="길드 챔피언십 {0}회 참가하기" complete="지금까지 길드 챔피언십 {0}회 참가" manualDesc="" manualComplete="">
+		<reward grade="5" uiDesc="$npc:11000626$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$npc:11000626$ 판매 아이템 일부에 대한 구매 권한 획득" />
+	</achieve>
+	<achieve id="21300013" desc="" complete="" manualDesc="길드 챔피언십에서 1위 달성하기 (정기 점검 시 달성)" manualComplete="길드 챔피언십에서 1위 달성" />
+	<achieve id="21300014" desc="개인 전투장에 {0}회 참가하기" complete="지금까지 개인 전투장에 {0}회 참가" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="장비 상인 $npc:11001103$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npc:11001103$의 판매 아이템 일부에 대한 구매 권한 획득" />
+		<reward grade="3" uiDesc="장비 상인 $npc:11001103$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npc:11001103$의 판매 아이템 일부에 대한 구매 권한 획득" />
+		<reward grade="4" uiDesc="장비 상인 $npc:11001103$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npc:11001103$의 판매 아이템 일부에 대한 구매 권한 획득" />
+		<reward grade="5" uiDesc="장비 상인 $npc:11001103$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npc:11001103$의 판매 아이템 일부에 대한 구매 권한 획득" />
+	</achieve>
+	<achieve id="21300015" desc="$map:65000003$에서 {0}회 승리하기" complete="지금까지 $map:65000003$에서 {0}회 승리" manualDesc="" manualComplete="" />
+	<achieve id="21300016" desc="$map:65000003$에서 상대팀 {0}명 쓰러뜨리기" complete="지금까지 $map:65000003$에서 상대팀 {0}명 쓰러뜨림" manualDesc="" manualComplete="" />
+	<achieve id="21300017" desc="$map:65000003$에서 상대팀에게 {0}회 쓰러지기" complete="지금까지 $map:65000003$에서 상대팀에게 {0}회 쓰러짐" manualDesc="" manualComplete="" />
+	<achieve id="21300018" desc="$map:65000003$에서 50점 이내의 점수 차이로 {0}회 승리하기" complete="지금까지 $map:65000003$에서 50점 이내의 점수 차이로 {0}회 승리" manualDesc="" manualComplete="" />
+	<achieve id="21300019" desc="$map:65000003$에서 5분 안에 {0}회 승리하기" complete="지금까지 $map:65000003$에서 5분 안에 {0}회 승리하기" manualDesc="" manualComplete="" />
+	<achieve id="21300020" desc="$map:65000003$에서 상대팀 보물 {0}회 약탈" complete="지금까지 $map:65000003$에서 상대팀 보물 {0}회 약탈" manualDesc="" manualComplete="" />
+	<achieve id="21300021" desc="$map:65000003$에서 갈매기를 {0} 동안 붙잡고 이동하기" complete="지금까지 $map:65000003$에서 갈매기를 {0} 동안 붙잡고 이동하기" manualDesc="" manualComplete="" />
+	<achieve id="21400001" desc="불드럼을 던져 공격 {0}회 하기" complete="지금까지 불드럼을 던져 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400002" desc="광산카트를 밀어 공격 {0}회 하기" complete="지금까지 광산카트를 밀어 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400003" desc="오크통을 던져 공격 {0}회 하기" complete="지금까지 오크통을 던져 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400004" desc="타이어를 굴려 공격 {0}회 하기" complete="지금까지 타이어를 굴려 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400005" desc="쓰레기통을 밀어 공격 {0}회 하기" complete="지금까지 쓰레기통을 밀어 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400006" desc="가스통을 던져 공격 {0}회 하기" complete="지금까지 가스통을 던져 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400007" desc="폐기물 드럼통을 던져 공격 {0}회 하기" complete="지금까지 폐기물 드럼통을 던져 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400008" desc="토템을 던져 공격 {0}회 하기" complete="지금까지 토템을 던져 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400009" desc="독가루 포대를 던져 공격 {0}회 하기" complete="지금까지 독가루 포대를 던져 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400010" desc="다이나마이트 카트를 밀어 공격 {0}회 하기" complete="지금까지 다이나마이트 카트를 밀어 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400011" desc="폭탄을 집어 던져 공격 {0}회 하기" complete="지금까지 폭탄을 집어 던져 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400012" desc="닭장을 집어 던져 공격 {0}회 하기" complete="지금까지 닭장을 집어 던져 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400013" desc="계란 던지기 공격 {0}회 하기" complete="지금까지 계란 던지기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400014" desc="병박스를 집어 던져 공격 {0}회 하기" complete="지금까지 병박스를 집어 던져 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400015" desc="횃불 집어 휘두르기 공격 {0}회 하기" complete="지금까지 횃불 집어 휘두르기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400016" desc="무지개 똥 휘두르기 공격 {0}회 하기" complete="지금까지 무지개 똥 휘두르기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400017" desc="상한 무지개 똥 휘두르기 공격 {0}회 하기" complete="지금까지 상한 무지개 똥 휘두르기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400018" desc="표지판 집어 휘두르기 공격 {0}회 하기" complete="지금까지 표지판 집어 휘두르기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400019" desc="신호등 뽑아 휘두르기 공격 {0}회 하기" complete="지금까지 신호등 뽑아 휘두르기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400020" desc="전봇대 뽑아 휘두르기 공격 {0}회 하기" complete="지금까지 전봇대 뽑아 휘두르기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400021" desc="토템 집어 휘두르기 공격 {0}회 하기" complete="지금까지 토템 집어 휘두르기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400022" desc="파이프 집어 휘두르기 공격 {0}회 하기" complete="지금까지 파이프 집어 휘두르기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400023" desc="페리온집 내려찍기 공격 {0}회 하기" complete="지금까지 페리온집 내려찍기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400024" desc="커닝버스 내려찍기 공격 {0}회 하기" complete="지금까지 커닝버스 내려찍기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400025" desc="커닝폰부스 내려찍기 공격 {0}회 하기" complete="지금까지 커닝폰부스 내려찍기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400026" desc="커닝트럭 내려찍기 공격 {0}회 하기" complete="지금까지 커닝트럭 내려찍기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400027" desc="빙하집 내려찍기 공격 {0}회 하기" complete="지금까지 빙하집 내려찍기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400028" desc="샤워실 내려찍기 공격 {0}회 하기" complete="지금까지 샤워실 내려찍기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400029" desc="화장실 내려찍기 공격 {0}회 하기" complete="지금까지 화장실 내려찍기 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400030" desc="EMP 폭탄 공격 {0}회 하기" complete="지금까지 EMP 폭탄 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="21400031" desc="태엽 폭탄 공격 {0}회 하기" complete="지금까지 태엽 폭탄 공격 {0}회!" manualDesc="" manualComplete="" />
+	<achieve id="22100001" desc="{0} 뛰어서 이동하기" complete="지금까지 {0} 뛰어서 이동" manualDesc="" manualComplete="" />
+	<achieve id="22100002" desc="{0} 헤엄쳐서 이동하기" complete="지금까지 {0} 헤엄쳐서 이동" manualDesc="" manualComplete="">
+		<reward grade="7" uiDesc="$item:11900061$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:11900061$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="22100003" desc="벽타고 {0} 이동하기" complete="지금까지 벽타고 {0} 이동" manualDesc="" manualComplete="" />
+	<achieve id="22100004" desc="기어서 {0} 이동하기" complete="기어서 {0} 이동" manualDesc="" manualComplete="" />
+	<achieve id="22100005" desc="{0} 추락하기" complete="{0} 추락" manualDesc="" manualComplete="" />
+	<achieve id="22100006" desc="사다리에 {0} 매달려 있기" complete="사다리에 {0} 매달려 있기" manualDesc="" manualComplete="" />
+	<achieve id="22100007" desc="로프에 {0} 매달려 있기" complete="로프에 {0} 매달려 있기" manualDesc="" manualComplete="" />
+	<achieve id="22100008" desc="각종 탈것을 타고 {0} 이동하기" complete="지금까지 각종 탈것을 타고 {0} 이동" manualDesc="" manualComplete="" />
+	<achieve id="22100009" desc="{0} 날아서 이동하기" complete="지금까지 {0} 날아서 이동" manualDesc="" manualComplete="" />
+	<achieve id="22100010" desc="택시 정류장 {0}개 발견하기" complete="지금까지 택시 정류장 {0}개 발견" manualDesc="" manualComplete="" />
+	<achieve id="22100011" desc="택시타고 {0}회 이동하기" complete="지금까지 택시타고 {0}회 이동" manualDesc="" manualComplete="" />
+	<achieve id="22100012" desc="점프 {0}회 하기" complete="지금까지 한 점프 {0}회 " manualDesc="" manualComplete="" />
+	<achieve id="22200001" desc="" complete="" manualDesc="메이플 아일랜드의 첫 번째 마을인 $map:63000001$ 발견하기" manualComplete="메이플 아일랜드의 첫 번째 마을인 $map:63000001$ 발견!" />
+	<achieve id="22200002" desc="빅토리아 아일랜드 맵 {0}개 탐험하기" complete="지금까지 빅토리아 아일랜드 맵 {0}개 탐험" manualDesc="" manualComplete="" />
+	<achieve id="22200003" desc="맵 곳곳의 망원경 {0}개 살펴보기" complete="지금까지 맵 곳곳의 망원경 {0}개 조사" manualDesc="" manualComplete="" />
+	<achieve id="22200004" desc="빛나는 모자를 통해 공간의 틈 {0}회 들어가기" complete="지금까지 빛나는 모자를 통해 공간의 틈 {0}회 입장" manualDesc="" manualComplete="">
+		<reward grade="4" uiDesc="$item:50600012$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600012$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="22200005" desc="빛나는 모자를 통해 $map:80000001$ {0}회 들어가기" complete="지금까지 빛나는 모자를 통해 $map:80000001$ {0}회 방문" manualDesc="" manualComplete="" />
+	<achieve id="22200007" desc="빛나는 모자를 통해 $map:80000004$ {0}회 들어가기" complete="지금까지 빛나는 모자를 통해 $map:80000004$ {0}회 방문" manualDesc="" manualComplete="" />
+	<achieve id="22200008" desc="빛나는 모자를 통해 $map:80000006$ {0}회 들어가기" complete="지금까지 빛나는 모자를 통해 $map:80000006$ {0}회 방문" manualDesc="" manualComplete="" />
+	<achieve id="22200009" desc="빛나는 모자를 통해 $map:80000007$ {0}회 들어가기" complete="지금까지 빛나는 모자를 통해 $map:80000007$ {0}회 방문" manualDesc="" manualComplete="" />
+	<achieve id="22200010" desc="빛나는 모자를 통해 $map:80000008$ {0}회 들어가기" complete="지금까지 빛나는 모자를 통해 $map:80000008$ {0}회 방문" manualDesc="" manualComplete="" />
+	<achieve id="22200011" desc="빛나는 모자를 통해 $map:80000010$ {0}회 들어가기" complete="지금까지 빛나는 모자를 통해 $map:80000010$ {0}회 방문" manualDesc="" manualComplete="" />
+	<achieve id="22200012" desc="나무 보물 상자 {0}번 열어 보기" complete="지금까지 나무 보물 상자 {0}번 열어 봄" manualDesc="" manualComplete="" />
+	<achieve id="22200013" desc="각기 다른 위치의 새로운 황금 보물 상자 {0}개 열어 보기" complete="지금까지 새로운 황금 보물 상자 {0}개 열어 봄" manualDesc="" manualComplete="" />
+	<achieve id="22200014" desc="쉐도우 월드로 가서 투르카의 보석함 {0}회 열기" complete="지금까지 쉐도우 월드로 가서 투르카의 보석함 {0}회 열기" manualDesc="" manualComplete="" />
+	<achieve id="22200015" desc="쉐도우 월드로 가서 투르카의 진귀한 보석함 {0}회 열기" complete="지금까지 쉐도우 월드로 가서 투르카의 진귀한 보석함 {0}회 열기" manualDesc="" manualComplete="" />
+	<achieve id="22200016" desc="" complete="" manualDesc="$map:02000202$ 방문하기" manualComplete="$map:02000202$ 방문!" />
+	<achieve id="22200017" desc="" complete="" manualDesc="$map:02000124$ 방문하기" manualComplete="$map:02000124$ 방문!" />
+	<achieve id="22200018" desc="$map:02000138$ 가로등 {0}회 켜기" complete="지금까지 $map:02000138$ 가로등 {0}회 켬" manualDesc="" manualComplete="" />
+	<achieve id="22200019" desc="$item:30000181$ {0}개를 $npc:11000601$에게 전달하기" complete="지금까지 $item:30000181$ {0}개를 $npc:11000601$에게 전달" manualDesc="" manualComplete="" />
+	<achieve id="22200020" desc="" complete="" manualDesc="$item:13200028$ 획득하기" manualComplete="$item:13200028$ 획득하기" />
+	<achieve id="22200021" desc="" complete="" manualDesc="$item:11300119$ 획득하기" manualComplete="$item:11300119$ 획득하기" />
+	<achieve id="22200022" desc="" complete="" manualDesc="$item:30000069$ 획득하기" manualComplete="$item:30000069$ 획득하기" />
+	<achieve id="22200023" desc="" complete="" manualDesc="은밀한 입구를 통해 $map:02000234$ 발견하기" manualComplete="은밀한 입구를 통해 $map:02000234$ 발견!" />
+	<achieve id="22200024" desc="" complete="" manualDesc="$map:02000025$에 입성하기" manualComplete="$map:02000025$에 입성!" />
+	<achieve id="22200025" desc="" complete="" manualDesc="$map:02000179$ 발견하기" manualComplete="$map:02000179$ 발견!" />
+	<achieve id="22200026" desc="" complete="" manualDesc="$map:02000220$에 들어가기" manualComplete="$map:02000220$ 방문!" />
+	<achieve id="22200027" desc="" complete="" manualDesc="비밀 입구를 통해 $map:02000249$까지 내려가기" manualComplete="비밀 입구를 통해 $map:02000249$ 발견!" />
+	<achieve id="22200028" desc="" complete="" manualDesc="$map:02000244$에 진입하기" manualComplete="$map:02000244$에 진입!" />
+	<achieve id="22200029" desc="" complete="" manualDesc="$map:02000248$에 진입하기" manualComplete="$map:02000248$에 진입!" />
+	<achieve id="22200030" desc="" complete="" manualDesc="쉐도우 월드 발견하기" manualComplete="쉐도우 월드 발견!" />
+	<achieve id="22200031" desc="" complete="" manualDesc="독액을 타고 흘러온 쓸 만한 물건 4종 구하기" manualComplete="쓸 만한 물건 모두 획득!" />
+	<achieve id="22200032" desc="" complete="" manualDesc="$npc:11000492$와 관련된 스토리북 4종 구하기" manualComplete="$npc:11000492$와 관련된 스토리북 모두 획득!" />
+	<achieve id="22200033" desc="던전에서 보상 {0}회 지급받기" complete="지금까지 던전에서 보상 지급받기 {0}회 완료" manualDesc="" manualComplete="" />
+	<achieve id="22200034" desc="" complete="" manualDesc="$map:02000001$ 발견하기" manualComplete="$map:02000001$ 발견!" />
+	<achieve id="22200035" desc="" complete="" manualDesc="$map:02000100$ 발견하기" manualComplete="$map:02000100$ 발견!" />
+	<achieve id="22200036" desc="" complete="" manualDesc="$map:02000076$ 발견하기" manualComplete="$map:02000076$ 발견!" />
+	<achieve id="22200037" desc="" complete="" manualDesc="$map:02000023$ 발견하기" manualComplete="$map:02000023$ 발견!" />
+	<achieve id="22200038" desc="" complete="" manualDesc="$map:02000051$ 발견하기" manualComplete="$map:02000051$ 발견!" />
+	<achieve id="22200039" desc="" complete="" manualDesc="빅토리아 아일랜드의 대도시 발견!" manualComplete="빅토리아 아일랜드의 대도시 모두 발견!" />
+	<achieve id="22200040" desc='(던전) &quot;$dungeonTitle:02000241$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02000241$&quot; {0}번 완료' manualDesc="" manualComplete="" />
+	<achieve id="22200041" desc='(던전) &quot;$dungeonTitle:02000252$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02000252$&quot; {0}번 완료' manualDesc="" manualComplete="" />
+	<achieve id="22200042" desc='(던전) &quot;$dungeonTitle:02000281$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02000281$&quot; {0}번 완료' manualDesc="" manualComplete="" />
+	<achieve id="22200043" desc='(던전) &quot;$dungeonTitle:02000066$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02000066$&quot; {0}번 완료' manualDesc="" manualComplete="" />
+	<achieve id="22200044" desc="" complete="" manualDesc="$map:02000004$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000004$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200045" desc="" complete="" manualDesc="$map:02000006$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000006$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200046" desc="" complete="" manualDesc="$map:02000010$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000010$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200047" desc="" complete="" manualDesc="$map:02000014$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000014$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200048" desc="" complete="" manualDesc="$map:02000017$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000017$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200049" desc="" complete="" manualDesc="$map:02000024$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000024$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200050" desc="" complete="" manualDesc="$map:02000039$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000039$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200051" desc="" complete="" manualDesc="$map:02000041$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000041$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200052" desc="" complete="" manualDesc="$map:02000043$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000043$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200053" desc="" complete="" manualDesc="$map:02000045$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000045$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200054" desc="" complete="" manualDesc="$map:02000046$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000046$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200055" desc="" complete="" manualDesc="$map:02000047$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000047$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200056" desc="" complete="" manualDesc="$map:02000048$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000048$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200057" desc="" complete="" manualDesc="$map:02000052$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000052$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200058" desc="" complete="" manualDesc="$map:02000054$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000054$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200059" desc="" complete="" manualDesc="$map:02000056$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000056$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200060" desc="" complete="" manualDesc="$map:02000059$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000059$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200061" desc="" complete="" manualDesc="$map:02000060$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000060$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200062" desc="" complete="" manualDesc="$map:02000075$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000075$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200063" desc="" complete="" manualDesc="$map:02000082$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000082$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200064" desc="" complete="" manualDesc="$map:02000083$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000083$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200065" desc="" complete="" manualDesc="$map:02000084$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000084$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200066" desc="" complete="" manualDesc="$map:02000085$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000085$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200067" desc="" complete="" manualDesc="$map:02000086$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000086$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200068" desc="" complete="" manualDesc="$map:02000087$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000087$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200069" desc="" complete="" manualDesc="$map:02000088$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000088$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200070" desc="" complete="" manualDesc="$map:02000089$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000089$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200071" desc="" complete="" manualDesc="$map:02000092$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000092$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200072" desc="" complete="" manualDesc="$map:02000110$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000110$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200073" desc="" complete="" manualDesc="$map:02000111$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000111$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200074" desc="" complete="" manualDesc="$map:02000114$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000114$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200075" desc="" complete="" manualDesc="$map:02000115$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000115$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200076" desc="" complete="" manualDesc="$map:02000116$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000116$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200077" desc="" complete="" manualDesc="$map:02000117$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000117$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200078" desc="" complete="" manualDesc="$map:02000118$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000118$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200079" desc="" complete="" manualDesc="$map:02000134$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000134$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200080" desc="" complete="" manualDesc="$map:02000135$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000135$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200081" desc="" complete="" manualDesc="$map:02000136$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000136$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200082" desc="" complete="" manualDesc="$map:02000137$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000137$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200083" desc="" complete="" manualDesc="$map:02000138$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000138$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200084" desc="" complete="" manualDesc="$map:02000139$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000139$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200085" desc="" complete="" manualDesc="$map:02000141$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000141$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200086" desc="" complete="" manualDesc="$map:02000145$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000145$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200087" desc="" complete="" manualDesc="$map:02000146$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000146$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200088" desc="" complete="" manualDesc="$map:02000147$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000147$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200089" desc="" complete="" manualDesc="$map:02000148$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000148$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200090" desc="" complete="" manualDesc="$map:02000149$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000149$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200091" desc="" complete="" manualDesc="$map:02000267$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000267$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200092" desc="" complete="" manualDesc="$map:03000014$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000014$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200093" desc="" complete="" manualDesc="$map:03000092$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000092$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200094" desc="" complete="" manualDesc="$map:03000134$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000134$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200095" desc="" complete="" manualDesc="$map:03000135$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000135$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200096" desc="" complete="" manualDesc="$map:03000136$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000136$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200097" desc="" complete="" manualDesc="$map:03000137$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000137$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200098" desc="" complete="" manualDesc="$map:03000145$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000145$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200099" desc="" complete="" manualDesc="$map:03000146$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000146$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200100" desc="" complete="" manualDesc="$map:02000003$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000003$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200101" desc="" complete="" manualDesc="$map:02000007$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000007$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200102" desc="" complete="" manualDesc="$map:02000008$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000008$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200103" desc="" complete="" manualDesc="$map:02000009$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000009$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200104" desc="" complete="" manualDesc="$map:02000013$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000013$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200105" desc="" complete="" manualDesc="$map:02000015$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000015$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200106" desc="" complete="" manualDesc="$map:02000019$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000019$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200107" desc="" complete="" manualDesc="$map:02000021$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000021$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200108" desc="" complete="" manualDesc="$map:02000022$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000022$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200109" desc="" complete="" manualDesc="$map:02000038$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000038$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200110" desc="" complete="" manualDesc="$map:02000042$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000042$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200111" desc="" complete="" manualDesc="$map:02000053$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000053$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200112" desc="" complete="" manualDesc="$map:02000057$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000057$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200113" desc="" complete="" manualDesc="$map:02000058$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000058$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200114" desc="" complete="" manualDesc="$map:02000063$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000063$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200115" desc="" complete="" manualDesc="$map:02000067$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000067$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200116" desc="" complete="" manualDesc="$map:02000090$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000090$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200117" desc="" complete="" manualDesc="$map:02000091$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000091$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200118" desc="" complete="" manualDesc="$map:02000095$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000095$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200119" desc="" complete="" manualDesc="$map:02000096$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000096$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200120" desc="" complete="" manualDesc="$map:02000103$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000103$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200121" desc="" complete="" manualDesc="$map:02000112$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000112$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200122" desc="" complete="" manualDesc="$map:02000113$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000113$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200123" desc="" complete="" manualDesc="$map:02000128$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000128$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200124" desc="" complete="" manualDesc="$map:02000130$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000130$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200125" desc="" complete="" manualDesc="$map:02000131$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000131$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200126" desc="" complete="" manualDesc="$map:02000132$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000132$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200127" desc="" complete="" manualDesc="$map:02000142$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000142$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200128" desc="" complete="" manualDesc="$map:02000172$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000172$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200129" desc="" complete="" manualDesc="$map:02000173$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000173$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200130" desc="" complete="" manualDesc="$map:02000174$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000174$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200131" desc="" complete="" manualDesc="$map:02000179$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000179$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200132" desc="" complete="" manualDesc="$map:02000180$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000180$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200133" desc="" complete="" manualDesc="$map:02000181$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000181$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200134" desc="" complete="" manualDesc="$map:02000182$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000182$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200135" desc="" complete="" manualDesc="$map:02000183$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000183$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200136" desc="" complete="" manualDesc="$map:02000185$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000185$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200137" desc="" complete="" manualDesc="$map:02000186$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000186$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200138" desc="" complete="" manualDesc="$map:02000214$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000214$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200139" desc="" complete="" manualDesc="$map:02000215$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000215$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200140" desc="" complete="" manualDesc="$map:02000278$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000278$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200141" desc="" complete="" manualDesc="$map:03000003$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000003$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200142" desc="" complete="" manualDesc="$map:03000017$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000017$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200143" desc="" complete="" manualDesc="$map:03000022$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000022$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200144" desc="" complete="" manualDesc="$map:03000043$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000043$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200145" desc="" complete="" manualDesc="$map:03000054$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000054$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200146" desc="" complete="" manualDesc="$map:03000057$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000057$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200147" desc="" complete="" manualDesc="$map:03000058$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000058$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200148" desc="" complete="" manualDesc="$map:03000059$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000059$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200149" desc="" complete="" manualDesc="$map:03000064$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000064$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200150" desc="" complete="" manualDesc="$map:03000076$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000076$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200152" desc="" complete="" manualDesc="$map:03000083$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000083$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200153" desc="" complete="" manualDesc="$map:03000084$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000084$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200154" desc="" complete="" manualDesc="$map:03000085$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000085$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200155" desc="" complete="" manualDesc="$map:03000086$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000086$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200156" desc="" complete="" manualDesc="$map:03000104$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000104$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200157" desc="" complete="" manualDesc="$map:03000110$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000110$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200158" desc="" complete="" manualDesc="$map:03000111$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000111$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200159" desc="" complete="" manualDesc="$map:03000130$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000130$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200160" desc="" complete="" manualDesc="$map:03000143$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000143$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200161" desc="" complete="" manualDesc="$map:03000203$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000203$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200162" desc="" complete="" manualDesc="$map:02000049$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000049$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200163" desc="" complete="" manualDesc="$map:02000162$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000162$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200164" desc="" complete="" manualDesc="$map:02000163$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000163$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200165" desc="" complete="" manualDesc="$map:02000169$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000169$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200166" desc="" complete="" manualDesc="$map:02000170$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000170$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200167" desc="" complete="" manualDesc="$map:02000171$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000171$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200168" desc="" complete="" manualDesc="$map:02000184$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000184$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200169" desc="" complete="" manualDesc="$map:02000187$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000187$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200170" desc="" complete="" manualDesc="$map:02000192$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000192$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200171" desc="" complete="" manualDesc="$map:02000235$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000235$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200172" desc="" complete="" manualDesc="$map:02000262$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000262$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200173" desc="" complete="" manualDesc="$map:02000263$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000263$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200174" desc="" complete="" manualDesc="$map:02000268$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000268$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200175" desc="" complete="" manualDesc="$map:03000006$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000006$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200176" desc="" complete="" manualDesc="$map:03000007$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000007$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200177" desc="" complete="" manualDesc="$map:03000039$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000039$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200178" desc="" complete="" manualDesc="$map:03000045$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000045$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200179" desc="" complete="" manualDesc="$map:03000056$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000056$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200180" desc="" complete="" manualDesc="$map:03000089$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000089$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200181" desc="" complete="" manualDesc="$map:03000101$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000101$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200182" desc="" complete="" manualDesc="$map:03000005$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000005$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200183" desc="" complete="" manualDesc="$map:03000044$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000044$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200184" desc="" complete="" manualDesc="$map:02000075$ 발견하기" manualComplete="$map:02000075$ 발견!" />
+	<achieve id="22200185" desc="쉐도우 월드 맵 {0}개 탐험하기" complete="지금까지 쉐도우 월드 맵 {0}개 탐험" manualDesc="" manualComplete="" />
+	<achieve id="22200186" desc='(던전) &quot;$dungeonTitle:02000290$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02000290$&quot; {0}번 완료' manualDesc="" manualComplete="" />
+	<achieve id="22200187" desc="$map:02000290$에서 가시덤불을 제거하고 보로보로 난쟁이 {0}명 구출하기" complete="지금까지 $map:02000290$에서 가시덤불을 제거하고 보로보로 난쟁이 {0}명 구출" manualDesc="" manualComplete="" />
+	<achieve id="22200188" desc="$map:02000066$에서 차원문 {0}번 수리하기" complete="지금까지 $map:02000066$에서 차원문 {0}번 수리" manualDesc="" manualComplete="" />
+	<achieve id="22200189" desc="$map:02000066$에서 부상병 {0}명 치료하기" complete="지금까지 $map:02000066$에서 부상병 {0}명 치료" manualDesc="" manualComplete="" />
+	<achieve id="22200190" desc="" complete="" manualDesc="$map:02000066$에서 $npc:22090011$ 처치하기" manualComplete="$map:02000066$에서 $npc:22090011$ 처치" />
+	<achieve id="22200191" desc="$map:02000253$에서 $npc:24000304$ {0}번 처치하기" complete="지금까지 $map:02000253$에서 $npc:24000304$ {0}번 처치하기" manualDesc="" manualComplete="" />
+	<achieve id="22200192" desc='(던전) &quot;$dungeonTitle:02000252$&quot;에서 문 열기나 잔해 치우기 {0}번 하기' complete='(던전) &quot;$dungeonTitle:02000252$&quot;에서 문 열기나 잔해 치우기 {0}번 하기' manualDesc="" manualComplete="" />
+	<achieve id="22200193" desc="" complete="" manualDesc="$map:02000254$에서 $npc:11000861$ 기절시키기" manualComplete="$map:02000254$에서 $npc:11000861$ 기절시키기" />
+	<achieve id="22200194" desc="(던전) $map:052000002$에서 $npc:24000702$ {0}마리 처치하기" complete="(던전) $map:052000002$에서 $npc:24000702$ {0}마리 처치" manualDesc="" manualComplete="">
+		<reward grade="1" uiDesc="알퐁달퐁 인테리어 상인에게서 건설 큐브 구매 권한 획득" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="알퐁달퐁 인테리어 상인에게서 건설 큐브 구매 권한 획득" />
+		<reward grade="2" uiDesc="알퐁달퐁 인테리어 상인에게서 가구 구매 권한 획득" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="알퐁달퐁 인테리어 상인에게서 가구 구매 권한 획득" />
+		<reward grade="3" uiDesc="$item:11300036$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:11300036$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="22200195" desc="(던전) $map:052000002$에서 풀숲에 숨은 양 {0}마리 돌려보내기" complete="(던전) $map:052000002$에서 풀숲에 숨은 양 {0}마리 돌려보냄" manualDesc="" manualComplete="" />
+	<achieve id="22200196" desc="" complete="" manualDesc="$map:02000018$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000018$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200197" desc="" complete="" manualDesc="$map:02000133$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000133$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200198" desc="" complete="" manualDesc="$map:02000236$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000236$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200199" desc="" complete="" manualDesc="$map:02000175$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000175$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200200" desc="" complete="" manualDesc="$map:02000256$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000256$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200201" desc="" complete="" manualDesc="$map:02000176$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000176$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200202" desc="" complete="" manualDesc="$map:02000097$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000097$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200203" desc="" complete="" manualDesc="$map:02000231$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000231$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200204" desc="" complete="" manualDesc="$map:02000257$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000257$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200205" desc="" complete="" manualDesc="$map:02000260$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000260$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200206" desc="" complete="" manualDesc="$map:02000265$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000265$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200207" desc="" complete="" manualDesc="$map:02000273$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000273$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200208" desc="" complete="" manualDesc="$map:02000279$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000279$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200209" desc="" complete="" manualDesc="$map:03000165$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000165$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200210" desc="" complete="" manualDesc="$map:03000024$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000024$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200211" desc="" complete="" manualDesc="$map:03000009$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000009$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200212" desc="" complete="" manualDesc="$map:03000004$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000004$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200213" desc="" complete="" manualDesc="$map:03000087$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000087$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200214" desc="" complete="" manualDesc="$map:02000093$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000093$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200215" desc="" complete="" manualDesc="$map:02000277$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000277$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200216" desc="" complete="" manualDesc="$map:03000117$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000117$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200217" desc="" complete="" manualDesc="$map:03000115$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000115$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200218" desc="" complete="" manualDesc="$map:03000118$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000118$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200219" desc="" complete="" manualDesc="$map:03000062$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000062$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200220" desc="" complete="" manualDesc="$map:03000002$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000002$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200221" desc="" complete="" manualDesc="$map:03000013$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000013$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200222" desc="" complete="" manualDesc="$map:03000015$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000015$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200223" desc="" complete="" manualDesc="$map:03000036$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000036$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200224" desc="" complete="" manualDesc="$map:02000308$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000308$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200225" desc="" complete="" manualDesc="$map:03000021$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000021$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200226" desc="" complete="" manualDesc="$map:03000114$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000114$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200227" desc="" complete="" manualDesc="$map:03000147$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000147$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200228" desc="" complete="" manualDesc="$map:03000088$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000088$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200229" desc="" complete="" manualDesc="$map:03000091$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000091$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200230" desc="" complete="" manualDesc="$map:03000185$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000185$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200231" desc="" complete="" manualDesc="$map:02000258$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000258$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200232" desc="" complete="" manualDesc="$map:02000255$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000255$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200233" desc="" complete="" manualDesc="$map:02000266$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000266$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200234" desc="" complete="" manualDesc="$map:02000275$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000275$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200235" desc="" complete="" manualDesc="$map:02000269$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000269$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200236" desc="" complete="" manualDesc="$map:02000094$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000094$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200237" desc="" complete="" manualDesc="$map:02000044$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000044$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200238" desc="" complete="" manualDesc="$map:02000259$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000259$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200239" desc="" complete="" manualDesc="$map:02000274$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000274$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200240" desc="" complete="" manualDesc="$map:02000276$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000276$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200241" desc="" complete="" manualDesc="$map:02000264$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000264$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200242" desc="$map:02000309$에서 타임 알파 {0}번 정상화시키기" complete="지금까지 $map:02000309$에서 타임 알파 {0}번 정상화" manualDesc="" manualComplete="" />
+	<achieve id="22200243" desc="$map:02000309$에서 타임 베타 {0}번 정상화시키기" complete="지금까지 $map:02000309$에서 타임 베타 {0}번 정상화" manualDesc="" manualComplete="" />
+	<achieve id="22200244" desc="$map:02000309$에서 타임 델타 {0}번 정상화시키기" complete="지금까지 $map:02000309$에서 타임 델타 {0}번 정상화" manualDesc="" manualComplete="" />
+	<achieve id="22200245" desc='(던전) &quot;$dungeonTitle:02000298$&quot;의 시간 여행지에 {0}번 방문하기' complete='(던전) &quot;$dungeonTitle:02000298$&quot;의 시간 여행지에 {0}번 방문' manualDesc="" manualComplete="" />
+	<achieve id="22200246" desc='(던전) &quot;$dungeonTitle:02000298$&quot;에서 $npcName:11000146$의 타임머신 {0}번 수리하기' complete='(던전) &quot;$dungeonTitle:02000298$&quot;에서 $npcName:11000146$의 타임머신 {0}번 수리' manualDesc="" manualComplete="" />
+	<achieve id="22200247" desc="(던전) $map:02000292$에 있는 노예 {0}명 구출하기" complete="(던전) $map:02000292$에 있는 노예 {0}명 구출!" manualDesc="" manualComplete="" />
+	<achieve id="22200248" desc='(던전) &quot;$dungeonTitle:02000292$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02000292$&quot; {0}번 완료' manualDesc="" manualComplete="" />
+	<achieve id="22200249" desc="(던전) $map:02000293$의 유리문 {0}번 열기" complete="(던전) $map:02000293$의 유리문 열기 {0}번 완료" manualDesc="" manualComplete="" />
+	<achieve id="22200250" desc="(던전) $map:02000296$의 영혼구슬 {0}번 파괴하기" complete="(던전) $map:02000296$의 영혼구슬 {0}번 파괴!" manualDesc="" manualComplete="" />
+	<achieve id="22200251" desc="" complete="" manualDesc="$map:02000261$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000261$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200252" desc="" complete="" manualDesc="$map:02000040$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000040$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200253" desc="" complete="" manualDesc="$map:02000011$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000011$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200254" desc="" complete="" manualDesc="$map:02000061$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000061$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200255" desc="" complete="" manualDesc="$map:02000280$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:02000280$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200256" desc="" complete="" manualDesc="$map:03000046$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000046$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200257" desc="" complete="" manualDesc="$map:03000038$ 이곳저곳에 있는 황금 보물 상자 모두 열어 보기" manualComplete="$map:03000038$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200258" desc="" complete="" manualDesc="$map:02000129$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:02000129$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200259" desc="" complete="" manualDesc="$map:03000010$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000010$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200260" desc="" complete="" manualDesc="$map:03000023$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000023$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200261" desc="" complete="" manualDesc="$map:03000042$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000042$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200262" desc="" complete="" manualDesc="$map:03000048$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000048$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200263" desc="" complete="" manualDesc="$map:03000050$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000050$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200264" desc="" complete="" manualDesc="$map:03000053$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000053$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200265" desc="" complete="" manualDesc="$map:03000060$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000060$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200266" desc="" complete="" manualDesc="$map:03000063$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000063$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200267" desc="" complete="" manualDesc="$map:03000067$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000067$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200268" desc="" complete="" manualDesc="$map:03000090$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000090$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200269" desc="" complete="" manualDesc="$map:03000102$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000102$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200270" desc="" complete="" manualDesc="$map:03000103$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000103$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200271" desc="" complete="" manualDesc="$map:03000108$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000108$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200272" desc="" complete="" manualDesc="$map:03000112$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000112$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200273" desc="" complete="" manualDesc="$map:03000113$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000113$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200274" desc="" complete="" manualDesc="$map:03000129$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000129$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200275" desc="" complete="" manualDesc="$map:03000131$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000131$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200276" desc="" complete="" manualDesc="$map:03000132$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000132$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200277" desc="" complete="" manualDesc="$map:03000148$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000148$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200278" desc="" complete="" manualDesc="$map:03000162$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000162$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200279" desc="" complete="" manualDesc="$map:03000163$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000163$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200280" desc="" complete="" manualDesc="$map:03000167$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000167$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200281" desc="" complete="" manualDesc="$map:03000172$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000172$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200282" desc="" complete="" manualDesc="$map:03000180$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000180$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200283" desc="" complete="" manualDesc="$map:03000181$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000181$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200284" desc="" complete="" manualDesc="$map:03000182$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000182$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200285" desc="" complete="" manualDesc="$map:03000183$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000183$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200286" desc="" complete="" manualDesc="$map:03000187$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000187$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200287" desc="" complete="" manualDesc="$map:03000214$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000214$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200288" desc="" complete="" manualDesc="$map:03000265$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000265$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200289" desc="" complete="" manualDesc="$map:03000267$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000267$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200290" desc="" complete="" manualDesc="$map:03000269$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000269$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200291" desc="" complete="" manualDesc="$map:03000270$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000270$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200292" desc="" complete="" manualDesc="$map:03000271$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000271$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200293" desc="" complete="" manualDesc="$map:03000272$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000272$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200294" desc="" complete="" manualDesc="$map:03000273$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000273$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200295" desc="" complete="" manualDesc="$map:03000274$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000274$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200296" desc="" complete="" manualDesc="$map:03000275$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000275$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200297" desc="" complete="" manualDesc="$map:03000276$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000276$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200298" desc="" complete="" manualDesc="$map:03000277$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000277$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200299" desc="" complete="" manualDesc="$map:03000278$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000278$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200300" desc="" complete="" manualDesc="$map:03000279$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:03000279$에 있는 황금 보물 상자 모두 열어 봄!" />
+	<achieve id="22200301" desc='(던전) &quot;$dungeonTitle:02000328$&quot;에서 $npc:24001101$$pp:와,과$ $npc:24001102$ {0}번 처치하기' complete='(던전) &quot;$dungeonTitle:02000328$&quot;에서 $npc:24001101$$pp:와,과$ $npc:24001102$ {0}번 처치!' manualDesc="" manualComplete="" />
+	<achieve id="22200302" desc='(던전) &quot;$dungeonTitle:02000328$&quot; {0}번 정화시키기' complete='(던전) &quot;$dungeonTitle:02000328$&quot; 정화시키기 {0}번 완료' manualDesc="" manualComplete="" />
+	<achieve id="22200303" desc='(던전) &quot;$dungeonTitle:02000325$&quot;에서 괴수의 환령 {0}번 처치하기' complete='(던전) &quot;$dungeonTitle:02000325$&quot;에서 괴수의 환령 {0}번 처치!' manualDesc="" manualComplete="" />
+	<achieve id="22200304" desc='(던전) &quot;$dungeonTitle:02000325$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02000325$&quot; {0}번 완료' manualDesc="" manualComplete="" />
+	<achieve id="22200305" desc='(던전) &quot;$dungeonTitle:02000334$&quot;에서 폭탄 {0}번 던지기' complete='(던전) &quot;$dungeonTitle:02000334$&quot;에서 폭탄 {0}번 던지기 완료' manualDesc="" manualComplete="" />
+	<achieve id="22200306" desc='(던전) &quot;$dungeonTitle:02000334$&quot;에서 미사일 {0}번 발사하기' complete='(던전) &quot;$dungeonTitle:02000334$&quot;에서 미사일 {0}번 발사하기 완료' manualDesc="" manualComplete="" />
+	<achieve id="22200307" desc='(던전) &quot;$dungeonTitle:02000334$&quot;에서 $npc:24001205$ {0}번 처치하기' complete='(던전) &quot;$dungeonTitle:02000334$&quot;에서 $npc:24001205$ {0}번 처치!' manualDesc="" manualComplete="" />
+	<achieve id="22200308" desc='(던전) &quot;$dungeonTitle:02000331$&quot;에서 아이들 모두 지키기 {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02000331$&quot;에서 아이들 모두 지키기 {0}번 완료!' manualDesc="" manualComplete="" />
+	<achieve id="22200309" desc='(던전) &quot;$dungeonTitle:02000331$&quot;에서 $npc:24001406$ {0}번 처치하기' complete='(던전) &quot;$dungeonTitle:02000331$&quot;에서 $npc:24001406$ {0}번 처치!' manualDesc="" manualComplete="" />
+	<achieve id="22200310" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 1라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 1라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200311" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 2라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 2라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200312" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 3라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 3라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200313" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 4라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 4라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200314" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 5라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 5라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200315" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 6라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 6라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200316" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 7라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 7라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200317" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 8라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 8라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200318" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 9라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 9라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200319" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 10라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 10라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200320" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 11라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 11라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200321" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 12라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 12라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200322" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 13라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 13라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200323" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 14라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 14라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200324" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 15라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 15라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200325" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 16라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 16라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200326" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 17라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 17라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200327" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 18라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 18라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200328" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 19라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 19라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200329" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 20라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 20라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200330" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 21라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 21라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200331" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 22라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 22라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200332" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 23라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 23라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200333" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 24라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 24라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200334" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 25라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 25라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200335" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 26라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 26라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200336" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 27라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 27라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200337" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 28라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 28라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200338" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 29라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 29라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200339" desc='(던전) &quot;$dungeonTitle:02000350$&quot;에서 30라운드 {0}번 통과하기' complete='(던전) &quot;$dungeonTitle:02000350$&quot;에서 30라운드 {0}번 통과!' manualDesc="" manualComplete="" />
+	<achieve id="22200341" desc='(던전) &quot;$dungeonTitle:02000349$&quot;에서 붙잡힌 요정 {0}번 구출하기' complete='(던전) &quot;$dungeonTitle:02000349$&quot;에서 붙잡힌 요정 {0}번 구출!' manualDesc="" manualComplete="" />
+	<achieve id="22200342" desc="몬스터가 전파한 하비독에 {0}번 중독되기" complete="몬스터가 전파한 하비독에 중독되기 {0}번 완료" manualDesc="" manualComplete="" />
+	<achieve id="22200343" desc="하비독에 중독된 상태에서 몬스터 {0}번 처치하기" complete="하비독에 중독된 상태에서 몬스터 {0}번 처치" manualDesc="" manualComplete="" />
+	<achieve id="22300001" desc="퀘스트 {0}개 완료" complete="지금까지 퀘스트 {0}개 완료" manualDesc="" manualComplete="" />
+	<achieve id="22300002" desc="" complete="" manualDesc="$map:02000146$의 $npc:11000076$$pp:를,을$ 만나 &apos;어둠의 실체&apos; 퀘스트 완료하기" manualComplete="$map:02000146$의 $npc:11000076$$pp:를,을$ 만나 &apos;어둠의 실체&apos; 퀘스트 완료!">
+		<reward grade="1" uiDesc="" notifyIcon="" notifyString="" />
+	</achieve>
+	<achieve id="22300003" desc="" complete="" manualDesc="$map:02000161$의 $npc:11000871$$pp:를,을$ 만나 &apos;혼돈의 시간&apos; 퀘스트 완료하기" manualComplete="$map:02000161$의 $npc:11000871$$pp:를,을$ 만나 &apos;혼돈의 시간&apos; 퀘스트 완료!">
+		<reward grade="1" uiDesc='&quot;$dungeonTitle:02000194$&quot; 던전 입장 권한' notifyIcon="./Data/Resource/Image/ETC/field_enterance.png" notifyString='&quot;$dungeonTitle:02000194$&quot; 던전 입장 권한' />
+	</achieve>
+	<achieve id="22300004" desc="" complete="" manualDesc="$map:02000067$의 $npc:11000104$$pp:를,을$ 만나 &apos;산티아고가 겪은 일&apos; 퀘스트 완료하기" manualComplete="$map:02000067$의 $npc:11000104$$pp:를,을$ 만나 &apos;산티아고가 겪은 일&apos; 퀘스트 완료!">
+		<reward grade="1" uiDesc='&quot;$dungeonTitle:02000204$&quot; 던전 입장 권한' notifyIcon="./Data/Resource/Image/ETC/field_enterance.png" notifyString='&quot;$dungeonTitle:02000204$&quot; 던전 입장 권한' />
+	</achieve>
+	<achieve id="22300005" desc="$map:02000059$에서 $item:20000044$ {0}개 따기" complete="지금까지 $map:02000059$에서 $item:20000044$ {0}개 획득" manualDesc="" manualComplete="" />
+	<achieve id="22300006" desc="$map:02000047$에서 $item:30000088$ {0}개 걸기" complete="$map:02000047$에서 $item:30000088$ {0}개 걸기" manualDesc="" manualComplete="" />
+	<achieve id="22300007" desc="$map:02000089$에서 토르하라의 꽃 {0}송이 되살리기" complete="$map:02000089$에서 토르하라의 꽃 {0}송이 되살리기" manualDesc="" manualComplete="" />
+	<achieve id="22300008" desc="$map:02000022$에서 개구리 {0}마리 풀어주기" complete="지금까지 $map:02000022$에서 개구리 {0}마리 구출" manualDesc="" manualComplete="" />
+	<achieve id="22300009" desc="$map:80000006$에서 보물상자 {0}개 열기" complete="지금까지 $map:80000006$에서 열어본 보물상자 {0}개" manualDesc="" manualComplete="" />
+	<achieve id="22300010" desc="$map:02000014$에서 운석 조각 {0}개 들어내기" complete="$map:02000014$에서 운석 조각 {0}개 들어내기" manualDesc="" manualComplete="" />
+	<achieve id="22300012" desc="$map:02000084$에서 $item:30000120$$pp:를,을$ 모아 용광로 {0}번 가열하기" complete="지금까지 $map:02000084$에서 용광로 {0}번 가열" manualDesc="" manualComplete="" />
+	<achieve id="22300013" desc="$map:02000213$에서 그림자 불꽃 {0}번 잠재우기" complete="지금까지 $map:02000213$에서 그림자 불꽃 {0}번 잠재움" manualDesc="" manualComplete="" />
+	<achieve id="22300014" desc="$map:02000046$에서 아기 키요 {0}마리 구출하기" complete="지금까지 $map:02000046$에서 아기 키요 {0}마리 구출" manualDesc="" manualComplete="" />
+	<achieve id="22300015" desc="$map:02000148$에서 파이프 {0}개 보수하기" complete="지금까지 $map:02000148$에서 파이프 {0}개 보수" manualDesc="" manualComplete="" />
+	<achieve id="22300016" desc="$map:02000138$에서 금괴가 들어있는 수상한 가방 {0}개 발견하기" complete="지금까지 $map:02000138$에서 금괴가 들어있는 수상한 가방 {0}개 발견!" manualDesc="" manualComplete="" />
+	<achieve id="22300017" desc='(던전) &quot;$dungeonTitle:02000281$&quot;에서 중독 치료 {0}번 하기' complete='(던전) &quot;$dungeonTitle:02000281$&quot;에서 중독 치료 {0}번 완료' manualDesc="" manualComplete="" />
+	<achieve id="22300018" desc="$map:02000054$에서 기절한 자경단원 {0}명 깨우기" complete="$map:02000054$에서 기절한 자경단원 {0}명 깨우기" manualDesc="" manualComplete="" />
+	<achieve id="22300019" desc="$map:02000111$에서 $item:20000056$ {0}개 획득하기" complete="지금까지 $map:02000111$에서 $item:20000056$ {0}개 획득" manualDesc="" manualComplete="" />
+	<achieve id="22300020" desc="" complete="" manualDesc="에픽 퀘스트 &apos;떠나는 사람들&apos; 완료하기" manualComplete="에픽 퀘스트 &apos;떠나는 사람들&apos; 완료" />
+	<achieve id="22300021" desc="" complete="" manualDesc="에픽 퀘스트 &apos;막혀버린 길&apos; 완료하기" manualComplete="에픽 퀘스트 &apos;막혀버린 길&apos; 완료" />
+	<achieve id="22300022" desc="" complete="" manualDesc="에픽 퀘스트 &apos;스파이를 찾아라&apos; 완료하기" manualComplete="에픽 퀘스트 &apos;스파이를 찾아라&apos; 완료" />
+	<achieve id="22300023" desc="" complete="" manualDesc="에픽 퀘스트 &apos;푸른 희망의 빛&apos; 완료하기" manualComplete="에픽 퀘스트 &apos;푸른 희망의 빛&apos; 완료" />
+	<achieve id="22300024" desc="" complete="" manualDesc='&quot;벽 타는 자들&quot; 스토리 중, &quot;가입조건 3&quot; 퀘스트 완료하기' manualComplete='&quot;벽 타는 자들&quot; 스토리 중, &quot;가입조건 3&quot; 퀘스트 완료' />
+	<achieve id="22300025" desc="" complete="" manualDesc='&quot;새로운 길&quot; 퀘스트 완료하기' manualComplete='&quot;새로운 길&quot; 퀘스트 완료' />
+	<achieve id="22300026" desc="" complete="" manualDesc='&quot;영웅의 무게&quot; 퀘스트 완료하기' manualComplete='&quot;영웅의 무게&quot; 퀘스트 완료' />
+	<achieve id="22300027" desc="" complete="" manualDesc='&quot;영웅의 길: 도약&quot; 스토리 중 &quot;잃어버린 시간&quot; 퀘스트 완료하기' manualComplete='&quot;영웅의 길: 도약&quot; 스토리 중 &quot;잃어버린 시간&quot; 퀘스트 완료' />
+	<achieve id="22300028" desc="" complete="" manualDesc="$map:02000187$의 $npc:11001032$$pp:를,을$ 만나 &apos;박사의 밀실&apos; 퀘스트 완료하기" manualComplete="$map:02000187$의 $npc:11001032$$pp:를,을$ 만나 &apos;박사의 밀실&apos; 퀘스트 완료!">
+		<reward grade="1" uiDesc='&quot;$dungeonTitle:02000232$&quot; 던전 입장 권한' notifyIcon="./Data/Resource/Image/ETC/field_enterance.png" notifyString='&quot;$dungeonTitle:02000232$&quot; 던전 입장 권한' />
+	</achieve>
+	<achieve id="22300029" desc="" complete="" manualDesc="$map:02000049$의 $npc:11000039$$pp:를,을$ 만나 &apos;바야르를 찾아서&apos; 퀘스트 완료하기" manualComplete="$map:02000049$의 $npc:11000039$$pp:를,을$ 만나 &apos;바야르를 찾아서&apos; 퀘스트 완료!">
+		<reward grade="1" uiDesc='&quot;$dungeonTitle:02000191$&quot; 던전 입장 권한' notifyIcon="./Data/Resource/Image/ETC/field_enterance.png" notifyString='&quot;$dungeonTitle:02000191$&quot; 던전 입장 권한' />
+	</achieve>
+	<achieve id="22300030" desc="" complete="" manualDesc="$map:02000200$의 $npc:11000345$$pp:를,을$ 찾아 &apos;되살아난 영웅의 힘&apos; 퀘스트 완료하기" manualComplete="$map:02000200$의 $npc:11000345$$pp:를,을$ 찾아 &apos;되살아난 영웅의 힘&apos; 퀘스트 완료!">
+		<reward grade="1" uiDesc='&quot;$dungeonTitle:02000037$&quot; 던전 입장 권한' notifyIcon="./Data/Resource/Image/ETC/field_enterance.png" notifyString='&quot;$dungeonTitle:02000037$&quot; 던전 입장 권한' />
+	</achieve>
+	<achieve id="22300031" desc="" complete="" manualDesc='&quot;탐험가의 호기심&quot; 퀘스트 완료하기' manualComplete='&quot;탐험가의 호기심&quot; 퀘스트 완료'>
+		<reward grade="1" uiDesc="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
+	</achieve>
+	<achieve id="22300032" desc="" complete="" manualDesc='&quot;모험가의 호기심&quot; 퀘스트 완료하기' manualComplete='&quot;모험가의 호기심&quot; 퀘스트 완료'>
+		<reward grade="1" uiDesc="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
+	</achieve>
+	<achieve id="22300033" desc="" complete="" manualDesc='&quot;수련을 쌓는 이유&quot; 퀘스트 완료하기' manualComplete='&quot;수련을 쌓는 이유&quot; 퀘스트 완료'>
+		<reward grade="1" uiDesc="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
+	</achieve>
+	<achieve id="22300034" desc="" complete="" manualDesc='&quot;움찔하는 무도인&quot; 퀘스트 완료하기' manualComplete='&quot;움찔하는 무도인&quot; 퀘스트 완료'>
+		<reward grade="1" uiDesc="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
+	</achieve>
+	<achieve id="22300035" desc="" complete="" manualDesc='&quot;그까짓 거 일도 아니지?&quot; 퀘스트 완료하기' manualComplete='&quot;그까짓 거 일도 아니지?&quot; 퀘스트 완료'>
+		<reward grade="1" uiDesc="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
+	</achieve>
+	<achieve id="22300036" desc="" complete="" manualDesc="에픽 퀘스트 &apos;염원을 이루다&apos; 완료하기" manualComplete="에픽 퀘스트 &apos;염원을 이루다&apos; 완료" />
+	<achieve id="22300037" desc="일일퀘스트 {0}개 완료" complete="지금까지 일일퀘스트 {0}개 완료" manualDesc="" manualComplete="" />
+	<achieve id="22300038" desc="$npc:23090005$$pp:를,을$ 처치하고 $item:30000419$ {0}개 획득하기" complete="지금까지 $item:30000419$ {0}개 획득" manualDesc="" manualComplete="">
+		<reward grade="1" uiDesc='&quot;발록의 혈액&quot; 퀘스트 수락' notifyIcon="./Data/Resource/Image/ETC/quest_accept.png" notifyString='&quot;발록의 혈액&quot; 퀘스트 수락' />
+	</achieve>
+	<achieve id="22300039" desc="" complete="" manualDesc='메이플 TV 교양국 퀘스트 &quot;마감전야&quot; 완료하기' manualComplete='메이플 TV 교양국 퀘스트 &quot;마감전야&quot; 완료' />
+	<achieve id="22300040" desc="" complete="" manualDesc='메이플 TV 교양국 퀘스트 &quot;던전 : 근거 없는 자신감의 말로&quot; 완료하기' manualComplete='메이플 TV 교양국 퀘스트 &quot;던전 : 근거 없는 자신감의 말로&quot; 완료' />
+	<achieve id="22300041" desc="" complete="" manualDesc='메이플 TV 교양국 퀘스트 &quot;던전 : 예비 신랑의 꿈&quot; 완료하기' manualComplete='메이플 TV 교양국 퀘스트 &quot;던전 : 예비 신랑의 꿈&quot; 완료' />
+	<achieve id="22300042" desc="" complete="" manualDesc='메이플 TV 교양국 퀘스트 &quot;던전 : 복잡한 세상, 편하게 삽시다&quot; 완료하기' manualComplete='메이플 TV 교양국 퀘스트 &quot;던전 : 복잡한 세상, 편하게 삽시다&quot; 완료' />
+	<achieve id="22300043" desc="" complete="" manualDesc='메이플 TV 교양국 퀘스트 &quot;던전 : 우울한 막내 작가&quot; 완료하기' manualComplete='메이플 TV 교양국 퀘스트 &quot;던전 : 우울한 막내 작가&quot; 완료' />
+	<achieve id="22300044" desc="" complete="" manualDesc='메이플 TV 교양국 퀘스트 &quot;던전 : 동기를 위하여&quot; 완료하기' manualComplete='메이플 TV 교양국 퀘스트 &quot;던전 : 동기를 위하여&quot; 완료' />
+	<achieve id="22300045" desc="" complete="" manualDesc="메이플 TV 교양국 퀘스트 트로피 모두 수집하기" manualComplete="메이플 TV 교양국 퀘스트 트로피 모두 수집" />
+	<achieve id="22400001" desc="누적 경험치 {0} 획득하기" complete="지금까지 누적 경험치 {0} 획득" manualDesc="" manualComplete="" />
+	<achieve id="22400002" desc="50레벨 달성 후, 경험치 {0} 획득하기" complete="50레벨 달성 후, 경험치 {0} 획득" manualDesc="" manualComplete="" />
+	<achieve id="23100001" desc="누적 플레이 {0}" complete="지금까지 누적 플레이 {0}" manualDesc="" manualComplete="" />
+	<achieve id="23100002" desc="약초나 포션 {0}개 마시고 HP 회복하기" complete="지금까지 약초나 포션, 또는 엘릭서 {0}개 마시고 HP 회복" manualDesc="" manualComplete="">
+		<reward grade="6" uiDesc="$item:11900063$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:11900063$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="23100003" desc="엘릭서 {0}개 마시고 HP 회복하기" complete="지금까지 엘릭서 {0}개 마시고 HP 회복" manualDesc="" manualComplete="" />
+	<achieve id="23100005" desc="부서지는 물건 {0}개 부수기" complete="지금까지 부서지는 물건 {0}개 부수기" manualDesc="" manualComplete="" />
+	<achieve id="23100006" desc="아이템 {0}개 주워서 획득하기" complete="지금까지 몬스터로부터 아이템 {0}개 주워서 획득" manualDesc="" manualComplete="" />
+	<achieve id="23100007" desc="맵 곳곳의 조사 가능한 물건들 {0}개 조사하기" complete="지금까지 맵 곳곳의 조사 가능한 물건들 {0}개 조사" manualDesc="" manualComplete="">
+		<reward grade="6" uiDesc="$item:11900064$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:11900064$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="23100008" desc="비석에서 {0}회 부활하기" complete="지금까지 비석에서 {0}회 부활" manualDesc="" manualComplete="" />
+	<achieve id="23100009" desc="다른 캐릭터의 비석을 {0}회 때려 부활 도와주기" complete="지금까지 다른 캐릭터의 비석을 {0}회 때려 부활을 도와줌" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:11900062$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:11900062$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="23100010" desc="{0} 동안 몬스터 붙잡기" complete="지금까지 몬스터를 붙잡은 시간 {0}" manualDesc="" manualComplete="" />
+	<achieve id="23100011" desc="" complete="" manualDesc="길드에 가입하기" manualComplete="길드에 가입" />
+	<achieve id="23100012" desc="{0}번 추락사" complete="지금까지 {0}번 추락사" manualDesc="" manualComplete="" />
+	<achieve id="23100013" desc="9m 이상의 높이에서 추락 후 {0}번 살아남기" complete="지금까지 9m 이상의 높이에서 추락 후 {0}번 생존" manualDesc="" manualComplete="" />
+	<achieve id="23100014" desc="프로필 이미지 {0}번 변경하기" complete="지금까지 프로필 이미지 {0}번 변경" manualDesc="" manualComplete="" />
+	<achieve id="23100015" desc="$map:61000001$에서 &apos;안녕&apos; 또는 &apos;정중한 인사&apos; {0}번 하기" complete="$map:61000001$에서 &apos;안녕&apos; 또는 &apos;정중한 인사&apos; {0}번 하기" manualDesc="" manualComplete="" />
+	<achieve id="23100016" desc="{0} 동안 &apos;앉기&apos; 또는 &apos;의자앉기&apos; 모션 취하며 휴식하기" complete="지금까지 {0} 동안 &apos;앉기&apos; 또는 &apos;의자앉기&apos; 모션 취하며 휴식" manualDesc="" manualComplete="" />
+	<achieve id="23100017" desc="마을에 있는 의사를 만나 상처 입은 영혼 {0}번 치료하기" complete="지금까지 마을에 있는 의사를 만나 상처 입은 영혼 {0}번 치료" manualDesc="" manualComplete="" />
+	<achieve id="23100019" desc="" complete="" manualDesc="$map:02000001$에서 10시간 머무르기" manualComplete="$map:02000001$에서 10시간 머무르기" />
+	<achieve id="23100020" desc="" complete="" manualDesc="$map:02000203$에서 10시간 머무르기" manualComplete="$map:02000203$에서 10시간 머무르기" />
+	<achieve id="23100021" desc="" complete="" manualDesc="$map:02000216$에서 10시간 머무르기" manualComplete="$map:02000216$에서 10시간 머무르기" />
+	<achieve id="23100022" desc="필요없는 아이템 {0}개 파괴하기" complete="지금까지 필요없는 아이템 {0}개 파괴" manualDesc="" manualComplete="" />
+	<achieve id="23100023" desc="나무 {0}번 때리기" complete="지금까지 나무 {0}번 타격" manualDesc="" manualComplete="" />
+	<achieve id="23100026" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400002$ 시청하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400002$ 시청 완료" />
+	<achieve id="23100027" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에 있는 $item:50400035$에서 샤워하기" manualComplete="내 집 또는 다른 사람의 집에 있는 $item:50400035$에서 샤워 완료" />
+	<achieve id="23100028" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에 있는 $item:50400036$에서 목욕하기" manualComplete="내 집 또는 다른 사람의 집에 있는 $item:50400036$에서 목욕 완료" />
+	<achieve id="23100029" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에 있는 $item:50400037$에서 안마받기" manualComplete="내 집 또는 다른 사람의 집에 있는 $item:50400037$에서 안마받기 완료" />
+	<achieve id="23100030" desc="$item:20000036$ {0}개 맛보기" complete="지금까지 $item:20000036$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100031" desc="$item:20000037$ {0}개 맛보기" complete="지금까지 $item:20000037$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100032" desc="$item:20000038$ {0}개 맛보기" complete="지금까지 $item:20000038$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100033" desc="$item:20000039$ {0}개 맛보기" complete="지금까지 $item:20000039$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100034" desc="$item:20000040$ {0}개 맛보기" complete="지금까지 $item:20000040$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100035" desc="$item:20000087$ {0}개 맛보기" complete="지금까지 $item:20000087$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100036" desc="$item:20000088$ {0}개 맛보기" complete="지금까지 $item:20000088$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100037" desc="$item:20000089$ {0}개 맛보기" complete="지금까지 $item:20000089$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100038" desc="$item:20000097$ {0}개 맛보기" complete="지금까지 $item:20000097$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100039" desc="$item:20000098$ {0}개 맛보기" complete="지금까지 $item:20000098$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100040" desc="$item:20000065$ {0}개 맛보기" complete="지금까지 $item:20000065$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100041" desc="$item:20000066$ {0}개 맛보기" complete="지금까지 $item:20000066$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100042" desc="$item:20000067$ {0}개 맛보기" complete="지금까지 $item:20000067$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100043" desc="$item:20000084$ {0}개 맛보기" complete="지금까지 $item:20000084$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100044" desc="$item:20000085$ {0}개 맛보기" complete="지금까지 $item:20000085$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100045" desc="$item:20000086$ {0}개 맛보기" complete="지금까지 $item:20000086$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100046" desc="$item:20000090$ {0}개 맛보기" complete="지금까지 $item:20000090$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100047" desc="$item:20000091$ {0}개 맛보기" complete="지금까지 $item:20000091$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100048" desc="$item:20000092$ {0}개 맛보기" complete="지금까지 $item:20000092$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100049" desc="$item:20000093$ {0}개 맛보기" complete="지금까지 $item:20000093$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100050" desc="$item:20000094$ {0}개 맛보기" complete="지금까지 $item:20000094$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100051" desc="$item:20000095$ {0}개 맛보기" complete="지금까지 $item:20000095$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100052" desc="$item:20000096$ {0}개 맛보기" complete="지금까지 $item:20000096$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100053" desc="$item:20000099$ {0}개 맛보기" complete="지금까지 $item:20000099$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100054" desc="$item:20000100$ {0}개 맛보기" complete="지금까지 $item:20000100$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100055" desc="$item:20000101$ {0}개 맛보기" complete="지금까지 $item:20000101$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100056" desc="" complete="" manualDesc="밤에 먹고 싶은 음식 트로피 모두 수집하기" manualComplete="밤에 먹고 싶은 음식 트로피 모두 수집" />
+	<achieve id="23100057" desc="" complete="" manualDesc="베리류 3종의 트로피 모두 수집하기" manualComplete="베리류 3종의 트로피 모두 수집" />
+	<achieve id="23100058" desc="" complete="" manualDesc="에이드 3종의 트로피 모두 수집하기" manualComplete="에이드 3종의 트로피 모두 수집" />
+	<achieve id="23100059" desc="" complete="" manualDesc="먹으면 행복한 음식 트로피 모두 수집하기" manualComplete="먹으면 행복한 음식 트로피 모두 수집" />
+	<achieve id="23100060" desc="" complete="" manualDesc="구이 요리 트로피 모두 수집하기" manualComplete="구이 요리 트로피 모두 수집" />
+	<achieve id="23100061" desc="$item:20000208$ {0}회 사용하기" complete="지금까지 $item:20000208$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100062" desc="$item:20000209$ {0}회 사용하기" complete="지금까지 $item:20000209$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100063" desc="$item:20000210$ {0}회 불어보기" complete="지금까지 $item:20000210$ {0}회 불어봄" manualDesc="" manualComplete="" />
+	<achieve id="23100064" desc="$item:20000211$ {0}회 마셔보기" complete="지금까지 $item:20000211$ {0}회 마셔봄" manualDesc="" manualComplete="" />
+	<achieve id="23100065" desc="$item:20000212$ {0}회 사용하기" complete="지금까지 $item:20000212$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100066" desc="$item:20000213$ {0}회 사용하기" complete="지금까지 $item:20000213$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100067" desc="$item:20000214$ {0}회 사용하기" complete="지금까지 $item:20000214$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100068" desc="$item:20000215$ {0}회 사용하기" complete="지금까지 $item:20000215$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100069" desc="$item:20000216$ {0}회 사용하기" complete="지금까지 $item:20000216$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100070" desc="$item:20000217$ {0}회 맛보기" complete="지금까지 $item:20000217$ {0}회 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100071" desc="$item:20000218$ {0}회 사용하기" complete="지금까지 $item:20000218$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100072" desc="$item:20000219$ {0}회 사용하기" complete="지금까지 $item:20000219$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100073" desc="$item:20000220$ {0}회 사용하기" complete="지금까지 $item:20000220$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100074" desc="$item:20000221$ {0}회 사용하기" complete="지금까지 $item:20000221$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100075" desc="$item:20000222$ {0}회 마셔보기" complete="지금까지 $item:20000222$ {0}회 마셔봄" manualDesc="" manualComplete="" />
+	<achieve id="23100076" desc="$item:20000223$ {0}회 사용하기" complete="지금까지 $item:20000223$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100077" desc="$item:20000224$ {0}회 들여다보기" complete="지금까지 $item:20000224$ {0}회 들여다봄" manualDesc="" manualComplete="" />
+	<achieve id="23100078" desc="$item:20000225$ {0}회 사용하기" complete="지금까지 $item:20000225$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100079" desc="$item:20000226$ {0}회 사용하기" complete="지금까지 $item:20000226$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100080" desc="$item:20000227$ {0}회 사용하기" complete="지금까지 $item:20000227$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100081" desc="$item:20000228$ {0}회 사용하기" complete="지금까지 $item:20000228$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100082" desc="$item:20000229$ {0}회 사용하기" complete="지금까지 $item:20000229$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100083" desc="$item:20000230$ {0}회 읽어보기" complete="지금까지 $item:20000230$ {0}회 읽음" manualDesc="" manualComplete="" />
+	<achieve id="23100084" desc="$item:20000231$ {0}회 읽어보기" complete="지금까지 $item:20000231$ {0}회 읽음" manualDesc="" manualComplete="" />
+	<achieve id="23100085" desc="$item:20000232$ {0}회 마셔보기" complete="지금까지 $item:20000232$ {0}회 마셔봄" manualDesc="" manualComplete="" />
+	<achieve id="23100086" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에 있는 $item:50400040$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에 있는 $item:50400040$ 이용" />
+	<achieve id="23100087" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에 있는 $item:50400041$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에 있는 $item:50400041$ 이용" />
+	<achieve id="23100088" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에 있는 $item:50400054$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에 있는 $item:50400054$ 이용" />
+	<achieve id="23100089" desc="$item:20000237$ {0}회 사용하기" complete="지금까지 $item:20000237$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100090" desc="$item:20000238$ {0}회 마셔보기" complete="지금까지 $item:20000238$ {0}회 마셔봄" manualDesc="" manualComplete="" />
+	<achieve id="23100091" desc="$item:20000068$ {0}회 사용하기" complete="지금까지 $item:20000068$ {0}회 사용" manualDesc="" manualComplete="" />
+	<achieve id="23100092" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 벽난로에 불을 지피기" manualComplete="내 집 또는 다른 사람의 집에서 벽난로에 불을 지피기 완료" />
+	<achieve id="23100093" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 슬림 TV 시청하기" manualComplete="내 집 또는 다른 사람의 집에서 슬림 TV 시청 완료" />
+	<achieve id="23100094" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 선풍기 바람 쐬기" manualComplete="내 집 또는 다른 사람의 집에서 선풍기 바람 쐬기 완료" />
+	<achieve id="23100095" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400004$ 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400004$ 동작시키기 완료" />
+	<achieve id="23100096" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 스포트라이트 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 스포트라이트 동작시키기 완료" />
+	<achieve id="23100097" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 블라인드 걷기" manualComplete="내 집 또는 다른 사람의 집에서 블라인드 걷기 완료" />
+	<achieve id="23100098" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 세면대 물 틀기" manualComplete="내 집 또는 다른 사람의 집에서 세면대 물 틀기 완료" />
+	<achieve id="23100099" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 가스레인지 켜기" manualComplete="내 집 또는 다른 사람의 집에서 가스레인지 켜기 완료" />
+	<achieve id="23100100" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 싱크대 물 틀기" manualComplete="내 집 또는 다른 사람의 집에서 싱크대 물 틀기 완료" />
+	<achieve id="23100101" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400055$ 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400055$ 동작시키기 완료" />
+	<achieve id="23100102" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 냉장고 문 열어보기" manualComplete="내 집 또는 다른 사람의 집에서 냉장고 문 열어보기 완료" />
+	<achieve id="23100103" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400069$ 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400069$ 동작시키기 완료" />
+	<achieve id="23100104" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400071$에 불 붙이기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400071$에 불 붙이기 완료" />
+	<achieve id="23100105" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 커튼 젖히기" manualComplete="내 집 또는 다른 사람의 집에서 커튼 젖히기 완료" />
+	<achieve id="23100106" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 철문 열기" manualComplete="내 집 또는 다른 사람의 집에서 철문 열기 완료" />
+	<achieve id="23100107" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 현관문 열기" manualComplete="내 집 또는 다른 사람의 집에서 현관문 열기 완료" />
+	<achieve id="23100108" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400090$ 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400090$ 동작시키기 완료" />
+	<achieve id="23100109" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400091$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400091$ 이용" />
+	<achieve id="23100110" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400092$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400092$ 이용" />
+	<achieve id="23100111" desc="$item:20000110$ {0}개 맛보기" complete="지금까지 $item:20000110$ {0}개 맛봄" manualDesc="" manualComplete="" />
+	<achieve id="23100112" desc="트로피 {0}개 획득하기" complete="지금까지 트로피 {0}개 획득" manualDesc="" manualComplete="" />
+	<achieve id="23100113" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400096$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400096$ 이용" />
+	<achieve id="23100114" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400097$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400097$ 이용" />
+	<achieve id="23100115" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400098$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400098$ 이용" />
+	<achieve id="23100116" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400099$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400099$ 이용" />
+	<achieve id="23100117" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400100$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400100$ 이용" />
+	<achieve id="23100118" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400101$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400101$ 이용" />
+	<achieve id="23100119" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400067$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400067$ 이용" />
+	<achieve id="23100120" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400068$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400068$ 이용" />
+	<achieve id="23100121" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400102$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400102$ 이용" />
+	<achieve id="23100122" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400103$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400103$ 이용" />
+	<achieve id="23100123" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400070$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400070$ 이용" />
+	<achieve id="23100124" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400104$ 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400104$ 동작시키기 완료" />
+	<achieve id="23100125" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400105$ 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400105$ 동작시키기 완료" />
+	<achieve id="23100126" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400107$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400107$ 이용" />
+	<achieve id="23100127" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400109$ 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400109$ 동작시키기 완료" />
+	<achieve id="23100128" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400110$ 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400110$ 동작시키기 완료" />
+	<achieve id="23100129" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400111$ 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400111$ 동작시키기 완료" />
+	<achieve id="23100130" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400112$ 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400112$ 동작시키기 완료" />
+	<achieve id="23100131" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400113$ 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400113$ 동작시키기 완료" />
+	<achieve id="23100132" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400114$ 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400114$ 동작시키기 완료" />
+	<achieve id="23100133" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400115$ 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400115$ 동작시키기 완료" />
+	<achieve id="23100134" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400116$ 동작시키기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400116$ 동작시키기 완료" />
+	<achieve id="23200001" desc="{0}메소 주워서 획득하기" complete="지금까지 {0}메소 주워서 획득" manualDesc="" manualComplete="">
+		<reward grade="8" uiDesc="$item:50600033$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600033$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="23200002" desc="택시 요금으로 {0}메소 사용하기" complete="지금까지 택시 요금으로 {0}메소 사용" manualDesc="" manualComplete="" />
+	<achieve id="23200004" desc="상점에서 아이템 구입하는데 {0}메소 사용하기" complete="지금까지 상점에서 아이템 구입하는데 {0}메소 사용" manualDesc="" manualComplete="" />
+	<achieve id="23200006" desc="각종 장비 아이템을 {0}개 분해하기" complete="지금까지 장비 아이템을 {0}개 분해" manualDesc="" manualComplete="" />
+	<achieve id="23200007" desc="각종 장비 아이템을 {0}회 인챈트 시도하기" complete="지금까지 장비 아이템 인챈트  {0}회 시도" manualDesc="" manualComplete="" />
+	<achieve id="23200008" desc="각종 장비 아이템 인챈트 {0}회 성공하기" complete="지금까지 장비 아이템 인챈트 {0}회 성공" manualDesc="" manualComplete="" />
+	<achieve id="23200009" desc="장비 아이템 +{0} 성공하기" complete="장비 아이템 +9 성공하기 {0}회 완료" manualDesc="" manualComplete="" />
+	<achieve id="23200010" desc="장비 아이템 인챈트 {0}회 실패" complete="지금까지 장비 아이템 인챈트 {0}회 실패" manualDesc="" manualComplete="" />
+	<achieve id="23200011" desc="$item:90000006$ {0}개 획득하기" complete="지금까지 $item:90000006$ {0}개 획득" manualDesc="" manualComplete="" />
+	<achieve id="23200012" desc="상점에서 $item:90000006$ {0}개 소비하기" complete="지금까지 상점에서 $item:90000006$ {0}개 소비" manualDesc="" manualComplete="" />
+	<achieve id="23200013" desc="$item:90000007$ {0}개 획득하기" complete="지금까지 $item:90000007$ {0}개 획득" manualDesc="" manualComplete="">
+		<reward grade="5" uiDesc="$item:50600016$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600016$ 구매 권한 획득" />
+		<reward grade="7" uiDesc="$item:50600030$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600030$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="23200014" desc="상점에서 $item:90000007$ {0}개 소비하기" complete="지금까지 상점에서 $item:90000007$ {0}개 소비" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50600021$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600021$ 구매 권한 획득" />
+		<reward grade="4" uiDesc="$item:50600032$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600032$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="23200015" desc="" complete="" manualDesc="한 달 동안 디자이너스샵 누적 수익 10만 메럿 달성하기 (정기 점검 시 달성)" manualComplete="한 달 동안 디자이너스샵 누적 수익 10만 메럿 달성!" />
+	<achieve id="23200016" desc="" complete="" manualDesc="이달의 스타 건축가 되기" manualComplete="이달의 스타 건축가 등극!" />
+	<achieve id="23200017" desc="" complete="" manualDesc="장비 아이템 +10 성공하기" manualComplete="장비 아이템 +10 성공" />
+	<achieve id="23200018" desc="" complete="" manualDesc="장비 아이템 +11 성공하기" manualComplete="장비 아이템 +11 성공" />
+	<achieve id="23200019" desc="" complete="" manualDesc="장비 아이템 +12 성공하기" manualComplete="장비 아이템 +12 성공" />
+	<achieve id="23200020" desc="" complete="" manualDesc="장비 아이템 +13 성공하기" manualComplete="장비 아이템 +13 성공" />
+	<achieve id="23200021" desc="" complete="" manualDesc="장비 아이템 +14 성공하기" manualComplete="장비 아이템 +14 성공" />
+	<achieve id="23200022" desc="" complete="" manualDesc="장비 아이템 +15 성공하기" manualComplete="장비 아이템 +15 성공" />
+	<achieve id="23300002" desc="" complete="" manualDesc="버크류의 탈것 트로피 수집하기" manualComplete="버크류의 탈것 트로피 수집 완료" />
+	<achieve id="23300003" desc="" complete="" manualDesc="최신 유행 잡지 모두 수집하기" manualComplete="최신 유행 잡지 모두 수집" />
+	<achieve id="23300004" desc="" complete="" manualDesc="[책] $item:39000001$ 수집하기" manualComplete="[책] $item:39000001$ 수집" />
+	<achieve id="23300005" desc="" complete="" manualDesc="[책] $item:39000002$ 수집하기" manualComplete="[책] $item:39000002$ 수집" />
+	<achieve id="23300006" desc="" complete="" manualDesc="[책] $item:39000003$ 수집하기" manualComplete="[책] $item:39000003$ 수집" />
+	<achieve id="23300007" desc="" complete="" manualDesc="[책] $item:39000004$ 수집하기" manualComplete="[책] $item:39000004$ 수집" />
+	<achieve id="23300008" desc="" complete="" manualDesc="[책] $item:39000005$ 수집하기" manualComplete="[책] $item:39000005$ 수집" />
+	<achieve id="23300009" desc="" complete="" manualDesc="[책] $item:39000006$ 수집하기" manualComplete="[책] $item:39000006$ 수집" />
+	<achieve id="23300010" desc="" complete="" manualDesc="[책] $item:39000021$ 수집하기" manualComplete="[책] $item:39000021$ 수집" />
+	<achieve id="23300011" desc="" complete="" manualDesc="[책] $item:39000008$ 수집하기" manualComplete="[책] $item:39000008$ 수집" />
+	<achieve id="23300012" desc="" complete="" manualDesc="[책] $item:39000009$ 수집하기" manualComplete="[책] $item:39000009$ 수집" />
+	<achieve id="23300013" desc="" complete="" manualDesc="[책] $item:39000010$ 수집하기" manualComplete="[책] $item:39000010$ 수집" />
+	<achieve id="23300014" desc="" complete="" manualDesc="[책] $item:39000011$ 수집하기" manualComplete="[책] $item:39000011$ 수집" />
+	<achieve id="23300015" desc="" complete="" manualDesc="[책] $item:39000012$ 수집하기" manualComplete="[책] $item:39000012$ 수집" />
+	<achieve id="23300016" desc="" complete="" manualDesc="[책] $item:39000013$ 수집하기" manualComplete="[책] $item:39000013$ 수집" />
+	<achieve id="23300017" desc="$map:02000124$ 쓰레기통을 뒤져 죄수복 {0}개 구하기" complete="$map:02000124$ 쓰레기통을 뒤져 죄수복 {0}개 획득" manualDesc="" manualComplete="" />
+	<achieve id="23300018" desc="" complete="" manualDesc="$map:02000051$의 탈것 상인이 판매하는 탈것 관련 트로피 수집하기" manualComplete="$map:02000051$의 탈것 상인이 판매하는 탈것 관련 트로피 수집 완료" />
+	<achieve id="23300019" desc="" complete="" manualDesc="$map:02000001$의 탈것 상인이 판매하는 상급 탈것 관련 트로피 수집하기" manualComplete="$map:02000001$의 탈것 상인이 판매하는 상급 탈것 관련 트로피 수집 완료" />
+	<achieve id="23300020" desc="" complete="" manualDesc="$item:90000006$$pp:로,으로$ 구입할 수 있는 탈것 관련 트로피 수집하기" manualComplete="$item:90000006$$pp:로,으로$ 구입할 수 있는 탈것 관련 트로피 수집 완료" />
+	<achieve id="23300021" desc="" complete="" manualDesc="도마뱀류의 탈것 관련 트로피 수집하기" manualComplete="도마뱀류의 탈것 관련 트로피 수집 완료" />
+	<achieve id="23300022" desc="" complete="" manualDesc="류호류의 탈것 관련 트로피 수집하기" manualComplete="류호류의 탈것 관련 트로피 수집 완료" />
+	<achieve id="23300023" desc="" complete="" manualDesc="뿔 달린 탈것 관련 트로피 수집하기" manualComplete="뿔 달린 탈것 관련 트로피 수집 완료" />
+	<achieve id="23300024" desc="" complete="" manualDesc="$item:90000007$$pp:로,으로$ 구입할 수 있는 탈것 관련 트로피 수집하기" manualComplete="$item:90000007$$pp:로,으로$ 구입할 수 있는 탈것 관련 트로피 수집 완료" />
+	<achieve id="23300025" desc="" complete="" manualDesc="$item:50600006$ 수집하기" manualComplete="$item:50600006$ 수집" />
+	<achieve id="23300026" desc="" complete="" manualDesc="$item:50600017$ 수집하기" manualComplete="$item:50600017$ 수집" />
+	<achieve id="23300027" desc="" complete="" manualDesc="$item:50600007$ 수집하기" manualComplete="$item:50600007$ 수집" />
+	<achieve id="23300028" desc="" complete="" manualDesc="$item:50600022$ 수집하기" manualComplete="$item:50600022$ 수집" />
+	<achieve id="23300029" desc="" complete="" manualDesc="$item:50600023$ 수집하기" manualComplete="$item:50600023$ 수집" />
+	<achieve id="23300030" desc="" complete="" manualDesc="$item:50600024$ 수집하기" manualComplete="$item:50600024$ 수집" />
+	<achieve id="23300031" desc="" complete="" manualDesc="$item:50600019$ 수집하기" manualComplete="$item:50600019$ 수집" />
+	<achieve id="23300033" desc="" complete="" manualDesc="$item:50600046$ 수집하기" manualComplete="$item:50600046$ 수집" />
+	<achieve id="23300034" desc="" complete="" manualDesc="$item:50600047$ 수집하기" manualComplete="$item:50600047$ 수집" />
+	<achieve id="23300035" desc="" complete="" manualDesc="$item:50600033$ 수집하기" manualComplete="$item:50600033$ 수집" />
+	<achieve id="23300036" desc="" complete="" manualDesc="$item:50600011$ 수집하기" manualComplete="$item:50600011$ 수집" />
+	<achieve id="23300037" desc="" complete="" manualDesc="$item:50600020$ 수집하기" manualComplete="$item:50600020$ 수집" />
+	<achieve id="23300038" desc="" complete="" manualDesc="$item:50600034$ 수집하기" manualComplete="$item:50600034$ 수집" />
+	<achieve id="23300039" desc="" complete="" manualDesc="$item:50600012$ 수집하기" manualComplete="$item:50600012$ 수집" />
+	<achieve id="23300040" desc="" complete="" manualDesc="$item:50600013$ 수집하기" manualComplete="$item:50600013$ 수집" />
+	<achieve id="23300041" desc="" complete="" manualDesc="$item:50600010$ 수집하기" manualComplete="$item:50600010$ 수집" />
+	<achieve id="23300042" desc="" complete="" manualDesc="$item:50600030$ 수집하기" manualComplete="$item:50600030$ 수집" />
+	<achieve id="23300043" desc="" complete="" manualDesc="$item:50600032$ 수집하기" manualComplete="$item:50600032$ 수집" />
+	<achieve id="23300044" desc="" complete="" manualDesc="$item:50600016$ 수집하기" manualComplete="$item:50600016$ 수집" />
+	<achieve id="23300045" desc="" complete="" manualDesc="$item:50600021$ 수집하기" manualComplete="$item:50600021$ 수집" />
+	<achieve id="23300046" desc="" complete="" manualDesc="$item:50600015$ 수집하기" manualComplete="$item:50600015$ 수집" />
+	<achieve id="23300047" desc="" complete="" manualDesc="$item:50600005$ 수집하기" manualComplete="$item:50600005$ 수집" />
+	<achieve id="23300048" desc="" complete="" manualDesc="$item:50600002$ 수집하기" manualComplete="$item:50600002$ 수집" />
+	<achieve id="23300049" desc="" complete="" manualDesc="$item:39000031$ 수집하기" manualComplete="$item:39000031$ 수집" />
+	<achieve id="23300051" desc="" complete="" manualDesc="$item:39000032$ 수집하기" manualComplete="$item:39000032$ 수집" />
+	<achieve id="23300052" desc="" complete="" manualDesc="[책] $item:39000030$ 수집하기" manualComplete="[책] $item:39000030$ 수집" />
+	<achieve id="23300053" desc="" complete="" manualDesc="[책] $item:39000042$ 수집하기" manualComplete="[책] $item:39000042$ 수집" />
+	<achieve id="23300054" desc="" complete="" manualDesc="$item:50600048$ 수집하기" manualComplete="$item:50600048$ 수집" />
+	<achieve id="23300055" desc="" complete="" manualDesc="$item:50600114$ 수집하기" manualComplete="$item:50600114$ 수집" />
+	<achieve id="23300056" desc="" complete="" manualDesc="$item:50600115$ 수집하기" manualComplete="$item:50600115$ 수집" />
+	<achieve id="23300057" desc="" complete="" manualDesc="$item:50600116$ 수집하기" manualComplete="$item:50600116$ 수집" />
+	<achieve id="23300058" desc="" complete="" manualDesc="$item:50600117$ 수집하기" manualComplete="$item:50600117$ 수집" />
+	<achieve id="23400001" desc="트랩 마스터 경기에 {0}회 참가하기" complete="지금까지 트랩 마스터 경기에 {0}회 참가" manualDesc="" manualComplete="" />
+	<achieve id="23400002" desc="트랩 마스터 경기에서 {0}회 우승하기" complete="지금까지 트랩 마스터 경기에서 {0}회 우승" manualDesc="" manualComplete="">
+		<reward grade="3" uiDesc="$item:50600002$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600002$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="23400003" desc="파이널 서바이버 경기에 {0}회 참가하기" complete="지금까지 파이널 서바이버 경기에 {0}회 참가" manualDesc="" manualComplete="" />
+	<achieve id="23400004" desc="파이널 서바이버 경기에서 {0}회 우승하기" complete="지금까지 파이널 서바이버 경기에서 {0}회 우승" manualDesc="" manualComplete="">
+		<reward grade="3" uiDesc="$item:50600010$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600010$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="23400005" desc="스프링 비치 경기에 {0}회 참가하기" complete="지금까지 스프링 비치 경기에 {0}회 참가" manualDesc="" manualComplete="" />
+	<achieve id="23400006" desc="스프링 비치 경기에서 {0}회 우승하기" complete="지금까지 스프링 비치 경기에서 {0}회 우승" manualDesc="" manualComplete="" />
+	<achieve id="23400007" desc="$map:61000004$ 꼭대기까지 올라가 $map:52000006$ {0}회 들어가기" complete="지금까지 $map:52000006$ {0}회 방문" manualDesc="" manualComplete="" />
+	<achieve id="23400008" desc="$map:61000006$에서 끝까지 달려 $map:52000007$ {0}회 들어가기" complete="지금까지 $map:52000007$ {0}회 방문" manualDesc="" manualComplete="" />
+	<achieve id="23400009" desc="메이플 OX 퀴즈쇼에 {0}회 참가하기" complete="지금까지 메이플 OX 퀴즈쇼에 {0}회 참가" manualDesc="" manualComplete="" />
+	<achieve id="23400010" desc="메이플 OX 퀴즈쇼에서 정답 {0}번 맞추기" complete="메이플 OX 퀴즈쇼에서 정답 맞추기 {0}번 달성!" manualDesc="" manualComplete="" />
+	<achieve id="23400011" desc="메이플 OX 퀴즈쇼에서 {0}회 우승하기" complete="메이플 OX 퀴즈쇼에서 {0}회 우승하기" manualDesc="" manualComplete="" />
+	<achieve id="23500001" desc="" complete="" manualDesc="부동산 계약해서 나의 집 만들기" manualComplete="부동산 계약해서 나의 집 만들기 완료" />
+	<achieve id="23500003" desc="부동산 계약 {0}번 연장하기" complete="지금까지 부동산 계약 {0}번 연장" manualDesc="" manualComplete="" />
+	<achieve id="23500004" desc="" complete="" manualDesc="$item:50400035$ 또는 $item:50400036$ 내 집에 설치해보기" manualComplete="$item:50400035$ 또는 $item:50400036$ 내 집에 설치 완료" />
+	<achieve id="23500005" desc="" complete="" manualDesc="메이드 조리도구를 내 집에 설치해보기" manualComplete="메이드 조리도구를 내 집에 설치 완료" />
+	<achieve id="23500006" desc="" complete="" manualDesc="메이드 연금도구를 내 집에 설치해보기" manualComplete="메이드 연금도구를 내 집에 설치 완료" />
+	<achieve id="23500007" desc="" complete="" manualDesc="메이드 공예도구를 내 집에 설치해보기" manualComplete="메이드 공예도구를 내 집에 설치 완료" />
+	<achieve id="23500008" desc="" complete="" manualDesc="집에 메이드 고용하기" manualComplete="집에 메이드 고용!" />
+	<achieve id="23500009" desc="반지 제작 전문 메이드로부터 $item:12000045$ {0}개 획득하기" complete="반지 제작 전문 메이드로부터 $item:12000045$ {0}개 획득!" manualDesc="" manualComplete="" />
+	<achieve id="23500010" desc="목걸이 제작 전문 메이드로부터 $item:11900054$ {0}개 획득하기" complete="목걸이 제작 전문 메이드로부터 $item:11900054$ {0}개 획득!" manualDesc="" manualComplete="" />
+	<achieve id="23500011" desc="음료 제작 전문 메이드로부터 $item:20000110$ {0}개 획득하기" complete="음료 제작 전문 메이드로부터 $item:20000110$ {0}개 획득!" manualDesc="" manualComplete="" />
+	<achieve id="23500012" desc="요리 제작 전문 메이드로부터 $item:20000091$ {0}개 획득하기" complete="요리 제작 전문 메이드로부터 $item:20000091$ {0}개 획득!" manualDesc="" manualComplete="" />
+	<achieve id="23500013" desc="연금술 전문 메이드로부터 $item:20000027$ {0}개 획득하기" complete="연금술 전문 메이드로부터 $item:20000027$ {0}개 획득!" manualDesc="" manualComplete="" />
+	<achieve id="23500014" desc="메이드의 친밀도 {0}단계 달성하기" complete="지금까지 메이드의 친밀도 {0}단계 달성" manualDesc="" manualComplete="" />
+	<achieve id="23500015" desc="메이드의 프로필 {0}회 변경하기" complete="지금까지 메이드의 프로필 {0}회 변경" manualDesc="" manualComplete="" />
+	<achieve id="23500016" desc="스타 건축가 추천하기 {0}회 참여하기" complete="스타 건축가 추천하기 {0}회 참여" manualDesc="" manualComplete="" />
+	<achieve id="90000006" desc="길드 챔피언십 시즌1 경기에 {0}회 참가하기" complete="길드 챔피언십 시즌1 경기에 총 {0}회 참가" manualDesc="" manualComplete="" />
+	<achieve id="90000010" desc="" complete="" manualDesc="길드 챔피언십 1시즌에 참가한 길드 중 1위 달성하기" manualComplete="길드 챔피언십 1시즌에 참가한 길드 중 1위 달성!" />
+	<achieve id="90000011" desc="" complete="" manualDesc="길드 챔피언십 2시즌에 참가한 길드 중 1위 달성하기" manualComplete="길드 챔피언십 2시즌에 참가한 길드 중 1위 달성!" />
+	<achieve id="90000012" desc="" complete="" manualDesc="길드 챔피언십 3시즌에 참가한 길드 중 1위 달성하기" manualComplete="길드 챔피언십 3시즌에 참가한 길드 중 1위 달성!" />
+	<achieve id="90000013" desc="" complete="" manualDesc="길드 챔피언십 4시즌에 참가한 길드 중 1위 달성하기" manualComplete="길드 챔피언십 4시즌에 참가한 길드 중 1위 달성!" />
+	<achieve id="90000014" desc="" complete="" manualDesc="길드 챔피언십 5시즌에 참가한 길드 중 1위 달성하기" manualComplete="길드 챔피언십 5시즌에 참가한 길드 중 1위 달성!" />
+	<achieve id="90000015" desc="" complete="" manualDesc="길드 챔피언십 3-2시즌에 참가한 길드 중 1위 달성하기" manualComplete="길드 챔피언십 3-2시즌에 참가한 길드 중 1위 달성!" />
+	<achieve id="91000001" desc="" complete="" manualDesc="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성하기" manualComplete="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성!" />
+	<achieve id="91000002" desc="" complete="" manualDesc="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성하기" manualComplete="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성!" />
+	<achieve id="91000003" desc="" complete="" manualDesc="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성하기" manualComplete="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성!" />
+	<achieve id="91000004" desc="" complete="" manualDesc="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성하기" manualComplete="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성!" />
+	<achieve id="91000005" desc="" complete="" manualDesc="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성하기" manualComplete="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성!" />
+	<achieve id="91000006" desc="" complete="" manualDesc="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성하기" manualComplete="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성!" />
+	<achieve id="91000007" desc="" complete="" manualDesc="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성하기" manualComplete="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성!" />
+	<achieve id="91000008" desc="" complete="" manualDesc="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성하기" manualComplete="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성!" />
+	<achieve id="91000009" desc="" complete="" manualDesc="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성하기" manualComplete="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성!" />
+	<achieve id="91000010" desc="" complete="" manualDesc="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성하기" manualComplete="한 달 동안 디자이너스샵 누적 수익 10만 메럿 1회 달성!" />
+	<achieve id="91001001" desc="" complete="" manualDesc="이달의 스타 건축가 되기" manualComplete="이달의 스타 건축가 등극!" />
+	<achieve id="91001002" desc="" complete="" manualDesc="이달의 스타 건축가 되기" manualComplete="이달의 스타 건축가 등극!" />
+	<achieve id="91001003" desc="" complete="" manualDesc="이달의 스타 건축가 되기" manualComplete="이달의 스타 건축가 등극!" />
+	<achieve id="91001004" desc="" complete="" manualDesc="이달의 스타 건축가 되기" manualComplete="이달의 스타 건축가 등극!" />
+	<achieve id="91001005" desc="" complete="" manualDesc="이달의 스타 건축가 되기" manualComplete="이달의 스타 건축가 등극!" />
+	<achieve id="91001006" desc="" complete="" manualDesc="이달의 스타 건축가 되기" manualComplete="이달의 스타 건축가 등극!" />
+	<achieve id="91001007" desc="" complete="" manualDesc="이달의 스타 건축가 되기" manualComplete="이달의 스타 건축가 등극!" />
+	<achieve id="91001008" desc="" complete="" manualDesc="이달의 스타 건축가 되기" manualComplete="이달의 스타 건축가 등극!" />
+	<achieve id="91001009" desc="" complete="" manualDesc="이달의 스타 건축가 되기" manualComplete="이달의 스타 건축가 등극!" />
+	<achieve id="91001010" desc="" complete="" manualDesc="이달의 스타 건축가 되기" manualComplete="이달의 스타 건축가 등극!" />
+	<achieve id="92000001" desc="" complete="" manualDesc="$item:30000406$로 $npc:11001120$$pp:를,을$ 돌려 선물 100번 받기" manualComplete="$item:30000406$로 $npc:11001120$$pp:를,을$ 돌려 선물 100번 받기" />
+	<achieve id="92000002" desc="" complete="" manualDesc="메이플스토리2 명예 기자 되기" manualComplete="메이플스토리2 명예 기자 되기" />
+</ms2>

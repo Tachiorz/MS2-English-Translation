@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<chapter id="2000" name="신대륙을 찾아서" isTutorial="" regionID="" />
+	<chapter id="2001" name="쌀쌀맞은 요정 팅" isTutorial="" regionID="" />
+	<chapter id="2002" name="안경을 찾아줘!" isTutorial="" regionID="" />
+	<chapter id="2003" name="실종된 페리온 주민들" isTutorial="" regionID="" />
+	<chapter id="2004" name="두꺼비는 왕자님!?" isTutorial="" regionID="" />
+	<chapter id="2005" name="엄티의 병세" isTutorial="" regionID="" />
+	<chapter id="2006" name="보스 던전 : 마크52 프로젝트" isTutorial="" regionID="" />
+	<chapter id="2007" name="보스 던전 : 지혜의 돌" isTutorial="" regionID="" />
+	<chapter id="2008" name="보스 던전 : 트리스탄의 숙명" isTutorial="" regionID="" />
+	<chapter id="2009" name="체리코코 사탕이 먹고 싶어요!" isTutorial="" regionID="" />
+	<chapter id="2010" name="$npcName:11001179$의 사업 아이템" isTutorial="" regionID="" />
+</ms2>
