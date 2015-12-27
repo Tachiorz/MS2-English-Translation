@@ -379,7 +379,7 @@
   <key id="$s_charselect_enable_delete" value="Deletable"/>
   <key id="$s_charselect_revival_char" value="Bring Back"/>
   <key id="$s_charselect_final_delete" value="Delete Now"/>
-  <key id="$s_charselect_lock_tooltip" value="Please buy a character slot expansion voucher in Cash Shop."/>
+  <key id="$s_charselect_lock_tooltip" value="Purchase a character slot expansion voucher in Cash Shop."/>
   
   <!--characterCreateSelect-->
   <key id="$s_charcreateselect_btn_create_char" value="Create Character"/>
@@ -394,11 +394,11 @@
   <key id="$s_charcreate_input_name" value="Please enter a name"/>
   <key id="$s_charcreate_male" value="Male"/>
   <key id="$s_charcreate_female" value="Female"/>
-  <key id="$s_charcreate_category_hair" value="Hair"/>
+  <key id="$s_charcreate_category_hair" value="Hairstyle"/>
   <key id="$s_charcreate_category_face" value="Face"/>
   <key id="$s_charcreate_category_makeup" value="Makeup"/>
   <key id="$s_charcreate_category_skin" value="Skin"/>
-  <key id="$s_charcreate_category_clothes" value="Clothing"/>
+  <key id="$s_charcreate_category_clothes" value="Clothes"/>
   <key id="$s_charcreate_category_pants" value="Pants"/>
   <key id="$s_charcreate_category_shoes" value="Shoes"/>
   <key id="$s_charcreate_random_select" value="Random"/>
@@ -422,7 +422,7 @@
 	
   <!--worldmap-->
   <key id="$s_worldmap_southperry"	value="Southperry"/>
-  <key id="$s_worldmap_lith" 		    value="Lith"/>
+  <key id="$s_worldmap_lith" 		    value="Lith Harbor"/>
   <key id="$s_worldmap_henesys" 	  value="Henesys"/>
   <key id="$s_worldmap_ellinia" 	  value="Ellinia"/>
   <key id="$s_worldmap_perion" 		  value="Perion"/>
@@ -455,7 +455,7 @@
   <key id="$s_worldmap_rank_3" value="Chaos"/>
   <key id="$s_worldmap_setting_check3_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Only show a similar level quests&lt;/FONT&gt;\nIf checked, shows only my level quests. \nIf you turn off the check, featured all five levels or more low level quests."/>
   <key id="$s_worldmap_setting_check4_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Only show a similar level Dungeon&lt;/FONT&gt;\nIf checked, shows only my level Dungeon. \nIf you turn off the check for more than the recommended levels are also low, displays all the Dungeon level 5."/>
-  <key id="$s_worldmap_setting_ok" value="OK"/>
+  <key id="$s_worldmap_setting_ok" value="Confirm"/>
   <key id="$s_worldmap_island_maple" value="Maple Island"/>
   <key id="$s_worldmap_island_victoria" value="Victoria Island"/>
   <key id="$s_worldmap_island_karkar" value="Karkar Island"/>
@@ -962,23 +962,23 @@
 
   
    <!-- serverlist -->
-  <key id="$s_serverlist_selectserver" value="Server selection"/>
+  <key id="$s_serverlist_selectserver" value="Server Selection"/>
   <key id="$s_serverlist_enter" value="Enter"/>
   <key id="$s_serverlist_state_comfort" value="Smooth"/>
   <key id="$s_serverlist_state_normal" value="Normal"/>
   <key id="$s_serverlist_state_busy" value="Busy"/>
   <key id="$s_serverlist_state_full" value="HOT"/>
-  <key id="$s_serverlist_state_check" value="Server maintenance"/>	
+  <key id="$s_serverlist_state_check" value="Server Check"/>	
   <key id="$s_serverlist_exit" value="Exit"/>
   <key id="$s_serverlist_option" value="Options"/>
-  <key id="$s_serverlist_prev" value="Back"/>
+  <key id="$s_serverlist_prev" value="Go Back"/>
 
   <!-- skillbook -->
   <key id="$s_skillbook_title" value="Skill"/>
   <key id="$s_skillbook_passive" value="Passive"/>
   <key id="$s_skillbook_upgrade" value="Upgrade"/>
   <key id="$s_skillbook_okbutton" value="Upgrade"/>
-  <key id="$s_skillbook_novideo" value="Preview available"/>
+  <key id="$s_skillbook_novideo" value="Preview is unavailable"/>
   <key id="$s_tooltip_skillbook_active" 		value="&lt;FONT color='#FFD200' size='15' &gt;Active&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAvailable, displays a list of active skill to learn in the future.\nDrag and drop a quick slot can be equipped with the skill." />
   <key id="$s_tooltip_skillbook_passive" 		value="&lt;FONT color='#FFD200' size='15' &gt;Passive&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAvailable, displays a list of the passive skill to learn in the future.\nPassive skill is always effective or conditionally." />
   <key id="$s_tooltip_skillbook_action" 		value="&lt;FONT color='#FFD200' size='15' &gt;Action&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAvailable, displays a list of the action forward to learn a skill.\nDrag-and-drop to a quick slot can be equipped with the skill." />
