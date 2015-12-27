@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsing this data used do not directly modify the -->
 <ms2>
-	<key id="101" name="Maple world" />
-	<key id="102" name="Maple world" />
-	<key id="103" name="Maple world" />
-	<key id="104" name="Maple world" />
-	<key id="202" name="Shadow world" />
+	<key id="101" name="Maple World" />
+	<key id="102" name="Maple World" />
+	<key id="103" name="Maple World" />
+	<key id="104" name="Maple World" />
+	<key id="202" name="Shadow World" />
 </ms2>
