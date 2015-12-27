@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ms2>
-  <key id="200001" name="The above"/>
-  <key id="200002" name="Below"/>
-  <key id="200003" name="On the left"/>
+  <key id="200001" name="Top"/>
+  <key id="200002" name="Bottom"/>
+  <key id="200003" name="Left"/>
   <key id="200004" name="Right"/>
   
   <key id="300001" name="Jump"/>
   <key id="300002" name="Action"/>
-  <key id="300003" name="Picking up"/>
-  <key id="300004" name="Sitting"/>
+  <key id="300003" name="Pick-up"/>
+  <key id="300004" name="Sit"/>
   <key id="300005" name="Crawl"/>
-  <key id="300006" name="Running"/>
+  <key id="300006" name="Run"/>
   <key id="300007" name="Chat"/>
-  <key id="300008" name="Zoom in"/>
-  <key id="300009" name="Zoom out"/>
-  <key id="300010" name="Walking"/>
-  <key id="300013" name="Construction"/>
-  <key id="300014" name="The following trigger"/>
+  <key id="300008" name="Zoom In"/>
+  <key id="300009" name="Zoom Out"/>
+  <key id="300010" name="Walk"/>
+  <key id="300013" name="Construct"/>
+  <key id="300014" name="Next Trigger"/>
   <key id="300015" name="Screenshot"/>
   <key id="300016" name="Off-machine"/>
   <key id="300017" name="Fitting the stone 1"/>
@@ -25,32 +25,32 @@
   <key id="300020" name="Fitting the stone 4"/>
   <key id="300021" name="Fitting stone 5"/>  
   <key id="300022" name="Change the camera angle"/>
-  <key id="300033" name="Basic attack"/>
-  <key id="300034" name="Catching the"/>
+  <key id="300033" name="Basic Attack"/>
+  <key id="300034" name="Catch"/>
   <key id="300035" name="Return"/>
-  <key id="300036" name="UIHide"/>
-  <key id="300037" name="A whisper"/>
-  <key id="300038" name="Item preview"/>
-  <key id="300039" name="The minimap zoom in"/>
+  <key id="300036" name="Hide UI"/>
+  <key id="300037" name="Whisper"/>
+  <key id="300038" name="Item Preview"/>
+  <key id="300039" name="Minimap Zoom In"/>
 
-  <key id="400001" name="Belongings"/>
+  <key id="400001" name="Inventory"/>
   <key id="400002" name="Character"/>
   <key id="400005" name="Skill"/>
-  <key id="400006" name="World map"/>
+  <key id="400006" name="World Map"/>
   <key id="400007" name="Quest"/>
-  <key id="400008" name="Profile camera"/>
+  <key id="400008" name="Profile Camera"/>
   <key id="400009" name="Trophy"/>
-  <key id="400010" name="Beauty shop"/>
-  <key id="400011" name="Item editing"/>
+  <key id="400010" name="Beauty Shop"/>
+  <key id="400011" name="Item Editing"/>
   <key id="400012" name="Community"/>
-  <key id="400013" name="Vote-by-mail"/>
+  <key id="400013" name="Mailbox"/>
   <key id="400014" name="Guild"/>
-  <key id="400015" name="Mei views"/>
+  <key id="400015" name="Maview"/>
   <key id="400016" name="Market"/>
-  <key id="400017" name="The cache shop"/>
-  <key id="400018" name="Find a party"/>
-  <key id="400019" name="Made production situation"/>
-  <key id="400020" name="Personal battle chapter"/>
+  <key id="400017" name="Cash Shop"/>
+  <key id="400018" name="Find Parties"/>
+  <key id="400019" name="Maid Crafting"/>
+  <key id="400020" name="Private Battle"/>
  
   <key id="500001" name="Quick slot 1"/>
   <key id="500002" name="Quick slot 2"/>
