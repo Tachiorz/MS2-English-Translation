@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
+	<key id="01050401" partCount="2" tooltipDescription="1Set strings" />
+	<key id="01050401" partCount="4" tooltipDescription="2Set strings" />
+	<key id="01050401" partCount="5" tooltipDescription="3Set strings" />
+</ms2>

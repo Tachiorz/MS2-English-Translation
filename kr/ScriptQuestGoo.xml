@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="0901101205000002" npc="Car van" name='I keep saying sorry was asking.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000021$&lt;/font&gt; If you meet my old nonsense give a look.' />
+	<key id="0901101205000003" npc="Car van" name="Asks what I&#8217;m talking about." />
+	<key id="0901101205000004" npc="Car van" name="L. ... This is followed by the cleanup of the warehouse with the inspiration was supposed to look like.&#x0A;By the way, you know it&#8217;s not my waist is over now.&#x0A;Maybe next I&#8217;ll do like to speak well of inspiration dear a cause for deferral." />
+	<key id="0901101205000005" npc="Car van" name="Inspiration from this hut you step quickly submitted by my me." />
+	<key id="0901101205000006" npc="Car van" name='&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000054$&lt;/font&gt; Guys! The risk that there&#8217;s a few times and told him not to go ...&#x0A;You don&#8217;t have to do the clean-up of the window, instead of the guy or I&#8217;m going to go looking for a grandchild.' />
+	<key id="0901101205000007" npc="Ben Hertz" name="$MyPCName$, Have you ever had a drink the tropical juice?&#x0A;Yet? This district, corny.&#x0A;Letting something like that should drink, $map:63000001$Back to others a ton of spooky to me." />
+	<key id="0901101205000008" npc="Ben Hertz" name="By the way, looked next to the village for sale tropical juice in pumping this bum is not.&#x0A;Freaked out and just ran, and now I come to think of it, even squeezing a few extra pennies I did walk the line." />
+	<key id="0901101205000009" npc="Ben Hertz" name="I $map:02000062$ Have a look around every corner, and more &#x0A;You are one of those leading the bum never to ask that work to help look." />
+	<key id="0901101205000010" npc="Ben Hertz" name="Whether you&#8217;re Shivering in the cold look how bleak.&#x0A;Huh? I went directly to see? I look around a bit more here,&#x0A;In a hurry $map:02000001$Even though there is no time to go!" />
+	<key id="0901101205000011" npc="Ben Hertz" name="U. .. U. .. EW ... Where are we? &#x0A;Oh well, I guess you were losing your mind." />
+	<key id="0901101205000012" npc="Formulation" name="Gotcha! The West has lost the masters on the balloon in the sky." />
+	<key id="0901101205000013" npc="Formulation" name='Tie the balloon string &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000389$&lt;/font&gt;Take a look at the hanging from the entrance to the label line,&#x0A;Balloon master &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000389$&lt;/font&gt;Take a look at the show.' />
+	<key id="0901101205000014" npc="Formulation" name='Balloon master gone to discourage?&#x0A;I have to get back to you, Lisa &#x0A;$MyPCName$NI &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000389$&lt;/font&gt;Dear please bring this balloon.' />
+	<key id="0901101205000015" npc="Formulation" name="Balloon master would be upset." />
+	<key id="0901101205000016" npc="Formulation" name="Had pushed one hand, seems to have missed the balloon says." />
+	<key id="0901101205000017" npc="Formulation" name="Not to worry, says." />
+	<key id="0901101205000018" npc="Formulation" name="This way you&#8217;d want to fly I&#8217;ve caught. Get it here." />
+	<key id="0901101205000019" npc="Formulation" name="In the hands of the other side of this, you know.&#x0A;So lightweight, you don&#8217;t give up." />
+	<key id="0901101205000020" npc="Formulation" name="I&#8217;ve heard a bunch of what each hand? Would like a full bag." />
+	<key id="0901101205000021" npc="Formulation" name="Yes, I believe you find the owner in a hurry." />
+	<key id="0901101205000022" npc="Formulation" name="People flock during the high season it is important quantity.&#x0A;None of the balloons too. Thank you for looking." />
+	<key id="0901101205000023" npc="Love" name="? Here was a little girl I haven&#8217;t seen?" />
+	<key id="0901101205000024" npc="Love" name="Ordered the juice is gone.&#x0A;Calculations over a horse." />
+	<key id="0901101205000025" npc="Love" name="Ask what it looks like." />
+	<key id="0901101205000026" npc="Love" name="The hair is tied into the yanggalrae. Well???&#x0A;Pouch wore a dress and ran." />
+	<key id="0901101205000027" npc="Love" name="You&#8217;re never the same." />
+	<key id="0901101205000028" npc="Love" name='Sounds great.&#x0A;This &lt;font color=&quot;#ffd200&quot;&gt;$item:30000195$&lt;/font&gt; He brings to the child?' />
+	<key id="0901101205000029" npc="Love" name="What&#8217;s happening?" />
+	<key id="0901101205000030" npc="Love" name="Sliding shed and the juice in the wind." />
+	<key id="0901101205000031" npc="Love" name="He never found the child says." />
+	<key id="0901101205000032" npc="Love" name="Do not vary the way the newly made, this time well tell him to take me." />
+	<key id="0901101205000033" npc="Love" name="How much is also not anhassneyo, what.&#x0A;Almost as good as a new one, you can just bring it to I suppose." />
+	<key id="0901101205000034" npc="Love" name="Looks like a heavy burden? Dare to eliminate unnecessary thing!" />
+	<key id="0901101205000035" npc="Love" name='How far would you go to a kid went as a kid?&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:2000062$&lt;/font&gt; Somewhere.' />
+	<key id="0901101205000036" npc="Love" name="Right! The juice was forgotten!&#x0A;Thank you for bringing!" />
+	<key id="0901101205000037" npc="Gérard" name="Lot to Cha Cha Cha!!" />
+	<key id="0901101205000038" npc="Gérard" name="What they are doing." />
+	<key id="0901101205000039" npc="Gérard" name="The ground keeps shaking in shock manggajyeossneunji, wagon wheel to collapse.&#x0A;Again I&#8217;m trying to raise, a little help?&#x0A;Only one was built. I am going to rest." />
+	<key id="0901101205000040" npc="Gérard" name="Why yet? Himself?&#x0A;I like I would like up, lift the tug." />
+	<key id="0901101205000041" npc="Gérard" name="See more power in this business." />
+	<key id="0901101205000042" npc="Gérard" name="Have you ever wondered if you would like to walk along this leg-uk, &#x0A;On the way, my wife handed me a bit." />
+	<key id="0901101205000043" npc="Gérard" name="Come back soon stop looking for someone to help.&#x0A;Give the person causing the floats collapsed were searching for more,&#x0A;I think not to come." />
+	<key id="0901101205000044" npc="Gérard" name="I never found a well just went up to the end, it will come to me." />
+	<key id="0901101205000045" npc="Gérard" name="My wife was the first of the month, to call you?&#x0A;Low~This way, the woman in the back of the Pack in my puss." />
+	<key id="0901101205000046" npc="Gérard" name="HO HO HO ... It&#8217;s already here and gone. Guess I&#8217;ll have to go back to stop.&#x0A;For Ding!!" />
+	<key id="0901101205000047" npc="Terence" name="The bridge is closed and the roads are broken,&#x0A;I&#8217;ll come in here and feel uncomfortable and minweoni." />
+	<key id="0901101205000048" npc="Terence" name='First of all you can see from the hand ladder that was destroyed, but the material is insufficient.&#x0A;I was in a warehouse &lt;font color=&quot;#ffd200&quot;&gt;$item:30000196$&lt;/font&gt; $npc:21000007$Both have turnovers.' />
+	<key id="0901101205000049" npc="Terence" name='This is the place for residents as it falls,&#x0A;$npc:21000007$$pp2:, As$From &lt;font color=&quot;#ffd200&quot;&gt;$item:30000196$&lt;/font&gt; Back to them?' />
+	<key id="0901101205000050" npc="Terence" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000196$&lt;/font&gt; Know something that it is not easy to obtain.&#x0A;A bit more power.' />
+	<key id="0901101205000051" npc="Terence" name="There&#8217;s a save. Ask sooner drill, puffy alone moans moans aches.&#x0A;If support staff should only make the force arrived, and left." />
+	<key id="0901101205000052" npc="Carabinieri won Paul" name="By the way, asked me one more note, okay?" />
+	<key id="0901101205000053" npc="Carabinieri won Paul" name="What is ask a favor." />
+	<key id="0901101205000054" npc="Carabinieri won Paul" name="Be the first on the scene to investigate the us crew.&#x0A;Survey equipment will be waiting for the fall of the neck to arrive." />
+	<key id="0901101205000055" npc="Carabinieri won Paul" name="However, our lack of manpower to Bonnie, and made yet equipment clearance&#x0A;For the moment, seems to not be able to take the survey equipment." />
+	<key id="0901101205000056" npc="Carabinieri won Paul" name='Seismic surveys in the field &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000617$&lt;/font&gt;Now with the naked eye, to investigate and to&#x0A;Write a report that would give some words have.' />
+	<key id="0901101205000057" npc="Carabinieri won Paul" name="That friend, and now you&#8217;ll have a fairly riveting and.&#x0A;I&#8217;d like to hurry up a bit." />
+	<key id="0901101205000058" npc="Carabinieri won Paul" name="This is true, what I&#8217;m going through a rough patch." />
+	<key id="0901101205000059" npc="Carabinieri won Merthyr peoples" name="(Salivary croaked) ...&#x0A;This is not true, your feet couldn&#8217;t see more close to falling off, and this is true ..." />
+	<key id="0901101205000060" npc="Carabinieri won Merthyr peoples" name="Asks what&#8217;s going on." />
+	<key id="0901101205000061" npc="Carabinieri won Merthyr peoples" name="There is a Boise? &#x0A;A major earthquake happens and I&#8217;m still shaky because the back floor.&#x0A;There are often called to investigate, this is true ..." />
+	<key id="0901101205000062" npc="Carabinieri won Merthyr peoples" name="What if I went near the bottom off puffy know it&#8217;s called, this is true ..." />
+	<key id="0901101205000063" npc="Carabinieri won Merthyr peoples" name="Instead, it asks to be FICA." />
+	<key id="0901101205000064" npc="Carabinieri won Merthyr peoples" name="What do you want me to go?&#x0A;This is true, I never would have never asked for a look." />
+	<key id="0901101205000065" npc="Carabinieri won Merthyr peoples" name="(The curve to the nail, and the winnings)." />
+	<key id="0901101205000066" npc="Carabinieri won Merthyr peoples" name="We are seeing come out steaming from the bottom.&#x0A;Touch the person in passing.&#x0A;When you create a report, to be called I, this is true ..." />
+	<key id="0901101205000067" npc="Carabinieri won Merthyr peoples" name="Says that almost hurt." />
+	<key id="0901101205000068" npc="Carabinieri won Merthyr peoples" name="Can get close if you need to be careful.&#x0A;If you write." />
+	<key id="0901101205000069" npc="Carabinieri won Merthyr peoples" name="And jeolrejeolre rocks." />
+	<key id="0901101205000070" npc="Carabinieri won Merthyr peoples" name="I even write and report." />
+	<key id="0901101205000071" npc="Carabinieri won Tommy" name="$MyPCName$, One more favor." />
+	<key id="0901101205000072" npc="Carabinieri won Tommy" name="Asked what it was." />
+	<key id="0901101205000073" npc="Carabinieri won Tommy" name='This &lt;font color=&quot;#ffd200&quot;&gt;$item:30000070$&lt;/font&gt; &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000157$&lt;/font&gt;I&#8217;d like to get.&#x0A;You need to pass in a hurry, $map:02000001$$pp2:, As$ I would like to support the burden would not be able to send. ' />
+	<key id="0901101205000074" npc="Carabinieri won Tommy" name="I&#8217;m from here, let&#8217;s take a look at the food ingredients more available." />
+	<key id="0901101205000075" npc="Carabinieri won Tommy" name="Again." />
+	<key id="0901101205000076" npc="Carabinieri won Tommy" name="$item:30000070$ He or she has lost." />
+	<key id="0901101205000077" npc="Carabinieri won Tommy" name="$npc:11000157$Ask the location of the." />
+	<key id="0901101205000078" npc="Carabinieri won Tommy" name="$item:30000070$ On the floor of the shed. I was a week." />
+	<key id="0901101205000079" npc="Carabinieri won Tommy" name="The bag looks pretty heavy ... One moment. OK a little.&#x0A;Haha ... Because he did not have a spirit or Monster." />
+	<key id="0901101205000080" npc="Carabinieri won Tommy" name="Luckily I was picked.&#x0A;By the way, I&#8217;m a bag full. There is no place to enter." />
+	<key id="0901101205000081" npc="Carabinieri won Tommy" name="Follow this road straight our seriousness.&#x0A;From there $npc:11000157$ You&#8217;ll be able to meet." />
+	<key id="0901101205000082" npc="Carabinieri won Tommy" name="I was worried I lost all food ingredients, this is good now, even for Ku." />
+	<key id="0901101205000083" npc="Wrong honed books" name="Hey, Hey!!" />
+	<key id="0901101205000084" npc="Wrong honed books" name="Looking for Linda." />
+	<key id="0901101205000085" npc="Wrong honed books" name="Here here!! You are looking at the bookshelves right! I believe in it!" />
+	<key id="0901101205000086" npc="Wrong honed books" name="Stand still and listen." />
+	<key id="0901101205000087" npc="Wrong honed books" name="Put any child brought me blew hither plugged in.&#x0A;This is a rough and provocative all over guys!&#x0A;Should be plugged into these guys and the side-by-side, whilst there is no bear, really!" />
+	<key id="0901101205000088" npc="Wrong honed books" name="Ask what you want." />
+	<key id="0901101205000089" npc="Wrong honed books" name='As soon as I plugged the book originally had me moved here out.&#x0A;True, he&#8217;ll be locked bookcase. The key is &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000216$&lt;/font&gt; You&#8217;ve got.' />
+	<key id="0901101205000090" npc="Wrong honed books" name="What happened?" />
+	<key id="0901101205000091" npc="Wrong honed books" name="The book was briefly put down heavy says." />
+	<key id="0901101205000092" npc="Wrong honed books" name="Just a passing length." />
+	<key id="0901101205000093" npc="Wrong honed books" name="Lay down ... ...&#x0A;Library on the floor that monopolized the day gone." />
+	<key id="0901101205000094" npc="Wrong honed books" name="How to get on the shelf inserted again." />
+	<key id="0901101205000095" npc="Wrong honed books" name="Fucking Monster plug it back here!!! Take me quickly." />
+	<key id="0901101205000096" npc="Wrong honed books" name="I do not think any more outlandish, the day I moved into the original book." />
+	<key id="0901101205000097" npc="Wrong honed books" name="Monster is plugged in here again!!!&#x0A;In response to? The bag is filled! I set aside some room for it!" />
+	<key id="0901101205000098" npc="Wrong honed books" name="This bookcase is also near to quickly passed it or not." />
+	<key id="0901101205000099" npc="Wrong honed books" name="Hey, glad you guys! HA HA HA." />
+	<key id="0901101205000100" npc="Wrong honed books" name="Keep in mind it will ask." />
+	<key id="0901101205000101" npc="Wrong honed books" name="Of course! My going back home.&#x0A;Heart palpitations! HA HA HA." />
+	<key id="0901101205000102" npc="Then Dru" name="Hung ... I&#8217;m trying to beat? &#x0A;Oras. though not distracted at the bottom." />
+	<key id="0901101205000103" npc="Then Dru" name="There is no heart beat." />
+	<key id="0901101205000104" npc="Then Dru" name="Yes? Sorry for the misunderstanding. &#x0A;Let me know as soon as there were several stores around the hatch wasn&#8217;t trying to tackle people.&#x0A;But I don&#8217;t see a good future ..." />
+	<key id="0901101205000105" npc="Then Dru" name="In the future, ask why not." />
+	<key id="0901101205000106" npc="Then Dru" name="Crossing the bridge tried to wipe the glasses dirty friggin rewriting de&#x0A;All of a sudden what&#8217;s visible, one in front of the Cobra." />
+	<key id="0901101205000107" npc="Then Dru" name="Startling the wind dropped down the leg glasses on.&#x0A;Trying to cross the bridge without glasses, you hit the wrong feet would fall down d &#x0A;After the bridge and the dreaded them." />
+	<key id="0901101205000108" npc="Then Dru" name="I&#8217;d say looking glasses." />
+	<key id="0901101205000109" npc="Then Dru" name="I really do? Yes? Hung ... Thank you so much.&#x0A;If you look under the bridge as well you&#8217;ll be sparkling in the sunlight object." />
+	<key id="0901101205000110" npc="Then Dru" name="(A bunch of frowny eyes) my glasses haven&#8217;t found yet?&#x0A;It&#8217;s not all shiny in the sun glasses.&#x0A;If you picked up the wrong girl, look somewhere else to run." />
+	<key id="0901101205000111" npc="Then Dru" name="I found! Where the mark is a bit scratched, but it largely ruined things you&#8217;re not.&#x0A;Hung ... Thank you so much!" />
+	<key id="0901101205000112" npc="Then Dru" name="In Hugh ..." />
+	<key id="0901101205000113" npc="Then Dru" name="Why not break a sigh." />
+	<key id="0901101205000114" npc="Then Dru" name="Actually, I&#8217;m afraid of heights, interlocking Dozer crossing the bridge glasses there it&#8217;s not easy." />
+	<key id="0901101205000115" npc="Then Dru" name="What came across." />
+	<key id="0901101205000116" npc="Then Dru" name="Quake shaken gear.&#x0A;By the way, here&#8217;s a reason to come in the next $item:30000207$ For the sake of taking them." />
+	<key id="0901101205000117" npc="Then Dru" name="Before coming here I was myself, I have no idea&#x0A;$item:30000207$ Shoulder and carry across the deception himself." />
+	<key id="0901101205000118" npc="Then Dru" name="I&#8217;d help." />
+	<key id="0901101205000119" npc="Then Dru" name="I really do? Yes? Hung ... Thank you so much.&#x0A;Only if the bridge was moved across the side." />
+	<key id="0901101205000120" npc="Then Dru" name="Too scary? Hung ... Blah blah blah blah!" />
+	<key id="0901101205000121" npc="Then Dru" name="Not shaky? Nerd.&#x0A;$item:30000207$ Crossing the narrow bridge holding so fast!" />
+	<key id="0901101205000122" npc="Moya" name="Well, here&#8217;s the scoop, which was also where-to-win?&#x0A;Children of the damned, also stole four, another humcyeogasseo." />
+	<key id="0901101205000123" npc="Moya" name="Who stole the yapping." />
+	<key id="0901101205000124" npc="Moya" name="Who is who? Monster bastard.&#x0A;What&#8217;s interesting is to steal the whatnot&#x0A;After I lay hidden in the grass mushrooms." />
+	<key id="0901101205000125" npc="Moya" name="This is one of the only young Minx was caught going after these guys,&#x0A;I went to get up to half a day now there is something you want." />
+	<key id="0901101205000126" npc="Moya" name="Instead, I&#8217;d find." />
+	<key id="0901101205000127" npc="Moya" name="Is it really?&#x0A;Follow the watercourse down there and go down would like to ask you-uk.&#x0A;Search inside the pool near the stream this time come out just to look at." />
+	<key id="0901101205000128" npc="Moya" name="I like the eyes in the dark? Why so confounded?" />
+	<key id="0901101205000129" npc="Moya" name="I already came to find? Well done, well done." />
+	<key id="0901101205000130" npc="Moya" name="Well, this old fart again went nowhere and win?" />
+	<key id="0901101205000131" npc="Moya" name="Does anyone know what to say." />
+	<key id="0901101205000132" npc="Moya" name="Who is who? &#x0A;Know the straws were this eight youth alone, straw and talking about my husband." />
+	<key id="0901101205000133" npc="Moya" name="The husband who asks." />
+	<key id="0901101205000134" npc="Moya" name='Well, you don&#8217;t have to do that? What keeps bothering to ask.&#x0A;My husband name is &lt;font color=&quot;#ffd200&quot;&gt;$npc:22000059$&lt;/font&gt;The $npc:22000059$.' />
+	<key id="0901101205000135" npc="Moya" name="Where is holding a flower, smell, without even trying&#x0A;What was that new flowers upon just such as linen and carry it around." />
+	<key id="0901101205000136" npc="Moya" name="It is doubtful that the floral scent." />
+	<key id="0901101205000137" npc="Moya" name="What? Floral scents because the old fart is Gonzo clover?&#x0A;Looks like one of the shapes is to stop this nonsense&#x0A;Old fart and tell me to find and look at some cars. " />
+	<key id="0901101205000138" npc="Moya" name="Old fart find spells and me why?&#x0A;Haven&#8217;t found where?&#x0A;Another fight back up and carry it around in the shape thinner." />
+	<key id="0901101205000139" npc="Moya" name="What? There was a large hulking old fart?&#x0A;What had been a long roll to roll on my boy." />
+	<key id="0901101205000140" npc="Remy" name="Go to eat have you heard talk about a full RIP?" />
+	<key id="0901101205000141" npc="Remy" name="And horizontal rows." />
+	<key id="0901101205000142" npc="Remy" name="Every year I have come here for vacation, I don&#8217;t like getting year after year.&#x0A;$map:2000111$The attraction of white sand and blue waters of the Bay.&#x0A;That was the pride of place in the back of the blue jandibatdo." />
+	<key id="0901101205000143" npc="Remy" name='But now the blue grass, but I won the pool than a bite of the soil where the left more.&#x0A;What is all this &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000025$&lt;/font&gt; &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000058$&lt;/font&gt; I&#8217;m to blame.' />
+	<key id="0901101205000144" npc="Remy" name='Why should I eat them and getting rid of the pool ... ...&#x0A;If you have some time &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000025$&lt;/font&gt; &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000058$&lt;/font&gt; Here grass in TODO might eat.' />
+	<key id="0901101205000145" npc="Remy" name='$map:2000111$ Being able to find the old look,&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:21000025$&lt;/font&gt; &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000058$&lt;/font&gt; From here you can scare.' />
+	<key id="0901101205000146" npc="Remy" name="If you look at only me huh, lawn lies ignorance award." />
+	<key id="0901101205000147" npc="Remy" name="For a while, and the grass grow.&#x0A;Sinkholes have been covered with the blue grass come." />
+	<key id="0901101205000148" npc="Boy injured in non-" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000118$&lt;/font&gt;$pp2:, As$ If you go ask one!' />
+	<key id="0901101205000149" npc="Boy injured in non-" name="The Carabinieri is the lack of food and the food in the store at the base with fielded requests,&#x0A;Like food, put a bunch of bots what recyclable Jim wouldn&#8217;t attend." />
+	<key id="0901101205000150" npc="Boy injured in non-" name='Get your food to go into nearby villages,&#x0A;You&#8217;ll take a look at the same time &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000157$&lt;/font&gt;Tell him to get in.' />
+	<key id="0901101205000151" npc="Boy injured in non-" name='By the way, &lt;font color=&quot;#ffd200&quot;&gt;$map:02000118$&lt;/font&gt;This was tons of Monster ...&#x0A;I get a little easier way to get rid of the monsters Chase?' />
+	<key id="0901101205000152" npc="Boy injured in non-" name="Originally this pre-rinse floated side? What are you doing?" />
+	<key id="0901101205000153" npc="Boy injured in non-" name="$npc:11000546$ It was too late? Unfortunately, it will be fine.&#x0A;The other side takes steps in the base, so it would be solved somehow." />
+	<key id="0901101205000154" npc="Kathy Mart employee Marie tele" name="Come on, come on! Calculation stuff?&#x0A;That&#8217;s ok. Mart just to buy things?&#x0A;Caliber, and encounters with neighbors can also hit the deck." />
+	<key id="0901101205000155" npc="Kathy Mart employee Marie tele" name='By the way, &lt;font color=&quot;#ffd200&quot;&gt;$item:30000244$&lt;/font&gt;It&#8217;s also the lack of inventory quantities.&#x0A;Wanting my money before the boss know Meryl should be plate.' />
+	<key id="0901101205000156" npc="Kathy Mart employee Marie tele" name="I&#8217;m not a reason and a lack of." />
+	<key id="0901101205000157" npc="Kathy Mart employee Marie tele" name="$npc:21000013$ Seen a sneak peek at the staff.&#x0A;By the way, didn&#8217;t so much mean to the examination phase had to my map, and I pretend to be seen." />
+	<key id="0901101205000158" npc="Kathy Mart employee Marie tele" name='But the funny thing is that face disproportionately&#x0A;Huge Quake shaking hands more stress. HA HA HA.&#x0A;HA, someone &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000013$&lt;/font&gt; Stole &lt;font color=&quot;#ffd200&quot;&gt;$item:30000244$&lt;/font&gt; If you wish I were looking ...' />
+	<key id="0901101205000159" npc="Kathy Mart employee Marie tele" name="Tell the boss you avail. I doubt I&#8217;ll be us to be." />
+	<key id="0901101205000160" npc="Kathy Mart employee Marie tele" name="Thank you. I have found that all of the lost quantity!!" />
+	<key id="0901101205000161" npc="Park guards Steve" name="If you look at the Park, keep&#x0A;If you can give people who drink often as I was.&#x0A;These days, it&#8217;s that each transition in the persecution of the grunge people at all." />
+	<key id="0901101205000162" npc="Park guards Steve" name="Must go to buy drinks in the park without redundancy.&#x0A;This is not to say the finish kind of thirsty!&#x0A;I&#8217;m not saying I&#8217;m hoping even more freebies." />
+	<key id="0901101205000163" npc="Park guards Steve" name="Ask what you want." />
+	<key id="0901101205000164" npc="Park guards Steve" name='$MyPCName$NI $map:2000209$NETeller&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$item:30000245$&lt;/font&gt; I&#8217;d like to bring one.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000795$&lt;/font&gt;I&#8217;ll just say my errands that line.' />
+	<key id="0901101205000165" npc="Park guards Steve" name="Martha the mouth under the Sun closely closely,&#x0A;$item:30000245$ The idea that it&#8217;s cross-section." />
+	<key id="0901101205000166" npc="Park guards Steve" name="Come on, come on.&#x0A;Let me help you calculate." />
+	<key id="0901101205000167" npc="Kathy Mart employee Marie tele" name="$item:30000245$ Those looking for this quite a lot.&#x0A;Put in the fridge for a bit more filling." />
+	<key id="0901101205000168" npc="Kathy Mart employee Marie tele" name="$npc:11000352$Messengers came to say." />
+	<key id="0901101205000169" npc="Kathy Mart employee Marie tele" name="Gosh, what about this.&#x0A;Boss $npc:11000352$There are lots of trauma of value is too&#x0A;No, please not to stuff any more trauma." />
+	<key id="0901101205000170" npc="Kathy Mart employee Marie tele" name=" " />
+	<key id="0901101205000171" npc="Kathy Mart employee Marie tele" name="$npc:11000352$You don&#8217;t pay very well, and we value the trauma Mart&#8217;s best customers,&#x0A;The boss after all of a sudden, why so: but I don&#8217;t know what they are." />
+	<key id="0901101205000172" npc="Kathy Mart employee Marie tele" name='Perplexed,&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000352$&lt;/font&gt;To tell us that we should no longer give the trauma.' />
+	<key id="0901101205000173" npc="Kathy Mart employee Marie tele" name="That&#8217;s the boss he can help." />
+	<key id="0901101205000174" npc="Kathy Mart employee Marie tele" name="I gave would be a truck to sell a drink. Settlement also don&#8217;t always told us.&#x0A;This is Fu undergo a treat! At the end of the day we will meet the President of fai!" />
+	<key id="0901101205000175" npc="Fruit cell" name="Nearby is a large Mart guest pre-cache common&#x0A;It is a small shop like us to trade increasingly harder." />
+	<key id="0901101205000176" npc="Fruit cell" name="Furthermore, neighborhood atmosphere is becoming less and less well, getting violated&#x0A;I&#8217;ve been having them up to a swarm of flies, even turning away guests boiling. " />
+	<key id="0901101205000177" npc="Fruit cell" name="How many times a day fruit flies swarm around my chasing,&#x0A;Do not want to have a quick look around the big fruit, also known as." />
+	<key id="0901101205000178" npc="Fruit cell" name="Well there are those potholes are a swarm of flies under the houses to buy.&#x0A;Want to get rid of these guys do pesticides formulation herbs." />
+	<key id="0901101205000179" npc="Fruit cell" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000246$&lt;/font&gt; Shop near a drain and sprinkle, if under&#x0A;Fruit is the looming around the guys are going to be without God.' />
+	<key id="0901101205000180" npc="Fruit cell" name="What&#8217;s the matter?" />
+	<key id="0901101205000181" npc="Fruit cell" name="$item:30000246$ He or she has lost." />
+	<key id="0901101205000182" npc="Fruit cell" name="Drain grate." />
+	<key id="0901101205000183" npc="Fruit cell" name="$item:30000246$ Dropped on the floor, he says.&#x0A;I was a week." />
+	<key id="0901101205000184" npc="Fruit cell" name="I guess you have to put it in the bag ... Once?&#x0A;Haha, I&#8217;m saying this right?" />
+	<key id="0901101205000185" npc="Fruit cell" name="Dropped on the floor what I picked up.&#x0A;By the way, I&#8217;m a bag full. There is no room for." />
+	<key id="0901101205000186" npc="Fruit cell" name="$item:30000246$ The smell would disappear if the roots." />
+	<key id="0901101205000187" npc="Fruit cell" name="Paris goes the herd and trade very well.&#x0A;Think mad pool to futility." />
+	<key id="0901101205000188" npc="Zeta" name="Do not you feel&#8217;re puffy.&#x0A;No, wait a minute! You get my errands done." />
+	<key id="0901101205000189" npc="Zeta" name="Somebody came to me and asked me one more thing hidden in the bag.&#x0A;Squeezing my hand without counting the money,&#x0A;A quick look at the amount of phosphorous can not refuse!" />
+	<key id="0901101205000190" npc="Zeta" name="Check the hide nor where hurriedly disappear,&#x0A;Throw the bag and put the hide roughly within easy reach.&#x0A;However, worrisome to publicize ..." />
+	<key id="0901101205000191" npc="Zeta" name="I realize that hiding the bag Monster watched them.&#x0A;If the owner of the bag aside,&#x0A;The bag is hidden, you can even be looking for who?" />
+	<key id="0901101205000192" npc="Zeta" name="So, where&#x0A;I am not a monster rumored to their hidden mouth&#8217;d hedging." />
+	<key id="0901101205000193" npc="Zeta" name="How to prevent wear and ask how." />
+	<key id="0901101205000194" npc="Zeta" name="This is why amateurs shouldn&#8217;t,.&#x0A;How long do you,!" />
+	<key id="0901101205000195" npc="Zeta" name="There is nothing wrong with mobs." />
+	<key id="0901101205000196" npc="Zeta" name="The original bad guys.&#x0A;This happens even if you&#8217;re not in the world, even unnecessary bitch!" />
+	<key id="0901101205000197" npc="Zeta" name="You don&#8217;t need to feel guilt.&#x0A;I don&#8217;t like people who have seen the monster hunt ever and why?" />
+	<key id="0901101205000198" npc="Zeta" name="You! I did say secret. &#x0A;You have helped my errands for accomplice Como." />
+	<key id="0901101205000199" npc="Zeta" name="Ahh, Yes, the whole body throbbing.&#x0A;Damn, I have an ominous premonition wrong Act." />
+	<key id="0901101205000200" npc="Zeta" name="Why it happened." />
+	<key id="0901101205000201" npc="Zeta" name="The black crusade guys order, asking the whereabouts of the bag it all willy-nilly.&#x0A;Not sure if I&#8217;m going to hit all of a sudden just pretend.&#x0A;Ugh, this is shaky and." />
+	<key id="0901101205000202" npc="Zeta" name="Did say about the whereabouts of the bag." />
+	<key id="0901101205000203" npc="Zeta" name="Crazy?&#x0A;I know if I am a poet hidden bag in place did not.&#x0A;By the way, who would no doubt be conned. Have you ever, have you?" />
+	<key id="0901101205000204" npc="Zeta" name='No, it will be now rather than medication.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000867$&lt;/font&gt;If something is going to be a good drug. Interested in herbal medicine.&#x0A;I went to a bit of Nineveh with reduced mobility.' />
+	<key id="0901101205000205" npc="Zeta" name="While the two eyes is part a plot fit?&#x0A;Mr. Wu ...  In my eyes, the original small!!" />
+	<key id="0901101205000206" npc="Zeta" name="$npc:11000211$ Guys, I&#8217;m not hitting it twice to the accident.&#x0A;A bruise is a good need medicine? Now not to have ..." />
+	<key id="0901101205000207" npc="Fruit cell" name="You can create the right medicine, material shortages.&#x0A;Now the shop empty long himdeuni, that is some of the ingredients instead of the save?" />
+	<key id="0901101205000208" npc="Fruit cell" name="Nevertheless, he says." />
+	<key id="0901101205000209" npc="Fruit cell" name='The materials should not go away, don&#8217;t worry.&#x0A;Have you ever wondered $map:02000138$In &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000161$&lt;/font&gt; Have you ever encountered?' />
+	<key id="0901101205000210" npc="Fruit cell" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000247$&lt;/font&gt; An essential ingredient to create drugs.&#x0A;Well dried is finely grind ... Haha, it&#8217;s not.&#x0A;Talk longer without almost futile.' />
+	<key id="0901101205000211" npc="Fruit cell" name="This is a nasty thing $npc:11000211$ This guy needs to be ..." />
+	<key id="0901101205000212" npc="Fruit cell" name="Save the cake for. HA HA HA." />
+	<key id="0901101205000213" npc="Fruit cell" name='Oops, one more scant material.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$item:30000248$&lt;/font&gt; I need.' />
+	<key id="0901101205000214" npc="Fruit cell" name="Was put on display in the shop among the rotten apples out of things gone shortly, so be&#x0A;Behind them the trash around the floor should be easy." />
+	<key id="0901101205000215" npc="Fruit cell" name="Trade is not, quite a lot of the fruit to rot in the leave.&#x0A;Its a damn shame." />
+	<key id="0901101205000216" npc="Fruit cell" name="Herb studied medicine to people making giving&#x0A;It&#8217;s my hobby and pleasure." />
+	<key id="0901101205000217" npc="Fruit cell" name="If you disclose the ingredients of the medicine all do not want to use my medicine.&#x0A;So do not talk to others. Haha." />
+	<key id="0901101205000218" npc="Fruit cell" name="True, if the medicine is finished I $npc:11000211$We&#8217;ll bring it to." />
+	<key id="0901101205000219" npc="Vito" name="(While it looks up at the top of the Rockefeller Tower.)" />
+	<key id="0901101205000220" npc="Vito" name="That&#8217;s what? If you dream of falling from a high place tall.&#x0A;I&#8217;ve never had such a dream once." />
+	<key id="0901101205000221" npc="Vito" name="So I went up to a high place, would come out of the dream, look below&#x0A;It&#8217;s the best I&#8217;ve seen to go up to a high place, the Rockefeller Tower." />
+	<key id="0901101205000222" npc="Vito" name="Everytime I put the top of the Bay and more,&#x0A;Take a look at the down and feel fine." />
+	<key id="0901101205000223" npc="Vito" name="I&#8217;m taking photos as a Memorial, the creatures are Strip.&#x0A;Drop the camera was aghast, and came away amazed and never thought to find." />
+	<key id="0901101205000224" npc="Vito" name='Go back to the long dreaded, that instead of looking for the camera?&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;The highest place to open up a mini map&lt;/font&gt;If you climb up to find out.&#x0A;The camera has a drop box on the break was there.' />
+	<key id="0901101205000225" npc="Vito" name="However, falls from high places dreams ripped?" />
+	<key id="0901101205000226" npc="Vito" name="To see the pictures in the camera set.&#x0A;Thank you my love!" />
+	<key id="0901101205000227" npc="Patrick" name="(Loud sigh off) Hugh ..." />
+	<key id="0901101205000228" npc="Patrick" name="Why not break a sigh." />
+	<key id="0901101205000229" npc="Patrick" name="I wonder if the Rockefeller Tower collapsed in the fire earthquake came the hard way concerned.&#x0A;Concerned about the safety of the workmen is needless." />
+	<key id="0901101205000230" npc="Patrick" name="$map:02000136$The only thing they are everywhere on the welding gas cylinder&#x0A;You may have seen me around. " />
+	<key id="0901101205000231" npc="Patrick" name="By the way, eonjebuteonga $npc:21000282$ Guys $map:02000136$To order NIE&#x0A;Throw the bombs all over the place not for casual." />
+	<key id="0901101205000232" npc="Patrick" name="If the welding gas cylinder fire if being moved ...&#x0A;Even if you only imagine terrible. There were several stores around the workmen not uptight." />
+	<key id="0901101205000233" npc="Patrick" name='$MyPCName$Lord &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000282$&lt;/font&gt; Chase,&#x0A;This is where workmen can sleep two.' />
+	<key id="0901101205000234" npc="Patrick" name="$npc:21000282$ What did you come to this place because of it?" />
+	<key id="0901101205000235" npc="Patrick" name="Have you ever wondered, we hear a sound of applause?&#x0A;$MyPCName$He&#8217;s watched workmen are also here." />
+	<key id="0901101205000236" npc="Tonk" name="Wow ... HUP ... Wow ..." />
+	<key id="0901101205000237" npc="Tonk" name="Ask what they are doing." />
+	<key id="0901101205000238" npc="Tonk" name="Ready to exercise, and now is in the process of breathing exercises to finish.&#x0A;Huh ... ... Wow ..." />
+	<key id="0901101205000239" npc="Tonk" name="Ready to exercise too long." />
+	<key id="0901101205000240" npc="Tonk" name="My back building is installed in the wire mesh that they break?&#x0A;Among the displaced come me wont be wobbly." />
+	<key id="0901101205000241" npc="Tonk" name="Wire mesh 2 stuck not even losing a step when the center of the body,&#x0A;Crash down the building with wire mesh." />
+	<key id="0901101205000242" npc="Tonk" name='That risk, prepare a nuryeomyeon body movement is essential.&#x0A;Again, &lt;font color=&quot;#ffd200&quot;&gt;$npc:29000025$ Scared&lt;/font&gt; It&#8217;s not like that!' />
+	<key id="0901101205000243" npc="Tonk" name="Wire mesh to repair." />
+	<key id="0901101205000244" npc="Tonk" name="It warms up to the idea of finishing exercise without stopping in La.&#x0A;Wow ... Hur HUP ... Wow ..." />
+	<key id="0901101205000245" npc="Tonk" name="Instead, repair decreed." />
+	<key id="0901101205000246" npc="Tonk" name="Don&#8217;t let the end of.&#x0A;Now I need to focus on finishing your workout. Wow ... ..." />
+	<key id="0901101205000247" npc="Tonk" name="(I noticed watching) huh huh huh huh huh fishing ... Hugh Hugh Hugh Boo ..." />
+	<key id="0901101205000248" npc="Tonk" name="Iron ran deep into the ground puts it well?&#x0A;When I took the toss by hand." />
+	<key id="0901101205000249" npc="Tonk" name="Puts the depth, convulsed." />
+	<key id="0901101205000250" npc="Tonk" name="If you do not know, I can&#8217;t properly written air stop over or late arrival?&#x0A;(District: cache, cache)" />
+	<key id="0901101205000251" npc="Brynner" name="Would bring to it." />
+	<key id="0901101205000252" npc="Brynner" name="What is so good." />
+	<key id="0901101205000253" npc="Brynner" name="You&#8217;ll come to hear a rumor? &#x0A;Damn, I was thinking the same thing when a person is another ..." />
+	<key id="0901101205000254" npc="Brynner" name="What I&#8217;m talking about and asks." />
+	<key id="0901101205000255" npc="Brynner" name='Pretend you don&#8217;t know ...&#x0A;You, too, $map:02000006$The monster who had to &lt;font color=&quot;#ffd200&quot;&gt;Shiny things&lt;/font&gt;They came here to ride in?' />
+	<key id="0901101205000256" npc="Brynner" name="EH? It&#8217;s really not.&#x0A;Yes, as long as this one I tell good information.&#x0A;$map:02000023$If you look at the shiny stuff, elves, but partial to know to write?" />
+	<key id="0901101205000257" npc="Brynner" name="That is going to harass the Elves $map:02000006$The monster in their&#x0A;Collect the shiny stuff that&#8217;s secretly hidden drop too.&#x0A;If you have a good shiny expensive!" />
+	<key id="0901101205000258" npc="Brynner" name="Monster take them to market if it&#8217;s going to be rich and the arm.&#x0A;Shudder men may bring about. Would bring to it." />
+	<key id="0901101205000259" npc="Brynner" name='Okay, now we&#8217;re a team that&#8217;s going to play the roles.&#x0A;I gave the information, you have to go &lt;font color=&quot;#ffd200&quot;&gt;Shiny things&lt;/font&gt;To get to round up.' />
+	<key id="0901101205000260" npc="Brynner" name="Features a bewildered expression." />
+	<key id="0901101205000261" npc="Brynner" name="What do you do? Don&#8217;t waste your time!" />
+	<key id="0901101205000262" npc="Brynner" name="If you are rich $map:02000064$I&#8217;m going to get from the House." />
+	<key id="0901101205000263" npc="Brynner" name="Come together ... What is all this? I don&#8217;t like gold or diamonds?&#x0A;Have you ever tried to take the reins of your many lies to me? Chet." />
+	<key id="0901101205000264" npc="Brynner" name="I thought wrong.&#x0A;Precious stuff might have directly to Riga. " />
+	<key id="0901101205000265" npc="Brynner" name="$map:02000006$ I guess the corollary seems to have turned around ...&#x0A;In case you&#8217;re expensive stuff in the ground to bury stash?" />
+	<key id="0901101205000266" npc="Brynner" name="Bring to, and that&#8217;s it! That&#8217;s why I would never have noticed this sooner.&#x0A;Well, looking around the pond in front of me. Some places are going to be dirt." />
+	<key id="0901101205000267" npc="Brynner" name="Dirt digging things pick up in it.&#x0A;Do not take the reins alone!" />
+	<key id="0901101205000268" npc="Brynner" name="Embedded in the dirt in the hands, not in my side?&#x0A;If some buried soil? I guess the corollary to the right of the pond next to the wipe!" />
+	<key id="0901101205000269" npc="Brynner" name="I guess the corollary is to dig?&#x0A;What&#8217;s in it?" />
+	<key id="0901101205000270" npc="Brynner" name="Now everything is clear $npc:21000264$ Shoes and heard running." />
+	<key id="0901101205000271" npc="Brynner" name="Sheesh, barking up the wrong tree.&#x0A;Here is just one step in vain." />
+	<key id="0901101205000272" npc="Sankt" name="Here, you have to give up?" />
+	<key id="0901101205000273" npc="Sankt" name="Ask what&#8217;s going on." />
+	<key id="0901101205000274" npc="Sankt" name='&lt;font color=&quot;#ffd200&quot;&gt;Flow above water, huge trees&lt;/font&gt;Soak the entire forest.&#x0A;Trends of the duck in the forest is maintained for life.' />
+	<key id="0901101205000275" npc="Sankt" name="By the way, I&#8217;m a fairy forest malragago ggeunhgimyeonseo waterway in the quake.&#x0A;Wood, grass, bugs, and even all the Elves: elm: Elm&#8217;s suffering." />
+	<key id="0901101205000276" npc="Sankt" name="You&#8217;re losing me too getting broken up,&#x0A;Now squeeze the whole force would be difficult to climb over me like that." />
+	<key id="0901101205000277" npc="Sankt" name="Ask what&#8217;s on top of me." />
+	<key id="0901101205000278" npc="Sankt" name="On top of that is the source of water, so on the tree.&#x0A;He sprinkled in the forest if you carry water fairy dying you&#8217;ll find coming to life." />
+	<key id="0901101205000279" npc="Sankt" name="I&#8217;d help." />
+	<key id="0901101205000280" npc="Sankt" name='Yes please? Put water in a bottle of water that I give you.&#x0A;To move to the top of the tree &lt;font color=&quot;#ffd200&quot;&gt;Rock climbing and flying&lt;/font&gt;You must use the appropriate.&#x0A;And, the light you are going to India!' />
+	<key id="0901101205000281" npc="Sankt" name="What&#8217;s the matter?" />
+	<key id="0901101205000282" npc="Sankt" name="$item:30000259$ He or she has lost." />
+	<key id="0901101205000283" npc="Sankt" name="Fairy forest where it asks." />
+	<key id="0901101205000284" npc="Sankt" name="$item:30000259$ Dropped on the floor, he says.&#x0A;I was a week." />
+	<key id="0901101205000285" npc="Sankt" name="I guess you have to put it in the bag ... Once?&#x0A;You&#8217;re right, too." />
+	<key id="0901101205000286" npc="Sankt" name="Dropped on the floor what I picked up.&#x0A;By the way, I&#8217;m a bag full. There is no room for." />
+	<key id="0901101205000287" npc="Sankt" name="Fairy forest looks in the eyes of the people.&#x0A;You can also access the wonder." />
+	<key id="0901101205000288" npc="Sankt" name="Thank you. Bring water and sprinkle in the forest city and umbrellas." />
+	<key id="0901101205000289" npc="Sankt" name="The mind is an urgent, can&#8217;t move because of the monster.&#x0A;If the spilled water rush monsters damage even when everything was floored. " />
+	<key id="0901101205000290" npc="Sankt" name="Monster decreed them aid." />
+	<key id="0901101205000291" npc="Sankt" name="So far, I&#8217;m going to give you, the body, we&#8217;re not flattered." />
+	<key id="0901101205000292" npc="Sankt" name="Fairy called, everyone&#8217;s not with magic." />
+	<key id="0901101205000293" npc="Sankt" name="Now safely $item:30000260$ I have been able to carry it.&#x0A;Thank you." />
+	<key id="0901101205000294" npc="Yoda of Notre" name='Shut up Mitch just chicken! When you try to resonate the sound of the phone ringing without Dan&#8217;s cock.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:21000280$&lt;/font&gt; Guys had me shut up say good chicken.' />
+	<key id="0901101205000295" npc="Yoda of Notre" name="Besides the morning waking sleep thing we share,&#x0A;That guy&#8217;s watch alarm sounds because we don&#8217;t even hear the sound of the chicken." />
+	<key id="0901101205000296" npc="Yoda of Notre" name="Now everybody want me guys every morning to expect sleep to wake up&#x0A;I do not know whether or not the chicken. Pride bruised chickens!" />
+	<key id="0901101205000297" npc="Yoda of Notre" name='Yes!&#x0A;Watch mainspring not just in time for the sound of the phone ringing sound when the Lido would not chicken.&#x0A;You guys have &lt;font color=&quot;#ffd200&quot;&gt;$item:30000307$&lt;/font&gt; Hope the chickens away.' />
+	<key id="0901101205000298" npc="Yoda of Notre" name="Phone ringing phone ringing ... Think this sounds chicken hallucinations from the ears." />
+	<key id="0901101205000299" npc="Yoda of Notre" name="Can&#8217;t hear phone ringing sound, and now seems to buy some chicken!&#x0A;Tomorrow morning is being put to sleep to the sound of them pinch would be able to break the five chickens." />
+	<key id="0901101205000300" npc="Label" name="I didn&#8217;t hear not only?&#x0A;You do not hear me going right?" />
+	<key id="0901101205000301" npc="Label" name="I don&#8217;t know what is talking about." />
+	<key id="0901101205000302" npc="Label" name="The sound of the moving clock hands should have the sense to the wound before stopping.&#x0A;Now the clock is not returning to Gabon. Hihi.&#x0A;I&#8217;ve now Impressionist ... I&#8217;ve had similar?" />
+	<key id="0901101205000303" npc="Label" name="Not a good thing, this looks like a hoax and ask if you can afford to fill." />
+	<key id="0901101205000304" npc="Label" name="Oh, right!&#x0A;Who came and took the keys to the clockwork winder gone ... ...&#x0A;Now I have the key, then Gabon? Hihi." />
+	<key id="0901101205000305" npc="Label" name="(Street) do not find inconceivable are the key." />
+	<key id="0901101205000306" npc="Label" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000308$&lt;/font&gt; , Clock hands can go back again.&#x0A;$map:02000180$ Roam &#x0A;If you notice the eyes fell to the floor letting the mainspring is the key.' />
+	<key id="0901101205000307" npc="Label" name="(Watch alarm mimics the sound.)&#x0A;Phone ringing, the phone ringing~ How about? Warmer?" />
+	<key id="0901101205000308" npc="Label" name="$item:30000308$ Tock Tock my friends I&#8217;m going to have to share. Hihi." />
+	<key id="0901101205000309" npc="Yoda of Notre" name="Loud phone ringing sound was pounding chicken again!&#x0A;This is certainly not chicken hallucinations!" />
+	<key id="0901101205000310" npc="Yoda of Notre" name="(Hesitant to speak about what happened earlier)." />
+	<key id="0901101205000311" npc="Yoda of Notre" name="I think that is helping us out was chicken.&#x0A;But now I think of it as a traitor and chicken!" />
+	<key id="0901101205000312" npc="Yoda of Notre" name="(Embarrassed) decreed what you want." />
+	<key id="0901101205000313" npc="Yoda of Notre" name='If that&#8217;s the case, you &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000280$&lt;/font&gt; I hope my marriage gave me a chicken.&#x0A;When you try again in the morning without an alarm not ringing&#x0A;Need to Höfn chicken tightly.' />
+	<key id="0901101205000314" npc="Yoda of Notre" name="Bah! Listen to give me a favor until a traitor and don&#8217;t want to talk about chickens!" />
+	<key id="0901101205000315" npc="Yoda of Notre" name="Hallucinations has gone chicken! Now the phone ringing sounds not chicken!&#x0A;You are now back to our Inn&#8217;s chicken!" />
+	<key id="0901101205000316" npc="Yoda of Notre" name="Still, come to think of it $item:30000307$ I need not have chicken.&#x0A;I&#8217;ll give the chickens get!" />
+	<key id="0901101205000317" npc="Yoda of Notre" name='You have one more wish to help chicken.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;Climb on top of a tree next to me tossed $item:30000307$&#x0A;Once thrown away&lt;/font&gt; Guys will find it easier to nail the chickens!' />
+	<key id="0901101205000318" npc="Yoda of Notre" name="Before concluding the mission day sweeter insecure chicken!" />
+	<key id="0901101205000319" npc="Yoda of Notre" name="$item:30000330$ He or she has lost." />
+	<key id="0901101205000320" npc="Yoda of Notre" name="Came to see the face." />
+	<key id="0901101205000321" npc="Yoda of Notre" name="$item:30000330$ On the floor and picked up the chicken away." />
+	<key id="0901101205000322" npc="Yoda of Notre" name="I saw what you put in your bag and chicken.&#x0A;My memory is going fit chicken!" />
+	<key id="0901101205000323" npc="Yoda of Notre" name="Fell to the floor I picked chicken.&#x0A;By the way, not using a bag full of chicken!" />
+	<key id="0901101205000324" npc="Yoda of Notre" name="I had no interest to humans, chickens!" />
+	<key id="0901101205000325" npc="Yoda of Notre" name="Now put chicken heart.&#x0A;It&#8217;s able to sleep at night chicken feet!" />
+	<key id="0901101205000326" npc="The not-so-Mont" name="(Looks at and would like to bone.) Looking ... what happened?" />
+	<key id="0901101205000327" npc="The not-so-Mont" name="What I&#8217;m doing in a corner alone." />
+	<key id="0901101205000328" npc="The not-so-Mont" name="I&#8217;m a ... It&#8217;s just ..." />
+	<key id="0901101205000329" npc="The not-so-Mont" name="To help ensure that the work is." />
+	<key id="0901101205000330" npc="The not-so-Mont" name="I ask a favor?&#x0A;Well, there are ..." />
+	<key id="0901101205000331" npc="The not-so-Mont" name="(Wait for the answer.)" />
+	<key id="0901101205000332" npc="The not-so-Mont" name='Everybody looks at me, but other black index brought the color.&#x0A;$map:02000042$In the &lt;font color=&quot;#ffd200&quot;&gt;$item:30000309$&lt;/font&gt;It looks similar to the color with the color of your friends look ...' />
+	<key id="0901101205000333" npc="The not-so-Mont" name="Have you ever wondered $item:30000309$ Looks like colors with your friends and eat&#x0A;You can have?" />
+	<key id="0901101205000334" npc="The not-so-Mont" name="(Tightness, but wait.)" />
+	<key id="0901101205000335" npc="The not-so-Mont" name="$item:30000309$ Just a little NIP?&#x0A;Have carefully followed. Easily confused to index." />
+	<key id="0901101205000336" npc="The not-so-Mont" name="There is a ... You do not have them listen to my favor.&#x0A;Expectations have good section if you pry, I&#8217;d like to stop ..." />
+	<key id="0901101205000337" npc="The not-so-Mont" name="Really $item:30000309$ Get yours.&#x0A;Absolutely horrible~!" />
+	<key id="0901101205000338" npc="The not-so-Mont" name="Now SUP!&#x0A;Well, because well ..." />
+	<key id="0901101205000339" npc="The not-so-Mont" name="……" />
+	<key id="0901101205000340" npc="The not-so-Mont" name="Yuck!" />
+	<key id="0901101205000341" npc="The not-so-Mont" name="Amid this cry Leung. Kerr, Huck ... Weg ..." />
+	<key id="0901101205000342" npc="The not-so-Mont" name="U Oh ... Stomach was sick ... Get a sore throat seems to enter the ...&#x0A;... True ... If you don&#8217;t change to stick with it." />
+	<key id="0901101205000343" npc="The not-so-Mont" name="(Tension remains.)" />
+	<key id="0901101205000344" npc="The not-so-Mont" name="Ugh ... Not true!!&#x0A;Fairy ... You need to drink to the Elves." />
+	<key id="0901101205000345" npc="The not-so-Mont" name="Ask where to put a genie." />
+	<key id="0901101205000346" npc="The not-so-Mont" name="You can carry around a keg containing the green fairy ...&#x0A;I hate the green at view ...&#x0A;Draw water just tossed in the depths of the pond." />
+	<key id="0901101205000347" npc="The not-so-Mont" name="I&#8217;d say bring it." />
+	<key id="0901101205000348" npc="The not-so-Mont" name='Weg ... Soon. Fast &lt;font color=&quot;#ffd200&quot;&gt;$item:30000310$&lt;/font&gt; Please bring.&#x0A;Ponds are $map:02000042$ In the South, I&#8217;m under a small waterfall.' />
+	<key id="0901101205000349" npc="The not-so-Mont" name="Fast $item:30000310$ Please bring.&#x0A;Think it&#8217;s going to die with me." />
+	<key id="0901101205000350" npc="The not-so-Mont" name="EW ...&#x0A;A. .. Groundhog Day ... Discography." />
+	<key id="0901101205000351" npc="The not-so-Mont" name="(Swiping) ... ..." />
+	<key id="0901101205000352" npc="The not-so-Mont" name="……" />
+	<key id="0901101205000353" npc="The not-so-Mont" name="Phew ... Now that is some years old.&#x0A;It is also this enclosure amidst got around, sounds to me like you&#8217;ll get neck okay." />
+	<key id="0901101205000354" npc="The not-so-Mont" name="I&#8217;ve got a real cool." />
+	<key id="0901101205000355" npc="The not-so-Mont" name="Me ... GI ...&#x0A;Me ... Now replaced?" />
+	<key id="0901101205000356" npc="The not-so-Mont" name="Literally say." />
+	<key id="0901101205000357" npc="The not-so-Mont" name="He ... Is it?&#x0A;Guess I&#8217;ll have to devise another method." />
+	<key id="0901101205000358" npc="The not-so-Mont" name="$map:02000043$Looks at the color says that the same friends." />
+	<key id="0901101205000359" npc="The not-so-Mont" name="Here&#8217;s where I live.&#x0A;Adapted from here and I&#8217;d found a way to live." />
+	<key id="0901101205000360" npc="Boy injured in BP Chemicals" name="Hey, come here.&#x0A;Location costs are avoided." />
+	<key id="0901101205000361" npc="Boy injured in BP Chemicals" name="Rain eases, not going easily." />
+	<key id="0901101205000362" npc="Boy injured in BP Chemicals" name='So it makes sense. Guess it&#8217;s that big of a deal.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$map:02000239$&lt;/font&gt;If you go to an umbrella, but&#x0A;Caenggyeogaja NG load non-bot being let go, worry about milked on the NEA would be lost to the unrest.' />
+	<key id="0901101205000363" npc="Boy injured in BP Chemicals" name='Besides &lt;font color=&quot;#ffd200&quot;&gt;$item:30000311$&lt;/font&gt; Even I got lost and impossible situation.&#x0A;What about this here and not only the map.' />
+	<key id="0901101205000364" npc="Boy injured in BP Chemicals" name="$item:30000311$ Where is lost." />
+	<key id="0901101205000365" npc="Boy injured in BP Chemicals" name="$map:02000042$Spilled from the monster, having picked up that quickly.&#x0A;Because of the rain to avoid the bot load first course on a map of la Monster." />
+	<key id="0901101205000366" npc="Boy injured in BP Chemicals" name="I&#8217;d say just to help the matter." />
+	<key id="0901101205000367" npc="Boy injured in BP Chemicals" name='Then &lt;font color=&quot;#ffd200&quot;&gt;$item:30000311$&lt;/font&gt; Find &lt;font color=&quot;#ffd200&quot;&gt;$map:02000239$&lt;/font&gt;In&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$item:30000312$&lt;/font&gt; Get some?&#x0A;$map:02000239$ $map:02000042$ I&#8217;m in the Middle, and hard to find.' />
+	<key id="0901101205000368" npc="Boy injured in BP Chemicals" name="Non-DNP, helping up to KC." />
+	<key id="0901101205000369" npc="Boy injured in BP Chemicals" name="Once $map:02000239$$pp2:, As$ Body and blood.&#x0A;Thank you." />
+	<key id="0901101205000370" npc="Mont-shell" name="What to do? Everybody is looking at me.&#x0A;There are Monster guys, take a look at the to go laugh at me." />
+	<key id="0901101205000371" npc="Mont-shell" name="Why do these fancy dressed as." />
+	<key id="0901101205000372" npc="Mont-shell" name="Questions, do it! Am there is no mate.&#x0A;Stop to look like a witch walking out Wen come on,&#x0A;I bet the big gem-studded cane by showing you&#8217;re giving it if." />
+	<key id="0901101205000373" npc="Mont-shell" name="At best, let&#8217;s rock paper scissors, I also get scissors.&#x0A;By the way ... Ayu, decomposition!&#x0A;Apart from the first edition hit the step to step to me should be better;." />
+	<key id="0901101205000374" npc="Mont-shell" name="His clothes are odd looking Monster turnovers turned into AB.&#x0A;Questions, though, still don&#8217;t take the Crown." />
+	<key id="0901101205000375" npc="Mont-shell" name='Now I&#8217;ll take away nothing when you realize this deception took a turn giving de ...&#x0A;Questions, I do not publicize themselves.&#x0A;As you go &lt;font color=&quot;#ffd200&quot;&gt;I stop and do the same to me instead of the witch game&lt;/font&gt;Need to emulate?' />
+	<key id="0901101205000376" npc="Mont-shell" name="Anyway, nothing to lose, I&#8217;m going to try until you win!" />
+	<key id="0901101205000377" npc="Mont-shell" name="Find my clothes!!! You&#8217;d have to admit the ball fell the big prize of the ...&#x0A;Questions, and now as you can see, empty handed." />
+	<key id="0901101205000378" npc="Witch ghanoush" name="Maps do not appear in the La find intrigued,&#x0A;This is the first time where there is no fun.&#x0A;I now am going someplace else." />
+	<key id="0901101205000379" npc="Witch ghanoush" name="Just as I am but,&#x0A;Still, the place I am going to go undone.&#x0A;I&#8217;m a naughty witch, no." />
+	<key id="0901101205000380" npc="Witch ghanoush" name="That&#8217;s a pathetic reign of the clothes were returned,&#x0A;He put it back to its original date of application in accordance with those pics." />
+	<key id="0901101205000381" npc="Witch ghanoush" name='It should come from and keep your soul? Sniffing.&#x0A;Monster on them &lt;font color=&quot;#ffd200&quot;&gt;$item:30000324$&lt;/font&gt; Put a lock up,&#x0A;Monster soul to get to get to church.' />
+	<key id="0901101205000382" npc="Witch ghanoush" name="Fast $item:30000324$ Never bring?&#x0A;I want to keep this place as soon as possible!" />
+	<key id="0901101205000383" npc="Witch ghanoush" name="OK, give me a hand on souls gathered&#x0A;Saanen rotting in front of my eyes! See also don&#8217;t want to look at." />
+	<key id="0901101205000384" npc="Eddie Ta" name="How are you. This is where the weather is great?&#x0A;Always a place where you can see a rainbow usually don&#8217;t.&#x0A;The weather is also raising corn in the garden of your growing well bred." />
+	<key id="0901101205000385" npc="Eddie Ta" name="A lot of volume, but a shortage of eating with her daughter.&#x0A;By the way, I hav heard of monster who knew the taste of corn,&#x0A;While the Frost without harm." />
+	<key id="0901101205000386" npc="Eddie Ta" name='The amount to grow a lot of coalition Government does not have much with Bonnie,&#x0A;Sounds like a very tough situation. Our creatures are stolen for the family&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$item:30000325$&lt;/font&gt; I find that?' />
+	<key id="0901101205000387" npc="Eddie Ta" name="I hope that the new majority was eat what?" />
+	<key id="0901101205000388" npc="Eddie Ta" name="Fortunately, ate a lot of Chi Woo-Jin anhassneyo.&#x0A;This is new enough corn when they grow up are going to be able to hold out so far." />
+	<key id="0901101205000389" npc="Lodi" name="(Horseshit horse poop and looking at the eyes sink beyond the Rainbow.)" />
+	<key id="0901101205000390" npc="Lodi" name="What they are doing." />
+	<key id="0901101205000391" npc="Lodi" name="? How are you.&#x0A;There are those that think that what is going on beyond the Rainbow was." />
+	<key id="0901101205000392" npc="Lodi" name="I wonder if there is a mushrooming and I would like to see,&#x0A;There are going to be able to go in a minute if the ray intersects the pond,&#x0A;Mom didn&#8217;t even go near a pond." />
+	<key id="0901101205000393" npc="Lodi" name="Beyond the Rainbow, why not ask any questions." />
+	<key id="0901101205000394" npc="Lodi" name="I am wondering why ... I&#8217;m not sure.&#x0A;Don&#8217;t let a mom makes me wonder more." />
+	<key id="0901101205000395" npc="Lodi" name="Instead, he would go." />
+	<key id="0901101205000396" npc="Lodi" name='Really? So Yes will you please?&#x0A;Then &lt;font color=&quot;#ffd200&quot;&gt;$map:02000305$&lt;/font&gt; Please note that any third-party talk, just like danyeowaseo!' />
+	<key id="0901101205000397" npc="Lodi" name="I went to?&#x0A;? Yet?" />
+	<key id="0901101205000398" npc="Lodi" name="I went to?&#x0A;What was it? There are also trees that much? Or is it all over the flower beds?" />
+	<key id="0901101205000399" npc="Lodi" name="(Is hesitant to say anything)." />
+	<key id="0901101205000400" npc="Lodi" name="In this ... Dirt or glue or ... Or maybe it&#8217;s not going to be gotten out of the water." />
+	<key id="0901101205000401" npc="Lodi" name="Just did the sand out." />
+	<key id="0901101205000402" npc="Lodi" name="Yap ... I think it&#8217;s a pretty place are.&#x0A;Heheh ... Thank you for letting us know." />
+	<key id="0901101205000403" npc="Wave," name="This pretty, full of lies!" />
+	<key id="0901101205000404" npc="Wave," name="What is longer." />
+	<key id="0901101205000405" npc="Wave," name="Why not pretend to be casual?&#x0A;You hear the rumors came here?" />
+	<key id="0901101205000406" npc="Wave," name="(And may wonder.)" />
+	<key id="0901101205000407" npc="Wave," name="I&#8217;m going to come here without knowing anything?&#x0A;So I guess no need to be disappointed." />
+	<key id="0901101205000408" npc="Wave," name="Climb to the top is flush with the rumor of treasure kongnamu stone.&#x0A;Everyone is scared of the road climb up my friggin I saw once.&#x0A;In fact, it&#8217;s been a ride that really treasures." />
+	<key id="0901101205000409" npc="Wave," name="But the treasure is peep sighting.&#x0A;Returning empty handed, and people never believe I came here ...&#x0A;I also feel like hitting the hetang ideal ..." />
+	<key id="0901101205000410" npc="Wave," name='Well gotta go grab something.&#x0A;Great look, &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000201$ The low pitched&lt;/font&gt;Is more and more.&#x0A;That&#8217;s going to be quite a bit like the money to bring the octahedral.' />
+	<key id="0901101205000411" npc="Wave," name='How about? Help me &lt;font color=&quot;#ffd200&quot;&gt;$item:30000326$&lt;/font&gt; Not collected?' />
+	<key id="0901101205000412" npc="Wave," name="Look a little more power." />
+	<key id="0901101205000413" npc="Wave," name="Yes, enough is enough.&#x0A;It&#8217;ll be tricky cause I take myself too long." />
+	<key id="0901101205000414" npc="Internship Thurman" name="(The face of Eve) I cry now?&#x0A;As I don&#8217;t have to return to the company." />
+	<key id="0901101205000415" npc="Internship Thurman" name="Ask what&#8217;s going on." />
+	<key id="0901101205000416" npc="Internship Thurman" name="I&#8217;m a Cassie Mart&#8217;s internship.&#x0A;Cache of the business expanded from kerning city, in addition to the&#x0A;Dispatch employees around." />
+	<key id="0901101205000417" npc="Internship Thurman" name='I&#8217;m a pirate to &lt;font color=&quot;#ffd200&quot;&gt;$item:30000327$&lt;/font&gt; Came here to sell.&#x0A;Well, my bags and pockets before showcasing stuff behind.&#x0A;There are the not-so-what&#8217;s the fight throughout.' />
+	<key id="0901101205000418" npc="Internship Thurman" name="When you return to the company, as I am, I just kicked me.&#x0A;Yet the first got a salary." />
+	<key id="0901101205000419" npc="Internship Thurman" name="I&#8217;d say the stolen stuff." />
+	<key id="0901101205000420" npc="Internship Thurman" name="? Is that even possible?&#x0A;They&#8217;ll give him appearing on my doubt." />
+	<key id="0901101205000421" npc="Internship Thurman" name="Are you going to do to aid the pirates." />
+	<key id="0901101205000422" npc="Internship Thurman" name="Well ... So potential customers being reduced?&#x0A;That way is not good." />
+	<key id="0901101205000423" npc="Internship Thurman" name="Only enough to hurt him rather than kicking back stuff?&#x0A;When that happens, I&#8217;m going to hurt them, well better be able to sell the drug." />
+	<key id="0901101205000424" npc="Internship Thurman" name="Just take care of decreed." />
+	<key id="0901101205000425" npc="Internship Thurman" name="No, what&#8217;s more, if a new issue of the stolen stuff, but ...&#x0A;By the way, I think the trauma and the Raiders took a mean?&#x0A;You should not hurt the hearts of customers of Puffy, which." />
+	<key id="0901101205000426" npc="Internship Thurman" name="Well, take care of you?" />
+	<key id="0901101205000427" npc="Internship Thurman" name="Most of the stolen goods back. I&#8217;m glad.&#x0A;Of course, it&#8217;s the 1st salary amount would turn in Medan. The black." />
+	<key id="0901101205000428" npc="Age division" name="(And raising voices.)&#x0A;Hey! , A little quiet!&#x0A;Get loud!!" />
+	<key id="0901101205000429" npc="Age division" name="Who is going to speak to and." />
+	<key id="0901101205000430" npc="Age division" name="Only remaining guys that bony, the guys around him.&#x0A;Shut up and relax, because the guys that can&#8217;t seem to get along." />
+	<key id="0901101205000431" npc="Age division" name="Speaking of, let&#8217;s say, some complain.&#x0A;I went to see the House before coming in real estate said,&#x0A;A good, long beach, La, sounding only gentle waves quiet Outlook said." />
+	<key id="0901101205000432" npc="Age division" name="If you dare to be sure without the need to go to. True faith is the people.&#x0A;So the seal tight pics." />
+	<key id="0901101205000433" npc="Age division" name="By the way, looked out the window to come to the cliff but,&#x0A;A bomb in a bustling activities that guys sound until the popping noises&#x0A;Had a quiet day." />
+	<key id="0901101205000434" npc="Age division" name='It is also true for a day or two. Now I&#8217;m sick.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;You can give me the guys some of my marriage?&lt;/font&gt;' />
+	<key id="0901101205000435" npc="Age division" name="These guys! Blows!" />
+	<key id="0901101205000436" npc="Age division" name="Much better now. It was quite quiet.&#x0A;Sooner or later a man called only get my window faces towards the sea." />
+	<key id="0901101205000437" npc="Longley" name="Phew, finally arrived.&#x0A;Depends on the step down here Oh, out of breath, but the car&#x0A;Do you see yourself walk gap came to feel worthwhile. Haha." />
+	<key id="0901101205000438" npc="Longley" name='Why do you hit me?&#x0A;If you&#8217;re like me, you think?&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;Rudy v Liam stop time of the area abandoned&lt;/font&gt;To listen talk come from?' />
+	<key id="0901101205000439" npc="Longley" name="Don&#8217;t go over time here.&#x0A;The longer I would eat this, and I&#8217;m not going to get old map!&#x0A;Young can&#8217;t be ageless alone I am satisfied." />
+	<key id="0901101205000440" npc="Longley" name="By the way, not a weird people flocked here.&#x0A;This idea is not to just anyone?&#x0A;... I had some intelligent, long since childhood. Chuckling." />
+	<key id="0901101205000441" npc="Longley" name="No, but there are too many.&#x0A;Monster&#8217;s smart appearance than seeing people flocked. Chuckling.&#x0A;But I don&#8217;t but stay safe. To get rid of you guys." />
+	<key id="0901101205000442" npc="Longley" name="If you do not have to worry about any more wrinkles?" />
+	<key id="0901101205000443" npc="Longley" name="Now, some think you&#8217;re comfortable.&#x0A;Crowd goes, soon-come and raise a House." />
+	<key id="0901101205000444" npc="Jena" name="Hoi Hoi!!!!&#x0A;I&#8217;m magical girl!" />
+	<key id="0901101205000445" npc="Jena" name="Know what you are doing." />
+	<key id="0901101205000446" npc="Jena" name="The monster here. The original was.&#x0A;The bad witch has spells. The poor?" />
+	<key id="0901101205000447" npc="Jena" name="So, I came here to protect against witchcraft and witches are released.&#x0A;Me? The scan also since I am the wizard.&#x0A;Oh, there&#8217;s nothing like that, of course, qualifications. The original Wizard Yes." />
+	<key id="0901101205000448" npc="Jena" name="Pero ... If you want to release the magic of Monster I&#8217;m caged souls to collect.&#x0A;So I&#8217;ve been close to me ... the monster&#x0A;U Oh ... Just hit me." />
+	<key id="0901101205000449" npc="Jena" name="Maybe the unfortunate souls la strangers or greater security ...&#x0A;I think it&#8217;s." />
+	<key id="0901101205000450" npc="Jena" name="Any force would have to collect the soul aced.&#x0A;To assist with them rated.&#x0A;Seem to me rather than power line, I&#8217;ll ask." />
+	<key id="0901101205000451" npc="Jena" name="Magic to go to buy, where to buy the rods?&#x0A;$map:02000209$If you go to?" />
+	<key id="0901101205000452" npc="Jena" name="Huh?? Huh huh???&#x0A;Why empty handed?" />
+	<key id="0901101205000453" npc="Jena" name="Monster soul is trapped in was." />
+	<key id="0901101205000454" npc="Jena" name="Somehow, the human soul is so quick to attack me and Nestle would not have been heard ...&#x0A;By the way, the Witch Witchcraft thing there isn&#8217;t here??" />
+	<key id="0901101205000455" npc="Jena" name="I think come up properly!" />
+	<key id="0901101205000456" npc="Jena" name="What to say and ask." />
+	<key id="0901101205000457" npc="Jena" name='&lt;font color=&quot;#ffd200&quot;&gt;$npc:21400746$&lt;/font&gt;Lang &lt;font color=&quot;#ffd200&quot;&gt;$npc:23000047$&lt;/font&gt;!&#x0A;This place must have been in hiding the body.' />
+	<key id="0901101205000458" npc="Jena" name="And who they are." />
+	<key id="0901101205000459" npc="Jena" name='$npc:23000047$ &lt;font color=&quot;#ffd200&quot;&gt;Sage was supposed to seal by troublemaker&lt;/font&gt;.&#x0A;By the way, black magic, why was pushed to the Elves $npc:21400746$&#x0A;He made his alpha dog to wake up as a troublemaker.' />
+	<key id="0901101205000460" npc="Jena" name="A lot of people worried, but he was quietly tucked two traces.&#x0A;(In fact, the whole reason I was here, which lowers the voice).&#x0A;He found a clue that you are here." />
+	<key id="0901101205000461" npc="Jena" name="Why not find them." />
+	<key id="0901101205000462" npc="Jena" name="A legendary troublemaker and Warlock rang and seal the soul,&#x0A;Maple contributes to peace in the world is not calling the wizard?" />
+	<key id="0901101205000463" npc="Jena" name="I reckon and able to do." />
+	<key id="0901101205000464" npc="Jena" name="Ah ... That&#8217;s ... I am now the magic rod.&#x0A;Umbrellas-Oh, never got it.&#x0A;If you do not have a magic rod, didn&#8217;t mean to write a spell." />
+	<key id="0901101205000465" npc="Jena" name="So, on behalf of me to contribute to the world peace and Maple?&#x0A;If you wait carefully from here $npc:23000047$ I&#8217;ll reveal the appearance." />
+	<key id="0901101205000466" npc="Jena" name="$npc:23000047$The look of the not yet seen?" />
+	<key id="0901101205000467" npc="Jena" name="What a great day! The legend of the monster to fight Dani ..." />
+	<key id="0901101205000468" npc="Fitz" name="Don&#8217;t look this way!&#x0A;RadioShack to talk while watching!" />
+	<key id="0901101205000469" npc="Fitz" name="Ask what&#8217;s going on." />
+	<key id="0901101205000470" npc="Fitz" name="I am here to know colleagues in hiding on this day I&#8217;m not going to let go.&#x0A;Scary guys." />
+	<key id="0901101205000471" npc="Fitz" name="Colleagues who ask." />
+	<key id="0901101205000472" npc="Fitz" name="Oh, now I can&#8217;t be called a colleague.&#x0A;There are pirates. Actually, I was a little bit until the pirates.&#x0A;They still treat me a pirate." />
+	<key id="0901101205000473" npc="Fitz" name="Once a pirate, tasty food and lovely girl&#x0A;And figured I&#8217;d stay surrounded by all sorts of loot.&#x0A;By the way, I&#8217;ve gotten every carry, only occasionally strewn with the wounded to pull out of these predatory." />
+	<key id="0901101205000474" npc="Fitz" name="No more deception from the pirates didn&#8217;t rule the roost and harder to do.&#x0A;So I just nagagessdago from the pirates, gave thanks to give values for feed&#x0A;Not if you don&#8217;t pay all that it stands for." />
+	<key id="0901101205000475" npc="Fitz" name="Where this fraud is a scam!&#x0A;So now I&#8217;m trying to get away with running this island lives." />
+	<key id="0901101205000476" npc="Fitz" name="There is a pirate because not easy to escape.&#x0A;Let me hear you go to church it would be this easy to escape." />
+	<key id="0901101205000477" npc="Fitz" name="There there child.&#x0A;That&#8217;s a particularly evil quality children. Only renovate squeeze vis-à-vis the eye guy." />
+	<key id="0901101205000478" npc="Fitz" name="It was good! Before the other guys I&#8217;m going to run fast.&#x0A;I&#8217;ll never say thank you. Anyway, the bad guys are, you just have to do a good deed." />
+	<key id="0901101205000479" npc="Ruben" name="Stranger in a place like this, but I think it is good to see, rather than&#x0A;Do not disturb the mind to." />
+	<key id="0901101205000480" npc="Ruben" name="I&#8217;d say avoid the place." />
+	<key id="0901101205000481" npc="Ruben" name="No, you do not need to go so right.&#x0A;The finish swamped the arduous, it alone was more necessary." />
+	<key id="0901101205000482" npc="Ruben" name="Ask what help." />
+	<key id="0901101205000483" npc="Ruben" name="I&#8217;m a $map:02000068$ I have come here as belonging to.&#x0A;And the secret mission.&#x0A;So I can&#8217;t tell you the detailed matters." />
+	<key id="0901101205000484" npc="Ruben" name='I&#8217;ll tell you what to do.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;A photography equipment bags&lt;/font&gt;I&#8217;ll go with this, let&#x0A;$map:02000183$ All over the place &lt;font color=&quot;#ffd200&quot;&gt;Photography equipment installation&lt;/font&gt;.' />
+	<key id="0901101205000485" npc="Ruben" name="What brings you back?&#x0A;I can&#8217;t answer for a secret mission." />
+	<key id="0901101205000486" npc="Ruben" name="$item:30000364$ He or she has lost." />
+	<key id="0901101205000487" npc="Ruben" name="Just a passing length." />
+	<key id="0901101205000488" npc="Ruben" name="$item:30000364$ Go pick up and leave." />
+	<key id="0901101205000489" npc="Ruben" name="I did jamming in the bag?" />
+	<key id="0901101205000490" npc="Ruben" name="Fell to the floor, but I&#8217;ve picked up something&#x0A;Using a bag you have a full count." />
+	<key id="0901101205000491" npc="Ruben" name="Ah ... For example." />
+	<key id="0901101205000492" npc="Ruben" name="I think I have fulfilled the mission more quickly.&#x0A;Have passed the exam. Now suppose another Commission be able to assist." />
+	<key id="0901101205000493" npc="Ruben" name="How about even." />
+	<key id="0901101205000494" npc="Ruben" name="If you are uncomfortable with puzzled wonder.&#x0A;Join in on this secret mission to think the process for now." />
+	<key id="0901101205000495" npc="Ruben" name="The following referees will officiate in the photography equipment installed here, it is also important to record them, but&#x0A;The Mission of the actual article ..." />
+	<key id="0901101205000496" npc="Ruben" name="Water washed up on beaches Allman with a plank in their collection.&#x0A;That&#8217;s why you need the planks?" />
+	<key id="0901101205000497" npc="Ruben" name="Ask for a drink, let&#8217;s pick up the planks with me.&#x0A;Plank in inconspicuous places should not be just any excess." />
+	<key id="0901101205000498" npc="Ruben" name="I can not go back, fell to the floor planks there to pick up strength." />
+	<key id="0901101205000499" npc="Ruben" name="I find this among the planks plank that would have to be tight.&#x0A;Today, please remember that the secret mission." />
+	<key id="0901101205000500" npc="Claire" name="Who is? Going to say? You, a monster?&#x0A;You&#8217;ve got to get a quick look at check. the keyhole." />
+	<key id="0901101205000501" npc="Claire" name="Watch your nails?&#x0A;All around were oblivious, spend your Monster?" />
+	<key id="0901101205000502" npc="Claire" name="Doing inside." />
+	<key id="0901101205000503" npc="Claire" name="Ahh,! I am going crazy bleachers.&#x0A;What is shut up in a day or two, nor look at this exhibition.&#x0A;No help available." />
+	<key id="0901101205000504" npc="Claire" name="If you pull it cramped." />
+	<key id="0901101205000505" npc="Claire" name="Gosh, what a cock? All you need to do is get out of monster would tackle them.&#x0A;Those properties that the dirty bastards.&#x0A;He was not only an old lady ... ..." />
+	<key id="0901101205000506" npc="Claire" name="No one, even though the NEA asked bet on the order.&#x0A;By the way, I&#8217;m sore, well ... In people spell.&#x0A;I have everything to make your Monster." />
+	<key id="0901101205000507" npc="Claire" name="Magic pool that way." />
+	<key id="0901101205000508" npc="Claire" name="That old woman say as did magic.&#x0A;A collection of fresh roses in the garden to create a monster of pin head called the Garland upon." />
+	<key id="0901101205000509" npc="Claire" name="And I&#8217;ve tried to do so." />
+	<key id="0901101205000510" npc="Claire" name="Crazy? Monster walks in the garden because I never, never have the caliber of roses?&#x0A;Why do I need to create a Garland for me?&#x0A;Then thorns stuck or something ... Jeolrejeolre." />
+	<key id="0901101205000511" npc="Claire" name='I don&#8217;t know, I&#8217;m sick in the bleachers.&#x0A;I now let out &lt;font color=&quot;#ffd200&quot;&gt;Give a little to get rid of monsters&lt;/font&gt;.' />
+	<key id="0901101205000512" npc="Claire" name="Still out monsters sounds?" />
+	<key id="0901101205000513" npc="Claire" name="I got to go now?&#x0A;The sound of silence was revoked long monsters. Was told to." />
+	<key id="0901101205000514" npc="Greedy witch Akashi" name="AAH!!! Got something you want to have!&#x0A;How do you put in the hands of fence!" />
+	<key id="0901101205000515" npc="Greedy witch Akashi" name="Ask what&#8217;s going on." />
+	<key id="0901101205000516" npc="Greedy witch Akashi" name="The new learn magic ... It&#8217;s easy once you get the hang of&#x0A;As my mind could call upon monsters!" />
+	<key id="0901101205000517" npc="Greedy witch Akashi" name='But that&#8217;s not easy to have convenient access to them by the magic.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:22090007$&lt;/font&gt; Have the &lt;font color=&quot;#ffd200&quot;&gt;$item:30000366$&lt;/font&gt;But, if you have a&#x0A;Would be able to easily learn about horses ...' />
+	<key id="0901101205000518" npc="Greedy witch Akashi" name="A witch would be the main wishes of good things to talk about?&#x0A;How about? $item:30000366$ I&#8217;m not one to save?" />
+	<key id="0901101205000519" npc="Greedy witch Akashi" name="Amid the blown out before dying of old age waiting!" />
+	<key id="0901101205000520" npc="Greedy witch Akashi" name="Oh clothes! Finally!!!&#x0A;Now even could complete the summoning!" />
+	<key id="0901101205000521" npc="Elders do Voinovich" name="It will be pointless.&#x0A;People should not have to lose their lives, they say." />
+	<key id="0901101205000522" npc="Elders do Voinovich" name="Ask what&#8217;s going on." />
+	<key id="0901101205000523" npc="Elders do Voinovich" name='&lt;font color=&quot;#ffd200&quot;&gt;$map:02000038$ The dense trees&lt;/font&gt;Try looking a lot of woodcutter.&#x0A;But the monster, especially &lt;font color=&quot;#ffd200&quot;&gt;$npc:22000024$&lt;/font&gt;There are also many places to buy because of the threat of this.' />
+	<key id="0901101205000524" npc="Elders do Voinovich" name='The woodcutter could bring their vigilante $npc:22000024$ Don&#8217;t kill&#x0A;Frequently asked. However, &lt;font color=&quot;#ffd200&quot;&gt;$map:02000038$Forest guard.&lt;/font&gt;The&#x0A;Public opinion because the woodcutter was haphazard, net of their needs.' />
+	<key id="0901101205000525" npc="Elders do Voinovich" name="Vigilante could $npc:22000024$ Aid is&#x0A;The woodcutter felling in there even if I just admit that?." />
+	<key id="0901101205000526" npc="Elders do Voinovich" name="But, the woodcutter does not stop logging from there what would you do.&#x0A;In addition, a provision $npc:22000024$Even if you lose your life to what would you do if you have." />
+	<key id="0901101205000527" npc="Elders do Voinovich" name="So, you $npc:22000024$ Church gives you what?&#x0A;I do not say that wherever you go." />
+	<key id="0901101205000528" npc="Elders do Voinovich" name="$npc:22000024$ The only thing not always revealing look.&#x0A;You&#8217;ll receive the waiting." />
+	<key id="0901101205000529" npc="Elders do Voinovich" name="Now the woodcutter felling in there not only have left to persuade.&#x0A;$npc:22000024$ I got rid of it, but to keep the trees and forests." />
+	<key id="0901101205000530" npc="Time engineering Hove" name="Shut up you&#8217;re not concentrating.&#x0A;Thereby increasing the concentration of beautiful music.&#x0A;You&#8217;ll hear the sound of me but just noise!" />
+	<key id="0901101205000531" npc="Time engineering Hove" name='Deception is not fly. Ireodaganeun research I am going to miss.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$npc:21000169$, $npc:21000172$, $npc:21000174$&lt;/font&gt;As to the&#x0A;They have to give away the instrument.' />
+	<key id="0901101205000532" npc="Time engineering Hove" name="The only thing I ever thought about not so keen.&#x0A;No matter how I think about normal." />
+	<key id="0901101205000533" npc="Time engineering Hove" name="Now that is some quiet.&#x0A;Thanks to research hard to be cool." />
+	<key id="0901101205000534" npc="Trets no" name="Hmm ...&#x0A;……&#x0A;In Hugh ... " />
+	<key id="0901101205000535" npc="Trets no" name="Why not break a sigh." />
+	<key id="0901101205000536" npc="Trets no" name="Reminds me of the good old days Grubbs.&#x0A;Now and again I can&#8217;t experience the ... Just memories." />
+	<key id="0901101205000537" npc="Trets no" name="Ask what&#8217;s going on." />
+	<key id="0901101205000538" npc="Trets no" name='I&#8217;d found the place &lt;font color=&quot;#ffd200&quot;&gt;A bunch of kids l. $map:02000184$ Tour train&lt;/font&gt;Is&#x0A;My hung over the railroad tracks in front of them. All the kids laughing and banging ...' />
+	<key id="0901101205000539" npc="Trets no" name="Now there are no kids looking for a place, and then Bonnie ride that&#8217;s disposed of.&#x0A;Why is the turning of children disconnected I don&#8217;t know.&#x0A;Like the daily routine here, but saw the appearance of children&#8217;s ages." />
+	<key id="0901101205000540" npc="Trets no" name='...&lt;font color=&quot;#ffd200&quot;&gt;Monster infested vs. risk&lt;/font&gt;Would you like to come to any child, and laughing.&#x0A;Which reminds me ... Have you ever wondered ... Monster because the situation is so old?&#x0A;Creatures are gone, come for children?' />
+	<key id="0901101205000541" npc="Trets no" name="Let me be the one.&#x0A;Let&#8217;s scare the monsters here.&#x0A;And let&#8217;s keep the kids coming back." />
+	<key id="0901101205000542" npc="Trets no" name="Come to think of it, sounds like a very bad guys.&#x0A;Those are my kids tryin to chase." />
+	<key id="0901101205000543" npc="Trets no" name="Now, even this did not drop as the monster.&#x0A;It&#8217;s not. Now suppose the place fillers for kids?" />
+	<key id="0901101205000544" npc="Kumi air" name="Come on, come on!&#x0A;Welcome to all those who come to this place! HA HA!" />
+	<key id="0901101205000545" npc="Kumi air" name='Welcome to the place for all those who &lt;font color=&quot;#ffd200&quot;&gt;Gift box&lt;/font&gt;Ready.&#x0A;$map:02000184$ – Gift box.&#x0A;See the gift must not be directed beyond the back aghast. Haha.' />
+	<key id="0901101205000546" npc="Kumi air" name="We are the first or only a few people with the gift of a lottery.&#x0A;This is where all those chances to." />
+	<key id="0901101205000547" npc="Kumi air" name="Open the gift box? Haha.&#x0A;What a surprise?" />
+	<key id="0901101205000548" npc="Kumi air" name="That&#8217;s why gift a real hassle." />
+	<key id="0901101205000549" npc="Kumi air" name="This, for me, angry gene.&#x0A;Painter I laugh and hold down the angry now! Haha." />
+	<key id="0901101205000550" npc="O Zuma" name="Have you ever wondered $map:02000184$Did you go to? $map:02000255$What?&#x0A;Was not over?" />
+	<key id="0901101205000551" npc="O Zuma" name="What did more than ask." />
+	<key id="0901101205000552" npc="O Zuma" name='$map:02000184$ In the past, did not seem in time?&#x0A;On the other hand this is the &lt;font color=&quot;#ffd200&quot;&gt;The future of space&lt;/font&gt;This quiet.&#x0A;Obviously, now has only one time zone, Rudy&#8217;s not v Liam area.' />
+	<key id="0901101205000553" npc="O Zuma" name="Why do I think so." />
+	<key id="0901101205000554" npc="O Zuma" name="Heh, I&#8217;m a time travel, this is where I first lived in similar places.&#x0A;I&#8217;ve tried a long time travel into the past, close to the same time zone ..." />
+	<key id="0901101205000555" npc="O Zuma" name="Here you can see investigate robots.&#x0A;I originally decided to move, so you salawassdeon time&#x0A;Manufactured products whether or not." />
+	<key id="0901101205000556" npc="O Zuma" name='Here, mounted on the robot in memory chip to save?&#x0A;That is, if the &lt;font color=&quot;#ffd200&quot;&gt;Determine when the production of the robot&lt;/font&gt;You&#8217;ll be able to do.' />
+	<key id="0901101205000557" npc="O Zuma" name="Interesting. Other areas also turned to which time zone?" />
+	<key id="0901101205000558" npc="O Zuma" name="Analysis of the memory chip, embracing me.&#x0A;Now here I can tell you that the results of the analysis difficult, but ..." />
+	<key id="0901101205000559" npc="O Zuma" name="If the results meet again after I&#8217;ll let you know.&#x0A;After hood." />
+	<key id="0901101205000560" npc="Bodyguards Gardner" name="Show jeulgireo?&#x0A;Wait in front of the stage." />
+	<key id="0901101205000561" npc="Bodyguards Gardner" name="Say interest in the show." />
+	<key id="0901101205000562" npc="Bodyguards Gardner" name="Oh, is this? That lowers the voices tell me.&#x0A;Hear the band members yuk." />
+	<key id="0901101205000563" npc="Bodyguards Gardner" name='So in case you can help us?&#x0A;The show was just the beginning ...&#x0A;Yet &lt;font color=&quot;#ffd200&quot;&gt;I&#8217;m not off the beaten track venues&lt;/font&gt; Is concerned.' />
+	<key id="0901101205000564" npc="Bodyguards Gardner" name="But another part of the safety issues, my responsibility&#x0A;That part I wouldn&#8217;t be able to afford alone, to HA long power boggles the mind." />
+	<key id="0901101205000565" npc="Bodyguards Gardner" name="If you ask what help is." />
+	<key id="0901101205000566" npc="Bodyguards Gardner" name='The audience enters the stage in front of the venues to not install&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$item:30000372$&lt;/font&gt; Monster stole them.&#x0A;It is installed on the front of the stage to find them.' />
+	<key id="0901101205000567" npc="Bodyguards Gardner" name="Come up with a show up the stage to disturb the audience&#x0A;In concert whenever one of the two says." />
+	<key id="0901101205000568" npc="Bodyguards Gardner" name="Band members also had tough, arduous guard&#x0A;Thanks for your help." />
+	<key id="0901101205000569" npc="Eaters Rouen" name="Wo~ Breath, get away with it." />
+	<key id="0901101205000570" npc="Eaters Rouen" name="Ask why." />
+	<key id="0901101205000571" npc="Eaters Rouen" name="So good ... Heheh.&#x0A;There ought to be a paradise from the ground up.&#x0A;Teeming with food all over the place. Agency&#8217;s eat anything." />
+	<key id="0901101205000572" npc="Eaters Rouen" name="AW, which reminds me is you a long time.&#x0A;The last time $item:20000013$ Gave you were saved?&#x0A;Heheh, then we are also helping me look like?" />
+	<key id="0901101205000573" npc="Eaters Rouen" name="Want to eat candy that looks like wood, here&#x0A;Sweet fragrance I like to soak the body in the pond,&#x0A;Creatures are cerebrum disturb not easy." />
+	<key id="0901101205000574" npc="Eaters Rouen" name="I&#8217;ve got a bunch of nails to eat on that front too painful.&#x0A;Monster little church." />
+	<key id="0901101205000575" npc="Eaters Rouen" name="Keep the boat Corse no sound ..." />
+	<key id="0901101205000576" npc="Eaters Rouen" name="Now there are no guests were able to eat without interference.&#x0A;Again, thanks for the help." />
+	<key id="0901101205000577" npc="Carrie" name="Now it looks to my eye all the things I saw in a dream, lang remained the same.&#x0A;I still have dreams? Take a look at a pinch?" />
+	<key id="0901101205000578" npc="Carrie" name="Would pinch." />
+	<key id="0901101205000579" npc="Carrie" name="Holy cow! You are going to want to to Miranda and real?&#x0A;I got it. Apart from to say." />
+	<key id="0901101205000580" npc="Carrie" name="By the way, I saw in a dream I had one other point.&#x0A;In my dreams I have had that ugly looking monsters are." />
+	<key id="0901101205000581" npc="Carrie" name="I think the only people who dream as pretty damn that monster who beats out RI.&#x0A;If it&#8217;s a nightmare creatures are my dream-Glo." />
+	<key id="0901101205000582" npc="Carrie" name="Really, this is pretty and lovely space creatures are what Bonnie&#x0A;It cannot stand. You should not scare monsters?" />
+	<key id="0901101205000583" npc="Carrie" name="Followed by strawberries on top of cake do you prefer?&#x0A;Followed by cherries do you prefer?" />
+	<key id="0901101205000584" npc="Carrie" name="Look at the hanging! Creatures are disappearing?&#x0A;This place is much more lovable." />
+	<key id="0901101205000585" npc="Haley" name="(Head wraps are annoyed.)&#x0A;What about this ... " />
+	<key id="0901101205000586" npc="Haley" name="Ask what&#8217;s going on." />
+	<key id="0901101205000587" npc="Haley" name='Believe it or not, I&#8217;m from the future.&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;Time travel&lt;/font&gt;I&#8217;m. By the way, if you accidentally stop ...' />
+	<key id="0901101205000588" npc="Haley" name="First place was chased them, the monsters&#x0A;I try time travel section was brought here to chase the monster." />
+	<key id="0901101205000589" npc="Haley" name="So ... If that is not the monster guys.&#x0A;This place confused me because I think be bothering your mind." />
+	<key id="0901101205000590" npc="Haley" name="The problem is before I&#8217;d kill a monster." />
+	<key id="0901101205000591" npc="Haley" name="Yes?&#x0A;When that happens, my mind would be more comfortable." />
+	<key id="0901101205000592" npc="Haley" name="How did was to move them up with Monster ..." />
+	<key id="0901101205000593" npc="Haley" name=", That&#8217;s great!&#x0A;I&#8217;ve been able to put down the burden of mind!" />
+	<key id="0901101205000594" npc="The brave tree weather" name="Sheesh, here is a new construction site worker?" />
+	<key id="0901101205000595" npc="The brave tree weather" name="Answer, not ask what&#8217;s going on." />
+	<key id="0901101205000596" npc="The brave tree weather" name="$map:02000051$ At the turn of the construction site in the area,&#x0A;Wood Tobe and break the cliff rocks also slimmed." />
+	<key id="0901101205000597" npc="The brave tree weather" name="Wood&#8217;s life and even breaths of rock ...&#x0A;We can get your hands on our hearts as to nature." />
+	<key id="0901101205000598" npc="The brave tree weather" name='So $map:02000051$ Local people tried to protest the visit to the construction site.&#x0A;Then, there are &lt;font color=&quot;#ffd200&quot;&gt;Jaw ticket only&lt;/font&gt;Could people just slap the Chase.' />
+	<key id="0901101205000599" npc="The brave tree weather" name="I&#8217;m begging.&#x0A;I can do myself is greater ... Until then, can&#8217;t wait&#x0A;Instead of me just to give me a scare in the town of jaw lol." />
+	<key id="0901101205000600" npc="The brave tree weather" name="««How to get only the jaw-speaking guys, strength that smug ...&#x0A;I really don&#8217;t want to see." />
+	<key id="0901101205000601" npc="The brave tree weather" name="Just look at these guys, good Chin lol. Heheh.&#x0A;But Chin lol only guys would continue construction of eobseojyeodo?" />
+	<key id="0901101205000602" npc="The brave tree weather" name="Maybe I don&#8217;t send them more Sen.&#x0A;Though ggus makes ggus $map:02000051$ It&#8217;s going to keep." />
+	<key id="0901101205000603" npc="The not-so-NIKA" name="Should not happen, has happened again! How is the collected signatures from ...&#x0A;$map:02000051$ The rest of the region, other tribal people so far&#x0A;That was going to convince." />
+	<key id="0901101205000604" npc="The not-so-NIKA" name="Ask what&#8217;s going on." />
+	<key id="0901101205000605" npc="The not-so-NIKA" name='&lt;font color=&quot;#ffd200&quot;&gt;Kaka tribe of warriors &apos;Tianjin&apos;&lt;/font&gt;I got to know about?&#x0A;He did not know how great hero Lee?' />
+	<key id="0901101205000606" npc="The not-so-NIKA" name="Devil fight against the lives lost and he ...&#x0A;I know that you have received some treatment after the fact?" />
+	<key id="0901101205000607" npc="The not-so-NIKA" name="Three other heroes are treated as La pen&#8217;s protector.&#x0A;But Lichtenstein is? Only one built as a monument to just this!" />
+	<key id="0901101205000608" npc="The not-so-NIKA" name="I think he deserves a treat this more tension.&#x0A;So to have a memorial for park establishment&#x0A;$npc:11000075$Requests to the idea." />
+	<key id="0901101205000609" npc="The not-so-NIKA" name='By the way $npc:11000075$Pass on to &lt;font color=&quot;#ffd200&quot;&gt;$item:30000373$&lt;/font&gt;&#x0A;Both lost thingy.' />
+	<key id="0901101205000610" npc="The not-so-NIKA" name="I&#8217;ve put it down on the floor for a minute, blew in the breeze as the monsters went the hands.&#x0A;Why do I do? Even put up a sign on top of the stone in the air was supposed to ..." />
+	<key id="0901101205000611" npc="The not-so-NIKA" name="I&#8217;d help." />
+	<key id="0901101205000612" npc="The not-so-NIKA" name='I really do? &lt;font color=&quot;#ffd200&quot;&gt;Monster who took a walk&lt;/font&gt; I say back?&#x0A;Thank you so much. Already in tears.' />
+	<key id="0901101205000613" npc="The not-so-NIKA" name="Got the soil in some cool signed.&#x0A;If you can not recognize the content." />
+	<key id="0901101205000614" npc="The not-so-NIKA" name="Yes, I lost $item:30000373$ That&#8217;s right!&#x0A;My eyes picked it&#8217;s moisturizing? I am so thrilled. Thank you so much." />
+	<key id="0901101205000615" npc="Flat Rock" name="? EH LAT? You, you are going to sit my hang on now-do?&#x0A;Take a look at this, not to ignore me." />
+	<key id="0901101205000616" npc="Flat Rock" name='This body is es ...&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;The legend of heroes &apos;Tianjin&apos;&lt;/font&gt;This was to take a break astride a rock column.' />
+	<key id="0901101205000617" npc="Flat Rock" name="Bah! &apos;Tianjin&apos;Ass like that would make southern rock common touched me?&#x0A;This body is not commonplace compared with pebbles." />
+	<key id="0901101205000618" npc="Flat Rock" name="So &apos;Tianjin&apos;This indoor onwards,&#x0A;This is the only person who can take a break to sit on the body &apos;Tianjin&apos;As well! " />
+	<key id="0901101205000619" npc="Flat Rock" name="Uh, by the way. You say no, but&#x0A;My car is sitting with the feet walked on-Tuk-why a lot of these guys." />
+	<key id="0901101205000620" npc="Flat Rock" name="In particular, Monster! GNOME are the kicking, I simply say this.&#x0A;They insult you giving?&#x0A;Then once I&#8217;ll able to sit on top of the mine." />
+	<key id="0901101205000621" npc="Flat Rock" name="Yet I don&#8217;t think sit down!" />
+	<key id="0901101205000622" npc="Flat Rock" name="HA HA HA, did. Everything I saw! Give your monsters insult.&#x0A;The genus is cool." />
+	<key id="0901101205000623" npc="Squat ass" name='Shhh! Now &lt;font color=&quot;#ffd200&quot;&gt;-La-Forêt do thorn&lt;/font&gt;Was trying to come in your mouth?&#x0A;That&#8217;s not to take out the word abuse.' />
+	<key id="0901101205000624" npc="Squat ass" name="You know what you are saying." />
+	<key id="0901101205000625" npc="Squat ass" name="Don&#8217;t stop the visible lack of acid-do you know what to take the curse is gone?&#x0A;Knowing it don&#8217;t do barbed thorns, a-la-Forêt-la-Forêt you want?" />
+	<key id="0901101205000626" npc="Squat ass" name="Still I don&#8217;t know what I&#8217;m talking about." />
+	<key id="0901101205000627" npc="Squat ass" name='I say this. The only survivor of the visible lack of de la Forêt.&#x0A;Take a look at my identity caught deliberately &lt;font color=&quot;#ffd200&quot;&gt;Yucca fruit, Yama&lt;/font&gt;Ate.&#x0A;Eat it, come early aging.' />
+	<key id="0901101205000628" npc="Squat ass" name="Now no one should never recognize me, and ate the fruit way Kayama just well done.&#x0A;By the way, I didn&#8217;t know what the side effects. The body is often the itchiness." />
+	<key id="0901101205000629" npc="Squat ass" name="Some say to wash." />
+	<key id="0901101205000630" npc="Squat ass" name="(See me now the Burberry luck) dirty and want to say?&#x0A;This~ Trying to live clean up." />
+	<key id="0901101205000631" npc="Squat ass" name='Anyway &lt;font color=&quot;#ffd200&quot;&gt;$npc:21000111$Grinding of&lt;/font&gt;As I rub the itchy places&#x0A;The itching is gone, this bud.&#x0A;So, go ahead and &lt;font color=&quot;#ffd200&quot;&gt;$item:30000374$&lt;/font&gt; Give me a little is saved.' />
+	<key id="0901101205000632" npc="Squat ass" name="Hands do not touch ... I would like to, such as scratching and. .." />
+	<key id="0901101205000633" npc="Squat ass" name="Come on hand.&#x0A;Realize true while trying to suffer the itch." />
+	<key id="0901101205000634" npc="Reckless kicking" name="I now have interns of.&#x0A;The closest to heaven $map:02000097$Is the&#x0A;The ideal place to cultivate." />
+	<key id="0901101205000635" npc="Reckless kicking" name="Oh well, I made a mistake.&#x0A;I would say this is not a martial arts and do not mix." />
+	<key id="0901101205000636" npc="Reckless kicking" name="If you want to share about me, to prove your skills.&#x0A;The monster here, if you can kill them, you have to admit." />
+	<key id="0901101205000637" npc="Reckless kicking" name="This is where you&#8217;ll have to watch." />
+	<key id="0901101205000638" npc="Reckless kicking" name="Great! I don&#8217;t know what you saw.&#x0A;Anytime you take a week to say." />
+	<key id="0901101205000639" npc="Allison" name="Ugh, my back.&#x0A;This is enough." />
+	<key id="0901101205000640" npc="Allison" name="What you did." />
+	<key id="0901101205000641" npc="Allison" name="Exhibiting paintings outside of Boise?&#x0A;The children painted figures dipped in a picture frame,&#x0A;Lay on top of the easel." />
+	<key id="0901101205000642" npc="Allison" name="By the way, keeps framed twisted monsters come back, or,&#x0A;This gel to take down. Questions, cheats hurt." />
+	<key id="0901101205000643" npc="Allison" name="The first annoyance is also rated to rectify a picture frame without the end of easel did produce,&#x0A;Now a little annoyed dense air-o-ren." />
+	<key id="0901101205000644" npc="Allison" name="Have you ever had a monster won&#8217;t let me be longer pretty insult?" />
+	<key id="0901101205000645" npc="Allison" name="Did they pick the only not-so-ugly Monster Mamma Mia?" />
+	<key id="0901101205000646" npc="Allison" name="Now that the creatures are too chill out, did not touch on the picture?&#x0A;Thanks for your help." />
+	<key id="0901101205000647" npc="Moji means" name="Press this ...&#x0A;Press that ...&#x0A;What the??? Beats no change!" />
+	<key id="0901101205000648" npc="Moji means" name="Ask what&#8217;s going on." />
+	<key id="0901101205000649" npc="Moji means" name="Obviously ...$map:02000265$You can manipulate a large computer in&#x0A;This place would have been told their robots in action." />
+	<key id="0901101205000650" npc="Moji means" name="To whom and where you heard it." />
+	<key id="0901101205000651" npc="Moji means" name="No, that&#8217;s ...$map:2000139$The station was working in ...&#x0A;Porters are so freakin me laughing ...&#x0A;If you want to try to make big money in ya ..." />
+	<key id="0901101205000652" npc="Moji means" name="The genus is pretty much the same." />
+	<key id="0901101205000653" npc="Moji means" name="Oh, here he wrote get centrally tag ...&#x0A;Besides a flurry of one-party day, too ..." />
+	<key id="0901101205000654" npc="Moji means" name="What did you try to stop the robot behavior." />
+	<key id="0901101205000655" npc="Moji means" name="Here the robots are affordable maid robot,&#x0A;What about a virus attacking instincts because of what had happened.&#x0A;By the way, so in the interest of a transformed a rather bad guys to buy." />
+	<key id="0901101205000656" npc="Moji means" name="So the robot mounted on a memory chip in the trading market to sell the wheat.&#x0A;Oh, it&#8217;s real to say." />
+	<key id="0901101205000657" npc="Moji means" name="Save multiple memory chips, I&#8217;d say." />
+	<key id="0901101205000658" npc="Moji means" name="The real? How a quid pro quo?&#x0A;Surely, those directly to me? COR! Awesome!&#x0A;I&#8217;m here watching and." />
+	<key id="0901101205000659" npc="Moji means" name="Oh, I also fight well going to obtain the direct memory chip ..." />
+	<key id="0901101205000660" npc="Moji means" name="This report is also good to eat rice?&#x0A;Bring ... Now if you go to the market and sell this trafficking only!" />
+	<key id="0901101205000661" npc="Toilette Merrick" name="Kya evil~~~!!!&#x0A;My wallet! Wallet ... Wallet was gone!" />
+	<key id="0901101205000662" npc="Toilette Merrick" name="GNOME ... I wandered around me was for robots.&#x0A;A must have for the GNOME are pickpockets!" />
+	<key id="0901101205000663" npc="Toilette Merrick" name="The police report says." />
+	<key id="0901101205000664" npc="Toilette Merrick" name="Police? Ah ... I do not.&#x0A;Why I&#8217;m here, I&#8217;m going to ask you what would be provided on the wallet.&#x0A;I hate that annoying, long gone!" />
+	<key id="0901101205000665" npc="Toilette Merrick" name="Then I&#8217;d find." />
+	<key id="0901101205000666" npc="Toilette Merrick" name="To hear those words in mind is some truly inspiring. &#x0A;There&#8217;s a lot to get the cash in your wallet. Was trivia ...&#x0A;However, a few believe that displacement will know." />
+	<key id="0901101205000667" npc="Toilette Merrick" name="I haven&#8217;t found it yet?&#x0A;Although those who do not know whether the killer ..." />
+	<key id="0901101205000668" npc="Toilette Merrick" name="That&#8217;s right! My wallet!&#x0A;Make sure that there are no missing thing ... Well ..." />
+	<key id="0901101205000669" npc="Toilette Merrick" name="Fortunately, the only thing missing.&#x0A;Thank you my love." />
+	<key id="0901101205000670" npc="Reckless kicking" name="(Lay is suddenly lying and kicking.)&#x0A;Yap! This Yap!" />
+	<key id="0901101205000671" npc="Reckless kicking" name="What you&#8217;re doing." />
+	<key id="0901101205000672" npc="Reckless kicking" name="If you look at the man. Among the practitioners.&#x0A;Go muye and wiping Iran of dir." />
+	<key id="0901101205000673" npc="Reckless kicking" name="Why are you so to ssahneunji." />
+	<key id="0901101205000674" npc="Reckless kicking" name="That&#8217;s 18-to-1 for the sake of the fight. All 18 people a bunch of evil in the world, won&#8217;t!&#x0A;That neglect in order to intern opponents once and for all personnel not able to do." />
+	<key id="0901101205000675" npc="Reckless kicking" name="18You&#8217;ll be fighting for 1?&#x0A;I already have a 2-to-1 ^ fight.&#x0A;It is not an ordinary opponent $npc:23100033$ Dir against." />
+	<key id="0901101205000676" npc="Reckless kicking" name="Which reminds me, I&#8217;ve been mixing with the military.&#x0A;You also know with side of the Ballroom.&#x0A;But I&#8217;m only a high level of martial arts than causal conversation realized that decided." />
+	<key id="0901101205000677" npc="Reckless kicking" name="What&#8217;s in store? If you see a battle of 2-to-1?&#x0A;As I did $npc:23100033$ Knock down dozens of times,&#x0A;I&#8217;ll give you credit." />
+	<key id="0901101205000678" npc="Reckless kicking" name="Blizzard here in the turbulent water,&#x0A;$npc:23100033$ To your opponent. HA HA HA." />
+	<key id="0901101205000679" npc="Reckless kicking" name="Visit see my kick stronger?&#x0A;This Yap! What&#8217;s in store? Horrible isn&#8217;t it?&#x0A;Huh? Which reminds me it&#8217;s been a while ... Inn?" />
+	<key id="0901101205000680" npc="Reckless kicking" name="I&#8217;ll buy a sound you would put into care.&#x0A;Congratulations on your back safe and sound." />
+	<key id="0901101205000681" npc="Reckless kicking" name="Not one scar on the face of it,&#x0A;$npc:23100033$ I think the whole thing to deal with." />
+	<key id="0901101205000682" npc="Reckless kicking" name="Well thought out. Like me for a long time, water-based person or,&#x0A;You can easily deal with these guys, not you." />
+	<key id="0901101205000683" npc="Reckless kicking" name="$npc:23100033$ Racked with dozens of times." />
+	<key id="0901101205000684" npc="Reckless kicking" name="(Flinch) in response to? Yes? Well ... There is a ... Eight,&#x0A;Dance is to be always true!&#x0A;Raised a mouthful of lies just like you said no!" />
+	<key id="0901101205000685" npc="Reckless kicking" name="Really hardened says." />
+	<key id="0901101205000686" npc="Reckless kicking" name="(Back to flinch and) that ... Yes? Well ... So ...&#x0A;Though I&#8217;m not a 4-to-1 with the three, saw the fight!&#x0A;2Fight-for this you me incomparable is naughty!" />
+	<key id="0901101205000687" npc="Reckless kicking" name="If you have a $npc:23100033$ Dozens of times, if you knock&#x0A;Please acknowledge your skills. He cruised the icy again hell don&#8217;t?" />
+	<key id="0901101205000688" npc="Reckless kicking" name="If you want, my kick might bestow.&#x0A;I even lift your foot, your opponent back. This Yap! HA HA HA." />
+	<key id="0901101205000689" npc="Reckless kicking" name="Sole: Kerr meoh." />
+	<key id="0901101205000690" npc="Reckless kicking" name="Huh? There&#8217;s no?" />
+	<key id="0901101205000691" npc="Reckless kicking" name="You surely ... This time around, too $npc:23100033$ Dozens of times to knock out?" />
+	<key id="0901101205000692" npc="Reckless kicking" name="Even so, says." />
+	<key id="0901101205000693" npc="Reckless kicking" name="Mmmm. OK, now take your life to the door.&#x0A;Food is his burden, and I know where to sleep lying down to sleep." />
+	<key id="0901101205000694" npc="Reckless kicking" name="I don&#8217;t know what is talking about." />
+	<key id="0901101205000695" npc="Reckless kicking" name="Yes, that is to say if you&#8217;re now going to Hassan.&#x0A;Good shops. A brief moment I remember that it was a mentor." />
+	<key id="0914223505000735" npc="Estates are often caretakers Mel" name="This absurd thing!&#x0A;I have over the past decades, laying hens are fresh eggs every morning and bring them&#x0A;Breakfast would have been resolved." />
+	<key id="0914223505000736" npc="Estates are often caretakers Mel" name="By the way. This morning I woke up to go to the chicken coop, hen had all gone.&#x0A;Of course it seems not an egg." />
+	<key id="0914223505000737" npc="Estates are often caretakers Mel" name='Aghast $map:02000087$ Looked every inch,&#x0A;Well &lt;font color=&quot;#ffd200&quot;&gt;Monkey Pro to lock in a chicken coop hen kidnapped them messes.&lt;/font&gt;&#x0A;Furthermore, the deuddo reported a huge snail monkey did not work with the party.' />
+	<key id="0914223505000738" npc="Estates are often caretakers Mel" name="To my surprise hit shy ass in amazement until the trigger was the Moon, say something.&#x0A;So sit down on the floor and watch them,&#x0A;Monkey Pro-the big snail wouldn&#8217;t kowtow to the quality section wouldn&#8217;t be ..." />
+	<key id="0914223505000739" npc="Estates are often caretakers Mel" name="By the way. Ironically, he was also staring at a monkey snail guys don&#8217;t see normal fat and normal fat.&#x0A;The miraculous sight I was in say." />
+	<key id="0914223505000740" npc="Estates are often caretakers Mel" name='The water in the cauldron of boiling them monkey party this is life to the life of a chicken.&#x0A;I was rearing hens pamper their guys don&#8217;t like to imagine cooking ingredients of used guns.&#x0A;Please guys kicking &lt;font color=&quot;#ffd200&quot;&gt;Hen rescue will give them to me.&lt;/font&gt;' />
+	<key id="0914223505000741" npc="Estates are often caretakers Mel" name="This is no time to be a Yes.&#x0A;Water is vital to save them before you boil hen." />
+	<key id="0914223505000742" npc="Estates are often caretakers Mel" name="Now it&#8217;s come back every morning eggs a hen to lay eggs they would wait.&#x0A;Thanks mate. Haha." />
+	<key id="0914223505000743" npc="Estates are often caretakers Mel" name="Since my age twenty $map:02000087$As the management of work and had no worries,&#x0A;That&#8217;s the least of your worries in this age is." />
+	<key id="0914223505000744" npc="Estates are often caretakers Mel" name="Ask what&#8217;s going on." />
+	<key id="0914223505000745" npc="Estates are often caretakers Mel" name='Well, &lt;font color=&quot;#ffd200&quot;&gt;Monkey guys again! Steal my hens are gone.&lt;/font&gt;&#x0A;I&#8217;ve been back there to look at chicken coop hen well in something that has gone again.' />
+	<key id="0914223505000746" npc="Estates are often caretakers Mel" name="Monkey cronies, where my hens were trapped inside their Coop.&#x0A;Monkey guy, he would dedicate a delicious chicken dish was singing." />
+	<key id="0914223505000747" npc="Estates are often caretakers Mel" name="Ironically, he has no interest in seeing the great snail dishes.&#x0A;Again, come back to me, they are hens unharmed to get help." />
+	<key id="0914223505000748" npc="Estates are often caretakers Mel" name="Big snail weird though until there is no need to kowtow and reel." />
+	<key id="0914223505000749" npc="Estates are often caretakers Mel" name="Brought all of his house hens well.&#x0A;Thanks mate!" />
+	<key id="0914223505000750" npc="Wood Elf elbow" name="Going to leave this place, keep in mind that it takes.&#x0A;Divided friends while here people." />
+	<key id="0914223505000751" npc="Wood Elf elbow" name='Friend name &lt;font color=&quot;#ffd200&quot;&gt;$npc:11001142$&lt;/font&gt;!&#x0A;Due to the varying nature of the treetop residing alone in hitting places ...&#x0A;If you mind a little bluntly, long very tender friend.' />
+	<key id="0914223505000752" npc="Wood Elf elbow" name="He said goodbye to a friend, and I&#8217;m going to leave.&#x0A;By the way, when you face to face with tears at the sad day." />
+	<key id="0914223505000753" npc="Wood Elf elbow" name='I said goodbye to him, instead of giving?&#x0A;By the way, if you want to meet friends &lt;font color=&quot;#ffd200&quot;&gt;$skill:20000021$&lt;/font&gt; You&#8217;ll need to use.' />
+	<key id="0914223505000754" npc="Wood Elf elbow" name="In fact ran a while ago doesn&#8217;t cost a lot.&#x0A;What was not said, when I first was angry." />
+	<key id="0914223505000755" npc="Wood Elf elbow" name="You&#8217;re going to come up here, BRO?" />
+	<key id="0914223505000756" npc="Wood Elf elbow" name="$npc:11000293$Came under the behest of says." />
+	<key id="0914223505000757" npc="Wood Elf elbow" name="What favor?" />
+	<key id="0914223505000758" npc="Wood Elf elbow" name="I&#8217;ve been trying to say goodbye." />
+	<key id="0914223505000759" npc="Wood Elf elbow" name="Yap ...&#x0A;Knows." />
+	<key id="0914223505000760" npc="MER d." name="There is a ..." />
+	<key id="0914223505000761" npc="MER d." name="Have you ever wondered $npc:11000293$If you&#8217;re going to get back to my favor, too?" />
+	<key id="0914223505000762" npc="MER d." name="What is asked." />
+	<key id="0914223505000763" npc="MER d." name="(In your Pocket $item:30000389$ Pull out)&#x0A;Watch this $npc:11000293$Afford." />
+	<key id="0914223505000764" npc="MER d." name="When it comes to hang out I tried to entertain,&#x0A;Now I&#8217;ll be no farewell gift can only be passed into work ..." />
+	<key id="0914223505000765" npc="MER d." name="What is the problem?" />
+	<key id="0914223505000766" npc="MER d." name="$item:30000389$ He or she has lost." />
+	<key id="0914223505000767" npc="MER d." name="Ensure that there are no other Word." />
+	<key id="0914223505000768" npc="MER d." name="On the floor lay away I was the week.&#x0A;You may look for insignificant I&#8217;ll for precious.&#x0A;Bring it all the way." />
+	<key id="0914223505000769" npc="MER d." name="I did not put in the bag?" />
+	<key id="0914223505000770" npc="MER d." name="It was a week that I fell to the floor.&#x0A;Oh well, the bag is full, so I can&#8217;t using." />
+	<key id="0914223505000771" npc="MER d." name="What to say ..." />
+	<key id="0914223505000772" npc="MER d." name="This is great ... My favorite ...&#x0A;Yes, this is what $npc:11001142$ That&#8217;s the way to reconciliation." />
+	<key id="0914223505000773" npc="MER d." name="You&#8217;ll often see a friend going forward can no longer, but what&#8217;s nice Ah&#x0A;Sediment and it&#8217;s a good thing to leave in." />
+	<key id="0915024505000774" npc="Fairy Yoda" name="Hard to believe I was once $npc:21091166$ Served very familiarly.&#x0A;Then $npc:21091166$ Now, as did not atrocity." />
+	<key id="0915024505000775" npc="Fairy Yoda" name="$npc:21091166$ Must have been the subject of an evil spirit to it.&#x0A;One day the earth shook a dark shadow covered forest.&#x0A;He&#8217;s back $npc:21091166$Darken the color of the body of jitgo has changed." />
+	<key id="0915024505000776" npc="Fairy Yoda" name="Body color changed, nature was also outrageous.&#x0A;The original was such friends." />
+	<key id="0915024505000777" npc="Fairy Yoda" name="Friends cry I felt with the heart.&#x0A;Please $npc:21091166$ I&#8217;m hoping the evil Soul should be liberated from it." />
+	<key id="0915024505000778" npc="Fairy Yoda" name="In order to do that, $npc:21091166$Flesh should be taken.&#x0A;Sad, sad, but unavoidable." />
+	<key id="0915024505000779" npc="Fairy Yoda" name="I have been in tears in her heart." />
+	<key id="0915024505000780" npc="Fairy Yoda" name="I have been liberated from the suffering of friends believes.&#x0A;I hope to let me stay." />
+	<key id="0915024505000781" npc="Fairy Yoda" name="I remember when I hit all of the forest stiffened top hard starting&#x0A;The toys came from the forest." />
+	<key id="0915024505000782" npc="Fairy Yoda" name="All the forest creatures looked like than the first toys were marveling.&#x0A;Only those close to each other, made me want to leave." />
+	<key id="0915024505000783" npc="Fairy Yoda" name="By the way, was close to both of these toys and toys as hard as rigid and&#x0A;Appraisal ... Life was lost." />
+	<key id="0915024505000784" npc="Fairy Yoda" name="Unfortunately, there is no doubt at the start of the toy,&#x0A;The forest is determined to get rid of all of the toy should be Salinas." />
+	<key id="0915024505000785" npc="Fairy Yoda" name="Not determined, even though you have these toys and even closer is.&#x0A;Why I don&#8217;t know." />
+	<key id="0915024505000786" npc="Fairy Yoda" name="I no longer have determined the forest.&#x0A;Grass grows, even if it is getting stuck on the tree of butterflies I wish." />
+	<key id="0916022405000795" npc="Archaeologist Val rolls" name="Now, take a look here. Is this a good idea?&#x0A;Here, look at the surrounding wall. The height of the pile, but it&#8217;s not.&#x0A;Balance and harmony is alive and well." />
+	<key id="0916022405000796" npc="Archaeologist Val rolls" name="It&#8217;s not just the wall. The village also reflects the shape remained;&#x0A;These places are more intact should be well preserved!" />
+	<key id="0916022405000797" npc="Archaeologist Val rolls" name="Even on the right $map:02000001$ Rush Associates&#x0A;This place is the fact that anxious to inform!&#x0A;Isn&#8217;t it! $npc:11000075$To set a retention policy must have!" />
+	<key id="0916022405000798" npc="Archaeologist Val rolls" name="(Gaze away and fall), incense me guys!&#x0A;Carefully hand should ruins them for casual not stave!" />
+	<key id="0916022405000799" npc="Archaeologist Val rolls" name="I guess that should not be. The ruins are more loose and get rid of that guy from before.&#x0A;Did you get help?" />
+	<key id="0916022405000800" npc="Archaeologist Val rolls" name="Some places are too damaged, as long as the thing that miracle retained.&#x0A;More damage before the measures in place." />
+	<key id="0916022405000801" npc="Archaeologist Val rolls" name="To get rid of your monsters look a little more here in between,&#x0A;The entrance is made via shadow world." />
+	<key id="0916022405000802" npc="Archaeologist Val rolls" name="Oh, what if? Now here comes the monster would keep flocking.&#x0A;Is that big of a deal. Big deal!" />
+	<key id="0916022405000803" npc="Fortune tellers don&#8217;t SAG es" name="Hey, give me a second look, however.&#x0A;I don&#8217;t see people coming to the Chase so umbrellas had to go?" />
+	<key id="0916022405000804" npc="Fortune tellers don&#8217;t SAG es" name="Ask what&#8217;s going on." />
+	<key id="0916022405000805" npc="Fortune tellers don&#8217;t SAG es" name="Now in your face blessed a lot of true effulgent.&#x0A;Since the scan is also within the fortune teller. Take a look at your luck is a quick hit points?" />
+	<key id="0916022405000806" npc="Fortune tellers don&#8217;t SAG es" name="There is no interest." />
+	<key id="0916022405000807" npc="Fortune tellers don&#8217;t SAG es" name="Won&#8217;t listen to a little more.&#x0A;All my row colors for one fortune teller!" />
+	<key id="0916022405000808" npc="Fortune tellers don&#8217;t SAG es" name="My stomach is not received.&#x0A;Just having fun doing this to other people&#8217;s fortunes, peeping,&#x0A;The idea is not as much as the eye make money!" />
+	<key id="0916022405000809" npc="Fortune tellers don&#8217;t SAG es" name="I think this should be under the former. Daily horoscopes or simply checking out the shop.&#x0A;Are you looking for fun, not to today&#8217;s horoscope. Have to say the burden." />
+	<key id="0916022405000810" npc="Fortune tellers don&#8217;t SAG es" name="Well ... Let&#8217;s see." />
+	<key id="0916022405000811" npc="Fortune tellers don&#8217;t SAG es" name="Where did you&#8217;re doing a lot of trouble." />
+	<key id="0916022405000812" npc="Fortune tellers don&#8217;t SAG es" name="Even so, says." />
+	<key id="0916022405000813" npc="Fortune tellers don&#8217;t SAG es" name="Says." />
+	<key id="0916022405000814" npc="Fortune tellers don&#8217;t SAG es" name="Nevertheless, in the face of the fate of the ears look effulgent innate.&#x0A;In return for this trouble I&#8217;ll be wait a bit." />
+	<key id="0916022405000815" npc="Fortune tellers don&#8217;t SAG es" name="Daily horoscopes to please me know." />
+	<key id="0916022405000816" npc="Fortune tellers don&#8217;t SAG es" name="Isn&#8217;t it? It&#8217;s a face a lot of trouble. It is written on the face.&#x0A;Chanting ... In the future, and a bunch of Lee&#8217;s lead. This is how one fence.&#x0A;Still, be sure to reward you someday be OL wait note." />
+	<key id="0916022405000817" npc="Fortune tellers don&#8217;t SAG es" name="Daily horoscopes to please me know." />
+	<key id="0916022405000818" npc="Fortune tellers don&#8217;t SAG es" name="Also I think the school not to suffer the positive nature of the mysteries.&#x0A;I knew it was my will. In return for such a character, should have troubled will be early." />
+	<key id="0916022405000819" npc="Fortune tellers don&#8217;t SAG es" name="Daily horoscopes to please me know." />
+	<key id="0916022405000820" npc="Fortune tellers don&#8217;t SAG es" name="You&#8217;re right, why are you troubled to try one.&#x0A;Are you Pat me awesome monster, and fall from on high, and did not do.&#x0A;That&#8217;s what school. I say wrong?" />
+	<key id="0916022405000821" npc="Fortune tellers don&#8217;t SAG es" name="Fit the daily horoscopes seem like I could say." />
+	<key id="0916022405000822" npc="Fortune tellers don&#8217;t SAG es" name="Affectionate, life, luck, during what is the item?" />
+	<key id="0916022405000823" npc="Fortune tellers don&#8217;t SAG es" name="Wonder if luck and affection." />
+	<key id="0916022405000824" npc="Fortune tellers don&#8217;t SAG es" name="Wonder if lucky and vital." />
+	<key id="0916022405000825" npc="Fortune tellers don&#8217;t SAG es" name="Wonder and lucky item says." />
+	<key id="0916022405000826" npc="Fortune tellers don&#8217;t SAG es" name="There is nothing to wonder." />
+	<key id="0916022405000827" npc="Fortune tellers don&#8217;t SAG es" name="I give up!" />
+	<key id="0916022405000828" npc="Fortune tellers don&#8217;t SAG es" name="Ah ... He would know." />
+	<key id="0916022405000829" npc="Fortune tellers don&#8217;t SAG es" name="Today is only day out hunting for OL.&#x0A;But buy a new personal clothes wear $map:02000064$ If hanging near the&#x0A;Looks a little bit the possibility to meet us." />
+	<key id="0916022405000830" npc="Fortune tellers don&#8217;t SAG es" name="He would know." />
+	<key id="0916022405000831" npc="Fortune tellers don&#8217;t SAG es" name="Let&#8217;s see, this ...$npc:23000020$ It&#8217;s a love destined to find an opponent above the wings!&#x0A;If you see an enormous bird right in front of you saying I&#8217;m back!" />
+	<key id="0916022405000832" npc="Fortune tellers don&#8217;t SAG es" name="He would know." />
+	<key id="0916022405000833" npc="Fortune tellers don&#8217;t SAG es" name="Acton $map:02000107$Since I&#8217;d be looking at.&#x0A;I say this as well." />
+	<key id="0916022405000834" npc="Fortune tellers don&#8217;t SAG es" name="Ah ... He would know." />
+	<key id="0916022405000835" npc="Fortune tellers don&#8217;t SAG es" name="Today I see any hunting party?&#x0A;I am looking for a party meant to be." />
+	<key id="0916022405000836" npc="Fortune tellers don&#8217;t SAG es" name="He would know." />
+	<key id="0916022405000837" npc="Fortune tellers don&#8217;t SAG es" name="Today I found out that dare paneled monument.&#x0A;You realize this is meant to be a monument could work!" />
+	<key id="0916022405000838" npc="Fortune tellers don&#8217;t SAG es" name="He would know." />
+	<key id="0916022405000839" npc="Fortune tellers don&#8217;t SAG es" name="Watch out for this and carry it around the House such as guys.&#x0A;But guys do not need to attend the damage unconditionally.&#x0A;Herb lang has plenty of creepy potion." />
+	<key id="0916022405000840" npc="Fortune tellers don&#8217;t SAG es" name="He would know." />
+	<key id="0916022405000841" npc="Fortune tellers don&#8217;t SAG es" name="$skill:20000021$ So don&#8217;t believe.&#x0A;EPGo low as soon as the fall." />
+	<key id="0916022405000842" npc="Fortune tellers don&#8217;t SAG es" name="He would know." />
+	<key id="0916022405000843" npc="Fortune tellers don&#8217;t SAG es" name="The flowers on the head guy is dangerous.&#x0A;Oh, the guy put the flowers back to risk." />
+	<key id="0916022405000844" npc="Fortune tellers don&#8217;t SAG es" name="He would know." />
+	<key id="0916022405000845" npc="Fortune tellers don&#8217;t SAG es" name="Oversized monster is running out of their opponents don&#8217;t know the monument covering reel potion.&#x0A;Before you prepare a potion to allow the hunt told!" />
+	<key id="0916022405000846" npc="Fortune tellers don&#8217;t SAG es" name="He would know." />
+	<key id="0916022405000847" npc="Fortune tellers don&#8217;t SAG es" name="$npc:23000021$I have had the flapping wings of being yanked like that.&#x0A;In particular, falling back to sleep, even if you may have that big of a deal, but be careful!" />
+	<key id="0916022405000848" npc="Fortune tellers don&#8217;t SAG es" name="He would know." />
+	<key id="0916022405000849" npc="Fortune tellers don&#8217;t SAG es" name="Weak Monster called shallow boy horse.&#x0A;At-a-glance is going to sell for a while, the monument is going to be crushed if you look.&#x0A;At a glance go to recovery points or sell!" />
+	<key id="0916022405000850" npc="Fortune tellers don&#8217;t SAG es" name="He would know." />
+	<key id="0916022405000851" npc="Fortune tellers don&#8217;t SAG es" name="This ... In this ... Strength ran out and no longer could hit the point ..." />
+	<key id="0916022405000852" npc="Fortune tellers don&#8217;t SAG es" name="Ah ... He would know." />
+	<key id="0916022405000853" npc="Fortune tellers don&#8217;t SAG es" name="$npc:11000508$ Before going to meet $item:40100023$&#x0A;Should be prepared for plenty of. Your challenge will cheer~" />
+	<key id="0916022405000854" npc="Fortune tellers don&#8217;t SAG es" name="He would know." />
+	<key id="0916022405000855" npc="Fortune tellers don&#8217;t SAG es" name="No, it&#8217;s unbelievable! Your back is not the violet Sheen, juhwangbic,&#x0A;No color change! This time blue light ..." />
+	<key id="0916022405000856" npc="Fortune tellers don&#8217;t SAG es" name="Ah ... He would know." />
+	<key id="0916022405000857" npc="Fortune tellers don&#8217;t SAG es" name="You&#8217;re pretty clothes, huh image. It&#8217;s time to wear a new dress and ...&#x0A;It&#8217;s going to be even more mouth ..." />
+	<key id="0916022405000858" npc="Fortune tellers don&#8217;t SAG es" name="Ah ... He would know." />
+	<key id="0916022405000859" npc="Fortune tellers don&#8217;t SAG es" name="So don&#8217;t get greedy. When you want to empty your mind good luck also bring back law!&#x0A;Although it is possible to end up with amazing ordinary day could be the day." />
+	<key id="0916022405000860" npc="Fortune tellers don&#8217;t SAG es" name="He would know." />
+	<key id="0916022405000861" npc="Fortune tellers don&#8217;t SAG es" name="Today before you spit three times and the hunt, three times a wave to the people passing by." />
+	<key id="0916022405000862" npc="Fortune tellers don&#8217;t SAG es" name="Ah ... He would know." />
+	<key id="0916022405000863" npc="Fortune tellers don&#8217;t SAG es" name="Other Horoscopes are more curious?" />
+	<key id="0916022405000864" npc="Fortune tellers don&#8217;t SAG es" name="Even so, says." />
+	<key id="0916022405000865" npc="Fortune tellers don&#8217;t SAG es" name="Not wondering." />
+	<key id="0916022405000866" npc="Fortune tellers don&#8217;t SAG es" name="So, good luck for today.&#x0A;As promised-Bok is required." />
+	<key id="0916022405000867" npc="Weapons collectors shortwave" name="I like the veteran weapons would not be easy to meet collectors &#8217; column, you&#8217;re in luck.&#x0A;I mean when you want to collect the weapons. It has its own strict standards." />
+	<key id="0916022405000868" npc="Weapons collectors shortwave" name="For example, look at this Fort. In the past, were guarded by soldiers of the Fort, but the yen&#x0A;Now soldiers and what not even the shadow people and Iran." />
+	<key id="0916022405000869" npc="Weapons collectors shortwave" name="It&#8217;s the soldiers ran away! They&#8217;ve used weapons?&#x0A;Giggling, saying this would remain in the Fort trail." />
+	<key id="0916022405000870" npc="Weapons collectors shortwave" name="I mean what I say! I never leave things they don&#8217;t want to say bargain.&#x0A;What is going to get expensive costing a cow in Medan weapons against." />
+	<key id="0916022405000871" npc="Weapons collectors shortwave" name="Of course, the concern is not at all eobsjin. Here are the ones that should not be managed at arms turned out to&#x0A;May not work properly." />
+	<key id="0916022405000872" npc="Weapons collectors shortwave" name='I&#8217;ll take a look at where the arms warehouse, you &lt;font color=&quot;#ffd200&quot;&gt;Find out if the cannon is working properly&#x0A;$item:30000396$ Brings me a few.&lt;/font&gt;' />
+	<key id="0916022405000873" npc="Weapons collectors shortwave" name="Foam is falling back in party aghast test? Giggling.&#x0A;The sound is not noticed so don&#8217;t be surprised." />
+	<key id="0916022405000874" npc="Weapons collectors shortwave" name="Sleepy? Foam test?" />
+	<key id="0916022405000875" npc="Weapons collectors shortwave" name="Does not work with old Cannon says." />
+	<key id="0916022405000876" npc="Weapons collectors shortwave" name="I knew it. This $item:30000396$Even pop hwaginhaebwaya." />
+	<key id="1020152905000890" npc="Godard" name="Royal lari yo~ Guiding the rolling island was able to hold all these people want me and healthy body.&#x0A;I asked her the secret to catching the wall every day." />
+	<key id="1020152905000891" npc="Godard" name="How about? You made me go and ran the wall body." />
+	<key id="1020152905000892" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1020152905000893" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1020155405000894" npc="Godard" name="Royal lari yo~ BUR BUR for a shortage of skills and know how to use?&#x0A;The Tigers went on the coming out of the cave!" />
+	<key id="1020155405000895" npc="Godard" name="Not far from the place where Tiger heard that oysters as long as scary place.&#x0A;Shadow world, I say. You go there and see the raised skills?" />
+	<key id="1020155405000896" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1020155405000897" npc="Godard" name="Speaking of linens, the real thing is like a joke I didn&#8217;t know see.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1020155405000898" npc="Godard" name="Royal lari yo~ Flying bird ever conversation with?&#x0A;Now doing it once?" />
+	<key id="1020155405000899" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1020155405000900" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1020155405000901" npc="Godard" name="Royal lari yo~ Tell how tall? I&#8217;m going to continue to jump.&#x0A;Prosperity or the island&#8217;s giant steps, is there a way to use them." />
+	<key id="1020155405000902" npc="Godard" name="Do not believe? Right now!" />
+	<key id="1020155405000903" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1020155405000904" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1020155405000905" npc="Godard" name="Royal lari yo~ Even hanging on the ladder&#x0A;Arms and legs coming up muscle power in fact happen? Give it a shot!" />
+	<key id="1020155405000906" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1020155405000907" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1020155405000908" npc="Godard" name="Royal lari yo~ The indigenous people of the island, in Sirmione rope hanging&#x0A;I got to know this fact, that attract the opposite sex?" />
+	<key id="1020155405000909" npc="Godard" name="You give it a shot!&#x0A;Did you ever know? This four-ropes down half the people don&#8217;t." />
+	<key id="1020155405000910" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1020155405000911" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1020155405000912" npc="Godard" name="Royal lari yo~ Water is the source of life, we are all born from water.&#x0A;Mr. Ernie in the island, people are tired of the body did not think of it as the mind clean anything.&#x0A;And dip into the water when it is peeled or of the mind through the unconscious." />
+	<key id="1020155405000913" npc="Godard" name="Fatigue? Then you take a moment to look at the water and soak your body?" />
+	<key id="1020155405000914" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1020155405000915" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1020155405000916" npc="Godard" name="Royal lari yo~ The grass should grow to a more manly stepped on is the fact that you know?&#x0A;Of course, not all the grass.&#x0A;But Maple world grass that talking!" />
+	<key id="1020155405000917" npc="Godard" name="Now go into your lawn?" />
+	<key id="1020155405000918" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1020155405000919" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1020155405000920" npc="Godard" name="Royal lari yo~ If you survive the wreck of the ship and not divided as.&#x0A;To survive, you need to swim well." />
+	<key id="1020155405000921" npc="Godard" name="It is important to repeat a swim practice!&#x0A;Get started right away?" />
+	<key id="1020155405000922" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1020155405000923" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1020155405000924" npc="Godard" name="Royal lari yo~ Non-indigenous people of the island to hunt down the yoke in Roubaix is heard about the law?&#x0A;If you&#8217;ve found a quick body lowers the monster monster was towards the gear." />
+	<key id="1020155405000925" npc="Godard" name="Monster Hunter coming girl noticed to have been defaced.&#x0A;You need gear." />
+	<key id="1020155405000926" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1020155405000927" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1021194405000928" npc="Godard" name="Royal lari yo~ This place is any place?&#x0A;Every inch of the hotelier, and a chimney but willing,&#x0A;$npc:11001179$ $npc:11001180$ Left alone to roam around here, not ..." />
+	<key id="1021194405000929" npc="Godard" name="By the way, here is a map I can telescopes as per views ...&#x0A;If you enjoy seeing any telescope peering landscape?" />
+	<key id="1021194405000930" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1021194405000931" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1021194405000932" npc="Godard" name="Royal lari yo~ There are hidden all over the Golden treasure box, true?&#x0A;Furthermore, the person who found the treasure in the box IM growing up?" />
+	<key id="1021194405000933" npc="Godard" name="Doomed, fucked. You can get a rare treasure for free&#x0A;Consider the things that brought people to the top of the us?&#x0A;Sheesh, I&#8217;ll not be holding anymore, you go ahead and gold treasure box or by browsing." />
+	<key id="1021194405000934" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1021194405000935" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1021194405000936" npc="Godard" name="Royal lari yo~ I heard the rumors? Somewhere in the secret door, and&#x0A;Falling money through its doors is the magic tree.&#x0A;Went there when it comes to the rich have got to speak." />
+	<key id="1021194405000937" npc="Godard" name="Now there is time?" />
+	<key id="1021194405000938" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1021194405000939" npc="Godard" name="Speaking of linens, the real thing is like a joke I didn&#8217;t know see.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1021194405000940" npc="Godard" name="Royal lari yo~ I heard the rumors? Somewhere in the secret door, and&#x0A;He comes through the door of the treasure box, which is where I&#8217;ll be found everywhere." />
+	<key id="1021194405000941" npc="Godard" name="But not even excited?&#x0A;Now there is time?" />
+	<key id="1021194405000942" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1021194405000943" npc="Godard" name="Speaking of linens, the real thing is like a joke I didn&#8217;t know see.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1021194405000944" npc="Godard" name="Royal lari yo~ I heard the rumors? Somewhere in the secret door, and&#x0A;Through its doors made of ice like this coming out of the maze." />
+	<key id="1021194405000945" npc="Godard" name="I have numerous places to sail and doladanyeossjiman, yet I haven&#8217;t seen such a place.&#x0A;You do wonder? I&#8217;d say if there are danyeowaseo instead of the whatever?" />
+	<key id="1021194405000946" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1021194405000947" npc="Godard" name="Speaking of linens, the real thing is like a joke I didn&#8217;t know see.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1021194405000948" npc="Godard" name="Royal lari yo~ I heard the rumors? Somewhere in the secret door, and&#x0A;Through the door of a factory to create a potion that comes with slime." />
+	<key id="1021194405000949" npc="Godard" name="Some wondered if there doesn&#8217;t it? You can be lucky,&#x0A;If you found a secret door to open the door and go listen to fire away." />
+	<key id="1021194405000950" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1021194405000951" npc="Godard" name="Speaking of linens, the real thing is like a joke I didn&#8217;t know see.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1021194405000952" npc="Godard" name="Royal lari yo~ I heard the rumors? Somewhere in the secret door, and&#x0A;He comes through the door where the gravity is weak.&#x0A;The crash also falls more slowly." />
+	<key id="1021194405000953" npc="Godard" name="Some wondered if there doesn&#8217;t it? You can be lucky,&#x0A;If you&#8217;ve found the secret door, open the door and go into the fire away! " />
+	<key id="1021194405000954" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1021194405000955" npc="Godard" name="Speaking of linens, the real thing is like a joke I didn&#8217;t know see.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1021194405000956" npc="Godard" name="Royal lari yo~ The mind is well presented depressing?&#x0A;Feel the vitality of the metropolis is also looking at a way to relieve the dabdabhameul!" />
+	<key id="1021194405000957" npc="Godard" name="There are several major cities in the world and that the Maple.&#x0A;In big cities, tour?" />
+	<key id="1021194405000958" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1021194405000959" npc="Godard" name="Speaking of linens, the real thing is like a joke I didn&#8217;t know see.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1021194405000960" npc="Godard" name="Royal lari yo~ There a group of prisoners that prison and mastermind.&#x0A;We like to live in Nice to know this is what it looks like in a lifetime?&#x0A;By the way $map:02000062$If you go on a tour of the prison has more to say to me voyeur!" />
+	<key id="1021194405000961" npc="Godard" name="Sometimes you go to such a place the inmates to servitude,&#x0A;Would be nice to live in the field seems to be fine mind." />
+	<key id="1021194405000962" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1021194405000963" npc="Godard" name="Speaking of linens, the real thing is like a joke I didn&#8217;t know see.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1021194405000964" npc="Godard" name="Royal lari yo~ There a group of prisoners that prison and mastermind.&#x0A;Furthermore, there is a trash can behind the floor&#x0A;Convict gets dumped with stripes can save even more!" />
+	<key id="1021194405000965" npc="Godard" name="Of course, when you talk about Serendipity. &#x0A;Did you ever know? Lucky you will call for him! " />
+	<key id="1021194405000966" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1021194405000967" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1023201205000968" npc="Godard" name="Royal lari yo~ This place is a treasure box is hidden throughout the wood, true?&#x0A;Furthermore, the person who found the treasure in the box IM growing up? " />
+	<key id="1023201205000969" npc="Godard" name="Wooden treasure chest, a rare treasure find hard standing&#x0A;Take a look at the box just anyone has in excess." />
+	<key id="1023201205000970" npc="Godard" name="But those who are useless to even be worth it to someone else.&#x0A;It&#8217;s one of the lessons learned and the business.&#x0A;You don&#8217;t ignore a wooden treasure chest you find what I have heard, I check it out." />
+	<key id="1023201205000971" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1023201205000972" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1023201205000973" npc="Godard" name="Royal lari yo~ The health of the indigenous people of the island breath Control Act would share about?&#x0A;I&#8217;m going to run day after day. The speed of each person different.&#x0A;But not everyone is running around the clock." />
+	<key id="1023201205000974" npc="Godard" name="So I put a bunch of sneakers each time you go there. marketable.&#x0A;You see the way people there health care?" />
+	<key id="1023201205000975" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1023201205000976" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1023201205000977" npc="Godard" name="Royal lari yo~ The island has very convenient transportation money agate.&#x0A;It&#8217;s called a taxi, was here and Bonita here.&#x0A;I do not know it $map:02000062$In $map:02000064$If you think something has until ..." />
+	<key id="1023201205000978" npc="Godard" name="You can move quickly and comfortably to your destination take a taxi.&#x0A;When you need to use a taxi to subcontract?" />
+	<key id="1023201205000979" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1023201205000980" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1023201205000981" npc="Godard" name="Royal lari yo~ One of the most amazing sights I have ever seen I&#8217;ll tell you about.&#x0A;The indigenous people of the island, though small waves wild beast on top straddling.&#x0A;Live like a passing shot before me!" />
+	<key id="1023201205000982" npc="Godard" name="In fact, the indigenous people of the island walking though I hate ignorance par famous.&#x0A;By the way, if you were to use such vehicles if you dare to bother you need to walk." />
+	<key id="1023201205000983" npc="Godard" name="This mounts in those who use it sounded pretty,&#x0A;You are annoying to walk now and then take a look at using the mounted." />
+	<key id="1023201205000984" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1023201205000985" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1023201205000986" npc="Godard" name="Royal lari yo~ If you look at the magnificent scenery created by nature wonderful?&#x0A;Having a place like that here." />
+	<key id="1023201205000987" npc="Godard" name="Besides there are telescope as far as they can to enjoy being placed?&#x0A;Go look on seeing?" />
+	<key id="1023201205000988" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1023201205000989" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1023201205000990" npc="Godard" name="Royal lari yo~ I went to the top reason is not only to make money.&#x0A;There are many places to enjoy your adventures around the biggest." />
+	<key id="1023201205000991" npc="Godard" name="And one more! Look at the endless expanse of the sea, sailing&#x0A;Becoming a calm mind, worry is something that can wreck havoc on the filtering." />
+	<key id="1023201205000992" npc="Godard" name="You have to go look at the sea, the stuffy days.&#x0A;If you have placed the telescope up there? You&#8217;ll be able to more distant sea view." />
+	<key id="1023201205000993" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1023201205000994" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1023201205000995" npc="Godard" name="Royal lari yo~ This high-tech facilities, buildings and&#x0A;Skyscrapers are in the cities? " />
+	<key id="1023201205000996" npc="Godard" name="Here and there around the city, it looks gorgeous, I felt&#x0A;Heulreonaon waste water drains and dirty shaved like that.&#x0A;If you want to see the details of the city looked into a telescope! " />
+	<key id="1023201205000997" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1023201205000998" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1023201205000999" npc="Godard" name="Royal lari yo~ Shadow world to FA there is a Habitat of the fruit, true?&#x0A;To the natives of the island have fallen fast hedge-lès-hover over the overpriced fruit can sell!&#x0A;Re-lès-Island Dock to the bite of the FA to the drug&#8217;s quick fruit!" />
+	<key id="1023201205001000" npc="Godard" name="FA FA by picking the fruit and bring to me.&#x0A;Value is hit plenty." />
+	<key id="1023201205001001" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1023201205001002" npc="Godard" name="Speaking of Michael, the real thing like a joke didn&#8217;t help.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1023201205001003" npc="Godard" name="Royal lari yo~ I&#8217;ve seen the Golden treasure chest?&#x0A;It&#8217;s so hard to find?" />
+	<key id="1023201205001004" npc="Godard" name="Wander all over the place, though one can find around every corner?&#x0A;Once you find?" />
+	<key id="1023201205001005" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1023201205001006" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+	<key id="1023201205001007" npc="Godard" name="Royal lari yo~ I thought the place was a relatively peaceful place,&#x0A;Rumors like quiet men, but is no more.&#x0A;Especially if you go before it were Godzilla Monster if you have them?" />
+	<key id="1023201205001008" npc="Godard" name="It is true to say that this is not when the oblivious!&#x0A;Surely, the monster is never scared?" />
+	<key id="1023201205001009" npc="Godard" name="Do not hesitate to show your courage and skills!&#x0A;Now look at the Dungeon into the monster hunting!&#x0A;The hunt ended up very proud you&#8217;re going to get rewarded!" />
+	<key id="1023201205001010" npc="Godard" name="I&#8217;m young, but many places around quite a bit for business&#x0A;Did you take a look at a lot of things!" />
+	<key id="1023201205001011" npc="Godard" name="Speaking of Michael, the real thing like a joke did not give it a try.&#x0A;I&#8217;m sorry to have to pass even a gift." />
+</ms2>

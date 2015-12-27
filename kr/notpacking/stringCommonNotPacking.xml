@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+
+   <!--Trigger Editor-->
+  <key id="s_triggereditor_state_change" value="[{0}]As a State transition"/>
+  <key id="s_triggereditor_delete_state_invalid" value="Please select the status to delete."/>
+  <key id="s_triggereditor_delete_state_confirm" value="{0} Are you sure you want to delete the status?"/>
+  <key id="s_triggereditor_modifiy_state_invalid" value="The State of the same name already exists."/>
+  <key id="s_triggereditor_delete_attribute" value="Item {0}Are you sure you want to delete?"/>
+  <key id="s_triggereditor_modify_attribute_invalid" value="Please select an item to edit."/>
+  <key id="s_triggereditor_new_trigger" value="Are you sure you want to create a new trigger?"/>
+  <key id="s_triggereditor_exit_trigger" value="Are you sure you want to quit?"/>
+  <key id="s_triggereditor_upload" value="Are you sure you want to upload?"/>
+  <key id="s_triggereditor_download" value="Would you like to download?"/>
+  <key id="s_triggereditor_modelsize_too_long" value="If the file exceeds the limit that triggers upload."/>
+
+ <!--If the connection to the server in debug mode and Dungeon Guide-->
+	<key id="s_mas_move_connect" value="IP({0}) Port({1})$pp:, As$ The connection."/>
+ 
+  
+</ms2>

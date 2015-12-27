@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
+	<key id="10000031" level="1" name="Butting" tooltipDescription="The head is strongly rap blindsided!\nActing stunned wonderment" />
+	<key id="10100031" level="1" name="Piercing blade" tooltipDescription="Shield strongly rap blindsided!\nActing stunned wonderment" />
+	<key id="10100041" level="1" name="Advance trumpet" tooltipDescription="Horn is a scam!\nDamage increases by 10%" />
+	<key id="10100041" level="2" name="Advance trumpet" tooltipDescription="Horn is a scam!\n11% increase in attack power" />
+	<key id="10100041" level="3" name="Advance trumpet" tooltipDescription="Horn is a scam!\nDamage 12% y/y increase" />
+	<key id="10100041" level="4" name="Advance trumpet" tooltipDescription="Horn is a scam!\nDamage increases by 13%" />
+	<key id="10100041" level="5" name="Advance trumpet" tooltipDescription="Horn is a scam!\nDamage increases by 15%" />
+	<key id="10100052" level="1" name="Shield wall" tooltipDescription="Shield surrounds the divine energy that comes from the body.\nTaking physical damage to the enemy and magic damage reduced by 30%" />
+	<key id="10100052" level="2" name="Shield wall" tooltipDescription="Shield surrounds the divine energy that comes from the body.\nTaking physical damage to the enemy and magic damage reduction of 32%" />
+	<key id="10100052" level="3" name="Shield wall" tooltipDescription="Shield surrounds the divine energy that comes from the body.\nTaking physical damage to the enemy and magic damage reduction of 34%" />
+	<key id="10100052" level="4" name="Shield wall" tooltipDescription="Shield surrounds the divine energy that comes from the body.\nTaking physical damage to the enemy and magic damage reduction of 36%" />
+	<key id="10100052" level="5" name="Shield wall" tooltipDescription="Shield surrounds the divine energy that comes from the body.\nTaking physical damage to the enemy and magic damage reduction 40%" />
+	<key id="10100061" level="1" name="First aid" tooltipDescription="You can heal.\nOnce every second SPAnd HP5% recovery" />
+	<key id="10100061" level="2" name="First aid" tooltipDescription="You can heal.\nOnce every second SPAnd HP7% health" />
+	<key id="10100061" level="3" name="First aid" tooltipDescription="You can heal.\nOnce every second SPAnd HP9 percent of the health" />
+	<key id="10100061" level="4" name="First aid" tooltipDescription="You can heal.\nOnce every second SPAnd HP11% recovery" />
+	<key id="10100061" level="5" name="First aid" tooltipDescription="You can heal.\nOnce every second SPAnd HP15% off health" />
+	<key id="10100071" level="1" name="As Ying shield" tooltipDescription="It&#8217;s difficult to take a strong stance on impact!\nDefense power reduced by 5%" />
+	<key id="10100071" level="2" name="As Ying shield" tooltipDescription="It&#8217;s difficult to take a strong stance on impact!\nDef 5.5%" />
+	<key id="10100071" level="3" name="As Ying shield" tooltipDescription="It&#8217;s difficult to take a strong stance on impact!\nDef 6% reduction" />
+	<key id="10100071" level="4" name="As Ying shield" tooltipDescription="It&#8217;s difficult to take a strong stance on impact!\nDef 6.5% reduction" />
+	<key id="10100071" level="5" name="As Ying shield" tooltipDescription="It&#8217;s difficult to take a strong stance on impact!\nDef 7.5% reduction" />
+	<key id="10100081" level="1" name="Knight&#8217;s willingness to" tooltipDescription="Protection from strong energy.\nAll the attacks of the enemy Defense (some excluded)" />
+	<key id="10100081" level="2" name="Knight&#8217;s willingness to" tooltipDescription="Protection from strong energy.\nAll the attacks of the enemy Defense (some excluded)" />
+	<key id="10100081" level="3" name="Knight&#8217;s willingness to" tooltipDescription="Protection from strong energy.\nAll the attacks of the enemy Defense (some excluded)" />
+	<key id="10100081" level="4" name="Knight&#8217;s willingness to" tooltipDescription="Protection from strong energy.\nAll the attacks of the enemy Defense (some excluded)" />
+	<key id="10100081" level="5" name="Knight&#8217;s willingness to" tooltipDescription="Protection from strong energy.\nAll the attacks of the enemy Defense (some excluded)" />
+	<key id="10100102" level="1" name="Counter" tooltipDescription="It is a chance to strike back at the enemy!\nAll fires to crit" />
+	<key id="10100131" level="1" name="Achilles cut" tooltipDescription="Achilles &#8217; received a fatal attack!\nGo to reduce speed by 20%\nJump power 30% reduction" />
+	<key id="10100131" level="2" name="Achilles cut" tooltipDescription="Achilles &#8217; received a fatal attack!\nGo speed 22% reduced\nJump power 30% reduction" />
+	<key id="10100131" level="3" name="Achilles cut" tooltipDescription="Achilles &#8217; received a fatal attack!\nSpeed 24% reduced\nJump force 35% reduction" />
+	<key id="10100131" level="4" name="Achilles cut" tooltipDescription="Achilles &#8217; received a fatal attack!\nMovement speed to 26% reduction\nJump force 35% reduction" />
+	<key id="10100131" level="5" name="Achilles cut" tooltipDescription="Achilles &#8217; received a fatal attack!\n30% reduction in movement speed\nJump power 40% reduction" />
+	<key id="10100141" level="1" name="Leveling shim" tooltipDescription="Battle of unison to remain calm.\nAny damage to the enemy increases by 15%" />
+	<key id="10100141" level="2" name="Leveling shim" tooltipDescription="Battle of unison to remain calm.\nAny damage to the enemy 15.5% y/y increase" />
+	<key id="10100141" level="3" name="Leveling shim" tooltipDescription="Battle of unison to remain calm.\nAny damage to the enemy 16% y/y increase" />
+	<key id="10100141" level="4" name="Leveling shim" tooltipDescription="Battle of unison to remain calm.\nEver go to a 16.5% increase all damage" />
+	<key id="10100141" level="5" name="Leveling shim" tooltipDescription="Battle of unison to remain calm.\nAny damage to the enemy and 17% y/y increase" />
+	<key id="10100141" level="6" name="Leveling shim" tooltipDescription="Battle of unison to remain calm.\nAny damage to the enemy 17.5% y/y increase" />
+	<key id="10100141" level="7" name="Leveling shim" tooltipDescription="Battle of unison to remain calm.\nAny damage to the enemy 18% y/y increase" />
+	<key id="10100141" level="8" name="Leveling shim" tooltipDescription="Battle of unison to remain calm.\nAny damage to the enemy 18.5% y/y increase" />
+	<key id="10100141" level="9" name="Leveling shim" tooltipDescription="Battle of unison to remain calm.\nAny damage to the enemy 19% y/y increase" />
+	<key id="10100141" level="10" name="Leveling shim" tooltipDescription="Battle of unison to remain calm.\nAny damage to the enemy 20% y/y increase" />
+	<key id="10100151" level="1" name="Iron shield" tooltipDescription="The defense posture as a shield.\nAll damage to the enemy and 50% reduced" />
+	<key id="10100151" level="2" name="Iron shield" tooltipDescription="The defense posture as a shield.\nAll damage to the enemy 52% reduction" />
+	<key id="10100151" level="3" name="Iron shield" tooltipDescription="The defense posture as a shield.\nAll damage to the enemy 54% reduction" />
+	<key id="10100151" level="4" name="Iron shield" tooltipDescription="The defense posture as a shield.\nAll damage to the enemy 56% reduced" />
+	<key id="10100151" level="5" name="Iron shield" tooltipDescription="The defense posture as a shield.\nAll damage to the enemy 58% reduction" />
+	<key id="10100151" level="6" name="Iron shield" tooltipDescription="Poised as a shield to defend the polite\nAll damage to the enemy and 60% reduction" />
+	<key id="10100151" level="7" name="Iron shield" tooltipDescription="Poised as a shield to defend the polite\nAll damage to the enemy 62% reduced" />
+	<key id="10100151" level="8" name="Iron shield" tooltipDescription="Poised as a shield to defend the polite\nAll damage to the enemy 64% reduction" />
+	<key id="10100151" level="9" name="Iron shield" tooltipDescription="Poised as a shield to defend the polite\nAll damage to the enemy 66% reduction" />
+	<key id="10100151" level="10" name="Iron shield" tooltipDescription="Poised as a shield to defend the polite\nAll damage to the enemy, 70% reduction" />
+	<key id="10200041" level="1" name="Anger" tooltipDescription="The anger that was sleeping on my sides opened my eyes!\Defense power reduced by 5%\nPhysical attack power 5% y/y increase" />
+	<key id="10200041" level="2" name="Anger" tooltipDescription="The anger that was sleeping on my sides opened my eyes!\Def 5.5%\nPhysical damage by 5.5% y/y increase" />
+	<key id="10200041" level="3" name="Anger" tooltipDescription="The anger that was sleeping on my sides opened my eyes!\Def 6% reduction\nPhysical attack 6% y/y increase" />
+	<key id="10200041" level="4" name="Anger" tooltipDescription="The anger that was sleeping on my sides opened my eyes!\Def 6.5% reduction\nPhysical attack power 6.5% increase" />
+	<key id="10200041" level="5" name="Anger" tooltipDescription="The anger that was sleeping on my sides opened my eyes!\Def 7.5% reduction\nPhysical damage 7.5% y/y increase" />
+	<key id="10200061" level="1" name="Threat" tooltipDescription="Lost before the body motions ...\nDamage reduced by 20% (some excluded)\nGo to reduce speed by 20%\nJump power 30% reduction" />
+	<key id="10200061" level="2" name="Threat" tooltipDescription="Lost before the body motions ...\n22% damage reduction (some excluded)\nGo speed 22% reduced\nJump power 30% reduction" />
+	<key id="10200061" level="3" name="Threat" tooltipDescription="Lost before the body motions ...\nDamage reduction of 24% (some excluded)\nSpeed 24% reduced\nJump force 35% reduction" />
+	<key id="10200061" level="4" name="Threat" tooltipDescription="Lost before the body motions ...\nDamage reduced by 26% (some excluded)\nMovement speed to 26% reduction\nJump force 35% reduction" />
+	<key id="10200061" level="5" name="Threat" tooltipDescription="Lost before the body motions ...\n30% reduction in damage (some excluded)\n30% reduction in movement speed\nJump power 40% reduction" />
+	<key id="10200071" level="1" name="Ground breaker" tooltipDescription="The strong impact of the floor cannot move properly!\nGo to reduce speed by 20%" />
+	<key id="10200071" level="2" name="Ground breaker" tooltipDescription="The strong impact of the floor cannot move properly!\nMovement speed reduced by 25%" />
+	<key id="10200071" level="3" name="Ground breaker" tooltipDescription="The strong impact of the floor cannot move properly!\n30% reduction in movement speed" />
+	<key id="10200081" level="1" name="Light Warrior&#8217;s spirit" tooltipDescription="The power of this runaway madness!\nMovement speed and attack speed increase 25" />
+	<key id="10200081" level="2" name="Light Warrior&#8217;s spirit" tooltipDescription="The power of this runaway madness!\nMovement speed and attack speed by 27 increases" />
+	<key id="10200081" level="3" name="Light Warrior&#8217;s spirit" tooltipDescription="The power of this runaway madness!\nMovement speed and attack speed increase of 29" />
+	<key id="10200081" level="4" name="Light Warrior&#8217;s spirit" tooltipDescription="The power of this runaway madness!\nMovement speed and attack speed increase to 31" />
+	<key id="10200081" level="5" name="Light Warrior&#8217;s spirit" tooltipDescription="The power of this runaway madness!\nMovement speed and attack speed increase to 35" />
+	<key id="10200092" level="1" name="Ruthless invocation" tooltipDescription="Brute-force attack is without compassion.\nThe attack hit at any damage to the enemy\n0.8% Increased by 10 times" />
+	<key id="10200092" level="2" name="Ruthless invocation" tooltipDescription="Brute-force attack is without compassion.\nThe attack hit at any damage to the enemy\n0.8% Increased by 11 times" />
+	<key id="10200092" level="3" name="Ruthless invocation" tooltipDescription="Brute-force attack is without compassion.\nThe attack hit at any damage to the enemy\n0.8% Increased by 12 times" />
+	<key id="10200092" level="4" name="Ruthless invocation" tooltipDescription="Brute-force attack is without compassion.\nThe attack hit at any damage to the enemy\n0.8% Increased by 13 times" />
+	<key id="10200092" level="5" name="Ruthless invocation" tooltipDescription="Brute-force attack is without compassion.\nThe attack hit at any damage to the enemy\n0.8% Increased by 14 times" />
+	<key id="10200092" level="6" name="Ruthless invocation" tooltipDescription="Brute-force attack is without compassion.\nThe attack hit at any damage to the enemy\n0.8% Increased by 15 times" />
+	<key id="10200092" level="7" name="Ruthless invocation" tooltipDescription="Brute-force attack is without compassion.\nThe attack hit at any damage to the enemy\n0.8% 16 times increase by" />
+	<key id="10200092" level="8" name="Ruthless invocation" tooltipDescription="Brute-force attack is without compassion.\nThe attack hit at any damage to the enemy\n0.8% Increased by 17 times" />
+	<key id="10200092" level="9" name="Ruthless invocation" tooltipDescription="Brute-force attack is without compassion.\nThe attack hit at any damage to the enemy\n0.8% Increased by 18 times" />
+	<key id="10200092" level="10" name="Ruthless invocation" tooltipDescription="Brute-force attack is without compassion.\nThe attack hit at any damage to the enemy\n0.8% Increased by 20 times" />
+	<key id="10200101" level="1" name="Inn duo" tooltipDescription="Fortitude to endure extreme conditions as.\nAll skill SP 10% reduction in the consumption of\nReceive a 20% reduction in damage" />
+	<key id="10200101" level="2" name="Inn duo" tooltipDescription="Fortitude to endure extreme conditions as.\nAll skill SP 10% reduction in the consumption of\n22% of the incoming damage reduction" />
+	<key id="10200101" level="3" name="Inn duo" tooltipDescription="Fortitude to endure extreme conditions as.\nAll skill SP 10% reduction in the consumption of\nIncoming damage 24% reduced" />
+	<key id="10200101" level="4" name="Inn duo" tooltipDescription="Fortitude to endure extreme conditions as.\nAll skill SP Consumption 15% reduction\nIncoming damage 26% reduction" />
+	<key id="10200101" level="5" name="Inn duo" tooltipDescription="Fortitude to endure extreme conditions as.\nAll skill SP Consumption 15% reduction\n28% damage reduction recipients" />
+	<key id="10200101" level="6" name="Inn duo" tooltipDescription="Fortitude to endure extreme conditions as.\nAll skill SP Consumption 15% reduction\n30% reduction in incoming damage" />
+	<key id="10200101" level="7" name="Inn duo" tooltipDescription="Fortitude to endure extreme conditions as.\nAll skill SP Consumption 15% reduction\n32% reduction in incoming damage" />
+	<key id="10200101" level="8" name="Inn duo" tooltipDescription="Fortitude to endure extreme conditions as.\nAll skill SP A 20% reduction in the consumption of\n34% reduction in incoming damage" />
+	<key id="10200101" level="9" name="Inn duo" tooltipDescription="Fortitude to endure extreme conditions as.\nAll skill SP A 20% reduction in the consumption of\n36% reduction in incoming damage" />
+	<key id="10200101" level="10" name="Inn duo" tooltipDescription="Fortitude to endure extreme conditions as.\nAll skill SP A 20% reduction in the consumption of\nIncoming damage 40% reduction" />
+	<key id="10200112" level="1" name="Bleeding" tooltipDescription="Deep in the shed blood of the wounded.\n30% of physical damage every second" />
+	<key id="10200112" level="2" name="Bleeding" tooltipDescription="Deep in the shed blood of the wounded.\n31% of physical damage every second" />
+	<key id="10200112" level="3" name="Bleeding" tooltipDescription="Deep in the shed blood of the wounded.\n32% of physical damage every second" />
+	<key id="10200112" level="4" name="Bleeding" tooltipDescription="Deep in the shed blood of the wounded.\n33% of physical damage every second" />
+	<key id="10200112" level="5" name="Bleeding" tooltipDescription="Deep in the shed blood of the wounded.\n34% of physical damage every second" />
+	<key id="10200112" level="6" name="Bleeding" tooltipDescription="Deep in the shed blood of the wounded.\n35% of physical damage every second" />
+	<key id="10200112" level="7" name="Bleeding" tooltipDescription="Deep in the shed blood of the wounded.\n36% of physical damage every second" />
+	<key id="10200112" level="8" name="Bleeding" tooltipDescription="Deep in the shed blood of the wounded.\n37% of physical damage every second" />
+	<key id="10200112" level="9" name="Bleeding" tooltipDescription="Deep in the shed blood of the wounded.\n38% of physical damage every second" />
+	<key id="10200112" level="10" name="Bleeding" tooltipDescription="Deep in the shed blood of the wounded.\n40% of physical damage every second" />
+	<key id="10200141" level="1" name="The offering of blood" tooltipDescription="Physical ability skills only.\nSP Consumption as much as 20 percent of the figures HPPercent consumption" />
+	<key id="10200141" level="2" name="The offering of blood" tooltipDescription="Physical ability skills only.\nSP 19% of the consumption figures, as long as HPPercent consumption" />
+	<key id="10200141" level="3" name="The offering of blood" tooltipDescription="Physical ability skills only.\nSP Consumption figures for as much as 18% of HPPercent consumption" />
+	<key id="10200141" level="4" name="The offering of blood" tooltipDescription="Physical ability skills only.\nSP 17% of the consumption figures, as long as HPPercent consumption" />
+	<key id="10200141" level="5" name="The offering of blood" tooltipDescription="Physical ability skills only.\nSP Consumption figures for as long as 15% of the HPPercent consumption" />
+	<key id="10300011" level="1" name="Fire tornado" tooltipDescription="Sometimes the intense flames body!\nEvery second 20% fire damage" />
+	<key id="10300011" level="2" name="Fire tornado" tooltipDescription="Sometimes the intense flames body!\n21% every second flame damage" />
+	<key id="10300011" level="3" name="Fire tornado" tooltipDescription="Sometimes the intense flames body!\n22% of every second of flame damage" />
+	<key id="10300011" level="4" name="Fire tornado" tooltipDescription="Sometimes the intense flames body!\nEvery second 23% fire damage" />
+	<key id="10300011" level="5" name="Fire tornado" tooltipDescription="Sometimes the intense flames body!\nEvery second 24% fire damage" />
+	<key id="10300011" level="6" name="Fire tornado" tooltipDescription="Sometimes the intense flames body!\nEvery second 25% fire damage" />
+	<key id="10300011" level="7" name="Fire tornado" tooltipDescription="Sometimes the intense flames body!\nEvery second 26% fire damage" />
+	<key id="10300011" level="8" name="Fire tornado" tooltipDescription="Sometimes the intense flames body!\nEvery second 27% fire damage" />
+	<key id="10300011" level="9" name="Fire tornado" tooltipDescription="Sometimes the intense flames body!\nEvery second 28% fire damage" />
+	<key id="10300011" level="10" name="Fire tornado" tooltipDescription="Sometimes the intense flames body!\nEvery second 30% fire damage" />
+	<key id="10300051" level="1" name="Frost Nova" tooltipDescription="Cold body was stiff!\nWhile in the ice zone\nEvery second movement speed reduced by 20%\nEvery second jump power reduced by 5%" />
+	<key id="10300051" level="2" name="Frost Nova" tooltipDescription="Cold body was stiff!\nWhile in the ice zone\nEvery second movement speed reduced by 25%\nEvery second jump power reduced by 7%" />
+	<key id="10300051" level="3" name="Frost Nova" tooltipDescription="Cold body was stiff!\nWhile in the ice zone\nEvery second movement speed reduced by 30%\nEvery second jump power reduced by 9%" />
+	<key id="10300052" level="1" name="Ice lodge" tooltipDescription="Whole body frozen!\n3It is not possible to act freezes for a few seconds" />
+	<key id="10300071" level="1" name="Infiniti" tooltipDescription="Horsepower was sealed off!\nSP Without consuming skill used" />
+	<key id="10300071" level="2" name="Infiniti" tooltipDescription="Horsepower was sealed off!\nSP Without consuming skill used" />
+	<key id="10300071" level="3" name="Infiniti" tooltipDescription="Horsepower was sealed off!\nSP Without consuming skill used" />
+	<key id="10300071" level="4" name="Infiniti" tooltipDescription="Horsepower was sealed off!\nSP Without consuming skill used" />
+	<key id="10300071" level="5" name="Infiniti" tooltipDescription="Horsepower was sealed off!\nSP Without consuming skill used" />
+	<key id="10300081" level="1" name="Teleport" tooltipDescription="Magic wrap your body refreshed.\nAvoidance rate increased 100" />
+	<key id="10300081" level="2" name="Teleport" tooltipDescription="Magic wrap your body refreshed.\nAvoidance rate 150 increases" />
+	<key id="10300081" level="3" name="Teleport" tooltipDescription="Magic wrap your body refreshed.\nAvoidance rate increase 200" />
+	<key id="10300091" level="1" name="Focus magic-Jin" tooltipDescription="Mabeopjin absorbed from the horsepower.\nPhysical attack power and spell damage by 2% y/y increase" />
+	<key id="10300091" level="2" name="Focus magic-Jin" tooltipDescription="Mabeopjin absorbed from the horsepower.\nPhysical attack power and spell damage 2.4% y/y increase" />
+	<key id="10300091" level="3" name="Focus magic-Jin" tooltipDescription="Mabeopjin absorbed from the horsepower.\nPhysical attack power and spell damage 2.8% y/y increase" />
+	<key id="10300091" level="4" name="Focus magic-Jin" tooltipDescription="Mabeopjin absorbed from the horsepower.\nPhysical attack power and spell damage 3.2% y/y increase" />
+	<key id="10300091" level="5" name="Focus magic-Jin" tooltipDescription="Mabeopjin absorbed from the horsepower.\nPhysical attack power and spell damage 4% y/y increase" />
+	<key id="10300101" level="1" name="Trinity force" tooltipDescription="The property covers freely cast a spell!\nAdditional effect of unconditional per-property Mastership skill actuation" />
+	<key id="10300101" level="2" name="Trinity force" tooltipDescription="The property covers freely cast a spell!\nAdditional effect of unconditional per-property Mastership skill actuation" />
+	<key id="10300101" level="3" name="Trinity force" tooltipDescription="The property covers freely cast a spell!\nAdditional effect of unconditional per-property Mastership skill actuation" />
+	<key id="10300101" level="4" name="Trinity force" tooltipDescription="The property covers freely cast a spell!\nAdditional effect of unconditional per-property Mastership skill actuation" />
+	<key id="10300101" level="5" name="Trinity force" tooltipDescription="The property covers freely cast a spell!\nAdditional effect of unconditional per-property Mastership skill actuation" />
+	<key id="10300102" level="1" name="Flame domination" tooltipDescription="Flame elemental deal freely.\nFlame properties increased by 35 per cent skill damage" />
+	<key id="10300113" level="1" name="Flame domination" tooltipDescription="Flame elemental deal freely.\nFlame as much as 25% increase in property damage of skill" />
+	<key id="10300113" level="2" name="Flame domination" tooltipDescription="Flame elemental deal freely.\nFlame properties increased by 26% with skill damage" />
+	<key id="10300113" level="3" name="Flame domination" tooltipDescription="Flame elemental deal freely.\nFlame properties increased by 27% skill damage" />
+	<key id="10300113" level="4" name="Flame domination" tooltipDescription="Flame elemental deal freely.\nFlame properties increased by 28 per cent skill damage" />
+	<key id="10300113" level="5" name="Flame domination" tooltipDescription="Flame elemental deal freely.\nFlame properties increased by 29% damage of skill" />
+	<key id="10300113" level="6" name="Flame domination" tooltipDescription="Flame elemental deal freely.\nFlame properties increased by 30% of the damage of skill" />
+	<key id="10300113" level="7" name="Flame domination" tooltipDescription="Flame elemental deal freely.\nFlame properties increased by 31 percent with skill damage" />
+	<key id="10300113" level="8" name="Flame domination" tooltipDescription="Flame elemental deal freely.\nFlame properties increased by 32% skill damage" />
+	<key id="10300113" level="9" name="Flame domination" tooltipDescription="Flame elemental deal freely.\nFlame properties increased by 33 per cent skill damage" />
+	<key id="10300113" level="10" name="Flame domination" tooltipDescription="Flame elemental deal freely.\nFlame properties increased by 35 per cent skill damage" />
+	<key id="10300123" level="1" name="Lords of lightning" tooltipDescription="Ride the lightning scoured the whole body!\nIs action not possible electric shock" />
+	<key id="10300123" level="2" name="Lords of lightning" tooltipDescription="Ride the lightning scoured the whole body!\nIs action not possible electric shock" />
+	<key id="10300123" level="3" name="Lords of lightning" tooltipDescription="Ride the lightning scoured the whole body!\nIs action not possible electric shock" />
+	<key id="10300123" level="4" name="Lords of lightning" tooltipDescription="Ride the lightning scoured the whole body!\nIs action not possible electric shock" />
+	<key id="10300123" level="5" name="Lords of lightning" tooltipDescription="Ride the lightning scoured the whole body!\nIs action not possible electric shock" />
+	<key id="10300123" level="6" name="Lords of lightning" tooltipDescription="Ride the lightning scoured the whole body!\nIs action not possible electric shock" />
+	<key id="10300123" level="7" name="Lords of lightning" tooltipDescription="Ride the lightning scoured the whole body!\nIs action not possible electric shock" />
+	<key id="10300123" level="8" name="Lords of lightning" tooltipDescription="Ride the lightning scoured the whole body!\nIs action not possible electric shock" />
+	<key id="10300123" level="9" name="Lords of lightning" tooltipDescription="Ride the lightning scoured the whole body!\nIs action not possible electric shock" />
+	<key id="10300123" level="10" name="Lords of lightning" tooltipDescription="Ride the lightning scoured the whole body!\nIs action not possible electric shock" />
+	<key id="10300131" level="1" name="Magic armor" tooltipDescription="Magic armor wraps the whole body.\nTheir maximum HPAbsorb as much as 20% of the damage\nHave you ever worn from magic damage reduced by 10%" />
+	<key id="10300131" level="2" name="Magic armor" tooltipDescription="Magic armor wraps the whole body.\nTheir maximum HP21% of the damage absorbed\nHave you ever worn from magic damage reduced by 10%" />
+	<key id="10300131" level="3" name="Magic armor" tooltipDescription="Magic armor wraps the whole body.\nTheir maximum HP22% of the damage absorbed\nHave you ever worn from magic damage reduced by 10%" />
+	<key id="10300131" level="4" name="Magic armor" tooltipDescription="Magic armor wraps the whole body.\nTheir maximum HP23% of the damage absorbed\nHave you ever worn from magic damage reduced by 10%" />
+	<key id="10300131" level="5" name="Magic armor" tooltipDescription="Magic armor wraps the whole body.\nTheir maximum HPAs much as 25% of the damage absorbed\nHave you ever worn from magic damage reduced by 10%" />
+	<key id="10300141" level="1" name="Magic potential" tooltipDescription="Leading to a potential horsepower.\nINT 10% Increases the" />
+	<key id="10300141" level="2" name="Magic potential" tooltipDescription="Leading to a potential horsepower.\nINT 11% Increases the" />
+	<key id="10300141" level="3" name="Magic potential" tooltipDescription="Leading to a potential horsepower.\nINT 12% Increases the" />
+	<key id="10300141" level="4" name="Magic potential" tooltipDescription="Leading to a potential horsepower.\nINT 13% Increases the" />
+	<key id="10300141" level="5" name="Magic potential" tooltipDescription="Leading to a potential horsepower.\nINT 15% Increases the" />
+	<key id="10300153" level="1" name="Cold air dominance" tooltipDescription="Learning has been a chill element handling.\nChill property skills" />
+	<key id="10300153" level="2" name="Cold air dominance" tooltipDescription="Learning has been a chill element handling.\nChill property skills" />
+	<key id="10300153" level="3" name="Cold air dominance" tooltipDescription="Learning has been a chill element handling.\nChill property skills" />
+	<key id="10300153" level="4" name="Cold air dominance" tooltipDescription="Learning has been a chill element handling.\nChill property skills" />
+	<key id="10300153" level="5" name="Cold air dominance" tooltipDescription="Learning has been a chill element handling.\nChill property skills" />
+	<key id="10300153" level="6" name="Cold air dominance" tooltipDescription="Learning has been a chill element handling.\nChill property skills" />
+	<key id="10300153" level="7" name="Cold air dominance" tooltipDescription="Learning has been a chill element handling.\nChill property skills" />
+	<key id="10300153" level="8" name="Cold air dominance" tooltipDescription="Learning has been a chill element handling.\nChill property skills" />
+	<key id="10300153" level="9" name="Cold air dominance" tooltipDescription="Learning has been a chill element handling.\nChill property skills" />
+	<key id="10300153" level="10" name="Cold air dominance" tooltipDescription="Learning has been a chill element handling.\nChill property skills" />
+	<key id="10400001" level="1" name="Heavenly light" tooltipDescription="The sacred light in the sky.\nThe sanctity of the 3% damage each second" />
+	<key id="10400001" level="2" name="Heavenly light" tooltipDescription="The sacred light in the sky.\nThe sanctity of the 3% damage each second" />
+	<key id="10400001" level="3" name="Heavenly light" tooltipDescription="The sacred light in the sky.\nThe sanctity of the 3% damage each second" />
+	<key id="10400001" level="4" name="Heavenly light" tooltipDescription="The sacred light in the sky.\nThe sanctity of 5% damage each second" />
+	<key id="10400001" level="5" name="Heavenly light" tooltipDescription="The sacred light in the sky.\nThe sanctity of 5% damage each second" />
+	<key id="10400001" level="6" name="Heavenly light" tooltipDescription="The sacred light in the sky.\nThe sanctity of 5% damage each second" />
+	<key id="10400001" level="7" name="Heavenly light" tooltipDescription="The sacred light in the sky.\nThe sanctity of 5% damage each second" />
+	<key id="10400001" level="8" name="Heavenly light" tooltipDescription="The sacred light in the sky.\n7 percent of the Holy damage each second" />
+	<key id="10400001" level="9" name="Heavenly light" tooltipDescription="The sacred light in the sky.\n7 percent of the Holy damage each second" />
+	<key id="10400001" level="10" name="Heavenly light" tooltipDescription="The sacred light in the sky.\n7 percent of the Holy damage each second" />
+	<key id="10400041" level="1" name="Shield of Acorn" tooltipDescription="Referee shield around the body.\n10% reduction for all damage\nAdjacent to the divinity of the 3% damage to enemies" />
+	<key id="10400041" level="2" name="Shield of Acorn" tooltipDescription="Referee shield around the body.\n11% reduction in all of the United States\nAdjacent to the divinity of the 4% damage to enemies" />
+	<key id="10400041" level="3" name="Shield of Acorn" tooltipDescription="Referee shield around the body.\nAll damage 12% reduction\nAdjacent to the divinity of the 5% damage to enemies" />
+	<key id="10400041" level="4" name="Shield of Acorn" tooltipDescription="Referee shield around the body.\n13% of all damage taken reduced\nAdjacent to the divinity of the 6% damage to enemies" />
+	<key id="10400041" level="5" name="Shield of Acorn" tooltipDescription="Referee shield around the body.\n15% of all damage taken reduced\nAdjacent to the divinity of the 7% damage to enemies" />
+	<key id="10400051" level="1" name="Holly symbol" tooltipDescription="The Holy Spirit to cleanse clear.\nMabeopjin while in\nOnce every second SP 10 Recovery" />
+	<key id="10400051" level="2" name="Holly symbol" tooltipDescription="The Holy Spirit to cleanse clear.\nMabeopjin while in\nOnce every second SP 11 Recovery" />
+	<key id="10400051" level="3" name="Holly symbol" tooltipDescription="The Holy Spirit to cleanse clear.\nMabeopjin while in\nOnce every second SP 12 Recovery" />
+	<key id="10400051" level="4" name="Holly symbol" tooltipDescription="The Holy Spirit to cleanse clear.\nMabeopjin while in\nOnce every second SP 13 Recovery" />
+	<key id="10400051" level="5" name="Holly symbol" tooltipDescription="The Holy Spirit to cleanse clear.\nMabeopjin while in\nOnce every second SP 15 Recovery" />
+	<key id="10400061" level="1" name="Sanctuary" tooltipDescription="We are seeing the sacred aura of the land.\nWhile in the sanctuary\nOnce every second HP Recovery" />
+	<key id="10400061" level="2" name="Sanctuary" tooltipDescription="We are seeing the sacred aura of the land.\nWhile in the sanctuary\nOnce every second HP Recovery" />
+	<key id="10400061" level="3" name="Sanctuary" tooltipDescription="We are seeing the sacred aura of the land.\nWhile in the sanctuary\nOnce every second HP Recovery" />
+	<key id="10400061" level="4" name="Sanctuary" tooltipDescription="We are seeing the sacred aura of the land.\nWhile in the sanctuary\nOnce every second HP Recovery" />
+	<key id="10400061" level="5" name="Sanctuary" tooltipDescription="We are seeing the sacred aura of the land.\nWhile in the sanctuary\nOnce every second HP Recovery" />
+	<key id="10400081" level="1" name="Heavenly protector" tooltipDescription="Angel gives this divine power\nMagical attack power increased by 10%" />
+	<key id="10400081" level="2" name="Heavenly protector" tooltipDescription="Angel gives this divine power\nMagical attack power 10.5% y/y increase" />
+	<key id="10400081" level="3" name="Heavenly protector" tooltipDescription="Angel gives this divine power\nMagical attack power increases 11%" />
+	<key id="10400081" level="4" name="Heavenly protector" tooltipDescription="Angel gives this divine power\nMagical attack power increased 11.5%" />
+	<key id="10400081" level="5" name="Heavenly protector" tooltipDescription="Angel gives this divine power\nMagic damage 12% y/y increase" />
+	<key id="10400081" level="6" name="Heavenly protector" tooltipDescription="Angel gives this divine power\nMagical attack power 12.5% y/y increase" />
+	<key id="10400081" level="7" name="Heavenly protector" tooltipDescription="Angel gives this divine power\nMagic attack, 13% y/y increase" />
+	<key id="10400081" level="8" name="Heavenly protector" tooltipDescription="Angel gives this divine power\nMagical attack power 13.5% y/y increase" />
+	<key id="10400081" level="9" name="Heavenly protector" tooltipDescription="Angel gives this divine power\nMagical attack power increases 14%" />
+	<key id="10400081" level="10" name="Heavenly protector" tooltipDescription="Angel gives this divine power\nMagical attack power increased by 15%" />
+	<key id="10400091" level="1" name="Heavenly blessings" tooltipDescription="Angel blessings of spoken.\nAll damage to the enemy a 20% reduction in" />
+	<key id="10400091" level="2" name="Heavenly blessings" tooltipDescription="Angel blessings of spoken.\nAll damage to the enemy reduced to 22%" />
+	<key id="10400091" level="3" name="Heavenly blessings" tooltipDescription="Angel blessings of spoken.\nAll damage to the enemy 24% reduced" />
+	<key id="10400091" level="4" name="Heavenly blessings" tooltipDescription="Angel blessings of spoken.\nAll damage to the enemy to 26% reduction" />
+	<key id="10400091" level="5" name="Heavenly blessings" tooltipDescription="Angel blessings of spoken.\nAll damage to the enemy 30% reduced" />
+	<key id="10400111" level="1" name="A firm faith" tooltipDescription="Worshipful deepens.\nAny damage to the enemy 10% y/y increase" />
+	<key id="10400111" level="2" name="A firm faith" tooltipDescription="Worshipful deepens.\nAny damage to the enemy increases 11%" />
+	<key id="10400111" level="3" name="A firm faith" tooltipDescription="Worshipful deepens.\nAny damage to the enemy 12% y/y increase" />
+	<key id="10400111" level="4" name="A firm faith" tooltipDescription="Worshipful deepens.\nAny damage to the enemy 13% y/y increase" />
+	<key id="10400111" level="5" name="A firm faith" tooltipDescription="Worshipful deepens.\nAny damage to the enemy and 14% y/y increase" />
+	<key id="10400111" level="6" name="A firm faith" tooltipDescription="Worshipful deepens.\nAny damage to the enemy increases by 15%" />
+	<key id="10400111" level="7" name="A firm faith" tooltipDescription="Worshipful deepens.\nAny damage to the enemy 16% y/y increase" />
+	<key id="10400111" level="8" name="A firm faith" tooltipDescription="Worshipful deepens.\nAny damage to the enemy and 17% y/y increase" />
+	<key id="10400111" level="9" name="A firm faith" tooltipDescription="Worshipful deepens.\nAny damage to the enemy 18% y/y increase" />
+	<key id="10400111" level="10" name="A firm faith" tooltipDescription="Worshipful deepens.\nAny damage to the enemy 20% y/y increase" />
+	<key id="10400122" level="1" name="Judgment" tooltipDescription="This is the judgment of heaven!\nActing stunned wonderment" />
+	<key id="10400122" level="2" name="Judgment" tooltipDescription="This is the judgment of heaven!\nActing stunned wonderment" />
+	<key id="10400122" level="3" name="Judgment" tooltipDescription="This is the judgment of heaven!\nActing stunned wonderment" />
+	<key id="10400122" level="4" name="Judgment" tooltipDescription="This is the judgment of heaven!\nActing stunned wonderment" />
+	<key id="10400122" level="5" name="Judgment" tooltipDescription="This is the judgment of heaven!\nActing stunned wonderment" />
+	<key id="10400132" level="1" name="Heaven live shield" tooltipDescription="It was surrounded by the sacred shields.\nTheir maximum HPAs much as 30% of the damage absorbed" />
+	<key id="10400132" level="2" name="Heaven live shield" tooltipDescription="It was surrounded by the sacred shields.\nTheir maximum HP31% of the damage absorbed" />
+	<key id="10400132" level="3" name="Heaven live shield" tooltipDescription="It was surrounded by the sacred shields.\nTheir maximum HP32% of the damage absorbed" />
+	<key id="10400132" level="4" name="Heaven live shield" tooltipDescription="It was surrounded by the sacred shields.\nTheir maximum HP33% of the damage absorbed" />
+	<key id="10400132" level="5" name="Heaven live shield" tooltipDescription="It was surrounded by the sacred shields.\nTheir maximum HP34% of the damage absorbed" />
+	<key id="10400132" level="6" name="Heaven live shield" tooltipDescription="It was surrounded by the sacred shields.\nTheir maximum HP35% of the damage absorbed" />
+	<key id="10400132" level="7" name="Heaven live shield" tooltipDescription="It was surrounded by the sacred shields.\nTheir maximum HP36% of the damage absorbed" />
+	<key id="10400132" level="8" name="Heaven live shield" tooltipDescription="It was surrounded by the sacred shields.\nTheir maximum HP37% of the damage absorbed" />
+	<key id="10400132" level="9" name="Heaven live shield" tooltipDescription="It was surrounded by the sacred shields.\nTheir maximum HP38% of the damage absorbed" />
+	<key id="10400132" level="10" name="Heaven live shield" tooltipDescription="It was surrounded by the sacred shields.\nTheir maximum HPAs much as 40% of the damage absorbed" />
+	<key id="10400151" level="1" name="Heavenly wings" tooltipDescription="Wings of light body lightly.\nSpeed 20% y/y increase" />
+	<key id="10400151" level="2" name="Heavenly wings" tooltipDescription="Wings of light body lightly.\nGo speed 22% y/y increase" />
+	<key id="10400151" level="3" name="Heavenly wings" tooltipDescription="Wings of light body lightly.\nSpeed 24% y/y increase" />
+	<key id="10400151" level="4" name="Heavenly wings" tooltipDescription="Wings of light body lightly.\nMoving speed increases 26%" />
+	<key id="10400151" level="5" name="Heavenly wings" tooltipDescription="Wings of light body lightly.\nSpeed 30% y/y increase" />
+	<key id="10400161" level="1" name="Heavenly prayer" tooltipDescription="Angel with a sacred aura.\nWhile in the recovery area\nOnce every second HP Recovery" />
+	<key id="10400161" level="2" name="Heavenly prayer" tooltipDescription="Angel with a sacred aura.\nWhile in the recovery area\nOnce every second HP Recovery" />
+	<key id="10400161" level="3" name="Heavenly prayer" tooltipDescription="Angel with a sacred aura.\nWhile in the recovery area\nOnce every second HP Recovery" />
+	<key id="10400161" level="4" name="Heavenly prayer" tooltipDescription="Angel with a sacred aura.\nWhile in the recovery area\nOnce every second HP Recovery" />
+	<key id="10400161" level="5" name="Heavenly prayer" tooltipDescription="Angel with a sacred aura.\nWhile in the recovery area\nOnce every second HP Recovery" />
+	<key id="10400161" level="6" name="Heavenly prayer" tooltipDescription="Angel with a sacred aura.\nWhile in the recovery area\nOnce every second HP Recovery" />
+	<key id="10400161" level="7" name="Heavenly prayer" tooltipDescription="Angel with a sacred aura.\nWhile in the recovery area\nOnce every second HP Recovery" />
+	<key id="10400161" level="8" name="Heavenly prayer" tooltipDescription="Angel with a sacred aura.\nWhile in the recovery area\nOnce every second HP Recovery" />
+	<key id="10400161" level="9" name="Heavenly prayer" tooltipDescription="Angel with a sacred aura.\nWhile in the recovery area\nOnce every second HP Recovery" />
+	<key id="10400161" level="10" name="Heavenly prayer" tooltipDescription="Angel with a sacred aura.\nWhile in the recovery area\nOnce every second HP Recovery" />
+	<key id="10400181" level="1" name="Spirit cheer" tooltipDescription="Have been exposed to intense light!\nAll damage to the enemy 10% y/y increase" />
+	<key id="10400181" level="2" name="Spirit cheer" tooltipDescription="Have been exposed to intense light!\nAll damage to the enemy 10% y/y increase" />
+	<key id="10400181" level="3" name="Spirit cheer" tooltipDescription="Have been exposed to intense light!\nAll damage to the enemy 10% y/y increase" />
+	<key id="10400181" level="4" name="Spirit cheer" tooltipDescription="Have been exposed to intense light!\nAll damage to the enemy 10% y/y increase" />
+	<key id="10400181" level="5" name="Spirit cheer" tooltipDescription="Have been exposed to intense light!\nAll damage to the enemy 10% y/y increase" />
+	<key id="10400181" level="6" name="Spirit cheer" tooltipDescription="Have been exposed to intense light!\nAll damage to the enemy 10% y/y increase" />
+	<key id="10400181" level="7" name="Spirit cheer" tooltipDescription="Have been exposed to intense light!\nAll damage to the enemy 10% y/y increase" />
+	<key id="10400181" level="8" name="Spirit cheer" tooltipDescription="Have been exposed to intense light!\nAll damage to the enemy 10% y/y increase" />
+	<key id="10400181" level="9" name="Spirit cheer" tooltipDescription="Have been exposed to intense light!\nAll damage to the enemy 10% y/y increase" />
+	<key id="10400181" level="10" name="Spirit cheer" tooltipDescription="Have been exposed to intense light!\nAll damage to the enemy 10% y/y increase" />
+	<key id="10500031" level="1" name="Ice arrow" tooltipDescription="Ice arrow right body stiff.\nSpeed 40% reduction" />
+	<key id="10500031" level="2" name="Ice arrow" tooltipDescription="Ice arrow right body stiff.\n50% reduction in movement speed" />
+	<key id="10500031" level="3" name="Ice arrow" tooltipDescription="Ice arrow right body stiff.\nMovement speed 60% reduction" />
+	<key id="10500051" level="1" name="Stunned" tooltipDescription="Bow strongly rap blindsided!\nActing stunned wonderment" />
+	<key id="10500051" level="2" name="Stunned" tooltipDescription="Bow strongly rap blindsided!\nActing stunned wonderment" />
+	<key id="10500051" level="3" name="Stunned" tooltipDescription="Bow strongly rap blindsided!\nActing stunned wonderment" />
+	<key id="10500051" level="4" name="Stunned" tooltipDescription="Bow strongly rap blindsided!\nActing stunned wonderment" />
+	<key id="10500051" level="5" name="Stunned" tooltipDescription="Bow strongly rap blindsided!\nActing stunned wonderment" />
+	<key id="10500061" level="1" name="Sharp eyes" tooltipDescription="Seeing beyond the enemy&#8217;s weaknesses.\nIncreases critical hit 32" />
+	<key id="10500061" level="2" name="Sharp eyes" tooltipDescription="Seeing beyond the enemy&#8217;s weaknesses.\nIncreases critical hit 38" />
+	<key id="10500061" level="3" name="Sharp eyes" tooltipDescription="Seeing beyond the enemy&#8217;s weaknesses.\nIncreases critical hit 44" />
+	<key id="10500061" level="4" name="Sharp eyes" tooltipDescription="Seeing beyond the enemy&#8217;s weaknesses.\nIncreases critical hit 50" />
+	<key id="10500061" level="5" name="Sharp eyes" tooltipDescription="Seeing beyond the enemy&#8217;s weaknesses.\nIncreases critical hit 62" />
+	<key id="10500072" level="1" name="Golden Eagle" tooltipDescription="Golden-eyed Eagle arc.\nDEX 5% Increases the" />
+	<key id="10500072" level="2" name="Golden Eagle" tooltipDescription="Golden-eyed Eagle arc.\nDEX 5.2% Increases the" />
+	<key id="10500072" level="3" name="Golden Eagle" tooltipDescription="Golden-eyed Eagle arc.\nDEX 5.4% Increases the" />
+	<key id="10500072" level="4" name="Golden Eagle" tooltipDescription="Golden-eyed Eagle arc.\nDEX 5.6% Increases the" />
+	<key id="10500072" level="5" name="Golden Eagle" tooltipDescription="Golden-eyed Eagle arc.\nDEX 5.8% Increases the" />
+	<key id="10500072" level="6" name="Golden Eagle" tooltipDescription="Golden-eyed Eagle arc.\nDEX 6% Increases the" />
+	<key id="10500072" level="7" name="Golden Eagle" tooltipDescription="Golden-eyed Eagle arc.\nDEX 6.2% Increases the" />
+	<key id="10500072" level="8" name="Golden Eagle" tooltipDescription="Golden-eyed Eagle arc.\nDEX 6.4% Increases the" />
+	<key id="10500072" level="9" name="Golden Eagle" tooltipDescription="Golden-eyed Eagle arc.\nDEX 6.6% Increases the" />
+	<key id="10500072" level="10" name="Golden Eagle" tooltipDescription="Golden-eyed Eagle arc.\nDEX 7% Increases the" />
+	<key id="10500081" level="1" name="Eagle strike" tooltipDescription="The Eagle&#8217;s talons clawing in the light!\n50% damage each second\n30% reduction in movement speed\nJump power 30% reduction" />
+	<key id="10500081" level="2" name="Eagle strike" tooltipDescription="The Eagle&#8217;s talons clawing in the light!\n53% damage each second\nMovement speed reduced by 31%\nJump power 30% reduction" />
+	<key id="10500081" level="3" name="Eagle strike" tooltipDescription="The Eagle&#8217;s talons clawing in the light!\n56% damage each second\n32% reduction in movement speed\nJump power 30% reduction" />
+	<key id="10500081" level="4" name="Eagle strike" tooltipDescription="The Eagle&#8217;s talons clawing in the light!\n59% damage each second\n33% reduction in movement speed\nJump force 35% reduction" />
+	<key id="10500081" level="5" name="Eagle strike" tooltipDescription="The Eagle&#8217;s talons clawing in the light!\n62% damage each second\n34% reduction in movement speed\nJump force 35% reduction" />
+	<key id="10500081" level="6" name="Eagle strike" tooltipDescription="The Eagle&#8217;s talons clawing in the light!\n65% damage each second\n35% reduction in movement speed\nJump force 35% reduction" />
+	<key id="10500081" level="7" name="Eagle strike" tooltipDescription="The Eagle&#8217;s talons clawing in the light!\n68% damage each second\n36% reduction in movement speed\nJump force 35% reduction" />
+	<key id="10500081" level="8" name="Eagle strike" tooltipDescription="The Eagle&#8217;s talons clawing in the light!\n71% damage each second\n37% decrease in transfer speed\nJump power 40% reduction" />
+	<key id="10500081" level="9" name="Eagle strike" tooltipDescription="The Eagle&#8217;s talons clawing in the light!\n74% damage each second\n38% reduction in movement speed\nJump power 40% reduction" />
+	<key id="10500081" level="10" name="Eagle strike" tooltipDescription="The Eagle&#8217;s talons clawing in the light!\n80% damage each second\nSpeed 40% reduction\nJump power 40% reduction" />
+	<key id="10500091" level="1" name="Eagle Horn" tooltipDescription="The Eagle&#8217;s regular whole body.\nOnce every second SP 15 Recovery\nThe attack hit the City Eagle fires an attack supported by" />
+	<key id="10500091" level="2" name="Eagle Horn" tooltipDescription="The Eagle&#8217;s regular whole body.\nOnce every second SP 17 Recovery\nThe attack hit the City Eagle fires an attack supported by" />
+	<key id="10500091" level="3" name="Eagle Horn" tooltipDescription="The Eagle&#8217;s regular whole body.\nOnce every second SP 19 Recovery\nThe attack hit the City Eagle fires an attack supported by" />
+	<key id="10500091" level="4" name="Eagle Horn" tooltipDescription="The Eagle&#8217;s regular whole body.\nOnce every second SP 21 Recovery\nThe attack hit the City Eagle fires an attack supported by" />
+	<key id="10500091" level="5" name="Eagle Horn" tooltipDescription="The Eagle&#8217;s regular whole body.\nOnce every second SP 25 Recovery\nThe attack hit the City Eagle fires an attack supported by" />
+	<key id="10500111" level="1" name="ES knife" tooltipDescription="Exactly the enemy to aim.\n10% bonus to damage an enemy-coated" />
+	<key id="10500111" level="2" name="ES knife" tooltipDescription="Exactly the enemy to aim.\n11% increase in damage to the enemy-coated" />
+	<key id="10500111" level="3" name="ES knife" tooltipDescription="Exactly the enemy to aim.\n12% increase in damage to the enemy-coated" />
+	<key id="10500111" level="4" name="ES knife" tooltipDescription="Exactly the enemy to aim.\nThe damage to the enemy-coated 13% y/y increase" />
+	<key id="10500111" level="5" name="ES knife" tooltipDescription="Exactly the enemy to aim.\nThe damage to the enemy-coated 15% y/y increase" />
+	<key id="10500132" level="1" name="Armor piercing" tooltipDescription="Defense against enemy attacks the piercing!\nIncrease the ability to penetrate armor 10" />
+	<key id="10500132" level="2" name="Armor piercing" tooltipDescription="Defense against enemy attacks the piercing!\nIncrease the ability to penetrate armor 11" />
+	<key id="10500132" level="3" name="Armor piercing" tooltipDescription="Defense against enemy attacks the piercing!\nIncrease the ability to penetrate armor 12" />
+	<key id="10500132" level="4" name="Armor piercing" tooltipDescription="Defense against enemy attacks the piercing!\nIncrease the ability to penetrate the armor class 13" />
+	<key id="10500132" level="5" name="Armor piercing" tooltipDescription="Defense against enemy attacks the piercing!\nIncreases the penetrating power capacity 14" />
+	<key id="10600052" level="1" name="He René droid" tooltipDescription="The impact of the explosion blindsided!\nActing stunned wonderment" />
+	<key id="10600052" level="2" name="He René droid" tooltipDescription="The impact of the explosion blindsided!\nActing stunned wonderment" />
+	<key id="10600052" level="3" name="He René droid" tooltipDescription="The impact of the explosion blindsided!\nActing stunned wonderment" />
+	<key id="10600052" level="4" name="He René droid" tooltipDescription="The impact of the explosion blindsided!\nActing stunned wonderment" />
+	<key id="10600052" level="5" name="He René droid" tooltipDescription="The impact of the explosion blindsided!\nActing stunned wonderment" />
+	<key id="10600052" level="6" name="He René droid" tooltipDescription="The impact of the explosion blindsided!\nActing stunned wonderment" />
+	<key id="10600052" level="7" name="He René droid" tooltipDescription="The impact of the explosion blindsided!\nActing stunned wonderment" />
+	<key id="10600052" level="8" name="He René droid" tooltipDescription="The impact of the explosion blindsided!\nActing stunned wonderment" />
+	<key id="10600052" level="9" name="He René droid" tooltipDescription="The impact of the explosion blindsided!\nActing stunned wonderment" />
+	<key id="10600052" level="10" name="He René droid" tooltipDescription="The impact of the explosion blindsided!\nActing stunned wonderment" />
+	<key id="10600062" level="1" name="Magnetic spring" tooltipDescription="Powerful magnetic field close your whole body!\nMovement speed reduction" />
+	<key id="10600062" level="2" name="Magnetic spring" tooltipDescription="Powerful magnetic field close your whole body!\nMovement speed reduction" />
+	<key id="10600062" level="3" name="Magnetic spring" tooltipDescription="Powerful magnetic field close your whole body!\nMovement speed reduction" />
+	<key id="10600062" level="4" name="Magnetic spring" tooltipDescription="Powerful magnetic field close your whole body!\nMovement speed reduction" />
+	<key id="10600062" level="5" name="Magnetic spring" tooltipDescription="Powerful magnetic field close your whole body!\nMovement speed reduction" />
+	<key id="10600081" level="1" name="Blast jumps" tooltipDescription="Canon has been warmed up.\nIncrease attack speed by 10%" />
+	<key id="10600081" level="2" name="Blast jumps" tooltipDescription="Canon has been warmed up.\nIncrease attack speed by 10%" />
+	<key id="10600081" level="3" name="Blast jumps" tooltipDescription="Canon has been warmed up.\nAttack speed increases by 13%" />
+	<key id="10600081" level="4" name="Blast jumps" tooltipDescription="Canon has been warmed up.\nAttack speed increases by 13%" />
+	<key id="10600081" level="5" name="Blast jumps" tooltipDescription="Canon has been warmed up.\nIncrease attack speed by 18%" />
+	<key id="10600102" level="1" name="Time bomb" tooltipDescription="I have been with a ticking time bomb in your body!\n2After a few seconds of 80% flame damage" />
+	<key id="10600102" level="2" name="Time bomb" tooltipDescription="I have been with a ticking time bomb in your body!\n284% of flame damage after a few seconds" />
+	<key id="10600102" level="3" name="Time bomb" tooltipDescription="I have been with a ticking time bomb in your body!\n288% fire damage after a few seconds" />
+	<key id="10600102" level="4" name="Time bomb" tooltipDescription="I have been with a ticking time bomb in your body!\n292% of flame damage after a few seconds" />
+	<key id="10600102" level="5" name="Time bomb" tooltipDescription="I have been with a ticking time bomb in your body!\n296% of flame damage after a few seconds" />
+	<key id="10600102" level="6" name="Time bomb" tooltipDescription="I have been with a ticking time bomb in your body!\n2100% fire damage after a few seconds" />
+	<key id="10600102" level="7" name="Time bomb" tooltipDescription="I have been with a ticking time bomb in your body!\n2After a few seconds of 104% flame damage" />
+	<key id="10600102" level="8" name="Time bomb" tooltipDescription="I have been with a ticking time bomb in your body!\n2After a few seconds of flame damage 108%" />
+	<key id="10600102" level="9" name="Time bomb" tooltipDescription="I have been with a ticking time bomb in your body!\n2After a few seconds of flame damage 112%" />
+	<key id="10600102" level="10" name="Time bomb" tooltipDescription="I have been with a ticking time bomb in your body!\n2Seconds after 120% fire damage" />
+	<key id="10600121" level="1" name="Barrage" tooltipDescription="Shooting stance stability.\nDEX 5% Increases the" />
+	<key id="10600121" level="2" name="Barrage" tooltipDescription="Shooting stance stability.\nDEX 5.5% Increases the" />
+	<key id="10600121" level="3" name="Barrage" tooltipDescription="Shooting stance stability.\nDEX 6% Increases the" />
+	<key id="10600121" level="4" name="Barrage" tooltipDescription="Shooting stance stability.\nDEX 6.5% Increases the" />
+	<key id="10600121" level="5" name="Barrage" tooltipDescription="Shooting stance stability.\nDEX 7.5% Increases the" />
+	<key id="10600131" level="1" name="Satellite" tooltipDescription="Small satellites to navigate the enemy.\nTarget of 50% of enemies with lightning damage" />
+	<key id="10600131" level="2" name="Satellite" tooltipDescription="Small satellites to navigate the enemy.\n53% of the targeted enemies lightning damage" />
+	<key id="10600131" level="3" name="Satellite" tooltipDescription="Small satellites to navigate the enemy.\n56% of the targeted enemies &#8217; damage" />
+	<key id="10600131" level="4" name="Satellite" tooltipDescription="Small satellites to navigate the enemy.\n59% of the targeted enemies lightning damage" />
+	<key id="10600131" level="5" name="Satellite" tooltipDescription="Small satellites to navigate the enemy.\n62% of the targeted enemies lightning damage" />
+	<key id="10600131" level="6" name="Satellite" tooltipDescription="Small satellites to navigate the enemy.\n65% of the targeted enemies &#8217; damage" />
+	<key id="10600131" level="7" name="Satellite" tooltipDescription="Small satellites to navigate the enemy.\n68% of the targeted enemies lightning damage" />
+	<key id="10600131" level="8" name="Satellite" tooltipDescription="Small satellites to navigate the enemy.\n71% of the targeted enemies lightning damage" />
+	<key id="10600131" level="9" name="Satellite" tooltipDescription="Small satellites to navigate the enemy.\n74% of the targeted enemies lightning damage" />
+	<key id="10600131" level="10" name="Satellite" tooltipDescription="Small satellites to navigate the enemy.\nHas never been a target to 80 percent of the lightning damage" />
+	<key id="10600142" level="1" name="Napalm showers" tooltipDescription="On fire spread!\nEvery second 2% fire damage" />
+	<key id="10600142" level="2" name="Napalm showers" tooltipDescription="On fire spread!\nEvery second 2% fire damage" />
+	<key id="10600142" level="3" name="Napalm showers" tooltipDescription="On fire spread!\nEvery second 2% fire damage" />
+	<key id="10600142" level="4" name="Napalm showers" tooltipDescription="On fire spread!\nEvery second 2% fire damage" />
+	<key id="10600142" level="5" name="Napalm showers" tooltipDescription="On fire spread!\nEvery second 2% fire damage" />
+	<key id="10600142" level="6" name="Napalm showers" tooltipDescription="On fire spread!\nEvery second 2% fire damage" />
+	<key id="10600142" level="7" name="Napalm showers" tooltipDescription="On fire spread!\nEvery second 2% fire damage" />
+	<key id="10600142" level="8" name="Napalm showers" tooltipDescription="On fire spread!\nEvery second 2% fire damage" />
+	<key id="10600142" level="9" name="Napalm showers" tooltipDescription="On fire spread!\nEvery second 2% fire damage" />
+	<key id="10600142" level="10" name="Napalm showers" tooltipDescription="On fire spread!\nEvery second 2% fire damage" />
+	<key id="10600151" level="1" name="Rock on" tooltipDescription="Heavy gunner&#8217;s target has been set!\nHoming missile, satellite and foremost target of" />
+	<key id="10600151" level="2" name="Rock on" tooltipDescription="Heavy gunner&#8217;s target has been set!\nHoming missile, satellite and foremost target of" />
+	<key id="10600151" level="3" name="Rock on" tooltipDescription="Heavy gunner&#8217;s target has been set!\nHoming missile, satellite and foremost target of" />
+	<key id="10600151" level="4" name="Rock on" tooltipDescription="Heavy gunner&#8217;s target has been set!\nHoming missile, satellite and foremost target of" />
+	<key id="10600151" level="5" name="Rock on" tooltipDescription="Heavy gunner&#8217;s target has been set!\nHoming missile, satellite and foremost target of" />
+	<key id="10600152" level="1" name="Rock on" tooltipDescription="Precision shooting mode is activated.\nIncrease the hit 20\n4 percent increase in penetrating power" />
+	<key id="10600152" level="2" name="Rock on" tooltipDescription="Precision shooting mode is activated.\nIncrease the hit 22\nDef penetrated 5% y/y increase" />
+	<key id="10600152" level="3" name="Rock on" tooltipDescription="Precision shooting mode is activated.\nHit 24 increased\n6 percent increase in penetrating power" />
+	<key id="10600152" level="4" name="Rock on" tooltipDescription="Precision shooting mode is activated.\nIncrease the hit 26\nPiercing the 7% increase in power" />
+	<key id="10600152" level="5" name="Rock on" tooltipDescription="Precision shooting mode is activated.\nIncrease the hit 30\n8 percent increase penetrating power" />
+	<key id="10600162" level="1" name="Canon Preheat" tooltipDescription="Canon has been warmed up and get hot.\n10Annual nesting over Lee Mitt step 1 rise" />
+	<key id="10600162" level="2" name="Canon Preheat" tooltipDescription="Canon has been warmed up and get hot.\n10Annual nesting over Lee Mitt step 1 rise" />
+	<key id="10600162" level="3" name="Canon Preheat" tooltipDescription="Canon has been warmed up and get hot.\n10Annual nesting over Lee Mitt step 1 rise" />
+	<key id="10600162" level="4" name="Canon Preheat" tooltipDescription="Canon has been warmed up and get hot.\n10Annual nesting over Lee Mitt step 1 rise" />
+	<key id="10600162" level="5" name="Canon Preheat" tooltipDescription="Canon has been warmed up and get hot.\n10Annual nesting over Lee Mitt step 1 rise" />
+	<key id="10600163" level="1" name="Over Lee Mitt" tooltipDescription="Canon over Lee was Mitt!\nAll damage to the enemy-coated 1% y/y increase\nEnables up to 10 times as far as nested" />
+	<key id="10600163" level="2" name="Over Lee Mitt" tooltipDescription="Canon over Lee was Mitt!\nAll damage to the enemy-coated 1.2% y/y increase\nEnables up to 10 times as far as nested" />
+	<key id="10600163" level="3" name="Over Lee Mitt" tooltipDescription="Canon over Lee was Mitt!\nAll damage to the enemy-coated 1.4% y/y increase\nEnables up to 10 times as far as nested" />
+	<key id="10600163" level="4" name="Over Lee Mitt" tooltipDescription="Canon over Lee was Mitt!\nAll damage to the enemy-coated 1.6% y/y increase\nEnables up to 10 times as far as nested" />
+	<key id="10600163" level="5" name="Over Lee Mitt" tooltipDescription="Canon over Lee was Mitt!\nAll damage to the enemy-coated 2% y/y increase\nEnables up to 10 times as far as nested" />
+	<key id="10600164" level="1" name="Canon overload" tooltipDescription="Canon&#8217;s performance threshold has been exceeded!\n5For a few seconds SP Without consuming skill used\nSP 0Drop" />
+	<key id="10600164" level="2" name="Canon overload" tooltipDescription="Canon&#8217;s performance threshold has been exceeded!\n5For a few seconds SP Without consuming skill used\nSP 0Drop" />
+	<key id="10600164" level="3" name="Canon overload" tooltipDescription="Canon&#8217;s performance threshold has been exceeded!\n5For a few seconds SP Without consuming skill used\nSP 0Drop" />
+	<key id="10600164" level="4" name="Canon overload" tooltipDescription="Canon&#8217;s performance threshold has been exceeded!\n5For a few seconds SP Without consuming skill used\nSP 0Drop" />
+	<key id="10600164" level="5" name="Canon overload" tooltipDescription="Canon&#8217;s performance threshold has been exceeded!\n5For a few seconds SP Without consuming skill used\nSP 0Drop" />
+	<key id="10700001" level="1" name="Non-thermal fleet" tooltipDescription="Means unobstructed.\nEnhance a particular skill\nSpeed 30% y/y increase" />
+	<key id="10700001" level="2" name="Non-thermal fleet" tooltipDescription="Means unobstructed.\nEnhance a particular skill\nSpeed 30% y/y increase" />
+	<key id="10700001" level="3" name="Non-thermal fleet" tooltipDescription="Means unobstructed.\nEnhance a particular skill\nSpeed 30% y/y increase" />
+	<key id="10700001" level="4" name="Non-thermal fleet" tooltipDescription="Means unobstructed.\nEnhance a particular skill\nSpeed 30% y/y increase" />
+	<key id="10700001" level="5" name="Non-thermal fleet" tooltipDescription="Means unobstructed.\nEnhance a particular skill\nSpeed 30% y/y increase" />
+	<key id="10700001" level="6" name="Non-thermal fleet" tooltipDescription="Means unobstructed.\nEnhance a particular skill\nSpeed 30% y/y increase" />
+	<key id="10700001" level="7" name="Non-thermal fleet" tooltipDescription="Means unobstructed.\nEnhance a particular skill\nSpeed 30% y/y increase" />
+	<key id="10700001" level="8" name="Non-thermal fleet" tooltipDescription="Means unobstructed.\nEnhance a particular skill\nSpeed 30% y/y increase" />
+	<key id="10700001" level="9" name="Non-thermal fleet" tooltipDescription="Means unobstructed.\nEnhance a particular skill\nSpeed 30% y/y increase" />
+	<key id="10700001" level="10" name="Non-thermal fleet" tooltipDescription="Means unobstructed.\nEnhance a particular skill\nSpeed 30% y/y increase" />
+	<key id="10700011" level="1" name="Poison blow" tooltipDescription="Doused in poisonous dagger has been addicted to!\n6 percent of the poison damage each second" />
+	<key id="10700011" level="2" name="Poison blow" tooltipDescription="Doused in poisonous dagger has been addicted to!\n6 percent of the poison damage each second" />
+	<key id="10700011" level="3" name="Poison blow" tooltipDescription="Doused in poisonous dagger has been addicted to!\n6 percent of the poison damage each second" />
+	<key id="10700011" level="4" name="Poison blow" tooltipDescription="Doused in poisonous dagger has been addicted to!\n8 percent of the poison damage each second" />
+	<key id="10700011" level="5" name="Poison blow" tooltipDescription="Doused in poisonous dagger has been addicted to!\n8 percent of the poison damage each second" />
+	<key id="10700011" level="6" name="Poison blow" tooltipDescription="Doused in poisonous dagger has been addicted to!\n8 percent of the poison damage each second" />
+	<key id="10700011" level="7" name="Poison blow" tooltipDescription="Doused in poisonous dagger has been addicted to!\n8 percent of the poison damage each second" />
+	<key id="10700011" level="8" name="Poison blow" tooltipDescription="Doused in poisonous dagger has been addicted to!\n10% of poison damage each second" />
+	<key id="10700011" level="9" name="Poison blow" tooltipDescription="Doused in poisonous dagger has been addicted to!\n10% of poison damage each second" />
+	<key id="10700011" level="10" name="Poison blow" tooltipDescription="Doused in poisonous dagger has been addicted to!\n10% of poison damage each second" />
+	<key id="10700031" level="1" name="Blade dance" tooltipDescription="The flexible movement of the enemy attack damage.\n85% chance to evade enemy attacks" />
+	<key id="10700031" level="2" name="Blade dance" tooltipDescription="The flexible movement of the enemy attack damage.\n86% chance to evade enemy attacks" />
+	<key id="10700031" level="3" name="Blade dance" tooltipDescription="The flexible movement of the enemy attack damage.\n87% chance to evade enemy attacks" />
+	<key id="10700031" level="4" name="Blade dance" tooltipDescription="The flexible movement of the enemy attack damage.\n88% chance to evade enemy attacks" />
+	<key id="10700031" level="5" name="Blade dance" tooltipDescription="The flexible movement of the enemy attack damage.\n89% chance to evade enemy attacks" />
+	<key id="10700031" level="6" name="Blade dance" tooltipDescription="The flexible movement of the enemy attack damage.\n90% chance to evade enemy attacks" />
+	<key id="10700031" level="7" name="Blade dance" tooltipDescription="The flexible movement of the enemy attack damage.\n91% chance to evade enemy attacks" />
+	<key id="10700031" level="8" name="Blade dance" tooltipDescription="The flexible movement of the enemy attack damage.\n92% chance to evade enemy attacks" />
+	<key id="10700031" level="9" name="Blade dance" tooltipDescription="The flexible movement of the enemy attack damage.\n93% chance to evade enemy attacks" />
+	<key id="10700031" level="10" name="Blade dance" tooltipDescription="The flexible movement of the enemy attack damage.\n95% chance to evade enemy attacks" />
+	<key id="10700051" level="1" name="Summer salt kick" tooltipDescription="Powerful kicks could not properly in the press!\nSpeed 40% reduction\nJump power 30% reduction" />
+	<key id="10700051" level="2" name="Summer salt kick" tooltipDescription="Powerful kicks could not properly in the press!\n45% reduction in movement speed\nJump force 35% reduction" />
+	<key id="10700051" level="3" name="Summer salt kick" tooltipDescription="Powerful kicks could not properly in the press!\n50% reduction in movement speed\nJump power 40% reduction" />
+	<key id="10700052" level="1" name="Summer salt kick" tooltipDescription="Strong lost the spirit to kick!\n1.5Inability to act, by stunned for a few seconds" />
+	<key id="10700061" level="1" name="Megan cattle guard" tooltipDescription="Prevent attacks by using a cow in Medan.\nAll damage to the enemy, 70% reduction" />
+	<key id="10700061" level="2" name="Megan cattle guard" tooltipDescription="Prevent attacks by using a cow in Medan.\nAll damage to the enemy 72% reduction" />
+	<key id="10700061" level="3" name="Megan cattle guard" tooltipDescription="Prevent attacks by using a cow in Medan.\nAll damage to the enemy 74% reduction" />
+	<key id="10700061" level="4" name="Megan cattle guard" tooltipDescription="Prevent attacks by using a cow in Medan.\nAll damage to the enemy 76% reduction" />
+	<key id="10700061" level="5" name="Megan cattle guard" tooltipDescription="Prevent attacks by using a cow in Medan.\nAll damage to the enemy 80% reduction" />
+	<key id="10700081" level="1" name="Haste" tooltipDescription="You can run like the wind.\nSpeed 40% y/y increase" />
+	<key id="10700081" level="2" name="Haste" tooltipDescription="You can run like the wind.\nSpeed 45% y/y increase" />
+	<key id="10700081" level="3" name="Haste" tooltipDescription="You can run like the wind.\nSpeed 50% y/y increase" />
+	<key id="10700081" level="4" name="Haste" tooltipDescription="You can run like the wind.\n55% increase in transfer speed" />
+	<key id="10700081" level="5" name="Haste" tooltipDescription="You can run like the wind.\nSpeed 65% y/y increase" />
+	<key id="10700102" level="1" name="Revenge" tooltipDescription="The vengeful.\nPhysical attack power and spell damage 12% y/y increase" />
+	<key id="10700102" level="2" name="Revenge" tooltipDescription="The vengeful.\n12.5% increase in the physical damage and magic damage" />
+	<key id="10700102" level="3" name="Revenge" tooltipDescription="The vengeful.\nPhysical attack power and spell damage 13% y/y increase" />
+	<key id="10700102" level="4" name="Revenge" tooltipDescription="The vengeful.\nPhysical attack power and spell damage 13.5% y/y increase" />
+	<key id="10700102" level="5" name="Revenge" tooltipDescription="The vengeful.\nPhysical attack power and spell damage has been increased by 14%" />
+	<key id="10700102" level="6" name="Revenge" tooltipDescription="The vengeful.\nPhysical attack power and spell damage 14.5% y/y increase" />
+	<key id="10700102" level="7" name="Revenge" tooltipDescription="The vengeful.\nPhysical attack power and spell damage has been increased by 15%" />
+	<key id="10700102" level="8" name="Revenge" tooltipDescription="The vengeful.\nPhysical attack power and spell damage 15.5% y/y increase" />
+	<key id="10700102" level="9" name="Revenge" tooltipDescription="The vengeful.\nPhysical attack power and spell damage increases 16%" />
+	<key id="10700102" level="10" name="Revenge" tooltipDescription="The vengeful.\nPhysical damage and magic damage 17% y/y increase" />
+	<key id="10700161" level="1" name="Poisonous glass bottles" tooltipDescription="Had been addicted to poison contained in glass bottles!\n18% poison damage each second" />
+	<key id="10700161" level="2" name="Poisonous glass bottles" tooltipDescription="Had been addicted to poison contained in glass bottles!\n20% of poison damage each second" />
+	<key id="10700161" level="3" name="Poisonous glass bottles" tooltipDescription="Had been addicted to poison contained in glass bottles!\n22% of poison damage each second" />
+	<key id="10700161" level="4" name="Poisonous glass bottles" tooltipDescription="Had been addicted to poison contained in glass bottles!\n24% of poison damage each second" />
+	<key id="10700161" level="5" name="Poisonous glass bottles" tooltipDescription="Had been addicted to poison contained in glass bottles!\n26 percent to poison damage each second" />
+	<key id="10700161" level="6" name="Poisonous glass bottles" tooltipDescription="Had been addicted to poison contained in glass bottles!\n28% of poison damage each second" />
+	<key id="10700161" level="7" name="Poisonous glass bottles" tooltipDescription="Had been addicted to poison contained in glass bottles!\n30% of poison damage each second" />
+	<key id="10700161" level="8" name="Poisonous glass bottles" tooltipDescription="Had been addicted to poison contained in glass bottles!\n32% of poison damage each second" />
+	<key id="10700161" level="9" name="Poisonous glass bottles" tooltipDescription="Had been addicted to poison contained in glass bottles!\n34% of poison damage each second" />
+	<key id="10700161" level="10" name="Poisonous glass bottles" tooltipDescription="Had been addicted to poison contained in glass bottles!\n38% of poison damage each second" />
+	<key id="10800041" level="1" name="Perl bounce attack" tooltipDescription="The weakness of the enemy through.\nAll fires to crit" />
+	<key id="10800041" level="2" name="Perl bounce attack" tooltipDescription="The weakness of the enemy through.\nAll fires to crit" />
+	<key id="10800041" level="3" name="Perl bounce attack" tooltipDescription="The weakness of the enemy through.\nAll fires to crit" />
+	<key id="10800041" level="4" name="Perl bounce attack" tooltipDescription="The weakness of the enemy through.\nAll fires to crit" />
+	<key id="10800041" level="5" name="Perl bounce attack" tooltipDescription="The weakness of the enemy through.\nAll fires to crit" />
+	<key id="10800051" level="1" name="Dark sites" tooltipDescription="Hide the appearance into the shadows.\nSpeed 20% y/y increase" />
+	<key id="10800051" level="2" name="Dark sites" tooltipDescription="Hide the appearance into the shadows.\nGo speed 22% y/y increase" />
+	<key id="10800051" level="3" name="Dark sites" tooltipDescription="Hide the appearance into the shadows.\nSpeed 24% y/y increase" />
+	<key id="10800051" level="4" name="Dark sites" tooltipDescription="Hide the appearance into the shadows.\nMoving speed increases 26%" />
+	<key id="10800051" level="5" name="Dark sites" tooltipDescription="Hide the appearance into the shadows.\nSpeed 30% y/y increase" />
+	<key id="10800053" level="1" name="Stunned" tooltipDescription="Assassin&#8217;s surprise party!\nActing stunned wonderment" />
+	<key id="10800062" level="1" name="Alter ego:Shadow Web" tooltipDescription="Whole body left entwined in the Web!\nGo to reduce speed by 20%\nJump power 30% reduction\nThe darkness of 5% damage each second" />
+	<key id="10800062" level="2" name="Alter ego:Shadow Web" tooltipDescription="Whole body left entwined in the Web!\nGo speed 22% reduced\nJump power 30% reduction\nThe darkness of 6% damage each second" />
+	<key id="10800062" level="3" name="Alter ego:Shadow Web" tooltipDescription="Whole body left entwined in the Web!\nSpeed 24% reduced\nJump force 35% reduction\nThe darkness of 7% damage each second" />
+	<key id="10800062" level="4" name="Alter ego:Shadow Web" tooltipDescription="Whole body left entwined in the Web!\nMovement speed to 26% reduction\nJump force 35% reduction\nThe darkness of 8% damage each second" />
+	<key id="10800062" level="5" name="Alter ego:Shadow Web" tooltipDescription="Whole body left entwined in the Web!\n30% reduction in movement speed\nJump power 40% reduction\nThe darkness of 10% damage each second" />
+	<key id="10800081" level="1" name="Alter ego:Shade split" tooltipDescription="Assassin&#8217;s inscribed built branded ..." />
+	<key id="10800092" level="1" name="Death mark" tooltipDescription="Inscribed markers of death!\nAll damage to the enemy 10% y/y increase" />
+	<key id="10800092" level="2" name="Death mark" tooltipDescription="Inscribed markers of death!\nAll damage to the enemy 10.5% y/y increase" />
+	<key id="10800092" level="3" name="Death mark" tooltipDescription="Inscribed markers of death!\nAll damage to the enemy increases 11%" />
+	<key id="10800092" level="4" name="Death mark" tooltipDescription="Inscribed markers of death!\nAll damage to the enemy 11.5% y/y increase" />
+	<key id="10800092" level="5" name="Death mark" tooltipDescription="Inscribed markers of death!\nAll damage to the enemy 12% y/y increase" />
+	<key id="10800092" level="6" name="Death mark" tooltipDescription="Inscribed markers of death!\nAll damage to the enemy 12.5% y/y increase" />
+	<key id="10800092" level="7" name="Death mark" tooltipDescription="Inscribed markers of death!\nAll damage to the enemy 13% y/y increase" />
+	<key id="10800092" level="8" name="Death mark" tooltipDescription="Inscribed markers of death!\nAll damage to the enemy 13.5% y/y increase" />
+	<key id="10800092" level="9" name="Death mark" tooltipDescription="Inscribed markers of death!\nAll damage to the enemy and 14% y/y increase" />
+	<key id="10800092" level="10" name="Death mark" tooltipDescription="Inscribed markers of death!\nAll damage to the enemy increases by 15%" />
+	<key id="10800121" level="1" name="Keane eyes" tooltipDescription="Ready to assassinate the enemy.\nAny damage to the enemy 8% y/y increase" />
+	<key id="10800121" level="2" name="Keane eyes" tooltipDescription="Ready to assassinate the enemy.\nAny damage to the enemy increases 9%" />
+	<key id="10800121" level="3" name="Keane eyes" tooltipDescription="Ready to assassinate the enemy.\nAny damage to the enemy 10% y/y increase" />
+	<key id="10800121" level="4" name="Keane eyes" tooltipDescription="Ready to assassinate the enemy.\nAny damage to the enemy increases 11%" />
+	<key id="10800121" level="5" name="Keane eyes" tooltipDescription="Ready to assassinate the enemy.\nAny damage to the enemy 13% y/y increase" />
+	<key id="10800131" level="1" name="Alter ego:The dark blog radar" tooltipDescription="Assassin&#8217;s inscribed built branded ...\nHit 30 reduction" />
+	<key id="10800131" level="2" name="Alter ego:The dark blog radar" tooltipDescription="Assassin&#8217;s inscribed built branded ...\nHit 31 decreased" />
+	<key id="10800131" level="3" name="Alter ego:The dark blog radar" tooltipDescription="Assassin&#8217;s inscribed built branded ...\nHit 32 reduction" />
+	<key id="10800131" level="4" name="Alter ego:The dark blog radar" tooltipDescription="Assassin&#8217;s inscribed built branded ...\nHit 33 reduction" />
+	<key id="10800131" level="5" name="Alter ego:The dark blog radar" tooltipDescription="Assassin&#8217;s inscribed built branded ...\nHit 34 reduction" />
+	<key id="10800131" level="6" name="Alter ego:The dark blog radar" tooltipDescription="Assassin&#8217;s inscribed built branded ...\nHit 35 reduced" />
+	<key id="10800131" level="7" name="Alter ego:The dark blog radar" tooltipDescription="Assassin&#8217;s inscribed built branded ...\nReduction of 36 hits" />
+	<key id="10800131" level="8" name="Alter ego:The dark blog radar" tooltipDescription="Assassin&#8217;s inscribed built branded ...\nHit 37 reduction" />
+	<key id="10800131" level="9" name="Alter ego:The dark blog radar" tooltipDescription="Assassin&#8217;s inscribed built branded ...\nHits 38 reduction" />
+	<key id="10800131" level="10" name="Alter ego:The dark blog radar" tooltipDescription="Assassin&#8217;s inscribed built branded ...\nHit 40 reduction" />
+	<key id="10900001" level="1" name="Plame drive" tooltipDescription="An aura of flames, the blade collar.\nFires in the form of some skill to flame properties\n3 percent increase in the property of flame skill damage" />
+	<key id="10900001" level="2" name="Plame drive" tooltipDescription="An aura of flames, the blade collar.\nFires in the form of some skill to flame properties\n4 percent increase in property-damage skills flames" />
+	<key id="10900001" level="3" name="Plame drive" tooltipDescription="An aura of flames, the blade collar.\nFires in the form of some skill to flame properties\nFlame properties skill damage 5% y/y increase" />
+	<key id="10900001" level="4" name="Plame drive" tooltipDescription="An aura of flames, the blade collar.\nFires in the form of some skill to flame properties\n6 percent increase in the property of flame skill damage" />
+	<key id="10900001" level="5" name="Plame drive" tooltipDescription="An aura of flames, the blade collar.\nFires in the form of some skill to flame properties\n8 percent increase in the property of flame skill damage" />
+	<key id="10900011" level="1" name="Ice drive" tooltipDescription="Chill aura of the blade collar.\nFires in the form of some skill to chill property\nChill 3% increase in property damage of skill" />
+	<key id="10900011" level="2" name="Ice drive" tooltipDescription="Chill aura of the blade collar.\nFires in the form of some skill to chill property\n4 percent increase in property damage of skill the chill" />
+	<key id="10900011" level="3" name="Ice drive" tooltipDescription="Chill aura of the blade collar.\nFires in the form of some skill to chill property\n5 percent increase in property damage of skill the chill" />
+	<key id="10900011" level="4" name="Ice drive" tooltipDescription="Chill aura of the blade collar.\nFires in the form of some skill to chill property\n6 percent increase in property damage of skill the chill" />
+	<key id="10900011" level="5" name="Ice drive" tooltipDescription="Chill aura of the blade collar.\nFires in the form of some skill to chill property\n8 percent increase in property damage of skill the chill" />
+	<key id="10900021" level="1" name="Thunder drive" tooltipDescription="Lightning blade aura of collar.\nFires in the form of some skill blitz property\n3 percent increase in property-damage lightning skill" />
+	<key id="10900021" level="2" name="Thunder drive" tooltipDescription="Lightning blade aura of collar.\nFires in the form of some skill blitz property\n4 percent increase in property-damage lightning skill" />
+	<key id="10900021" level="3" name="Thunder drive" tooltipDescription="Lightning blade aura of collar.\nFires in the form of some skill blitz property\nBlitz 5% increase in property damage of skill" />
+	<key id="10900021" level="4" name="Thunder drive" tooltipDescription="Lightning blade aura of collar.\nFires in the form of some skill blitz property\n6 percent increase in property-damage lightning skill" />
+	<key id="10900021" level="5" name="Thunder drive" tooltipDescription="Lightning blade aura of collar.\nFires in the form of some skill blitz property\n8 percent increase in property-damage lightning skill" />
+	<key id="10900042" level="1" name="The flame splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 40% fire damage" />
+	<key id="10900042" level="2" name="The flame splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 42% fire damage" />
+	<key id="10900042" level="3" name="The flame splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 44% fire damage" />
+	<key id="10900042" level="4" name="The flame splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 46% fire damage" />
+	<key id="10900042" level="5" name="The flame splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 48% fire damage" />
+	<key id="10900042" level="6" name="The flame splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 50% fire damage" />
+	<key id="10900042" level="7" name="The flame splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 52% fire damage" />
+	<key id="10900042" level="8" name="The flame splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 54% fire damage" />
+	<key id="10900042" level="9" name="The flame splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 56% fire damage" />
+	<key id="10900042" level="10" name="The flame splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 60% fire damage" />
+	<key id="10900043" level="1" name="Cold air splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900043" level="2" name="Cold air splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900043" level="3" name="Cold air splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900043" level="4" name="Cold air splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900043" level="5" name="Cold air splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900043" level="6" name="Cold air splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900043" level="7" name="Cold air splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900043" level="8" name="Cold air splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900043" level="9" name="Cold air splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900043" level="10" name="Cold air splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900091" level="1" name="Rune shield" tooltipDescription="Mabeopjin is protected from.\nReduces all damage to the enemy" />
+	<key id="10900091" level="2" name="Rune shield" tooltipDescription="Mabeopjin is protected from.\nReduces all damage to the enemy" />
+	<key id="10900091" level="3" name="Rune shield" tooltipDescription="Mabeopjin is protected from.\nReduces all damage to the enemy" />
+	<key id="10900091" level="4" name="Rune shield" tooltipDescription="Mabeopjin is protected from.\nReduces all damage to the enemy" />
+	<key id="10900091" level="5" name="Rune shield" tooltipDescription="Mabeopjin is protected from.\nReduces all damage to the enemy" />
+	<key id="10900092" level="1" name="Flame Rune shield" tooltipDescription="The flame is protected from the magic gene.\nAll damage to the enemy and 1% reduced\nTaking the flame to the enemy damage reduced by 15%\n1.5m An enemy within 30% fire damage" />
+	<key id="10900092" level="2" name="Flame Rune shield" tooltipDescription="The flame is protected from the magic gene.\nAll damage to the enemy 2% reduction\nTaking the flame to the enemy damage reduced by 15%\n1.5m 0.5-second intervals to the enemy within the flame damage" />
+	<key id="10900092" level="3" name="Flame Rune shield" tooltipDescription="The flame is protected from the magic gene.\nAll damage to the enemy and 3% reduction\nTaking the flame to the enemy damage reduced by 15%\n1.5m 0.5-second intervals to the enemy within the flame damage" />
+	<key id="10900092" level="4" name="Flame Rune shield" tooltipDescription="The flame is protected from the magic gene.\nAll damage to the enemy 4% reduction\nTaking the flame to the enemy damage reduced by 15%\n1.5m 0.5-second intervals to the enemy within the flame damage" />
+	<key id="10900092" level="5" name="Flame Rune shield" tooltipDescription="The flame is protected from the magic gene.\nAll damage to the enemy reduced by 5%\nTaking the flame to the enemy damage reduced by 15%\n1.5m 0.5-second intervals to the enemy within the flame damage" />
+	<key id="10900094" level="1" name="Frost Rune shield" tooltipDescription="Protected from cold air spell Jean.\nAll damage to the enemy and 1% reduced\nReceives frost damage to the enemy, 15% reduction\nTheir maximum HPAs much as 15% of the damage absorbed" />
+	<key id="10900094" level="2" name="Frost Rune shield" tooltipDescription="Protected from cold air spell Jean.\nAll damage to the enemy 2% reduction\nReceives frost damage to the enemy, 15% reduction\nTheir maximum HP16% damage absorbed" />
+	<key id="10900094" level="3" name="Frost Rune shield" tooltipDescription="Protected from cold air spell Jean.\nAll damage to the enemy and 3% reduction\nReceives frost damage to the enemy, 15% reduction\nTheir maximum HP17% damage absorbed" />
+	<key id="10900094" level="4" name="Frost Rune shield" tooltipDescription="Protected from cold air spell Jean.\nAll damage to the enemy 4% reduction\nReceives frost damage to the enemy, 15% reduction\nTheir maximum HP18% damage absorbed" />
+	<key id="10900094" level="5" name="Frost Rune shield" tooltipDescription="Protected from cold air spell Jean.\nAll damage to the enemy reduced by 5%\nReceives frost damage to the enemy, 15% reduction\nTheir maximum HPAbsorb as much as 20% of the damage" />
+	<key id="10900095" level="1" name="Lightning Rune shield" tooltipDescription="Blitz mabeopjin is protected from.\nAll damage to the enemy and 1% reduced\nLightning damage to the enemy receive a 15% reduction\nFront 6m Lightning damage to the enemy within" />
+	<key id="10900095" level="2" name="Lightning Rune shield" tooltipDescription="Blitz mabeopjin is protected from.\nAll damage to the enemy 2% reduction\nLightning damage to the enemy receive a 15% reduction\nFront 6m Lightning damage to the enemy within" />
+	<key id="10900095" level="3" name="Lightning Rune shield" tooltipDescription="Blitz mabeopjin is protected from.\nAll damage to the enemy and 3% reduction\nLightning damage to the enemy receive a 15% reduction\nFront 6m Lightning damage to the enemy within" />
+	<key id="10900095" level="4" name="Lightning Rune shield" tooltipDescription="Blitz mabeopjin is protected from.\nAll damage to the enemy 4% reduction\nLightning damage to the enemy receive a 15% reduction\nFront 6m Lightning damage to the enemy within" />
+	<key id="10900095" level="5" name="Lightning Rune shield" tooltipDescription="Blitz mabeopjin is protected from.\nAll damage to the enemy reduced by 5%\nLightning damage to the enemy receive a 15% reduction\nFront 6m Lightning damage to the enemy within" />
+	<key id="10900131" level="1" name="Luna installation" tooltipDescription="The power of the runes to unprecedented extremes!\nFlame, Frost, lightning property damage 20% y/y increase" />
+	<key id="10900131" level="2" name="Luna installation" tooltipDescription="The power of the runes to unprecedented extremes!\nFlame, Frost, lightning property damage and 22% y/y increase" />
+	<key id="10900131" level="3" name="Luna installation" tooltipDescription="The power of the runes to unprecedented extremes!\nFlame, Frost, lightning property damage and 24% y/y increase" />
+	<key id="10900131" level="4" name="Luna installation" tooltipDescription="The power of the runes to unprecedented extremes!\nFlame, Frost, lightning property damage and 26% y/y increase" />
+	<key id="10900131" level="5" name="Luna installation" tooltipDescription="The power of the runes to unprecedented extremes!\nFlame, Frost, lightning property damage 30% y/y increase" />
+	<key id="10900155" level="1" name="Chill infinite cut" tooltipDescription="Cold body was stiff!\n30% reduction in movement speed\nJump power 30% reduction" />
+	<key id="10900155" level="2" name="Chill infinite cut" tooltipDescription="Cold body was stiff!\n30% reduction in movement speed\nJump power 30% reduction" />
+	<key id="10900155" level="3" name="Chill infinite cut" tooltipDescription="Cold body was stiff!\n30% reduction in movement speed\nJump power 30% reduction" />
+	<key id="10900155" level="4" name="Chill infinite cut" tooltipDescription="Cold body was stiff!\n30% reduction in movement speed\nJump power 30% reduction" />
+	<key id="10900155" level="5" name="Chill infinite cut" tooltipDescription="Cold body was stiff!\n30% reduction in movement speed\nJump power 30% reduction" />
+	<key id="10900155" level="6" name="Chill infinite cut" tooltipDescription="Cold body was stiff!\n30% reduction in movement speed\nJump power 30% reduction" />
+	<key id="10900155" level="7" name="Chill infinite cut" tooltipDescription="Cold body was stiff!\n30% reduction in movement speed\nJump power 30% reduction" />
+	<key id="10900155" level="8" name="Chill infinite cut" tooltipDescription="Cold body was stiff!\n30% reduction in movement speed\nJump power 30% reduction" />
+	<key id="10900155" level="9" name="Chill infinite cut" tooltipDescription="Cold body was stiff!\n30% reduction in movement speed\nJump power 30% reduction" />
+	<key id="10900155" level="10" name="Chill infinite cut" tooltipDescription="Cold body was stiff!\n30% reduction in movement speed\nJump power 30% reduction" />
+	<key id="10900157" level="1" name="Blitz infinite cut" tooltipDescription="Due to the strong current impact blindsided!\nActing stunned wonderment" />
+	<key id="10900162" level="1" name="Flame triple splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 55% fire damage" />
+	<key id="10900162" level="2" name="Flame triple splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 57% fire damage" />
+	<key id="10900162" level="3" name="Flame triple splitter" tooltipDescription="Sometimes this whole body of intense flame!\n59% every second of flame damage" />
+	<key id="10900162" level="4" name="Flame triple splitter" tooltipDescription="Sometimes this whole body of intense flame!\n61% of every second flame damage" />
+	<key id="10900162" level="5" name="Flame triple splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 63% fire damage" />
+	<key id="10900162" level="6" name="Flame triple splitter" tooltipDescription="Sometimes this whole body of intense flame!\n65% of every second flame damage" />
+	<key id="10900162" level="7" name="Flame triple splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 67% fire damage" />
+	<key id="10900162" level="8" name="Flame triple splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 69% fire damage" />
+	<key id="10900162" level="9" name="Flame triple splitter" tooltipDescription="Sometimes this whole body of intense flame!\nEvery second 71% fire damage" />
+	<key id="10900162" level="10" name="Flame triple splitter" tooltipDescription="Sometimes this whole body of intense flame!\n75% of every second flame damage" />
+	<key id="10900163" level="1" name="Chill triple splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900163" level="2" name="Chill triple splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900163" level="3" name="Chill triple splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900163" level="4" name="Chill triple splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900163" level="5" name="Chill triple splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900163" level="6" name="Chill triple splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900163" level="7" name="Chill triple splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900163" level="8" name="Chill triple splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900163" level="9" name="Chill triple splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900163" level="10" name="Chill triple splitter" tooltipDescription="Cold body was stiff!\n15% movement speed reduction\nJump power 15% reduction" />
+	<key id="10900171" level="1" name="Rune square" tooltipDescription="Received an aura of mystical runes.\n10% bonus crit damage" />
+	<key id="10900171" level="2" name="Rune square" tooltipDescription="Received an aura of mystical runes.\nCritical damage at 11% y/y increase" />
+	<key id="10900171" level="3" name="Rune square" tooltipDescription="Received an aura of mystical runes.\nCritical damage 12% y/y increase" />
+	<key id="10900171" level="4" name="Rune square" tooltipDescription="Received an aura of mystical runes.\nCritical damage increase 13%" />
+	<key id="10900171" level="5" name="Rune square" tooltipDescription="Received an aura of mystical runes.\nCritical damage 15% y/y increase" />
+	<key id="10900181" level="1" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n10% bonus to all damage" />
+	<key id="10900181" level="2" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n10.5% increase all damage" />
+	<key id="10900181" level="3" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll the 11% increase in damage" />
+	<key id="10900181" level="4" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n11.5% of all damage" />
+	<key id="10900181" level="5" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll damage 12% y/y increase" />
+	<key id="10900181" level="6" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n12.5% of all damage" />
+	<key id="10900181" level="7" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll damage and 13% y/y increase" />
+	<key id="10900181" level="8" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n13.5% of all damage" />
+	<key id="10900181" level="9" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll damage and 14% y/y increase" />
+	<key id="10900181" level="10" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll damage 15% y/y increase" />
+	<key id="10900182" level="1" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n10% bonus to all damage" />
+	<key id="10900182" level="2" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n10.5% increase all damage" />
+	<key id="10900182" level="3" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll the 11% increase in damage" />
+	<key id="10900182" level="4" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n11.5% of all damage" />
+	<key id="10900182" level="5" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll damage 12% y/y increase" />
+	<key id="10900182" level="6" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n12.5% of all damage" />
+	<key id="10900182" level="7" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll damage and 13% y/y increase" />
+	<key id="10900182" level="8" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n13.5% of all damage" />
+	<key id="10900182" level="9" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll damage and 14% y/y increase" />
+	<key id="10900182" level="10" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll damage 15% y/y increase" />
+	<key id="10900183" level="1" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n10% bonus to all damage" />
+	<key id="10900183" level="2" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n10.5% increase all damage" />
+	<key id="10900183" level="3" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll the 11% increase in damage" />
+	<key id="10900183" level="4" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n11.5% of all damage" />
+	<key id="10900183" level="5" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll damage 12% y/y increase" />
+	<key id="10900183" level="6" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n12.5% of all damage" />
+	<key id="10900183" level="7" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll damage and 13% y/y increase" />
+	<key id="10900183" level="8" name="New, soul" tooltipDescription="Calm mind concentration has improved.\n13.5% of all damage" />
+	<key id="10900183" level="9" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll damage and 14% y/y increase" />
+	<key id="10900183" level="10" name="New, soul" tooltipDescription="Calm mind concentration has improved.\nAll damage 15% y/y increase" />
+	<key id="40005011" level="1" name="Poison powder" tooltipDescription="I have been addicted to abnormal breathing poison flour!\nConstantly poison damage" />
+	<key id="40006011" level="1" name="Confused flour" tooltipDescription="Strange powder breathing the spirit of stupor!\nActing stunned wonderment" />
+	<key id="40007011" level="1" name="Paralysis poison powder" tooltipDescription="Strange powder forces on the bridge will be breathing!\nSpeed 40% reduction\nConstantly poison damage" />
+	<key id="40010001" level="1" name="Prick the vine" tooltipDescription="It was tied on the vine!\n30% reduction in movement speed" />
+	<key id="40046011" level="1" name="Poisonous attack" tooltipDescription="Addicted to refresh the body and poisonous drops ...\nSpeed 40% reduction\nConstantly poison damage" />
+	<key id="40106011" level="1" name="The penetrating laser" tooltipDescription="The laser does not move the body as the heart attack!\n30% reduction in movement speed" />
+	<key id="40196002" level="1" name="Every com smoke bombs" tooltipDescription="Does this look good before because of the spicy smoke!\n30% reduction in the hit rate" />
+	<key id="40230011" level="1" name="Ice saliva" tooltipDescription="It was determined the saliva right into ice body!\nSpeed 40% reduction" />
+	<key id="40231011" level="1" name="Scorpions poisonous" tooltipDescription="I have been addicted to the Scorpion&#8217;s poison!\nConstantly poison damage" />
+	<key id="40234001" level="1" name="Cool bottled up this" tooltipDescription="Icy paws was determined to attack your body!\nSpeed 40% reduction" />
+	<key id="40319001" level="1" name="Chunks of fire attack" tooltipDescription="Sometimes this whole body of flame!\nConstantly flame damage" />
+	<key id="40339011" level="1" name="Silence" tooltipDescription="Skill not available" />
+	<key id="49018001" level="1" name="Cursed winds" tooltipDescription="Due to the power of the curse can&#8217;t write properly ...\nPhysical damage, spell damage 30% reduced\nDef 30% reduced\n50% reduction in movement speed" />
+	<key id="49021011" level="1" name="The death of bondage" tooltipDescription="Inability to act are in bondage" />
+	<key id="49022011" level="1" name="Shock" tooltipDescription="Acting stunned wonderment" />
+	<key id="49025011" level="1" name="Curse of the were-rabbit" tooltipDescription="The rabbit is the magic body shy small!\n50% reduction in body size\n99% reduction in physical damage, spell damage\nDefense power 40% reduction" />
+	<key id="49042001" level="1" name="Underbelly attack" tooltipDescription="50% reduction in movement speed" />
+	<key id="49093001" level="1" name="Bottled up the ice this" tooltipDescription="3If you get stuck in the ice of nesting times.\nHot trends seems to be nested in." />
+	<key id="49093002" level="1" name="Ice lodge" tooltipDescription="Trapped in the ice bodies." />
+	<key id="49095001" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="49104001" level="1" name="Trickle attack" tooltipDescription="If the same color twice overlapping water droplets on the stern." />
+	<key id="49104002" level="1" name="Trickle attack" tooltipDescription="If the same color twice overlapping water droplets on the stern." />
+	<key id="49104003" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="49104004" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="49107011" level="1" name="Silence" tooltipDescription="Use your skill to silence.\nIt is possible to use normal attacks." />
+	<key id="49111002" level="1" name="Large lot" tooltipDescription="Petite, with larger number of projectiles will be easily exposed." />
+	<key id="49113001" level="1" name="The amount of reduction recovery" tooltipDescription="The amount of reduction in the health recovery items and skills." />
+	<key id="49113011" level="1" name="The body&#8217;s healing" tooltipDescription="Have their own resilience." />
+	<key id="49116001" level="1" name="Harvey poison ingestion" tooltipDescription="The monster is a non-poisonous roots and dies." />
+	<key id="49116002" level="1" name="Non-exclusive to addiction" tooltipDescription="Physical damage, spell damage is doubled.\nWhen using a regular attack or skill HPReduced." />
+	<key id="49125001" level="1" name="Slime blast" tooltipDescription="When the explosion occurs in the body slime." />
+	<key id="49148021" level="1" name="And the fear of God for" tooltipDescription="Speed reduction for a period of time and EPIs not zero." />
+	<key id="49149021" level="1" name="Slow" tooltipDescription="Speed reduction for a period of time" />
+	<key id="50000001" level="1" name="Addiction" tooltipDescription="Constantly poison damage" />
+	<key id="50000002" level="1" name="Addiction" tooltipDescription="Constantly poison damage" />
+	<key id="50000003" level="1" name="Addiction" tooltipDescription="Constantly poison damage" />
+	<key id="50000005" level="1" name="Addiction" tooltipDescription="Constantly poison damage" />
+	<key id="50000006" level="1" name="Addiction" tooltipDescription="Constantly poison damage\nUp to a maximum of three times the nesting" />
+	<key id="50000007" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000008" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000009" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000010" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000010" level="2" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000011" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000012" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000013" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000014" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000015" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000016" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000017" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000017" level="2" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000019" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000020" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000030" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000046" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000052" level="1" name="Go slow" tooltipDescription="Movement speed reduction" />
+	<key id="50000060" level="1" name="Griffon&#8217;s curse" tooltipDescription="Griffon was struck by the curse of!\nPhysical damage, spell damage reduced by 25%\n45% reduction in movement speed" />
+	<key id="50000060" level="2" name="Griffey, I curse" tooltipDescription="Griffey took my curse!\nPhysical damage, spell damage reduced by 25%\n45% reduction in movement speed" />
+	<key id="50000060" level="3" name="The curse of Horus" tooltipDescription="Struck by the curse of Horus!\nPhysical damage, spell damage reduced by 25%\n45% reduction in movement speed" />
+	<key id="50000080" level="1" name="Burns" tooltipDescription="Constantly flame damage" />
+	<key id="50000081" level="1" name="Burns" tooltipDescription="Constantly flame damage" />
+	<key id="50000082" level="1" name="Shadow flame burns" tooltipDescription="Constantly flame damage\nSP 50% reduction in the maximum" />
+	<key id="50000083" level="1" name="Burns" tooltipDescription="Constantly flame damage\nUp to 10 times the nesting\nNested: damage rising" />
+	<key id="50000100" level="1" name="Bleeding" tooltipDescription="Ongoing physical damage" />
+	<key id="50000101" level="1" name="Bleeding" tooltipDescription="Ongoing physical damage" />
+	<key id="50000107" level="1" name="Stern" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000120" level="1" name="Defense decline" tooltipDescription="Defense power 35% reduction" />
+	<key id="50000121" level="1" name="BAYAR ordered the attack of" tooltipDescription="STR, DEX, INT, LUK 50% Increases the\nDefense power and 50% reduced" />
+	<key id="50000121" level="2" name="BAYAR ordered the attack of" tooltipDescription="STR, DEX, INT, LUK 50% Increases the\nDefense power and 50% reduced" />
+	<key id="50000122" level="1" name="BAYAR&#8217;s defense command" tooltipDescription="STR, DEX, INT, LUK 50% Reduction\nDefense power 80% y/y increase" />
+	<key id="50000122" level="2" name="BAYAR&#8217;s defense command" tooltipDescription="STR, DEX, INT, LUK 50% Reduction\nDefense power 80% y/y increase" />
+	<key id="50000123" level="1" name="Armor defrosting" tooltipDescription="Defense Power 15% reduction\nUp to 5 times the nesting" />
+	<key id="50000124" level="1" name="Defense decline" tooltipDescription="Defense power and 50% reduced" />
+	<key id="50000125" level="1" name="Defense decline" tooltipDescription="Def 17% reduction\nUp to a maximum of three times the nesting" />
+	<key id="50000126" level="1" name="Armor defrosting" tooltipDescription="Def a 20% reduction in\nUp to 5 times the nesting" />
+	<key id="50000127" level="1" name="Defense decline" tooltipDescription="Defense Power 15% reduction\nUp to 5 times the nesting" />
+	<key id="50000140" level="1" name="Damage reduction" tooltipDescription="99% reduction in the damage" />
+	<key id="50000141" level="1" name="Damage reduction" tooltipDescription="Damage reduced by 50%" />
+	<key id="50000142" level="1" name="Damage reduction" tooltipDescription="Attack power 80% reduction" />
+	<key id="50000158" level="1" name="Go slow" tooltipDescription="30% reduction in movement speed" />
+	<key id="50000170" level="1" name="The water prison" tooltipDescription="Water trapped in the immobilizing prison" />
+	<key id="50000171" level="1" name="The water prison" tooltipDescription="Water trapped in the immobilizing prison" />
+	<key id="50000190" level="1" name="Horror" tooltipDescription="STR, DEX, INT, LUK 50% Reduction\nSpeed 40% reduction" />
+	<key id="50000191" level="1" name="Morale degradation" tooltipDescription="STR, DEX, INT, LUK 50% Reduction\nSpeed 40% reduction" />
+	<key id="50000192" level="1" name="Damn curse" tooltipDescription="Constantly poison damage \nSpeed 40% reduction\nHit rate 60%" />
+	<key id="50000193" level="1" name="Horror" tooltipDescription="STR, DEX, INT, LUK 50% Reduction\nSpeed 40% reduction" />
+	<key id="50000208" level="1" name="Go slow" tooltipDescription="45% reduction in movement speed" />
+	<key id="50000209" level="1" name="Go slow" tooltipDescription="Speed 40% reduction" />
+	<key id="50000210" level="1" name="Go slow" tooltipDescription="Speed 40% reduction" />
+	<key id="50000211" level="1" name="Go slow" tooltipDescription="47% reduction in movement speed" />
+	<key id="50000212" level="1" name="Go slow" tooltipDescription="45% reduction in movement speed" />
+	<key id="50000213" level="1" name="Go slow" tooltipDescription="70% reduction in movement speed" />
+	<key id="50000214" level="1" name="Go slow" tooltipDescription="Movement speed reduction\nUp to 10 times the nesting\nNesting increases the fall‑off" />
+	<key id="50000220" level="1" name="Foot binding" tooltipDescription="Inability to move\nAdditional damage on an ongoing basis" />
+	<key id="50000221" level="1" name="Foot binding" tooltipDescription="Inability to move\nAdditional damage on an ongoing basis" />
+	<key id="50000222" level="1" name="Go slow" tooltipDescription="50% reduction in movement speed" />
+	<key id="50000235" level="1" name="Complete defense" tooltipDescription="Invincibility status" />
+	<key id="50000236" level="1" name="Complete defense" tooltipDescription="Invincibility status" />
+	<key id="50000237" level="1" name="Complete defense" tooltipDescription="Invincibility status" />
+	<key id="50000238" level="1" name="Complete defense" tooltipDescription="Invincibility status" />
+	<key id="50000238" level="2" name="Complete defense" tooltipDescription="Invincibility status" />
+	<key id="50000239" level="1" name="Complete defense" tooltipDescription="Invincibility status" />
+	<key id="50000240" level="1" name="Complete defense" tooltipDescription="Invincibility status" />
+	<key id="50000241" level="1" name="Complete defense" tooltipDescription="Invincibility status" />
+	<key id="50000243" level="1" name="Complete defense" tooltipDescription="Invincibility status" />
+	<key id="50000244" level="1" name="Complete defense" tooltipDescription="Invincibility status" />
+	<key id="50000247" level="1" name="Complete defense" tooltipDescription="Invincibility status" />
+	<key id="50000248" level="1" name="Complete defense" tooltipDescription="Invincibility status" />
+	<key id="50000249" level="1" name="Complete defense" tooltipDescription="Invincibility status" />
+	<key id="50000300" level="1" name="Attack power rise" tooltipDescription="Physical damage, spell damage increased by 50%" />
+	<key id="50000303" level="1" name="Attack power rise" tooltipDescription="Physical damage, spell damage 35% y/y increase" />
+	<key id="50000303" level="2" name="Attack power rise" tooltipDescription="Physical damage, spell damage 35% y/y increase" />
+	<key id="50000304" level="1" name="Attack power rise" tooltipDescription="Physical damage, spell damage increased by 50%" />
+	<key id="50000305" level="1" name="Physical defense rising" tooltipDescription="Taking physical damage to the enemy and 80% reduction" />
+	<key id="50000305" level="2" name="Physical defense rising" tooltipDescription="Taking physical damage to the enemy and 80% reduction" />
+	<key id="50000306" level="1" name="Magic defense rising" tooltipDescription="Taking magic damage to the enemy and 80% reduction" />
+	<key id="50000306" level="2" name="Magic defense rising" tooltipDescription="Taking magic damage to the enemy and 80% reduction" />
+	<key id="50000307" level="1" name="Attack power rise" tooltipDescription="Physical damage, spell damage has been increased by 15%" />
+	<key id="50000307" level="2" name="Attack power rise" tooltipDescription="Physical damage, spell damage increased by 50%" />
+	<key id="50000308" level="1" name="Attack power rise" tooltipDescription="Physical damage, spell damage 40% y/y increase" />
+	<key id="50000309" level="1" name="Attack power rise" tooltipDescription="Any damage to the enemy increases by 30%" />
+	<key id="50000310" level="1" name="Attack power rise" tooltipDescription="Physical damage, spell damage increased by 50%" />
+	<key id="50000311" level="1" name="Attack power rise" tooltipDescription="Physical damage, spell damage increased by 50%" />
+	<key id="50000312" level="1" name="Shadow armor" tooltipDescription="All damage to the enemy 80% reduction" />
+	<key id="50000313" level="1" name="Shadow armor" tooltipDescription="All damage to the enemy 80% reduction" />
+	<key id="50000314" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy a 20% reduction in\nUp to a maximum of three times the nesting" />
+	<key id="50000314" level="2" name="Defense power is rising" tooltipDescription="All damage to the enemy a 20% reduction in\nUp to a maximum of three times the nesting" />
+	<key id="50000315" level="1" name="Attack power rise" tooltipDescription="Physical damage, spell damage 30% y/y increase\nUp to a maximum of three times the nesting" />
+	<key id="50000316" level="1" name="Physical defense rising" tooltipDescription="Taking physical damage to the enemy 99% reduction" />
+	<key id="50000317" level="1" name="Magic defense rising" tooltipDescription="99% of incoming magic damage to the enemy reduced" />
+	<key id="50000318" level="1" name="Attack power rise" tooltipDescription="Physical damage, spell damage 75% y/y increase" />
+	<key id="50000319" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 80% reduction" />
+	<key id="50000320" level="1" name="Attack power rise" tooltipDescription="Physical damage, spell damage increased by 50%" />
+	<key id="50000320" level="2" name="Attack power rise" tooltipDescription="Physical damage, spell damage increased by 50%" />
+	<key id="50000321" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 80% reduction" />
+	<key id="50000321" level="2" name="Defense power is rising" tooltipDescription="All damage to the enemy 80% reduction" />
+	<key id="50000321" level="3" name="Defense power is rising" tooltipDescription="All damage to the enemy 80% reduction" />
+	<key id="50000321" level="4" name="Defense power is rising" tooltipDescription="All damage to the enemy 80% reduction" />
+	<key id="50000322" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 80% reduction" />
+	<key id="50000324" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 80% reduction" />
+	<key id="50000326" level="1" name="Attack power rise" tooltipDescription="Attack 95% y/y increase" />
+	<key id="50000326" level="2" name="Attack power rise" tooltipDescription="Attack 95% y/y increase" />
+	<key id="50000327" level="1" name="Attack power rise" tooltipDescription="Damage increased by 50%" />
+	<key id="50000327" level="2" name="Attack power rise" tooltipDescription="Damage increased by 50%" />
+	<key id="50000328" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 80% reduction" />
+	<key id="50000329" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 80% reduction" />
+	<key id="50000330" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 80% reduction" />
+	<key id="50000350" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery" />
+	<key id="50000351" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery" />
+	<key id="50000352" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery" />
+	<key id="50000353" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery" />
+	<key id="50000354" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery" />
+	<key id="50000355" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery" />
+	<key id="50000356" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery" />
+	<key id="50000402" level="1" name="Movement speed reduction" tooltipDescription="30% reduction in movement speed" />
+	<key id="50000403" level="1" name="Damage reduction" tooltipDescription="Physical damage, spell damage 60% reduction" />
+	<key id="50000404" level="1" name="Fatal wounds" tooltipDescription="Ongoing physical damage" />
+	<key id="50000405" level="1" name="Defense power reduction" tooltipDescription="Defense power 40% reduction" />
+	<key id="50000406" level="1" name="Gold Cup cast" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000408" level="1" name="Wastewater overflows" tooltipDescription="Ongoing physical damage" />
+	<key id="50000409" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000410" level="1" name="The weakened" tooltipDescription="Physical damage, spell damage 60% reduction\n30% reduction in movement speed" />
+	<key id="50000411" level="1" name="Vomit" tooltipDescription="Zombie vomit attack speed reduction\nAdding to the General of the zombies attack damage" />
+	<key id="50000412" level="1" name="Movement speed reduction" tooltipDescription="30% reduction in movement speed" />
+	<key id="50000413" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="50000417" level="1" name="Infection" tooltipDescription="Ongoing physical damage" />
+	<key id="50000422" level="1" name="Poison" tooltipDescription="Constantly poison damage" />
+	<key id="50000424" level="1" name="Poison" tooltipDescription="Poison damage each second\nSpeed 40% reduction" />
+	<key id="50000425" level="1" name="Poison" tooltipDescription="Poison damage each second\nPhysical damage, spell damage 40% reduction" />
+	<key id="50000429" level="1" name="Cube imprison" tooltipDescription="Inability to move" />
+	<key id="50000431" level="1" name="Sand attack" tooltipDescription="Hit a 20% reduction in" />
+	<key id="50000434" level="1" name="Damage reduction" tooltipDescription="Physical damage, spell damage 60% reduction" />
+	<key id="50000438" level="1" name="Poison cloud" tooltipDescription="Constantly dark damage" />
+	<key id="50000440" level="1" name="Small prints" tooltipDescription="50% reduction in body size\n99% reduction in physical damage, spell damage\nDefense power 40% reduction" />
+	<key id="50000442" level="1" name="Spore Toxin" tooltipDescription="Poison damage each second\n30% reduction in movement speed" />
+	<key id="50000444" level="1" name="Slow" tooltipDescription="Speed 40% reduction" />
+	<key id="50000447" level="1" name="Poison" tooltipDescription="Poison damage each second\n50% reduction in movement speed" />
+	<key id="50000500" level="1" name="Soul absorption" tooltipDescription="SP Consumption 50% y/y increase" />
+	<key id="50000504" level="1" name="SP Sealed" tooltipDescription="SP Disabled" />
+	<key id="50000505" level="1" name="SP Sealed" tooltipDescription="SP Disabled" />
+	<key id="50000506" level="1" name="SP Sealed" tooltipDescription="SP Disabled" />
+	<key id="50000507" level="1" name="SP Sealed" tooltipDescription="SP Disabled" />
+	<key id="50000508" level="1" name="SP Sealed" tooltipDescription="SP Disabled" />
+	<key id="50000509" level="1" name="SP Sealed" tooltipDescription="SP Disabled" />
+	<key id="50000511" level="1" name="SP Recovery climb" tooltipDescription="Natural recovery SP The figures increase" />
+	<key id="50000511" level="2" name="SP Recovery climb" tooltipDescription="Natural recovery SP The figures increase" />
+	<key id="50000520" level="1" name="SP Sealed" tooltipDescription="SP Disabled" />
+	<key id="50000900" level="1" name="Wrath of the evil spirit" tooltipDescription="Wrath of the evil spirits to attack State grants" />
+	<key id="50000900" level="2" name="Chaos possessed" tooltipDescription="Possessed of chaos to attack State grants" />
+	<key id="50000900" level="3" name="Possessed of a cold-blooded" tooltipDescription="Blooded evil spirits to attack State grants" />
+	<key id="50000901" level="1" name="Bar Po mat in the shadow of the miasma" tooltipDescription="Decrease in power for a period of time\nPoison damage each second" />
+	<key id="50000902" level="1" name="Bar Po mat wrath of evil" tooltipDescription="Every second darkness damage\nUp to a maximum of three times the nesting" />
+	<key id="50000903" level="1" name="Bar Po mat chaos possessed of" tooltipDescription="Every second darkness damage\nUp to a maximum of three times the nesting" />
+	<key id="50000904" level="1" name="Bar Po mat blooded possessed of" tooltipDescription="Every second darkness damage\nMovement speed reduced by 13%\nUp to a maximum of three times the nesting" />
+	<key id="50000905" level="1" name="Electric shock mode" tooltipDescription="Given the status of the victim in shock" />
+	<key id="50000905" level="2" name="Electric shock mode" tooltipDescription="Given the status of the victim in shock" />
+	<key id="50000905" level="3" name="Electric shock mode" tooltipDescription="Given the status of the victim in shock" />
+	<key id="50000906" level="1" name="Shock States" tooltipDescription="Electricity flows in your body have been electrocuted!\nLaser attacks on defense power reduction\nA maximum of two nested" />
+	<key id="50000907" level="1" name="Les Renault&#8217;s curse" tooltipDescription="Constantly poison damage\nDo wear: stunned at the attack of the\nPoison damage to the surrounding fellow" />
+	<key id="50000908" level="1" name="Pekka North&#8217;s curse" tooltipDescription="Constantly cursing the damage\nGhanoush stunned at the attack of the" />
+	<key id="50000909" level="1" name="Do wear: the curse of the" tooltipDescription="Constantly cursing the damage\nLes Renault&#8217;s attack SPReduced to 0\nClose associates SP Reduction" />
+	<key id="50000930" level="1" name="Shadow miasma" tooltipDescription="Constantly poison damage" />
+	<key id="50000931" level="1" name="The curse of the black shadow" tooltipDescription="Constantly poison damage" />
+	<key id="50000951" level="1" name="Fire protection" tooltipDescription="The explosion caused a fire in the body on an ongoing basis\nA colleague of ice therapy\nIf you hold the boss attack possible" />
+	<key id="50000951" level="2" name="Fire protection" tooltipDescription="The explosion caused a fire in the body on an ongoing basis\nA colleague of ice therapy\nIf you hold the boss attack possible" />
+	<key id="50000951" level="3" name="Fire protection" tooltipDescription="The explosion caused a fire in the body on an ongoing basis\nA colleague of ice therapy\nIf you hold the boss attack possible" />
+	<key id="50001005" level="1" name="Physical attack mode" tooltipDescription="A powerful physical attacks taking advantage of the hand around the battle progress\nFor a period of time to the target SP 0 Given the State of the" />
+	<key id="50001005" level="2" name="Physical attack mode" tooltipDescription="A powerful physical attacks taking advantage of the hand around the battle progress\nFor a period of time to the target SP 0 Given the State of the" />
+	<key id="50001006" level="1" name="Laser attack mode" tooltipDescription="Powerful laser battle around the attack underway\nThe attack stunned the State for a period of time to be granted" />
+	<key id="50001006" level="2" name="Laser attack mode" tooltipDescription="Powerful laser battle around the attack underway\nThe attack stunned the State for a period of time to be granted" />
+	<key id="50001007" level="1" name="Speed climbing" tooltipDescription="Attack: speed climbing\nUp to 4 times the nesting" />
+	<key id="50001401" level="1" name="Nausea" tooltipDescription="After a while vomit damage zone creation" />
+	<key id="50001401" level="2" name="Nausea" tooltipDescription="After a while vomit damage zone creation" />
+	<key id="50001402" level="1" name="Poisonous blast" tooltipDescription="The explosion caused poisonous body periodically." />
+	<key id="50001403" level="1" name="Flame blast" tooltipDescription="The explosion caused flame periodically." />
+	<key id="50001404" level="1" name="Chill blast" tooltipDescription="16The explosion that occurred seconds after the chill" />
+	<key id="50001405" level="1" name="Ice cube" tooltipDescription="Trapped in the ice cube action not possible\nShot: pronounced risk" />
+	<key id="50001405" level="2" name="Ice cube" tooltipDescription="Trapped in the ice cube action not possible\nShot: pronounced risk" />
+	<key id="50001406" level="1" name="Ice cube" tooltipDescription="Trapped in the ice cube action not possible\nShot: pronounced risk" />
+	<key id="50001406" level="2" name="Ice cube" tooltipDescription="Trapped in the ice cube action not possible\nShot: pronounced risk" />
+	<key id="50001406" level="3" name="Ice cube" tooltipDescription="Trapped in the ice cube action not possible\nShot: pronounced risk" />
+	<key id="50001407" level="1" name="Flame blast" tooltipDescription="3After a few seconds, the flame caused the detonation" />
+	<key id="50001408" level="1" name="An epidemic explosion." tooltipDescription="5The explosion that caused the plague every\nThe damage to yourself and your teammates around the flame\nThe epidemic spread to the affected in the explosion spiked" />
+	<key id="50001409" level="1" name="An epidemic explosion." tooltipDescription="5The explosion that caused the plague every\nThe damage to yourself and your teammates around the flame\nThe epidemic spread to the affected in the explosion spiked" />
+	<key id="50001410" level="1" name="An epidemic explosion." tooltipDescription="5The explosion that caused the plague every\nThe damage to yourself and your teammates around the flame\nThe epidemic spread to the affected in the explosion spiked" />
+	<key id="50001450" level="1" name="Death sentence" tooltipDescription="6Seconds later pronounced" />
+	<key id="50001501" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy and 50% reduced" />
+	<key id="50001502" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 65% reduction" />
+	<key id="50001503" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 85% reduction in" />
+	<key id="50001504" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 99% reduction" />
+	<key id="50001505" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 85% reduction in" />
+	<key id="50001506" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 99% reduction" />
+	<key id="50001550" level="1" name="Small prints" tooltipDescription="50% reduction in body size\nPhysical attack, magical attack 80% reduction\nDefense power and 50% reduced" />
+	<key id="50001650" level="1" name="Hit reduction" tooltipDescription="75% reduction in hit" />
+	<key id="50002000" level="1" name="HP Reduction" tooltipDescription="Max HP10% reduction in the amount of\nUp to 5 times the nesting" />
+	<key id="50003000" level="1" name="Physical shield" tooltipDescription="Wave one of Tuscany&#8217;s fist in Pula attacks for more than resistant status" />
+	<key id="50003000" level="2" name="Physical shield" tooltipDescription="Wave one of Tuscany&#8217;s fist in Pula attacks for more than resistant status" />
+	<key id="50003000" level="3" name="Physical shield" tooltipDescription="Wave one of Tuscany&#8217;s fist in Pula attacks for more than resistant status" />
+	<key id="50003000" level="4" name="Physical shield" tooltipDescription="Wave one of Tuscany&#8217;s fist in Pula attacks for more than resistant status" />
+	<key id="50003001" level="1" name="Laser shield" tooltipDescription="Wave one of Tuscany&#8217;s laser attacks in Pula in the State for more than resistant" />
+	<key id="50003001" level="2" name="Laser shield" tooltipDescription="Wave one of Tuscany&#8217;s laser attacks in Pula in the State for more than resistant" />
+	<key id="50003001" level="3" name="Laser shield" tooltipDescription="Wave one of Tuscany&#8217;s laser attacks in Pula in the State for more than resistant" />
+	<key id="50003001" level="4" name="Laser shield" tooltipDescription="Wave one of Tuscany&#8217;s laser attacks in Pula in the State for more than resistant" />
+	<key id="50003006" level="1" name="Frost protection" tooltipDescription="Frost magic protected\nDo not take to burn" />
+	<key id="50003007" level="1" name="Physical shield" tooltipDescription="Wave one of Tuscany&#8217;s fist in Pula attacks for more than resistant status\nDefense power 95%" />
+	<key id="50003007" level="2" name="Physical shield" tooltipDescription="Wave one of Tuscany&#8217;s fist in Pula attacks for more than resistant status\nDefense power 95%" />
+	<key id="50003007" level="3" name="Physical shield" tooltipDescription="Wave one of Tuscany&#8217;s fist in Pula attacks for more than resistant status\nDefense power 95%" />
+	<key id="50003007" level="4" name="Physical shield" tooltipDescription="Wave one of Tuscany&#8217;s fist in Pula attacks for more than resistant status\nDefense power 95%" />
+	<key id="50003008" level="1" name="Laser shield" tooltipDescription="Wave one of Tuscany&#8217;s laser attacks in Pula in the State for more than resistant\nDefense power by 50%" />
+	<key id="50003008" level="2" name="Laser shield" tooltipDescription="Wave one of Tuscany&#8217;s laser attacks in Pula in the State for more than resistant\nDefense power by 50%" />
+	<key id="50003008" level="3" name="Laser shield" tooltipDescription="Wave one of Tuscany&#8217;s laser attacks in Pula in the State for more than resistant\nDefense power by 50%" />
+	<key id="50003008" level="4" name="Laser shield" tooltipDescription="Wave one of Tuscany&#8217;s laser attacks in Pula in the State for more than resistant\nDefense power by 50%" />
+	<key id="50003100" level="1" name="Go slow" tooltipDescription="48% reduction in movement speed" />
+	<key id="50003100" level="2" name="Go slow" tooltipDescription="48% reduction in movement speed" />
+	<key id="50003100" level="3" name="Go slow" tooltipDescription="48% reduction in movement speed" />
+	<key id="50003100" level="4" name="Go slow" tooltipDescription="48% reduction in movement speed" />
+	<key id="50003101" level="5" name="The brain blitz" tooltipDescription="Lightning damage on an ongoing basis" />
+	<key id="50003101" level="6" name="The brain blitz" tooltipDescription="Lightning damage on an ongoing basis" />
+	<key id="50003101" level="7" name="The brain blitz" tooltipDescription="Lightning damage on an ongoing basis" />
+	<key id="50003101" level="8" name="The brain blitz" tooltipDescription="Lightning damage on an ongoing basis" />
+	<key id="50003102" level="9" name="SP Sealed" tooltipDescription="SP Disabled" />
+	<key id="50003102" level="10" name="SP Sealed" tooltipDescription="SP Disabled" />
+	<key id="50003102" level="11" name="SP Sealed" tooltipDescription="SP Disabled" />
+	<key id="50003102" level="12" name="SP Sealed" tooltipDescription="SP Disabled" />
+	<key id="50004800" level="1" name="HP Times reduced replica" tooltipDescription="HP Use the clone item recovery effect times\n65% Reduced\nConstantly cursing the damage" />
+	<key id="50004800" level="2" name="HP Times reduced replica" tooltipDescription="HP Use the clone item recovery effect times\n80% Reduced\nConstantly cursing the damage" />
+	<key id="50004800" level="3" name="HP Times reduced replica" tooltipDescription="HP Use the clone item recovery effect times\n90% Reduced\nConstantly cursing the damage" />
+	<key id="50005000" level="1" name="Electric shock" tooltipDescription="Lightning damage on an ongoing basis" />
+	<key id="50160005" level="1" name="Bleeding" tooltipDescription="Ongoing physical damage" />
+	<key id="59000001" level="1" name="Noise" tooltipDescription="Acting stunned wonderment" />
+	<key id="59000002" level="1" name="Like the wind" tooltipDescription="Increases movement speed for a period of time" />
+	<key id="59000003" level="1" name="Glare" tooltipDescription="It does see the light in front of the headlights!\nSpeed 80% reduction" />
+	<key id="60006021" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="60006031" level="1" name="Electric shock" tooltipDescription="2Give yourself and your teammates around every electrical damage" />
+	<key id="60006061" level="1" name="Charged your ska" tooltipDescription="Your ska lightning charge!" />
+	<key id="60011012" level="1" name="Pins and needles" tooltipDescription="A strong impact on the floor the whole body gets to me!\nMovement speed 60% reduction" />
+	<key id="60011061" level="1" name="Bar quick drink effects" tooltipDescription="Barajas is the FA do FA drinks as well!\n100% attack power" />
+	<key id="60011071" level="1" name="Bar quick drink side effects" tooltipDescription="The FA took a quick drink of side effects!\n20% attack power\nSP Consumption increased 2 times" />
+	<key id="60011072" level="1" name="Bar quick drink effects" tooltipDescription="Effect of FA FA drinks!\nDamage 50%" />
+	<key id="60012041" level="1" name="Addiction" tooltipDescription="Constantly poison damage\n50% reduction in movement speed" />
+	<key id="60012051" level="1" name="Addiction" tooltipDescription="Constantly poison damage\n50% reduction in movement speed" />
+	<key id="60013011" level="1" name="Dragon&#8217;s miasma" tooltipDescription="Constantly poison damage\n8Annual nesting venom blast adds poison damage by" />
+	<key id="60013012" level="1" name="Poisonous blast" tooltipDescription="Venom blasts and a powerful poison damage" />
+	<key id="60013021" level="1" name="Nerve paralysis poison" tooltipDescription="50% reduction in movement speed" />
+	<key id="60013022" level="1" name="Paralysis" tooltipDescription="Inability to act is paralyzed" />
+	<key id="60014041" level="1" name="Electric shock" tooltipDescription="Acting stunned wonderment" />
+	<key id="60014062" level="1" name="Black Magic crack" tooltipDescription="Pushed to attack not me" />
+	<key id="60016051" level="1" name="The wind bondage" tooltipDescription="Speed 40% reduction" />
+	<key id="60016061" level="1" name="Shoes-style cuts" tooltipDescription="Continuous flame damage" />
+	<key id="60016071" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="60021011" level="1" name="Movement speed reduction" tooltipDescription="Movement speed 60% reduction" />
+	<key id="60021021" level="1" name="Defense power reduction" tooltipDescription="Def 30% reduced" />
+	<key id="60021042" level="1" name="Bloody rage" tooltipDescription="Physical damage, spell damage 130% y/y increase\nDef 130% y/y increase" />
+	<key id="60021043" level="1" name="Bloody rage intensified" tooltipDescription="Physical damage, spell damage 160% y/y increase\nDef 130% y/y increase" />
+	<key id="60021044" level="1" name="Bloody rage ultimate" tooltipDescription="Physical attack, magical attack power 190% y/y increase\nDef 130% y/y increase" />
+	<key id="60021051" level="1" name="Summoner&#8217;s shields" tooltipDescription="The summoned monster is invincible while the presence" />
+	<key id="60024011" level="1" name="Soil-seeding" tooltipDescription="Acting stunned wonderment" />
+	<key id="60024021" level="1" name="Trapped in a spider web" tooltipDescription="30% reduction in movement speed" />
+	<key id="60025011" level="1" name="Ammonium chapter" tooltipDescription="Sometimes this whole body of flame!\nConstantly flame damage" />
+	<key id="60025021" level="1" name="The brain blitz" tooltipDescription="Electrically stimulates the whole body!\nLightning damage on an ongoing basis" />
+	<key id="60025061" level="1" name="Air shields" tooltipDescription="Generates a shield to absorb damage" />
+	<key id="60025071" level="1" name="A refresher charge" tooltipDescription="Max HP1% recovery" />
+	<key id="60026021" level="1" name="Helpless" tooltipDescription="In charge of the elusive pollen on body motions!\nPhysical damage, spell damage, hit, evading a 50% reduction in\n30% reduction in movement speed" />
+	<key id="60026032" level="1" name="Wide shoes" tooltipDescription="In charge of the elusive pollen cannot control your anger!\nPhysical damage, spell damage 100% y/y increase\nAttack: HP 5% Reduction" />
+	<key id="60026073" level="1" name="Noigjang" tooltipDescription="Agate is a hidden power!" />
+	<key id="60026081" level="1" name="Stunned" tooltipDescription="Powerful ultrasonic attack blindsided!\nActing stunned wonderment" />
+	<key id="60027001" level="1" name="Bleeding" tooltipDescription="Ongoing physical damage\nDipping down and roar of the bleeding of the wounded in the attack, \nAdditional damage" />
+	<key id="60027042" level="1" name="The roar of the wound : Slow" tooltipDescription="Movement speed 60% reduction" />
+	<key id="60027043" level="1" name="The roar of the wound : Horror" tooltipDescription="Physical damage, spell damage, hit, evading a 50% reduction in" />
+	<key id="60027071" level="1" name="Light Warrior" tooltipDescription="Wide and get even stronger and faster attack!" />
+	<key id="60027081" level="1" name="Recovery" tooltipDescription="Max HP2 percent of the recovery" />
+	<key id="60028021" level="1" name="Tracking energy wave" tooltipDescription="Movement speed 60% reduction" />
+	<key id="60029042" level="1" name="Rock throwing" tooltipDescription="Acting stunned wonderment" />
+	<key id="60031001" level="1" name="Drinking" tooltipDescription="Hit a 20% reduction in\nUp to 5 times the nesting" />
+	<key id="60031011" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="60031012" level="1" name="And effect" tooltipDescription="Vomiting with inability to act" />
+	<key id="60031061" level="1" name="About the primary intake" tooltipDescription="All fires to crit" />
+	<key id="60031071" level="1" name="Injection use" tooltipDescription="Any attack evasion" />
+	<key id="60031081" level="1" name="The regime attack" tooltipDescription="Movement speed 60% reduction" />
+	<key id="60032001" level="1" name="Sacred shield" tooltipDescription="Never to approach a strong lightning sank down" />
+	<key id="60033021" level="1" name="Smoke bombs" tooltipDescription="Hit rate reduction" />
+	<key id="60033031" level="1" name="The Devil&#8217;s nails" tooltipDescription="All attacks for a period of time to apply" />
+	<key id="60033051" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="60034001" level="1" name="Shadow bondage" tooltipDescription="Inability to act for a period of time" />
+	<key id="60035041" level="1" name="Bleeding" tooltipDescription="Ongoing physical damage" />
+	<key id="60038001" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="60038071" level="1" name="Nerve palsy" tooltipDescription="The skill for a period of time not available\nMovement speed increase" />
+	<key id="60038092" level="1" name="Explosion warning" tooltipDescription="After a period of time I self destruct system." />
+	<key id="60039032" level="1" name="Flame body" tooltipDescription="Continuous flame damage" />
+	<key id="60040011" level="1" name="Talisman in bondage" tooltipDescription="Inability to act shall be sealed as unsuitable" />
+	<key id="60040031" level="1" name="USD accursed of the heart" tooltipDescription="Yuan Hon are wrapped the body!\nConstantly dark damage" />
+	<key id="60045001" level="1" name="Bleeding" tooltipDescription="Ongoing physical damage" />
+	<key id="60052031" level="1" name="Small prints" tooltipDescription="50% reduction in body size\nPhysical attack, magical attack 80% reduction\nDefense power and 50% reduced" />
+	<key id="60054011" level="1" name="Bleeding" tooltipDescription="Ongoing physical damage" />
+	<key id="60055012" level="1" name="Pins and needles" tooltipDescription="A strong impact on the floor the whole body gets to me!\nMovement speed 60% reduction" />
+	<key id="60055061" level="1" name="Bar quick drink effects" tooltipDescription="Barajas is the FA do FA drinks as well!\n100% attack power" />
+	<key id="60055071" level="1" name="Bar quick drink side effects" tooltipDescription="The FA took a quick drink of side effects!\n20% attack power\nSP Consumption increased 2 times" />
+	<key id="60055072" level="1" name="Bar quick drink effects" tooltipDescription="Effect of FA FA drinks!\nDamage 50%" />
+	<key id="60056041" level="1" name="Addiction" tooltipDescription="Constantly poison damage\n50% reduction in movement speed" />
+	<key id="60056051" level="1" name="Addiction" tooltipDescription="Constantly poison damage\n50% reduction in movement speed" />
+	<key id="60057011" level="1" name="Dragon&#8217;s miasma" tooltipDescription="Constantly poison damage\n8Annual nesting venom blast adds poison damage by" />
+	<key id="60057012" level="1" name="Poisonous blast" tooltipDescription="Venom blasts and a powerful poison damage" />
+	<key id="60057021" level="1" name="Nerve paralysis poison" tooltipDescription="50% reduction in movement speed" />
+	<key id="60057022" level="1" name="Paralysis" tooltipDescription="Inability to act is paralyzed" />
+	<key id="60058032" level="1" name="Burns" tooltipDescription="Continuous damage" />
+	<key id="60059011" level="1" name="Talisman in bondage" tooltipDescription="Inability to act shall be sealed as unsuitable" />
+	<key id="60059031" level="1" name="USD accursed of the heart" tooltipDescription="Yuan Hon are wrapped the body!\nConstantly dark damage" />
+	<key id="60061021" level="1" name="Helpless" tooltipDescription="In charge of the elusive pollen on body motions!\nPhysical damage, spell damage, hit, evading a 50% reduction in\n30% reduction in movement speed" />
+	<key id="60061032" level="1" name="Wide shoes" tooltipDescription="In charge of the elusive pollen cannot control your anger!\nPhysical damage, spell damage 100% y/y increase\nAttack: HP 5% Reduction" />
+	<key id="60061073" level="1" name="Noigjang" tooltipDescription="Agate is a hidden power!" />
+	<key id="60061081" level="1" name="Stunned" tooltipDescription="Powerful ultrasonic attack blindsided!\nActing stunned wonderment" />
+	<key id="60062051" level="1" name="The wind bondage" tooltipDescription="Speed 40% reduction" />
+	<key id="60062061" level="1" name="Shoes-style cuts" tooltipDescription="Continuous flame damage" />
+	<key id="60062071" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="60063011" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="60063081" level="1" name="The regime attack" tooltipDescription="Movement speed 60% reduction" />
+	<key id="60064011" level="1" name="Movement speed reduction" tooltipDescription="Movement speed 60% reduction" />
+	<key id="60064021" level="1" name="Defense power reduction" tooltipDescription="Def 30% reduced" />
+	<key id="60064042" level="1" name="Bloody rage" tooltipDescription="Physical damage, spell damage 130% y/y increase\nDef 130% y/y increase" />
+	<key id="60064043" level="1" name="Bloody rage intensified" tooltipDescription="Physical damage, spell damage 160% y/y increase\nDef 130% y/y increase" />
+	<key id="60064044" level="1" name="Bloody rage ultimate" tooltipDescription="Physical attack, magical attack power 190% y/y increase\nDef 130% y/y increase" />
+	<key id="60064051" level="1" name="Summoner&#8217;s shields" tooltipDescription="The summoned monster is invincible while the presence" />
+	<key id="60065001" level="1" name="Bleeding" tooltipDescription="Ongoing physical damage\nDipping down and roar of the bleeding of the wounded in the attack, \nAdditional damage" />
+	<key id="60065042" level="1" name="The roar of the wound : Slow" tooltipDescription="Movement speed 60% reduction" />
+	<key id="60065043" level="1" name="The roar of the wound : Horror" tooltipDescription="Physical damage, spell damage, hit, evading a 50% reduction in" />
+	<key id="60065071" level="1" name="Light Warrior" tooltipDescription="Wide and get even stronger and faster attack!" />
+	<key id="60065081" level="1" name="Recovery" tooltipDescription="Max HP2 percent of the recovery" />
+	<key id="60066021" level="1" name="Tracking energy wave" tooltipDescription="Movement speed 60% reduction" />
+	<key id="60067042" level="1" name="Bleeding" tooltipDescription="Ongoing physical damage" />
+	<key id="60068021" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="60068031" level="1" name="Electric shock" tooltipDescription="2Give yourself and your teammates around every electrical damage" />
+	<key id="60068061" level="1" name="Charged your ska" tooltipDescription="Your ska lightning charge!" />
+	<key id="60069042" level="1" name="Rock throwing" tooltipDescription="Acting stunned wonderment" />
+	<key id="60071001" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="60071071" level="1" name="Nerve palsy" tooltipDescription="The skill for a period of time not available\nMovement speed increase" />
+	<key id="60071092" level="1" name="Explosion warning" tooltipDescription="After a period of time I self destruct system." />
+	<key id="60076002" level="1" name="Jack-o&#8217;-lantern bondage" tooltipDescription="The antics of the body but unsatisfactory Jack-o&#8217;-lantern velocity rises by leaps and bounds." />
+	<key id="60076021" level="1" name="The curse of ghost horse" tooltipDescription="A curse hanging over skill not available but regular attacks  \nAvailable.  \nPhysical attack power and spell damage is doubled." />
+	<key id="70000007" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="70000010" level="1" name="Addiction" tooltipDescription="I have been addicted to venom!\nEvery second Max HP1% reduction of" />
+	<key id="70000010" level="2" name="Addiction" tooltipDescription="I have been addicted to venom!\nEvery second Max HPOnly 3% of reduction" />
+	<key id="70000010" level="3" name="Addiction" tooltipDescription="I have been addicted to venom!\nEvery second Max HPReduction of 15% of the" />
+	<key id="70000011" level="1" name="Hot steam" tooltipDescription="Hot steam Burns!\nEvery second 10 damage" />
+	<key id="70000014" level="1" name="Hot steam" tooltipDescription="Hot steam Burns!\n20 damage each second" />
+	<key id="70000015" level="1" name="Bleeding" tooltipDescription="Deep wound was bleeding happened!\nEvery second of the physical damage" />
+	<key id="70000017" level="1" name="In the shadow of miasma" tooltipDescription="This land has been polluted in the shadows!\nDefense power reduced by 5%" />
+	<key id="70000018" level="1" name="Play" tooltipDescription="0.5Seconds maximum HP3% recovery" />
+	<key id="70000019" level="1" name="The Rev&#8217;s blessing" tooltipDescription="Graced the offer!\nMonster acquires a 10% increase in experience at Christchurch, New Zealand\n2Seconds maximum HP1% recovery" />
+	<key id="70000020" level="1" name="The blessings of prosperity live Rune" tooltipDescription="Perkins graced Windows Rune!\n7 percent increase in transfer speed\nSTR 15 Increases the" />
+	<key id="70000021" level="1" name="In the shadow of miasma" tooltipDescription="This land has been polluted in the shadows!\nPoison damage each second" />
+	<key id="70000022" level="1" name="Deadly shadow of miasma" tooltipDescription="This land has been polluted in the shadows!\nPoison damage each second" />
+	<key id="70000022" level="2" name="Deadly shadow of miasma" tooltipDescription="This land has been polluted in the shadows!\nPoison damage each second" />
+	<key id="70000023" level="1" name="Go slow" tooltipDescription="45% reduction in movement speed" />
+	<key id="70000027" level="1" name="The power of the shadow" tooltipDescription="I&#8217;ve heard that they changed in the body an aura of shadow!\nMax HP 680% Increases the\nPvP The effects of calibration of equipment at which Chan Tran" />
+	<key id="70000028" level="1" name="The dominance of the shadows" tooltipDescription="Shadow world&#8217;s evil aura to dominate every body.\nSubject of the shadow while the Maple world \nShadow world cannot reenter." />
+	<key id="70000029" level="1" name="La pen&#8217;s protection" tooltipDescription="La pen&#8217;s comforting body wrap.\nLa pen&#8217;s protection while\nOther characters will not be able to contend with." />
+	<key id="70000030" level="1" name="La pen&#8217;s protection clear" tooltipDescription="Wrath of God in saying la pen&#8217;s protection to manually clear skill" />
+	<key id="70000031" level="1" name="The power of the shadow" tooltipDescription="Exude a comforting shadows in your body.\nHP 680% Rising" />
+	<key id="70000032" level="1" name="Safe moves" tooltipDescription="Wrap your body for a while, an aura of shadow portals.\n5You cannot fight with the other characters for a few seconds." />
+	<key id="70000035" level="1" name="Red Wolf&#8217;s containers" tooltipDescription="Physical damage, spell damage 30% y/y increase" />
+	<key id="70000037" level="1" name="The wisdom of my med" tooltipDescription="SP 50% reduction in the consumption of" />
+	<key id="70000039" level="1" name="The blessing of the King of Kumba" tooltipDescription="Every second Max HP10% recovery" />
+	<key id="70000041" level="1" name="The vengeful" tooltipDescription="Vengeful climb!\nPhysical damage, spell damage increased by 50%" />
+	<key id="70000044" level="1" name="Light of the soul" tooltipDescription="To absorb the light of the soul, the spirits have been\nLight of the soul disappears,\nAt the level of the soul will not be able to hold" />
+	<key id="70000046" level="1" name="Addiction" tooltipDescription="Poison damage each second" />
+	<key id="70000050" level="1" name="Nerve paralysis poison" tooltipDescription="Every second movement speed reduced by 5%\nEvery second Max HPReduced by 0.25% of\nUp to 20 times the nesting" />
+	<key id="70000056" level="1" name="Damage reduction" tooltipDescription="99% reduction in physical damage, spell damage" />
+	<key id="70000056" level="2" name="Damage reduction" tooltipDescription="Physical damage, spell damage reduced to 70%" />
+	<key id="70000058" level="1" name="Life&#8217;s a breeze" tooltipDescription="Received an aura of life\n150% increase in transfer speed" />
+	<key id="70000059" level="1" name="Burns" tooltipDescription="Every second flame damage" />
+	<key id="70000062" level="1" name="The anger of the left" tooltipDescription="Up to ssauryeoneun shares of hits will burning a colleague!\nHP 15% Rising\nPhysical damage, spell damage increased by 10%\nDef 10% y/y increase" />
+	<key id="70000062" level="2" name="The anger of the left" tooltipDescription="Up to ssauryeoneun shares of hits will burning a colleague!\nHP 45% Rising\nPhysical damage, spell damage increased by 20%\nIncreases def by 20%" />
+	<key id="70000062" level="3" name="The anger of the left" tooltipDescription="Up to ssauryeoneun shares of hits will burning a colleague!\nHP 90% Rising\nPhysical damage, spell damage 30% y/y increase\nDef 30% y/y increase" />
+	<key id="70000062" level="4" name="The anger of the left" tooltipDescription="Up to ssauryeoneun shares of hits will burning a colleague!\nHP 120% Rising\nPhysical damage, spell damage 40% y/y increase\nDefense power 40% y/y increase" />
+	<key id="70000062" level="5" name="The anger of the left" tooltipDescription="Up to ssauryeoneun shares of hits will burning a colleague!\nHP 180% Rising\nPhysical damage, spell damage increased by 50%\nDef 50% y/y increase" />
+	<key id="70000062" level="6" name="The anger of the left" tooltipDescription="Up to ssauryeoneun shares of hits will burning a colleague!\nHP 250% Rising\nPhysical damage, spell damage increased to 70%\nDef 70% y/y increase" />
+	<key id="70000062" level="7" name="The anger of the left" tooltipDescription="Up to ssauryeoneun shares of hits will burning a colleague!\nHP 300% Rising\nPhysical attack, magical attack 80% y/y increase\nDefense power 80% y/y increase" />
+	<key id="70000062" level="8" name="The anger of the left" tooltipDescription="Up to ssauryeoneun shares of hits will burning a colleague!\nHP 450% Rising\nPhysical damage, spell damage increased 90 percent.\nDef 90% y/y increase" />
+	<key id="70000062" level="9" name="The anger of the left" tooltipDescription="Up to ssauryeoneun shares of hits will burning a colleague!\nHP 600% Rising\nPhysical damage, spell damage 100% y/y increase\nDef 100% y/y increase" />
+	<key id="70000063" level="1" name="Red gauntlet of blessings" tooltipDescription="Red received a blessing of a duel!\nMonster acquires a 10% increase in cattle in Medan city, Christchurch, New Zealand\n2Seconds maximum HP1% recovery" />
+	<key id="70000065" level="1" name="Burns" tooltipDescription="Every second flame damage" />
+	<key id="70000066" level="1" name="Encouraging the heart" tooltipDescription="A colleague got in minds by reassuring.\nParty with the battle city can grow more quickly.\nMonster aid: 5% increase of experience acquired" />
+	<key id="70000066" level="2" name="Encouraging the heart" tooltipDescription="Two colleagues got the mind by reassuring.\nParty with the battle city can grow more quickly.\nMonster acquires experience at 7% increase in aid" />
+	<key id="70000066" level="3" name="Encouraging the heart" tooltipDescription="Three or more Associates&#8217;s mind by reassuring.\nParty with the battle city can grow more quickly.\nMonster acquires a 10% increase in experience at Christchurch, New Zealand" />
+	<key id="70000067" level="1" name="Kumba Wang&#8217;s fortune" tooltipDescription="Kumba Wang Ka&#8217;s aura dimmed.\nYou can also follow an unexpected luck.\nEquipment items from bosses\nThe probability of winning will increase a bit." />
+	<key id="70000067" level="2" name="Kumba Wang&#8217;s fortune" tooltipDescription="Kumba Wang Cain energy in moderation.\nFeel-good luck seems to follow.\nEquipment items from bosses\nThe probability of winning increases." />
+	<key id="70000067" level="3" name="Kumba Wang&#8217;s fortune" tooltipDescription="Kumba refresh Cain the King strongly felt.\nHappy luck seems to follow.\nEquipment items from bosses\nOdds of winning will be greatly increased." />
+	<key id="70000067" level="4" name="Kumba Wang&#8217;s fortune" tooltipDescription="Special Kumba refresh Cain the King strongly felt.\nHappy luck seems to follow.\nEquipment items from bosses\n2Doubling." />
+	<key id="70000068" level="1" name="Stud to 7 Rune" tooltipDescription="The legendary Sharpshooter Haas&#8217;s perky body.\n200% increase in 5 seconds and movement speed" />
+	<key id="70000071" level="1" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India. \n10% reduction in the amount of the recovery of the items and skills" />
+	<key id="70000071" level="2" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India. \nA 20% reduction in the amount of the recovery of the items and skills" />
+	<key id="70000071" level="3" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India. \n50% reduction in the amount of the recovery of the items and skills" />
+	<key id="70000071" level="4" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India. \nItems and the amount of the recovery of 80% reduction of skill" />
+	<key id="70000071" level="5" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India. \n95% reduction in the amount of the recovery of the items and skills" />
+	<key id="81000001" level="1" name="Blue paint" tooltipDescription="It has been covered in paint" />
+	<key id="81000031" level="1" name="An unidentified cucumber flavored cocktail" tooltipDescription="Takes on an intense aroma of cucumber" />
+	<key id="81000051" level="1" name="Terry&#8217;s sailing schedule" tooltipDescription="Will himself" />
+	<key id="81000061" level="1" name="Automatic cooking Kit" tooltipDescription="Open the barbecue" />
+	<key id="81000091" level="1" name="Drove out the poison mushroom" tooltipDescription="Poison mushrooms have been addicted to" />
+	<key id="81000101" level="1" name="Solvay hacking system!" tooltipDescription="Hacking attempt!" />
+	<key id="81000111" level="1" name="Hot icon" tooltipDescription="Raises the surrounding attention" />
+	<key id="81000121" level="1" name="Cat smoke bombs" tooltipDescription="The body fades" />
+	<key id="81000141" level="1" name="FA FA fruit concentrate" tooltipDescription="Acting stunned wonderment" />
+	<key id="81000151" level="1" name="The fairy changeling orders" tooltipDescription="The smaller the body" />
+	<key id="81000161" level="1" name="Mika fan art" tooltipDescription="Heart palpitations draws" />
+	<key id="81000181" level="1" name="LDR Capsule" tooltipDescription="The body will be for anything" />
+	<key id="81000191" level="1" name="Spotlight" tooltipDescription="The lighting is brilliant" />
+	<key id="81000211" level="1" name="Sha La La powder" tooltipDescription="Style completions" />
+	<key id="81000221" level="1" name="Sseolreonghan jokes home" tooltipDescription="So drop by." />
+	<key id="81000241" level="1" name="Nature embraces the tea leaves" tooltipDescription="Take in the aroma of tea leaves" />
+	<key id="81000251" level="1" name="Campfire Kit" tooltipDescription="You can ride the campfire" />
+	<key id="81000261" level="1" name="Dark energy potion" tooltipDescription="Filled with an aura of darkness" />
+	<key id="82000001" level="1" name="When it falls around his monument 3mThe greater damage" />
+	<key id="82000011" level="1" name="Currently HPIf you&#8217;re a 20% overhead arrow generation" />
+	<key id="82000021" level="1" name="A survey of the surrounding stuff: three seconds movement speed increased greatly" />
+	<key id="82000022" level="1" name="Checker&#8217;s pendant" tooltipDescription="Greatly increases movement speed" />
+	<key id="90000022" level="1" name="HP Recovery" tooltipDescription="Once every second HP 4 Recovery" />
+	<key id="90000023" level="1" name="HP Recovery" tooltipDescription="Once every second HP 4 Recovery" />
+	<key id="90000024" level="1" name="HP Recovery" tooltipDescription="Once every second HP 4 Recovery" />
+	<key id="90000025" level="1" name="Written by Rita min Jung" tooltipDescription="Improved immunity\nIn the shadow of miasma immune" />
+	<key id="90000026" level="1" name="Warrior potion" tooltipDescription="Physical damage 3% y/y increase" />
+	<key id="90000027" level="1" name="The wizard&#8217;s potion" tooltipDescription="Magic damage 3% y/y increase" />
+	<key id="90000028" level="1" name="Health Potion" tooltipDescription="Max HP 5% Increases the" />
+	<key id="90000029" level="1" name="Defense potion" tooltipDescription="Def 3% y/y increase" />
+	<key id="90000038" level="1" name="HP Recovery" tooltipDescription="Once every second HP 16 Recovery" />
+	<key id="90000039" level="1" name="HP Recovery" tooltipDescription="Once every second HP 40 Recovery" />
+	<key id="90000040" level="1" name="HP Recovery" tooltipDescription="Once every second HP 80 Recovery" />
+	<key id="90000041" level="1" name="HP Recovery" tooltipDescription="Once every second HP 120 Recovery" />
+	<key id="90000042" level="1" name="HP Recovery" tooltipDescription="Once every second HP 150 Recovery" />
+	<key id="90000043" level="1" name="HP Recovery" tooltipDescription="Once every second HP 160 Recovery" />
+	<key id="90000044" level="1" name="HP Recovery" tooltipDescription="Once every second HP 190 Recovery" />
+	<key id="90000046" level="1" name="Beverage effect" tooltipDescription="Once every second HP 75 Recovery" />
+	<key id="90000047" level="1" name="Beverage effect" tooltipDescription="Once every second HP 122 Recovery" />
+	<key id="90000049" level="1" name="Beverage effect" tooltipDescription="Once every second HP 191 Recovery" />
+	<key id="90000050" level="1" name="Beverage effect" tooltipDescription="Once every second HP 221 Recovery" />
+	<key id="90000051" level="1" name="Milk" tooltipDescription="Once every second HP 4 Recovery" />
+	<key id="90000052" level="1" name="Egg" tooltipDescription="Once every second HP 4 Recovery" />
+	<key id="90000053" level="1" name="Cant bear" tooltipDescription="STR 1 Increases the" />
+	<key id="90000054" level="1" name="Golden Apple" tooltipDescription="Once every second HP 4 Recovery" />
+	<key id="90000055" level="1" name="Bloomers rest room" tooltipDescription="Acting stunned wonderment" />
+	<key id="90000056" level="1" name="Bar quick powder" tooltipDescription="Acting stunned wonderment" />
+	<key id="90000057" level="1" name="Shadow DNA" tooltipDescription="DEX 1 Increases the" />
+	<key id="90000058" level="1" name="Raw material samples" tooltipDescription="INT 1 Increases the" />
+	<key id="90000059" level="1" name="Variation DNA" tooltipDescription="LUK 1 Increases the" />
+	<key id="90000060" level="1" name="The New Testament sample" tooltipDescription="2 increase" />
+	<key id="90000061" level="1" name="Conques powder" tooltipDescription="Acting stunned wonderment" />
+	<key id="90000062" level="1" name="Sweet leaf" tooltipDescription="Once every second HP 4 Recovery" />
+	<key id="90000063" level="1" name="Laba kid&#8217;s tail" tooltipDescription="Increases magic attack power 1" />
+	<key id="90000064" level="1" name="Evil eyes" tooltipDescription="Increase physical attack 1" />
+	<key id="90000065" level="1" name="Slime residue" tooltipDescription="30% reduction in movement speed" />
+	<key id="90000066" level="1" name="Take one stone in the rain" tooltipDescription="10 poison damage each second" />
+	<key id="90000067" level="1" name="But de Gasol" tooltipDescription="Once every second HP 4 Recovery" />
+	<key id="90000068" level="1" name="Ripe goal Enokitake" tooltipDescription="Once every second HP 4 Recovery" />
+	<key id="90000069" level="1" name="Nong ripe goal Enokitake" tooltipDescription="Acting stunned wonderment" />
+	<key id="90000070" level="1" name="Can a fairy" tooltipDescription="Turn off the miasma" />
+	<key id="90000071" level="1" name="Red Daisy" tooltipDescription="Flame damage" />
+	<key id="90000072" level="1" name="Shellfish" tooltipDescription="Once every second HP 4 Recovery" />
+	<key id="90000073" level="1" name="Fresh chicken" tooltipDescription="Once every second HP 4 Recovery" />
+	<key id="90000074" level="1" name="Long legs nutrition article" tooltipDescription="As a side effect an increase in the size of" />
+	<key id="90000075" level="1" name="Food effect" tooltipDescription="15Minutes HP 70 Increases the\nPhysical def 10% y/y increase" />
+	<key id="90000076" level="1" name="Food effect" tooltipDescription="15Minutes HP 170 Increases the\nDef 3% y/y increase" />
+	<key id="90000077" level="1" name="Food effect" tooltipDescription="15Minutes HP 270 Increases the\nMagic def 10% y/y increase" />
+	<key id="90000079" level="1" name="Experience 1.5 times coupons" tooltipDescription="Monster Hunt: an increase in the amount of 1.5 times the experience acquired," />
+	<key id="90000080" level="1" name="Excellent experience 1.5 times coupons" tooltipDescription="Monster Hunt: an increase in the amount of 1.5 times the experience acquired," />
+	<key id="90000081" level="1" name="Experience 2 x coupons" tooltipDescription="Monster Hunt:, experience acquired, the amount increased 2 times" />
+	<key id="90000082" level="1" name="Excellent experience 2 x coupons" tooltipDescription="Monster Hunt:, experience acquired, the amount increased 2 times" />
+	<key id="90000083" level="1" name="Experience triple coupons" tooltipDescription="Monster Hunt: the amount of three times the increase of experience acquired," />
+	<key id="90000084" level="1" name="Excellent experience triple coupons" tooltipDescription="Monster Hunt: the amount of three times the increase of experience acquired," />
+	<key id="90000085" level="1" name="The giant lava kid&#8217;s tail" tooltipDescription="Increases physical and magic damage 1" />
+	<key id="90000086" level="1" name="Rotten milk" tooltipDescription="1% increase in physical and magic damage" />
+	<key id="90000087" level="1" name="Changsha Tianhe nutritional bread" tooltipDescription="1% increase in physical and magic damage" />
+	<key id="90000088" level="1" name="HP Recovery" tooltipDescription="Once every second HP 80 Recovery" />
+	<key id="90000090" level="1" name="Transparent" tooltipDescription="Hides the appearance from the enemy\nSpeed 40% reduction\nDamage is received, the transparent status off" />
+	<key id="90000091" level="1" name="Stun grenades droid" tooltipDescription="Acting stunned wonderment" />
+	<key id="90000093" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="90000094" level="1" name="Transparent" tooltipDescription="Hides the appearance from the enemy\nSpeed 40% reduction\nDamage is received, the transparent status off" />
+	<key id="90000095" level="1" name="Cucumber" tooltipDescription="Once every second HP 16 Recovery" />
+	<key id="90000096" level="1" name="Carrot" tooltipDescription="Once every second HP 40 Recovery" />
+	<key id="90000097" level="1" name="Red berry" tooltipDescription="Once every second HP 16 Recovery" />
+	<key id="90000098" level="1" name="White Berry" tooltipDescription="Once every second HP 40 Recovery" />
+	<key id="90000099" level="1" name="Blueberry" tooltipDescription="Once every second HP 80 Recovery" />
+	<key id="90000100" level="1" name="Beverage effect" tooltipDescription="Once every second HP 49 Recovery" />
+	<key id="90000101" level="1" name="Beverage effect" tooltipDescription="Once every second HP 94 Recovery" />
+	<key id="90000102" level="1" name="Beverage effect" tooltipDescription="Once every second HP 171 Recovery" />
+	<key id="90000103" level="1" name="Food effect" tooltipDescription="15Minutes HP 50 Increases the\nDef 3% y/y increase" />
+	<key id="90000104" level="1" name="Food effect" tooltipDescription="15Minutes HP 90 Increases the\nMagic def 10% y/y increase" />
+	<key id="90000105" level="1" name="Food effect" tooltipDescription="15Minutes HP 190 Increases the\nPhysical def 10% y/y increase" />
+	<key id="90000106" level="1" name="Food effect" tooltipDescription="15Minutes HP 120 Increases the\nDef 3% y/y increase" />
+	<key id="90000107" level="1" name="Food effect" tooltipDescription="15Minutes HP 140 Increases the\nPhysical def 10% y/y increase" />
+	<key id="90000108" level="1" name="Food effect" tooltipDescription="15Minutes HP 140 Increases the\nMagic def 10% y/y increase" />
+	<key id="90000111" level="1" name="Beverage effect" tooltipDescription="Once every second HP 142 Recovery" />
+	<key id="90000112" level="1" name="Food effect" tooltipDescription="15Minutes HP 220 Increases the\nMagic def 10% y/y increase" />
+	<key id="90000113" level="1" name="Food effect" tooltipDescription="15Minutes HP 250 Increases the\nDef 3% y/y increase" />
+	<key id="90000114" level="1" name="Food effect" tooltipDescription="15Minutes HP 250 Increases the\nPhysical def 10% y/y increase" />
+	<key id="90000128" level="1" name="Survival of the souvenirs" tooltipDescription="HP 5% Increases the" />
+	<key id="90000129" level="1" name="Swift&#8217;s souvenirs" tooltipDescription="Speed 5%" />
+	<key id="90000130" level="1" name="A souvenir of the struggle" tooltipDescription="Attack speed by 5%" />
+	<key id="90000131" level="1" name="Survival of the souvenirs" tooltipDescription="HP 10% Increases the" />
+	<key id="90000132" level="1" name="Swift&#8217;s souvenirs" tooltipDescription="10% movement speed" />
+	<key id="90000133" level="1" name="A souvenir of the struggle" tooltipDescription="Attack speed by 10%" />
+	<key id="90000134" level="1" name="Survival of the souvenirs" tooltipDescription="HP 100 Increases the" />
+	<key id="90000135" level="1" name="Survival of the souvenirs" tooltipDescription="HP 500 Increases the" />
+	<key id="90000136" level="1" name="Survival of the souvenirs" tooltipDescription="HP 1000 Increases the" />
+	<key id="90000137" level="1" name="Megan cow detection eyedrops" tooltipDescription="Megan acquired a 20% increase or decrease the amount of soda" />
+	<key id="90000138" level="1" name="Souvenir effect" tooltipDescription="HP 100 Increases the" />
+	<key id="90000139" level="1" name="Souvenir effect" tooltipDescription="HP 125 Increases the" />
+	<key id="90000140" level="1" name="Souvenir effect" tooltipDescription="HP 150 Increases the" />
+	<key id="90000141" level="1" name="Souvenir effect" tooltipDescription="HP 200 Increases the\nExperience acquired 5% increase or decrease the amount of" />
+	<key id="90000142" level="1" name="Souvenir effect" tooltipDescription="HP 250 Increases the\n7 percent increase in the amount of acquired experience" />
+	<key id="90000143" level="1" name="Souvenir effect" tooltipDescription="STR 2 Increases the\nINT 2 Increases the\nDEX 2 Increases the\nLUK 2 Increases the" />
+	<key id="90000144" level="1" name="Souvenir effect" tooltipDescription="HP 150 Increases the" />
+	<key id="90000145" level="1" name="Souvenir effect" tooltipDescription="Increase attack speed by 3%" />
+	<key id="90000146" level="1" name="Souvenir effect" tooltipDescription="HP5% Increases the\nHP Renewal 15% rise" />
+	<key id="90000147" level="1" name="Souvenir effect" tooltipDescription="Physical attack power rises 5%" />
+	<key id="90000148" level="1" name="Souvenir effect" tooltipDescription="Physical attack 10%" />
+	<key id="90000149" level="1" name="Souvenir effect" tooltipDescription="Physical attack power rises 15%" />
+	<key id="90000150" level="1" name="Souvenir effect" tooltipDescription="Magical attack power rises 5%" />
+	<key id="90000151" level="1" name="Souvenir effect" tooltipDescription="Magic attack 10%," />
+	<key id="90000152" level="1" name="Souvenir effect" tooltipDescription="Magical attack power rises 15%" />
+	<key id="90000153" level="1" name="Souvenir effect" tooltipDescription="Physical and magic damage by 5%" />
+	<key id="90000154" level="1" name="Souvenir effect" tooltipDescription="Physical and magic attack 10%," />
+	<key id="90000155" level="1" name="Souvenir effect" tooltipDescription="Physical and magic damage 15%" />
+	<key id="90000156" level="1" name="Souvenir effect" tooltipDescription="LUK 5% Rising" />
+	<key id="90000157" level="1" name="Souvenir effect" tooltipDescription="LUK 10% Rising" />
+	<key id="90000158" level="1" name="Souvenir effect" tooltipDescription="LUK 15% Rising" />
+	<key id="90000159" level="1" name="Souvenir effect" tooltipDescription="DEX 5% Rising" />
+	<key id="90000160" level="1" name="Souvenir effect" tooltipDescription="DEX 10% Rising" />
+	<key id="90000161" level="1" name="Souvenir effect" tooltipDescription="DEX 15% Rising" />
+	<key id="90000162" level="1" name="Souvenir effect" tooltipDescription="STR 5% Rising" />
+	<key id="90000163" level="1" name="Souvenir effect" tooltipDescription="STR 10% Rising" />
+	<key id="90000164" level="1" name="Souvenir effect" tooltipDescription="STR 15% Rising" />
+	<key id="90000165" level="1" name="Souvenir effect" tooltipDescription="INT 5% Rising" />
+	<key id="90000166" level="1" name="Souvenir effect" tooltipDescription="INT 10% Rising" />
+	<key id="90000167" level="1" name="Souvenir effect" tooltipDescription="INT 15% Rising" />
+	<key id="90000168" level="1" name="Souvenir effect" tooltipDescription="Def 5%" />
+	<key id="90000169" level="1" name="Souvenir effect" tooltipDescription="Def 10%" />
+	<key id="90000170" level="1" name="Souvenir effect" tooltipDescription="Defense Power 15%" />
+	<key id="90000171" level="1" name="Souvenir effect" tooltipDescription="Elite monsters that damage 5% y/y increase" />
+	<key id="90000172" level="1" name="Souvenir effect" tooltipDescription="Elite monsters to damage 10% y/y increase" />
+	<key id="90000173" level="1" name="Souvenir effect" tooltipDescription="Elite monsters that damage 15% y/y increase" />
+	<key id="90000174" level="1" name="Souvenir effect" tooltipDescription="The boss monster to give damage 5% y/y increase" />
+	<key id="90000175" level="1" name="Souvenir effect" tooltipDescription="The boss monster to damage 10% y/y increase" />
+	<key id="90000176" level="1" name="Souvenir effect" tooltipDescription="The boss monster to damage 15% y/y increase" />
+	<key id="90000177" level="1" name="Souvenir effect" tooltipDescription="Speed 5%" />
+	<key id="90000178" level="1" name="Souvenir effect" tooltipDescription="10% movement speed" />
+	<key id="90000179" level="1" name="Souvenir effect" tooltipDescription="15% movement speed" />
+	<key id="90000180" level="1" name="Agate spellbound a flower" tooltipDescription="1 percent of the physical and magic damage and increase the size of the rise" />
+	<key id="90000195" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="90000196" level="1" name="Special Warrior potion" tooltipDescription="Physical damage 3% y/y increase" />
+	<key id="90000197" level="1" name="Unique article Wizard potion" tooltipDescription="Magic damage 3% y/y increase" />
+	<key id="90000198" level="1" name="Special Health Potion" tooltipDescription="Max HP 5% Increases the" />
+	<key id="90000201" level="1" name="Beverage effect" tooltipDescription="Once every second HP 47 Recovery" />
+	<key id="90000202" level="1" name="Beverage effect" tooltipDescription="Once every second HP 77 Recovery" />
+	<key id="90000203" level="1" name="Beverage effect" tooltipDescription="Once every second HP 107 Recovery" />
+	<key id="90000204" level="1" name="Beverage effect" tooltipDescription="Once every second HP 138 Recovery" />
+	<key id="90000206" level="1" name="Sweet cupcakes" tooltipDescription="Increase attack speed by 3%" />
+	<key id="90000207" level="1" name="Plump squid" tooltipDescription="Speed 3% y/y increase" />
+	<key id="90000215" level="1" name="Brave Starter potion" tooltipDescription="STR, DEX, INT, LUK 7 Increases the" />
+	<key id="90000216" level="1" name="Foot quick Starter potion" tooltipDescription="Speed 15% y/y increase" />
+	<key id="90000233" level="1" name="Warrior potion" tooltipDescription="Physical damage 3% y/y increase" />
+	<key id="90000234" level="1" name="The wizard&#8217;s potion" tooltipDescription="Magic damage 3% y/y increase" />
+	<key id="90000235" level="1" name="Health Potion" tooltipDescription="Max HP 5% Increases the" />
+	<key id="90000236" level="1" name="Defense potion" tooltipDescription="Def 3% y/y increase" />
+	<key id="90000239" level="1" name="100The blessings of the day" tooltipDescription="STR 7 Increases the\nINT 7 Increases the\nDEX 7 Increases the\nLUK 7 Increases the" />
+	<key id="90000240" level="1" name="Souvenir effect" tooltipDescription="4 increase" />
+	<key id="90000241" level="1" name="Souvenir effect" tooltipDescription="Evasion 4 increase" />
+	<key id="90000242" level="1" name="Souvenir effect" tooltipDescription="Physical defense and penetrating 4.3% y/y increase" />
+	<key id="90000243" level="1" name="Souvenir effect" tooltipDescription="Penetrating a 4.3% increase in magical defense" />
+	<key id="90000244" level="1" name="Color by the foot" tooltipDescription="Sweet and sour taste, size increases" />
+	<key id="90000246" level="1" name="Pumpkin candy" tooltipDescription="Once every second HP 150 Recovery" />
+	<key id="90000249" level="1" name="Megan cow detection eyedrops" tooltipDescription="Megan acquired a 20% increase or decrease the amount of soda" />
+	<key id="90000250" level="1" name="Excellent experience 2 x coupons" tooltipDescription="Monster Hunt:, experience acquired, the amount increased 2 times" />
+	<key id="90000252" level="1" name="Souvenir effect" tooltipDescription="Increase the dark stream, evading 20" />
+	<key id="90000253" level="1" name="Fairy springs" tooltipDescription="Evasion 1000 increases, $map:02000350$Only applying effects to" />
+	<key id="90000254" level="1" name="Fairy&#8217;s tears" tooltipDescription="Defense power increase, 1000 $map:02000350$Only applying effects to" />
+	<key id="90000262" level="1" name="Earthworm bait" tooltipDescription="Normal, rare fish fishing odds 10% y/y increase" />
+	<key id="90000263" level="1" name="Fresh bait" tooltipDescription="Normal, rare, elite 10% increase in the chances of successful fish fishing" />
+	<key id="90000264" level="1" name="Brilliant bait" tooltipDescription="Normal, rare, elite fish fishing a 20% increase your chances of success" />
+	<key id="90000265" level="1" name="Flashing lures" tooltipDescription="All grades of fish fishing 20% increase your chances of success" />
+	<key id="90000266" level="1" name="Tasty bait" tooltipDescription="Elite, increases the probability that the fish is swarming new" />
+	<key id="90000267" level="1" name="King worm bait" tooltipDescription="-Increasing the chances of a big fish is swarming, pretend-class" />
+	<key id="90000268" level="1" name="Striped worm" tooltipDescription="To increase the probability of the fish is swarming the prison Al Ricardo" />
+	<key id="90000269" level="1" name="Lanterns bait" tooltipDescription="To increase the probability of the fish is swarming the moonlit sea captain&#8217;s fortress" />
+	<key id="90000270" level="1" name="Loosen the worm bait" tooltipDescription="To increase the probability of the fish is swarming of lava" />
+	<key id="90000271" level="1" name="Devil spider" tooltipDescription="To increase the probability of the fish is swarming the damned" />
+	<key id="90000273" level="1" name="Christmas candy cane" tooltipDescription="Once every second HP 150 Recovery" />
+	<key id="90001001" level="1" name="Tri at speed 5% y/y increase" tooltipDescription="Tri at speed 5% y/y increase" />
+	<key id="90001002" level="1" name="The willingness of the struggle" tooltipDescription="HP In a battle between the players, increasing stiffness immune\nPvP The effects of calibration of equipment at which Chan Tran" />
+	<key id="90001005" level="1" name="1Times" tooltipDescription="1Times" />
+	<key id="90001006" level="1" name="2Times" tooltipDescription="2Times" />
+	<key id="90001007" level="1" name="The willingness of the struggle" tooltipDescription="HP In a battle between the players, increasing stiffness immune\nPvP The effects of calibration of equipment at which Chan Tran" />
+	<key id="90001008" level="1" name="The willingness of the struggle" tooltipDescription="HP In a battle between the players, increasing stiffness immune\nPvP The effects of calibration of equipment at which Chan Tran" />
+	<key id="90001009" level="1" name="Rage mode" tooltipDescription="Physical damage, spell damage increased by 50%" />
+	<key id="90002101" level="1" name="&lt;FONT color=&apos;#ff8ae5&apos;&gt;Attack an enemy with a certain probability the plague infection&lt;/FONT&gt;" />
+	<key id="90002201" level="1" name="&lt;FONT color=&apos;#ff8ae5&apos;&gt;Attack: reduces an enemy&#8217;s moving speed, damage to a certain probability&lt;/FONT&gt;" />
+	<key id="90002202" level="1" name="Foot lock horns" tooltipDescription="10% movement speed, physical/Magic damage reduced by 5%" />
+	<key id="90002301" level="1" name="&lt;FONT color=&apos;#ff8ae5&apos;&gt;Attack: constant probability HP Recovery&lt;/FONT&gt;" />
+	<key id="90002901" level="1" name="&lt;FONT color=&apos;#ff8ae5&apos;&gt;The enemy shot: increases the chance to schedule physical resistance&lt;/FONT&gt;" />
+	<key id="90002902" level="1" name="Now the visor" tooltipDescription="Physical def 4% y/y increase" />
+	<key id="90030521" level="1" name="The odds of hitting at their regular HPReferred to as per absorb" />
+	<key id="90030531" level="1" name="The odds of hitting at their regular HPReferred to as per absorb" />
+	<key id="90030541" level="1" name="The odds of hitting at their regular HPReferred to as per absorb" />
+	<key id="90030551" level="1" name="STR, DEX, INT, LUK 25% Reduction" />
+	<key id="90030561" level="1" name="STR,DEX, INT, LUK 50% Reduction" />
+	<key id="90030571" level="1" name="With a chance at hitting the Schedule 10 seconds to increase all damage 20" />
+	<key id="90030572" level="1" name="The horns of the cart" tooltipDescription="Physics, magic damage increases 20" />
+	<key id="90030581" level="1" name="Shot during 3 seconds as the probability increases to 15% move speed" />
+	<key id="90030582" level="1" name="Cart of wings" tooltipDescription="Speed 15% y/y increase" />
+	<key id="90050001" level="1" name="Batting: 8.0% chance to add flame to damage (PvP : Effects of the opposition)" />
+	<key id="90050011" level="1" name="Batting: 8.0% chance to add a chill to the damage (PvP : Effects of the opposition)" />
+	<key id="90050021" level="1" name="Batting: 8.0% chance to add darkness damage (PvP : Effects of the opposition)" />
+	<key id="90050031" level="1" name="Batting: 8.0% chance to add to the damage (blitzPvP : Effects of the opposition)" />
+	<key id="90050041" level="1" name="Added by divine blow: 8.0% probability of damage (PvP : Effects of the opposition)" />
+	<key id="90050051" level="1" name="Batting: 8.0% chance poison damage (added asPvP : Effects of the opposition)" />
+	<key id="90050061" level="1" name="Batting: 8.0% chance to add darkness damage (PvP : Effects of the opposition)" />
+	<key id="90050071" level="1" name="Batting: 8.0% chance to add a chill to the damage (PvP : Effects of the opposition)" />
+	<key id="90100001" level="1" name="20% chance to hit three seconds the Vampire" tooltipDescription="20% chance to hit three seconds the Vampire" />
+	<key id="90100002" level="1" name="Vampire" tooltipDescription="Hitting an enemy heal 30% to vampirism." />
+	<key id="90100011" level="1" name="20% chance to hit STR Increases the" tooltipDescription="20% chance to hit STR Increases the" />
+	<key id="90100012" level="1" name="STR Increases the" tooltipDescription="STR 30% Increases the" />
+	<key id="90300001" level="1" name="Batting: 20% chance to burn-induced" tooltipDescription="Batting: 20% chance to burn-induced" />
+	<key id="90300002" level="1" name="Burns" tooltipDescription="Fear of the unknown for as much as 50% burn effect" />
+	<key id="90300011" level="1" name="20% chance to hit INT Increases the" tooltipDescription="20% chance to hit INT Increases the" />
+	<key id="90300012" level="1" name="INT Increases the" tooltipDescription="INT 30% Increases the" />
+	<key id="90400001" level="1" name="+ 10% chance to hit causes freezes" tooltipDescription="+ 10% chance to hit causes freezes" />
+	<key id="90400002" level="1" name="Ice lodge" tooltipDescription="3Seconds of freezing non stick" />
+	<key id="90400011" level="1" name="To increase the probability of 20% chance to critical hit" tooltipDescription="To increase the probability of 20% chance to critical hit" />
+	<key id="90400012" level="1" name="To increase the probability of critical" tooltipDescription="The critical probability 100% y/y increase" />
+	<key id="90500001" level="1" name="Strike: 25% chance bleeding induced by the" tooltipDescription="Strike: 25% chance bleeding induced by the" />
+	<key id="90500002" level="1" name="Bleeding" tooltipDescription="20% as long as the bleeding effect" />
+	<key id="90500011" level="1" name="Batting: 20% chance to increase attack speed with" tooltipDescription="Batting: 20% chance to increase attack speed with" />
+	<key id="90500012" level="1" name="Increases the attack speed" tooltipDescription="Increase attack speed by 100% stats" />
+	<key id="90800001" level="1" name="Batting: 20% chance of causing addiction to" tooltipDescription="Batting: 20% chance of causing addiction to" />
+	<key id="90800002" level="1" name="Addiction" tooltipDescription="20% as long as the poisoning effects" />
+	<key id="90800011" level="1" name="+ 10% chance to hit and move speed increase" tooltipDescription="+ 10% chance to hit and move speed increase" />
+	<key id="90800012" level="1" name="Movement speed increase" tooltipDescription="Speed 300% increase in stats" />
+	<key id="91000001" level="1" name="At the counter SP 3 Recovery" />
+	<key id="91000011" level="1" name="At the counter SP 3 Recovery" />
+	<key id="91000021" level="1" name="Light Warrior&#8217;s spirit in every second of the State HP 1.0% Recovery" />
+	<key id="91000041" level="1" name="Holly exploit I hit: 7.0% extra damage" />
+	<key id="91000051" level="1" name="Holly exploit I hit: 7.0% extra damage" />
+	<key id="91000061" level="1" name="Screw drive shots hit the target to 1.2 seconds stun effects" />
+	<key id="91000062" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="91000071" level="1" name="Booby trap hit the target to 1.5 seconds stun effects" />
+	<key id="91000072" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="91000091" level="1" name="Alter ego:Shadow hit target hits the Web, evading 6 reduction" />
+	<key id="99900041" level="1" name="Dirt" tooltipDescription="Garbage pollutes a body built to write upside down\n70% reduction in movement speed" />
+	<key id="99900051" level="1" name="Gas poisoning" tooltipDescription="Lost the spirit to the toxic fumes\nActing stunned wonderment" />
+	<key id="99900061" level="1" name="Waste poisoning" tooltipDescription="Have been exposed to hazardous waste\nPoison damage each second" />
+	<key id="99900071" level="1" name="Burns" tooltipDescription="The sacred flame of the whole body and forwards\nEvery second flame damage" />
+	<key id="99900131" level="1" name="Eggs covered in" tooltipDescription="Whole body became dirty with eggs\n30% reduction in hit" />
+	<key id="99900201" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment\nEvery second flame damage" />
+	<key id="99900211" level="1" name="Dirt" tooltipDescription="The smelly substance buried the body\n70% reduction in movement speed" />
+	<key id="99900221" level="1" name="Dirt" tooltipDescription="The smelly substance buried the body\n70% reduction in movement speed" />
+	<key id="99900231" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="90000237" level="1" name="Voice modulation" tooltipDescription="Helium gas to hold your voice has changed." />
+	<key id="99900241" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="99900251" level="1" name="Electric shock" tooltipDescription="Lightning damage on an ongoing basis" />
+	<key id="99900261" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="99900271" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="99900281" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="99900282" level="1" name="Defense power reduction" tooltipDescription="Physical and magic damage damage 50% y/y increase" />
+	<key id="99900502" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="99900512" level="1" name="Petrol Burns" tooltipDescription="Gasoline is buried in your body\nConstantly flame damage" />
+	<key id="99900522" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="99900532" level="1" name="Petrol Burns" tooltipDescription="Gasoline is buried in your body\nConstantly flame damage" />
+	<key id="99900542" level="1" name="Statue" tooltipDescription="I feel the cold air seeped into the skin\n70% reduction in movement speed\nFrost damage on an ongoing basis" />
+	<key id="99900552" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="99900562" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="99900922" level="1" name="Burns" tooltipDescription="Def 30% reduced\nEvery second flame damage" />
+	<key id="100000001" level="1" name="The rest of the soul" tooltipDescription="A monument to the power of Chi Wu alone,\nI&#8217;ve exhausted all broken up\nElan will need time of rest for recovery" />
+	<key id="100000002" level="1" name="Velma&#8217;s judgment" tooltipDescription="Bell received a punishment of the referee.\nThe acts related to the community for a period of time is limited.\n- All chat\n- Board registration\n- UGC Item authoring\n- UGC Items worn\n- Construction posted the item and replacement\n- Registered items in the designer&#8217;s market\n- Profile image change\n- Guild mark change\n- Character name change\n- Send a letter\n- Party recruitment applications written or and party registration\n&lt;font color=&apos;#00aaef&apos;&gt;However, Ricardo went to jail when the weeds made in-house reflection \nYou can reduce the sentence.&lt;/font&gt;" />
+	<key id="100000003" level="1" name="The wounded soul" tooltipDescription="Nany left a deep wound, kicked off the monument.\nWounds heal before another collapsed when steel monument \nRug." />
+	<key id="100000004" level="1" name="The blessing of revival" tooltipDescription="Does the damage until fall she lighten up" />
+	<key id="100000005" level="1" name="Coming out of the break in space" tooltipDescription="Space is emerging amongst\nBody and spirit until we fully drown\nThe damage it does to" />
+	<key id="100000006" name="PCAccess to the room effect" tooltipDescription="Monster Hunt:, experience and obtain 20% of the cows in Medan\nPhysical attack power and spell damage 3%, HP 100 Increases the\nStat buff is PVPDoes not apply." />
+	<key id="100000007" name="Battlefield calling" tooltipDescription="Battlefield called recruits. \nWhen you apply for the membership holder of sidance with other battlefield identification, recruits" />
+	<key id="100000008" level="1" name="Velma&#8217;s warning" tooltipDescription="Velma&#8217;s warning.\nThe acts related to the community for a period of time is limited.\n- Board registration\n- UGC Item authoring\n- UGC Items worn\n- Construction posted the item and replacement\n- Registered items in the designer&#8217;s market\n- Profile image change\n- Guild mark change\n- Character name change\n- Send a letter\n&lt;font color=&apos;#00aaef&apos;&gt;However, Ricardo went to jail when the weeds made in-house reflection \nYou can reduce the sentence.&lt;/font&gt;" />
+	<key id="100000009" name="Growing growing buff" tooltipDescription="Monster hunting and quest completion, experience acquired 10% extra" />
+</ms2>

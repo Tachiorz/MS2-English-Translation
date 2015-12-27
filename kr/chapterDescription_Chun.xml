@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
+	<chapter id="5000" name="A source of infinite power" isTutorial="" regionID="" />
+	<chapter id="5001" name="A gathering place for knowledge" isTutorial="" regionID="" />
+	<chapter id="5002" name="Information on buying and selling at the top" isTutorial="" regionID="" />
+	<chapter id="5003" name="Patience and perseverance to take" isTutorial="" regionID="" />
+	<chapter id="5004" name="Mentor and farewell" isTutorial="" regionID="" />
+	<chapter id="5005" name="The heritage of ancestors that comes" isTutorial="" regionID="" />
+	<chapter id="5006" name="Teacher&#8217;s news" isTutorial="" regionID="" />
+	<chapter id="5007" name="Teacher&#8217;s first teaching" isTutorial="" regionID="" />
+	<chapter id="5008" name="The second teaching mentor" isTutorial="" regionID="" />
+</ms2>

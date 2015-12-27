@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ms2>
+	<!-- default=1 : Built-in, reserved : Chat commands -->
+	<!-- SkillIDThe SkillEtcExpressing emotions that you set in the SkillIDAs input. -->
+	 			
+	<key skillID="90200011" default="1" reserved="/ㅎ ㅇ,/Hi/Hai,/Hello"/>
+	<key skillID="90200022" default="1" reserved="/Polite,/The affable personnel,/Back greeting"/>
+	<key skillID="90200001" default="1" reserved="/Furious,/Shoes,/Heat,/Anger,/Sucks"/>
+	<key skillID="90200023" default="1" reserved="/Surprise,/Huck/Hull"/>
+	<key skillID="90200024" default="1" reserved="/Rejection,/OK,/Hate"/>
+	<key skillID="90200003" default="1" reserved="/Pout,/Complaints"/>
+	<key skillID="90200004" default="1" reserved="/Saucy,/Sneaky,/Hihi"/>
+	<key skillID="90200005" default="1" reserved="/Disappointed,/HA,/It&#8217;s the head"/>
+	<key skillID="90200006" default="1" reserved="/OK,/Thinner,/Happy"/>
+	<key skillID="90200031" default="1" reserved="/Black,/Cry,/En en,/A sobbing"/>		
+	<key skillID="90200041" default="1" reserved="/Sitting"/>
+	<key skillID="90200042" default="1" reserved="/Chair sitting"/>	
+
+	<key skillID="90200027" default="0" reserved="/Hand Kiss"/>
+	<key skillID="90200002" default="0" reserved="/Power,/Spirit, /Machine"/>
+	<key skillID="90200007" default="0" reserved="/I don&#8217;t know,/I do not know,/Don&#8217;t know"/>
+	<key skillID="90200008" default="0" reserved="/Proud,/Cool pose/Woven"/>
+	<key skillID="90200009" default="0" reserved="/Frustrated,/No,/Blimey"/>
+	<key skillID="90200017" default="0" reserved="/Farah,/Para para,/Para para dancing"/>	
+	<key skillID="90200030" default="0" reserved="/Sinus,/Booby booby,/Booby booby dance"/>
+	<key skillID="90200029" default="0" reserved="/Tab,/Swing,/Tap dancing"/>
+	<key skillID="90200010" default="0" reserved="/Flowers,/Calyx,/Cute little Chuck"/>
+	<key skillID="90200012" default="0" reserved="/Blah,/Fleer,/Non-thermal,/Kiki"/>	
+	<key skillID="90200014" default="0" reserved="/Hands up,/Kneel"/>
+	<key skillID="90200015" default="0" reserved="/Down,/Down stretch,/Bee clerk"/>
+	<key skillID="90200016" default="0" reserved="/Sleep,/Tired,/Sleep,/Lying down"/>
+	<key skillID="90200018" default="0" reserved="/A bevy of writing,/Herd,/Why"/>
+	<key skillID="90200019" default="0" reserved="/A pair of scissors"/>
+	<key skillID="90200020" default="0" reserved="/Rock"/>
+	<key skillID="90200021" default="0" reserved="/Furoshiki"/>
+	<key skillID="90200025" default="0" reserved="/Provoking,/Lift,/Come and get it"/>
+	<key skillID="90200026" default="0" reserved="/Bah,/Beep,/The Grouch"/>
+	<key skillID="90200013" default="0" reserved="/Dance,/Just dance,/Dance"/>
+	<key skillID="90200028" default="0" reserved="/Side,/Kiss,/Kiss,/Kiss"/>
+	<key skillID="90200043" default="0" reserved="/Ah ha,/Enlightenment,/Blondes"/>
+	<key skillID="90200044" default="0" reserved="/Hmm, /Distressed,/What if"/>	
+	<key skillID="90200045" default="0" reserved="/Hate it,/Annoying"/>	
+	<key skillID="90200046" default="0" reserved="/The flaccid,/Wave,/The flaccid dance"/>
+	<key skillID="90200047" default="0" reserved="/Bang Bang,/Bang,/Bang Bang dance"/>		
+	<key skillID="90200048" default="0" reserved="/Barney,/Bar niwy,/Bar niwy NG dance"/>	
+	<key skillID="90200049" default="0" reserved="/Shuffle,/Shuffle dance"/>	
+	<key skillID="90200050" default="0" reserved="/Point,/Faucets,/Pointe dance"/>
+  <key skillID="90200051" default="0" reserved="/Twitching,/Twitching twitching,/Twitching twitching dance"/>
+
+  <!--	Dynamic action list
+	90200001	Mad
+	90200002	Spirit
+	90200003	Pout
+	90200004	Saucy
+	90200005	A disappointment
+	90200006	OK
+	90200007	I do not know
+	90200008	Proud
+	90200009	Frustrated
+	90200010	Calyx
+	90200011	Hi
+	90200012	Laugh at the
+	90200013	Just dance
+	90200014	Hands up
+	90200015	The get down stay down
+	90200016	Go to sleep
+	90200017	Para para dancing
+	90200018	A bevy of writing
+	90200019	A pair of scissors
+	90200020	Rock
+	90200021	Bo
+	90200022	The affable personnel
+	90200023	Surprise
+	90200024	Rejection
+	90200025	Dorval
+	90200026	Slow load
+	90200027	Hand Kiss
+	90200028	Kiss
+	90200029	Tap dancing
+	90200030	Booby booby dance
+	90200031	To cry
+	90200040	Sitting
+	90200041	Chair sitting
+	-->
+	
+</ms2>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <key id="10" name="Face decorations"/>
+  <key id="11" name="Eye decor"/>
+  <key id="12" name="Earrings"/>
+  <key id="13" name="Cap"/>
+  <key id="14" name="Costumes"/>
+  <key id="15" name="Of the"/>
+  <key id="16" name="Gloves"/>
+  <key id="17" name="Shoes"/>
+  <key id="18" name="Capes"/>
+  <key id="19" name="Necklace"/>
+  <key id="20" name="Ring"/>
+  <key id="21" name="Belt"/>
+  <key id="22" name="Suite"/>
+  
+  
+  <key id="30" name="Right hand blunt" />
+  <key id="31" name="Can a pair of daggers" />
+  <key id="32" name="Right hand long sword" />
+  <key id="33" name="The right hand hole" />
+  <key id="34" name="Awarded to a pair of" />
+  <key id="40" name="Left hand code" />
+  <key id="41" name="Left hand shields" />
+  <key id="50" name="Both lodges sword" />
+  <key id="51" name="Two-handed bows" />
+  <key id="52" name="Two-handed staff" />
+  <key id="53" name="Both Canon" />
+  <key id="54" name="Two-handed blade" />
+ </ms2>
+

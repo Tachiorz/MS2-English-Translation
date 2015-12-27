@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="s_dualwin1" name="{0}De win!!"/>
+	<key id="s_dualwin2" name="{0}De 2 winning streak!!"/>
+	<key id="s_dualwin3" name="{0}By trifecta!!!"/>
+	<key id="s_dualwin4" name="{0}4 submitted by the winning streak!!!"/>
+	<key id="s_dualwin5" name="{0}De 5 WINS!!!!"/>
+	<key id="s_dualwin6" name="{0}De 6 WINS!!!!!"/>
+	<key id="s_dualwin7" name="{0}De 7 WINS!!!!!"/>
+	<key id="s_dualwin8" name="{0}De 8 WINS!!!!!"/>
+	<key id="s_dualwin9" name="{0}It&#8217;s Red duel chapter all defeated."/>
+	<key id="s_dualprepareplayer" name="The duel begins."/>
+	<key id="s_dualstartcombat" name="Prepare the gauntlet"/>
+	<key id="s_dualwinnermessage" name="Congratulations! It has been a winner."/>
+	<key id="s_duallosermessage" name="The next opportunity to challenge!"/>
+	<key id="s_freeforallwin" name="{0}By winning in the mines of shedding."/>
+	<key id="s_guilddualprepare" name="After a while, go to the stadium."/>
+	<key id="s_guilddualstartcombat" name="War begins."/>
+	<key id="s_guildteamnotifycombat" name="A red carpet up the players.\nThis battle is {0} For {0} ."/>
+	<key id="s_guildteamnotifylastcombat" name="A red carpet up the players.\nThe last battle {0} For {0} ."/>
+	<key id="s_guildteamnotifygamestart" name="From now on, Guild Wars."/>
+	<key id="s_guildteamnotifygamestartdetail1" name="War 1vs1, 2vs2, 3vs3 Will be selected randomly during the\n3W the first Guild win."/>
+	<key id="s_guildteamnotifygamestartdetail2" name="Flag in the\nIf you get the red carpet\nYou can participate as a player."/>
+	<key id="s_guildteamnotifygamestartdetail3" name="Those of you who join the red carpet up and horny as a player and\nFor those of you who wish to come down and cheer up."/>
+	<key id="s_guildteamnotifyprepareplayer" name="Soon the player selection begins."/>
+	<key id="s_guildteamnotifypreparearena" name="War."/>
+	<key id="s_guildteamstartcombat" name="To start the game."/>
+	<key id="s_teamnotifygamedetail1" name="Welcome to treasure island of Barvaux."/>
+	<key id="s_teamnotifygamedetail2" name="Treasure Island occupation or\nIf you looted treasure your opponents\nThe score obtained."/>
+	<key id="s_teamnotifygamedetail3" name="There are many points one team wins."/>
+	<key id="s_teamprepare" name="Treasures competition."/>
+</ms2>

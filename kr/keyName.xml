@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <key id="200001" name="The above"/>
+  <key id="200002" name="Below"/>
+  <key id="200003" name="On the left"/>
+  <key id="200004" name="Right"/>
+  
+  <key id="300001" name="Jump"/>
+  <key id="300002" name="Action"/>
+  <key id="300003" name="Picking up"/>
+  <key id="300004" name="Sitting"/>
+  <key id="300005" name="Crawl"/>
+  <key id="300006" name="Running"/>
+  <key id="300007" name="Chat"/>
+  <key id="300008" name="Zoom in"/>
+  <key id="300009" name="Zoom out"/>
+  <key id="300010" name="Walking"/>
+  <key id="300013" name="Construction"/>
+  <key id="300014" name="The following trigger"/>
+  <key id="300015" name="Screenshot"/>
+  <key id="300016" name="Off-machine"/>
+  <key id="300017" name="Fitting the stone 1"/>
+  <key id="300018" name="Fitting the stone 2"/>
+  <key id="300019" name="Fitting stone 3"/>
+  <key id="300020" name="Fitting the stone 4"/>
+  <key id="300021" name="Fitting stone 5"/>  
+  <key id="300022" name="Change the camera angle"/>
+  <key id="300033" name="Basic attack"/>
+  <key id="300034" name="Catching the"/>
+  <key id="300035" name="Return"/>
+  <key id="300036" name="UIHide"/>
+  <key id="300037" name="A whisper"/>
+  <key id="300038" name="Item preview"/>
+  <key id="300039" name="The minimap zoom in"/>
+
+  <key id="400001" name="Belongings"/>
+  <key id="400002" name="Character"/>
+  <key id="400005" name="Skill"/>
+  <key id="400006" name="World map"/>
+  <key id="400007" name="Quest"/>
+  <key id="400008" name="Profile camera"/>
+  <key id="400009" name="Trophy"/>
+  <key id="400010" name="Beauty shop"/>
+  <key id="400011" name="Item editing"/>
+  <key id="400012" name="Community"/>
+  <key id="400013" name="Vote-by-mail"/>
+  <key id="400014" name="Guild"/>
+  <key id="400015" name="Mei views"/>
+  <key id="400016" name="Market"/>
+  <key id="400017" name="The cache shop"/>
+  <key id="400018" name="Find a party"/>
+  <key id="400019" name="Made production situation"/>
+  <key id="400020" name="Personal battle chapter"/>
+ 
+  <key id="500001" name="Quick slot 1"/>
+  <key id="500002" name="Quick slot 2"/>
+  <key id="500003" name="Quick slot 3"/>
+  <key id="500004" name="Quick slot 4"/>
+  <key id="500005" name="Quick slot 5"/>
+  <key id="500006" name="Quick slot 6"/>
+  <key id="500007" name="Quick slot 7"/>
+  <key id="500008" name="Quick slot 8"/>
+  <key id="500009" name="Quick slot 9"/>
+  <key id="500010" name="Quick slot 10"/>
+  <key id="500011" name="Quick slot 11"/>
+  <key id="500012" name="Quick slot 12"/>
+  <key id="500013" name="Quick slot 13"/>
+  <key id="500014" name="Quick slot 14"/>
+  <key id="500015" name="Quick slots 15"/>
+  <key id="500016" name="Quick slot 16"/>
+  <key id="500017" name="Quick slots 17"/>
+  <key id="500018" name="Quick slots 18"/>
+  <key id="500019" name="Quick slot 19"/>
+  <key id="500020" name="Quick slot 20"/>
+  <key id="500021" name="Quick slot 21"/>
+  <key id="500022" name="Quick slot 22"/>
+
+  <key id="600001" name="MODE"/>
+
+ </ms2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+    <key id="unknown" name="Unidentified" />
+    <key id="plant" name="Plant type" />
+    <key id="animal" name="The beast type" />
+    <key id="bug" name="Bug type" />
+    <key id="mystic" name="Shin-Hyung" />
+    <key id="spirit" name="Jinn-type" />
+    <key id="fairy" name="Fairy-type" />
+    <key id="combine" name="Humanoid" />
+    <key id="undead" name="Undead-type" />
+    <key id="devil" name="Demon type" />
+    <key id="machine" name="Machine type" />
+    <key id="creature" name="Type things" />
+</ms2>

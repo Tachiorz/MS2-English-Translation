@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="0831180408000001" npc="Brown mushroom" name="I don&#8217;t want to fight~" />
+	<key id="0831180408000002" npc="Blue mushroom" name="I hate fighting~" />
+	<key id="0831180408000003" npc="Blue Horn mushrooms" name="The fight was even vaguely tired girl~" />
+	<key id="0831180408000004" npc="Horny part" name="Having sooth" />
+	<key id="0831180408000005" npc="Red horny part" name="I am not going to fight~" />
+	<key id="0831180408000006" npc="Emma Xu Ming" name="I wonder what happened?" />
+	<key id="0831180408000007" npc="Funky pigs" name="Hungry, honey ..." />
+	<key id="0831180408000008" npc="Fire bore" name="A little tired, honey ..." />
+	<key id="0831180408000009" npc="Iron hog" name="It is time to wipe the visor, grunt!" />
+	<key id="0831180408000010" npc="Bar key ball" name="Who are you? Who are you?" />
+	<key id="0831180408000011" npc="Donkey ball" name="A truce! A truce!" />
+	<key id="0831180408000012" npc="Bar keys" name="Quack! Quack!" />
+	<key id="0831180408000013" npc="Cerberus" name="Who are you, stupid?" />
+	<key id="0831180408000014" npc="Kane Roth" name="Stashed the treasure without anyone noticing, stupid~" />
+	<key id="0831180408000015" npc="Burke" name="I&#8217;m going to have to take your pick, but the Red herb~" />
+	<key id="0831180408000016" npc="Brown, Burke" name="It is difficult to look at Ms. easily,~" />
+	<key id="0831180408000017" npc="Slime" name="… …" />
+	<key id="0831180408000018" npc="Orange slime" name="… …" />
+	<key id="0831180408000019" npc="Purple slime" name="… …" />
+	<key id="0831180408000020" npc="Pink slime" name="… …" />
+	<key id="0831180408000021" npc="Yes, pen tooth" name="(The flowers do not)" />
+	<key id="0831180408000022" npc="Yes, pen desu" name="(The flowers do not)" />
+	<key id="0831180408000023" npc="Stump" name="The nature conservancy! The nature conservancy!" />
+	<key id="0831180408000024" npc="Dark stump" name="The nature conservancy! The nature conservancy!" />
+	<key id="0831180408000025" npc="X bottom gap" name="Axe ... APA ... " />
+	<key id="0831180408000026" npc="Ellie NOU" name="You heal?" />
+	<key id="0831180408000027" npc="Pure Eli NOU" name="Our fairy ... I don&#8217;t like humans" />
+	<key id="0831180408000028" npc="Pure élan" name="Man, scared~" />
+	<key id="0831180408000029" npc="Élan" name="Man, it&#8217;s not going to believe~" />
+	<key id="0831180408000030" npc="Blanc" name="Man, go away~" />
+	<key id="0831180408000031" npc="Pink élan" name="Man, I leave it alone~" />
+	<key id="0831180408000032" npc="Kerr 7 kids" name="Paris ... I want to eat ... " />
+	<key id="0831180408000033" npc="The evil eye" name="Mosquito ... I want to eat ... " />
+	<key id="0831180408000034" npc="Lava child" name="Roach ... I want to eat ... " />
+	<key id="0831180408000035" npc="Skull Crest Rabbi" name="Kraft non-hot BA ...? That&#8217;s ... It&#8217;s delicious?" />
+	<key id="0831180408000036" npc="Dark Crest Rabbi" name="My House ... Come to play ... " />
+	<key id="0831180408000037" npc="Blue Crest Rabbi" name="In the rain ... Walk forward ..." />
+	<key id="0831180408000038" npc="Blue Ryu HO" name="(Growl~)" />
+	<key id="0831180408000039" npc="Red Ryu HO" name="(La Croix-Leung~)" />
+	<key id="0831180408000040" npc="Tomb Basha Moss" name="This is La pen&#8217;s power!" />
+	<key id="0831180408000041" npc="Rica, Oh" name="Rough! Rough!" />
+	<key id="0831180408000042" npc="Holly Cao" name="Rough! Rough rough!" />
+	<key id="0831180408000043" npc="Plaka" name="Join us rockin&#8217;~" />
+	<key id="0831180408000044" npc="Pohatu Ka" name="Great dance show~" />
+	<key id="0831180408000045" npc="Cleveland Luca" name="Dance like this?" />
+	<key id="0831180408000046" npc="Papa was a key" name="CAW~ We did not see him?" />
+	<key id="0831180408000047" npc="Mama was a key" name="CAW~ Wifey and I&#8217;ll buy a nail on the annoyance~" />
+	<key id="0831180408000048" npc="Unleashed" name="… …" />
+	<key id="0831180408000049" npc="Trickster" name="… …" />
+	<key id="0831180408000050" npc="Cobra" name="(Chiang Kai-shek~ Chiang Kai-shek~)" />
+	<key id="0831180408000051" npc="Trees Mont" name="The number consists of the antidote, the Elves?" />
+	<key id="0831180408000052" npc="Dark Woody" name="I ... Moves ... " />
+	<key id="0831180408000053" npc="The dark is Uday" name="I ... Says ... " />
+	<key id="0831180408000054" npc="Trail wing Ko" name="Going where the glitter?" />
+	<key id="0831180408000055" npc="Trail wing Ka" name="The only thing your neck ... Looking good?" />
+	<key id="0831180408000056" npc="Twinkies" name="Come to an inconspicuous place to treasure this" />
+	<key id="0831180408000057" npc="Trail wing Koo" name="Glitter did not see anything?" />
+	<key id="0831180408000058" npc="Laba bone RAM" name="The mind is not ... The presence of ..." />
+	<key id="0831180408000059" npc="Abandoned BAYAR guardian bottle" name="BAYAR in the mountains ... And leave ... " />
+	<key id="0831180408000060" npc="Eyeball" name="Enjoy! Enjoy!" />
+	<key id="0831180408000061" npc="Gel-lime" name="(Steady Brook steady Brook ...)" />
+	<key id="0831180408000062" npc="Jelly is non-" name="Honey is ours~" />
+	<key id="0831180408000063" npc="Mask blunt" name="These days, the movement is bad enough" />
+	<key id="0831180408000064" npc="Mask blow radar" name="Hmm ... Oil terminal is ...?" />
+	<key id="0831180408000065" npc="Mask Esper" name="The Golden Tower, the better the distance, not Earl Zeng" />
+	<key id="0831180408000066" npc="Mask Stinger" name="If you are a green stuff behind, and take it to the Golden Tower?" />
+	<key id="0831180408000067" npc="Poison Palos" name="This questions~ What the hell is going to end~" />
+	<key id="0831180408000068" npc="Frost Palos" name="Like you guys, I know a ride back?" />
+	<key id="0831180408000069" npc="D. strobe R" name="System malfunction! System malfunction!" />
+	<key id="0831180408000070" npc="Over Roy R" name="System error ... Beep ... " />
+	<key id="0831180408000071" npc="D. strobe B" name="System malfunction! System malfunction!" />
+	<key id="0831180408000072" npc="Over Roy B" name="System error ... Beep ... " />
+	<key id="0831180408000073" npc="D. strobe D" name="System malfunction! System malfunction!" />
+	<key id="0831180408000074" npc="Over Roy D" name="System error ... Beep ... " />
+	<key id="0831180408000075" npc="Rubik&#8217;s" name="(Suzuki Suzuki Rick Rick ...)" />
+	<key id="0831180408000076" npc="Ice Rubik&#8217;s" name="(Suzuki Suzuki Rick Rick ...)" />
+	<key id="0831180408000077" npc="Black Rubik&#8217;s" name="(Suzuki Suzuki Rick Rick ...)" />
+	<key id="0831180408000078" npc="The dark skeleton Rick sword man" name="Dies ... Comfy ... " />
+	<key id="0831180408000079" npc="The dark skeleton Rick Warrior" name="Darkness and shadow ... Not connected ... " />
+	<key id="0831180408000080" npc="The dark skeleton Rick General" name="The dead ... Have to say ... " />
+	<key id="0831180408000081" npc="Mumiy" name="Death is ... It&#8217;s another beginning ... " />
+	<key id="0831180408000082" npc="Little Mumiy" name="Eternal rest ... Want to find ... " />
+	<key id="0831180408000083" npc="Jam stone to go" name="Turtle eggs? That&#8217;s a dodgy~" />
+	<key id="0831180408000084" npc="Ko Ko-Cho-wave more" name="Ko Suzuki o~ … Sorry, noisy?" />
+	<key id="0831180408000085" npc="Chicken chorizo more wave" name="Cackle~ Ko Ko~" />
+	<key id="0831180408000086" npc="Rooster more Chor PA" name="If you&#8217;d found something delicious in the eyes? Huh? Why do that to me?" />
+	<key id="0831180408000087" npc="Ko Ko more features" name="The eggs came out~ Egg~" />
+	<key id="0831180408000088" npc="Getting off Duck Tour" name="These days, it&#8217;s that big of a deal hanging on constipation~ The rabble~" />
+	<key id="0831180408000089" npc="Tour Russia getting the rabble this" name="Why do flies with a twist~ The rabble~" />
+	<key id="0831180408000090" npc="Tour Russia is getting tight" name="Home toilet clogged, feel free to contact, the rabble~" />
+	<key id="0831180408000091" npc="I&#8217;ll spray spray." name="With me ... Let&#8217;s play ... " />
+	<key id="0831180408000092" npc="Plump Retiro" name="Salty salty salty salty la Rajan~" />
+	<key id="0831180408000093" npc="Mist zombie suit" name="The head ... Hurts so bad ... The idea ... Anna ... " />
+	<key id="0831180408000094" npc="Cooley zombie suit" name="Ooh huh huh huh ... The head seems to break ... " />
+	<key id="0831180408000095" npc="Size zombie suit" name="I ... How to ... Beggars ... Week Ah ... " />
+	<key id="0831180408000096" npc="Claw zombies" name="EW ... Body strength ...!" />
+	<key id="0831180408000097" npc="Pipe zombie" name="Ooh Whoa ... Pounds ... " />
+	<key id="0831180408000098" npc="Mushrooms, zombie" name="Able to withstand ... ... " />
+	<key id="0831180408000099" npc="De BRO" name="Crest evil! This force ...! What!" />
+	<key id="0831180408000100" npc="De via" name="Tooth ... La pen to others ...!" />
+	<key id="0831180408000101" npc="Devils prestige" name="Suzuki and on and on and on and on and on and on ... " />
+	<key id="0831180408000102" npc="Evil&#8217;s edge" name="Dream on and on and on and on and on and on ... " />
+	<key id="0831180408000103" npc="White Brook" name="I am the master of the Castle" />
+	<key id="0831180408000104" npc="White Bishop" name="This quaint phenomenon means of God ... " />
+	<key id="0831180408000105" npc="White pawn" name="Rowing" />
+	<key id="0831180408000106" npc="Von writing lyrics" name="Shut the fuck up, the field is here I come" />
+	<key id="0831180408000107" npc="Von Baba or rat" name="Tome~ISO" />
+	<key id="0831180408000108" npc="Writing the rat boom pawn" name="Well, Emma~ There are a ton of delicious food? What&#8217;s more ... Rib eye?" />
+	<key id="0831180408000109" npc="Moon bear" name="Now called for foolish bear Teng ... It all sounded" />
+	<key id="0831180408000110" npc="Indian bear" name="What does guilty of vandalism?" />
+	<key id="0831180408000111" npc="Panda bear" name="My mom was told not to eat" />
+	<key id="0831180408000112" npc="Baby Indian bear" name="Today was a nice cap on the road week" />
+	<key id="0831180408000113" npc="Baby Panda bear" name="This is the cursor to the next martial arts go&#8217;s dream" />
+	<key id="0831180408000114" npc="Prototype droid-D" name="Switch to standby mode" />
+	<key id="0831180408000115" npc="Prototype droid-O" name="Switch to standby mode" />
+	<key id="0831180408000116" npc="Prototype droid-R" name="Switch to standby mode" />
+	<key id="0831180408000117" npc="Neo-Lloyd-D" name="What can I say" />
+	<key id="0831180408000118" npc="Neo-Lloyd-O" name="What can I say" />
+	<key id="0831180408000119" npc="Neo-Lloyd-R" name="What can I say" />
+	<key id="0831180408000120" npc="Zeno Lloyd-D" name="Please consider it down" />
+	<key id="0831180408000121" npc="Zeno Lloyd-O" name="Please consider it down" />
+	<key id="0831180408000122" npc="Zeno Lloyd-R" name="Please consider it down" />
+	<key id="0831180408000123" npc="Frill de" name="Shoe? Shoe? ? Haven&#8217;t looked at?" />
+	<key id="0831180408000124" npc="April rum" name="What the heck? Who is? Why yes?" />
+	<key id="0831180408000125" npc="Junior April de" name="Off no ... Off no ... " />
+	<key id="0831180408000126" npc="Junior April rum" name="Off no ... Off no ... " />
+	<key id="0831180408000127" npc="The flame of the Sala men more" name="La penta! La penta!" />
+	<key id="0831180408000128" npc="Live Earth men more" name="La penta! La penta!" />
+	<key id="0831180408000129" npc="Ernie lobby" name="Those who are not called me the onion Knight" />
+	<key id="0831180408000130" npc="Ernie ring" name="The seeds of the world gave me strength" />
+	<key id="0831180408000131" npc="Forrest rolling river" name="(He is no ... He is no ...)" />
+	<key id="0831180408000132" npc="Magma rolling river" name="(He is no ... He is no ...)" />
+	<key id="0831180408000133" npc="Aqua rolling river" name="(He is no ... He is no ...)" />
+	<key id="0831180408000134" npc="Magma saw River" name="(He is no ... He is no ...)" />
+	<key id="0831180408000135" npc="Deureiko Sentinel" name="We&#8217;ve just got to follow his commands," />
+	<key id="0831180408000136" npc="De Alhama de Aragon rounds bottles" name="What in the world you&#8217;re going back to moreugessgun" />
+	<key id="0831180408000137" npc="Koh Volk" name="Crest heheh ... This is great ... ?" />
+	<key id="0831180408000138" npc="COBOL-Ku" name="Crest heheh ... Do not disturb ... Do" />
+	<key id="0831180408000139" npc="I do military Sentinel" name="Crest ... La Penta ... Now I&#8217;m not supposed to ...!" />
+	<key id="0831180408000140" npc="King block bone RAM Y" name="The familiar ... Power is. .. " />
+	<key id="0831180408000141" npc="King block bone RAM B" name="No wonder ... There is no ..." />
+	<key id="0831180408000142" npc="King block bone RAM O" name="The gap of space ... Look for the ... " />
+	<key id="0831180408000143" npc="Block bone RAM Y" name="We need to go back to the original place. " />
+	<key id="0831180408000144" npc="Block bone RAM B" name="This is a strange land ..." />
+	<key id="0831180408000145" npc="Block bone RAM O" name="At the crossroads of time ... Having lost ... " />
+	<key id="0831180408000146" npc="Rob p on" name="Even the magic, but ... Whilst the human conversation" />
+	<key id="0831180408000147" npc="Junior Pro tooth" name="Humans ... I&#8217;m so not only" />
+	<key id="0831180408000148" npc="Introduction to power only the jaw raw" name="Hard to learn martial arts, ... I&#8217;m going to get revenge! Oh, Ouch!" />
+	<key id="0831180408000149" npc="Only the power of the Chin shu students" name="There is no give on our Chin books" />
+	<key id="0831180408000150" npc="Jaw ticket only Blackwood" name="There you will come to power only the jaw?" />
+	<key id="0831180408000151" npc="Tomboy fair Le" name="Coudray Le Coudray-Le~ By waiting for Prince charming~" />
+	<key id="0831180408000152" npc="Fair-Le-maid" name="What is your dream in Izu was denied! Coudray Le Coudray-Le!" />
+	<key id="0831180408000153" npc="Fair-Le-Butler" name="It comes to my hot tea? Oh, I had come to eat~ Coudray Le Coudray-Le~" />
+	<key id="0831180408000154" npc="Key PAS-Ka" name="The mysterious power of Lee County" />
+	<key id="0831180408000155" npc="Key loca" name="Obviously ... It&#8217;s between their agricultural cult" />
+	<key id="0831180408000156" npc="I PAS Te" name="The mysterious power of Lee County" />
+	<key id="0831180408000157" npc="As for me Te" name="Obviously ... It&#8217;s between their agricultural cult" />
+	<key id="0831180408000158" npc="This PAS-Mu" name="The mysterious power of Lee County" />
+	<key id="0831180408000159" npc="This Mu" name="Obviously ... It&#8217;s between their agricultural cult" />
+	<key id="0831180408000160" npc="Wood sport w" name="I just want to live peacefully with the guys here as well debuting ... " />
+	<key id="0831180408000161" npc="Castello Hill Oh" name="Small mushroom say this map ... Never heard of?" />
+	<key id="0831180408000162" npc="Spokane River Oh" name="Moist and warm ... Here is the paradise bouncers~" />
+	<key id="0831180408000163" npc="Ghouls Twinkies" name="Also, even if this thing ...? There is no such thing" />
+	<key id="0831180408000164" npc="Boyd scored RAM" name="And leave ... " />
+	<key id="0831180408000165" npc="Jelly is non-Woods" name="The sweet smell~ This looks like it is near ... " />
+	<key id="0831180408000166" npc="Sisters niwy" name="La Penta ... We made one!" />
+	<key id="0831180408000167" npc="Rumble in the bin" name="If you&#8217;re relieved in the breath" />
+	<key id="0831180408000168" npc="Rumble in the nuts" name="I&#8217;ll never found ... Black-naped oriole?" />
+	<key id="0831180408000169" npc="Rumble in the shot" name="I ... Do you see?" />
+	<key id="0831180408000170" npc="Skeleton Rick sword man" name="The monument ... Have never been crushed ...?" />
+	<key id="0831180408000171" npc="Rick skeleton Warrior" name="The death of a ... Don&#8217;t be afraid ... " />
+	<key id="0831180408000172" npc="Rick General skeleton" name="Living beings and ... If you believe that ... " />
+	<key id="0831180408000173" npc="Lava tool Lee" name="Even holes tool Lee~" />
+	<key id="0831180408000174" npc="Lava me copper" name="Me me me copper~" />
+	<key id="0831180408000175" npc="The lava edge" name="Fives edge~" />
+	<key id="0831180408000176" npc="Tools RI" name="Even holes tool Lee~" />
+	<key id="0831180408000177" npc="Me copper" name="Me me me copper~" />
+	<key id="0831180408000178" npc="Do copper" name="Fives edge~" />
+	<key id="0831180408000179" npc="Oak Toma machine" name="… … " />
+	<key id="0831180408000180" npc="Cherry Toma machine" name="… … " />
+	<key id="0831180408000181" npc="Panic kid Bunny" name="Sick, sick." />
+	<key id="0831180408000182" npc="Panic for long Bunny" name="I&#8217;ve been in the monument, ... " />
+	<key id="0831180408000183" npc="Panic bear Bunny" name="Have you ever wondered ... Dead ...?" />
+	<key id="0831180408000184" npc="Evil little bunny" name="Hurts so bad ... " />
+	<key id="0831180408000185" npc="Evil for long Bunny" name="I went into a strange gate ... " />
+	<key id="0831180408000186" npc="Evil bear Bunny" name="Now ... Fragile is not a rabbit ...!" />
+	<key id="0831180408000187" npc="Horror kid Bunny" name="Pain is not a thorn ... " />
+	<key id="0831180408000188" npc="Horror vs. long rabbit" name="I have fallen off a cliff, ... " />
+	<key id="0831180408000189" npc="Horror bear Bunny" name="How to ... Thing ...?" />
+	<key id="0831180408000190" npc="Sisters Cobá" name="La pen&#8217;s resonance ... Not even the eternal ..." />
+	<key id="0831180408000191" npc="O to Mons" name="Fairy hate humans? You fucks~" />
+	<key id="0831180408000192" npc="Preto Mont" name="EH? Is this the end of suffering human tradeoff~" />
+	<key id="0831180408000193" npc="COBOL Khan" name="The secret of a steady movement, this is not a solid body" />
+	<key id="0831180408000194" npc="COBOL, Ken" name="Hey Hey, non-key~" />
+	<key id="0831180408000195" npc="Dyer-près-prestige" name="Crest and on and on and on and on and on and on ... " />
+	<key id="0831180408000196" npc="BAYAR&#8217;s patron bottle" name="Nobody BAYAR is in the mountains ... " />
+	<key id="0831180408000197" npc="BAYAR&#8217;s patron bottle" name="Shouldn&#8217;t the ancient treasures of the ride ... " />
+	<key id="0831180408000198" npc="BAYAR&#8217;s patron bottle" name="BAYAR should keep the mountain ... " />
+	<key id="0831180408000199" npc="BAYAR&#8217;s patron bottle" name="This is a sacred mountain [...] " />
+	<key id="0831180408000200" npc="Will cilantro" name="Keug keug keug ... " />
+	<key id="0831180408000201" npc="Four of the pen as a tooth" name="(The flowers do not)" />
+	<key id="0831180408000202" npc="Red-masked sorcerer" name="La Penta has resonance and Jona ...!" />
+	<key id="0831180408000203" npc="Devlin Jr." name="Crest ... This power ... Not withstanding ..." />
+	<key id="0831180408000204" npc="Deborah Kraft, Jr." name="Defend the shadow flame" />
+	<key id="0831180408000205" npc="Deborah Kraft, Jr." name="Crest evil ...! Deborah Krakow&#8217;s ..." />
+	<key id="0916174708000439" npc="Deborah Kraft, Jr." name="Deborah heal back submitted by parties to the Knesset" />
+	<key id="0831180408000206" npc="Black bullfighting" name="La Croix-sur-... " />
+	<key id="0831180408000207" npc="Red-masked sorcerer" name="A bizarre power Toda ... " />
+	<key id="0831180408000208" npc="Devlin Jr." name="Every breath ... Pounds ... " />
+	<key id="0831180408000209" npc="Red-masked sorcerer" name="La pen&#8217;s resonance ...!" />
+	<key id="0831180408000210" npc="Devlin Jr." name="Damn ...! Once out of the water ... " />
+	<key id="0831180408000211" npc="Devlin Jr." name="Ugh ... La pen&#8217;s strength ...!" />
+	<key id="0831180408000212" npc="Devlin Jr." name="Now ... I&#8217;d better vacate!" />
+	<key id="0831180408000213" npc="Dyer-près-prestige" name="The intruder is" />
+	<key id="0831180408000214" npc="Dyer-près-prestige" name="Crest and on and on and on and on and on and on ... " />
+	<key id="0831180408000215" npc="Bodyguards checked" name="What happened?" />
+	<key id="0831180408000216" npc="Bodyguards checked" name="Bring it on!" />
+	<key id="0831180408000217" npc="Bodyguards checked" name="Would you let everyone!" />
+	<key id="0831180408000218" npc="Bodyguards Spearman" name="What happened?" />
+	<key id="0831180408000219" npc="Bodyguards Spearman" name="Even without running scared!" />
+	<key id="0831180408000220" npc="Bodyguards Spearman" name="This Yap!" />
+	<key id="0831180408000221" npc="Bodyguards Spearman" name="I&#8217;d like to get ahead of the former and as soon as possible ..." />
+	<key id="0831180408000222" npc="Bodyguards Spearman" name="When the former could be ...?" />
+	<key id="0831180408000223" npc="Bodyguard archers" name="What happened?" />
+	<key id="0831180408000224" npc="Bodyguard archers" name="Fuckers!" />
+	<key id="0831180408000225" npc="Bodyguard archers" name="Each die is coming?" />
+	<key id="0909165608000435" npc="Came to sorcerer Decree" name="Excellent skills in the County" />
+	<key id="0909165608000436" npc="Came to sorcerer Decree" name="Pretty military" />
+	<key id="0909165608000437" npc="Came to sorcerer Decree" name="Well done, very well done!" />
+	<key id="0909165608000438" npc="Came to sorcerer Decree" name="Going forward, is hoping for more good military" />
+	<key id="0831180408000226" npc="Tristan" name="What&#8217;s going on" />
+	<key id="0831180408000227" npc="Tristan" name="I&#8217;m a little late!" />
+	<key id="0831180408000228" npc="Tristan" name="A bit more endure the embrace!" />
+	<key id="0831180408000229" npc="Tristan" name="Guy falls more and more power!" />
+	<key id="0831180408000230" npc="Tristan" name="All watch!" />
+	<key id="1027205908000440" npc="Marin" name="Uhh ..." />
+	<key id="1027205908000441" npc="Marin" name="Guys be careful!" />
+	<key id="1027205908000442" npc="Marin" name="Ache and hang in there" />
+	<key id="1027205908000443" npc="Marin" name="$npc:11001172$ Gotta get" />
+	<key id="1027205908000444" npc="Marin" name="$MyPCName$It&#8217;s going to keep" />
+	<key id="1027205908000445" npc="Marin" name="$MyPCName$De way!" />
+	<key id="1027205908000446" npc="EZ" name="Uhh ..." />
+	<key id="1027205908000447" npc="EZ" name="Play dead? " />
+	<key id="1027205908000448" npc="EZ" name="Go away!" />
+	<key id="1027205908000449" npc="EZ" name="That&#8217;s sick!" />
+	<key id="1027205908000450" npc="EZ" name="Whoosh whoosh!" />
+	<key id="1027205908000451" npc="EZ" name="Mr. Wu~" />
+	<key id="1027205908000452" npc="Flynn" name="Uhh ..." />
+	<key id="1027205908000453" npc="Flynn" name="Why is this going on that" />
+	<key id="1027205908000454" npc="Flynn" name="What if?" />
+	<key id="1027205908000455" npc="Flynn" name="$npc:11001172$, You okay?" />
+	<key id="1027205908000456" npc="Flynn" name="Risky" />
+	<key id="1027205908000457" npc="Flynn" name="Coming here was not to" />
+	<key id="1027205908000458" npc="Steen" name="Uhh ..." />
+	<key id="1027205908000459" npc="Steen" name="Mom wants to see" />
+	<key id="1027205908000460" npc="Steen" name="Sobbing ... " />
+	<key id="1027205908000461" npc="Steen" name="To en ... " />
+	<key id="1027205908000462" npc="Steen" name="Scared ... " />
+	<key id="1027205908000463" npc="Steen" name="Wanted to go home" />
+	<key id="1027205908000464" npc="Tori" name="Uhh ..." />
+	<key id="1027205908000465" npc="Tori" name="That&#8217;s sick!" />
+	<key id="1027205908000466" npc="Tori" name="Monster hate!" />
+	<key id="1027205908000467" npc="Tori" name="Ugh~" />
+	<key id="1027205908000468" npc="Tori" name="We are crap~" />
+	<key id="1027205908000469" npc="Tori" name="Wailing~ Go away~" />
+	<key id="0831180408000231" npc="Lumina Liberation Army" name="Don&#8217;t panic" />
+	<key id="0831180408000232" npc="Lumina Liberation Army" name="This is when people can&#8217;t get the back off" />
+	<key id="0831180408000233" npc="Lumina Liberation Army" name="All power to my" />
+	<key id="0831180408000234" npc="Lumina Liberation Army" name="Horrible!!! Don&#8217;t let it go!" />
+	<key id="0831180408000235" npc="Lumina Liberation Army" name="Poor residents waiting for us!" />
+	<key id="1211110708000470" npc="Bunny" name="Welcome to Turtle Hawaii~" />
+	<key id="1211110708000471" npc="Bunny" name="A paradise of the ground up just for you!" />
+	<key id="0831180408000236" npc="Stumm p" name="La Penta ... I am aroused awareness of ..." />
+	<key id="0831180408000237" npc="Bully Barajas" name="Come from?" />
+	<key id="0831180408000238" npc="Bully Barajas" name="To heheh heheh~ Are you going to beat!" />
+	<key id="0831180408000239" npc="Bully Barajas" name="How to Cook?" />
+	<key id="0831180408000240" npc="Bully Barajas" name="A long time ago, can&#8217;t forget the memories of that day ... " />
+	<key id="0831180408000241" npc="Nigsi" name="Who cares!" />
+	<key id="0831180408000242" npc="Nigsi" name="Scare without messing with the Dani ...!!" />
+	<key id="0831180408000243" npc="Nigsi" name="... Makes no sense ... " />
+	<key id="0831180408000244" npc="Nigsi" name="Alberto was dead ...? I can&#8217;t believe ..." />
+	<key id="0831180408000245" npc="Effie" name="A who!" />
+	<key id="0831180408000246" npc="Effie" name="It does make a difference?" />
+	<key id="0831180408000247" npc="Effie" name="Die!" />
+	<key id="0831180408000248" npc="Effie" name="I ... What is wrong ... Said ... " />
+	<key id="0831180408000249" npc="Effie" name="By Anna ... It&#8217;s a bit ... Sorry, I&#8217;m thinking." />
+	<key id="0831180408000250" npc="The giant lava kids" name="La Croix-sur-... " />
+	<key id="0831180408000251" npc="Wind psychics la Fang" name="I know how to deal with the power of the wind ceased. What you would do? It&#8217;s a secret~" />
+	<key id="0831180408000252" npc="Wu reus" name="The power of witchcraft and Blackboard ... Great ..." />
+	<key id="0831180408000253" npc="Lever in zombies" name="Ooh Whoa UH UH uh ... The head ... APA ... I ... Who ... " />
+	<key id="0831180408000254" npc="Your party" name="Bungbung this guy ... Eat with a little split~" />
+	<key id="0831180408000255" npc="Your Skype" name="Kernel, Ph.d. ... Can&#8217;t forget the rhymes ... Giggling ..." />
+	<key id="0831180408000256" npc="Your Panda" name="Martial way of distant hum!" />
+	<key id="0831180408000257" npc="Dark lava night" name="(He is no ... He is no Le ...)" />
+	<key id="0831180408000258" npc="Earth lava night" name="(He is no ... He is no Le ...)" />
+	<key id="0831180408000259" npc="Flame of lava night" name="(He is no ... He is no Le ...)" />
+	<key id="0831180408000260" npc="Ice edge sealant" name="Keug keug keug ... " />
+	<key id="0831180408000261" npc="Dark edge sealant" name="Keug keug keug ... " />
+	<key id="0831180408000262" npc="Pekka Ta" name="In the world of the death ... Do you want to know?" />
+	<key id="0831180408000263" npc="Carl Kita" name="In the world of the death ... Do you want to know?" />
+	<key id="0831180408000264" npc="Les-Le-Ta" name="In the world of the death ... Do you want to know?" />
+	<key id="0831180408000265" npc="Agate" name="The flowers have never rots, yeah" />
+	<key id="0831180408000266" npc="Blue agate" name="In this world I don&#8217;t know, there is no yes" />
+	<key id="0831180408000267" npc="Orange agate" name="It&#8217;s already ... 1438 years lived in the County. Winter is when I was to live" />
+	<key id="0831180408000268" npc="Blue Emma sh suit" name="If no tossing the mushrooms" />
+	<key id="0831180408000269" npc="Emma sh suit" name="My House is your House, my house, my house~" />
+	<key id="0831180408000270" npc="Pampers easy Zombie Bots" name="Barnacles wrote man? Bo long saw~" />
+	<key id="0831180408000271" npc="Psychics summoned la Toon" name="Trapped and gave me the power to die ... That&#8217;s who could it be?" />
+	<key id="0831180408000272" npc="Patos" name="Ugh ... Head aches ... I, I ... Who ...? I ... What the hell ...?" />
+	<key id="0831180408000273" npc="King slime" name="Wang are just an example to La" />
+	<key id="0831180408000274" npc="Phantom destroyers" name="Switch to standby mode" />
+	<key id="0831180408000275" npc="Mad Oh yes hot" name="Want to play with me? The day after ... " />
+	<key id="0831180408000276" npc="Mad Oh yes hot" name="Come play with me Oh~" />
+	<key id="0831180408000277" npc="Mad Oh yes hot" name="Why do you torment me?" />
+	<key id="0831180408000278" npc="Mad Oh yes hot" name="No boys ....." />
+	<key id="0831180408000279" npc="Mad Oh yes hot" name="Maggie ..." />
+	<key id="0831180408000280" npc="Franc Quesnay floating" name="Also ... I hate the long cast ... " />
+	<key id="0831180408000281" npc="Hatter" name="Keug keug ... Scared to nourish" />
+	<key id="0831180408000282" npc="The magic rabbit blue" name="The day after ... I&#8217;m not the underdog anymore ...!" />
+	<key id="0831180408000283" npc="Guard Chang Chow" name="Da man" />
+	<key id="0831180408000284" npc="Guard Chang Chow" name="What eoljjeonggeorineun?" />
+	<key id="0831180408000285" npc="Guard Chang Chow" name="If you would like to have the key to direct you away!" />
+	<key id="0831180408000286" npc="Guard Chang Chow" name="The key and what and~ Having a cumbersome" />
+	<key id="0831180408000287" npc="Toto" name="District s. .. Whe?" />
+	<key id="0831180408000288" npc="As" name="Moo-Moos ... Where?" />
+	<key id="0831180408000289" npc="Toto" name="District s. .. Whe?" />
+	<key id="0831180408000290" npc="As" name="Moo-Moos ... Where?" />
+	<key id="0831180408000291" npc="Devlin Warrior" name="Crest EW EW ... This is! It only took la pen&#8217;s power!" />
+	<key id="0831180408000292" npc="" name="The mind is not ... The presence of ..." />
+	<key id="0831180408000293" npc="" name="…?" />
+	<key id="0831180408000294" npc="" name="…?" />
+	<key id="0831180408000295" npc="" name="…?" />
+	<key id="0831180408000296" npc="Forgotten BAYAR" name="BAYAR is not original mind ... I say ...?" />
+	<key id="0831180408000297" npc="Shadow Magic Deborah Crest" name="Chronograph black ...! Actually ...! The power of the shadow is fading ...!" />
+	<key id="0831180408000298" npc="Devlin Chief" name="Crans-oh oh oh ... Commander ... Now I hope to vacate ...!" />
+	<key id="0831180408000299" npc="The alpha turtle" name="The water ... Source of life ... Shouldn&#8217;t tarnish ..." />
+	<key id="0831180408000300" npc="Giant turtle" name="The water ... Source of life ... Shouldn&#8217;t tarnish ..." />
+	<key id="0831180408000301" npc="Griffon" name="The family lived happily ever after when I was with ... Copy the look ... " />
+	<key id="0831180408000302" npc="Griffey, I" name="My al. ..! He stole my eggs, can&#8217;t forgive ..." />
+	<key id="0831180408000303" npc="Horus" name="It is a truce with" />
+	<key id="0831180408000304" npc="Wrath of the bar four mat" name="Who is" />
+	<key id="0831180408000305" npc="Wrath of the bar four mat" name="The forces of darkness as you engulf Zuma!" />
+	<key id="0831180408000306" npc="Wrath of the bar four mat" name="We Brothers give you a ... Vengeance is. .." />
+	<key id="0831180408000307" npc="Wrath of the bar four mat" name="Crans-Ah Ah Ah ... Pounds ..." />
+	<key id="0831180408000308" npc="Chaos bar Po mat" name="Who is" />
+	<key id="0831180408000309" npc="Chaos bar Po mat" name="The forces of darkness as you engulf Zuma!" />
+	<key id="0831180408000310" npc="Chaos bar Po mat" name="We Brothers give you a ... Vengeance is. .." />
+	<key id="0831180408000311" npc="Chaos bar Po mat" name="The power of the shadow ... Weak ...!" />
+	<key id="0831180408000312" npc="Cold blood bar Po mat" name="Who is" />
+	<key id="0831180408000313" npc="Cold blood bar Po mat" name="The forces of darkness as you engulf Zuma!" />
+	<key id="0831180408000314" npc="Cold blood bar Po mat" name="We Brothers give you a ... Vengeance is. .." />
+	<key id="0831180408000315" npc="Cold blood bar Po mat" name="That is, stop ...! Now ... Stop ..." />
+	<key id="0831180408000316" npc="Shu shu and booth" name="Boo boos~ Human being! Human being! Attack~" />
+	<key id="0831180408000317" npc="Shu shu and booth" name="That is, I mean ... What was our plan, part of the booth ...?" />
+	<key id="0831180408000318" npc="Toto and the goose" name="Baked goose~ Human being! Human being! Attack~" />
+	<key id="0831180408000319" npc="Toto and the goose" name="That is, I mean ... What was our plan, the district s. ..?" />
+	<key id="0831180408000320" npc="And as a Moose" name="Moo-Moos~ Human being! Human being! Attack~" />
+	<key id="0831180408000321" npc="And as a Moose" name="That is, I mean ... What was our plan, moose ...?" />
+	<key id="0831180408000322" npc="Mark 52 alpha" name="Mark 52 alpha, power-saving modes ON" />
+	<key id="0831180408000323" npc="Mark 52 beta" name="Mark 52 beta, power-saving modes ON" />
+	<key id="0831180408000324" npc="Mark 52 Omega" name="Mark 52 Omega, power-saving modes ON" />
+	<key id="0831180408000325" npc="Now Combe" name="The day after ... La pen the others ...? Good ... Go through the motions is not ..." />
+	<key id="0831180408000326" npc="BAYAR gatekeeper" name="Long ago the ancients, we made a ..." />
+	<key id="0831180408000327" npc="The last Baja sur" name="BAYAR should finish the job, keeping the mountain ..." />
+	<key id="0831180408000328" npc="Foot rock" name="Ugh ... He ... Stop ...!" />
+	<key id="0831180408000329" npc="Crest wing Ka Le Bon" name="It seems to show a hand!!" />
+	<key id="0831180408000330" npc="Crest wing Ka Le Bon" name="Do not sell this at-a-glance work slaves!!" />
+	<key id="0831180408000331" npc="Crest wing saw Thakur" name="Dark current and future you guys this mine die slaves!!" />
+	<key id="0831180408000332" npc="MAM Sabrina" name="Bella&#8217;s need to die for" />
+	<key id="0831180408000333" npc="REDTeam Cannon" name="… … " />
+	<key id="0831180408000334" npc="BLUETeam Cannon" name="Gives!! Apple!!" />
+	<key id="0831180408000335" npc="" name="Paris ... I want to eat ... " />
+	<key id="0831180408000336" npc="" name="(Steady Brook steady Brook ...)" />
+	<key id="0831180408000337" npc="" name="The power of darkness ... Weakened ..." />
+	<key id="0831180408000338" npc="" name="Man, scared~" />
+	<key id="0831180408000339" npc="" name="EH? Is this the end of suffering human tradeoff~" />
+	<key id="0831180408000340" npc="" name="What&#8217;s going on? What&#8217;s going on?" />
+	<key id="0831180408000341" npc="" name="Even bother district." />
+	<key id="0831180408000342" npc="" name="La Penta ... I am aroused awareness of ..." />
+	<key id="0831180408000343" npc="" name="Da man" />
+	<key id="0831180408000344" npc="" name="Why is it so noisy?" />
+	<key id="0831180408000345" npc="" name="Good words go when?~" />
+	<key id="0831180408000346" npc="" name="Surrender!! Surrender!!" />
+	<key id="0831180408000347" npc="" name="Da man" />
+	<key id="0831180408000348" npc="" name="My brother! What about them?" />
+	<key id="0831180408000349" npc="" name="I expect?" />
+	<key id="0831180408000350" npc="" name="Please take a look at ... Was wrong ..." />
+	<key id="0831180408000351" npc="" name="Da man" />
+	<key id="0831180408000352" npc="" name="My brother! What about them?" />
+	<key id="0831180408000353" npc="" name="I expect?" />
+	<key id="0831180408000354" npc="" name="Please take a look at ... Was wrong ..." />
+	<key id="0831180408000355" npc="" name="Da man" />
+	<key id="0831180408000356" npc="" name="Who are we drooling in the zone" />
+	<key id="0831180408000357" npc="" name="You know it took the wrong" />
+	<key id="0831180408000358" npc="" name="As you&#8217;ll find!" />
+	<key id="0831180408000359" npc="" name="Da man" />
+	<key id="0831180408000360" npc="" name="Ah ... Noisy ..." />
+	<key id="0831180408000361" npc="" name="Good words when turned off" />
+	<key id="0831180408000362" npc="" name="I&#8217;ve been wrong!" />
+	<key id="0831180408000363" npc="" name="Da man" />
+	<key id="0831180408000364" npc="" name="That&#8217;s what this is!" />
+	<key id="0831180408000365" npc="" name="Good words when turned off" />
+	<key id="0831180408000366" npc="" name="I&#8217;ve got!" />
+	<key id="0831180408000367" npc="" name="Da man" />
+	<key id="0831180408000368" npc="" name="Come from? This situations?" />
+	<key id="0831180408000369" npc="" name="How do I burn a la~" />
+	<key id="0831180408000370" npc="" name="Stop the beat! Stop!" />
+	<key id="0831180408000371" npc="" name="Da man" />
+	<key id="0831180408000372" npc="" name="Who&#8217;s going to keep me from the entertainment, too?" />
+	<key id="0831180408000373" npc="" name="The body looks to the pool!" />
+	<key id="0831180408000374" npc="" name="Surrender!" />
+	<key id="0831180408000375" npc="" name="Da man" />
+	<key id="0831180408000376" npc="" name="Why this is drooling" />
+	<key id="0831180408000377" npc="" name="Real quiet was supposed to live ...." />
+	<key id="0831180408000378" npc="" name="I was wrong!" />
+	<key id="0831180408000379" npc="" name="Da man" />
+	<key id="0831180408000380" npc="" name="Olivia is here, how come?" />
+	<key id="0831180408000381" npc="" name="If you did drive me nuts ...!" />
+	<key id="0831180408000382" npc="" name="I did wrong ..." />
+	<key id="0831180408000383" npc="Dark wind spy" name="Da man" />
+	<key id="0831180408000384" npc="Dark wind spy" name="IKE day notice for Dani ..." />
+	<key id="0831180408000385" npc="Dark wind spy" name="Uhh .... Shadow world hail ... " />
+	<key id="0831180408000386" npc="Dark wind spy" name="Nevermind AAH ...! La pen&#8217;s resonance ... Pounds ..." />
+	<key id="0831180408000387" npc="Unleashed" name="… … " />
+	<key id="0831180408000388" npc="Mini-PIM" name="The power of darkness ... Weakened ..." />
+	<key id="0831180408000389" npc="Sorcerer Kadan" name="I Med. .. That is not the fault of the ..." />
+	<key id="0831180408000390" npc="House spider" name="… …" />
+	<key id="0831180408000391" npc="Young pitched to Carr" name="Dance Dance Revolution~!" />
+	<key id="0831180408000392" npc="Monkey" name="Man about! Ggyag!" />
+	<key id="0831180408000393" npc="Monkey" name="Ggyag! Apple Cider! Mine! Ggyag!!" />
+	<key id="0831180408000394" npc="Monkey" name="Apple ggyagggyag!! Marcy fattening!" />
+	<key id="0831180408000395" npc="Monkey" name="Ggyagggyag khak kyag kya! Do not take!!" />
+	<key id="0831180408000396" npc="Monkey" name="Apple ... Just a taste?" />
+	<key id="0831180408000397" npc="Fairy in the rough" name="Zzz ...." />
+	<key id="0831180408000398" npc="Fairy in the rough" name="In this ... Just sleep ... " />
+	<key id="0831180408000399" npc="Fairy in the rough" name="Just go to sleep ..." />
+	<key id="0831180408000400" npc="Fairy in the rough" name="I&#8217;m not in the sleepy ..." />
+	<key id="0831180408000401" npc="Fairy in the rough" name="Wake up sleeping ... Back to save what ..." />
+	<key id="0831180408000402" npc="Fairy in the rough" name="Dream feels like ..." />
+	<key id="0831180408000403" npc="Stone Crest Rabbi" name="It&#8217;s time to go home ..." />
+	<key id="0831180408000404" npc="Agate" name="Oh, and I slept well and returning many times." />
+	<key id="0831180408000405" npc="Agate" name="Huh? What I have been doing~?" />
+	<key id="0831180408000406" npc="Agate" name="Sigh, well~ Sleep." />
+	<key id="0831180408000407" npc="Mask Stinger" name="Dare dabble in the vault without timidity ... " />
+	<key id="0831180408000408" npc="Mask Stinger" name="The thief!" />
+	<key id="0831180408000409" npc="Mask Stinger" name="Ralph&#8217;s safe whisk!!" />
+	<key id="0831180408000410" npc="Foot rock" name="Ugh ... He ... Stop ...!" />
+	<key id="0831180408000411" npc="Emma Xu Ming" name="I wonder what happened?" />
+	<key id="0831180408000412" npc="Yes, pen tooth" name="(The flowers do not.)" />
+	<key id="0831180408000413" npc="X bottom gap" name="Axe ... APA ... " />
+	<key id="0831180408000414" npc="Head skeleton" name="Darkness and shadow ... One of the." />
+	<key id="0831180408000415" npc="Big skull" name="Dies ... I think it did." />
+	<key id="0831180408000416" npc="Cobra" name="(Chiang Kai-shek~ Chiang Kai-shek~)" />
+	<key id="0831180408000417" npc="Apple monkey" name="Gives!! Apple!!" />
+	<key id="0831180408000418" npc="Hunter tool Lee" name="It&#8217;s delicious! … Huh?" />
+	<key id="0831180408000419" npc="Hunter tool Lee" name="What is. .. What&#8217;s this game!" />
+	<key id="0831180408000420" npc="Hunter tool Lee" name="... And par. .." />
+	<key id="0831180408000421" npc="Hunter tool Lee" name="Even holes tool Lee~" />
+	<key id="0831180408000422" npc="Feng Feng bubbling" name="… …" />
+	<key id="0831180408000423" npc="Feng Feng slime" name="… …" />
+	<key id="0831180408000424" npc="Pow Pow purple slime" name="… …" />
+	<key id="0831180408000425" npc="Pampers easy Zombie Bots" name="Barnacles wrote man? Bo long saw~" />
+	<key id="0831180408000426" npc="King slime" name="Wang are just an example to La" />
+	<key id="0831180408000427" npc="Feng Feng bubbling" name="… …" />
+	<key id="0831180408000428" npc="BAYAR&#8217;s patron bottle" name="Sacred mountain ... Must not be corrupted ..." />
+	<key id="0831180408000429" npc="BAYAR&#8217;s patron bottle" name="I only ... The mission was made for ..." />
+	<key id="0831180408000430" npc="The summoned four pen tooth" name="(The flowers do not)" />
+	<key id="0831180408000431" npc="The summoned BAYAR" name="BAYAR mountain ... Should be kept ..." />
+	<key id="0831180408000432" npc="Bar key ball" name="Who are you? Who are you?" />
+	<key id="0831180408000433" npc="Bamboo" name="… …" />
+	<key id="0831180408000434" npc="Rainbow" name="Now we have left a few races ..." />
+</ms2>
