@@ -7,18 +7,18 @@
 	<key id="4" name="[[keyText:ESC]]" voiceID="" />
 	<key id="1010" name="Well, did you hear about his grandfather&#8217;s cabin?" voiceID="ko/Tutorial/1" />
 	<key id="1020" name="Now get out of the cabin, moving to Amherst." voiceID="ko/Tutorial/2" />
-	<key id="1030" name="[[keyDirection:1]] Use the arrow keys to move the Blue Portal." voiceID="ko/Tutorial/3" />
-	<key id="1031" name="Press the two arrow keys at the same time, you can also move diagonally." voiceID="ko/Tutorial/4" />
-	<key id="1040" name="[[icon:portal_arrow]] Go to the Blue Portal" voiceID="" />
-	<key id="1050" name="Let&#8217;s leave out the cabin using the portal." voiceID="ko/Tutorial/5" />
-	<key id="1060" name="Located in the portal [[keyAction:totalAction]] Key presses" voiceID="" />
-	<key id="2020" name="To get to the wood, you must wait for the flower garden Amherst." voiceID="ko/Tutorial/6" />
-	<key id="2021" name="They do not know where to go when the mini map." voiceID="ko/Tutorial/7" />
-	<key id="2022" name="Once the mini map?" voiceID="" />
-	<key id="2030" name="To check the minimap" voiceID="" />
-	<key id="2031" name="Destination\nFluttering flower garden " voiceID="" />
-	<key id="2032" name="Now my location " voiceID="" />
-	<key id="2060" name="Make sure you know where to go?" voiceID="" />
+	<key id="1030" name="[[keyDirection:1]] Use the arrow keys to move to the blue portal." voiceID="ko/Tutorial/3" />
+	<key id="1031" name="Press two arrow keys simultaneously to move diagonally." voiceID="ko/Tutorial/4" />
+	<key id="1040" name="[[icon:portal_arrow]] Move to the blue portal" voiceID="" />
+	<key id="1050" name="Let's move out of the cabin by using the portal." voiceID="ko/Tutorial/5" />
+	<key id="1060" name="While standing in the portal, press [[keyAction:totalAction]]" voiceID="" />
+	<key id="2020" name="To go to Amherst, walk past the Scattered Flower Garden." voiceID="ko/Tutorial/6" />
+	<key id="2021" name="Use the minimap if you don't know where you are." voiceID="ko/Tutorial/7" />
+	<key id="2022" name="Shall we use the minimap?" voiceID="" />
+	<key id="2030" name="Check the minimap" voiceID="" />
+	<key id="2031" name="Destination\nScattered Flower Garden " voiceID="" />
+	<key id="2032" name="Now, my location " voiceID="" />
+	<key id="2060" name="Are you sure you know where to go?" voiceID="" />
 	<key id="2061" name="So you can see where the mini map." voiceID="ko/Tutorial/8" />
 	<key id="2070" name="When you want to see the mini map and greatly [[keyText:Tab]]Press the &lt; enter &gt; key to." voiceID="ko/Tutorial/9" />
 	<key id="2090" name="[[keyText:Tab]]Press the &lt; enter &gt; key to the minimap view larger" voiceID="" />
