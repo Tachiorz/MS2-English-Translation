@@ -44,8 +44,8 @@
    <key id="s_item_invalid_function_item" value="The item is not available."/>
   
    <key id="s_err_job" value="Job-specific."/>
-   <key id="s_err_lack_meso" value="Megan cow." />
-   <key id="s_err_lack_merat" value="Megan Barrett is low." />
+   <key id="s_err_lack_meso" value="Not enough money." />
+   <key id="s_err_lack_merat" value="Merat is low." />
    <key id="s_err_lack_payment_item" value="{0} Items lacking." />
    <key id="s_err_lack_honor_token" value="The lack of a table of Valor." />
    <key id="s_err_lack_karma_token" value="Karma is lacking." />

@@ -151,28 +151,28 @@
   <key id="$s_gameoption_category_optimizer" value="Optimization"/>
   <key id="$s_gameoption_category_language_select" value="Language"/>
   
-  <key id="$s_gameoption_title" value="Preferences"/>
+  <key id="$s_gameoption_title" value="Options"/>
   <key id="$s_gameoption_resolution" value="Resolution"/>
   <key id="$s_gameoption_screenmode" value="Screen mode"/>
-  <key id="$s_gameoption_sm_window" value="Window mode"/>
-  <key id="$s_gameoption_sm_full_screen" value="In full-screen mode"/>
-  <key id="$s_gameoption_sm_full_window" value="Full-window mode"/>  
+  <key id="$s_gameoption_sm_window" value="Windowed"/>
+  <key id="$s_gameoption_sm_full_screen" value="Fullscreen"/>
+  <key id="$s_gameoption_sm_full_window" value="Fullscreen window"/>  
   <key id="$s_gameoption_smoothCamera" 	value="Smooth camera rendering"/>  
   <key id="$s_gameoption_effectStep"		value="Effects quality"/>
   <key id="$s_gameoption_brightness"		value="Screen brightness"/>
   <key id="$s_gameoption_showFrameRate" 	value="FPS Display"/>  
   <key id="$s_gameoption_advance_effect"	value="Advanced screen effect"/>
   <key id="$s_gameoption_max_fov"			value="Set up camera FOV"/>
-  <key id="$s_gameoption_close_all_dlg"		value="ESCTo close all Windows at once"/>
+  <key id="$s_gameoption_close_all_dlg"		value="ESC to close all windows"/>
   <key id="$s_gameoption_auto_desc"			value="Displays a ToolTip when the mouse cursor around Guide"/>
   <key id="$s_gameoption_show_tip_text"		value="The Help Viewer"/>
   <key id="$s_gameoption_show_damagemeter"	value="Damage meter show" />
   <key id="$s_gameoption_show_nametag_mark"	value="Due to Chan Tran mark" />
   <key id="$s_gameoption_set_ui"			value="Interface resizing"/>
-  <key id="$s_gameoption_set_quality"		value="Set up is easy"/>
+  <key id="$s_gameoption_set_quality"		value="Quality"/>
   <key id="$s_gameoption_hdr"				value="HDR"/>
   <key id="$s_gameoption_shimmer"			value="Distort effects"/>
-  <key id="$s_gameoption_vsync"				value="Vertical synchronization (VSync)"/>
+  <key id="$s_gameoption_vsync"				value="VSync"/>
   <key id="$s_gameoption_boss_notify_0"		value="Notify only a similar level or quest objectives"/>
   <key id="$s_gameoption_boss_notify_1"		value="The quest goal notification"/>
   <key id="$s_gameoption_boss_notify_2"		value="Disabled"/>
@@ -180,12 +180,12 @@
   <key id="$s_gameoption_shadow"			value="Real-time shadow"/>
   <key id="$s_gameoption_multisampling"		value="Multisampling"/>
   <key id="$s_gameoption_shadow_none"		value="No shadows"/>
-  <key id="$s_gameoption_shadow_simple"		value="Displays only a subset of"/>
-  <key id="$s_gameoption_shadow_realtime"	value="Real-time shadow"/>
-  <key id="$s_gameoption_device"			value="Graphics card"/>
-  <key id="$s_gameoption_multisampling_0x"	value="0x To soften the outline cleanup"/>
-  <key id="$s_gameoption_multisampling_2x"	value="2x To soften the outline cleanup"/>
-  <key id="$s_gameoption_multisampling_4x"	value="4x To soften the outline cleanup"/>
+  <key id="$s_gameoption_shadow_simple"		value="Simple shadows"/>
+  <key id="$s_gameoption_shadow_realtime"	value="Real-time shadows"/>
+  <key id="$s_gameoption_device"			value="Video-card"/>
+  <key id="$s_gameoption_multisampling_0x"	value="0x multisampling"/>
+  <key id="$s_gameoption_multisampling_2x"	value="2x multisampling"/>
+  <key id="$s_gameoption_multisampling_4x"	value="4x multisampling"/>
   <key id="$s_gameoption_language_select"	value="Language"/>
   <key id="$s_gameoption_language_select_kr"	value="KR"/>
   <key id="$s_gameoption_language_select_jp"	value="JP"/>
@@ -386,31 +386,31 @@
   <key id="$s_charcreateselect_btn_prev" value="Back"/>
   
   <!--characterCreate-->
-  <key id="$s_charcreate_look" value="Looks decorating ideas"/>
-  <key id="$s_charcreate_equip" value="Decorating equipment"/>
-  <key id="$s_charcreate_create" value="Making"/>
-  <key id="$s_charcreate_customize" value="Character adornment"/>
-  <key id="$s_charcreate_description" value="Details can be set"/>
-  <key id="$s_charcreate_input_name" value="Please enter the name of the."/>
-  <key id="$s_charcreate_male" value="Men's"/>
-  <key id="$s_charcreate_female" value="Women's"/>
+  <key id="$s_charcreate_look" value="Looks"/>
+  <key id="$s_charcreate_equip" value="Equipment"/>
+  <key id="$s_charcreate_create" value="Create"/>
+  <key id="$s_charcreate_customize" value="Character customization"/>
+  <key id="$s_charcreate_description" value="Description"/>
+  <key id="$s_charcreate_input_name" value="Please enter the name"/>
+  <key id="$s_charcreate_male" value="Male"/>
+  <key id="$s_charcreate_female" value="Female"/>
   <key id="$s_charcreate_category_hair" value="Hair"/>
   <key id="$s_charcreate_category_face" value="Face"/>
   <key id="$s_charcreate_category_makeup" value="Makeup"/>
   <key id="$s_charcreate_category_skin" value="Skin"/>
-  <key id="$s_charcreate_category_clothes" value="Costumes"/>
-  <key id="$s_charcreate_category_pants" value="Of the"/>
+  <key id="$s_charcreate_category_clothes" value="Clothes"/>
+  <key id="$s_charcreate_category_pants" value="Pants"/>
   <key id="$s_charcreate_category_shoes" value="Shoes"/>
-  <key id="$s_charcreate_random_select" value="Random selection"/>
-  <key id="$s_charcreate_select_char" value="Select the characters"/>
+  <key id="$s_charcreate_random_select" value="Random"/>
+  <key id="$s_charcreate_select_char" value="Select character"/>
   
   <key id="$s_charcreate_size" value="Size"/>
   <key id="$s_charcreate_length" value="Length"/>
   <key id="$s_charcreate_front_hair" value="Bangs"/>
-  <key id="$s_charcreate_back_hair" value="The rear head"/>
+  <key id="$s_charcreate_back_hair" value="Back hair"/>
   <key id="$s_charcreate_position" value="Location"/>
   <key id="$s_charcreate_degree" value="Angle"/>
-  <key id="$s_charcreate_btn_custom" value="User settings"/>
+  <key id="$s_charcreate_btn_custom" value="Custom"/>
   <key id="$s_charcreate_btn_guide" value="Guide"/>
   
   <!--camera edit-->
@@ -422,11 +422,11 @@
 	
   <!--worldmap-->
   <key id="$s_worldmap_southperry"	value="Southperry"/>
-  <key id="$s_worldmap_lith" 		    value="Reese havens"/>
-  <key id="$s_worldmap_henesys" 	  value="Re your sys"/>
-  <key id="$s_worldmap_ellinia" 	  value="Ellie in Chania"/>
-  <key id="$s_worldmap_perion" 		  value="Hyperion"/>
-  <key id="$s_worldmap_kerningcity" value="Kerning city"/>
+  <key id="$s_worldmap_lith" 		    value="Lith"/>
+  <key id="$s_worldmap_henesys" 	  value="Henesys"/>
+  <key id="$s_worldmap_ellinia" 	  value="Ellinia"/>
+  <key id="$s_worldmap_perion" 		  value="Perion"/>
+  <key id="$s_worldmap_kerningcity" value="Kerning City"/>
   <key id="$s_worldmap_dropdown_default" value="World map"/>
   <key id="$s_worldmap_dropdown_statistics" value="Statistics"/>
   <key id="$s_worldmap_dropdown_normalworld" value="Maple world"/>
@@ -654,7 +654,7 @@
   
   <!--system menu-->
   <key id="$s_systemmenu_dragbar" value="Game menu"/>
-  <key id="$s_systemmenu_option" value="Preferences"/>
+  <key id="$s_systemmenu_option" value="Options"/>
   <key id="$s_systemmenu_character" value="Character select"/>
   <key id="$s_systemmenu_channel" value="Channel select"/>
   <key id="$s_systemmenu_exit" value="Exit"/>
@@ -970,7 +970,7 @@
   <key id="$s_serverlist_state_full" value="HOT"/>
   <key id="$s_serverlist_state_check" value="Server maintenance"/>	
   <key id="$s_serverlist_exit" value="Exit"/>
-  <key id="$s_serverlist_option" value="Preferences"/>
+  <key id="$s_serverlist_option" value="Options"/>
   <key id="$s_serverlist_prev" value="Back"/>
 
   <!-- skillbook -->
