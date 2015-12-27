@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ms2>
 	<!--Basic functions-->
-	<key id="100" name="Character information"/>
-	<key id="101" name="A whisper"/>
-	<key id="102" name="Character information" />
+	<key id="100" name="Character Information"/>
+	<key id="101" name="Whisper"/>
+	<key id="102" name="Character Information" />
 	
 	<!--Party features-->
-    <key id="200" name="Party opt-out"/>
-    <key id="201" name="Party invites"/>
-    <key id="202" name="The party expelled"/>
-	<key id="203" name="Party Chief delegate"/>
-    <key id="204" name="Party invites"/>
+    <key id="200" name="Leave Party"/>
+    <key id="201" name="Party Invite"/>
+    <key id="202" name="Party Expel"/>
+	<key id="203" name="Make Party Leader"/>
+    <key id="204" name="Party Invite"/>
 
 	<!--Friend function-->
-    <key id="300" name="Termination of your friends"/>
-	<key id="301" name="To a friend"/>
+    <key id="300" name="Delete Friend"/>
+	<key id="301" name="Befriend"/>
 	
 	<!--Shutdown feature-->
-	<key id="400" name="To block"/>
-	<key id="401" name="Termination block"/>
-	<key id="402" name="Block notes editing"/>
+	<key id="400" name="Block"/>
+	<key id="401" name="Unblock"/>
+	<key id="402" name="Block Note Editing"/>
 	
 	<!--Other-->
-	<key id="500" name="To trade"/>
+	<key id="500" name="Trade"/>
 	<key id="501" name="Report" />
-	<key id="502" name="Group dialog"/>
-  <key id="503" name="Visit the House"/>
+	<key id="502" name="Group Dialogue"/>
+  <key id="503" name="Visit House"/>
 </ms2> 
