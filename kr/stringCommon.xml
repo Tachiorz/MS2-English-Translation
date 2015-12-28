@@ -31,10 +31,10 @@
 
    <!-- [Items related] -->
    <key id="s_err_inventory" value="Please empty your inventory."/>
-   <key id="s_err_inventory_tab_full" value="Belongings [{0}] Tab is empty."/>
+   <key id="s_err_inventory_tab_full" value="The [{0}] tab in your inventory is full."/>
    <key id="s_err_dropitem_pickfail_ownership" value="It&#8217;s not my items."/>
    <key id="s_msg_item_upgrade_disabled" value="There is one item which Chan it is impossible."/>
-   <key id="s_msg_item_use_only_shadowcontinent" value="Shadow can only be used in the world."/>
+   <key id="s_msg_item_use_only_shadowcontinent" value="Can only be used in Shadow World."/>
    <key id="s_err_gender" value="You cannot use a different gender."/>
    <key id="s_word_item_notuse" value="Now it is not available."/>
    <key id="s_word_item_notuse_hpfull" value="Your HP is already full."/>
@@ -46,7 +46,7 @@
    <key id="s_err_job" value="Job-specific."/>
    <key id="s_err_lack_meso" value="Insufficient Meso." />
    <key id="s_err_lack_merat" value="Insufficient Merit." />
-   <key id="s_err_lack_payment_item" value="Insufficient {0} " />
+   <key id="s_err_lack_payment_item" value="Insufficient {0}. " />
    <key id="s_err_lack_honor_token" value="Insufficient Honor Token." />
    <key id="s_err_lack_karma_token" value="Insufficient Karma." />
    <key id="s_err_lack_lu_token" value="Insufficient Lu." />
@@ -67,10 +67,10 @@
    <key id="s_msg_expand_character_slot_complete" value="Character slot has been extended." />
    <key id="s_msg_expand_character_slot_already_maximum" value="No more character slots cannot be extended." />
    
-   <key id="s_err_lack_guild_trophy" value="Guild trophy." />
-   <key id="s_err_lack_achieve" value="[{0}] Must achieve the trophy." />
-   <key id="s_err_lack_championship_grade" value="{0} Rating must be at least." />
-   <key id="s_err_lack_championship_join_count" value="{0}More than once, you should attend." />
+   <key id="s_err_lack_guild_trophy" value="Guild Trophy." />
+   <key id="s_err_lack_achieve" value="You must have the [{0}] trophy achieved." />
+   <key id="s_err_lack_championship_grade" value="Your rank needs to be at least {0}." />
+   <key id="s_err_lack_championship_join_count" value="You need to enter more than {0}." />
    <key id="s_err_cannot_use_by_function_cube_climb" value="{0}Due to the influence of {1} Skill is not available." />
    <key id="s_err_cannot_use_by_function_cube_jump" value="{0}Unable to jump due to the influence of the." />
    <key id="s_err_cannot_use_by_function_cube_skill" value="{0}The influence of the skill is not available." />
@@ -97,45 +97,45 @@
    <key id="s_err_job_inventory_full" value="Please empty {0} slots in your inventory."/>
 
 
-   <!-- [Vote-by-mail] -->
-   <key id="s_mail_send" value="Sent a letter."/>
+   <!-- [Mailbox] -->
+   <key id="s_mail_send" value="The letter was sent."/>
    <key id="s_mail_return" value="The letters bounce."/>
    <key id="s_mail_delete" value="The letter was deleted."/>
-   <key id="s_notify_mail_recieve" value="The letter arrived."/>
-   <key id="s_mail_err_cannot_attach_item" value="Unable to attach to the item."/>
+   <key id="s_notify_mail_recieve" value="You have received a letter."/>
+   <key id="s_mail_err_cannot_attach_item" value="You cannot attach this item."/>
    
-   <key id="s_mail_read_list" value="Are you sure you want to switch to the selected email all read?"/>
+   <key id="s_mail_read_list" value="Are you sure you want to mark all selected mail as read?"/>
    <key id="s_mail_delete_list" value="Are you sure you want to delete all the selected mail?"/>
    <key id="s_mail_receive_list" value="Are you interested in receiving all goods that are attached to the selected mail?"/>
    <key id="s_mail_delete_list_received_mail" value="Attached are you sure you want to delete the mail you have received the goods?"/>
    <key id="s_mail_delete_list_attached_mail" value="Mail in the attached article. Are you sure you want to delete it though?"/>
 
    <!-- [Move] -->
-   <key id="s_change_ch_err_field" value="Unable to move the channel."/>
-   <key id="s_reveal_taxi_station" value="Taxi stop."/>
+   <key id="s_change_ch_err_field" value="You cannot move channels."/>
+   <key id="s_reveal_taxi_station" value="Discovered a taxi."/>
    <key id="s_msg_not_visit" value="Not found yet."/>
    <key id="s_msg_not_visitable" value="Baesgili can not go off."/>
 
    <!-- [Belongings] -->
    <key id="s_inventory_tab_equip" value="Equipment"/>
    <key id="s_inventory_tab_install" value="Construction"/>
-   <key id="s_inventory_tab_etc" value="Other"/>
+   <key id="s_inventory_tab_etc" value="ETC"/>
      <key id="s_inventory_tab_ridee" value="Mount"/>
 
 
 	   <!-- [Skill, fight] -->
 	   <key id="s_err_stat" value="Stat is low."/>
-	   <key id="s_err_target" value="There is no subject."/>
+	   <key id="s_err_target" value="There is no target."/>
 	   <key id="s_skill_err_weapon" value="Listen to the correct weapon."/>
-	   <key id="s_err_lack_hp" value="HPIs lacking."/>
-	   <key id="s_err_lack_sp" value="SPIs lacking."/>
-	   <key id="s_err_lack_ep" value="EPIs lacking."/>
+	   <key id="s_err_lack_hp" value="You don't have enough HP."/>
+	   <key id="s_err_lack_sp" value="You don't have enough SP."/>
+	   <key id="s_err_lack_ep" value="You don't have enough EP."/>
 	   <key id="s_err_unable" value="The monument cannot be done when the hardwood."/>
-	   <key id="s_err_cannot_fly" value="It cannot be used during the battle."/>
+	   <key id="s_err_cannot_fly" value="You cannot use this while in combat."/>
 	   <key id="s_err_cannot_use_here" value="Here you&#8217;ll find is not available."/>
        <key id="s_err_cannot_use_dead" value="When you cannot make use of the monument floors."/>
-       <key id="s_err_cannot_use_cooltime" value="Are not yet available."/>
-	   <key id="s_err_cannot_use_only_shadowworld" value="Shadow can only be used in the world."/>
+       <key id="s_err_cannot_use_cooltime" value="You may not use this yet."/>
+	   <key id="s_err_cannot_use_only_shadowworld" value="Can only be used in Shadow World."/>
 	   <key id="s_err_require_additional_effect" value="Now it is not available."/>
 	   <key id="s_err_got_of_control_unable_potion" value="The monument floors when the potion is not available."/>
 	   <key id="s_err_skill_use_disable" value="Now it&#8217;s impossible to use the skill."/>
@@ -149,12 +149,12 @@
 	   <key id="s_revival_invincible_effect_description" value="Does the damage until fall regains an aura."/>
 
 	   <!-- [ugc] -->
-	   <key id="s_ugc_upload_reserve_ok" value="Booking is complete."/>
+	   <key id="s_ugc_upload_reserve_ok" value="Reservation Completed"/>
 	   <key id="s_ugcmap_cant_guide_build" value="You can do only around my house."/>
 	   <key id="s_ugc_err_craft_mode" value="The construction will not be available."/> <!-- In the code commented out. -->
 	   <key id="s_msg_ugc_cannot_edit" value="Is the file that cannot be edited."/>
 	   <key id="s_ugcmap_no_home" value="Who owns the House. Try to buy my house."/> <!--When there is no real estate owned by the-->
-	   <key id="s_ugcmap_buy_realestate" value="Buy a new House."/>
+	   <key id="s_ugcmap_buy_realestate" value="Buy New House."/>
 	   <key id="s_ugcmap_sell_realestate" value="Real estate was to terminate the contract."/>
 
 
@@ -222,10 +222,10 @@
 
 
   <!--System error-->
-	   <key id="s_ugcmap_db" value="System error"/>
-	   <key id="s_ugcmap_center" value="System error"/>
-	   <key id="s_ugcmap_not_exist_craft_item" value="System error : The item does not exist."/>
-	   <key id="s_ugcmap_null_cube_item_info" value="System error : Construction item information."/>
+	   <key id="s_ugcmap_db" value="System Error"/>
+	   <key id="s_ugcmap_center" value="System Error"/>
+	   <key id="s_ugcmap_not_exist_craft_item" value="System Error : This item does not exist."/>
+	   <key id="s_ugcmap_null_cube_item_info" value="System Error : Construction item information."/>
      <key id="s_ugcmap_retry_later" value="System error : After a moment, please try again"/>
      <key id="s_ugcmap_waiting_for_cube_to_be_replaced" value="Replace a cube. Please try again after a while."/>
 
@@ -330,48 +330,48 @@
  <!-- Chat notification AppendChatMessage The definitive phrases s-->
 
  	  <!-- [The welcome mat] -->
-	  <key id="s_msg_chatting_welcome" value="Welcome to MapleStory 2. Even today, have a nice day~"/>
+	  <key id="s_msg_chatting_welcome" value="Welcome to MapleStory 2. Have a nice day~"/>
 
   <!--Summarizing on listens for changes in the channel-->
-    <key id="s_msg_chatting_changechannel" value="{0}Have access to the channel."/>
+    <key id="s_msg_chatting_changechannel" value="Connected to channel {0}."/>
 
-    <key id="s_msg_chatting_consume_merat" value="{0} Megan Barrett has been consuming."/>
+    <key id="s_msg_chatting_consume_merat" value="You have lost {0} Meso."/>
 
 
   <!-- [Friends] -->
 	  <key id="s_buddy_alert_receive_request" value="You've received a new friend request."/>
 
 	  <!-- [Party] -->
-	  <key id="s_party_leave_me" value="has left the party."/>
+	  <key id="s_party_leave_me" value="You have left the party."/>
 	  <key id="s_party_break" value="The party was disbanded."/>
-	  <key id="s_party_join_me" value="Joined the party."/>
-	  <key id="s_party_expel_me" value="The expulsion from the party."/>
-	  <key id="s_party_join_someone" value="{0} Like to join the party."/>
-	  <key id="s_party_leave_someone" value="{0} By withdrawing the party."/>
-	  <key id="s_party_expel_someone" value="{0} This party was banned from."/>
-	  <key id="s_party_member_login" value="The party won {0} By this juncture."/>
-	  <key id="s_party_member_logout" value="The party won {0} This has ended the connection."/>
-	  <key id="s_party_chief_me" value="From now on the party."/>
-	  <key id="s_party_chief_someone" value="{0} By patijangi."/>
-	  <key id="s_party_member_dead_tomb" value="The party won {0} The monument was laid by." />
-	  <key id="s_party_member_dead_dark_tomb" value="The party won {0} This steel monument was laid." />
-	  <key id="s_party_err_no_party" value="I belong to no party." />
-	  <key id="s_party_check_change_chief" value="It&#8217;s really {0} Dear are you sure that you want to delegate a great party?" />
-	  <key id="s_party_check_expel_member" value="It&#8217;s really {0} Do you want to expel him?" />
-	  <key id="s_party_expel_boss_room" value="Dungeon boss and banish the party rounds during the battle." />
+	  <key id="s_party_join_me" value="You have joined the party."/>
+	  <key id="s_party_expel_me" value="You have been expelled from the party."/>
+	  <key id="s_party_join_someone" value="{0} would like to join your party."/>
+	  <key id="s_party_leave_someone" value="{0} has left the party."/>
+	  <key id="s_party_expel_someone" value="{0} was expelled from the party."/>
+	  <key id="s_party_member_login" value="{0} has logged on."/>
+	  <key id="s_party_member_logout" value="{0} has logged out."/>
+	  <key id="s_party_chief_me" value="You have become the party leader."/>
+	  <key id="s_party_chief_someone" value="{0} has become the party leader."/>
+	  <key id="s_party_member_dead_tomb" value="{0} laid a tombstone." />
+	  <key id="s_party_member_dead_dark_tomb" value="{0} laid a steel tombstone." />
+	  <key id="s_party_err_no_party" value="You are not in a party." />
+	  <key id="s_party_check_change_chief" value="Are you sure you want to make {0} the party leader?" />
+	  <key id="s_party_check_expel_member" value="Are you sure you want to expel {0}?" />
+	  <key id="s_party_expel_boss_room" value="You cannot expel party members during a dungeon or boss fight." />
 	  <key id="s_party_someone_get_high_item" value="{0} NI {1} Obtained." />
-	  <key id="s_party_change_dungeon_level" value="Dungeon difficulty {0}Has been changed to." />
-	  <key id="s_party_auto_join_confirm" value="&lt;FONT color='#FFA200'&gt;[{0}]&lt;/FONT&gt; Are you sure you want to join the party?" />
+	  <key id="s_party_change_dungeon_level" value="The dungeon difficulty has been changed to {0}." />
+	  <key id="s_party_auto_join_confirm" value="&lt;FONT color='#FFA200'&gt;[{0}]&lt;/FONT&gt; Are you sure you want to join this party?" />
 	  
 
 	  <!-- [Guild] -->
-	  <key id="s_guild_err_no_guild" value="I belong to the Guild." />
-	  <key id="s_guild_create" value="{0} The Guild has been created." />
-	  <key id="s_guild_break" value="The Guild is disbanded." />
-	  <key id="s_guild_invite_someone" value="{0} Invited by the Guild." />
+	  <key id="s_guild_err_no_guild" value="You are not in a guild." />
+	  <key id="s_guild_create" value="The {0} guild has been created." />
+	  <key id="s_guild_break" value="The guild was disbanded." />
+	  <key id="s_guild_invite_someone" value="You have invited {0} to the guild." />
 	  <key id="s_guild_invite_me" value="{0} Ay you \n &lt;FONT color='#FFA200'&gt;{1}&lt;/FONT&gt; Was invited to the Guild.\nAre you sure you want to join a Guild?" />
 	  <key id="s_guild_invite_cant_me" value="You cannot invite yourself." />
-	  <key id="s_guild_invite_invalid_charname" value="The name is not valid." />
+	  <key id="s_guild_invite_invalid_charname" value="This name is invalid." />
 	  <key id="s_guild_join" value="&lt;FONT color='#ff8adf'&gt;{0} Sign up for the Guild.&lt;/FONT&gt;" /> <!--Listens for-->
 	  <key id="s_guild_join_reject" value="&lt;FONT color='#ff8adf'&gt;{0} The Guild has declined the invitation.&lt;/FONT&gt;" /> <!--Listens for-->
 	  <key id="s_guild_join_reject_invite" value="&lt;FONT color='#ff8adf'&gt;{0} This Guild has declined the invitation.&lt;/FONT&gt;" /> <!--Listens for-->
@@ -379,20 +379,20 @@
 	  <key id="s_guild_join_reject_logout" value="&lt;FONT color='#ff8adf'&gt;{0} Unable to receive an invitation to the Guild.&lt;/FONT&gt;" /> <!--Listens for-->
 	  <key id="s_guild_leave" value="&lt;FONT color='#ff8adf'&gt;{0} Leave the Guild.&lt;/FONT&gt;" /> <!--Listens for-->
 	  <key id="s_guild_leave_master_cant" value="The Chairman of the Guild the Guild cannot be secession." />
-	  <key id="s_guild_change_notify" value="Guild notice change." />
+	  <key id="s_guild_change_notify" value="The guild notice has been changed." />
 	  <key id="s_guild_notify_leave" value="&lt;FONT color='#ff8adf'&gt;{0} To unsubscribe this submitted by guilds.&lt;/FONT&gt;" /> <!--Listens for-->
-	  <key id="s_guild_change_grade_sucess" value="[{0}] Change the name and authority of the rating." />
-	  <key id="s_guild_grade_default_master" value="Guild chapter" />
-	  <key id="s_guild_grade_default_group1" value="Part of the Guild chapter" />
-	  <key id="s_guild_grade_default_group2" value="Guild" />
-	  <key id="s_guild_grade_default_group3" value="New Guild" />
-	  <key id="s_guild_extend_capacity_success" value="Maximum number is a Guild {0}The name has been changed." />
-	  <key id="s_guild_extend_capacity_err_cannot" value="You cannot change the maximum number of guilds." />
+	  <key id="s_guild_change_grade_sucess" value="Changed the rank name and authority to [{0}]." />
+	  <key id="s_guild_grade_default_master" value="Guild Master" />
+	  <key id="s_guild_grade_default_group1" value="Guild Junior" />
+	  <key id="s_guild_grade_default_group2" value="Guild Member" />
+	  <key id="s_guild_grade_default_group3" value="New Guild Member" />
+	  <key id="s_guild_extend_capacity_success" value="The guild has been successfully expanded to {0}." />
+	  <key id="s_guild_extend_capacity_err_cannot" value="You cannot expand your guild anymore." />
 	  <key id="s_guild_extend_capacity_err_current" value="The Guild was a problem of changing the maximum number." />
 	  <key id="s_guild_search_same_propensity" value="The original and the inclination." />
 	  <key id="s_guild_search_max_join_request" value="You can register up to 10 pieces." />
 	  <key id="s_guild_search_last_request" value="Please wait." />
-	  <key id="s_guild_search_null_join_guild_request" value="The application does not exist." />
+	  <key id="s_guild_search_null_join_guild_request" value="This application doesn't exist." />
 	  <key id="s_guild_notify_change_grade" value="&lt;FONT color='#ff8adf'&gt;{0} Change of Guild rating, and permissions.&lt;/FONT&gt;" /> <!--Listens for-->
 	  <key id="s_guild_notify_accept_invite" value="&lt;FONT color='#ff8adf'&gt;{0} The invitation of the {1} By the Guild to join.&lt;/FONT&gt;" /> <!--Listens for-->
 	  <key id="s_guild_notify_expel_member" value="&lt;FONT color='#ff8adf'&gt;{0} NI {1} Su was expelled from the Guild.&lt;/FONT&gt;" /> <!--Listens for-->
