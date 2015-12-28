@@ -126,41 +126,41 @@
 	<key id="10200221" name="Blood Split" />
 	<key id="10200231" name="Armor Break" />
 	<key id="10200241" name="Crushing" />
-	<key id="10300000" name="Appeared on stage" />
-	<key id="10300001" name="Magic claw" />
-	<key id="10300002" name="Magic claw 2" />
-	<key id="10300011" name="Fire tornado" />
+	<key id="10300000" name="Wizard Enterance" />
+	<key id="10300001" name="Magic Claw" />
+	<key id="10300002" name="Magic Claw 2" />
+	<key id="10300011" name="Fire Tornado" />
 	<key id="10300021" name="Fireball" />
 	<key id="10300022" name="Fireball 2" />
-	<key id="10300023" name="Fireball 3 Ta" />
+	<key id="10300023" name="Fireball 3" />
 	<key id="10300031" name="Chain Lightning" />
-	<key id="10300041" name="Lightning whip" />
+	<key id="10300041" name="Thunder Whip" />
 	<key id="10300051" name="Frost Nova" />
-	<key id="10300052" name="Frost Nova splash" />
+	<key id="10300052" name="Frost Nova Splash" />
 	<key id="10300053" name="Frost Nova EX" />
-	<key id="10300061" name="Energy wave" />
-	<key id="10300071" name="Infiniti" />
-	<key id="10300072" name="Infiniti splash" />
+	<key id="10300061" name="Energy Wave" />
+	<key id="10300071" name="Infinity" />
+	<key id="10300072" name="Infinity Splash" />
 	<key id="10300081" name="Teleport" />
-	<key id="10300091" name="Focus magic-Jin" />
-	<key id="10300092" name="Intensive mabeopjin splash" />
-	<key id="10300101" name="Trinity force" />
-	<key id="10300111" name="The Lords of the flame" />
-	<key id="10300112" name="The Lords of the flame will trigger" />
-	<key id="10300121" name="Lords of lightning" />
-	<key id="10300122" name="Lords of lightning fires" />
-	<key id="10300131" name="Magic armor" />
-	<key id="10300132" name="Magic armor trigger" />
-	<key id="10300141" name="Magic potential" />
-	<key id="10300151" name="The rulers of the chill" />
-	<key id="10300152" name="Reflective of the Lords of the chill" />
-	<key id="10300153" name="Fires when the ruler of the chill" />
-	<key id="10300161" name="Ice strike" />
-	<key id="10300162" name="Ice strike splash" />
-	<key id="10300163" name="Ice strike EX" />
-	<key id="10300171" name="Magical aura" />
-	<key id="10300181" name="Mana drain" />
-	<key id="10300191" name="Staff Master Li" />
+	<key id="10300091" name="Concentration" />
+	<key id="10300092" name="Concentration Splash" />
+	<key id="10300101" name="Trinity Force" />
+	<key id="10300111" name="Flame Lord" />
+	<key id="10300112" name="Flame Lord Activate" />
+	<key id="10300121" name="Lightning Lord" />
+	<key id="10300122" name="Lightning Lord Activate" />
+	<key id="10300131" name="Magic Armor" />
+	<key id="10300132" name="Magic Armor Activate" />
+	<key id="10300141" name="Magic Potential" />
+	<key id="10300151" name="Frost Lord" />
+	<key id="10300152" name="Frost Lord Reflective" />
+	<key id="10300153" name="Frost Lord Activate" />
+	<key id="10300161" name="Ice Strike" />
+	<key id="10300162" name="Ice Strike Splash" />
+	<key id="10300163" name="Ice Strike EX" />
+	<key id="10300171" name="Magical Aura" />
+	<key id="10300181" name="Mana Drain" />
+	<key id="10300191" name="Staff Mastery" />
 	<key id="10400000" name="Frist appeared directed by" />
 	<key id="10400001" name="Heavenly light" />
 	<key id="10400002" name="Heavenly light EX" />
