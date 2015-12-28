@@ -78,7 +78,7 @@
   <key id="$s_talkpanelsetting_item" value="Obtained Item"/>
   <key id="$s_talkpanelsetting_token" value="Obtained Others"/>
 
-  <key id="$s_talkpanelsetting_notify" value="Character & Community Notification Messages"/>
+  <key id="$s_talkpanelsetting_notify" value="Character &amp; Community Notification Messages"/>
   <key id="$s_talkpanelsetting_user" value="Character Notification"/>
   <key id="$s_talkpanelsetting_community" value="Community Notification"/>
   <key id="$s_talkpanelsetting_request" value="Trade Notification"/>
