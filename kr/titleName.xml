@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsing this data used do not directly modify the -->
 <ms2>
-	<key id="0" name="No entitlement" />
-	<key id="10000001" name="Untangle Knight" />
-	<key id="10000002" name="Control Berserker" />
-	<key id="10000003" name="Control Wizard" />
-	<key id="10000004" name="Untangle priest" />
-	<key id="10000005" name="Untangle Ranger" />
-	<key id="10000006" name="Untangle the heavy gunner" />
-	<key id="10000007" name="Untangle Shipman" />
-	<key id="10000008" name="Untangle Assassin" />
+	<key id="0" name="No Title" />
+	<key id="10000001" name="Apprentice Knight" />
+	<key id="10000002" name="Apprentice Berserker" />
+	<key id="10000003" name="Apprentice Wizard" />
+	<key id="10000004" name="Apprentice Priest" />
+	<key id="10000005" name="Apprentice Ranger" />
+	<key id="10000006" name="Apprentice Heavy Gunner" />
+	<key id="10000007" name="Apprentice Thief" />
+	<key id="10000008" name="Apprentice Assassin" />
 	<key id="10000009" name="Knight Master" />
 	<key id="10000010" name="Berserker Master" />
 	<key id="10000011" name="Wizard Master" />
@@ -18,13 +18,13 @@
 	<key id="10000014" name="Heavy Gunner Master" />
 	<key id="10000015" name="Thief Master" />
 	<key id="10000016" name="Assassin Master" />
-	<key id="10000017" name="Fortitude" />
+	<key id="10000017" name="Iron Will" />
 	<key id="10000018" name="Killer" />
 	<key id="10000019" name="Refresh ridges of the bear" />
-	<key id="10000020" name="Slaughter now" />
-	<key id="10000021" name="the Ruler of $map:65000001$" />
-	<key id="10000022" name="the Ruler of $map:65000002$" />
-	<key id="10000023" name="In this section, crazy" />
+	<key id="10000020" name="Butcher" />
+	<key id="10000021" name="Ruler of $map:65000001$" />
+	<key id="10000022" name="Ruler of $map:65000002$" />
+	<key id="10000023" name="Crazy in this Section" />
 	<key id="10000024" name="Baegjeon 100 w" />
 	<key id="10000025" name="Marathoner" />
 	<key id="10000026" name="Seals" />
@@ -161,7 +161,7 @@
 	<key id="10000157" name="Alphonse Dal Pont-Gaucho" />
 	<key id="10000158" name="Star architects" />
 	<key id="10000159" name="This is good" />
-	<key id="10000160" name="the Time Traveler" />
+	<key id="10000160" name="Time Traveler" />
 	<key id="10000161" name="Ask for your" />
 	<key id="10000162" name="Fighter" />
 	<key id="10000163" name="Gardener" />
@@ -170,26 +170,26 @@
 	<key id="10000166" name="Persistent predators" />
 	<key id="10000167" name="the Master of Surprise" />
 	<key id="10000168" name="On the way back" />
-	<key id="10000169" name="100The one with the job" />
-	<key id="10000170" name="Trophy-holic" />
+	<key id="10000169" name="100 Days Together" />
+	<key id="10000170" name="Trophyholic" />
 	<key id="10000171" name="Trophy Maniac" />
-	<key id="10000172" name="the Real Trophy Maniac" />
+	<key id="10000172" name="True Trophy Maniac" />
 	<key id="10000173" name="Sincere" />
 	<key id="10000174" name="Restless" />
 	<key id="10000175" name="Strong" />
 	<key id="10000176" name="Keep the walls" />
 	<key id="10000177" name="Guardian Angel" />
-	<key id="10000178" name="There are many curious" />
-	<key id="10000179" name="Knowledge seeker" />
+	<key id="10000178" name="Curious" />
+	<key id="10000179" name="Knowledge Seeker" />
 	<key id="10000180" name="Head rat I" />
 	<key id="10000181" name="Erudition erudite" />
 	<key id="10000182" name="a Smart one" />
 	<key id="10000183" name="But water Dr" />
 	<key id="10000184" name="Quiz King" />
-	<key id="10000185" name="Maple 2 honors press" />
+	<key id="10000185" name="Maple2 Honorable Reporter" />
 	<key id="10000186" name="Experience" />
 	<key id="10000187" name="Ooh Whoa UH Whoa" />
 	<key id="10000188" name="Hold the bout now" />
-	<key id="10000189" name="Out of the dark" />
+	<key id="10000189" name="Banished from Darkness" />
 	<key id="10000190" name="Warrior of Light" />
 </ms2>
