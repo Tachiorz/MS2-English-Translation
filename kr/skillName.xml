@@ -240,51 +240,51 @@
 	<key id="10500221" name="Flash Arrow" />
 	<key id="10500231" name="Carnival Bow" />
 	<key id="10500241" name="Spinning Kick" />
-	<key id="10600000" name="Heavy gunner appeared directed by" />
-	<key id="10600001" name="Gatling fire" />
-	<key id="10600002" name="Gatling fire 2" />
-	<key id="10600003" name="Gatling fire three shots" />
-	<key id="10600011" name="Rocket launcher" />
-	<key id="10600012" name="Rocket launcher splash" />
-	<key id="10600013" name="Rocket launcher splash 2" />
-	<key id="10600021" name="Flame thrower" />
-	<key id="10600031" name="Homing missile" />
-	<key id="10600041" name="Electric blast" />
-	<key id="10600042" name="Electric blast phase 2" />
-	<key id="10600043" name="Electric blast 3-phase" />
-	<key id="10600051" name="He René droid" />
-	<key id="10600052" name="He René droid splash" />
-	<key id="10600061" name="Magnetic spring" />
-	<key id="10600062" name="Magnetic spring splash" />
+	<key id="10600000" name="Heavy Gunner Enterance" />
+	<key id="10600001" name="Gatling Fire" />
+	<key id="10600002" name="Gatling Fire 2" />
+	<key id="10600003" name="Gatling Fire 3" />
+	<key id="10600011" name="Rocket Launcher" />
+	<key id="10600012" name="Rocket Launcher Splash" />
+	<key id="10600013" name="Rocket Launcher Splash 2" />
+	<key id="10600021" name="Flame Thrower" />
+	<key id="10600031" name="Homing Missile" />
+	<key id="10600041" name="Laser Cannon" />
+	<key id="10600042" name="Laser Cannon 2" />
+	<key id="10600043" name="Laser Cannon 3" />
+	<key id="10600051" name="Grenade" />
+	<key id="10600052" name="Grenade Splash" />
+	<key id="10600061" name="Magnetic Bomb" />
+	<key id="10600062" name="Magnetic Bomb Splash" />
 	<key id="10600071" name="Reload" />
-	<key id="10600081" name="Blast jumps" />
-	<key id="10600091" name="Booby trap" />
-	<key id="10600092" name="Booby traps splash" />
-	<key id="10600101" name="Time bomb" />
-	<key id="10600102" name="Time bomb splash" />
-	<key id="10600111" name="Canon Master Li" />
+	<key id="10600081" name="Blast Jump" />
+	<key id="10600091" name="Booby Trap" />
+	<key id="10600092" name="Booby Trap Splash" />
+	<key id="10600101" name="Time Bomb" />
+	<key id="10600102" name="Time Bomb Splash" />
+	<key id="10600111" name="Cannon Mastery" />
 	<key id="10600121" name="Barrage" />
 	<key id="10600131" name="Satellite" />
-	<key id="10600132" name="Satellite splash" />
-	<key id="10600133" name="Satellite splash actuation" />
-	<key id="10600134" name="Satellite fires add a splash" />
-	<key id="10600141" name="Napalm showers" />
-	<key id="10600142" name="Napalm fires in the shower" />
-	<key id="10600151" name="Rock on" />
-	<key id="10600161" name="Burning Canon" />
-	<key id="10600162" name="Burning Canon fires" />
-	<key id="10600171" name="Body armor" />
-	<key id="10600181" name="Bullet storm" />
-	<key id="10600182" name="Bullet storm 2" />
-	<key id="10600191" name="Canon master" />
-	<key id="10600201" name="Air strike" />
-	<key id="10600202" name="Air strike splash" />
-	<key id="10600211" name="First-aid kit" />
-	<key id="10600212" name="First-aid boxes splash" />
+	<key id="10600132" name="Satellite Splash" />
+	<key id="10600133" name="Satellite Splash Activate" />
+	<key id="10600134" name="Satellite Splash Add Activate" />
+	<key id="10600141" name="Napalm Shower" />
+	<key id="10600142" name="Napalm Shower Activate" />
+	<key id="10600151" name="Lock On" />
+	<key id="10600161" name="Burning Cannon" />
+	<key id="10600162" name="Burning Cannon Activate" />
+	<key id="10600171" name="Body Armor" />
+	<key id="10600181" name="Bullet Shower" />
+	<key id="10600182" name="Bullet Shower 2" />
+	<key id="10600191" name="Cannon Master" />
+	<key id="10600201" name="Air Strike" />
+	<key id="10600202" name="Air Strike Splash" />
+	<key id="10600211" name="First-Aid Kit" />
+	<key id="10600212" name="First-Aid Kit Splash" />
 	<key id="10600221" name="Campfire" />
-	<key id="10600222" name="Campfire splash" />
-	<key id="10600231" name="Daniele &amp; barrier" />
-	<key id="10600232" name="Daniele garment barrier splash" />
+	<key id="10600222" name="Campfire Splash" />
+	<key id="10600231" name="Element Barrier" />
+	<key id="10600232" name="Element Barrier Splash" />
 	<key id="10700000" name="Shipman appeared directed by" />
 	<key id="10700001" name="Double stab" />
 	<key id="10700002" name="Double stab actuation" />
