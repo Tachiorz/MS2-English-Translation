@@ -3,90 +3,90 @@
 <ms2>
 	<key id="1" name="Attack" />
 	<key id="11" name="Air attacks" />
-	<key id="100001" name="Blunt attack" />
-	<key id="100002" name="Blunt attack 2" />
-	<key id="100011" name="Blunt air attacks" />
-	<key id="200001" name="One-hand sword attack" />
-	<key id="200002" name="One-hand sword attack 2" />
-	<key id="200003" name="One-hand sword attack three shots" />
-	<key id="200011" name="One-hand sword air attacks" />
-	<key id="300001" name="Two-handed sword attack" />
-	<key id="300002" name="Two-handed sword attack 2" />
-	<key id="300003" name="Two-handed sword attack three shots" />
-	<key id="300011" name="Two-handed sword air attacks" />
-	<key id="400001" name="Staff attack" />
-	<key id="400011" name="Staff air attacks" />
-	<key id="500001" name="Hall attack" />
-	<key id="500011" name="Hall air attacks" />
-	<key id="600001" name="Bow attack" />
-	<key id="600011" name="Bow air attacks" />
-	<key id="700001" name="Canon attack" />
-	<key id="700002" name="Canon attack splash" />
-	<key id="700011" name="Canon air attacks" />
-	<key id="700012" name="Canon air attacks splash" />
-	<key id="800001" name="Dagger attack" />
-	<key id="800002" name="Dagger attack 2" />
-	<key id="800011" name="Dagger air attacks" />
-	<key id="800021" name="Dagger+Dagger attack" />
-	<key id="800022" name="Dagger+Dagger attack 2" />
-	<key id="800023" name="Dagger+Dagger attack three shots" />
-	<key id="800024" name="Dagger+Dagger attack 4" />
-	<key id="800031" name="Dagger+Dagger air attacks" />
-	<key id="900001" name="Citation from the attack" />
-	<key id="900011" name="Recognition of air attacks" />
-	<key id="900021" name="Citation+Citation from the attack" />
-	<key id="900022" name="Citation+Table 2 Windows attack" />
-	<key id="900031" name="Citation+Recognition of air attacks" />
-	<key id="1000001" name="Rune blade attack" />
-	<key id="1000002" name="Rune blade attack 2" />
-	<key id="1000003" name="Flame Rune blade attack" />
-	<key id="1000004" name="Flame Rune blade attack 2" />
-	<key id="1000005" name="Frost Rune blade attack" />
-	<key id="1000006" name="Frost Rune blade attack 2" />
-	<key id="1000007" name="Lightning Rune blade attack" />
-	<key id="1000008" name="Lightning Rune blade attack 2" />
-	<key id="1000011" name="Rune blade air attacks" />
-	<key id="1000012" name="Flame Rune blade air attacks" />
-	<key id="1000013" name="Frost Rune blade air attacks" />
-	<key id="1000014" name="Lightning Rune blade air attacks" />
+	<key id="100001" name="Blunt Attack" />
+	<key id="100002" name="Blunt Attack 2" />
+	<key id="100011" name="Blunt Jump Attack" />
+	<key id="200001" name="Sword Attack" />
+	<key id="200002" name="Sword Attack 2" />
+	<key id="200003" name="Sword Attack 3" />
+	<key id="200011" name="Sword Jump Attack" />
+	<key id="300001" name="Large Sword Attack" />
+	<key id="300002" name="Large Sword Attack 2" />
+	<key id="300003" name="Large Sword Attack 3" />
+	<key id="300011" name="Large Sword Jump Attack" />
+	<key id="400001" name="Staff Attack" />
+	<key id="400011" name="Staff Jump Attack" />
+	<key id="500001" name="Scepter Attack" />
+	<key id="500011" name="Scepter Jump Attack" />
+	<key id="600001" name="Bow Attack" />
+	<key id="600011" name="Bow Jump Attack" />
+	<key id="700001" name="Canon Attack" />
+	<key id="700002" name="Canon Splash Attack" />
+	<key id="700011" name="Cannon Jump Attack" />
+	<key id="700012" name="Cannon Splash Jump Attack" />
+	<key id="800001" name="Dagger Attack" />
+	<key id="800002" name="Dagger Attack 2" />
+	<key id="800011" name="Dagger Jump Attack" />
+	<key id="800021" name="Dagger+Dagger Attack" />
+	<key id="800022" name="Dagger+Dagger Attack 2" />
+	<key id="800023" name="Dagger+Dagger Attack 3" />
+	<key id="800024" name="Dagger+Dagger Attack 4" />
+	<key id="800031" name="Dagger+Dagger Jump Attack" />
+	<key id="900001" name="Star Attack" />
+	<key id="900011" name="Star Jump Attack" />
+	<key id="900021" name="Star+Star Attack" />
+	<key id="900022" name="Star+Star Attack 2" />
+	<key id="900031" name="Star+Star Jump Attack" />
+	<key id="1000001" name="Blade Attack" />
+	<key id="1000002" name="Blade Attack 2" />
+	<key id="1000003" name="Flame Blade Attack" />
+	<key id="1000004" name="Flame Blade Attack 2" />
+	<key id="1000005" name="Frost Blade Attack" />
+	<key id="1000006" name="Frost Blade Attack 2" />
+	<key id="1000007" name="Lightning Blade Attack" />
+	<key id="1000008" name="Lightning Blade Attack 2" />
+	<key id="1000011" name="Blade Jump Attack" />
+	<key id="1000012" name="Flame Blade Jump Attack" />
+	<key id="1000013" name="Frost Blade Jump Attack" />
+	<key id="1000014" name="Lightning Blade Jump Attack" />
 	<key id="10000001" name="Hammering" />
-	<key id="10000011" name="Power strike" />
-	<key id="10000012" name="Power strike 2" />
-	<key id="10000013" name="Power strike three shots" />
-	<key id="10000021" name="Snails throw" />
-	<key id="10000022" name="Snails throw splash" />
-	<key id="10000031" name="Butting" />
+	<key id="10000011" name="Full Swing" />
+	<key id="10000012" name="Full Swing 2" />
+	<key id="10000013" name="Full Swing 3" />
+	<key id="10000021" name="Snail Throw" />
+	<key id="10000022" name="Snail Throw Splash" />
+	<key id="10000031" name="Headbutt" />
 	<key id="10000041" name="Roll front" />
 	<key id="10000042" name="Straight front somersault" />
-	<key id="10100000" name="Knight appeared in the rendering" />
-	<key id="10100001" name="Cross swing" />
-	<key id="10100011" name="Tornado slash" />
-	<key id="10100012" name="Tornado slash 2" />
-	<key id="10100021" name="Holly strike" />
-	<key id="10100031" name="Piercing blade" />
-	<key id="10100032" name="Piercing Blade 2" />
-	<key id="10100041" name="Advance trumpet" />
-	<key id="10100051" name="Shield wall" />
-	<key id="10100052" name="The walls of the splash shield" />
-	<key id="10100061" name="First aid" />
-	<key id="10100071" name="As Ying shield" />
-	<key id="10100081" name="Knight&#8217;s willingness to" />
-	<key id="10100082" name="Knight&#8217;s willingness to splash" />
-	<key id="10100091" name="Assault" />
-	<key id="10100092" name="Thrust 2" />
-	<key id="10100093" name="Thrust three shots" />
+	<key id="10100000" name="Knigth Enterance" />
+	<key id="10100001" name="Cross Swing" />
+	<key id="10100011" name="Tornado Slash" />
+	<key id="10100012" name="Tornado Slash 2" />
+	<key id="10100021" name="Holy Strike" />
+	<key id="10100031" name="Piercing Attack" />
+	<key id="10100032" name="Piercing Attack 2" />
+	<key id="10100041" name="Trumpet Of March" />
+	<key id="10100051" name="Shield Wall" />
+	<key id="10100052" name="Shield Wall Splash" />
+	<key id="10100061" name="First Aid" />
+	<key id="10100071" name="Throwing Shield" />
+	<key id="10100081" name="Will Of Knight" />
+	<key id="10100082" name="Will Of Knight Splash" />
+	<key id="10100091" name="Shield Rush" />
+	<key id="10100092" name="Shield Rush 2" />
+	<key id="10100093" name="Shield Rush 3" />
 	<key id="10100101" name="Counter" />
-	<key id="10100102" name="Fires counter" />
-	<key id="10100111" name="Long sword Master Li" />
-	<key id="10100121" name="Shield Master Li" />
-	<key id="10100131" name="Achilles cut" />
+	<key id="10100102" name="Fire Counter" />
+	<key id="10100111" name="Long Sword Mastery" />
+	<key id="10100121" name="Shield Mastery" />
+	<key id="10100131" name="Achilles Cut" />
 	<key id="10100141" name="Leveling shim" />
-	<key id="10100151" name="Iron shield" />
-	<key id="10100161" name="Million sting" />
-	<key id="10100162" name="2 million sting" />
+	<key id="10100151" name="Iron Shield" />
+	<key id="10100161" name="Million Sting" />
+	<key id="10100162" name="Million Sting 2" />
 	<key id="10100171" name="The belief of Su" />
-	<key id="10100181" name="Holy sword" />
-	<key id="10100191" name="Shield upper" />
+	<key id="10100181" name="Holy Sword" />
+	<key id="10100191" name="Shield Upper" />
 	<key id="10200000" name="Berserker appeared directed by" />
 	<key id="10200001" name="Rage slash" />
 	<key id="10200002" name="Rage slash 2" />
