@@ -285,44 +285,44 @@
 	<key id="10600222" name="Campfire Splash" />
 	<key id="10600231" name="Element Barrier" />
 	<key id="10600232" name="Element Barrier Splash" />
-	<key id="10700000" name="Shipman appeared directed by" />
-	<key id="10700001" name="Double stab" />
-	<key id="10700002" name="Double stab actuation" />
-	<key id="10700011" name="Poison blow" />
-	<key id="10700012" name="Poison blow 2" />
-	<key id="10700013" name="Poison blow three shots" />
-	<key id="10700014" name="Poison blow-4" />
-	<key id="10700015" name="Poison blow 5 Taranaki" />
-	<key id="10700016" name="Poison blow EX" />
-	<key id="10700017" name="Poison blow 2 EX" />
-	<key id="10700018" name="Poison blow three shots EX" />
-	<key id="10700019" name="Poison blow-4 EX" />
-	<key id="10700020" name="Poison blow 5 Taranaki EX" />
-	<key id="10700021" name="The Balkan&#8217;s edge" />
-	<key id="10700022" name="The Balkan&#8217;s edge EX" />
-	<key id="10700031" name="Blade dance" />
-	<key id="10700032" name="Blade dance EX" />
-	<key id="10700041" name="Mind Stiller" />
-	<key id="10700051" name="Summer salt kick" />
-	<key id="10700052" name="Summer salt kick EX" />
-	<key id="10700061" name="Megan cattle guard" />
-	<key id="10700062" name="Megan cattle guard EX" />
-	<key id="10700071" name="Surprise attack" />
-	<key id="10700072" name="Fires when a surprise attack" />
+	<key id="10700000" name="Thief Enterance" />
+	<key id="10700001" name="Double Stab" />
+	<key id="10700002" name="Double Stab Activate" />
+	<key id="10700011" name="Poison Blow" />
+	<key id="10700012" name="Poison Blow 2" />
+	<key id="10700013" name="Poison Blow 3" />
+	<key id="10700014" name="Poison Blow 4" />
+	<key id="10700015" name="Poison Blow 5" />
+	<key id="10700016" name="Poison Blow EX" />
+	<key id="10700017" name="Poison Blow 2 EX" />
+	<key id="10700018" name="Poison Blow 3 EX" />
+	<key id="10700019" name="Poison Blow 4 EX" />
+	<key id="10700020" name="Poison Blow 5 EX" />
+	<key id="10700021" name="Vulcan Edge" />
+	<key id="10700022" name="Vulcan Edge EX" />
+	<key id="10700031" name="Blade Dance" />
+	<key id="10700032" name="Blade Dance EX" />
+	<key id="10700041" name="Mind Stealer" />
+	<key id="10700051" name="Somersault Kick" />
+	<key id="10700052" name="Somersault Kick EX" />
+	<key id="10700061" name="Meso Guard" />
+	<key id="10700062" name="Meso Guard EX" />
+	<key id="10700071" name="Surprise Attack" />
+	<key id="10700072" name="Surprise Attack Activate" />
 	<key id="10700081" name="Haste" />
-	<key id="10700091" name="Sudden attack" />
-	<key id="10700092" name="Sudden attack EX" />
-	<key id="10700101" name="Revenge" />
-	<key id="10700102" name="Fires of retaliation" />
-	<key id="10700111" name="Dagger Master Li" />
-	<key id="10700121" name="Blake&#8217;s body" />
-	<key id="10700131" name="QUICKSTEP" />
-	<key id="10700141" name="Sneaky tricks" />
-	<key id="10700151" name="Approximately 6 ceremony" />
-	<key id="10700161" name="Poisonous glass bottles" />
-	<key id="10700162" name="Poisonous medicine bottle splash" />
+	<key id="10700091" name="Sudden Attack" />
+	<key id="10700092" name="Sudden Attack EX" />
+	<key id="10700101" name="Reprisal" />
+	<key id="10700102" name="Reprisal Activate" />
+	<key id="10700111" name="Dagger Mastery" />
+	<key id="10700121" name="Nimble Body" />
+	<key id="10700131" name="Quick Step" />
+	<key id="10700141" name="Dirty Trick" />
+	<key id="10700151" name="Law of the Jungle" />
+	<key id="10700161" name="Poison Bottle" />
+	<key id="10700162" name="Poison Bottle Splash" />
 	<key id="10700171" name="Trickster" />
-	<key id="10700181" name="As Ying dagger" />
+	<key id="10700181" name="Throwing Dagger" />
 	<key id="10800000" name="Assassin appeared directed by" />
 	<key id="10800001" name="Lucky seven" />
 	<key id="10800011" name="Boomerang star" />
