@@ -56,7 +56,7 @@
    <key id="s_err_invalid_item" value="This item does not exist."/>
    <key id="s_err_lack_shopitem" value="The lack of stock."/>
    <key id="s_word_item_title_create" value="Discover the hidden ability to unleash the weapon&#8217;s seal."/>
-   <key id="s_msg_item_upgrade_level" value="Level {0} Upgrade"/>
+   <key id="s_msg_item_upgrade_level" value="Upgrade Level {0}"/>
    <key id="s_msg_item_upgrade_failed" value="The Dim light and the main article is gone."/>
    <key id="s_msg_item_upgrade_complete" value="The main article has been handed a mysterious force is a brightly shining."/>
    <key id="s_msg_item_default" value="Are you sure you want to use the item (s)?"/>
@@ -67,7 +67,7 @@
    <key id="s_msg_expand_character_slot_complete" value="Character slot has been extended." />
    <key id="s_msg_expand_character_slot_already_maximum" value="No more character slots cannot be extended." />
    
-   <key id="s_err_lack_guild_trophy" value="Guild Trophy." />
+   <key id="s_err_lack_guild_trophy" value="You don't have a Guild trophy." />
    <key id="s_err_lack_achieve" value="You must have the [{0}] trophy achieved." />
    <key id="s_err_lack_championship_grade" value="Your rank needs to be at least {0}." />
    <key id="s_err_lack_championship_join_count" value="You need to enter more than {0}." />
@@ -104,15 +104,15 @@
    <key id="s_notify_mail_recieve" value="You have received a letter."/>
    <key id="s_mail_err_cannot_attach_item" value="You cannot attach this item."/>
    
-   <key id="s_mail_read_list" value="Are you sure you want to mark all selected mail as read?"/>
-   <key id="s_mail_delete_list" value="Are you sure you want to delete all the selected mail?"/>
-   <key id="s_mail_receive_list" value="Are you interested in receiving all goods that are attached to the selected mail?"/>
-   <key id="s_mail_delete_list_received_mail" value="Attached are you sure you want to delete the mail you have received the goods?"/>
-   <key id="s_mail_delete_list_attached_mail" value="Mail in the attached article. Are you sure you want to delete it though?"/>
+   <key id="s_mail_read_list" value="Do you want to mark all the selected mail as read?"/>
+   <key id="s_mail_delete_list" value="Do you want to delete all the selected mail?"/>
+   <key id="s_mail_receive_list" value="Do you want to receive all the attachments of the selected mail?"/>
+   <key id="s_mail_delete_list_received_mail" value="Do you want to delete the mail with the attachments?"/>
+   <key id="s_mail_delete_list_attached_mail" value="This mail includes an attachment. Are you sure you want to delete it?"/>
 
    <!-- [Move] -->
    <key id="s_change_ch_err_field" value="You cannot move channels."/>
-   <key id="s_reveal_taxi_station" value="Discovered a taxi."/>
+   <key id="s_reveal_taxi_station" value="Discovered a taxi station."/>
    <key id="s_msg_not_visit" value="Not found yet."/>
    <key id="s_msg_not_visitable" value="Baesgili can not go off."/>
 
@@ -264,7 +264,7 @@
 	  <key id="s_ugcmap_have_equipitems" value="The items are placed in the House."/> <!--Need to check the-->
 
   <!-- UGCMap Package Item -->
-  <key id="s_err_ugcmap_package_cant_use" value="Now it is not available."/>
+  <key id="s_err_ugcmap_package_cant_use" value="Unavailable."/>
   <key id="s_err_ugcmap_package_cant_use_in_this_map" value="The current map is not available."/>
   <key id="s_err_ugcmap_package_should_use_in_indoor" value="My House can only be used indoors."/> <!--Time to be indoors-->
   <key id="s_err_ugcmap_package_not_a_valid_package_item" value="It&#8217;s not a normal interior construction books items."/>
@@ -283,21 +283,21 @@
   <key id="s_ugcmap_package_automatic_creation_skip" value="With the exception of items not required for installation later."/>
   
 	 <!--[Friends]-->
-	  <key id="s_buddy_err_unknown" value="System error : Community"/>
+	  <key id="s_buddy_err_unknown" value="System Error : Community"/>
 
 	<!--[Growth]-->
-	 <key id="s_notify_levelup" value="{0} Level."/>
-     <key id="s_notify_learn_skill" value="[{0}] The skills learned."/>
+	 <key id="s_notify_levelup" value="Your level increased to {0}."/>
+     <key id="s_notify_learn_skill" value="You learned [{0}]."/>
 
 	<!--[Growth]--> <!--Open the automatic acquisition of items: floating reminder-->
 	 <key id="s_notify_achieve_reward_function" value="You can use the auto-pick up the item."/>
 	 <key id="s_notify_achieve_reward_deadfail" value="The monument cannot be rewarded a trophy when the hardwood."/>
 
-  <key id="s_notify_groupchat_invite" value="{0} NI {1} Su was invited to the conversation group."/>
-  <key id="s_notify_groupchat_invited" value="{0} This group was invited to the conversation."/>
-  <key id="s_notify_groupchat_leave" value="{0} It&#8217;s a chat room."/>
-  <key id="s_notify_groupchat_login" value="{0} By this juncture."/>
-  <key id="s_notify_groupchat_logout" value="{0} This has ended the connection."/>
+  <key id="s_notify_groupchat_invite" value="{0} invited {1} to the group."/>
+  <key id="s_notify_groupchat_invited" value="{0} was invited to the group."/>
+  <key id="s_notify_groupchat_leave" value="{0} has left the chat room."/>
+  <key id="s_notify_groupchat_login" value="{0} has logged on."/>
+  <key id="s_notify_groupchat_logout" value="{0} has logged off."/>
   <key id="s_notify_groupchat_reject" value="{0} This group has declined an invitation to a dialogue."/>
 
   <key id="s_err_groupchat_maxjoin" value="The group conversation, you can participate in up to 20 people."/>
@@ -444,14 +444,14 @@
 	  <key id="s_guild_ui_offline" value="Offline {0}" />
 	  <key id="s_guild_ui_member_location" value="{0} Channel | {1}" />
 	  <key id="s_guild_ui_member_detail" value="Level {0} {1} | {2}" />
-	  <key id="s_guild_ui_invite_member" value="Please enter the name of the character you want to invite to the guild." />
+	  <key id="s_guild_ui_invite_member" value="Enter the name of the character you want to invite to the guild." />
 	  <key id="s_guild_ui_create" value="&lt;FONT color='#FFA200'&gt;Create a Guild name&lt;/FONT&gt;Please enter your.\nThe cost is &lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt;&lt;Img Src='export_common_icon_meso' vspace='-4'&gt;&lt;/Img&gt;.\n(10Characters and spaces are not allowed.)" />
 	  <key id="s_guild_ui_change_notify" value="Our Guild announcements." />
 	  <key id="s_guild_ui_extend_member" value="&lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt;&lt;Img Src='export_common_icon_meso' vspace='-4'&gt;&lt;/Img&gt;Using\nThe Guild up personnel &lt;FONT color='#FFA200'&gt;{1}&lt;/FONT&gt;Do you want to expand to?" />
 	  <key id="s_guild_ui_extend_max" value="Cannot expand any more personnel." />
 	  <key id="s_guild_ui_break" value="This Guild you can dismantle this season participated in the count are initialized and the Guild Championship, since the new Guild belonging to this Guild the Guild if you sign up for if you have participated in a new championship Guild cannot join the Guild as belonging to the Championship.\n&lt;FONT color='#FFA200'&gt;Really are you sure that you want to dismantle the Guild?&lt;/FONT&gt;" />
 	  <key id="s_guild_ui_leave" value="If you opt out of this Guild will be initialized and the number of times the championship this season and join the Guild, since the new guild if you sign up for this Guild if I participate in the Guild Championship as belonging to the new guild cannot join the Guild as belonging to the Championship.\n&lt;FONT color='#FFA200'&gt;Are you sure you want to unsubscribe so Guild?&lt;/FONT&gt;" />
-	  <key id="s_guild_ui_not_to_master" value="You cannot apply to the Guild." />
+	  <key id="s_guild_ui_not_to_master" value="You cannot apply to this guild." />
 	  <key id="s_guild_ui_change_master" value="{0} Dear\nThe Guild commissioned a chapter?" />
 	  <key id="s_guild_ui_expel" value="{0} When you join the Guild season championship lead by count are initialized and, if you sign up for a new Guild after the Guild if you participate in the Guild Championship as belonging to the new guild cannot join the Guild as belonging to the Championship.\n&lt;FONT color='#FFA200'&gt;It&#8217;s really {0} Are you sure you want to expel him?&lt;/FONT&gt;" />
 	  <key id="s_guild_ui_guild_create_time" value="{0}. {1}. {2}" />
@@ -523,9 +523,9 @@
 
 
 	  <!-- Private battlefield -->
-	  <key id="s_individual_waiting_unknown" value="Average latency : Unknown" />
-	  <key id="s_individual_waiting_min" value="Average latency : {0}Min." />
-	  <key id="s_individual_waiting_hour" value="Average latency : 10Minutes or more" />
+	  <key id="s_individual_waiting_unknown" value="Average Waiting Time : Unknown" />
+	  <key id="s_individual_waiting_min" value="Average Waiting Time : {0} minutes" />
+	  <key id="s_individual_waiting_hour" value="Average Waiting Time : 10 minutes or more" />
 	  <key id="s_individual_register_other_arena" value="Already the battle you are applying for.\nAfter you cancel your existing application, \nThe new battle sheet registration." />
 	  <key id="s_individual_register_call_of_arena" value="The former did not respond to the call of the battlefield \nBattle chapter AWOL because \nFor a while, you cannot apply for a chapter position battle." />
 	  <key id="s_individual_register_low_level" value="Level is low, you cannot apply." />
@@ -537,30 +537,30 @@
 
   <!-- Messenger -->
 	<key id="s_err_cannot_find_user" value="You cannot send a whisper."/>
-    <key id="s_err_input_whisper_target" value="Please enter your target to send a whisper."/>
+    <key id="s_err_input_whisper_target" value="Enter a target to send a whisper."/>
 
   <!--[Acquisition]-->
-    <key id="s_msg_take_item" value="Obtained: {0} Item (s)."/>
-    <key id="s_msg_take_item_count" value="{0} Items {1}The dog has earned."/>
-	<key id="s_msg_take_exp" value="Experience {0} Has earned. "/>
-	<key id="s_msg_take_assist_bonus_exp" value="Bonus experience {0} Has earned. "/>
-	<key id="s_msg_take_assist_bonus_exp_system" value="The battle of hard earned a bonus vote. (Experience +{0})"/>
-	<key id="s_msg_take_map_exp" value="{0} I found the experience {1} Has earned. "/>
-	<key id="s_msg_take_taxi_exp" value="{0} I found the taxi experience {1} Has earned. "/>
-	<key id="s_msg_take_telescope_exp" value="{0}Found a new landscape of experience {1} Has earned. "/>
-	<key id="s_msg_take_meso" value="{0} Medvedev has taken a cow. "/>
-	<key id="s_msg_take_pcbang" value="(PCBenefits of the room)"/>
-	<key id="s_msg_take_merat" value="{0} Megan Barrett has earned. "/>
-	<key id="s_msg_take_honor_token" value="Token of Valor {0}The dog has earned." />
-	<key id="s_msg_take_karma_token" value="{0} Karma." />
-	<key id="s_msg_take_lu_token" value="{0} Lou." />
-	<key id="s_msg_take_habi_token" value="{0} Harvey." />
+    <key id="s_msg_take_item" value="Obtained {0}."/>
+    <key id="s_msg_take_item_count" value="Obtained {0} ({1})."/>
+	<key id="s_msg_take_exp" value="Gained {0} EXP. "/>
+	<key id="s_msg_take_assist_bonus_exp" value="Gained {0} Bonus EXP. "/>
+	<key id="s_msg_take_assist_bonus_exp_system" value="Gained a bonus for participating in battle. (EXP +{0})"/>
+	<key id="s_msg_take_map_exp" value="Gained {1} EXP from discovering {0}. "/>
+	<key id="s_msg_take_taxi_exp" value="Gained {1} EXP from discovering the {0} taxi. "/>
+	<key id="s_msg_take_telescope_exp" value="Gained {1} EXP from discovering {0}. "/>
+	<key id="s_msg_take_meso" value="Gained {0} Meso. "/>
+	<key id="s_msg_take_pcbang" value="(PC Internet Cafe Benefit)"/>
+	<key id="s_msg_take_merat" value="Obtained {0} Merit. "/>
+	<key id="s_msg_take_honor_token" value="Obtained {0} Token of Valor." />
+	<key id="s_msg_take_karma_token" value="Obtained {0} Karma." />
+	<key id="s_msg_take_lu_token" value="Obtained {0} Lu." />
+	<key id="s_msg_take_habi_token" value="Obtained {0} Habi." />
 
 
 	  <!-- [Party] -->
 	  <key id="s_msg_party_invite" value="{0} You are invited to a party.\nDo you want to join this party?"/>
-	  <key id="s_msg_popup_time" value="Standby time {0} seconds"/>
-	  <key id="s_party_err_code" value="System error : Party, code = {0}, {1}"/>
+	  <key id="s_msg_popup_time" value="Waiting Time {0} seconds"/>
+	  <key id="s_party_err_code" value="System Error : Party, code = {0}, {1}"/>
 	  <key id="s_party_err_not_exist" value="Invite to the party."/>
 	  <key id="s_party_err_target" value="Invite to the party."/>
 	  <key id="s_party_err_already" value="Already party."/>
@@ -630,12 +630,12 @@
 	  <key id="s_buddy_confirm_del_somebody_from_banlist" value="Are you sure you want to delete {0} from your block list?"/>
 
 	  <!-- [Access] -->
-	  <key id="s_login_err_connect" value="You cannot connect.\n(code = {0})"/>
-	  <key id="s_login_err_disconnected" value="With the server has been disconnected.\n(code = {0})"/>
+	  <key id="s_login_err_connect" value="Yuu are unable to connect.\n(code = {0})"/>
+	  <key id="s_login_err_disconnected" value="You have disconnected from the server.\n(code = {0})"/>
 	  <key id="s_login_err_version" value="There is an update.\nPlease download the new version."/>
 	  <key id="s_err_cannot_move" value="Forced moves are impossible."/>
-	  <key id="s_notice_shutdown" value="Connection with the server has been lost.\nPlease back-up."/>
-      <key id="s_msg_game_over" value="It&#8217;s really going to leave?"/>
+	  <key id="s_notice_shutdown" value="The connection with the server has been lost.\nPlease connect again."/>
+      <key id="s_msg_game_over" value="Are you really going to leave?"/>
 
 	  <!-- [Item (s)] -->
 	  <key id="s_item_err_drop" value="You cannot discard this item."/>
@@ -644,7 +644,7 @@
 	  <key id="s_skill_err_low_level" value="Low levels are not available."/>
 	  <key id="s_item_err_cash_putoff" value="First, the skin will take the items."/>
 	  <key id="s_item_err_invalid_count" value="The number of the item."/>
-	  <!--<key id="s_err_lack_meso" value="Megan cow." /> Pop up a notification message in the Central and-->
+	  <!--<key id="s_err_lack_meso" value="You don't have enough Meso." /> Pop up a notification message in the Central and-->
 	  <key id="s_item_err_puton" value="Wearable items."/>
 	  <key id="s_item_err_putoff" value="Unable to take off."/>
 	  <key id="s_item_err_destroy_equip" value="You cannot destroy the active item is worn."/>
@@ -762,8 +762,8 @@
 	 <key id="s_char_input_name" value="Name your character.\n(You can enter up to 6 Hangul and 12 English characters.)"/>
 	 <key id="s_char_level_job" value="Level {0} {1}"/>
 	 <key id="s_char_delete_waiting" value="{0} Pending Delete"/>
-	 <key id="s_char_ask_delete" value="&lt;FONT color='#FFD200'&gt;{0} &lt;/FONT&gt;Are you sure you want to delete this character?\nPlease enter the name of the character you want to delete."/>
-	 <key id="s_char_ask_delete_with_wait" value="&lt;FONT color='#FFD200'&gt;{0}Level&lt;/FONT&gt; Or more characters &lt;FONT color='#FFD200'&gt;{1}&lt;/FONT&gt;Of \nDelete, you can delete it after the wait time.\n&lt;FONT color='#FFD200'&gt;{2} &lt;/FONT&gt;Are you sure you want to delete the character?\nPlease enter the name of the character you want to delete."/>
+	 <key id="s_char_ask_delete" value="&lt;FONT color='#FFD200'&gt;{0} &lt;/FONT&gt;Are you sure you want to delete this character?\nEnter the name of the character you want to delete."/>
+	 <key id="s_char_ask_delete_with_wait" value="&lt;FONT color='#FFD200'&gt;{0}Level&lt;/FONT&gt; Or more characters &lt;FONT color='#FFD200'&gt;{1}&lt;/FONT&gt;Of \nDelete, you can delete it after the wait time.\n&lt;FONT color='#FFD200'&gt;{2} &lt;/FONT&gt;Are you sure you want to delete the character?\nEnter the name of the character you want to delete."/>
 	 <key id="s_char_ask_delete_final" value="&lt;FONT color='#FFD200'&gt;{0} &lt;/FONT&gt;Are you sure you want to delete a character, really?\nWhen you delete a character cannot save information."/>
 	 <key id="s_char_ask_revival_char" value="&lt;FONT color='#FFD200'&gt;{0} &lt;/FONT&gt;Do you want to bring back your character?"/>
 	 <key id="s_char_err_input" value="Please enter at least 2 letters or more."/>
@@ -797,7 +797,7 @@
 	<key id="s_beauty_msg_error_code" value="A system error has occurred. code = {0}\nTo return to the game."/>
 	<key id="s_beauty_tooltip_price" value="{0}\n{1}&lt;Img Src='export_common_icon_merat' vspace='-4'/&gt;"/>
 	<key id="s_beauty_msg_random" value="In the list of &lt;FONT color='#FFD200'&gt;Random selection&lt;/FONT&gt;.\nAfter the change cannot be reversed.\nReally are you sure you want to change?"/> <!--Beauty shop pop-->
-	<key id="s_beauty_msg_fail_save" value="Megan Barrett is low."/> <!-- Beauty shop appears in the error window, the top amount paid out--> <!-- I&#8217;ll add a-->
+	<key id="s_beauty_msg_fail_save" value="Merit is low."/> <!-- Beauty shop appears in the error window, the top amount paid out--> <!-- I&#8217;ll add a-->
 	<key id="s_beauty_msg_coloring_confirm" value="{0} Items\nDo you want to the shopping cart?\n&lt;FONT size='3'&gt;&lt;/FONT&gt;Dyed items into a shopping cart if the flexibilities of\n&lt;FONT color='#FF5F5F'&gt;Changes the color of the original.&lt;/FONT&gt;"/> <!--Dyer confirmed when changing room items-->
 
 	 <!-- Content restrictions -->
@@ -860,7 +860,7 @@
 <!-- ============================================================================================================================================================================= -->
 <!-- My related information UI Information --> <!--The content is displayed right on the My Info window-->
   <key id="s_msg_memo_today" value="Please enter a word of the day."/>
-  <key id="s_char_info_birthday" value="{0}Years {1}- {2}At the start of the adventure works"/>
+  <key id="s_char_info_birthday" value="{0} {1}- {2}At the start of the adventure works"/>
   <key id="s_char_info_level_job" value="Level {0} {1}"/>
   <key id="s_char_info_guild" value="When you join a Guild, you can enjoy the game more enjoyable."/>
   <key id="s_char_info_ugcmap" value="The House contract for more features."/>
@@ -877,20 +877,20 @@
   <key id="s_change_charname_err_consume_item" value="Character name change, use of the power failure."/>
   <key id="s_change_charname_err_system" value="The name of the character &quot;{0}&quot;Along the way to change the error (code={1}).\nPlease try again after a while."/>
 <!--Monster ratings -->
-  <key id="s_npc_normal" value="General"/>
-  <key id="s_npc_leader" value="Reader"/>
+  <key id="s_npc_normal" value="Normal"/>
+  <key id="s_npc_leader" value="Leader"/>
   <key id="s_npc_named" value="Elite"/>
   <key id="s_npc_boss" value="Boss"/>
-  <key id="s_npc_field_boss" value="Field boss"/>
-  <key id="s_npc_dungeon_boss" value="Dungeon boss"/>
-  <key id="s_npc_friendly" value="Friendship"/>
+  <key id="s_npc_field_boss" value="Field Boss"/>
+  <key id="s_npc_dungeon_boss" value="Dungeon Boss"/>
+  <key id="s_npc_friendly" value="Friendly"/>
 
   <!-- ToolTip, stat -->
-  <key id="s_word_increase" value="Increases the"/>
-  <key id="s_word_man" value="Men&#8217;s"/>
-  <key id="s_word_woman" value="Women&#8217;s"/>
-  <key id="s_word_man_or_woman" value="Public"/>
-  <key id="s_word_usercount" value="{0}People"/>
+  <key id="s_word_increase" value="Increase"/>
+  <key id="s_word_man" value="Male"/>
+  <key id="s_word_woman" value="Female"/>
+  <key id="s_word_man_or_woman" value="Unisex"/>
+  <key id="s_word_usercount" value="{0}"/>
   <key id="s_word_exp" value="EXP"/>
   <key id="s_word_stat_hp" value="HP"/>
   <key id="s_word_stat_sp" value="SP"/>
@@ -898,31 +898,31 @@
   <key id="s_word_stat_str" value="STR"/>
   <key id="s_word_stat_dex" value="DEX"/>
   <key id="s_word_stat_int" value="INT"/>
-  <key id="s_word_stat_ndd" value="Defense power"/>
-  <key id="s_word_stat_atp" value="Hits"/>
-  <key id="s_word_stat_evp" value="Avoidance"/>
-  <key id="s_word_stat_cap" value="Critical hits"/>
-  <key id="s_word_stat_msp" value="Moving speed"/>
-  <key id="s_word_stat_hp_rgp" value="HP Renewal"/>
-  <key id="s_word_stat_hp_inv" value="HP Regeneration cycle"/>
-  <key id="s_word_stat_sp_rgp" value="SP Renewal"/>
-  <key id="s_word_stat_sp_inv" value="SP Regeneration cycle"/>
-  <key id="s_word_stat_ep_rgp" value="EP Renewal"/>
-  <key id="s_word_stat_ep_inv" value="EP Regeneration cycle"/>
-  <key id="s_word_stat_asp" value="Attack speed"/>
-  <key id="s_word_stat_abp" value="Complete defense"/>
-  <key id="s_word_stat_jmp" value="Jumping power"/>
+  <key id="s_word_stat_ndd" value="Defense"/>
+  <key id="s_word_stat_atp" value="Accuracy"/>
+  <key id="s_word_stat_evp" value="Avoidability"/>
+  <key id="s_word_stat_cap" value="Critical Accuracy"/>
+  <key id="s_word_stat_msp" value="Movement Speed"/>
+  <key id="s_word_stat_hp_rgp" value="HP Regeneration"/>
+  <key id="s_word_stat_hp_inv" value="HP Regeneration Cycle"/>
+  <key id="s_word_stat_sp_rgp" value="SP Regeneration"/>
+  <key id="s_word_stat_sp_inv" value="SP Regeneration Cycle"/>
+  <key id="s_word_stat_ep_rgp" value="EP Regeneration"/>
+  <key id="s_word_stat_ep_inv" value="EP Regeneration Cycle"/>
+  <key id="s_word_stat_asp" value="Attack Speed"/>
+  <key id="s_word_stat_abp" value="Complete Defense"/>
+  <key id="s_word_stat_jmp" value="Jump"/>
   <key id="s_word_stat_luk" value="LUK"/>
-  <key id="s_word_stat_pap" value="Physical attack power"/>
-  <key id="s_word_stat_map" value="Magical attack power"/>
-  <key id="s_word_stat_par" value="Physical defense power"/>
-  <key id="s_word_stat_mar" value="Magic defense power"/>
-  <key id="s_word_stat_cad" value="Critical damage"/>
-  <key id="s_word_stat_car" value="Critical avoidance"/>
-  <key id="s_word_stat_wap" value="Weapon damage"/>
+  <key id="s_word_stat_pap" value="Physical Attack"/>
+  <key id="s_word_stat_map" value="Magic Attack"/>
+  <key id="s_word_stat_par" value="Physical Defense"/>
+  <key id="s_word_stat_mar" value="Magic Defense"/>
+  <key id="s_word_stat_cad" value="Critical Damage"/>
+  <key id="s_word_stat_car" value="Critical Avoidability"/>
+  <key id="s_word_stat_wap" value="Weapon Damage"/>
   <key id="s_word_stat_dmg" value="Damage"/>
-  <key id="s_word_stat_pen" value="Def penetrating"/>
-  <key id="s_word_stat_rmsp" value="Mounted movement speed"/>
+  <key id="s_word_stat_pen" value="Defense Penetration"/>
+  <key id="s_word_stat_rmsp" value="Mount Movement Speed"/>
 
   <key id="s_word_stat_hp_v" value="HP {0}"/>
   <key id="s_word_stat_sp_v" value="SP {0}"/>
@@ -930,32 +930,32 @@
   <key id="s_word_stat_str_v" value="STR {0}"/>
   <key id="s_word_stat_dex_v" value="DEX {0}"/>
   <key id="s_word_stat_int_v" value="INT {0}"/>
-  <key id="s_word_stat_ndd_v" value="Defense power {0}"/>
-  <key id="s_word_stat_atp_v" value="Hits {0}"/>
-  <key id="s_word_stat_evp_v" value="Avoidance {0}"/>
-  <key id="s_word_stat_cap_v" value="Critical hits {0}"/>
-  <key id="s_word_stat_msp_v" value="Moving speed {0}%"/>
-  <key id="s_word_stat_hp_rgp_v" value="HP Renewal {0}"/>
-  <key id="s_word_stat_hp_inv_v" value="HP Regeneration cycle {0}"/>
-  <key id="s_word_stat_sp_rgp_v" value="SP Renewal {0}"/>
-  <key id="s_word_stat_sp_inv_v" value="SP Regeneration cycle {0}"/>
-  <key id="s_word_stat_ep_rgp_v" value="EP Renewal {0}"/>
-  <key id="s_word_stat_ep_inv_v" value="EP Regeneration cycle {0}"/>
-  <key id="s_word_stat_asp_v" value="Attack speed {0}%"/>
-  <key id="s_word_stat_abp_v" value="Complete defense {0}"/>
-  <key id="s_word_stat_jmp_v" value="Jumping power {0}"/>
+  <key id="s_word_stat_ndd_v" value="Defense {0}"/>
+  <key id="s_word_stat_atp_v" value="Accuracy {0}"/>
+  <key id="s_word_stat_evp_v" value="Avoidability {0}"/>
+  <key id="s_word_stat_cap_v" value="Critical Accuracy {0}"/>
+  <key id="s_word_stat_msp_v" value="Movement Speed {0}%"/>
+  <key id="s_word_stat_hp_rgp_v" value="HP Regeneration {0}"/>
+  <key id="s_word_stat_hp_inv_v" value="HP Regeneration Cycle {0}"/>
+  <key id="s_word_stat_sp_rgp_v" value="SP Regeneration {0}"/>
+  <key id="s_word_stat_sp_inv_v" value="SP Regeneration Cycle {0}"/>
+  <key id="s_word_stat_ep_rgp_v" value="EP Regeneration {0}"/>
+  <key id="s_word_stat_ep_inv_v" value="EP Regeneration Cycle {0}"/>
+  <key id="s_word_stat_asp_v" value="Attack Speed {0}%"/>
+  <key id="s_word_stat_abp_v" value="Complete Defense {0}"/>
+  <key id="s_word_stat_jmp_v" value="Jump {0}"/>
   <key id="s_word_stat_luk_v" value="LUK {0}"/>
-  <key id="s_word_stat_pap_v" value="Physical attack power {0}"/>
-  <key id="s_word_stat_map_v" value="Magical attack power {0}"/>
-  <key id="s_word_stat_par_v" value="Physical defense power {0}"/>
-  <key id="s_word_stat_mar_v" value="Magic defense power {0}"/>
-  <key id="s_word_stat_cad_v" value="Critical damage {0}"/>
-  <key id="s_word_stat_car_v" value="Critical avoidance {0}"/>
-  <key id="s_word_stat_wap_d_v" value="Weapon minimal damage {0}"/>
-  <key id="s_word_stat_wap_u_v" value="Weapon maximum damage {0}"/>
+  <key id="s_word_stat_pap_v" value="Physical Attack {0}"/>
+  <key id="s_word_stat_map_v" value="Magic Attack {0}"/>
+  <key id="s_word_stat_par_v" value="Physical Defense {0}"/>
+  <key id="s_word_stat_mar_v" value="Magic Defense {0}"/>
+  <key id="s_word_stat_cad_v" value="Critical Damage {0}"/>
+  <key id="s_word_stat_car_v" value="Critical Avoidability {0}"/>
+  <key id="s_word_stat_wap_d_v" value="Weapon Minimum Damage {0}"/>
+  <key id="s_word_stat_wap_u_v" value="Weapon Maximum Damage {0}"/>
   <key id="s_word_stat_dmg_v" value="Damage {0}"/>
-  <key id="s_word_stat_pen_v" value="Def penetrating {0}"/>
-  <key id="s_word_stat_rmsp_v" value="Mounted movement speed {0}"/>
+  <key id="s_word_stat_pen_v" value="Defense Penetration {0}"/>
+  <key id="s_word_stat_rmsp_v" value="Mount Movement Speed {0}"/>
 
   <key id="s_word_stat_hp_r" value="HP {0:0.1f}%"/>
   <key id="s_word_stat_sp_r" value="SP {0:0.1f}%"/>
@@ -963,37 +963,37 @@
   <key id="s_word_stat_str_r" value="Wear: full STR {0:0.1f}% Increases the"/>
   <key id="s_word_stat_dex_r" value="Wear: full DEX {0:0.1f}% Increases the"/>
   <key id="s_word_stat_int_r" value="Wear: full INT {0:0.1f}% Increases the"/>
-  <key id="s_word_stat_ndd_r" value="Defense power {0:0.1f}%"/>
-  <key id="s_word_stat_atp_r" value="Hits {0:0.1f}%"/>
-  <key id="s_word_stat_evp_r" value="Avoidance {0:0.1f}%"/>
-  <key id="s_word_stat_cap_r" value="Critical hits {0:0.1f}%"/>
-  <key id="s_word_stat_msp_r" value="Moving speed {0:0.1f}%"/>
-  <key id="s_word_stat_hp_rgp_r" value="HP Renewal {0:0.1f}%"/>
-  <key id="s_word_stat_hp_inv_r" value="HP Regeneration cycle {0:0.1f}%"/>
-  <key id="s_word_stat_sp_rgp_r" value="SP Renewal {0:0.1f}%"/>
-  <key id="s_word_stat_sp_inv_r" value="SP Regeneration cycle {0:0.1f}%"/>
-  <key id="s_word_stat_ep_rgp_r" value="EP Renewal {0:0.1f}%"/>
-  <key id="s_word_stat_ep_inv_r" value="EP Regeneration cycle {0:0.1f}%"/>
-  <key id="s_word_stat_asp_r" value="Attack speed {0:0.1f}%"/>
-  <key id="s_word_stat_abp_r" value="Complete defense {0:0.1f}%"/>
-  <key id="s_word_stat_jmp_r" value="Jumping power {0:0.1f}%"/>
+  <key id="s_word_stat_ndd_r" value="Defense {0:0.1f}%"/>
+  <key id="s_word_stat_atp_r" value="Accuracy {0:0.1f}%"/>
+  <key id="s_word_stat_evp_r" value="Avoidability {0:0.1f}%"/>
+  <key id="s_word_stat_cap_r" value="Critical Accuracy {0:0.1f}%"/>
+  <key id="s_word_stat_msp_r" value="Movement Speed {0:0.1f}%"/>
+  <key id="s_word_stat_hp_rgp_r" value="HP Regeneration {0:0.1f}%"/>
+  <key id="s_word_stat_hp_inv_r" value="HP Regeneration Cycle {0:0.1f}%"/>
+  <key id="s_word_stat_sp_rgp_r" value="SP Regeneration {0:0.1f}%"/>
+  <key id="s_word_stat_sp_inv_r" value="SP Regeneration Cycle {0:0.1f}%"/>
+  <key id="s_word_stat_ep_rgp_r" value="EP Regeneration {0:0.1f}%"/>
+  <key id="s_word_stat_ep_inv_r" value="EP Regeneration Cycle {0:0.1f}%"/>
+  <key id="s_word_stat_asp_r" value="Attack Speed {0:0.1f}%"/>
+  <key id="s_word_stat_abp_r" value="Complete Defense {0:0.1f}%"/>
+  <key id="s_word_stat_jmp_r" value="Jump {0:0.1f}%"/>
   <key id="s_word_stat_luk_r" value="Wear: full LUK {0:0.1f}% Increases the"/>
-  <key id="s_word_stat_pap_r" value="Physical attack power {0:0.1f}%"/>
-  <key id="s_word_stat_map_r" value="Magical attack power {0:0.1f}%"/>
-  <key id="s_word_stat_par_r" value="Physical defense power {0:0.1f}%"/>
-  <key id="s_word_stat_mar_r" value="Magic defense power {0:0.1f}%"/>
-  <key id="s_word_stat_cad_r" value="Critical damage {0:0.1f}%"/>
-  <key id="s_word_stat_car_r" value="Critical avoidance {0:0.1f}%"/>
-  <key id="s_word_stat_wap_d_r" value="Weapon minimal damage {0:0.1f}%"/>
-  <key id="s_word_stat_wap_u_r" value="Weapon maximum damage {0:0.1f}%"/>
+  <key id="s_word_stat_pap_r" value="Physical Attack {0:0.1f}%"/>
+  <key id="s_word_stat_map_r" value="Magic Attack {0:0.1f}%"/>
+  <key id="s_word_stat_par_r" value="Physical Defense {0:0.1f}%"/>
+  <key id="s_word_stat_mar_r" value="Magic Defense {0:0.1f}%"/>
+  <key id="s_word_stat_cad_r" value="Critical Damage {0:0.1f}%"/>
+  <key id="s_word_stat_car_r" value="Critical Avoidability {0:0.1f}%"/>
+  <key id="s_word_stat_wap_d_r" value="Weapon Minimum Damage {0:0.1f}%"/>
+  <key id="s_word_stat_wap_u_r" value="Weapon Maximum Damage {0:0.1f}%"/>
   <key id="s_word_stat_dmg_r" value="Damage {0:0.1f}%"/>
-  <key id="s_word_stat_pen_r" value="Def penetrating {0:0.1f}%"/>
-  <key id="s_word_stat_rmsp_r" value="Mounted movement speed {0:0.1f}%"/>
+  <key id="s_word_stat_pen_r" value="Defense Penetration {0:0.1f}%"/>
+  <key id="s_word_stat_rmsp_r" value="Mount Movement Speed {0:0.1f}%"/>
 
   <key id="s_word_stat_weapon_damage" value="{0}-{1}"/>
-  <key id="s_item_require_weapon" value="Need a weapon"/>
-  <key id="s_item_edit_time" value="{0} Authoring ({1}Years {2}- {3}Days {4:02d}: {5:02d}Min. {6:02d}Seconds)"/>
-  <key id="s_item_end_time" value="{0}Years {1}- {2}Days {3:02d}: {4:02d}Up to the minute"/>
+  <key id="s_item_require_weapon" value="Weapon Required"/>
+  <key id="s_item_edit_time" value="{0} Crafted ({1} {2}- {3} {4:02d}: {5:02d}m {6:02d}s)"/>
+  <key id="s_item_end_time" value="Until {0} {1}- {2} {3:02d}: {4:02d}"/>
   <key id="s_item_end_time_expired" value="&lt;FONT color='#FF5F5F'&gt;(Use the term expiration)&lt;/FONT&gt; {0}Years {1}- {2}Days {3:02d}: {4:02d}P.m."/>
   <key id="s_item_end_time_maid" value="Employment period {0}Years {1}- {2}Days {3:02d}: {4:02d}P.m.\n&lt;FONT color='#707070'&gt;Maid gets paid to walk if you speak to will be extended to employment.\n7 days before expiration of the period of the employment salary.&lt;/FONT&gt;"/>
   <key id="s_item_end_time_maid_expired" value="&lt;FONT color='#FF5F5F'&gt;(The employment period)&lt;/FONT&gt; {0}Years {1}- {2}Days {3:02d}: {4:02d}P.m.\n&lt;FONT color='#707070'&gt;Made to give a salary, you can hire it again to walk.&lt;/FONT&gt;"/>
@@ -1008,16 +1008,16 @@
   <key id="s_item_end_time_when_item_get_tooltip_pcbang" value="After a period of receipt of mail. ({0})\n&lt;FONT color='#707070'&gt;PCCan only be used in the room.&lt;/FONT&gt;"/>
   <key id="s_item_end_time_when_item_get_tooltip_maid" value="The employment. ({0})\nEmployment period from receipt of mail {0}.\n&lt;FONT color='#707070'&gt;Maid gets paid to walk if you speak to will be extended to employment.\n7 days before expiration of the period of the employment salary.&lt;/FONT&gt;"/>
 
-  <key id="s_item_word_d" value="{0}Days"/>
-  <key id="s_item_word_h" value="{0}Time"/>
-  <key id="s_item_word_m" value="{0}Min."/>
+  <key id="s_item_word_d" value="{0} days"/>
+  <key id="s_item_word_h" value="{0} hours"/>
+  <key id="s_item_word_m" value="{0} minutes"/>
 
-  <key id="s_item_type_active" value="Active skill"/>
-  <key id="s_item_type_passive" value="Action skill"/>
-  <key id="s_item_type_twohand" value="With both hands"/>
-  <key id="s_item_type_lefthand" value="Left hand"/>
-  <key id="s_item_type_righthand" value="The right hand"/>
-  <key id="s_item_opt_error" value="Item option error. code={0}"/>
+  <key id="s_item_type_active" value="Active Skill"/>
+  <key id="s_item_type_passive" value="Action Skill"/>
+  <key id="s_item_type_twohand" value="Two-handed"/>
+  <key id="s_item_type_lefthand" value="Left-handed"/>
+  <key id="s_item_type_righthand" value="Right-handed"/>
+  <key id="s_item_opt_error" value="Item Option Error. code={0}"/>
 
   <key id="s_item_opt_sa_improve_acquire_exp" value="The amount of experience you get from the increase to the enemy"/>
   <key id="s_item_opt_sa_improve_acquire_exp_v" value="The amount of experience you get from the enemy {0} Increases the"/>
@@ -1046,9 +1046,9 @@
   <key id="s_item_opt_sa_improve_acquire_equipment" value="To increase the probability of equipment found"/>
   <key id="s_item_opt_sa_improve_acquire_equipment_v" value="Equipment found the odds {0:d} Increases the"/>
   <key id="s_item_opt_sa_improve_acquire_equipment_r" value="Equipment found the odds {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_damage_critical" value="Critical damage increase"/>
-  <key id="s_item_opt_sa_improve_damage_critical_v" value="Critical damage increase {0:d}"/>
-  <key id="s_item_opt_sa_improve_damage_critical_r" value="Critical damage {0:0.1f}% Increases the"/>
+  <key id="s_item_opt_sa_improve_damage_critical" value="Critical Damage increase"/>
+  <key id="s_item_opt_sa_improve_damage_critical_v" value="Critical Damage increase {0:d}"/>
+  <key id="s_item_opt_sa_improve_damage_critical_r" value="Critical Damage {0:0.1f}% Increases the"/>
   <key id="s_item_opt_sa_improve_damage_normalNpc" value="General monster attack: increases damage"/>
   <key id="s_item_opt_sa_improve_damage_normalNpc_v" value="General monster attack: increases damage {0:d}"/>
   <key id="s_item_opt_sa_improve_damage_normalNpc_r" value="General monster attack damage {0:0.1f}% Increases the"/>
@@ -1096,10 +1096,10 @@
 
   <key id="s_item_opt_sa_improve_piercing_par" value="Physical def penetrating"/>
   <key id="s_item_opt_sa_improve_piercing_par_v" value="Physical def penetrating {0:d}"/>
-  <key id="s_item_opt_sa_improve_piercing_par_r" value="Physical defense power {0:0.1f}% Piercing"/>
+  <key id="s_item_opt_sa_improve_piercing_par_r" value="Physical Defense {0:0.1f}% Piercing"/>
   <key id="s_item_opt_sa_improve_piercing_mar" value="Magic armor piercing"/>
   <key id="s_item_opt_sa_improve_piercing_mar_v" value="Magic armor piercing {0:d}"/>
-  <key id="s_item_opt_sa_improve_piercing_mar_r" value="Magic defense power {0:0.1f}% Piercing"/>
+  <key id="s_item_opt_sa_improve_piercing_mar_r" value="Magic Defense {0:0.1f}% Piercing"/>
 
   <key id="s_item_opt_sa_reduce_elements_ice" value="Frost damage reduction"/>
   <key id="s_item_opt_sa_reduce_elements_ice_v" value="Frost damage reduction {0:d}"/>
@@ -1337,65 +1337,65 @@
   <key id="s_word_rank_01" value="Normal"/>
   <key id="s_word_rank_02" value="Rare"/>
   <key id="s_word_rank_03" value="Elite"/>
-  <key id="s_word_rank_04" value="New torrent"/>
-  <key id="s_word_rank_05" value="Legend further"/>
+  <key id="s_word_rank_04" value="Excellent"/>
+  <key id="s_word_rank_05" value="Legendary"/>
   <key id="s_word_rank_06" value="Artifact"/>
-  <key id="s_word_rank_bonus" value="All options +{0}"/>
+  <key id="s_word_rank_bonus" value="All Options +{0}"/>
   <key id="s_word_item_sk" value="Skin"/>
-  <key id="s_word_item_hr" value="Hair"/>
+  <key id="s_word_item_hr" value="Hairstyle"/>
   <key id="s_word_item_fa" value="Face"/>
   <key id="s_word_item_fd" value="Makeup"/>
-  <key id="s_word_item_lh" value="Lefty equipment"/>
-  <key id="s_word_item_rh" value="Right hand equipment"/>
-  <key id="s_word_item_cp" value="Cap"/>
-  <key id="s_word_item_mt" value="Such decoration"/>
-  <key id="s_word_item_cl" value="Costumes"/>
-  <key id="s_word_item_pa" value="Of the"/>
+  <key id="s_word_item_lh" value="Left-handed Equipment"/>
+  <key id="s_word_item_rh" value="Right-handed Equipment"/>
+  <key id="s_word_item_cp" value="Hat"/>
+  <key id="s_word_item_mt" value="Appearance"/>
+  <key id="s_word_item_cl" value="Top"/>
+  <key id="s_word_item_pa" value="Bottom"/>
   <key id="s_word_item_gl" value="Gloves"/>
   <key id="s_word_item_sh" value="Shoes"/>
   <key id="s_word_item_fh" value="Mask"/>
-  <key id="s_word_item_ey" value="Eye decor"/>
+  <key id="s_word_item_ey" value="Eye Decoration"/>
   <key id="s_word_item_ea" value="Earrings"/>
   <key id="s_word_item_pd" value="Necklace"/>
   <key id="s_word_item_ri" value="Ring"/>
   <key id="s_word_item_be" value="Belt"/>
-  <key id="s_word_item_er" value="Ear"/>
+  <key id="s_word_item_er" value="Earrings"/>
   <key id="s_word_item_oh" value="Weapons"/>
   <key id="s_word_item_bu" value="Terrain"/>
   <key id="s_word_item_de" value="Ornament"/>
-  <key id="s_word_item_look" value="Looks"/>
+  <key id="s_word_item_look" value="Appearance"/>
   <key id="s_word_item_equip" value="Equipment"/>
-  <key id="s_word_item_category_clothes" value="Costume"/>
+  <key id="s_word_item_category_clothes" value="Clothes"/>
   <key id="s_word_item_category_construction" value="Construction"/>
   <key id="s_word_item_unlimited_period" value="Unlimited"/>
-  <key id="s_word_item_soldout" value="Out-of-stock"/>
-  <key id="s_word_item_soldout_html" value="&lt;FONT color='#FF5F5F'&gt;Out-of-stock&lt;/FONT&gt;"/>
-  <key id="s_word_item_limit_sell" value="Shop sale impossible"/>
-  <key id="s_word_item_limit_trade" value="Not tradable"/>
-  <key id="s_word_item_limit_sell_trade" value="Shop sale and not tradable"/>
-  <key id="s_word_item_limit_blackmarket" value="Black market trading only"/>
-  <key id="s_word_item_limit_blackmarket_sell" value="It is possible the deal only on the black market, a shop selling disabled"/>
-  <key id="s_word_item_limit_bind" value="Inability to keep it in the Bank and mannequins"/>
+  <key id="s_word_item_soldout" value="Sold Out"/>
+  <key id="s_word_item_soldout_html" value="&lt;FONT color='#FF5F5F'&gt;Sould Out&lt;/FONT&gt;"/>
+  <key id="s_word_item_limit_sell" value="Unvendorable"/>
+  <key id="s_word_item_limit_trade" value="Untradable"/>
+  <key id="s_word_item_limit_sell_trade" value="Untradable and Unvendorable"/>
+  <key id="s_word_item_limit_blackmarket" value="Only Tradable in Black Market"/>
+  <key id="s_word_item_limit_blackmarket_sell" value="Only Tradable in Black Market, Unvendorable"/>
+  <key id="s_word_item_limit_bind" value="Cannot store in mannequins and storage"/>
   <key id="s_word_skill_active" value="Active"/>
   <key id="s_word_skill_passive" value="Passive"/>
   <key id="s_word_skill_move" value="Action"/>
-  <key id="s_word_cooltime" value="Cool time {0}Seconds"/>
-  <key id="s_word_needs" value="Need"/>
+  <key id="s_word_cooltime" value="Cooldown {0} seconds"/>
+  <key id="s_word_needs" value="Required"/>
   <key id="s_word_fitness" value="Only"/>
-  <key id="s_word_sellprice" value="When you sell to the shops"/>
-  <key id="s_word_sellremind_format" value="The remaining quantity : {0}    "/>
+  <key id="s_word_sellprice" value="Shop Sell Value"/>
+  <key id="s_word_sellremind_format" value="Remaining Quantity : {0}    "/>
   <key id="s_word_require_level" value="Required level"/>
-  <key id="s_word_equiped" value="Helmet"/>
-  <key id="s_word_skillbook" value="Skill in the North"/>
+  <key id="s_word_equiped" value="Equipped"/>
+  <key id="s_word_skillbook" value="Skillbook"/>
   <key id="s_word_designed" value="Design"/>
-  <key id="s_word_indoor_only" value="Indoor installation available"/>
-  <key id="s_word_outdoor_only" value="Outdoor installation possible"/>
-  <key id="s_word_outdoor_indoor" value="Outdoor, indoor."/>
-  <key id="s_word_stackable" value="-Work available"/>
-  <key id="s_word_do_not_stack" value="Impossible to bury the"/>
-  <key id="s_word_cash" value="Cache"/>
+  <key id="s_word_indoor_only" value="Indoor Only"/>
+  <key id="s_word_outdoor_only" value="Outdoor Only"/>
+  <key id="s_word_outdoor_indoor" value="Outdoor and Indoor Only"/>
+  <key id="s_word_stackable" value="Stackable"/>
+  <key id="s_word_do_not_stack" value="Unstackable"/>
+  <key id="s_word_cash" value="Cash"/>
   <key id="s_word_skin" value="Skin"/>
-  <key id="s_word_count" value="{0} Dog"/>
+  <key id="s_word_count" value="{0}"/>
   <key id="s_word_magic" value="Magic"/>
   <key id="s_word_nearrange" value="Proximity"/>
   <key id="s_word_longrange" value="Long range"/>
@@ -1446,8 +1446,8 @@
 
   <!-- Death -->
   <key id="s_msg_tombstone" value="Heavy rain was laid behind the wheel." />
-  <key id="s_msg_die" value="The other person &lt;FONT color='#FFD200'&gt;When a monument&lt;/FONT&gt; Taking place in the place, and\n&lt;FONT color='#FFD200'&gt;To the resurrection&lt;/FONT&gt;Is pressed, revived in a safe place.\n&lt;FONT color='#FFD200'&gt;Megan Barrett&lt;/FONT&gt;If you use the in-place &lt;FONT color='#FFD200'&gt;Immediately&lt;/FONT&gt; You can be resurrected." /> <!--The former dies after giving this message-->
-  <key id="s_msg_die_repeat" value="Someone else smacked revived monument cannot give\n&lt;FONT color='#FFD200'&gt;To the resurrection&lt;/FONT&gt;Is pressed, revived in a safe place.\n&lt;FONT color='#FFD200'&gt;Megan Barrett&lt;/FONT&gt;If you use the in-place &lt;FONT color='#FFD200'&gt;Immediately&lt;/FONT&gt; You can be resurrected." /> <!--The former part after you have identified this message again Hugh dies-->
+  <key id="s_msg_die" value="The other person &lt;FONT color='#FFD200'&gt;When a monument&lt;/FONT&gt; Taking place in the place, and\n&lt;FONT color='#FFD200'&gt;To the resurrection&lt;/FONT&gt;Is pressed, revived in a safe place.\n&lt;FONT color='#FFD200'&gt;Merit&lt;/FONT&gt;If you use the in-place &lt;FONT color='#FFD200'&gt;Immediately&lt;/FONT&gt; You can be resurrected." /> <!--The former dies after giving this message-->
+  <key id="s_msg_die_repeat" value="Someone else smacked revived monument cannot give\n&lt;FONT color='#FFD200'&gt;To the resurrection&lt;/FONT&gt;Is pressed, revived in a safe place.\n&lt;FONT color='#FFD200'&gt;Merit&lt;/FONT&gt;If you use the in-place &lt;FONT color='#FFD200'&gt;Immediately&lt;/FONT&gt; You can be resurrected." /> <!--The former part after you have identified this message again Hugh dies-->
   <key id="s_msg_die_beginner" value="The other person &lt;FONT color='#FFD200'&gt;When a monument&lt;/FONT&gt; In place of resurrection,\n&lt;FONT color='#FFD200'&gt;To the resurrection&lt;/FONT&gt;Is pressed, revived in a safe place." /> <!--When a beginner is not dead or died when the message map identified by Hugh-->
   <key id="s_msg_die_warring_different_map_revive" value="Resurrection place &lt;FONT color='#FFD200'&gt;{0}&lt;/FONT&gt;." /> <!--revivalreturnidIf the map of the map code dead and straightway coming up out of this message further-->
   <key id="s_msg_revival_btn" value="To the resurrection"/>
@@ -1460,94 +1460,94 @@
   <key id="s_msg_revival_meso_btn" value="In situ to the resurrection {0}&lt;Img Src='export_common_icon_meso' vspace='-4'&gt;&lt;/Img&gt;"/>
 
 <!-- Friends -->
-  <key id="s_buddy_add_somebody" value="{0} You and a friend."/>
-  <key id="s_buddy_ban_somebody" value="{0} I&#8217;ve blocked him."/>
-  <key id="s_buddy_request_to_somebody" value="{0} Sent friend requests to."/>
-  <key id="s_buddy_ban_memo_complete" value="{0} Block notes about editing."/>
-  <key id="s_buddy_decline_request_from_somebody" value="{0} Declined the request, submitted by."/>
-  <key id="s_buddy_refused_request_from_somebody" value="{0} This friend has declined the request."/>
-  <key id="s_buddy_cancel_request_from_somebody" value="{0} Ay cancel friend request."/>
-  <key id="s_buddy_cancel_request" value="{0} Cancel friend request sent to." />
-  <key id="s_buddy_del_somebody_from_list" value="{0} It&#8217;s been removed from your friends list."/>
-  <key id="s_buddy_del_somebody_from_banlist" value="{0} This was removed from the block list."/>
-  <key id="s_buddy_alert_online_somebody" value="Friends {0} By this juncture."/>
-  <key id="s_buddy_alert_offline_somebody" value="Friends {0} This has ended the connection."/>
-  <key id="s_buddy_request_default_msg" value="Me and a friend."/>
-  <key id="s_buddy_waiting" value="Waiting accept"/>
+  <key id="s_buddy_add_somebody" value="You became friends with {0}."/>
+  <key id="s_buddy_ban_somebody" value="You blocked {0}"/>
+  <key id="s_buddy_request_to_somebody" value="You've sent a friend request to {0}."/>
+  <key id="s_buddy_ban_memo_complete" value="You've edited the block notice for {0}."/>
+  <key id="s_buddy_decline_request_from_somebody" value="You declined the request of {0}."/>
+  <key id="s_buddy_refused_request_from_somebody" value="You declined the friend request of {0}."/>
+  <key id="s_buddy_cancel_request_from_somebody" value="You canceled the friend request of {0}."/>
+  <key id="s_buddy_cancel_request" value="Your friend request sent to {0} has been canceled." />
+  <key id="s_buddy_del_somebody_from_list" value="{0} was removed from your friend list."/>
+  <key id="s_buddy_del_somebody_from_banlist" value="{0} was removed from your block list."/>
+  <key id="s_buddy_alert_online_somebody" value="Your friend {0} has logged on."/>
+  <key id="s_buddy_alert_offline_somebody" value="Your friend {0} has logged off."/>
+  <key id="s_buddy_request_default_msg" value="Do you want to be my friend?"/>
+  <key id="s_buddy_waiting" value="Pending"/>
   <key id="s_buddy_format_ch_map" value="Channel {0} | {1}"/>
   <key id="s_buddy_format_offline" value="Offline"/>
-  <key id="s_buddy_format_mapuser_count" value="{0}\nCCU: {1}People"/>
-  <key id="s_buddy_format_recv_count" value="Request: {0}People"/>
-  <key id="s_buddy_format_ban_count" value="Blocked people: {0}People"/>
-  <key id="s_buddy_format_buddy_count" value="Access friends: &lt;FONT color='#00A2ED'&gt;{0}&lt;/FONT&gt; / {1}People"/>
+  <key id="s_buddy_format_mapuser_count" value="{0}\nPlayers: {1}"/>
+  <key id="s_buddy_format_recv_count" value="Requests Received: {0}"/>
+  <key id="s_buddy_format_ban_count" value="Blocked People: {0}"/>
+  <key id="s_buddy_format_buddy_count" value="Online Friends: &lt;FONT color='#00A2ED'&gt;{0}&lt;/FONT&gt; / {1}"/>
 
 
-  <key id="s_buddy_err_miss_id" value="Is the wrong target."/>
-  <key id="s_buddy_err_empty_id" value="Please enter a name for the character."/>
-  <key id="s_buddy_err_not_exist_id" value="The characters you entered does not exist."/>
-  <key id="s_buddy_err_ban_buddy_add" value="{0} Has been blocked by the State. Unpack the blocking, give it a try."/>
-  <key id="s_buddy_err_already_receive" value="{0} Already received a friend request submitted by State."/>
-  <key id="s_buddy_err_max_block" value="{0} You can&#8217;t block him."/>
-  <key id="s_buddy_err_request_somebody" value="{0} You can&#8217;t make a friend request to."/>
-  <key id="s_buddy_err_max_buddy" value="Cannot add friends."/>
-  <key id="s_buddy_err_target_full" value="{0} Cannot add friends by State."/>
-  <key id="s_buddy_err_already_request" value="Already the requesting State."/>
-  <key id="s_buddy_err_already_ban" value="{0} Already blocked by the State."/>
-  <key id="s_buddy_err_already_buddy" value="{0} And already a friend."/>
+  <key id="s_buddy_err_miss_id" value="Wrong Target."/>
+  <key id="s_buddy_err_empty_id" value="Enter the character's name."/>
+  <key id="s_buddy_err_not_exist_id" value="The character you entered does not exist."/>
+  <key id="s_buddy_err_ban_buddy_add" value="{0} is blocked. Remove the block first."/>
+  <key id="s_buddy_err_already_receive" value="You have already sent a friend request to {0}."/>
+  <key id="s_buddy_err_max_block" value="You cannot block {0}."/>
+  <key id="s_buddy_err_request_somebody" value="You cannot send a friend request to {0}."/>
+  <key id="s_buddy_err_max_buddy" value="You cannot add any more friends."/>
+  <key id="s_buddy_err_target_full" value="The friend list of {0} is full."/>
+  <key id="s_buddy_err_already_request" value="Already requested."/>
+  <key id="s_buddy_err_already_ban" value="{0} is already blocked."/>
+  <key id="s_buddy_err_already_buddy" value="{0} and you are already friends."/>
   <key id="s_buddy_err_my_id" value="You cannot add yourself."/>
   <key id="s_buddy_err_my_id_ex" value="You cannot add yourself."/> <!-- In the code argument idAdditional value ı. -->
-  <key id="s_buddy_err_already_request_somebody" value="{0} Is the requested State, already submitted by friends."/>
-  <key id="s_buddy_err_already_receive_from_this_char" value="Already a friend request to me character.\nCheck the community window."/>
+  <key id="s_buddy_err_already_request_somebody" value="You have already sent a friend request to {0}."/>
+  <key id="s_buddy_err_already_receive_from_this_char" value="This character already sent a friend request to you.\nPlease check the Community window."/>
 
 
 <!-- Skill Crystal upgrade -->
   <key id="s_msg_crystal_upgrade_empty" value="Can be upgraded to Crystal."/>
   <key id="s_msg_crystal_upgrade_disabled" value="Can enhance the Crystal."/>
-  <key id="s_msg_crystal_upgrade_complete" value="Strengthening was completed."/>
+  <key id="s_msg_crystal_upgrade_complete" value="Upgrade completed."/>
 
 <!-- Shop -->
-  <key id="s_msg_meso_drop" value="How much does the beorisigessseubnigga?" />
-  <key id="s_msg_item_drop" value="Some dogs beorisigessseubnigga?" />
-  <key id="s_msg_item_buy" value="Are you sure you want to buy some?" />
-  <key id="s_msg_item_sell" value="Some dogs for sale?" />
-  <key id="s_msg_item_repurchase" value="Are you sure you want to repurchase it again?"/>
-  <key id="s_msg_item_sell_request" value="{0} I&#8217;ve sold an item."/>
-  <key id="s_msg_item_sell_count_request" value="{0} Items {1}Dogs for sale."/>
-  <key id="s_msg_item_sell_confirm" value="Really are you sure you want to sell?"/>
-  <key id="s_msg_item_buy_confirm" value="Are you sure you want to buy an item?"/>
+  <key id="s_msg_meso_drop" value="How much would you like to drop?" />
+  <key id="s_msg_item_drop" value="How many would you like to drop?" />
+  <key id="s_msg_item_buy" value="Are you sure you want to buy?" />
+  <key id="s_msg_item_sell" value="Are you sure you want to sell?" />
+  <key id="s_msg_item_repurchase" value="Are you sure you want to rebuy it?"/>
+  <key id="s_msg_item_sell_request" value="Sold {0}."/>
+  <key id="s_msg_item_sell_count_request" value="Sold {0} ({1})."/>
+  <key id="s_msg_item_sell_confirm" value="Are you really sure you want to sell this?"/>
+  <key id="s_msg_item_buy_confirm" value="Are you really sure you want to buy this item?"/>
 
  <!-- Skill in the North -->
   <key id="s_msg_skillbook_learn_messagebox" value="Do you want to learn a skill?"/>
   <key id="s_msg_skillbook_learn_notexistslot" value="No, you cannot learn a secondary skill slots are empty."/>
   <key id="s_msg_skillbook_error_job" value="You cannot learn different jobs."/>
-  <key id="s_msg_skillbook_error_level" value="You can learn level yet."/>
-  <key id="s_msg_skillbook_error_master" value="Have already learned skills."/>
-  <key id="s_msg_skillbook_error_expired" value="Expired items."/>
+  <key id="s_msg_skillbook_error_level" value="Your level is too low to learn this skill."/>
+  <key id="s_msg_skillbook_error_master" value="You've already learned this skill."/>
+  <key id="s_msg_skillbook_error_expired" value="The item has expired."/>
 
  <!-- Trophy -->
-  <key id="s_achieve_adventure" value="Adventure trophy"/>
-  <key id="s_achieve_combat" value="Battle trophy"/>
-  <key id="s_achieve_life" value="Living trophy"/>
-  <key id="s_achieve_reward_item" value="{0} {1}Dog"/>
-  <key id="s_achieve_reward_meso" value="{0} Meredith small"/>
-  <key id="s_achieve_reward_exp" value="{0} exp"/>
-  <key id="s_achieve_reward_function" value="It is possible to use the automatic picking up items"/>
-  <key id="s_achieve_reward_title" value="{0} Entitlement acquired"/>
-  <key id="s_achieve_reward_merat" value="{0} Megan Barrett"/>
+  <key id="s_achieve_adventure" value="Adventure Trophy"/>
+  <key id="s_achieve_combat" value="Battle Trophy"/>
+  <key id="s_achieve_life" value="Life Trophy"/>
+  <key id="s_achieve_reward_item" value="{0} {1}"/>
+  <key id="s_achieve_reward_meso" value="{0} Meso"/>
+  <key id="s_achieve_reward_exp" value="{0} EXP"/>
+  <key id="s_achieve_reward_function" value="Automatic Pick-up Items Ability"/>
+  <key id="s_achieve_reward_title" value="{0} Title Obtained"/>
+  <key id="s_achieve_reward_merat" value="{0} Merit"/>
   <key id="s_achieve_reward_field_enterance" value="{0} Last admission"/><!--Disable-->
   <key id="s_achieve_reward_item_buy_auth" value="{0} Buy permissions"/><!--Disable-->
-  <key id="s_achieve_reward_tab" value="Compensation"/>
+  <key id="s_achieve_reward_tab" value="Reward"/>
   <key id="s_achieve_reward_tab_great" value="Emblems"/>
   <key id="s_achieve_renderer_count" value="{0} / {1}"/>
   <key id="s_achieve_renderer_count_time" value="{0} / {1}"/>
-  <key id="s_achieve_renderer_hour" value="{0}Time "/>
-  <key id="s_achieve_renderer_min" value="{0}Min."/>
+  <key id="s_achieve_renderer_hour" value="{0}h "/>
+  <key id="s_achieve_renderer_min" value="{0}m"/>
   <key id="s_achieve_meter" value="{0}Meter"/>
   <key id="s_achieve_killometer_f" value="{0:0.1f}km"/>
   <key id="s_achieve_killometer" value="{0}km"/>
   <key id="s_achieve_grade" value="Step"/>
-  <key id="s_achieve_state_progress" value="Trophy progress"/>
-  <key id="s_achieve_state_complete" value="To achieve the trophy"/>
+  <key id="s_achieve_state_progress" value="Trophy in Progress"/>
+  <key id="s_achieve_state_complete" value="Trophy Achievements"/>
   <key id="s_achieve_get_achieve_daily" value="Have achieved the trophy one day. [{0}]"/><!--Disable-->
   <key id="s_achieve_get_achieve_hero_progress" value="The trophy was achieved. {0}"/>
   <key id="s_achieve_get_achieve_hero_complete" value="It was completed by the final stage of the trophy. {0}"/>
@@ -1556,43 +1556,43 @@
   <key id="s_achieve_reset_account" value="The trophy of the account has been reset. Shortly after the exit."/>
 
  <!-- Maid -->
-  <key id="s_maid_change_maid_name" value="Give the name of the maid.\n(Korean six-party, * you can enter up to 12 characters.)"/>
-  <key id="s_maid_change_owner_name" value="Look at me Mademoiselle.\n(Korean six-party, * you can enter up to 12 characters.)"/>
+  <key id="s_maid_change_maid_name" value="Name your maid.\n(You can enter up to 6 Hangul and 12 English characters.)"/>
+  <key id="s_maid_change_owner_name" value="Give a title.\n(You can enter up to 6 Hangul and 12 English characters.)"/>
   <key id="s_maid_default_owner_name" value="Master"/>
   <key id="s_maid_label_name" value="Name"/>
-  <key id="s_maid_label_title" value="Entitlement"/>
+  <key id="s_maid_label_title" value="Title"/>
   <key id="s_maid_label_birth" value="Birthday"/>
   <key id="s_maid_label_constel" value="Horoscope"/>
   <key id="s_maid_label_height" value="Key"/>
-  <key id="s_maid_label_weight" value="Weigh-in"/>
-  <key id="s_maid_label_like" value="Would like to"/>
-  <key id="s_maid_label_hate" value="What she dislikes"/>
+  <key id="s_maid_label_weight" value="Weight"/>
+  <key id="s_maid_label_like" value="Likes"/>
+  <key id="s_maid_label_hate" value="Dislikes"/>
   <key id="s_maid_label_hobby" value="Hobby"/>
-  <key id="s_maid_label_ownername" value="Me Mademoiselle"/>
+  <key id="s_maid_label_ownername" value="My title is awaiting me"/>
   <key id="s_maid_label_belongto" value="Dept."/>
   <key id="s_maid_label_salary" value="Salary"/>
   <key id="s_maid_need_salary" value="The lack of a paycheck"/>
   <key id="s_maid_expire_date" value="The expiration {0}Years {1}- {2}Days {3:02d}: {4:02d}Min."/>
-  <key id="s_maid_expire_date_morning" value="Am"/>
+  <key id="s_maid_expire_date_morning" value="AM"/>
   <key id="s_maid_expire_date_afternoon" value="PM"/>
 
-  <key id="s_maid_expire_date_reserved_word" value="{0}Years {1}- {2}Days {3:02d}: {4:02d}Min."/>
-  <key id="s_maid_extend_date_reserved_word" value="{0}Years {1}- {2}Days {3:02d}: {4:02d}Min."/>
+  <key id="s_maid_expire_date_reserved_word" value="{0}{1}- {2} {3:02d}: {4:02d}m"/>
+  <key id="s_maid_extend_date_reserved_word" value="{0} {1}- {2} {3:02d}: {4:02d}m"/>
 
-  <key id="s_maid_affinity_gauge_level" value="{0}Step"/>
+  <key id="s_maid_affinity_gauge_level" value="Stage {0}"/>
   <key id="s_maid_affinity_gauge_level_max" value="| MAX"/>
   <key id="s_maid_affinity_gauge_affinity" value="Familiarity {0} / {1}"/>
   <key id="s_maid_affinity_gauge_affinity_max" value="Familiarity with a maximum"/>
   <key id="s_maid_edit_confirm" value="You can no longer modify a time cannot be modified.\nAre you sure that you want to modify?"/>
-  <key id="s_maid_feel_normal" value="Usually"/>
-  <key id="s_maid_feel_good" value="Hea"/>
-  <key id="s_maid_feel_very_good" value="Mycket bra"/>
+  <key id="s_maid_feel_normal" value="Normal"/>
+  <key id="s_maid_feel_good" value="Good"/>
+  <key id="s_maid_feel_very_good" value="Very Good"/>
   <key id="s_maid_tooltip_maid_desc" value="Specialty: {0}\nSalary: {1}&lt;Img Src='{2}' vspace='-4'/&gt;/30Days"/>
   <key id="s_maid_tooltip_manufactured" value="{0} Produced by aborted ({1})"/>
   <key id="s_maid_tooltip_manufacturing" value="{0} Production ({1})"/>
   <key id="s_maid_reserved_word_passed_days" value="{0}Days"/>
-  <key id="s_maid_reserved_word_pay_type_meso" value="{0}Meredith small"/>
-  <key id="s_maid_reserved_word_pay_type_merat" value="{0}Megan Barrett"/>
+  <key id="s_maid_reserved_word_pay_type_meso" value="{0} Meso"/>
+  <key id="s_maid_reserved_word_pay_type_merat" value="{0} Merit"/>
   <key id="s_maid_recipe_item_option" value="+{0}Random options"/>
   <key id="s_maid_recipe_item_option_range" value="+{0}~{1}Random options"/>
 
@@ -1615,12 +1615,12 @@
   <key id="s_manufacture_complete_jackpot" value="Production complete"/>
   <key id="s_manufacture_complete_by_merat" value="Completed immediately {0} &lt;Img Src='icon_merat24.png' vspace='-5'&gt;&lt;/Img&gt;"/>
 
-  <key id="s_manufacture_workbench_tooltip_cook_on" value="&lt;FONT color='#8dd502' size='15' &gt;Cooking tools installation is complete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' &gt;Made in order to produce this food indoors\nMinimum &lt;FONT size='14' color='#FFD200'&gt;1Dog&lt;/FONT&gt; Or more &lt;FONT size='14' color='#FFD200'&gt;Cooking tools&lt;/FONT&gt;Must be installed.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' color='#878787'&gt;Cooking tool Tri Ah Nicene or\nMegan Barrett can be purchased at the market.&lt;/FONT&gt;"/>
-  <key id="s_manufacture_workbench_tooltip_cook_off" value="&lt;FONT color='#FF5F5F' size='15' &gt;Cooking tools you need&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' &gt;Made in order to produce this food indoors\nMinimum &lt;FONT size='14' color='#FFD200'&gt;1Dog&lt;/FONT&gt; Or more &lt;FONT size='14' color='#FFD200'&gt;Cooking tools&lt;/FONT&gt;Must be installed.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' color='#878787'&gt;Cooking tool Tri Ah Nicene or\nMegan Barrett can be purchased at the market.&lt;/FONT&gt;"/>
-  <key id="s_manufacture_workbench_tooltip_alchemy_on" value="&lt;FONT color='#8dd502' size='15' &gt;Pension tools installation is complete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' &gt;Made in order to produce this item indoors\nMinimum &lt;FONT size='14' color='#FFD200'&gt;1Dog&lt;/FONT&gt; Or more &lt;FONT size='14' color='#FFD200'&gt;Pension tools&lt;/FONT&gt;Must be installed.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' color='#878787'&gt;Pension tools Tri of the Nicene or\nMegan Barrett can be purchased at the market.&lt;/FONT&gt;"/>
-  <key id="s_manufacture_workbench_tooltip_alchemy_off" value="&lt;FONT color='#FF5F5F' size='15' &gt;Pension tools required&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' &gt;Made in order to produce this item indoors\nMinimum &lt;FONT size='14' color='#FFD200'&gt;1Dog&lt;/FONT&gt; Or more &lt;FONT size='14' color='#FFD200'&gt;Pension tools&lt;/FONT&gt;Must be installed.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' color='#878787'&gt;Pension tools Tri of the Nicene or\nMegan Barrett can be purchased at the market.&lt;/FONT&gt;"/>
-  <key id="s_manufacture_workbench_tooltip_biz_on" value="&lt;FONT color='#8dd502' size='15' &gt;Craft tools installation is complete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT  size='14' &gt;Made in order to produce this item indoors\nMinimum &lt;FONT size='14' color='#FFD200'&gt;1Dog&lt;/FONT&gt; Or more &lt;FONT size='14' color='#FFD200'&gt;Craft tools&lt;/FONT&gt;Must be installed.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' color='#878787'&gt;Craft tool Tri of the Nicene or\nMegan Barrett can be purchased at the market.&lt;/FONT&gt;"/>
-  <key id="s_manufacture_workbench_tooltip_biz_off" value="&lt;FONT color='#FF5F5F' size='15' &gt;Craft tool is required&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT  size='14' &gt;Made in order to produce this item indoors\nMinimum &lt;FONT size='14' color='#FFD200'&gt;1Dog&lt;/FONT&gt; Or more &lt;FONT size='14' color='#FFD200'&gt;Craft tools&lt;/FONT&gt;Must be installed.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' color='#878787'&gt;Craft tool Tri of the Nicene or\nMegan Barrett can be purchased at the market.&lt;/FONT&gt;"/>
+  <key id="s_manufacture_workbench_tooltip_cook_on" value="&lt;FONT color='#8dd502' size='15' &gt;Cooking tools installation is complete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' &gt;Made in order to produce this food indoors\nMinimum &lt;FONT size='14' color='#FFD200'&gt;1Dog&lt;/FONT&gt; Or more &lt;FONT size='14' color='#FFD200'&gt;Cooking tools&lt;/FONT&gt;Must be installed.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' color='#878787'&gt;Cooking tool Tri Ah Nicene or\nMerit can be purchased at the market.&lt;/FONT&gt;"/>
+  <key id="s_manufacture_workbench_tooltip_cook_off" value="&lt;FONT color='#FF5F5F' size='15' &gt;Cooking tools you need&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' &gt;Made in order to produce this food indoors\nMinimum &lt;FONT size='14' color='#FFD200'&gt;1Dog&lt;/FONT&gt; Or more &lt;FONT size='14' color='#FFD200'&gt;Cooking tools&lt;/FONT&gt;Must be installed.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' color='#878787'&gt;Cooking tool Tri Ah Nicene or\nMerit can be purchased at the market.&lt;/FONT&gt;"/>
+  <key id="s_manufacture_workbench_tooltip_alchemy_on" value="&lt;FONT color='#8dd502' size='15' &gt;Pension tools installation is complete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' &gt;Made in order to produce this item indoors\nMinimum &lt;FONT size='14' color='#FFD200'&gt;1Dog&lt;/FONT&gt; Or more &lt;FONT size='14' color='#FFD200'&gt;Pension tools&lt;/FONT&gt;Must be installed.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' color='#878787'&gt;Pension tools Tri of the Nicene or\nMerit can be purchased at the market.&lt;/FONT&gt;"/>
+  <key id="s_manufacture_workbench_tooltip_alchemy_off" value="&lt;FONT color='#FF5F5F' size='15' &gt;Pension tools required&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' &gt;Made in order to produce this item indoors\nMinimum &lt;FONT size='14' color='#FFD200'&gt;1Dog&lt;/FONT&gt; Or more &lt;FONT size='14' color='#FFD200'&gt;Pension tools&lt;/FONT&gt;Must be installed.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' color='#878787'&gt;Pension tools Tri of the Nicene or\nMerit can be purchased at the market.&lt;/FONT&gt;"/>
+  <key id="s_manufacture_workbench_tooltip_biz_on" value="&lt;FONT color='#8dd502' size='15' &gt;Craft tools installation is complete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT  size='14' &gt;Made in order to produce this item indoors\nMinimum &lt;FONT size='14' color='#FFD200'&gt;1Dog&lt;/FONT&gt; Or more &lt;FONT size='14' color='#FFD200'&gt;Craft tools&lt;/FONT&gt;Must be installed.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' color='#878787'&gt;Craft tool Tri of the Nicene or\nMerit can be purchased at the market.&lt;/FONT&gt;"/>
+  <key id="s_manufacture_workbench_tooltip_biz_off" value="&lt;FONT color='#FF5F5F' size='15' &gt;Craft tool is required&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT  size='14' &gt;Made in order to produce this item indoors\nMinimum &lt;FONT size='14' color='#FFD200'&gt;1Dog&lt;/FONT&gt; Or more &lt;FONT size='14' color='#FFD200'&gt;Craft tools&lt;/FONT&gt;Must be installed.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT size='14' color='#878787'&gt;Craft tool Tri of the Nicene or\nMerit can be purchased at the market.&lt;/FONT&gt;"/>
 
   <key id="s_manufacture_cinematic_title" value=" "/>
   <key id="s_manufacture_cinematic_affinity" value="Familiarity is {0} The previous month."/>
@@ -1632,7 +1632,7 @@
   <key id="s_maid_recipe_list_title" value="{0} Recipe"/>
 
 
-<!-- Vote-by-mail -->
+<!-- Mailbox -->
   <key id="s_mail_cleaning_title" value="Are you sure you want to clean up the Inbox?\n&lt;FONT color='#FFD200'&gt;However, it does not delete the letters in the attached article.&lt;/FONT&gt;"/>
   <key id="s_mail_cleaning_usermail" value="Read the letter by regular mail of deleted"/>
   <key id="s_mail_cleaning_systemmail" value="Read the letter of the special vote-by-mail deletion"/>
@@ -1685,19 +1685,19 @@
   <key id="s_word_customize_angle" value="Angle"/>
 
 <!--Preferences-->
-  <key id="s_option_fullscreen" value="Full-screen"/>
-  <key id="s_option_windowmode" value="Windowed mode"/>
-  <key id="s_option_windowmode_full" value="A full screen"/>
+  <key id="s_option_fullscreen" value="Full Screen"/>
+  <key id="s_option_windowmode" value="Full Screen (Windowed)"/>
+  <key id="s_option_windowmode_full" value="Full Screen"/>
   <key id="s_option_resolution" value="{0:4d} X {1:4d} ({2:d}:{3:d})"/>
   <key id="s_option_resolution_wide" value="{0:4d} X {1:4d} ({2:d}:{3:d} Wide)"/>
-  <key id="s_option_perf_very_low" value="Very low"/>
+  <key id="s_option_perf_very_low" value="Very Low"/>
   <key id="s_option_perf_low" value="Low"/>
-  <key id="s_option_perf_normal" value="Usually"/>
+  <key id="s_option_perf_normal" value="Normal"/>
   <key id="s_option_perf_high" value="High"/>
-  <key id="s_option_perf_very_high" value="Very high"/>
+  <key id="s_option_perf_very_high" value="Very High"/>
   <key id="s_option_category_action" value="Action"/>
   <key id="s_option_category_menu" value="Menu"/>
-  <key id="s_option_category_emotion" value="Emotional expression"/>
+  <key id="s_option_category_emotion" value="Emotes"/>
   <key id="s_option_category_etc" value="Other"/>
   <key id="s_option_category_debug" value="Debug"/>
 
@@ -1707,10 +1707,10 @@
   <key id="s_msg_ugc_expired_item" value="Expired items."/>
 
 
-  <key id="s_title_shop" value="{0}Stores"/>
+  <key id="s_title_shop" value="{0}'s Shop"/>
   <key id="s_title_buyitem" value="Buy"/>
-  <key id="s_title_sellitem" value="Items for sale"/>
-  <key id="s_ugc_err_code" value="System error : Image registration failed. code = {0}"/>
+  <key id="s_title_sellitem" value="Sell"/>
+  <key id="s_ugc_err_code" value="System Error : Image Registration Failed. code = {0}"/>
   <key id="s_ugc_err_url" value="Download URLFailed to import."/>
   <key id="s_ugc_regist_ok" value="Registration has been completed."/>
 
@@ -1718,8 +1718,8 @@
   <key id="s_err_duplicate_tabname" value="The name of the duplicate tab."/>
 
   <!--Chat-->
-  <key id="s_word_entire" value="Full"/>
-  <key id="s_word_friend" value="Friends"/>
+  <key id="s_word_entire" value="All"/>
+  <key id="s_word_friend" value="Friend"/>
   <key id="s_word_party" value="Party"/>
   <key id="s_word_guild" value="Guild"/>
   <key id="s_tip_whisper" value="[username] [talk]"/>
@@ -1747,60 +1747,60 @@
   <key id="s_store_err_deposit_max_money" value="Max {0}You can store up to a cow in Medan."/>
   
   <!--Watch-->
-   <key id="s_quest_clear_time" value="{0}Years {1}- {2}Days {3}{4}:"/>
-   <key id="s_word_time_ms" value="|Min. |Seconds"/>
-   <key id="s_quest_clear_morning" value="Am"/>
+   <key id="s_quest_clear_time" value="{0} {1}- {2} {3}{4}:"/>
+   <key id="s_word_time_ms" value="|m |s"/>
+   <key id="s_quest_clear_morning" value="AM"/>
    <key id="s_quest_clear_afternoon" value="PM"/>
    <key id="s_word_week_sun" value="Sunday"/>
    <key id="s_word_week_mon" value="Monday"/>
-   <key id="s_word_week_tue" value="On Tuesday,"/>
-   <key id="s_word_week_wed" value="On Wednesday,"/>
+   <key id="s_word_week_tue" value="On Tuesday"/>
+   <key id="s_word_week_wed" value="On Wednesday"/>
    <key id="s_word_week_thu" value="Thursday"/>
    <key id="s_word_week_fri" value="Friday"/>
    <key id="s_word_week_sat" value="Saturday"/>
 
-   <key id="s_word_week_sun2" value="Days"/>
-   <key id="s_word_week_mon2" value="-"/>
-   <key id="s_word_week_tue2" value="Shoes"/>
-   <key id="s_word_week_wed2" value="The number of"/>
-   <key id="s_word_week_thu2" value="Neck"/>
-   <key id="s_word_week_fri2" value="Gold"/>
+   <key id="s_word_week_sun2" value="Sun"/>
+   <key id="s_word_week_mon2" value="Mon"/>
+   <key id="s_word_week_tue2" value="Tue"/>
+   <key id="s_word_week_wed2" value="Wed"/>
+   <key id="s_word_week_thu2" value="Thu"/>
+   <key id="s_word_week_fri2" value="Fri"/>
    <key id="s_word_week_sat2" value="Sat"/>
 
-   <key id="s_word_date_week" value="{0:4d}- {1:4d}Days {2}"/>
+   <key id="s_word_date_week" value="{0:4d}- {1:4d} {2}"/>
 
   <!--[EE_DYNAMIC_CAST]-->
-  <key id="s_word_min" value="Min."/>
-  <key id="s_word_sec" value="Seconds"/>
-  <key id="s_word_hour" value="Time"/>
+  <key id="s_word_min" value="m"/>
+  <key id="s_word_sec" value="s"/>
+  <key id="s_word_hour" value="h"/>
   <key id="s_word_hour2" value=":"/>
-  <key id="s_word_day" value="Days"/>
+  <key id="s_word_day" value="d"/>
   <key id="s_word_remain" value="Remaining"/>
 
   <key id="s_word_group" value="Group"/>
-  <key id="s_word_newgroup" value="The new group"/>
+  <key id="s_word_newgroup" value="New group"/>
 
   <!--Quest-->
-  <key id="s_quest_chapter" value="{0}Chapter"/>
-  <key id="s_quest_talk_accept" value="Accept:SPACE,Reject:ESC"/>
+  <key id="s_quest_chapter" value="Chapter {0}"/>
+  <key id="s_quest_talk_accept" value="Accept:SPACE,Decline:ESC"/>
   <key id="s_quest_talk_complete" value="Complete:SPACE,Close:ESC"/>
   <key id="s_quest_talk_progress" value="Next:SPACE,Close:ESC"/>
   <key id="s_quest_talk_end" value="Close:SPACE"/>
-  <key id="s_quest_talk_reward_title" value="Quest rewards"/>
+  <key id="s_quest_talk_reward_title" value="Quest Reward"/>
   <key id="s_quest_state_init" value=""/>
-  <key id="s_quest_state_beginAble" value="It is possible to start"/>
-  <key id="s_quest_state_progress" value="In progress"/>
-  <key id="s_quest_state_completeAble" value="It is possible to complete"/>
+  <key id="s_quest_state_beginAble" value="Startable"/>
+  <key id="s_quest_state_progress" value="In Progress"/>
+  <key id="s_quest_state_completeAble" value="Completable"/>
   <key id="s_quest_state_complete" value="Complete"/>
-  <key id="s_quest_replace_npc" value="{0} To hunt"/>
-  <key id="s_quest_replace_talk" value="{0}$And, and$ To communicate"/>
-  <key id="s_quest_replace_field" value="{0}$, As$ Go to the"/>
-  <key id="s_quest_replace_item" value="{0} To obtain the"/>
-  <key id="s_quest_replace_satisfied" value="{0} Meet"/><!--{0} Meet-->
+  <key id="s_quest_replace_npc" value="Hunt {0}"/>
+  <key id="s_quest_replace_talk" value="{0}$and, and$ Talk to "/>
+  <key id="s_quest_replace_field" value="{0}$, to$ Go to "/>
+  <key id="s_quest_replace_item" value="Obtain {0}"/>
+  <key id="s_quest_replace_satisfied" value="{0} Meet with"/><!--{0} Meet-->
   <key id="s_quest_replace_item_move" value="{0}$And,$ {1}$, As$ Transferring"/>
-  <key id="s_quest_main_quest" value="EPIC"/>
+  <key id="s_quest_main_quest" value="Epic"/>
   <key id="s_quest_sub_quest" value="World"/>
-  <key id="s_quest_repeat_infinite" value="[Repeat]"/>
+  <key id="s_quest_repeat_infinite" value="[Repeatable]"/>
   <key id="s_quest_repeat_daily" value="[Daily]"/>
 
 
@@ -1814,13 +1814,13 @@
    <key id="s_realestate_install_building_count" value="Building {0}It is possible to install a sink"/><!--To display the contents of the real estate contract. Outdoor grounds (UGCSellTypeThis is displayed only if 0). Total number of buildings that can be installed on these grounds, the number of stringOf s_mainplayinfo_build_countThe same functionality that you want to appear in the-->
    <key id="s_realestate_detail_expire_date" value="{0}Years {1}- {2}Days"/><!--The contract expiration date shown in the real estate contract -->
    <key id="s_realestate_detail_expire_time" value="{0}: {1}P.m."/><!--Real estate contracts the contract expiration time-->
-   <key id="s_realestate_morning" value="Am"/>
+   <key id="s_realestate_morning" value="AM"/>
    <key id="s_realestate_afternoon" value="PM"/>
-   <key id="s_realestate_waiting_time" value="{0}Years {1}- {2}Days\n{3}: {4}Min."/>
+   <key id="s_realestate_waiting_time" value="{0} {1}- {2}\n{3}: {4}m"/>
    <key id="s_realestate_extension_date" value="Contract expirations {0}Days before.\n({1}From available)"/>
    <key id="s_realestate_date_string" value="{0}Years {1}- {2}Days {3}: {4}Min."/>
    <key id="s_realestate_price_desc_money" value="{0} {1}"/>
-   <key id="s_realestate_price_desc_item" value="{1} {0}Dog"/>
+   <key id="s_realestate_price_desc_item" value="{1} {0}"/>
    <key id="s_realestate_description" value="Administrative expenses : {1}\nWhen the term of the agreement to pay the maintenance fee {0}You can extend the work.\n\nMailed in advance when changes are made to the management of rain."/>
    <key id="s_realestate_ask_extention_meso" value="Contract extension ({0}Days) : &lt;FONT color='#FFB400' &gt;{1}&lt;/FONT&gt;&lt;Img Src='export_common_icon_meso' vspace='-4'&gt;&lt;/Img&gt;\nAre you sure that you want to extend your contract?"/>
    <key id="s_realestate_ask_extention_merat" value="Contract extension ({0}Days) : {1}&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;\nAre you sure that you want to extend your contract?"/>
@@ -1828,7 +1828,7 @@
 
    <!-- Real estate for sale -->
    <key id="s_realestate_sell_meso" value="{0} Meredith small&lt;FONT color='#C00000' &gt; (Non-refundable) &lt;/FONT&gt;"/>
-   <key id="s_realestate_sell_merat" value="{0} Megan Barrett&lt;FONT color='#C00000' &gt; (Non-refundable) &lt;/FONT&gt;"/>
+   <key id="s_realestate_sell_merat" value="{0} Merit&lt;FONT color='#C00000' &gt; (Non-refundable) &lt;/FONT&gt;"/>
    <key id="s_realestate_sell_name" value="Real estate sign a pledge to give up.\nPlease enter a name for the character."/>
    <key id="s_realestate_sell_wrong" value="Does not match the name of the character."/>
    <key id="s_realestate_sell_cant_sell_my_home_in_indoor" value="Unable to sell his house indoors"/>
@@ -1882,8 +1882,8 @@
    <key id="s_killcount_msg5" value="I&#8217;m so awesome!!"/>
 
   <!--Action key-->
-  <key id="s_action_talk_normal" 	value="Dialog"/><!--" Dialog" Were existing NPC KINDThe actionName.xmlTransfer the settings to not only writing this is spicy. action identified in the key-->
-  <key id="s_action_talk_normal_cinematic" 	value="To communicate"/>
+  <key id="s_action_talk_normal" 	value="Talk"/><!--" Dialog" Were existing NPC KINDThe actionName.xmlTransfer the settings to not only writing this is spicy. action identified in the key-->
+  <key id="s_action_talk_normal_cinematic" 	value="Talk"/>
   <key id="s_action_portal" 		value="Move - {0}"/><!--" Move"-->
   <key id="s_action_interact" 	value="Action - {0}"/><!--" Action"-->
   <key id="s_action_lift_cube" 	value="Lifting - {0}"/><!--" Lifting"-->
@@ -1896,12 +1896,12 @@
   <key id="s_action_ride" value="Off-machine"/><!--Off-machine-->
   <key id="s_action_pull" value="Aging hands"/><!--Items used in the lift-->
   <key id="s_action_putdown_liftable" value="Drop down"/>
-  <key id="s_action_switchcube" value="To work"/>
-  <key id="s_action_fittingdoll" value="To work"/>
-  <key id="s_action_use_telescope" value="Telescope viewing"/><!--Observation of objects-->
-  <key id="s_action_view_cube_profile" value="View information"/> <!--Real estate (part) information-->
+  <key id="s_action_switchcube" value="Work"/>
+  <key id="s_action_fittingdoll" value="Work"/>
+  <key id="s_action_use_telescope" value="View Telescope"/><!--Observation of objects-->
+  <key id="s_action_view_cube_profile" value="View Information"/> <!--Real estate (part) information-->
   <key id="s_action_owner" value=" - {0}"/>
-  <key id="s_action_taxi_call" value="Calling a taxi"/><!--Taxi stop objects-->
+  <key id="s_action_taxi_call" value="Calling a Taxi"/><!--Taxi stop objects-->
   <key id="s_action_hold" value=" While holding the suspension"/><!--Monster catch-->
   <key id="s_action_cant_ride" value="Now it is not available"/><!--It is only when you can ride in a vehicle-->
   <key id="s_action_privilege_portal" value="Only available to residents of the area in the portal."/><!--Real estate portal for the privilege-->
@@ -1910,14 +1910,14 @@
   <key id="s_action_fishing_try" value="Fishing is one of."/><!--Guild, part recall scroll use-->
 
   <!--City Bar-->
-  <key id="s_action_taxi_call_progress" value="Call of a taxi"/>
-  <key id="s_action_cash_taxi_call_progress" value="Call of the helicopter"/>
-  <key id="s_action_summon_ridee" value="Calls mounted among"/> <!--Call the city appears in the contents bar mounts-->
+  <key id="s_action_taxi_call_progress" value="Calling a Taxi"/>
+  <key id="s_action_cash_taxi_call_progress" value="Calling a Helicopter"/>
+  <key id="s_action_summon_ridee" value="Calling a Mount"/> <!--Call the city appears in the contents bar mounts-->
   <key id="s_action_goto_home" value="Homing device communication ... Go into the House."/><!--Return enabled. Home: before going to the bar display-->
   <key id="s_action_bank_call_progress" value="Golden Bank online"/><!--Return enabled. Home: before going to the bar display-->
 
   <!--Doctor-->
-  <key id="s_resolve_panelty_accept" value="Would cure:SPACE, It&#8217;s been:ESC"/>
+  <key id="s_resolve_panelty_accept" value="Cure:SPACE, No thanks:ESC"/>
 
   <!--In a letter in the mail system, mostly server here.-->
 
@@ -1929,17 +1929,17 @@
   <key id="s_trade_recovery_mail_content" value="Having your belongings and get an item."/>
 
   <!--1:1 Trading-->
-  <key id="s_trade_request_success" value="The transaction request was successful."/>
-  <key id="s_trade_recieved_request" value="{0} I&#8217;ve asked to deal with this."/>
-  <key id="s_trade_decline" value="{0} Lord declined the deal."/>
-  <key id="s_trade_cancel" value="{0} The deal was canceled with the Lord."/>
-  <key id="s_trade_success" value="{0} The deal was completed, and submitted by."/>
-  <key id="s_trade_error_system" value="The deal failed."/>
-  <key id="s_trade_error_distance" value="The relative distance from the far failed to trade requests."/>
-  <key id="s_trade_error_already_request" value="{0} You&#8217;ve already been asked to deal with."/>
-  <key id="s_trade_error_timeout" value="{0} Declined this transaction submitted by"/>
-  <key id="s_trade_error_trading_now" value="Already the deal."/>
-  <key id="s_trade_error_meso" value="Megan cow."/>
+  <key id="s_trade_request_success" value="The trade request was successful."/>
+  <key id="s_trade_recieved_request" value="{0} wants to trade with you."/>
+  <key id="s_trade_decline" value="{0} has declined your trade."/>
+  <key id="s_trade_cancel" value="Your trade with {0} has been canceled."/>
+  <key id="s_trade_success" value="Your trade with {0} has been completed."/>
+  <key id="s_trade_error_system" value="You failed to trade."/>
+  <key id="s_trade_error_distance" value="The trade request failed because the distance was too far away."/>
+  <key id="s_trade_error_already_request" value="{0} has already received a trade request."/>
+  <key id="s_trade_error_timeout" value="{0} declined the trade."/>
+  <key id="s_trade_error_trading_now" value="You are already in a trade."/>
+  <key id="s_trade_error_meso" value="You don't have enough Meso."/>
   <key id="s_trade_error_latched" value="The deal is the State of the lock."/>
   <key id="s_trade_error_decline" value="Unable to do a deal."/>
   <key id="s_trade_error_itemcount" value="You cannot contribute anymore."/>
@@ -1959,17 +1959,17 @@
 
   <!--Telescope-->
   <key id="s_cutscene_telescope_keycap" 	value="ESC"/>
-  <key id="s_cutscene_telescope_keydesc" 	value="Stop viewing"/>
+  <key id="s_cutscene_telescope_keydesc" 	value="Stop Viewing"/>
 
  <!--Ex-->
-  <key id="s_changejob_accept" value="The former would be:SPACE, It&#8217;s been:ESC"/><!--The former will not-->
+  <key id="s_changejob_accept" value="Advance:SPACE, No thanks:ESC"/><!--The former will not-->
 
   <!--Chat-->
   <!-- normal (Nickname "Message")-->
   <key id="s_html_chat_normal" value="&lt;P&gt;&lt;a href={0}&gt;&lt;FONT color='#{1:x}' size='{2}'&gt;[{3}] &lt;/FONT&gt;&lt;/a&gt;&lt;FONT color='#{4:x}' size='{5}'&gt;{6}&lt;/FONT&gt;&lt;/P&gt;"/>
-  <!-- Loudspeaker world-->
+  <!-- Ludspeaker world-->
   <key id="s_html_chat_world" value="&lt;P&gt;&lt;Img Src='{0}' vspace='-7' width='18' height='16'&gt;&lt;/Img&gt;&lt;a href={1}&gt;&lt;FONT color='#{2:x}' bgcolor='#0f2392' size='{3}'&gt;[{4}][Ch.{5}] &lt;/FONT&gt;&lt;/a&gt;&lt;FONT color='#{6:x}' size='{7}'&gt;{8}&lt;/FONT&gt;&lt;/P&gt;"/>
-  <!-- Loudspeaker channel-->
+  <!-- Ludspeaker channel-->
   <key id="s_html_chat_channel" value="&lt;P&gt;&lt;Img Src='{0}' vspace='-7' width='18' height='16'&gt;&lt;/Img&gt;&lt;a href={1}&gt;&lt;FONT color='#{2:x}' size='{3}'&gt;[{4}] &lt;/FONT&gt;&lt;/a&gt;&lt;FONT color='#{5:x}' size='{6}'&gt;{7}&lt;/FONT&gt;&lt;/P&gt;"/>
   <!-- Send your inquiry to a whisper (image to your nickname 'Message')-->
   <key id="s_html_chat_whisper_to" value="&lt;P&gt;&lt;Img Src='{0}' vspace='-3' width='18' height='16'&gt;&lt;/Img&gt;&lt;a href={1}&gt;&lt;FONT color='#{2:x}' size='{3}'&gt;[to {4}] &lt;/FONT&gt;&lt;/a&gt;&lt;FONT color='#{5:x}' size='{6}'&gt;{7}&lt;/FONT&gt;&lt;/P&gt;"/>
@@ -2073,53 +2073,53 @@
   <key id="s_skill_err_female" value="A woman is a skill that can be used."/>
 
   <!--Button-->
-  <key id="s_word_ok" value="Ok"/>
+  <key id="s_word_ok" value="Confirm"/>
   <key id="s_word_cancel" value="Cancel"/>
   <key id="s_word_yes" value="Yes"/>
   <key id="s_word_no" value="No"/>
   <key id="s_word_accept" value="Accept"/>
-  <key id="s_word_deny" value="Deny"/>
+  <key id="s_word_deny" value="Decline"/>
   <key id="s_word_complete" value="Complete"/>
   <key id="s_word_next" value="Next"/>
   <key id="s_word_buy" value="Buy"/>
-  <key id="s_word_msg_notify" value="Item (s)"/>
+  <key id="s_word_msg_notify" value="Item"/>
   <key id="s_word_sell" value="Sell"/>
-  <key id="s_word_store_unlock" value="Safe expansion"/>
+  <key id="s_word_store_unlock" value="Expand Safe"/>
   <key id="s_word_system" value="System"/>
   <key id="s_word_ch" value="Ch."/>
   <key id="s_word_online" value="Online"/>
   <key id="s_word_offline" value="Offline"/>
   <key id="s_word_dungeon" value="Dungeon"/>
-  <key id="s_word_newTab" value="New tab{0}"/>
+  <key id="s_word_newTab" value="New Tab {0}"/>
   <key id="s_word_level" value="Level {0}"/>
   <key id="s_word_level_max" value="MAX Level {0}"/>
-  <key id="s_word_learn_level" value="{0}Learn level."/>
-  <key id="s_word_learn_skillbook" value="The skills learned in the North."/>
-  <key id="s_word_acquire_level" value="{0}It is possible to acquire the level of"/>
-  <key id="s_word_taxistation" value="Taxi station"/>
-  <key id="s_word_besttaxistation" value="Taxi stop"/>
+  <key id="s_word_learn_level" value="Learned level {0}."/>
+  <key id="s_word_learn_skillbook" value="Can be learned from a skillbook."/>
+  <key id="s_word_acquire_level" value="Can be learned at level {0}"/>
+  <key id="s_word_taxistation" value="Taxi Station"/>
+  <key id="s_word_besttaxistation" value="Taxi Station"/>
   <key id="s_word_myhome" value="My Home"/>
   <key id="s_word_telescope" value="Telescope"/>
-  <key id="s_word_minimap_alpha" value="The minimap transparency"/>
-  <key id="s_word_mapbg_alpha" value="Map background transparency"/>
-  <key id="s_word_game_over" value="The game ends"/>
-  <key id="s_word_exit_yes" value="Yes, look at the following:"/>
-  <key id="s_word_exit_no" value="Coming out"/>
+  <key id="s_word_minimap_alpha" value="Minimap Transparency"/>
+  <key id="s_word_mapbg_alpha" value="Map Background Transparency"/>
+  <key id="s_word_game_over" value="Exit Game"/>
+  <key id="s_word_exit_yes" value="Yes, see you next time"/>
+  <key id="s_word_exit_no" value="I still want to play"/>
 
   <key id="s_word_sunday" value="Sunday"/>
   <key id="s_word_monday" value="Monday"/>
-  <key id="s_word_tuesday" value="Tuesday,"/>
-  <key id="s_word_wednesday" value="Wednesday,"/>
+  <key id="s_word_tuesday" value="Tuesday"/>
+  <key id="s_word_wednesday" value="Wednesday"/>
   <key id="s_word_thursday" value="Thursday"/>
   <key id="s_word_friday" value="Friday"/>
   <key id="s_word_saturday" value="Saturday"/>
 
   <key id="s_word_unknown" value="Unknown"/>
   <key id="s_word_welcome" value="Thank you for visiting.\nOften come to play.\nDo not forget to leave your comments in my guestbook work!"/>
-  <key id="s_word_construct_score" value="Architect score"/>
+  <key id="s_word_construct_score" value="Architect Score"/>
   
   <key id="s_format_meso" value="{0} Meso"/>
-  <key id="s_format_exp" value="{0} Exp"/>
+  <key id="s_format_exp" value="{0} EXP"/>
   <key id="s_format_item" value="{0}"/> <!--Item drop: to appear on messages that use angle-->
   <key id="s_msg_worldmap_title" value="Move the map"/>
   <key id="s_take_boat_accept" value="Coming:SPACE, Not coming:ESC"/>
@@ -2131,13 +2131,13 @@
   <key id="s_system_quest_reward_exp_with_hottimebonus" value="&lt;FONT color='#8dd502'&gt;{0} EXP + Hot-time bonus {1} EXP Acquisition&lt;/FONT&gt;"/>
   <key id="s_system_quest_reward_meso" value="&lt;FONT color='#'FFB400&gt;{0} Meredith acquired the cow&lt;/FONT&gt;"/>
   <key id="s_system_quest_reward_meso_with_hottimebonus" value="&lt;FONT color='#'FFB400&gt;{0} Meredith small + Hot-time bonus {1} Meredith acquired the cow&lt;/FONT&gt;"/>
-  <key id="s_system_quest_reward_merat" value="&lt;FONT color='#'FFB400&gt;{0} Megan Barrett obtained&lt;/FONT&gt;"/>
+  <key id="s_system_quest_reward_merat" value="&lt;FONT color='#'FFB400&gt;{0} Merit obtained&lt;/FONT&gt;"/>
   <key id="s_system_achieve_reward_title" value="&lt;FONT color='#'FFB400&gt;{0} Entitlement acquired&lt;/FONT&gt;"/>
   <key id="s_system_achieve_reward_field_enterance" value="&lt;FONT color='#'FFB400&gt;{0} Entry rights acquisition&lt;/FONT&gt;"/>
   <key id="s_system_achieve_reward_karma" value="&lt;FONT color='#'FFB400&gt;{0} Karma acquisition&lt;/FONT&gt;"/>
   <key id="s_system_achieve_reward_honor" value="&lt;FONT color='#'FFB400&gt;Token of Valor {0}Dog acquisition&lt;/FONT&gt;"/>
-  <key id="s_system_achieve_reward_lu" value="&lt;FONT color='#'FFB400&gt;Lou {0}Dog acquisition&lt;/FONT&gt;"/> 
-  <key id="s_system_achieve_reward_habi" value="&lt;FONT color='#'FFB400&gt;Harvey {0}Dog acquisition&lt;/FONT&gt;"/> 
+  <key id="s_system_achieve_reward_lu" value="&lt;FONT color='#'FFB400&gt;Lu {0}Dog acquisition&lt;/FONT&gt;"/> 
+  <key id="s_system_achieve_reward_habi" value="&lt;FONT color='#'FFB400&gt;Habi {0}Dog acquisition&lt;/FONT&gt;"/> 
   <key id="s_system_achieve_reward_shop_unlock" value="&lt;FONT color='#'FFB400&gt;{0} Purchase permission obtained&lt;/FONT&gt;"/>
   <key id="s_system_quest_condition" value="{0}"/>
   <key id="s_html_quest_reward" value="\t&lt;Img Src='{0}' vspace='-3'&gt;&lt;/Img&gt;&lt;FONT color='#{1:x}' size='14'&gt;{2}&lt;/FONT&gt;\n"/>
@@ -2149,38 +2149,38 @@
   <key id="s_mainplayinfo_trigger_count" value="&lt;font size='15'&gt; The number of the controller triggers that can be placed : &lt;/font&gt;&lt;FONT size='15' color='#FFB400'&gt;{0}&lt;/FONT&gt;&lt;font size='15'&gt;/{1}&lt;/FONT&gt;"/>
 
   <!--Container box-->
-  <key id="s_warehouse_timeleft_day_normal" value="{0}Days remaining"/>
-  <key id="s_warehouse_timeleft_day_red" value="&lt;FONT color='#FF5F5F' &gt;{0}Days remaining&lt;/FONT&gt;"/>
-  <key id="s_warehouse_timeleft_hour_red" value="&lt;FONT color='#FF5F5F' &gt;{0}Time remaining&lt;/FONT&gt;"/>
-  <key id="s_warehouse_timeleft_minute_red" value="&lt;FONT color='#FF5F5F' &gt;{0}Minutes left&lt;/FONT&gt;"/>
-  <key id="s_warehouse_timeleft_second_red" value="&lt;FONT color='#FF5F5F' &gt;1Less than a minute remaining&lt;/FONT&gt;"/>
+  <key id="s_warehouse_timeleft_day_normal" value="{0} days remaining"/>
+  <key id="s_warehouse_timeleft_day_red" value="&lt;FONT color='#FF5F5F' &gt;{0} days remaining&lt;/FONT&gt;"/>
+  <key id="s_warehouse_timeleft_hour_red" value="&lt;FONT color='#FF5F5F' &gt;{0} hours remaining&lt;/FONT&gt;"/>
+  <key id="s_warehouse_timeleft_minute_red" value="&lt;FONT color='#FF5F5F' &gt;{0} minutes left&lt;/FONT&gt;"/>
+  <key id="s_warehouse_timeleft_second_red" value="&lt;FONT color='#FF5F5F' &gt;1less than a minute remaining&lt;/FONT&gt;"/>
   <key id="s_warehouse_timeleft_timeover_red" value="&lt;FONT color='#FF5F5F' &gt;Expiry&lt;/FONT&gt;"/>
   <key id="s_warehouse_accept" value="I&#8217;m found:SPACE, It&#8217;s been:ESC"/>
 
   <!-- World map ToolTips -->
   <key id="s_worldmap_tooltip_channel" value="Channel {0} "/>
-  <key id="s_worldmap_tooltip_channel_enabled" value="{0}Channel"/>
-  <key id="s_worldmap_tooltip_channel_disabled" value="&lt;FONT color='#909090'&gt;{0}Channel&lt;/FONT&gt;"/>
+  <key id="s_worldmap_tooltip_channel_enabled" value="Channel {0}"/>
+  <key id="s_worldmap_tooltip_channel_disabled" value="&lt;FONT color='#909090'&gt;Channel {0}&lt;/FONT&gt;"/>
   <key id="s_worldmap_tooltip_channel_extra" value="Apart from that, {0}-Channel!"/>
-  <key id="s_worldmap_tooltip_leveljob" value="&lt;FONT color='#909090'&gt;({0}Level {1})&lt;/FONT&gt;"/> <!-- (Level vocational students) -->
+  <key id="s_worldmap_tooltip_leveljob" value="&lt;FONT color='#909090'&gt;(Level {0} {1})&lt;/FONT&gt;"/> <!-- (Level vocational students) -->
   <key id="s_worldmap_tooltip_myname" value="{0}"/>
   <key id="s_worldmap_tooltip_myhome" value="&lt;FONT color='#FFD200'&gt;{0}&lt;/FONT&gt;"/>
   <key id="s_worldmap_tooltip_friend" value="{0}"/>
   <key id="s_worldmap_tooltip_friendhome" value="&lt;FONT color='#00AEEF'&gt;{0}&lt;/FONT&gt;"/>
   <key id="s_worldmap_tooltip_party" value="&lt;FONT color='#8CAFFF'&gt;{0}&lt;/FONT&gt;"/>
-  <key id="s_worldmap_tooltip_level" value="{0}Level"/>
+  <key id="s_worldmap_tooltip_level" value="Level {0}"/>
   <key id="s_worldmap_tooltip_level_upper" value="&lt;FONT color='#909090'&gt;{0}Level&lt;/FONT&gt;"/>
   <key id="s_worldmap_tooltip_mapname" value="{0}"/> <!-- The field name -->
   <key id="s_worldmap_tooltip_mapname_low" value="{0} / {1}"/> <!-- The field name / Level -->
   <key id="s_worldmap_tooltip_mapname_high" value="&lt;FONT color='#FF4040'&gt;{0} / {1}&lt;/FONT&gt;"/> <!-- The field name / Level -->
-  <key id="s_worldmap_tooltip_boss" value="{0} / {1}Level"/>
+  <key id="s_worldmap_tooltip_boss" value="{0} / Level {1}"/>
   <key id="s_worldmap_tooltip_portal" value="{0}"/>
   <key id="s_worldmap_tooltip_portal_time" value="{0:02d}:{1:02d}-{2:02d}:{3:02d}As far as the gate open"/>
   <key id="s_worldmap_tooltip_quest_completable" value="{0}{1} {2}"/> <!-- XXLevel quest name (field) -->
   <key id="s_worldmap_tooltip_quest_progress" value="&lt;FONT color='#909090'&gt;{0}{1} {2}&lt;/FONT&gt;"/> <!-- XXLevel quest name (field) -->
   <key id="s_worldmap_tooltip_quest_ablenow" value="{0}{1} {2}"/> <!-- XXLevel quest name (field) -->
   <key id="s_worldmap_tooltip_quest_ableupper" value="&lt;FONT color='#909090'&gt;{0}{1} {2}&lt;/FONT&gt;"/> <!-- XXLevel quest name (field) -->
-  <key id="s_worldmap_tooltip_taxi_title" value="{0} Taxi station"/>
+  <key id="s_worldmap_tooltip_taxi_title" value="Taxi Station {0}"/>
   <key id="s_worldmap_tooltip_taxi_price" value="Rates : {0}"/>
   <key id="s_worldmap_tooltip_taxi_seal" value="I haven&#8217;t found it yet."/>
   <key id="s_worldmap_tooltip_taxi_current" value="You are here"/>
@@ -2188,7 +2188,7 @@
   <key id="s_worldmap_tooltip_open_now" value="Sales is one of the"/>
   <key id="s_worldmap_tooltip_quest_epic" value=""/> <!-- World map quest ToolTip [EPIC] Horsehead separately don&#8217;t show -->
   <key id="s_worldmap_tooltip_quest_world" value=""/> <!--World map quest ToolTip [World] Horsehead separately don&#8217;t show -->
-  <key id="s_worldmap_tooltip_shadowgate" value="Shadow Moon"/>
+  <key id="s_worldmap_tooltip_shadowgate" value="Shadow Gate"/>
   <key id="s_worldmap_dungeon_rank_level_proper" value="&lt;FONT color='#FFFFFF'&gt;{0}Level ({1}Inn)&lt;/FONT&gt;"/>
   <key id="s_worldmap_dungeon_rank_level_upper" value="&lt;FONT color='#FF4040'&gt;{0}Level ({1}Inn)&lt;/FONT&gt;"/>
   <key id="s_worldmap_dungeon_expire_date" value=" / {0}Last admission from"/>
@@ -2291,7 +2291,7 @@
   <key id="s_tooltip_gamemenu_worldmap" value="&lt;FONT color='#FFD200' size='15' &gt;World map {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can check the appearance of the world.\nTaxi, quests, friends, party, won, etc. \nYou can check the location information."/><!--M-->
   <key id="s_tooltip_gamemenu_mail" value="&lt;FONT color='#FFD200' size='15' &gt;Vote-by-mail {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nI came to check out the letter and\nYou can send a letter."/><!--O-->
   <key id="s_tooltip_gamemenu_community" value="&lt;FONT color='#FFD200' size='15' &gt;Community {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPlay with the friends of the Maple\nYou can verify the information."/><!--U-->
-  <key id="s_tooltip_gamemenu_ugc_shop" value="&lt;FONT color='#FFD200' size='15' &gt;Megan Barrett market {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nExclusive special items on sale is a premium shop and\nThe design of the items to other players on sale\nDesigner&#8217;s shop."/><!--N-->
+  <key id="s_tooltip_gamemenu_ugc_shop" value="&lt;FONT color='#FFD200' size='15' &gt;Merit market {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nExclusive special items on sale is a premium shop and\nThe design of the items to other players on sale\nDesigner&#8217;s shop."/><!--N-->
   <key id="s_tooltip_gamemenu_gameoption" value="&lt;FONT color='#FFD200' size='15' &gt;Game menu [ESC]&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nChannel selection, preferences, select the characters, the game ends\nI can."/><!--ESC-->
   <key id="s_tooltip_gamemenu_guild" value="&lt;FONT color='#FFD200' size='15' &gt;Guild {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nI am a Guild information \nYou can check."/><!--G-->
   <key id="s_tooltip_gamemenu_maview" value="&lt;FONT color='#FFD200' size='15' &gt;Mei views {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nNews, maps, real estate, encyclopedia, rank, etc. \nMapleStory 2 more fun \nThe information that can help you enjoy \nYou can see it. "/><!--V-->
@@ -2427,7 +2427,7 @@
   <key id="s_itemenchant_option_damage" value="&lt;FONT color='#FF5F5F'&gt; (Failure due to Chan Tran steps 0 and equipment damage.\nDamaged equipment is no longer due to Chan Tran.)"/>
     
   <key id="s_itemenchant_option_repair" value="Broken items can be repaired after Chan Tran.\n{0}&lt;Img Src='export_common_icon_merat' vspace='-4'&gt;&lt;/Img&gt;Are you sure you want to use immediately repair?"/>
-  <key id="s_itemenchant_option_lack_merat" value="Megan Barrett is low."/>
+  <key id="s_itemenchant_option_lack_merat" value="Merit is low."/>
   <key id="s_itemenchant_damage_warning" value="&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#FFD200'&gt;+{0} Due to Chan Tran&lt;/FONT&gt;Are you sure you want to try?&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#FFD200' size='18' &gt;Your chances of success : {1}%&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;p align='left'&gt;&lt;FONT color='#FF5F5F'&gt;Failure is zero, which Chan Tran stage equipment has been damaged due to Chan Tran.&lt;/FONT&gt;&lt;FONT color='#C0C0C0'&gt; +10 More than Chan Tran, or damaged equipment can&#8217;t do the deal, banks and cannot be kept in a mannequin.&lt;/FONT&gt;&lt;/p&gt;&lt;FONT size='3'&gt; &lt;/FONT&gt;\n"/> <!-- Failure probability : {2}% / {3} If you denote the probability that damage to your equipment- : On failure {3} In all probability will damage the equipment. / {0} Currently the river is a challenge--> 
   <key id="s_itemenchant_success_notice" value="{0} NI {1} Due to Chan Tran was successful."/>
   
@@ -2575,31 +2575,31 @@
   <key id="s_blackmarket_terms" value="Are you sure you want to entrust the sale items?\n&lt;font color='#c00000'&gt;The black market will take up to an hour to register.&lt;/font&gt;"/>
   <key id="s_blackmarket_terms_text_content" value="&lt;FONT color='#C0C0C0' size='15' &gt;Black market guide&lt;/FONT&gt;\n\n- Item (s) within one hour after application, maximum charge black market items are registered.\n- Unregister for sale: get paid items via email.\n- If the amount of items to be sold to collectors, and a 15% Commission on sales after 48 hours after payout, except by mail for a fee.\n- Sale price if you are not receiving mail within thirty (30) days period to expire and will be deleted.\n- If you are selling an unusual transaction history has been verified, the lender may be the recovery measures.\n"/>
 
-  <key id="s_meratmarket_designers_terms_text_content" value="&lt;FONT color='#C0C0C0' size='15' &gt;UGCContent users notice and legal disclaimer&lt;/FONT&gt;\n\nThe user 'MapleStory 2'Within the services provided by the UGC(User-Generated Contents: User generated content), you can publish your use or production.\nProvided, however, UGCShould be made without a violation of the operating policy and is subject to change without warning, a violation of the/Delete/Recovery measures can be.\n\n1) Users within the game UGCFree production/You can do a post.\nIn this case, apply the design &#8217; is owned by the user, or produced by, the 'No item (s)' And 'Not even the design items' About intellectual property rights and copyright 'MapleStory 2'And (However, 'To apply a design'This if you infringe the rights of third parties shall not be applicable), 'MapleStory 2' The 'No item (s)' And 'Not even the design items'Against reuse, open to the public, you can have the right to transmit.\n\n2) Posted by users UGCIn-game/You can be exposed to anyone besides, screenshots, etc., and by others through replication and can be stored.\n\n3) Seamless  UGC Observe the precautions below for use on our secure online booking form and submit.\n- The user rights of others (copyrights, trademarks, publicity rights, intellectual property rights, such as rights of privacy-related rights of personal information), UGCAuthoring/Do not post,'MapleStory 2'If the infringement is said randomly deleted or non-disclosure.\n- The user expresses hatred, slander and political inclination is obscene, such as violation of the operating policies UGCAuthoring/Do not post, 'MapleStory 2'In cases deemed breaching the operating policies arbitrarily delete or non-disclosure.\n- Caution do not comply with the sanctions and change/Delete/If you are being reclaimed the game consumed goods (Barrett) is not paid back.\n\n4) 'MapleStory 2'The operational policy is a violation of UGCAuthoring/Publishing/To the user using the game, you can do a limit for the service.\n\n5) Designer&#8217;s shop you can get from 10 million in revenue a month for up to Merle Barrett.\n- To give a chance to more user account can get maximum revenue for one month.\n- Designer&#8217;s shop sold the goods acquired the design in monthly revenue exceeds 100,000 Tome Bobcats all registered items my account 'Sold out'Has been observed. 'Sold out'The processed goods are goods on the list, but it is not available to other people. Still on sale on the 1st of the next month of the remaining items of the period 'Sold out' Status, and other people will be able to purchase.\n'Sold out' The remaining sales of goods of the State period, the advertising is not a separate compensation for the period. \n- -10 million sales revenue reaches Megan Barrett next month until one day my shop sells new product registration, status change, sale items, you cannot delete it.\n\n*'MapleStory 2'The rights of all users trying to prevent infringement, and breach of rights, &#8217; rights violation report Center &#8217; of the &#8217; report &#8217;, please apply no later than through.\n"/>
+  <key id="s_meratmarket_designers_terms_text_content" value="&lt;FONT color='#C0C0C0' size='15' &gt;UGCContent users notice and legal disclaimer&lt;/FONT&gt;\n\nThe user 'MapleStory 2'Within the services provided by the UGC(User-Generated Contents: User generated content), you can publish your use or production.\nProvided, however, UGCShould be made without a violation of the operating policy and is subject to change without warning, a violation of the/Delete/Recovery measures can be.\n\n1) Users within the game UGCFree production/You can do a post.\nIn this case, apply the design &#8217; is owned by the user, or produced by, the 'No item (s)' And 'Not even the design items' About intellectual property rights and copyright 'MapleStory 2'And (However, 'To apply a design'This if you infringe the rights of third parties shall not be applicable), 'MapleStory 2' The 'No item (s)' And 'Not even the design items'Against reuse, open to the public, you can have the right to transmit.\n\n2) Posted by users UGCIn-game/You can be exposed to anyone besides, screenshots, etc., and by others through replication and can be stored.\n\n3) Seamless  UGC Observe the precautions below for use on our secure online booking form and submit.\n- The user rights of others (copyrights, trademarks, publicity rights, intellectual property rights, such as rights of privacy-related rights of personal information), UGCAuthoring/Do not post,'MapleStory 2'If the infringement is said randomly deleted or non-disclosure.\n- The user expresses hatred, slander and political inclination is obscene, such as violation of the operating policies UGCAuthoring/Do not post, 'MapleStory 2'In cases deemed breaching the operating policies arbitrarily delete or non-disclosure.\n- Caution do not comply with the sanctions and change/Delete/If you are being reclaimed the game consumed goods (Barrett) is not paid back.\n\n4) 'MapleStory 2'The operational policy is a violation of UGCAuthoring/Publishing/To the user using the game, you can do a limit for the service.\n\n5) Designer&#8217;s shop you can get from 10 million in revenue a month for up to Merle Barrett.\n- To give a chance to more user account can get maximum revenue for one month.\n- Designer&#8217;s shop sold the goods acquired the design in monthly revenue exceeds 100,000 Tome Bobcats all registered items my account 'Sold out'Has been observed. 'Sold out'The processed goods are goods on the list, but it is not available to other people. Still on sale on the 1st of the next month of the remaining items of the period 'Sold out' Status, and other people will be able to purchase.\n'Sold out' The remaining sales of goods of the State period, the advertising is not a separate compensation for the period. \n- -10 million sales revenue reaches Merit next month until one day my shop sells new product registration, status change, sale items, you cannot delete it.\n\n*'MapleStory 2'The rights of all users trying to prevent infringement, and breach of rights, &#8217; rights violation report Center &#8217; of the &#8217; report &#8217;, please apply no later than through.\n"/>
   <key id="s_meratmarket_designers_terms" value="Are you sure you want to register the goods to designer&#8217;s shop?\n&lt;font color='#c00000'&gt;The costs paid will not be refunded.&lt;/font&gt;"/>
 
-  <!-- Megan Barrett market -->
+  <!-- Merit market -->
   <key id="s_meratmarket_tooltip_sell_count" value="{0}Dog"/>
   <key id="s_meratmarket_tooltip_sell_date" value="{0}Years {1}- {2}Days {3:02d}: {4:02d}P.m."/>
   <key id="s_meratmarket_tooltip_bookmark" value="&lt;FONT color='#FFD200' size='15' &gt;{0} Design view submitted by&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n{0} Enrolled in this designer&#8217;s shop, submitted by\nYou can view the collected list of goods."/>
-  <key id="s_meratmarket_tooltip_myshop_calculate" value="&lt;FONT color='#FFD200' size='15' &gt;Designer cultivation project&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAssociation of Victorian design, the designer&#8217;s shop for the activation and rookie designer excavation &lt;font color='#FF5F5F'&gt;10 million monthly sales revenue per account is limited to Megan Barrett&lt;/font&gt;.\nIn this month&#8217;s revenue exceeds 10 million sold in this account, Megan Barrett of goods all 'Sold out'This and the other people will not be able to purchase.\n1, when the next month 'Sold out' The status of the remaining items of the period off and sold back to the other people.\nMonthly sales by achieving maximum return limits all but would like to receive the settlement cannot take advantage of features. &lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#8dd502'&gt;In this month&#8217;s sales revenue {0} /{1}&lt;/FONT&gt; "/>
+  <key id="s_meratmarket_tooltip_myshop_calculate" value="&lt;FONT color='#FFD200' size='15' &gt;Designer cultivation project&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAssociation of Victorian design, the designer&#8217;s shop for the activation and rookie designer excavation &lt;font color='#FF5F5F'&gt;10 million monthly sales revenue per account is limited to Merit&lt;/font&gt;.\nIn this month&#8217;s revenue exceeds 10 million sold in this account, Merit of goods all 'Sold out'This and the other people will not be able to purchase.\n1, when the next month 'Sold out' The status of the remaining items of the period off and sold back to the other people.\nMonthly sales by achieving maximum return limits all but would like to receive the settlement cannot take advantage of features. &lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#8dd502'&gt;In this month&#8217;s sales revenue {0} /{1}&lt;/FONT&gt; "/>
   <key id="s_meratmarket_complete_buy_item" value = "You have selected to buy merchandise."/>
   <key id="s_meratmarket_complete_buy_item_all" value = "I bought all of the selected items."/>
-  <key id="s_meratmarket_complete_buy_item_all_with_error" value="&lt;font color='#FFD200'&gt;Except for the goods item below.&lt;/font&gt;\n&lt;font color='#FF5F5F' &gt;If you cannot purchase, sales information for the wrong product.\nIf you want to continue shopping, please re-open the Megan Barrett market.&lt;/font&gt;\n\n{0}"/>
-  <key id="s_meratmarket_complete_buy_item_all_error" value="&lt;font color='#FFD200'&gt;Unable to buy merchandise.&lt;/font&gt;\n&lt;font color='#FF5F5F' &gt;If you cannot purchase, sales information for the wrong product.\nIf you want to continue shopping, please re-open the Megan Barrett market.&lt;/font&gt;\n\n{0}"/>
-  <key id="s_meratmarket_complete_buy_item_error" value="&lt;font color='#FFD200'&gt;Unable to buy merchandise.&lt;/font&gt;\n&lt;font color='#FF5F5F' &gt;If you cannot purchase, sales information for the wrong product.\nIf you want to continue shopping, please re-open the Megan Barrett market.&lt;/font&gt;"/>
-  <key id="s_meratmarket_complete_buy_item_include_error" value= "&lt;font color='#FFD200'&gt;Except for the goods item below.&lt;/font&gt;\n&lt;font color='#FF5F5F' &gt;If you cannot purchase, sales information for the wrong product.\nIf you want to continue shopping, please re-open the Megan Barrett market.&lt;/font&gt;\n\n{0}"/>
+  <key id="s_meratmarket_complete_buy_item_all_with_error" value="&lt;font color='#FFD200'&gt;Except for the goods item below.&lt;/font&gt;\n&lt;font color='#FF5F5F' &gt;If you cannot purchase, sales information for the wrong product.\nIf you want to continue shopping, please re-open the Merit market.&lt;/font&gt;\n\n{0}"/>
+  <key id="s_meratmarket_complete_buy_item_all_error" value="&lt;font color='#FFD200'&gt;Unable to buy merchandise.&lt;/font&gt;\n&lt;font color='#FF5F5F' &gt;If you cannot purchase, sales information for the wrong product.\nIf you want to continue shopping, please re-open the Merit market.&lt;/font&gt;\n\n{0}"/>
+  <key id="s_meratmarket_complete_buy_item_error" value="&lt;font color='#FFD200'&gt;Unable to buy merchandise.&lt;/font&gt;\n&lt;font color='#FF5F5F' &gt;If you cannot purchase, sales information for the wrong product.\nIf you want to continue shopping, please re-open the Merit market.&lt;/font&gt;"/>
+  <key id="s_meratmarket_complete_buy_item_include_error" value= "&lt;font color='#FFD200'&gt;Except for the goods item below.&lt;/font&gt;\n&lt;font color='#FF5F5F' &gt;If you cannot purchase, sales information for the wrong product.\nIf you want to continue shopping, please re-open the Merit market.&lt;/font&gt;\n\n{0}"/>
 
   <key id="s_meratmarket_emptytext_ad" value = "Random ads\nApply now!"/>
   <key id="s_meratmarket_emptytext_not_exist" value = ""/>
 
-  <key id="s_meratmarket_error_result_buy_lack_merat" value = "&lt;FONT color='#909090' &gt;▶ Megan Barrett failed to buy enough of this.&lt;/font&gt;"/>
+  <key id="s_meratmarket_error_result_buy_lack_merat" value = "&lt;FONT color='#909090' &gt;▶ Merit failed to buy enough of this.&lt;/font&gt;"/>
   <key id="s_meratmarket_error_result_buy_lack_empty_slot" value="&lt;FONT color='#909090' &gt;▶ Do not buy full personal belongings.&lt;/font&gt;"/>
   <key id="s_meratmarket_error_result_buy_own_product" value = "&lt;FONT color='#909090' &gt;¢ º I registered product cannot be purchased.&lt;/font&gt;"/>
-  <key id="s_meratmarket_error_result_buy_price_index" value="&lt;FONT color='#909090' &gt;▶ Price information is invalid. Please close and re-open the Megan Barrett market.&lt;/font&gt;"/>
+  <key id="s_meratmarket_error_result_buy_price_index" value="&lt;FONT color='#909090' &gt;▶ Price information is invalid. Please close and re-open the Merit market.&lt;/font&gt;"/>
   <key id="s_meratmarket_error_result_buy_sold_out" value="&lt;FONT color='#909090' &gt;▶ For sale is being prepared. You can buy on the first day of the next month.&lt;/font&gt;"/>
   <key id="s_meratmarket_error_result_buy_sold_out_premium_buylimit" value="&lt;FONT color='#909090' &gt;▶ Cannot be purchased anymore.&lt;/font&gt;"/>
-  <key id="s_meratmarket_error_result_buy_change_price" value = "&lt;FONT color='#909090' &gt;¢ º the price is changed. Please close and re-open the Megan Barrett market.&lt;/font&gt;"/>
+  <key id="s_meratmarket_error_result_buy_change_price" value = "&lt;FONT color='#909090' &gt;¢ º the price is changed. Please close and re-open the Merit market.&lt;/font&gt;"/>
   <key id="s_meratmarket_error_result_buy_count" value = "&lt;FONT color='#909090' &gt;▶ Number of item (s) is invalid.&lt;/font&gt;"/>
   <key id="s_meratmarket_error_result_buy_not_sale" value = "&lt;FONT color='#909090' &gt;¢ º merchandise on sale.&lt;/font&gt;"/>
   <key id="s_meratmarket_error_result_already_add" value="The first was a request to register the item (s)\nThe item has not been registered.\n&lt;FONT color='#FF5F5F'&gt;Please register the item again.&lt;/FONT&gt;"/>
@@ -2623,11 +2623,11 @@
   <key id="s_meratmarket_error_register_blocked_ugcitem" value="Sanctions cannot enroll in the design market."/>
   <key id="s_meratmarket_error_bancheck_desc" value="Product description contains words or characters that are not available."/>
   <key id="s_meratmarket_error_bancheck_tags" value="Tags are words or characters that cannot be used."/>
-  <key id="s_meratmarket_error_common" value="System error : Megan Barrett market is not available. Code = {0}"/>
+  <key id="s_meratmarket_error_common" value="System error : Merit market is not available. Code = {0}"/>
   <key id="s_meratmarket_error_already_sale" value = "You cannot delete the item."/>
   <key id="s_meratmarket_error_not_sale" value = "Does not sell products."/>
   <key id="s_meratmarket_error_search_result_empty" value="'{0}'Search results for.\nIn other words search."/>
-  <key id="s_meratmarket_error_search_result_empty_by_itemlink" value="Item link[Megan Barrett market:{0}]Search results for.\nCurrently not for sale."/>
+  <key id="s_meratmarket_error_search_result_empty_by_itemlink" value="Item link[Merit market:{0}]Search results for.\nCurrently not for sale."/>
   <key id="s_meratmarket_error_search_result_empty_by_banner" value="The results of the search."/>
   <key id="s_meratmarket_error_search_result_with_ban" value="{0}\nIn other words search."/>
   <key id="s_meratmarket_error_buy_owner_product" value="I registered the goods cannot be purchased."/>
@@ -2646,7 +2646,7 @@
   <key id="s_meratmarket_basket_complete_add" value="Add to cart the goods."/>
 
   <key id="s_meratmarket_myshop_notice_sell_restrict" value="&lt;FONT size='20' &gt;  {0}-The cumulative revenue {1}&lt;img src='export_common_icon_merat' vspace='-4'&gt;&lt;/img&gt; Achieved! &lt;/font&gt;"/>
-  <key id="s_meratmarket_myshop_notice_sell_restrict_title" value="{0} Megan Barrett achieved"/>
+  <key id="s_meratmarket_myshop_notice_sell_restrict_title" value="{0} Merit achieved"/>
   <key id="s_meratmarket_myshop_notice_restrict_by_sellingamount"  value="Return on sales this month 100,000&lt;img src='export_common_icon_merat' vspace='-4'&gt;&lt;/img&gt;And beyond\n&lt;FONT color='#FFD200'&gt;You can use it again on the first day of the next month.&lt;/font&gt;"/>
   <key id="s_meratmarket_myshop_sell_count" value="Cumulative sales {0}Dog"/>
   <key id="s_meratmarket_myshop_history_buy_date" value = "{0:04d}-{1:02d}-{2:02d}"/>
@@ -2793,7 +2793,7 @@
   <key id="s_room_exit_msg_pvp_zone" value="&lt;FONT color='#FF5F5F'&gt;10After a few seconds it automatically leaves the battlefield.&lt;/font&gt;"/>
   <key id="s_room_exit_msg_pvp_field" value="&lt;FONT color='#FF5F5F'&gt;10After a few seconds, it automatically moves the Maple world.&lt;/font&gt;"/>
 
-  <key id="s_itemlink_meratmarket" value="[Megan Barrett market: {0}]"/>
+  <key id="s_itemlink_meratmarket" value="[Merit market: {0}]"/>
   <key id="s_itemlink_cashshop" value="[The cache shop : {0}]"/>
   <key id="s_waitingticket_message" value="The garden has been exceeded.\nCurrently, waitlists: {0}"/>
   <key id="s_waitingticket_cancel" value="Wait cancelled"/>
