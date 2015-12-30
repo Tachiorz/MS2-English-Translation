@@ -624,8 +624,8 @@
   <key id="$s_buddy_cancelbuddy" value="Cancel Request"/>
   <key id="$s_buddy_homevisit" value="Visit House"/>
 
-  <key id="$s_buddy_addbuddy" value="Add to Friend"/>
-  <key id="$s_buddy_addban" value="Add to Block"/>
+  <key id="$s_buddy_addbuddy" value="Add Friend"/>
+  <key id="$s_buddy_addban" value="Add Block"/>
   
   <key id="$s_buddy_input_memo" value="Please note that modifying block."/>
   <key id="$s_buddy_input_userID" value="Please enter the name of the character you want to have a friend."/>
