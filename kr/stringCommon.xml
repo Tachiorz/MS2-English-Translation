@@ -630,7 +630,7 @@
 	  <key id="s_buddy_confirm_del_somebody_from_banlist" value="Are you sure you want to delete {0} from your block list?"/>
 
 	  <!-- [Access] -->
-	  <key id="s_login_err_connect" value="Yuu are unable to connect.\n(code = {0})"/>
+	  <key id="s_login_err_connect" value="You are unable to connect.\n(code = {0})"/>
 	  <key id="s_login_err_disconnected" value="You have disconnected from the server.\n(code = {0})"/>
 	  <key id="s_login_err_version" value="There is an update.\nPlease download the new version."/>
 	  <key id="s_err_cannot_move" value="Forced moves are impossible."/>
