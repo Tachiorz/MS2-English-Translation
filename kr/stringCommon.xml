@@ -3046,11 +3046,11 @@
   <key id="s_remake_itemoption_error_limitlevel" value="50Level equipment."/>
   
   <!--Show ToolTips-->
-  <key id="s_tooltip_itemoption_kinds_static" value="&lt;font color='#ffffff'&gt;The default option\n{0}&lt;/font&gt;"/>
-  <key id="s_tooltip_itemoption_kinds_random" value="&lt;font color='#91a8ff'&gt;Additional options\n{0}&lt;/font&gt;"/>
+  <key id="s_tooltip_itemoption_kinds_static" value="&lt;font color='#ffffff'&gt;Default Options\n{0}&lt;/font&gt;"/>
+  <key id="s_tooltip_itemoption_kinds_random" value="&lt;font color='#91a8ff'&gt;Additional Options\n{0}&lt;/font&gt;"/>
   <key id="s_tooltip_itemoption_kinds_title" value="&lt;font color='#84ffef'&gt;\n{0}&lt;/font&gt;"/> <!--Disable-->
   <key id="s_tooltip_itemoption_kinds_space" value="&lt;font size='3'&gt;\n&lt;/font&gt;"/>
-  <key id="s_tooltip_itemoption_enchant" value="&lt;font color='#ffd200'&gt;Inn Chan trail effects\n{0}&lt;/font&gt;"/>
+  <key id="s_tooltip_itemoption_enchant" value="&lt;font color='#ffd200'&gt;Enchant Effects\n{0}&lt;/font&gt;"/>
   <key id="s_tooltip_itemoption_stat_row" value=" &amp;nbsp;&amp;nbsp;And{0}\n"/>
   
 </ms2>
