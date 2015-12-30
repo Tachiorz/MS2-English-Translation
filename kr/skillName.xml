@@ -351,69 +351,69 @@
 	<key id="10800162" name="Dark Chaser Activate" />
 	<key id="10800171" name="Dark Void" />
 	<key id="10800181" name="Shadow Partner" />
-	<key id="10900000" name="Runes blog radar SP Recovery" />
-	<key id="10900001" name="Plame drive" />
-	<key id="10900011" name="Ice drive" />
-	<key id="10900021" name="Thunder drive" />
-	<key id="10900031" name="Triple cut" />
-	<key id="10900032" name="Flame triple cut" />
-	<key id="10900033" name="Chill-triple cut" />
-	<key id="10900034" name="Blitz triple cut" />
+	<key id="10900000" name="Rune Blader SP Recovery" />
+	<key id="10900001" name="Flame Drive" />
+	<key id="10900011" name="Ice Drive" />
+	<key id="10900021" name="Thunder Drive" />
+	<key id="10900031" name="Triple Cut" />
+	<key id="10900032" name="Flame Triple Cut" />
+	<key id="10900033" name="Frost Triple Cut" />
+	<key id="10900034" name="Lightning Triple Cut" />
 	<key id="10900041" name="Splitter" />
-	<key id="10900042" name="The flame splitter" />
-	<key id="10900043" name="Cold air splitter" />
-	<key id="10900044" name="Cold air splitter splash" />
-	<key id="10900045" name="Blitz splitter" />
+	<key id="10900042" name="Flame Splitter" />
+	<key id="10900043" name="Frost Splitter" />
+	<key id="10900044" name="Frost Splitter Splash" />
+	<key id="10900045" name="Lightning Splitter" />
 	<key id="10900051" name="Blink" />
-	<key id="10900061" name="Luna boost" />
-	<key id="10900071" name="Arcane impact" />
-	<key id="10900072" name="Flame arcane impact" />
-	<key id="10900073" name="Flame arcane impact splash" />
-	<key id="10900074" name="Chill arcane impact" />
-	<key id="10900075" name="Chill arcane impact splash" />
-	<key id="10900076" name="Blitz arcane impact" />
-	<key id="10900077" name="Blitz arcane impact splash" />
-	<key id="10900078" name="Blitz arcane impact splash 2" />
-	<key id="10900081" name="Gaedeoring magic" />
-	<key id="10900082" name="Gaedeoring magic splash" />
-	<key id="10900091" name="Rune shield" />
-	<key id="10900092" name="Flame Rune shield" />
-	<key id="10900093" name="Flame Rune shield splash" />
-	<key id="10900094" name="Frost Rune shield" />
-	<key id="10900095" name="Lightning Rune shield" />
-	<key id="10900096" name="Lightning Rune shield splash" />
-	<key id="10900097" name="Lightning Rune shield splash 2" />
-	<key id="10900101" name="Ground Diva de" />
-	<key id="10900102" name="Ground Diva de splash" />
-	<key id="10900103" name="Flames ground Diva de" />
-	<key id="10900104" name="Flames ground Diva de splash" />
-	<key id="10900105" name="The chill ground Diva de" />
-	<key id="10900106" name="The chill ground Diva de splash" />
-	<key id="10900107" name="Lightning ground Diva de" />
-	<key id="10900108" name="Lightning ground Diva de splash" />
-	<key id="10900111" name="Illusion blade" />
-	<key id="10900112" name="Illusion blade splash" />
-	<key id="10900121" name="The Lunar potential" />
-	<key id="10900131" name="Luna installation" />
-	<key id="10900141" name="Blade Master Li" />
-	<key id="10900151" name="Infinite cut" />
-	<key id="10900152" name="Infinite-cut splash" />
-	<key id="10900153" name="Infinite flame cut" />
-	<key id="10900154" name="Infinite flame-cut splash" />
-	<key id="10900155" name="Chill infinite cut" />
-	<key id="10900156" name="Chill infinite cut splash" />
-	<key id="10900157" name="Blitz infinite cut" />
-	<key id="10900158" name="Blitz infinite cut splash" />
-	<key id="10900161" name="Triple splitter" />
-	<key id="10900162" name="Flame triple splitter" />
-	<key id="10900163" name="Chill triple splitter" />
-	<key id="10900164" name="Chill triple splitter splash" />
-	<key id="10900165" name="Blitz triple splitter" />
-	<key id="10900171" name="Rune square" />
-	<key id="10900172" name="Rune square splash" />
-	<key id="10900181" name="New, soul" />
-	<key id="10900191" name="Mystic binding" />
-	<key id="10900201" name="Arcane LX Ting and Sean" />
+	<key id="10900061" name="Rune Boost" />
+	<key id="10900071" name="Arcane Impact" />
+	<key id="10900072" name="Flame Arcane Impact" />
+	<key id="10900073" name="Flame Arcane Impact Splash" />
+	<key id="10900074" name="Frost Arcane Impact" />
+	<key id="10900075" name="Frost Arcane Impact Splash" />
+	<key id="10900076" name="Lightning Arcane Impact" />
+	<key id="10900077" name="Lightning Arcane Impact Splash" />
+	<key id="10900078" name="Lightning Arcane Impact Splash 2" />
+	<key id="10900081" name="Gathering Magic" />
+	<key id="10900082" name="Gathering Magic Splash" />
+	<key id="10900091" name="Rune Shield" />
+	<key id="10900092" name="Flame Rune Shield" />
+	<key id="10900093" name="Flame Rune Shield Splash" />
+	<key id="10900094" name="Frost Rune Shield" />
+	<key id="10900095" name="Lightning Rune Shield" />
+	<key id="10900096" name="Lightning Rune Shield Splash" />
+	<key id="10900097" name="Lightning Rune Shield Splash 2" />
+	<key id="10900101" name="Ground Divide" />
+	<key id="10900102" name="Ground Divide Splash" />
+	<key id="10900103" name="Flame Ground Divide" />
+	<key id="10900104" name="Flame Ground Divide Splash" />
+	<key id="10900105" name="Frost Ground Divide" />
+	<key id="10900106" name="Frost Ground Divide Splash" />
+	<key id="10900107" name="Lightning Ground Divide" />
+	<key id="10900108" name="Lightning Ground Divide Splash" />
+	<key id="10900111" name="Illusion Blade" />
+	<key id="10900112" name="Illusion Blade Splash" />
+	<key id="10900121" name="Rune Potential" />
+	<key id="10900131" name="Rune Install" />
+	<key id="10900141" name="Blade Mastery" />
+	<key id="10900151" name="Infinite Cut" />
+	<key id="10900152" name="Infinite Cut Splash" />
+	<key id="10900153" name="Flame Infinite Cut" />
+	<key id="10900154" name="Flame Infinite Cut Splash" />
+	<key id="10900155" name="Frost Infinite Cut" />
+	<key id="10900156" name="Frost Infinite Cut Splash" />
+	<key id="10900157" name="Lightning Infinite Cut" />
+	<key id="10900158" name="Lightning Infinite Cut Splash" />
+	<key id="10900161" name="Triple Splitter" />
+	<key id="10900162" name="Flame Triple Splitter" />
+	<key id="10900163" name="Frost Triple Splitter" />
+	<key id="10900164" name="Frost Triple Splitter Splash" />
+	<key id="10900165" name="Lightning Triple Splitter" />
+	<key id="10900171" name="Rune Square" />
+	<key id="10900172" name="Rune Square Splash" />
+	<key id="10900181" name="Sanity Soul" />
+	<key id="10900191" name="Mystic Bind" />
+	<key id="10900201" name="Arcane Extinction" />
 	<key id="19900001" name="GMThe judgment of" />
 	<key id="19900011" name="High speed flight" />
 	<key id="19900021" name="Raising a spoon" />
