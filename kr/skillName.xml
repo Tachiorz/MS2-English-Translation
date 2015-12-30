@@ -357,20 +357,20 @@
 	<key id="10900021" name="Thunder Drive" />
 	<key id="10900031" name="Triple Cut" />
 	<key id="10900032" name="Flame Triple Cut" />
-	<key id="10900033" name="Frost Triple Cut" />
+	<key id="10900033" name="Ice Triple Cut" />
 	<key id="10900034" name="Lightning Triple Cut" />
 	<key id="10900041" name="Splitter" />
 	<key id="10900042" name="Flame Splitter" />
-	<key id="10900043" name="Frost Splitter" />
-	<key id="10900044" name="Frost Splitter Splash" />
+	<key id="10900043" name="Ice Splitter" />
+	<key id="10900044" name="Lightning Splitter Splash" />
 	<key id="10900045" name="Lightning Splitter" />
 	<key id="10900051" name="Blink" />
-	<key id="10900061" name="Rune Boost" />
+	<key id="10900061" name="Lunar Boost" />
 	<key id="10900071" name="Arcane Impact" />
 	<key id="10900072" name="Flame Arcane Impact" />
 	<key id="10900073" name="Flame Arcane Impact Splash" />
-	<key id="10900074" name="Frost Arcane Impact" />
-	<key id="10900075" name="Frost Arcane Impact Splash" />
+	<key id="10900074" name="Ice Arcane Impact" />
+	<key id="10900075" name="Ice Arcane Impact Splash" />
 	<key id="10900076" name="Lightning Arcane Impact" />
 	<key id="10900077" name="Lightning Arcane Impact Splash" />
 	<key id="10900078" name="Lightning Arcane Impact Splash 2" />
@@ -379,7 +379,7 @@
 	<key id="10900091" name="Rune Shield" />
 	<key id="10900092" name="Flame Rune Shield" />
 	<key id="10900093" name="Flame Rune Shield Splash" />
-	<key id="10900094" name="Frost Rune Shield" />
+	<key id="10900094" name="Ice Rune Shield" />
 	<key id="10900095" name="Lightning Rune Shield" />
 	<key id="10900096" name="Lightning Rune Shield Splash" />
 	<key id="10900097" name="Lightning Rune Shield Splash 2" />
@@ -387,34 +387,34 @@
 	<key id="10900102" name="Ground Divide Splash" />
 	<key id="10900103" name="Flame Ground Divide" />
 	<key id="10900104" name="Flame Ground Divide Splash" />
-	<key id="10900105" name="Frost Ground Divide" />
-	<key id="10900106" name="Frost Ground Divide Splash" />
+	<key id="10900105" name="Ice Ground Divide" />
+	<key id="10900106" name="Ice Ground Divide Splash" />
 	<key id="10900107" name="Lightning Ground Divide" />
 	<key id="10900108" name="Lightning Ground Divide Splash" />
 	<key id="10900111" name="Illusion Blade" />
 	<key id="10900112" name="Illusion Blade Splash" />
-	<key id="10900121" name="Rune Potential" />
-	<key id="10900131" name="Rune Install" />
+	<key id="10900121" name="Lunar Potential" />
+	<key id="10900131" name="Lunar Install" />
 	<key id="10900141" name="Blade Mastery" />
 	<key id="10900151" name="Infinite Cut" />
 	<key id="10900152" name="Infinite Cut Splash" />
-	<key id="10900153" name="Flame Infinite Cut" />
-	<key id="10900154" name="Flame Infinite Cut Splash" />
-	<key id="10900155" name="Frost Infinite Cut" />
-	<key id="10900156" name="Frost Infinite Cut Splash" />
-	<key id="10900157" name="Lightning Infinite Cut" />
-	<key id="10900158" name="Lightning Infinite Cut Splash" />
+	<key id="10900153" name="Infinite Flame Cut" />
+	<key id="10900154" name="Infinite Flame Cut Splash" />
+	<key id="10900155" name="Ice Infinite Cut" />
+	<key id="10900156" name="Ice Infinite Cut Splash" />
+	<key id="10900157" name="Lightning infinite cut" />
+	<key id="10900158" name="Lightning infinite cut splash" />
 	<key id="10900161" name="Triple Splitter" />
 	<key id="10900162" name="Flame Triple Splitter" />
-	<key id="10900163" name="Frost Triple Splitter" />
-	<key id="10900164" name="Frost Triple Splitter Splash" />
+	<key id="10900163" name="Ice Triple Splitter" />
+	<key id="10900164" name="Ice Triple Splitter Splash" />
 	<key id="10900165" name="Lightning Triple Splitter" />
 	<key id="10900171" name="Rune Square" />
 	<key id="10900172" name="Rune Square Splash" />
 	<key id="10900181" name="Sanity Soul" />
 	<key id="10900191" name="Mystic Bind" />
 	<key id="10900201" name="Arcane Extinction" />
-	<key id="19900001" name="GMThe judgment of" />
+	<key id="19900001" name="GM's Judgement" />
 	<key id="19900011" name="High speed flight" />
 	<key id="19900021" name="Raising a spoon" />
 	<key id="19999991" name="Camera shooting" />
@@ -427,10 +427,10 @@
 	<key id="20000061" name="Restorative" />
 	<key id="20000071" name="Incandescent light bulbs" />
 	<key id="20000081" name="UFO Catcher" />
-	<key id="20000091" name="Booster missile" />
-	<key id="20000101" name="Titan rocket" />
-	<key id="20000111" name="Paper airplane" />
-	<key id="20000121" name="The drones" />
+	<key id="20000091" name="Booster Missile" />
+	<key id="20000101" name="Titan Rocket" />
+	<key id="20000111" name="Paper Airplane" />
+	<key id="20000121" name="Drones" />
 	<key id="20000131" name="Snow Crystal" />
 	<key id="20000141" name="Rich mabeopjin" />
 	<key id="30000000" name="The adventurer appeared in motion" />
