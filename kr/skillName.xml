@@ -323,34 +323,34 @@
 	<key id="10700162" name="Poison Bottle Splash" />
 	<key id="10700171" name="Trickster" />
 	<key id="10700181" name="Throwing Dagger" />
-	<key id="10800000" name="Assassin appeared directed by" />
-	<key id="10800001" name="Lucky seven" />
-	<key id="10800011" name="Boomerang star" />
-	<key id="10800021" name="Circle of stars" />
-	<key id="10800031" name="Star burst" />
-	<key id="10800032" name="Star burst splash" />
-	<key id="10800041" name="Perl bounce attack" />
-	<key id="10800051" name="Dark sites" />
-	<key id="10800052" name="The dark site splash" />
-	<key id="10800053" name="The stunned dark site" />
-	<key id="10800061" name="Alter ego:Shadow Web" />
-	<key id="10800062" name="Alter ego:Shadow Web splash" />
+	<key id="10800000" name="Assassin Enterance" />
+	<key id="10800001" name="Lucky Seven" />
+	<key id="10800011" name="Boomerang Star" />
+	<key id="10800021" name="Circle of Star" />
+	<key id="10800031" name="Shuriken Burst" />
+	<key id="10800032" name="Shuriken Burst Splash" />
+	<key id="10800041" name="Fatal Attack" />
+	<key id="10800051" name="Dark Sight" />
+	<key id="10800052" name="Dark Sight Splash" />
+	<key id="10800053" name="Stunned Dark Sight" />
+	<key id="10800061" name="Shadow Web" />
+	<key id="10800062" name="Shadow Web Splash" />
 	<key id="10800071" name="Dodge" />
-	<key id="10800081" name="Alter ego:Shade split" />
-	<key id="10800091" name="Death mark" />
-	<key id="10800092" name="Death mark actuation" />
+	<key id="10800081" name="Shade Split" />
+	<key id="10800091" name="Death Mark" />
+	<key id="10800092" name="Death Mark Activate" />
 	<key id="10800101" name="Adrenaline" />
-	<key id="10800111" name="As Ying star Master Li" />
-	<key id="10800121" name="Keane eyes" />
-	<key id="10800131" name="Alter ego:The dark blog radar" />
-	<key id="10800132" name="Alter ego:Dark fires blog radar" />
-	<key id="10800141" name="Grind the star" />
-	<key id="10800142" name="Grind star splash" />
-	<key id="10800151" name="Sober mind" />
+	<key id="10800111" name="Throwing Star Mastery" />
+	<key id="10800121" name="Keen Eyes" />
+	<key id="10800131" name="Dark Blader" />
+	<key id="10800132" name="Dark Blader Activate" />
+	<key id="10800141" name="Grinding Star" />
+	<key id="10800142" name="Grinding Star Splash" />
+	<key id="10800151" name="Calm Mind" />
 	<key id="10800161" name="Dark Chaser" />
-	<key id="10800162" name="Dark pursuer actuation" />
-	<key id="10800171" name="Dark void" />
-	<key id="10800181" name="Alter ego:Shadow partner" />
+	<key id="10800162" name="Dark Chaser Activate" />
+	<key id="10800171" name="Dark Void" />
+	<key id="10800181" name="Shadow Partner" />
 	<key id="10900000" name="Runes blog radar SP Recovery" />
 	<key id="10900001" name="Plame drive" />
 	<key id="10900011" name="Ice drive" />
