@@ -1415,25 +1415,25 @@
   <key id="s_word_item_stat_zero" value="1 Less than"/>
 
    <!-- Right click on the ToolTip/Double click the TG article-->
-  <key id="s_msg_rclick_attach_trade" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can register with item transactions window.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_dettach_trade" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can unregister the item into.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_puton_equip" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;Can be equipped with items.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_putoff_equip" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;To replace the item.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_store_in" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can store items in.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_store_out" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can find the item into.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_sell" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can sell the item to the.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_attach_mail" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can attach a letter with the items.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_dettach_mail" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can turn off the attachment of items to the.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_buy" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can purchase the item with.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_putoff_qslot" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;As quick can be removed from the slot.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_puton_qslot" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can register as a quick slot.&lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_attach_trade" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to register this item to the trade window &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_dettach_trade" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to unregister this item. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_puton_equip" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to equip this item. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_putoff_equip" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to unequip this item. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_store_in" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to store this item. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_store_out" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to find this item. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_sell" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to sell this item. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_attach_mail" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to attach this item. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_dettach_mail" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to unattach this item. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_buy" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to buy this item. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_putoff_qslot" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to remove this from the quick slot. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_puton_qslot" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to register this to the quick slot. &lt;/FONT&gt;"/>
   <key id="s_msg_rclick_puton_doll" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;Can be mounted on a dummy item with.&lt;/FONT&gt;"/>
   <key id="s_msg_rclick_putoff_doll" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;To replace the item, you can turn off. ..&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_upgrade" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can select the items to strengthen.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_warehouse_out" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can find the item into.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_item_break" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can explode the item into.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_blackmarket" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can register on the black market the item into.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_remakeitemoption" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;Change options so you can select the item equipment.&lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_upgrade" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to enhance this item.. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_warehouse_out" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to take this item out of storage. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_item_break" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to dismantle this item.. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_blackmarket" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to register this item to the Black Market. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_remakeitemoption" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to change the equipment options on this item. &lt;/FONT&gt;"/>
 
   <key id="s_msg_dclick_usable" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Double click on it&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;Can be used for general purposes.&lt;/FONT&gt;"/>
   <key id="s_msg_dclick_readable" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Double click on it&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can read.&lt;/FONT&gt;"/>
@@ -2103,8 +2103,8 @@
   <key id="s_word_minimap_alpha" value="Minimap Transparency"/>
   <key id="s_word_mapbg_alpha" value="Map Background Transparency"/>
   <key id="s_word_game_over" value="Exit Game"/>
-  <key id="s_word_exit_yes" value="Yes, see you next time"/>
-  <key id="s_word_exit_no" value="I still want to play"/>
+  <key id="s_word_exit_yes" value="Yes, byebye"/>
+  <key id="s_word_exit_no" value="I'll stay"/>
 
   <key id="s_word_sunday" value="Sunday"/>
   <key id="s_word_monday" value="Monday"/>
@@ -2434,7 +2434,7 @@
   <!--&lt;FONT color='#FFA200' size='13' &gt;          &lt;/FONT&gt;-->
   <!-- Common -->
   <key id="s_common_sec" value="{0}s"/>
-  <key id="s_common_min" value="{0}m."/>
+  <key id="s_common_min" value="{0}m"/>
   <key id="s_common_hour" value="{0}h"/>
   <key id="s_common_min_sec" value="{0}m {1}s"/>
   <key id="s_common_hour_min" value="{0}h {1}m"/>
@@ -2446,17 +2446,17 @@
   <key id="s_common_meso" value="&lt;FONT color='#FFA200' &gt;{0}&lt;Img Src='export_common_icon_meso' vspace='-4'&gt;&lt;/Img&gt;"/>
   <key id="s_common_merat" value="&lt;FONT color='#FFFFFF' &gt;{0}&lt;/FONT&gt;&lt;Img Src='export_common_icon_merat' vspace='-4'&gt;&lt;/Img&gt;"/>
 
-  <!-- Shadow world -->
-  <key id="s_shadowworld_removebuff_before" value="{0}SEC behind la pen&#8217;s protection disappears."/>
-  <key id="s_shadowworld_removebuff" value="La pen&#8217;s protection disappeared."/>
-  <key id="s_shadowworld_player_kill" value="{0} NI {1} That was down."/>
-  <key id="s_shadowworld_player_kill_slayer" value="{0} You are active"/>
-  <key id="s_shadowworld_player_kill_ruler" value="Shadow world of conqueror {0}!"/>
-  <key id="s_shadowworld_pkzone_msg" value="Enter the lawless."/>
-  <key id="s_shadowworld_pkzone_chat_msg" value="Enter the lawless."/>
-  <key id="s_shadowworld_safezone_msg" value="To enter into the safe zone."/>
-  <key id="s_shadowworld_safezone_chat_msg" value="To enter into the safe zone. Unable to do battle with the other characters."/>
-  <key id="s_shadowworld_pkzone_allert" value="There is a battle between the lawless characters, what&#8217;s happening on the battlefield. \nIt&#8217;s really &lt;FONT color='#FFD200'&gt;Go to lawlessness&lt;/FONT&gt;Are you sure you want to?"/>
+  <!-- Shadow World -->
+  <key id="s_shadowworld_removebuff_before" value="The protection of Lapenta will disappear in {0} seconds."/>
+  <key id="s_shadowworld_removebuff" value="Lapenta's protection has disappeared."/>
+  <key id="s_shadowworld_player_kill" value="{0} took {1} down."/>
+  <key id="s_shadowworld_player_kill_slayer" value="{0} is on a roll"/>
+  <key id="s_shadowworld_player_kill_ruler" value="{0}, the conqueror of Shadow World !"/>
+  <key id="s_shadowworld_pkzone_msg" value="You have entered a lawless zone."/>
+  <key id="s_shadowworld_pkzone_chat_msg" value="You have entered a lawless zone"/>
+  <key id="s_shadowworld_safezone_msg" value="You have entered a safe zone."/>
+  <key id="s_shadowworld_safezone_chat_msg" value="You have entered a safe zone. You cannot battle with other players."/>
+  <key id="s_shadowworld_pkzone_allert" value="There is a battle going on with characters in the lawless zone. \nIt&#8217;s really &lt;FONT color='#FFD200'&gt;Go to lawlessness&lt;/FONT&gt;Are you sure you want to?"/>
 
   <key id="s_shadowworld_kill_log_die" value="{0} I was down."/>
   <key id="s_shadowworld_kill_log_kill" value="I {0} Rolled down."/>
@@ -2505,7 +2505,7 @@
   <key id="s_room_dungeon_give_reward" value="Dungeons have been paid compensation." />
 
   <!-- shutdown -->
-  <key id="s_shutdown_notify" value="For the law of juvenile protection box (children under 16 years of age) {0}: 00-game use is limited." />
+  <key id="s_shutdown_notify" value="As part of the Shutdown Law, children aged 16 or less are subject to limited gameplay from {0}." />
 
   <!-- Quick slot registration prompts -->
   <key id="s_msg_shortcutkey_slot_full" value="Empty quick slot does not exist." />
@@ -2521,13 +2521,13 @@
   
   <!-- Dungeon entry -->
   <key id="s_field_enteracne_dungeon_boss_tooltip" value="&lt;FONT color='#FFD200'&gt;{0}&lt;/FONT&gt;" />
-  <key id="s_field_enteracne_more_level" value="{0}Level or higher" />
-  <key id="s_field_enteracne_party_status_channel" value="Channel{0}" />
+  <key id="s_field_enteracne_more_level" value="Level {0} or higher" />
+  <key id="s_field_enteracne_party_status_channel" value="Channel {0}" />
   <key id="s_field_enteracne_party_status_dungeon" value="Dungeon" />
   <key id="s_field_enteracne_party_status_unknown" value="Unknown" />
-  <key id="s_field_enteracne_party_status_level" value="Level limit" />
-  <key id="s_field_enteracne_party_status_etc" value="Conditions the u.s. achieved" />
-  <key id="s_field_enteracne_party_notify_enter_cheif" value="Before the entry was patijangi." />
+  <key id="s_field_enteracne_party_status_level" value="Level Limit" />
+  <key id="s_field_enteracne_party_status_etc" value="Conditions Unachieved" />
+  <key id="s_field_enteracne_party_notify_enter_cheif" value="The party leader has entered the dungeon." />
   <key id="s_field_enteracne_party_notify_reset_dungeon" value="The party leader has reset the dungeon." />
   <key id="s_field_enteracne_find_party_cooldown" value="You can recruit a new party after {0} seconds." />
   <key id="s_field_enteracne_find_party_fullmember" value="The party won more than the recommended personnel cannot be recruited to the party." />
@@ -2667,7 +2667,7 @@
   <key id="s_meratmarket_myshop_complete_calculate" value="Proceeds from the sale are settled.\nSettlement amount: &lt;FONT color='#FFFFFF'&gt;{0}&lt;/FONT&gt;&lt;Img Src='export_common_icon_merat' vspace='-4'&gt;&lt;/Img&gt;"/>
 
   <key id="s_meratmarket_register_limit_desc" value="Product description {0}Please enter the characters."/>
-  <key id="s_meratmarket_register_sale_day" value="{0}Days"/>
+  <key id="s_meratmarket_register_sale_day" value="{0} days"/>
   <key id="s_meratmarket_register_ad_hour_and_price" value="72Time (+{0} &lt;img src='export_common_icon_merat' vspace='-4'&gt;&lt;/img&gt;)"/>
   <key id="s_meratmarket_register_royalty" value="Sold 50% of the amount"/>
   <key id="s_meratmarket_register_notice_price" value="{0} - {1} Enter through."/>
@@ -2677,10 +2677,10 @@
 
   <key id="s_meratmarket_bill_total_fee" value="Total payment amount ({0}Species)"/>
 
-  <key id="s_meratmarket_priceday" value="{0}Days"/>
+  <key id="s_meratmarket_priceday" value="{0} days"/>
   <key id="s_meratmarket_priceday_limitless" value="Unlimited"/>
 
-  <!-- The cache shop -->
+  <!-- Cash Shop -->
   <key id="s_cashshop_invenpickup" value="&lt;FONT color='#FF5F5F' size='15' &gt;After you have moved into your belongings that cannot be reversed.&lt;/FONT&gt;\n&lt;FONT color='#FFFFFF' size='15' &gt;Are you sure you want to move this item to your belongings?&lt;/font&gt;"/>
   <key id="s_cashshop_invenpickup_refund" value="&lt;FONT color='#FF5F5F' size='15' &gt;After you have moved into your belongings that cannot be reversed.&lt;/FONT&gt;\n&lt;FONT color='#FFFFFF' size='15' &gt;Are you sure you want to move this item to your belongings?&lt;/font&gt;"/>
   <key id="s_cashshop_refund" value="\nAmong the items purchased directly from the cache is stored in a warehouse &lt;FONT color='#FF5F5F' size='15' &gt;Within 7 days after purchase&lt;/font&gt;In &lt;FONT color='#FF5F5F' size='15' &gt;Cancellation of contract&lt;/font&gt;You can do it. \n&lt;FONT color='#C0C0C0' size='15' &gt;(However, there is no 'undo' when you apply for cancellation of contract\nPlease think carefully.)&lt;/font&gt;\n\nIt&#8217;s really &lt;FONT color='#FF5F5F' size='15' &gt;Cancellation of contract&lt;/font&gt;Are you sure you want to apply for?\n\n"/>
@@ -2696,7 +2696,7 @@
   <key id="s_cashshop_gift_message" value="&lt;FONT color='#FFD200' size='15' &gt;{0}&lt;/FONT&gt;It&#8217;s a gift you sent arrived.\n\n&lt;FONT color='#FFD200' size='15' &gt;{1}&lt;/FONT&gt;\n\n"/>
   <key id="s_cashshop_gift_comfirm" value="You cannot make the cancellation of the items presented.\n&lt;FONT color='#FFD200'&gt;{0}&lt;/FONT&gt; Are you sure that you want to present to the Lord?"/>
 
-  <!--The cache shop errors-->
+  <!--Cash Shop Errors-->
   <key id="s_cashshop_error_unknown" value="System error. [protocol:{0}, code:{1}]"/>
   <!--Below is a pop-->
   <key id="s_cashshop_err_closed" value="The cache shop is not available."/>
