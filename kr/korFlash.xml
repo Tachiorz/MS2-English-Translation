@@ -624,8 +624,8 @@
   <key id="$s_buddy_cancelbuddy" value="Cancel Request"/>
   <key id="$s_buddy_homevisit" value="Visit House"/>
 
-  <key id="$s_buddy_addbuddy" value="Add to Friend"/>
-  <key id="$s_buddy_addban" value="Add to Block"/>
+  <key id="$s_buddy_addbuddy" value="Add Friend"/>
+  <key id="$s_buddy_addban" value="Add Block"/>
   
   <key id="$s_buddy_input_memo" value="Please note that modifying block."/>
   <key id="$s_buddy_input_userID" value="Please enter the name of the character you want to have a friend."/>
@@ -1739,8 +1739,8 @@
   <key id="$s_cashshop_btn_home" value="Home"/>
   <key id="$s_cashshop_btn_basket" value="Shopping Cart"/>
   <key id="$s_cashshop_btn_cash_charge" value="Charge"/>
-  <key id="$s_cashshop_inven_info" value="Use the Cash Shop storage to move items from your inventory."/>
-  <key id="$s_cashshop_inven_name" value="Cache Storage"/>
+  <key id="$s_cashshop_inven_info" value="Use the storage to move items from your inventory."/>
+  <key id="$s_cashshop_inven_name" value="Cash Storage"/>
   <key id="$s_cashshop_product_empty" value=""/> <!--Items available for purchase in our shop when there is no cache : There are no products available for purchase.-->
   <key id="$s_cashshop_basket_select_all" value="Select All"/>
   <key id="$s_cashshop_basket_buy" value="Select Buy"/>
