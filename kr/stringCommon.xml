@@ -3051,6 +3051,6 @@
   <key id="s_tooltip_itemoption_kinds_title" value="&lt;font color='#84ffef'&gt;\n{0}&lt;/font&gt;"/> <!--Disable-->
   <key id="s_tooltip_itemoption_kinds_space" value="&lt;font size='3'&gt;\n&lt;/font&gt;"/>
   <key id="s_tooltip_itemoption_enchant" value="&lt;font color='#ffd200'&gt;Enchant Effects\n{0}&lt;/font&gt;"/>
-  <key id="s_tooltip_itemoption_stat_row" value=" &amp;nbsp;&amp;nbsp;And{0}\n"/>
+  <key id="s_tooltip_itemoption_stat_row" value=" &amp;nbsp;&amp;nbsp;ㆍ{0}\n"/>
   
 </ms2>
