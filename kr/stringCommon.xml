@@ -2505,7 +2505,7 @@
   <key id="s_room_dungeon_give_reward" value="Dungeons have been paid compensation." />
 
   <!-- shutdown -->
-  <key id="s_shutdown_notify" value="As part of the Shutdown Law, children aged 16 or less are subject limited gameplay from {0}." />
+  <key id="s_shutdown_notify" value="As part of the Shutdown Law, children aged 16 or less are subject to limited gameplay from {0}." />
 
   <!-- Quick slot registration prompts -->
   <key id="s_msg_shortcutkey_slot_full" value="Empty quick slot does not exist." />
