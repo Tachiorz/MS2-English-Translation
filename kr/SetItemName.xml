@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsing this data used do not directly modify the -->
 <ms2>
-	<key id="01050401" name="A warrior&#8217;s chest table set" />
+	<key id="15123101" name="Battle of the night set" />
+	<key id="15123102" name="Jewel of University Communications set" />
+	<key id="15123103" name="Magical wizard set" />
+	<key id="15123104" name="The priest of the deity set" />
+	<key id="15123105" name="The intensive Ranger set" />
+	<key id="15123106" name="Heavy shelling gunner set" />
+	<key id="15123107" name="Confusion of Sifu set" />
+	<key id="15123108" name="The confusion of the CEE God set" />
+	<key id="15123109" name="Magic runes blog radar sets" />
 </ms2>

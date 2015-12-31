@@ -103,9 +103,6 @@
 	<achieve id="21220015" desc="$npc:22000038$ {0}Time to kill" complete="So far $npc:22000038$ {0}Once aid!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50730019$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730019$ Purchase permission obtained" />
 	</achieve>
-	<achieve id="21220016" desc="$npc:22000009$ {0}Time to kill" complete="So far $npc:22000009$ {0}Once aid!" manualDesc="" manualComplete="">
-		<reward grade="2" uiDesc="$item:50730005$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730005$ Purchase permission obtained" />
-	</achieve>
 	<achieve id="21220017" desc="$npc:22000007$ {0}Time to kill" complete="So far $npc:22000007$ {0}Once aid!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50730017$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730017$ Purchase permission obtained" />
 	</achieve>
@@ -142,6 +139,12 @@
 	</achieve>
 	<achieve id="21220031" desc="$npc:24001705$ {0}Time to kill" complete="So far $npc:24001705$ {0}Once aid!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50730027$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730027$ Purchase permission obtained" />
+	</achieve>
+	<achieve id="21220032" desc="$npc:24001807$ Fight {0}Time to win" complete="So far $npc:24001807$ Fight {0}Times win!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730028$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730028$ Purchase permission obtained" />
+	</achieve>
+	<achieve id="21220033" desc="$npc:24001507$ {0}Time to kill" complete="So far $npc:24001507$ {0}Once aid!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730031$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730031$ Purchase permission obtained" />
 	</achieve>
 	<achieve id="21230001" desc="$npc:23000024$ Actively involved in the fight against {0}Time to kill" complete="So far $npc:23000024$ Aid {0}Once contribution!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50740009$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740009$ Purchase permission obtained" />
@@ -252,6 +255,18 @@
 	<achieve id="21230047" desc="(Normal mode) $npc:23100077$ {0}Time to kill" complete="So far (normal mode) $npc:23100077$ {0}Once aid!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50740026$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740026$ Purchase permission obtained" />
 	</achieve>
+	<achieve id="21230048" desc="$npc:22000009$ Actively involved in the fight against {0}Time to kill" complete="So far $npc:22000009$ Aid {0}Once contribution!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730005$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730005$ Purchase permission obtained" />
+	</achieve>
+	<achieve id="21230049" desc="$npc:23000057$ Actively involved in the fight against {0}Time to kill" complete="So far $npc:23000057$ Aid {0}Once contribution!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740034$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740034$ Purchase permission obtained" />
+	</achieve>
+	<achieve id="21230050" desc="$npc:23000029$ Actively involved in the fight against {0}Time to kill" complete="So far $npc:23000029$ Aid {0}Once contribution!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740035$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740035$ Purchase permission obtained" />
+	</achieve>
+	<achieve id="21230051" desc="(Challenge mode) $npc:23000052$ {0}Time to kill" complete="So far, the (challenge mode) $npc:23000052$ {0}Once aid!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740036$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740036$ Purchase permission obtained" />
+	</achieve>
 	<achieve id="21231001" desc="My last shot $npc:23000024$ {0}Annual aid to" complete="My last shot $npc:23000024$ {0}Annual Church" manualDesc="" manualComplete="" />
 	<achieve id="21231002" desc="My last shot $npc:23000018$ {0}Annual aid to" complete="My last shot $npc:23000018$ {0}Annual Church" manualDesc="" manualComplete="" />
 	<achieve id="21231003" desc="My last shot $npc:23000019$ {0}Annual aid to" complete="My last shot $npc:23000019$ {0}Annual Church" manualDesc="" manualComplete="" />
@@ -283,6 +298,10 @@
 	<achieve id="21231029" desc="My last shot (challenge mode) $npc:23000033$ {0}Annual aid to" complete="My last shot (challenge mode) $npc:23000033$ {0}Annual Church" manualDesc="" manualComplete="" />
 	<achieve id="21231030" desc="My last shot (challenge mode) $npc:23000055$ {0}Annual aid to" complete="My last shot (challenge mode) $npc:23000055$ {0}Annual Church" manualDesc="" manualComplete="" />
 	<achieve id="21231031" desc="My last shot (challenge mode) $npc:23000041$ {0}Annual aid to" complete="My last shot (challenge mode) $npc:23000041$ {0}Annual Church" manualDesc="" manualComplete="" />
+	<achieve id="21231032" desc="My last shot $npc:22000009$ {0}Annual aid to" complete="My last shot $npc:22000009$ {0}Annual Church" manualDesc="" manualComplete="" />
+	<achieve id="21231033" desc="My last shot $npc:23000057$ {0}Annual aid to" complete="My last shot $npc:23000057$ {0}Annual Church" manualDesc="" manualComplete="" />
+	<achieve id="21231034" desc="My last shot $npc:23000029$ {0}Annual aid to" complete="My last shot $npc:23000029$ {0}Annual Church" manualDesc="" manualComplete="" />
+	<achieve id="21231035" desc="My last shot (challenge mode) $npc:23000052$ {0}Annual aid to" complete="My last shot (challenge mode) $npc:23000052$ {0}Annual Church" manualDesc="" manualComplete="" />
 	<achieve id="21232001" desc="$npc:29000037$Of saliva {0}Times hit" complete="So far $npc:29000037$Of saliva {0}Fits times" manualDesc="" manualComplete="" />
 	<achieve id="21232002" desc="$npc:22000015$Quick turn by attacking the monument {0}Times ggalrigi" complete="So far $npc:22000015$Quick turn by attacking the monument {0}Once covering rim" manualDesc="" manualComplete="" />
 	<achieve id="21232003" desc="" complete="" manualDesc="$npc:22090107$Under attack of small" manualComplete="$npc:22090107$Under attack of small" />
@@ -733,6 +752,36 @@
 	<achieve id="22200341" desc='(Dungeon) &quot;$dungeonTitle:02000349$&quot;Caught in the fairy {0}Times to rescue' complete='(Dungeon) &quot;$dungeonTitle:02000349$&quot;Caught in the fairy {0}Times to the rescue!' manualDesc="" manualComplete="" />
 	<achieve id="22200342" desc="Monster has been propagated to the non-exclusive to the {0}Once you become addicted" complete="Monster has become addicted to a spread to the non-exclusive {0}Once completed" manualDesc="" manualComplete="" />
 	<achieve id="22200343" desc="Addicted to the non-exclusive to Monster {0}Time to kill" complete="Addicted to the non-exclusive to Monster {0}Once Church" manualDesc="" manualComplete="" />
+	<achieve id="22200344" desc="" complete="" manualDesc="$map:02010047$ Here and there a golden treasure chest all open view" manualComplete="$map:02010047$The Golden treasure chest all spring!" />
+	<achieve id="22200345" desc="" complete="" manualDesc="$map:02010033$ Here and there a golden treasure chest all open view" manualComplete="$map:02010033$The Golden treasure chest all spring!" />
+	<achieve id="22200346" desc="" complete="" manualDesc="$map:02010084$ Here and there a golden treasure chest all open view" manualComplete="$map:02010084$The Golden treasure chest all spring!" />
+	<achieve id="22200347" desc="" complete="" manualDesc="$map:02010030$ Here and there a golden treasure chest all open view" manualComplete="$map:02010030$The Golden treasure chest all spring!" />
+	<achieve id="22200348" desc="" complete="" manualDesc="$map:02010036$ Here and there a golden treasure chest all open view" manualComplete="$map:02010036$The Golden treasure chest all spring!" />
+	<achieve id="22200349" desc="" complete="" manualDesc="$map:02010034$ Here and there a golden treasure chest all open view" manualComplete="$map:02010034$The Golden treasure chest all spring!" />
+	<achieve id="22200350" desc="" complete="" manualDesc="$map:02010029$ Here and there a golden treasure chest all open view" manualComplete="$map:02010029$The Golden treasure chest all spring!" />
+	<achieve id="22200351" desc="" complete="" manualDesc="$map:02010016$ Here and there a golden treasure chest all open view" manualComplete="$map:02010016$The Golden treasure chest all spring!" />
+	<achieve id="22200352" desc="" complete="" manualDesc="$map:02010023$ Here and there a golden treasure chest all open view" manualComplete="$map:02010023$The Golden treasure chest all spring!" />
+	<achieve id="22200353" desc="" complete="" manualDesc="$map:02010009$ Here and there a golden treasure chest all open view" manualComplete="$map:02010009$The Golden treasure chest all spring!" />
+	<achieve id="22200354" desc="" complete="" manualDesc="$map:02010010$ Here and there a golden treasure chest all open view" manualComplete="$map:02010010$The Golden treasure chest all spring!" />
+	<achieve id="22200355" desc="" complete="" manualDesc="$map:02010012$ Here and there a golden treasure chest all open view" manualComplete="$map:02010012$The Golden treasure chest all spring!" />
+	<achieve id="22200356" desc="" complete="" manualDesc="$map:02010014$ Here and there a golden treasure chest all open view" manualComplete="$map:02010014$The Golden treasure chest all spring!" />
+	<achieve id="22200357" desc="" complete="" manualDesc="$map:02010027$ Here and there a golden treasure chest all open view" manualComplete="$map:02010027$The Golden treasure chest all spring!" />
+	<achieve id="22200358" desc="" complete="" manualDesc="$map:02010043$ Here and there a golden treasure chest all open view" manualComplete="$map:02010043$The Golden treasure chest all spring!" />
+	<achieve id="22200359" desc="" complete="" manualDesc="$map:02010038$ Here and there a golden treasure chest all open view" manualComplete="$map:02010038$The Golden treasure chest all spring!" />
+	<achieve id="22200360" desc="" complete="" manualDesc="$map:02010039$ Here and there a golden treasure chest all open view" manualComplete="$map:02010039$The Golden treasure chest all spring!" />
+	<achieve id="22200361" desc="" complete="" manualDesc="$map:02010019$ Here and there a golden treasure chest all open view" manualComplete="$map:02010019$The Golden treasure chest all spring!" />
+	<achieve id="22200362" desc="" complete="" manualDesc="$map:02010020$ Here and there a golden treasure chest all open view" manualComplete="$map:02010020$The Golden treasure chest all spring!" />
+	<achieve id="22200363" desc="" complete="" manualDesc="$map:02010022$ Here and there a golden treasure chest all open view" manualComplete="$map:02010022$The Golden treasure chest all spring!" />
+	<achieve id="22200364" desc="" complete="" manualDesc="$map:02010028$ Here and there a golden treasure chest all open view" manualComplete="$map:02010028$The Golden treasure chest all spring!" />
+	<achieve id="22200365" desc="" complete="" manualDesc="$map:02010026$ Here and there a golden treasure chest all open view" manualComplete="$map:02010026$The Golden treasure chest all spring!" />
+	<achieve id="22200366" desc='(Dungeon) &quot;$dungeonTitle:02010054$&quot; {0}Time to complete' complete='(Dungeon) &quot;$dungeonTitle:02010054$&quot; {0}Once completed' manualDesc="" manualComplete="" />
+	<achieve id="22200367" desc='(Dungeon) &quot;$dungeonTitle:02010070$&quot; {0}Time to complete' complete='(Dungeon) &quot;$dungeonTitle:02010070$&quot; {0}Once completed' manualDesc="" manualComplete="" />
+	<achieve id="22200368" desc='(Dungeon) &quot;$dungeonTitle:02010049$&quot; {0}Time to complete' complete='(Dungeon) &quot;$dungeonTitle:02010049$&quot; {0}Once completed' manualDesc="" manualComplete="" />
+	<achieve id="22200369" desc='(Dungeon) &quot;$dungeonTitle:02010069$&quot; {0}Time to complete' complete='(Dungeon) &quot;$dungeonTitle:02010069$&quot; {0}Once completed' manualDesc="" manualComplete="" />
+	<achieve id="22200370" desc='(Dungeon) &quot;$dungeonTitle:02010069$&quot;A bridge from the drop {0}Time to complete' complete='(Dungeon) &quot;$dungeonTitle:02010069$&quot;A bridge from the drop {0}Once completed' manualDesc="" manualComplete="" />
+	<achieve id="22200371" desc="Through a swirl of space $map:80000012$ {0}Times to enter" complete="So far, through the swirl of space $map:80000012$ {0}Visits" manualDesc="" manualComplete="" />
+	<achieve id="22200372" desc="Through a swirl of space $map:80000013$ {0}Times to enter" complete="So far, through the swirl of space $map:80000013$ {0}Visits" manualDesc="" manualComplete="" />
+	<achieve id="22200373" desc="Kar Kar Ireland map {0}Explore dogs" complete="Until now, Kar Kar Ireland map {0}Explore dogs" manualDesc="" manualComplete="" />
 	<achieve id="22300001" desc="Quest {0}Complete" complete="So far the quest {0}Complete" manualDesc="" manualComplete="" />
 	<achieve id="22300002" desc="" complete="" manualDesc="$map:02000146$Of $npc:11000076$ Meet &apos;The dark entity&apos; To complete the quest" manualComplete="$map:02000146$Of $npc:11000076$ Meet &apos;The dark entity&apos; Quest complete!">
 		<reward grade="1" uiDesc="" notifyIcon="" notifyString="" />
@@ -939,6 +988,47 @@
 	<achieve id="23100132" desc="" complete="" manualDesc="In my house or someone else&#8217;s home $item:50400114$ Operations" manualComplete="In my house or someone else&#8217;s home $item:50400114$ To complete the action" />
 	<achieve id="23100133" desc="" complete="" manualDesc="In my house or someone else&#8217;s home $item:50400115$ Operations" manualComplete="In my house or someone else&#8217;s home $item:50400115$ To complete the action" />
 	<achieve id="23100134" desc="" complete="" manualDesc="In my house or someone else&#8217;s home $item:50400116$ Operations" manualComplete="In my house or someone else&#8217;s home $item:50400116$ To complete the action" />
+	<achieve id="23100135" desc="" complete="" manualDesc="Catch the first fish to become a novice anglers" manualComplete="Catch the first fish to become a novice anglers" />
+	<achieve id="23100136" desc="" complete="" manualDesc="Has steadily become the intermediate angler fishing" manualComplete="Has steadily become the intermediate angler fishing" />
+	<achieve id="23100137" desc="" complete="" manualDesc="Steadily becoming the senior angler fishing" manualComplete="Steadily becoming the senior angler fishing" />
+	<achieve id="23100138" desc="" complete="" manualDesc="Steadily becoming a professional angler fishing" manualComplete="Steadily becoming a professional angler fishing" />
+	<achieve id="23100139" desc="" complete="" manualDesc="Has steadily become the intermediate by playing music" manualComplete="Has steadily become the intermediate by playing music">
+		<reward grade="1" uiDesc="$item:11300428$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:11300428$ Purchase permission obtained" />
+	</achieve>
+	<achieve id="23100140" desc="" complete="" manualDesc="Steadily becoming higher by playing music" manualComplete="Steadily becoming higher by playing music">
+		<reward grade="1" uiDesc="$item:11850034$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:11850034$ Purchase permission obtained" />
+	</achieve>
+	<achieve id="23100141" desc="" complete="" manualDesc="Specializing in music by playing steadily becoming" manualComplete="Specializing in music by playing steadily becoming">
+		<reward grade="1" uiDesc="$item:50770006$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50770006$ Purchase permission obtained" />
+	</achieve>
+	<achieve id="23100142" desc="Playing skills {0}Raise up" complete="Playing skills {0}Upload up to complete" manualDesc="" manualComplete="" />
+	<achieve id="23100143" desc="To play guitar skills {0}Raise up" complete="To play guitar skills {0}Upload up to complete" manualDesc="" manualComplete="" />
+	<achieve id="23100144" desc="Play the piano with skill {0}Raise up" complete="Play the piano with skill {0}Upload up to complete" manualDesc="" manualComplete="" />
+	<achieve id="23100145" desc="" complete="" manualDesc='&quot;Mabinogi&quot; OST Sheet music to play' manualComplete='&quot;Mabinogi&quot; OST Playing the complete sheet music' />
+	<achieve id="23100146" desc="" complete="" manualDesc='&quot;Talesweaver&quot; OST Sheet music to play' manualComplete='&quot;Talesweaver&quot; OST Playing the complete sheet music' />
+	<achieve id="23100147" desc="" complete="" manualDesc='&quot;MapleStory&quot; OST Sheet music to play' manualComplete='&quot;MapleStory&quot; OST Playing the complete sheet music' />
+	<achieve id="23100148" desc="" complete="" manualDesc='&quot;Kartrider&quot; OST Sheet music to play' manualComplete='&quot;Kartrider&quot; OST Playing the complete sheet music' />
+	<achieve id="23100149" desc="" complete="" manualDesc='&quot;The Kingdom of the winds&quot; OST Sheet music to play' manualComplete='&quot;The Kingdom of the winds&quot; OST Playing the complete sheet music' />
+	<achieve id="23100150" desc="" complete="" manualDesc='&quot;Sudden attack&quot; OST Sheet music to play' manualComplete='&quot;Sudden attack&quot; OST Playing the complete sheet music' />
+	<achieve id="23100151" desc="Fishing fish {0}Marie fishing machine" complete="Fishing fish {0}Marie fishing!" manualDesc="" manualComplete="" />
+	<achieve id="23100152" desc="Fishing {0}Failure to" complete="Fishing fail {0}Times!" manualDesc="" manualComplete="" />
+	<achieve id="23100153" desc="Fishing-Chuck {0}Annual fishing machine" complete="Fishing-Chuck {0}Annual fishing machine success" manualDesc="" manualComplete="" />
+	<achieve id="23100154" desc="Different fish {0} Type fishing machine" complete="Different fish {0} Type fishing machine success" manualDesc="" manualComplete="">
+		<reward grade="3" uiDesc="Buy permissions angler costume" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="Anglers buy permissions acquired a costume" />
+	</achieve>
+	<achieve id="23100155" desc="With the formation of different fish, fishing gold {0}To obtain a dog" complete="With the formation of different fish, fishing gold {0}Dog acquisition" manualDesc="" manualComplete="" />
+	<achieve id="23100156" desc="-Chuck proximal air {0}Annual fishing machine" complete="So far-pretending to be proximal air {0}Annual fishing well" manualDesc="" manualComplete="" />
+	<achieve id="23100157" desc="-Chuck BRO Colter framework {0}Annual fishing machine" complete="So far-Chuck BRO Colter framework {0}Annual fishing well" manualDesc="" manualComplete="" />
+	<achieve id="23100158" desc="-Chuck Ant Coelacanth {0}Annual fishing machine" complete="So far-Chuck Ant Coelacanth {0}Annual fishing well" manualDesc="" manualComplete="" />
+	<achieve id="23100159" desc="-Chuck mechanical shark {0}Annual fishing machine" complete="So far-pretending to be a mechanical shark {0}Annual fishing well" manualDesc="" manualComplete="" />
+	<achieve id="23100160" desc="-Chuck-les-Bains Coda, {0}Annual fishing machine" complete="So far-Chuck-les-Bains Coda, {0}Annual fishing well" manualDesc="" manualComplete="" />
+	<achieve id="23100161" desc="-Chuck MAS Kass {0}Annual fishing machine" complete="So far-Chuck MAS Kass {0}Annual fishing well" manualDesc="" manualComplete="" />
+	<achieve id="23100162" desc="-Chuck pink Octopus {0}Annual fishing machine" complete="So far-Chuck pink Octopus {0}Annual fishing well" manualDesc="" manualComplete="" />
+	<achieve id="23100163" desc="-Chuck freeze nurse {0}Annual fishing machine" complete="So far-Chuck freeze nurse {0}Annual fishing well" manualDesc="" manualComplete="" />
+	<achieve id="23100164" desc="-Chuck lanterns devilfish {0}Annual fishing machine" complete="So far-Chuck lanterns devilfish {0}Annual fishing well" manualDesc="" manualComplete="" />
+	<achieve id="23100165" desc="-Chuck vaglia {0}Annual fishing machine" complete="So far-Chuck vaglia {0}Annual fishing well" manualDesc="" manualComplete="" />
+	<achieve id="23100166" desc="-Chuck p LAT {0}Annual fishing machine" complete="So far-Chuck p LAT {0}Annual fishing well" manualDesc="" manualComplete="" />
+	<achieve id="23100167" desc="-Chuck Pharaoh seahorse {0}Annual fishing machine" complete="So far-pretending to be Pharaoh seahorse {0}Annual fishing well" manualDesc="" manualComplete="" />
 	<achieve id="23200001" desc="{0}Megan cow to pick" complete="So far {0}Megan picked up a cow obtained" manualDesc="" manualComplete="">
 		<reward grade="8" uiDesc="$item:50600033$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600033$ Purchase permission obtained" />
 	</achieve>
@@ -1022,6 +1112,7 @@
 	<achieve id="23300056" desc="" complete="" manualDesc="$item:50600115$ To collect the" manualComplete="$item:50600115$ Collection" />
 	<achieve id="23300057" desc="" complete="" manualDesc="$item:50600116$ To collect the" manualComplete="$item:50600116$ Collection" />
 	<achieve id="23300058" desc="" complete="" manualDesc="$item:50600117$ To collect the" manualComplete="$item:50600117$ Collection" />
+	<achieve id="23300059" desc="" complete="" manualDesc="$item:35100001$ To collect the" manualComplete="$item:35100001$ Collection" />
 	<achieve id="23400001" desc="Trap master game {0}Times to participate" complete="So far, trap master game {0}Alumni participation" manualDesc="" manualComplete="" />
 	<achieve id="23400002" desc="Trap master in the game {0}Times to win" complete="So far, trap master in the game {0}Victories" manualDesc="" manualComplete="">
 		<reward grade="3" uiDesc="$item:50600002$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600002$ Purchase permission obtained" />

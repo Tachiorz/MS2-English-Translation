@@ -12,7 +12,7 @@
 	<tip id="9" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can buy a house in the village, but it is not.\nIn many places in a variety of sizes of house sales." />
 	<tip id="10" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The more expensive the price House in a good location." />
 	<tip id="11" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you lived in a House to terminate the contract, all the items are placed in the House movers storage warehouses." />
-	<tip id="12" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Movers storage warehouses from the moment the item is stored in the archive after 30 days or it will disappear." />
+	<tip id="12" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Movers storage warehouses since some items are kept in storage after 90 days or it will disappear." />
 	<tip id="13" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Moved to a different House, you have to terminate the contract of an existing House." />
 	<tip id="14" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="After a period of the contract of the House, you may not use the House anymore." />
 	<tip id="15" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to terminate the contract of the House, who lives at the termination of the agreement, click on the button if you sign a contract." />
@@ -95,7 +95,7 @@
 	<tip id="92" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Z Key is pressed, you can glean the item." />
 	<tip id="93" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Press the direction keys on the near the ladder and ladder can hold." />
 	<tip id="94" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000083$Even the traffic lights swung to pull from\nSin applies to vandalism." />
-	<tip id="95" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Once the Tri Ah 10 levels for beginners $map:2000188$  You will need to go to the former. " />
+	<tip id="95" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Once the Tri Ah 10 levels for beginners $map:2000188$ You will need to go to the former. " />
 	<tip id="96" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The former can be done only once, and once you decide to be careful because you won&#8217;t be able to return." />
 	<tip id="97" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can take advantage of the world map, you can get a lot of information." />
 	<tip id="98" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To make a world map the location of the taxi stand." />
@@ -138,7 +138,7 @@
 	<tip id="135" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Vehicles ride X Key is pressed you can use the unique skills of mounted." />
 	<tip id="136" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Falls from high places, damage to ibeumyeo, let your guard down, the monument to the pallet." />
 	<tip id="137" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000064$A variety of events. Events once upon a time." />
-	<tip id="138" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="As soon as you click the event icon in the map of the world $map:02000064$  Can be taken." />
+	<tip id="138" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="As soon as you click the event icon in the map of the world $map:02000064$ Can be taken." />
 	<tip id="139" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right click on the tab of the chat window you can set listens for." />
 	<tip id="140" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To link to an item in the open items listens for items Shift+Try the click of a mouse." />
 	<tip id="141" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When you enter a chat TabWhen a key is pressed \nYou can change the chat, it&#8217;s easy to target." />
@@ -254,19 +254,55 @@
 	<tip id="251" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In the center of the infringement UGC You can also report the relevant damage." />
 	<tip id="252" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text='If you have questions on listens for Monster &quot;/The name of the search monsters&quot; Try searching by.' />
 	<tip id="253" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Rosetta uses a mirror of the beauty salon and turn the CAP." />
-	<tip id="254" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Reese port rice rice merchant FES Ka." />
-	<tip id="255" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text='In the shop equipment item icon &quot;Shift + Right click on the&quot; The\nWhen wearing the item, you can see a preview of the look.' />
-	<tip id="256" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The other player characters, click the character&#8217;s right, you can see the information." />
-	<tip id="257" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the &apos;/Move the channel channel number&apos;When you enter a\nYou can easily change the channel." />
-	<tip id="258" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Rune Lund, a fusion of the blog radar black tiles crack of the pole through the spells hit." />
-	<tip id="259" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The prophets of witchcraft over the runes, Britt and examine the strongest Pell KIA\n&apos;Te Rune sword LIV&apos;Established with an organization called runes blog radar." />
-	<tip id="260" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Carl Liv 8 black absolute inaction proved to one of the eight\nRune is a glorious title given only to the blog radar." />
-	<tip id="261" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001229$ Getting the straight character and come off looks women\nCarl Liv 8 brought many followers most of the sword." />
-	<tip id="262" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Runes blog stay on the radar of the elders,\nEmphasis is placed on the teaching of so-called baz." />
-	<tip id="263" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Runes in order to hone a new skill blog radar\nYou will need the wisdom of the ancestors left behind baz." />
-	<tip id="264" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Use a sharp sword called the blog radar Rune blade." />
-	<tip id="265" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Runes blog radar blades flame, Frost, lightning\nYou can fight with the given properties." />
-	<tip id="266" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The power of a mysterious runes Rune blog radar\nYou can use a variety of in a combat situation." />
-	<tip id="267" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001229$It is a blunt knife rib of Ireland called of the flap." />
-	<tip id="268" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npcName:11001230$There is no rumor is not true to the belly." />
+	<tip id="254" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text='In the shop equipment item icon &quot;Shift + Right click on the&quot; The\nWhen wearing the item, you can see a preview of the look.' />
+	<tip id="255" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The other player characters, click the character&#8217;s right, you can see the information." />
+	<tip id="256" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the &apos;/Move the channel channel number&apos;When you enter a\nYou can easily change the channel." />
+	<tip id="257" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Rune Lund, a fusion of the blog radar black tiles crack of the pole through the spells hit." />
+	<tip id="258" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The prophets of witchcraft over the runes, Britt and examine the strongest Pell KIA\n&apos;Te Rune sword LIV&apos;Established with an organization called runes blog radar." />
+	<tip id="259" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Carl Liv 8 black absolute inaction proved to one of the eight\nRune is a glorious title given only to the blog radar." />
+	<tip id="260" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001229$ Getting the straight character and come off looks women\nCarl Liv 8 brought many followers most of the sword." />
+	<tip id="261" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Runes blog stay on the radar of the elders,\nEmphasis is placed on the teaching of so-called baz." />
+	<tip id="262" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Runes in order to hone a new skill blog radar\nYou will need the wisdom of the ancestors left behind baz." />
+	<tip id="263" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Use a sharp sword called the blog radar Rune blade." />
+	<tip id="264" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Runes blog radar blades flame, Frost, lightning\nYou can fight with the given properties." />
+	<tip id="265" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The power of a mysterious runes Rune blog radar\nYou can use a variety of in a combat situation." />
+	<tip id="266" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001229$It is a blunt knife rib of Ireland called of the flap." />
+	<tip id="267" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npcName:11001230$There is no rumor is not true to the belly." />
+	<tip id="268" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000781$ In the past month was the only angler to pretend there are rumors." />
+	<tip id="269" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$item:40100024$ It turned out that the overthrow of the style statement is not true." />
+	<tip id="270" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="High levels of fish are likely to walk away." />
+	<tip id="271" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can swim, fishing can be done everywhere.\nHowever, the water will not be able to throw the fishing rod." />
+	<tip id="272" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can use fishing bait, you can increase your chances of success." />
+	<tip id="273" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="More big fish bait to lure is rumored." />
+	<tip id="274" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to know where the fish live fish are also laid out in a sense." />
+	<tip id="275" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="More fish from the higher stages of fishing\nMany times, you can seize the fishing skill." />
+	<tip id="276" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Fish is the place to buy each and every one is different." />
+	<tip id="277" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Special items, fishing is fishing." />
+	<tip id="278" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Want to catch fish, you can get pay for the experience." />
+	<tip id="279" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The higher the rating of the rare fish." />
+	<tip id="280" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The appearance of the spectacular, as the early steps of the angler." />
+	<tip id="281" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Fishing fish, but fishing is not able to." />
+	<tip id="282" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="World map ToolTip to determine if any steps which map into fishing." />
+	<tip id="283" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000781$ $map:02000002$Fishing supplies to sell." />
+	<tip id="284" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001449$ $map:02010002$Fishing supplies to sell." />
+	<tip id="285" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to be the King of fishing, wherever you look on the water, fishing rods and toss!" />
+	<tip id="286" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Moving in places where fishing is not allowed." />
+	<tip id="287" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The rare fish than to the\nSpecial bait is rumored." />
+	<tip id="288" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Fits on the steps to my anglers catch fish Aya \nFishing skill." />
+	<tip id="289" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The mascot of the Royal Academy of music, the more keys and more keys view." />
+	<tip id="290" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="President of the Royal Academy of music the more key the song Didi Ana reports\nInspired by the music of the two was popularized." />
+	<tip id="291" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The Royal Academy of music, music for the popularization of\nAnyone can play musical instruments and sheet music." />
+	<tip id="292" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The Royal Academy of music executives $npc:11001320$ $npc:11001322$\nA dear friend." />
+	<tip id="293" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Other people bought the sheet music you can play." />
+	<tip id="294" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you have a party at the House near the instrument ensemble." />
+	<tip id="295" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Make your own by using a blank sheet music songs." />
+	<tip id="296" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="A lot of skill in playing increases, the sheet music\nMore spectacular action playing an instrument." />
+	<tip id="297" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Instruments without sheet music using improvisation." />
+	<tip id="298" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="I have used the instrument as a sheet music\nSheet music can be played." />
+	<tip id="299" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you play an instrument, played nearby, you can hear other people." />
+	<tip id="300" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you don&#8217;t want to hear the sound play\nPlaying an instrument in my sound Preferences tab to reduce the sound." />
+	<tip id="301" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Has been blocked by the character&#8217;s can&#8217;t hear the sound playing." />
+	<tip id="302" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000001$Of $npc:11001320$ $map:02010002$Of $npc:11001322$\nPiano and guitar for sale." />
+	<tip id="303" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To purchase playing and related articles $map:02000001$In $npc:11001320$ Meet the." />
+	<tip id="304" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To purchase playing and related articles\n$map:02010002$In the $npc:11001322$ Meet the." />
 </ms2>

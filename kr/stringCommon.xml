@@ -619,6 +619,8 @@
 	  <key id="s_admin_block_default" value="Feature limited by the operator."/>
 	  <key id="s_admin_block_ugcmap_create" value="Construction posted the items have limited functionality."/>
 	  <key id="s_admin_block_party_search" value="Party Finder feature limited."/>
+      <key id="s_admin_block_play_score" value="Playing an instrument is a limited ability status."/>
+      <key id="s_admin_block_write_music" value="Music production have limited functionality."/>  
 	  <key id="s_admin_block_period" value="( {0:04d}Years {1}- {2}Days {3:02d}: {4:02d}Min. {5:02d}Seconds ~ {6:04d}Years {7}- {8}Days {9:02d}: {10:02d}Min. {11:02d}Seconds)"/>
 
 <!-- ============================================================================================================================================================================= -->
@@ -664,7 +666,10 @@
 	  <key id="s_msg_cant_drop" value="You cannot walk away."/>
     <key id="s_item_err_donot_preview" value="You cannot preview the items."/>
 	<key id="s_item_err_binditem" value="Unable to archive items."/>
-	<key id="s_msg_cant_movechannel" value="Invalid channel number."/>
+    <key id="s_item_err_cannot_play_instrument" value="Unable to play."/>
+    <key id="s_item_err_cannot_play_instrument_empty_custom" value="Blank sheet music is unable to play."/>
+    <key id="s_item_err_cannot_play_none_count" value="The remaining count is low." />
+    <key id="s_item_err_cannot_play_now" value="Now I cannot change the score." />
 	
 	<!-- Character gender change vol -->
 	<key id="s_change_gender_confirm" value="{0} Are you sure you want to change the gender of your character?"/>
@@ -729,6 +734,7 @@
 	  <key id="s_item_err_puton_expired" value="Expired items."/>
 	  <key id="s_item_err_puton_pcbang" value="PCRoom only."/>
 	  <key id="s_item_err_puton_job" value="The job cannot be worn vary."/>
+    <key id="s_item_err_puton_invalid" value="The item is not available." />
 	  <key id="s_item_err_range" value="{0} - {1}You can enter up to."/>
 	  <key id="s_item_err_skill_level" value="Skill level data."/>
 	  <key id="s_item_err_puton_skill_samekinds" value="Already equipped with skill."/>
@@ -750,6 +756,10 @@
 	 <key id="s_ban_check_tabname_err_any_word" value="Tab is not available in Word (the name{0})Included."/>
 	 <key id="s_ban_check_tabname_err_any" value="Tab is not available in the name contains the word."/>
 
+    <key id="s_ban_check_title_err_min_length" value="At least the title {0}Please enter the above letters."/>
+    <key id="s_ban_check_title_err_max_length" value="The title is up to {0}Characters can be entered."/>
+    <key id="s_ban_check_title_err_invalid_char" value="Contains characters that cannot be used in the title."/>
+    <key id="s_ban_check_title_err_invalid_char_space" value="You cannot use special characters and spaces in the title."/>
 	 <key id="s_ban_check_title_err_any_word" value="You can use words (in the title{0})Included."/>
 	 <key id="s_ban_check_title_err_any" value="The title contains words that are not available."/>
 
@@ -891,6 +901,8 @@
   <key id="s_word_woman" value="Female"/>
   <key id="s_word_man_or_woman" value="Unisex"/>
   <key id="s_word_usercount" value="{0}"/>
+    <key id="s_word_stat_increase" value="{0} Increases the"/> <!--ex)Went through 3% increase in power-->
+    <key id="s_word_stat_increase_near_zero" value="{0} 1 An increase of less than"/> <!--ex)Defense power increase in less than one-->
   <key id="s_word_exp" value="EXP"/>
   <key id="s_word_stat_hp" value="HP"/>
   <key id="s_word_stat_sp" value="SP"/>
@@ -1215,7 +1227,6 @@
   <key id="s_item_opt_sa_invoke_effect_abp_v" value="{0:d}"/>
   <key id="s_item_opt_sa_invoke_effect_rmsp_v" value="{0:d}"/>
   <key id="s_item_opt_sa_invoke_effect_jmp_v" value="{0:d}"/>
-  <key id="s_item_opt_sa_invoke_effect_wap_v" value="{0:d}"/>
   <key id="s_item_opt_sa_invoke_effect_wap_min_v" value="{0:d}"/>
   <key id="s_item_opt_sa_invoke_effect_wap_max_v" value="{0:d}"/>
   <key id="s_item_opt_sa_invoke_effect_offensive_physical_damage_v" value="{0:d}"/>
@@ -1273,7 +1284,6 @@
   <key id="s_item_opt_sa_invoke_effect_abp_r" value="{0:0.1f}%"/>
   <key id="s_item_opt_sa_invoke_effect_rmsp_r" value="{0:0.1f}%"/>
   <key id="s_item_opt_sa_invoke_effect_jmp_r" value="{0:0.1f}%"/>
-  <key id="s_item_opt_sa_invoke_effect_wap_r" value="{0:0.1f}%"/>
   <key id="s_item_opt_sa_invoke_effect_wap_min_r" value="{0:0.1f}%"/>
   <key id="s_item_opt_sa_invoke_effect_wap_max_r" value="{0:0.1f}%"/>
   <key id="s_item_opt_sa_invoke_effect_offensive_physical_damage_r" value="{0:0.1f}%"/>
@@ -1331,7 +1341,10 @@
   <key id="s_word_iconcode_buffportion" value="Buff potion"/>
   <key id="s_word_iconcode_trigger_controller" value="Trigger controller"/>
   <key id="s_word_iconcode_interior_pack" value="Construction books"/>
-  <key id="s_word_iconcode_pet" value="Fett"/>
+  <key id="s_word_iconcode_pet" value="Pet"/>
+    <key id="s_word_iconcode_fishing_rod" value="Fishing rod"/>
+    <key id="s_word_iconcode_music_instrument" value="Instrument"/>
+    <key id="s_word_iconcode_music_note" value="Sheet music"/>
 
   <key id="s_word_rank_no" value="Rating not set items"/>
   <key id="s_word_rank_01" value="Normal"/>
@@ -1434,6 +1447,7 @@
   <key id="s_msg_rclick_item_break" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to dismantle this item.. &lt;/FONT&gt;"/>
   <key id="s_msg_rclick_blackmarket" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to register this item to the Black Market. &lt;/FONT&gt;"/>
   <key id="s_msg_rclick_remakeitemoption" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to change the equipment options on this item. &lt;/FONT&gt;"/>
+    <key id="s_msg_rclick_play_instrument" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can choose the sheet music to play with.&lt;/FONT&gt;"/>
 
   <key id="s_msg_dclick_usable" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Double click on it&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;Can be used for general purposes.&lt;/FONT&gt;"/>
   <key id="s_msg_dclick_readable" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Double click on it&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can read.&lt;/FONT&gt;"/>
@@ -1443,6 +1457,7 @@
   <key id="s_msg_tooltip_customize_color" value="Beauty can change the color of the room and the street&#8217;s Dyer."/>
   <key id="s_msg_tooltip_customize_buy_random_color" value="Random color choice when purchasing."/>
   <key id="s_msg_tooltip_limit_register_meratmarket" value="&lt;FONT color='#FF4040'&gt;Designer&#8217;s shop registration disabled&lt;/FONT&gt;"/>
+    <key id="s_msg_tooltip_enable_play_music" value="You can play by using the instrument."/>
 
   <!-- Death -->
   <key id="s_msg_tombstone" value="Heavy rain was laid behind the wheel." />
@@ -1903,6 +1918,7 @@
   <key id="s_action_owner" value=" - {0}"/>
   <key id="s_action_taxi_call" value="Calling a Taxi"/><!--Taxi stop objects-->
   <key id="s_action_hold" value=" While holding the suspension"/><!--Monster catch-->
+    <key id="s_action_cant_pet" value="Now it is not available"/>
   <key id="s_action_cant_ride" value="Now it is not available"/><!--It is only when you can ride in a vehicle-->
   <key id="s_action_privilege_portal" value="Only available to residents of the area in the portal."/><!--Real estate portal for the privilege-->
   <key id="s_action_recall_otheruser" value="Teleport gate opening"/><!--Guild, part recall scroll use-->
@@ -1912,6 +1928,7 @@
   <!--City Bar-->
   <key id="s_action_taxi_call_progress" value="Calling a Taxi"/>
   <key id="s_action_cash_taxi_call_progress" value="Calling a Helicopter"/>
+    <key id="s_action_summon_pet" value="Call of a pet"/>
   <key id="s_action_summon_ridee" value="Calling a Mount"/> <!--Call the city appears in the contents bar mounts-->
   <key id="s_action_goto_home" value="Homing device communication ... Go into the House."/><!--Return enabled. Home: before going to the bar display-->
   <key id="s_action_bank_call_progress" value="Golden Bank online"/><!--Return enabled. Home: before going to the bar display-->
@@ -2173,6 +2190,9 @@
   <key id="s_worldmap_tooltip_mapname" value="{0}"/> <!-- The field name -->
   <key id="s_worldmap_tooltip_mapname_low" value="{0} / {1}"/> <!-- The field name / Level -->
   <key id="s_worldmap_tooltip_mapname_high" value="&lt;FONT color='#FF4040'&gt;{0} / {1}&lt;/FONT&gt;"/> <!-- The field name / Level -->
+    <key id="s_worldmap_tooltip_fishingspot_low" value="{0} / Fishing {1}"/> <!-- The field name / Level -->
+    <key id="s_worldmap_tooltip_fishingspot_high" value="&lt;FONT color='#FF4040'&gt;{0} / Fishing {1}&lt;/FONT&gt;"/> <!-- The field name / Level -->
+
   <key id="s_worldmap_tooltip_boss" value="{0} / Level {1}"/>
   <key id="s_worldmap_tooltip_portal" value="{0}"/>
   <key id="s_worldmap_tooltip_portal_time" value="{0:02d}:{1:02d}-{2:02d}:{3:02d}As far as the gate open"/>
@@ -2438,6 +2458,7 @@
   <key id="s_common_hour" value="{0}h"/>
   <key id="s_common_min_sec" value="{0}m {1}s"/>
   <key id="s_common_hour_min" value="{0}h {1}m"/>
+  <key id="s_common_hour_min_sec" value="{0}h {1}m {2}s" />
   <key id="s_common_date_week" value="{0}- {1}({2})"/>
   <key id="s_common_max_size" value="Maximum" />
   <key id="s_common_min_size" value="Minimum" />
@@ -2503,6 +2524,9 @@
   <key id="s_room_dungeon_time_up" value="The prayers of pilgrims to reach the sky\nA 20-minute time limit." />
   <key id="s_room_dungeon_cooldown" value="Position hanging in the time limit\n{0} From the entry." />
   <key id="s_room_dungeon_give_reward" value="Dungeons have been paid compensation." />
+    <key id="s_room_dungeon_reward_addExtraCount" value="The reward has been added to the number of available" />
+    <key id="s_room_dungeon_reward_CantUseExtraReward" value="This Dungeon is the reward will not be able to add the number of acquired" />
+    <key id="s_room_dungeon_reward_HasNotExtraRewardItems" value="Add the number of acquired rights to Dungeon reward items." />
 
   <!-- shutdown -->
   <key id="s_shutdown_notify" value="As part of the Shutdown Law, children aged 16 or less are subject to limited gameplay from {0}." />
@@ -2542,6 +2566,7 @@
   <key id="s_dungeonRoom_notify_nonReward" value="This exceeds the number of the compensation obtained by a Dungeon anymore, compensation will not be paid." />
   <key id="s_dungeonRoom_enterButton_enter" value="Enter" />
   <key id="s_dungeonRoom_enterButton_already_enter" value="Open to the Dungeon entrance" />
+    <key id="s_dungeonRoom_use_extra_count_item" value="&lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt;Using\n[{1}]In\nThe number of available rewards &lt;FONT color='#FFA200'&gt;1Times&lt;/FONT&gt; Are you sure you want to add?" />
 
   <!-- When you shut down the server and game server connection Center for emergency maintenance -->
   <key id="s_emergency_maintenance_remain_minute" value="Server maintenance." />
@@ -2828,12 +2853,16 @@
   <key id="s_nametag_symbol_guild" value="True Champion"/>
   <key id="s_nametag_symbol_architect" value="Star Architect"/>
   <key id="s_nametag_symbol_trophy" value="Trophy Mania"/>
+    <key id="s_nametag_symbol_musician" value="Musician"/>
+    <key id="s_nametag_symbol_fisher" value="Fishing King"/>
 
   <key id="s_nametag_symbol_enchant_desc" value="Displays when equipping an Excellent +12 or higher equipment"/>
   <key id="s_nametag_symbol_seller_desc" value="Displays when obtaining the Top Designer title"/>
   <key id="s_nametag_symbol_guild_desc" value="Displays when obtaining the True Champion title"/>
   <key id="s_nametag_symbol_architect_desc" value="Displays when obtaining the Star Architect title"/>
   <key id="s_nametag_symbol_trophy_desc" value="Displays after obtaining the [Trophy mania] trophy award"/>
+    <key id="s_nametag_symbol_musician_desc" value="[Dreaming of AXA] After achieving the equitable title acquisition display trophy"/>
+    <key id="s_nametag_symbol_fisher_desc" value="[There is also pretending to be in January!] After achieving the trophy fishing shows: the Royal title"/>
   
   <key id="s_attend_play_gift_slot" value="{0}\n{1}Access time:"/>
   <key id="s_attend_play_gift_received" value="Mailing complete : Today I received all of the gifts you can receive."/>
@@ -3002,13 +3031,16 @@
   <key id="s_server_name_flata" value="Fleta"/>
   
   <!-- Inn Chen Trois scroll -->
-  <key id="s_enchantscroll_desc" value="&lt;FONT color='#ffd200'&gt;{0}&lt;/Font&gt;Used.\nDue to the success which Chan Tran Chan Tran option is changed.\nAfter you have used the item cannot be reversed."/> <!-- {1} : Your chances of success-->
+  <key id="s_enchantscroll_desc_enchant" value="&lt;FONT color='#ffd200'&gt;{0}&lt;/Font&gt;Used.\nDue to the success which Chan Tran Chan Tran option is changed.\nAfter you have used the item cannot be reversed."/> <!-- {1} : Your chances of success-->
+    <key id="s_enchantscroll_desc_restore" value="&lt;FONT color='#ffd200'&gt;{0}&lt;/Font&gt;Used.\nThe use of the item, which Chan Tran step {1} Possible state change, Chan Tran.\nAfter you have used the item cannot be reversed."/> <!-- {1} : Your chances of success-->
   <key id="s_enchantscroll_limit" value="&lt;p align='center'&gt;&lt;font color='#ffd200'&gt;{0}&lt;/Font&gt;&lt;FONT color='#c909090'&gt;Level&lt;/Font&gt; &lt;/Font&gt;&lt;FONT color='#ffd200'&gt;{1}&lt;/Font&gt; &lt;FONT color='#c909090'&gt;Rating\nThe weapon, a jacket, HA, it is possible to use a bee equipment&lt;/font&gt;&lt;/p&gt;"/> <!-- {2} : Write down one handful of slots-->
   <key id="s_enchantscroll_itemname" value="&lt;font color='{0}'&gt;+{1} {2}&lt;/font&gt;" />
+  <key id="s_enchantscroll_breaking" value="&lt;font color='#ffd200'&gt;(Corrupted)&lt;/font&gt;" />
   <key id="s_enchantscroll_successprop" value="Your chances of success : {0}%"/> <!--{1} : Failure probability-->
   <key id="s_enchantscroll_ok" value="I&#8217;ve been using Trillian, which Chan order."/>
   <key id="s_enchantscroll_openscroll" value="Already using Trillian orders. CHAN\nClose the window again, give it a try."/>
-  
+    <key id="s_enchantscroll_fail_desc" value="Already using Trillian orders. CHAN\nClose the window again, give it a try."/>
+
   <key id="s_enchantscroll_invalid_scroll" value="Is an invalid order."/>
   <key id="s_enchantscroll_invalid_item" value="The item is not valid."/>
   <key id="s_enchantscroll_breaking_item" value="Damaged items will not be able to do the Chan Tran."/>
@@ -3016,7 +3048,8 @@
   <key id="s_enchantscroll_invalid_rank" value="Due to this order, the selected equipment Chan Tran can not."/>
   <key id="s_enchantscroll_invalid_level" value="Due to this order, the selected equipment Chan Tran can not level."/>
   <key id="s_enchantscroll_invalid_grade" value="Trail rating of the current selected equipment which cannot be used higher CHAN"/>
-  
+    <key id="s_enchantscroll_not_breaking_item" value="Undamaged items cannot be recovered."/>
+
   <key id="s_global_portal_ox_quiz" value="Maple OX Quiz show was held.\nEntry?"/>
   <key id="s_global_portal_error_cant_enter_dead" value="The monument to the State, the entry will not be able to do."/>
   
@@ -3024,21 +3057,87 @@
   <key id="s_function_cube_error_invalid_pos" value="The distance is far away, you cannot work."/>
   <key id="s_function_cube_error_invalid_summon_user" value="Currently, only the characters that you can summon it indoors."/>
   
+    <!-- Fishing skill-->
+    <key id="s_fishing_grade_Lv1" value="Starter stage 1"/>
+    <key id="s_fishing_grade_Lv2" value="Novice 2 phase"/>
+    <key id="s_fishing_grade_Lv3" value="Starter 3 phase"/>
+    <key id="s_fishing_grade_Lv4" value="Beginner step 4"/>
+    <key id="s_fishing_grade_Lv5" value="Intermediate step 1"/>
+    <key id="s_fishing_grade_Lv6" value="Intermediate step 2"/>
+    <key id="s_fishing_grade_Lv7" value="Intermediate step 3"/>
+    <key id="s_fishing_grade_Lv8" value="Intermediate step 4"/>
+    <key id="s_fishing_grade_Lv9" value="Senior step 1"/>
+    <key id="s_fishing_grade_Lv10" value="Senior step 2"/>
+    <key id="s_fishing_grade_Lv11" value="Senior step 3"/>
+    <key id="s_fishing_grade_Lv12" value="Senior step 4"/>
+    <key id="s_fishing_grade_Lv13" value="Professional angler"/>
+
   <!-- Fishing -->
-  <key id="s_fishing_grade_beginner" value="Beginner anglers"/>
-  <key id="s_fishing_grade_intermediate" value="Intermediate angler"/>
-  <key id="s_fishing_grade_expert" value="Advanced anglers"/>
-  <key id="s_fishing_grade_master" value="The God of fishing"/>
+    <key id="s_fishing_habitat_water" value="Freshwater"/>
+    <key id="s_fishing_habitat_seawater" value="Waters"/>
+    <key id="s_fishing_habitat_poison" value="The venom"/>
+    <key id="s_fishing_habitat_lava" value="Lava"/>
+    <key id="s_fishing_habitat_oil" value="Oil"/>
+    <key id="s_fishing_habitat_devilwater" value="Contaminated water"/>
   
   <key id="s_fishing_notify_success" value="{0} Fishing success"/>
   <key id="s_fishing_notify_fail" value="{0} Fishing fail"/>
-  
-  <key id="s_fishing_fisher_mastery" value="The level of proficiency {0}/{1}"/>
-  <key id="s_fishing_fish_mastery" value="Recommended skill {0} More"/>
   <key id="s_fishing_fish_grade" value="{0} Rating"/>
   <key id="s_fishing_fish_catch_count" value="{0}Times"/>
   <key id="s_fishing_fish_size" value="{0}cm"/>
-  
+    <key id="s_fishing_mastery_gauge_level_max" value="| MAX"/>
+    <key id="s_fishing_mastery_tooltip_level_max" value="Skill up"/>
+
+    <key id="s_fishing_none_title" value="Prospective anglers"/>
+    
+    <key id="s_fishing_error_invalid_cube" value="Here you&#8217;ll find fishing."/>
+    <key id="s_fishing_error_notexist_water" value="Fishing rods must be used in a swimming possible inflation."/>
+    <key id="s_fishing_error_invalid_item" value="The fishing rod is not valid."/>
+    <key id="s_fishing_error_lack_mastery" value="Anglers fishing from the lower steps here."/>
+    <key id="s_fishing_error_notexist_fish" value="Here you&#8217;ll find fishing."/>
+    <key id="s_fishing_error_system_error" value="System error"/>
+    <key id="s_fishing_error_fishingrod_mastery" value="Low angler steps this fishing rod is not available."/>
+    <key id="s_fishing_error_ride" value="Ride cannot be mounted State fishing."/>
+    <key id="s_fishing_error_inventory_full" value="Among the equipment or personal belongings on the other tab, full of fishing cannot be started." />
+
+    <key id="s_fishing_offset_mastery" value="Fishing skill {0} In December."/><!--({1}) You can display additional cumulative skills-->
+    <key id="s_fishing_offset_mastery_firstcatch" value="For the first time {0} Fishing w fishing skill {1} In December."/> <!--({2}) You can display additional cumulative skills-->
+    <key id="s_fishing_offset_mastery_bigsizecatch" value="-Chuck {0} Fishing w fishing skill {1} In December."/><!--({2}) You can display additional cumulative skills-->
+    <key id="s_fishing_notice_bigfish" value="{0} NI-Chuck {1} Fishing."/>
+
+    <key id="s_fishing_total_mastery" value="Fishing skill {0}"/>
+    <key id="s_fishing_need_mastery" value="&lt;FONT color='#FFD200' size='15' &gt;Fishing skill ({0}/{1})&lt;/FONT&gt;\nThe next step up to the required level of proficiency and to determine the level of proficiency attained. \nMy angler to catch fish such as the steps now.\nHigh level of proficiency is to hold several times the fish more in step."/>
+    <key id="s_fishing_size_small" value="Mini"/>
+    <key id="s_fishing_size_medium" value="Medium"/>
+    <key id="s_fishing_size_large" value="Large"/>
+    <key id="s_fishing_size_bigfish" value="-Chuck"/>
+    
+    <key id="s_fishing_start_castingbar_text0" value="Fishing is one of."/>
+    <key id="s_fishing_start_castingbar_text1" value="Wandering around the fish early."/>
+    <key id="s_fishing_start_castingbar_text2" value="The fish are flocking."/>
+    <key id="s_fishing_start_castingbar_text3" value="Something seems to have appeared around the stick."/>
+    <key id="s_fishing_start_castingbar_text4" value="Poke around the extraordinary surge."/>
+        
+    <key id="s_fishing_start_balloon_text0" value="Any fish caught?"/>
+    <key id="s_fishing_start_balloon_text1" value="Just-pretend fishing!"/>
+    <key id="s_fishing_start_balloon_text2" value="I&#8217;m a big guy hooked up with Ouch!"/>
+    <key id="s_fishing_start_balloon_text3" value="This time it feels good!"/>
+    <key id="s_fishing_start_balloon_text4" value="Fishing ... It&#8217;s wait ..."/>
+    <key id="s_fishing_start_balloon_text5" value="My fishing rods fishing bite not long!"/>
+    <key id="s_fishing_start_balloon_text6" value="Meow this way of biting fishing lines to ouch ..."/>
+    <key id="s_fishing_start_balloon_text7" value="When-I would take pretend ..."/>
+    <key id="s_fishing_start_balloon_text8" value="Looks like a giant fin. .."/>
+    <key id="s_fishing_start_balloon_text9" value="Now the big guys get the timing ..."/>
+    
+    <key id="s_fishing_fishfighting_castingbar_text0" value="The action key, press and release the tune in the middle of the stick with 5."/>
+    
+    <key id="s_fishing_fishfighting_balloon_text0" value="I finally asked!!!"/>
+    <key id="s_fishing_fishfighting_balloon_text1" value="Freaking heavy!"/>
+    <key id="s_fishing_fishfighting_balloon_text2" value="The power is no joke!"/>
+    <key id="s_fishing_fishfighting_balloon_text3" value="Quick snap!"/>
+    <key id="s_fishing_fishfighting_balloon_text4" value="Bring the town!! Great power!"/>
+    <key id="s_fishing_fishfighting_balloon_text5" value="Pull! Pull!!"/>
+
   <!-- Change options for the equipment -->
   <key id="s_remake_itemoption_error" value="This option cannot be changed for the selected equipment."/>
   <key id="s_remake_itemoption_error_impossible" value="This option cannot be changed for the selected equipment."/>
@@ -3052,5 +3151,78 @@
   <key id="s_tooltip_itemoption_kinds_space" value="&lt;font size='3'&gt;\n&lt;/font&gt;"/>
   <key id="s_tooltip_itemoption_enchant" value="&lt;font color='#ffd200'&gt;Enchant Effects\n{0}&lt;/font&gt;"/>
   <key id="s_tooltip_itemoption_stat_row" value=" &amp;nbsp;&amp;nbsp;ㆍ{0}\n"/>
-  
+
+    <key id="s_tooltip_itemoption_setitem_name" value="&lt;font color='#00d205'&gt;{0} ({1}/{2})\n&lt;/font&gt;"/>
+    <key id="s_tooltip_itemoption_setitem_set_title" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color='#{0:x}'&gt;{1} Set\n&lt;/font&gt;"/>
+    <key id="s_tooltip_itemoption_setitem_name_row" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color='#{0:x}'&gt;{1}\n&lt;/font&gt;"/>
+    <key id="s_tooltip_itemoption_setitem_stat_row" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color='#{0:x}'&gt;And{1}\n&lt;/font&gt;"/>
+
+    <!--Playing an instrument proficiency -->
+    <key id="s_play_instrument_grade_Lv1" value="Rudiments of music"/>
+    <key id="s_play_instrument_grade_Lv2" value="Intermediate musicians"/>
+    <key id="s_play_instrument_grade_Lv3" value="Advanced music"/>
+    <key id="s_play_instrument_grade_Lv4" value="Professional musicians"/>  
+    
+    <!--Playing an instrument -->   
+    <key id="s_msg_tooltip_musicscore_enable_playcount" value="&lt;FONT color='#FFD200'&gt;{0}Times available for playing&lt;/font&gt;\nYou can play by using the instrument."/>
+    <key id="s_msg_tooltip_musicscore_disable_playcount" value="&lt;FONT color='#FF4040'&gt;0Times available for playing&lt;/font&gt;"/>
+    <key id="s_msg_tooltip_musicscore_enable_playcount_custom_empty" value="&lt;FONT color='#FFD200'&gt;Production: {0}Times available for playing&lt;/font&gt;"/>
+
+    <key id="s_msg_tooltip_musicscore_custom_used_item_desc" value="You can play the recorded music and sheet music."/>
+    <key id="s_msg_tooltip_musicscore_custom_used_item_desc_guide" value="Double-click the sheet music and instruments in the window your belongings played when you select\nYou can play this song."/>
+    <key id="s_msg_tooltip_musicscore_custom_empty_stat_desc" value="{0}Now it is possible to enter"/>
+    <key id="s_msg_tooltip_musicscore_stat_desc" value="Featured instruments: {0}\nPlaying time: {1}"/>
+    <key id="s_msg_tooltip_musicscore_writer" value="{0} Composition"/>
+    
+    <key id="s_play_instrument_ui_score_info_writer" value="Composition : {0}"/>
+    <key id="s_play_instrument_ui_score_play_duration" value="Playing time : {0}"/>
+    <key id="s_play_instrument_ui_score_info_title" value="[Sheet music] {0}"/>
+    <key id="s_play_instrument_ui_score_info_instrument" value="Featured instruments : {0}"/>
+    <key id="s_play_instrument_ui_ask_close_while_playing_score" value="&lt;FONT color='#FF5f5f'&gt;Closing the window will stop playing.&lt;/font&gt;\nYou really Windows?" />
+    <key id="s_play_instrument_ui_button_play_solo" value="To play" />
+    <key id="s_play_instrument_ui_button_play_ensemble" value="Ensemble getting started" />
+    <key id="s_play_instrument_ui_button_ready_ensemble" value="Ensemble to prepare" />
+    <key id="s_play_instrument_ui_button_stop_solo" value="To stop playing" />
+    <key id="s_play_instrument_ui_button_stop_ready_ensemble" value="Ensemble unprepared" />
+    <key id="s_play_instrument_ui_button_stop_ensemble" value="Ensemble to stop" />
+    <key id="s_play_instrument_ui_need_score" value="Playing sheet music.\nPlease put up the sheet music to play on your belongings." />
+    <key id="s_play_instrument_ui_need_party_for_ensemble" value="&lt;FONT color='#FF5f5f'&gt;If you want to party, you must subscribe to the sum weeks.&lt;/font&gt;\nWhen you start patijangi ensemble\nNear ready to party with the ensemble in the ensemble." />    
+    <key id="s_play_instrument_invalid_instrument" value="The instrument is not valid." />
+    <key id="s_play_instrument_invalid_music_score" value="Sheet music is not valid." />
+    <key id="s_play_instrument_mastery" value="Playing skills {0} Rose." /> 
+    <key id="s_play_instrument_invalid_state" value="Now it is not available." />
+    <key id="s_play_instrument_invalid_position" value="This cannot be done." />
+    <key id="s_play_instrument_cant_while_write_music" value="Among the compositions can be used." />
+    <key id="s_play_instrument_cant_while_play_instrument" value="The instrument is in use." /> 
+    <key id="s_play_instrument_invalid_map" value="This cannot be done in the area." />
+    
+    <key id="s_play_instrument_instrument_name_1" value="" /> <!--Grand Piano / If you add more instrument types.-->
+    <key id="s_play_instrument_instrument_name_2" value="" /> <!--Acoustic guitar / If you add more instrument types.-->
+    <key id="s_play_instrument_instrument_category_name_1" value="Piano" />
+    <key id="s_play_instrument_instrument_category_name_2" value="Other" />
+    
+    <!--Music production -->    
+    <key id="s_writemusic_complete_make"  value="Music production."/>
+    <key id="s_writemusic_error_make"  value="Music creation failed.\nClose the window, please back to making music."/>
+    <key id="s_writemusic_error_make_empty_title"  value="Please enter a title for the score."/>
+    <key id="s_writemusic_error_make_invalid_instrument_type"  value="Please choose the instrument again."/>
+    <key id="s_writemusic_error_make_empty_score"  value="Sheet music content is empty.\nPlease enter the contents of the sheet music."/>
+    <key id="s_writemusic_error_make_maxlength"  value="The maximum number of characters that can be entered has been exceeded."/>
+    <key id="s_writemusic_error_make_zero_time"  value="Less than 1 second of time playing music is unable to produce."/>
+    <key id="s_writemusic_error_play"  value="Failed to play the music.\nClose the window, please back to making music."/>
+    <key id="s_writemusic_error_play_empty_score"  value="Sheet music content is empty.\nPlease enter the contents of the sheet music."/>
+    <key id="s_writemusic_error_play_zero_time"  value="Playing time is 0 seconds.\nHow to make enter the contents after the composer."/>
+    <key id="s_writemusic_error_add_tab_maxcount"  value="The maximum number of tabs has been exceeded."/>
+    
+    <key id="s_writemusic_msg_ask_close"  value="If you close the window, the content being edited.\nDo you want to stop composing?"/>
+    <key id="s_writemusic_msg_ask_remove_tab" value="If you delete the contents of the input chord.\nAre you sure you want to delete?"/>
+    
+    <key id="s_writemusic_text_playtimer_total" value="({0:02d}:{1:02d})"/>
+    <key id="s_writemusic_text_playtimer_cur" value="{0:02d}:{1:02d}"/>
+    <!-- -->
+    <key id="s_anti_addiction_cannot_receive" value="Fatigue is the launch in time for the game." />
+
+  <!-- Auto potion recovery settings-->
+  <key id="s_auto_itemuse_default" value="Please set the item." />
+  <key id="s_auto_itemuse_condition" value="HPIs {0} Days when" />
 </ms2>

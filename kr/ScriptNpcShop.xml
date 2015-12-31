@@ -19,7 +19,7 @@
 	<key id="0831180306000017" npc="Rumi" name="What is going on?" />
 	<key id="0831180306000018" npc="Rumi" name="If you have an arm things come" />
 	<key id="0831180306000019" npc="Rumi" name="If you don&#8217;t mind the status of the goods value after you beat me" />
-	<key id="0831180306000020" npc="Rumi" name="Little by little $map:02000062$  Passed away?" />
+	<key id="0831180306000020" npc="Rumi" name="Little by little $map:02000062$ Passed away?" />
 	<key id="0831180306000021" npc="Rumi" name="To the trade $map:02000062$There is no enough place" />
 	<key id="0831180306000022" npc="Snow Mong" name="And since what&#8217;s going on?" />
 	<key id="0831180306000023" npc="Snow Mong" name="$map:02000051$Manage all of the equipment that I was~" />
@@ -113,7 +113,7 @@
 	<key id="0831180306000111" npc="Robert" name="Stuff I need to leave the place in Medan?" />
 	<key id="0831180306000112" npc="Robert" name="Safe to use, please tell me." />
 	<key id="0831180306000113" npc="Stephen" name="Come on, come. What can I help you?" />
-	<key id="0831180306000114" npc="Stephen" name="I believe you can also stick with a goal in the Bank is" />
+	<key id="0831180306000114" npc="Stephen" name="I believe you can also stick with a goal in the Bank can" />
 	<key id="0831180306000115" npc="Stephen" name="Stuff I want to stick with a cow in Medan?" />
 	<key id="0831180306000116" npc="Stephen" name="We will keep your valuables" />
 	<key id="0831180306000117" npc="Walter" name="Come on, come. What can I help you?" />
@@ -358,6 +358,7 @@
 	<key id="0831180306000356" npc="Uni-" name="This world is very interesting" />
 	<key id="0831180306000357" npc="Uni-" name="And they&#8217;re a little pricey but the quality is guaranteed" />
 	<key id="0831180306000358" npc="Uni-" name="Don&#8217;t scam disgust" />
+	<key id="1216202006000616" npc="Ung" name="What&#8217;s up with that?" />
 	<key id="0831180306000359" npc="Cha Cha" name="Well? Came here looking for me?" />
 	<key id="0831180306000360" npc="Cha Cha" name="Oh~ Pink lamb also take ... " />
 	<key id="0831180306000361" npc="Cha Cha" name="It&#8217;s the best trip to divert~ " />
@@ -377,16 +378,16 @@
 	<key id="0831180306000375" npc="Rivière-Blanche" name="As a customer you in essence I&#8217;m determined" />
 	<key id="0831180306000376" npc="Rivière-Blanche" name='Hmm~ I&#8217;m a $MyPCName$Won&#8217;t do a deal with you.&#x0A;I&#8217;m a &lt;font color=&quot;#ffd200&quot;&gt;$achieve:23200015$&lt;/font&gt; For those who have obtained the trophy here.&#x0A;In case you have been looking for to meet with me sorry if too.' />
 	<key id="0831180306000377" npc="Maple books" name="MapleStory 2 fan art book to sell on the newsstands." />
-	<key id="0831180306000378" npc="Knox" name="Me how the shape of the military." />
-	<key id="0831180306000379" npc="Knox" name="I $item:40100023$ Woogie don&#8217;t treat" />
-	<key id="0831180306000380" npc="Knox" name="I certainly had a deal ..." />
-	<key id="0831180306000381" npc="Knox" name="$item:40100024$ ? Hmm ... Sadly enough ..." />
-	<key id="1208032606000568" npc="Knox" name="Well? You what?&#x0A;Even come to deal with the stuff?" />
-	<key id="1208032606000569" npc="Knox" name="$item:40100024$ He had heard that you should collect." />
-	<key id="1208032606000570" npc="Knox" name='Oh, that?&#x0A;For Macedonian &lt;font color=&quot;#ffd200&quot;&gt;$item:40100024$&lt;/font&gt; Save on shape, which sadly. &#x0A;In the meantime trade lay even if you buy the stuff because it was &lt;font color=&quot;#ffd200&quot;&gt;The other day&lt;/font&gt; Go and find out.' />
-	<key id="1208032606000571" npc="Knox" name="The reason to stop the trade." />
-	<key id="1208032606000572" npc="Knox" name='… Why quit &quot;?&#x0A;Hey, squirt. Now with me &lt;font color=&quot;#ffd200&quot;&gt;Joke&lt;/font&gt;?&#x0A;Entertainer, this is why trade Qu? &lt;font color=&quot;#ffd200&quot;&gt;Revenue deficit&lt;/font&gt;Do not put the coffin.' />
-	<key id="1208032606000573" npc="Knox" name='Change the configuration to take goods lay all cry at all ... &#x0A;Yet &lt;font color=&quot;#ffd200&quot;&gt;Annoying&lt;/font&gt;Now don&#8217;t bother to stop more.&#x0A;&lt;font color=&quot;#909090&quot;&gt;(Seem to be fairly sensitive wish not to say more)&lt;/font&gt;' />
+	<key id="0831180306000378" npc="Cao Knicks collectors Knox" name="Me how the shape of the military." />
+	<key id="0831180306000379" npc="Cao Knicks collectors Knox" name="I $item:40100023$ Woogie don&#8217;t treat" />
+	<key id="0831180306000380" npc="Cao Knicks collectors Knox" name="I certainly had a deal ..." />
+	<key id="0831180306000381" npc="Cao Knicks collectors Knox" name="$item:40100024$ ? Hmm ... Sadly enough ..." />
+	<key id="1208032606000568" npc="Cao Knicks collectors Knox" name="Well? You what?&#x0A;Even come to deal with the stuff?" />
+	<key id="1208032606000569" npc="Cao Knicks collectors Knox" name="$item:40100024$ He had heard that you should collect." />
+	<key id="1208032606000570" npc="Cao Knicks collectors Knox" name='Oh, that?&#x0A;For Macedonian &lt;font color=&quot;#ffd200&quot;&gt;$item:40100024$&lt;/font&gt; Save on shape, which sadly. &#x0A;In the meantime trade lay even if you buy the stuff because it was &lt;font color=&quot;#ffd200&quot;&gt;The other day&lt;/font&gt; Go and find out.' />
+	<key id="1208032606000571" npc="Cao Knicks collectors Knox" name="The reason to stop the trade." />
+	<key id="1208032606000572" npc="Cao Knicks collectors Knox" name='… Why quit &quot;?&#x0A;Hey, squirt. Now with me &lt;font color=&quot;#ffd200&quot;&gt;Joke&lt;/font&gt;?&#x0A;Entertainer, this is why trade Qu? &lt;font color=&quot;#ffd200&quot;&gt;Revenue deficit&lt;/font&gt;Do not put the coffin.' />
+	<key id="1208032606000573" npc="Cao Knicks collectors Knox" name='Change the configuration to take goods lay all cry at all ... &#x0A;Yet &lt;font color=&quot;#ffd200&quot;&gt;Annoying&lt;/font&gt;Now don&#8217;t bother to stop more.&#x0A;&lt;font color=&quot;#909090&quot;&gt;(Seem to be fairly sensitive wish not to say more)&lt;/font&gt;' />
 	<key id="0831180306000382" npc="Tero Saarinen company" name="What is going on?" />
 	<key id="0831180306000383" npc="Tero Saarinen company" name="Bought in advance are the help to survive!" />
 	<key id="0831180306000384" npc="Tero Saarinen company" name="It is strongly felt an aura of darkness ..." />
@@ -477,6 +478,48 @@
 	<key id="1206034206000564" npc="Ka-" name="Find out what days?" />
 	<key id="1206034206000565" npc="Ka-" name="Red Star ... He wanted to know the power of the mystical ..." />
 	<key id="1206034206000566" npc="Ka-" name="If you find red stars bring me!" />
+	<key id="1216150106000596" npc="Stefan" name="Music for everyone to enjoy! Get started now!" />
+	<key id="1216150106000597" npc="Stefan" name="You may want to play!" />
+	<key id="1216150106000598" npc="Stefan" name="You can compose!" />
+	<key id="1216150106000599" npc="Stefan" name="Leave your body to the music~ Depends on the melody~" />
+	<key id="1216150106000600" npc="Stefan" name='&lt;font color=&quot;#ffd200&quot;&gt;Instrument&lt;/font&gt;But if anyone &lt;font color=&quot;#ffd200&quot;&gt;Playing&lt;/font&gt;You can do it. &#x0A;Our &lt;font color=&quot;#ffd200&quot;&gt;The Royal Academy of music&lt;/font&gt;Introduction to the world of music as an instrument prepared by a gun? ' />
+	<key id="1216150106000601" npc="Stefan" name="I would like to know about how to play." />
+	<key id="1216150106000602" npc="Stefan" name='If you want to play click on the instrument. Simple, right?&#x0A;Improvising, &lt;font color=&quot;#ffd200&quot;&gt;Sheet music&lt;/font&gt;We may have to play according to!' />
+	<key id="1216150106000603" npc="Stefan" name="How do I use it to play music." />
+	<key id="1216150106000604" npc="Stefan" name="If you want to have a way to play music is easy!&#x0A;Sheet music to buy or buy music when I put a blank sheet music is a record. &#x0A;Written songs directly to as many people as a convenient opportunity to tell! &#x0A;How about, attractive? " />
+	<key id="1216150106000605" npc="Stefan" name="The music is not far away, there is always next to you. &#x0A;Our cute little more like your friends the key. &#x0A;I suggest giving this look, and play items!" />
+	<key id="1216150106000606" npc="Claudia Lou Perry, Jacques" name="Music for everyone to enjoy! Get started now!" />
+	<key id="1216150106000607" npc="Claudia Lou Perry, Jacques" name="You may want to play!" />
+	<key id="1216150106000608" npc="Claudia Lou Perry, Jacques" name="You can compose!" />
+	<key id="1216150106000609" npc="Claudia Lou Perry, Jacques" name="Breathing a bit and I~ On this! !" />
+	<key id="1216150106000610" npc="Claudia Lou Perry, Jacques" name='&lt;font color=&quot;#ffd200&quot;&gt;Instrument&lt;/font&gt;But if anyone &lt;font color=&quot;#ffd200&quot;&gt;Playing&lt;/font&gt;You can do it. &#x0A;Our &lt;font color=&quot;#ffd200&quot;&gt;The Royal Academy of music&lt;/font&gt;Introduction to the world of music as an instrument prepared by a gun? ' />
+	<key id="1216150106000611" npc="Claudia Lou Perry, Jacques" name="I would like to know about how to play." />
+	<key id="1216150106000612" npc="Claudia Lou Perry, Jacques" name='If you want to play click on the instrument. Simple, right?&#x0A;Improvising, &lt;font color=&quot;#ffd200&quot;&gt;Sheet music&lt;/font&gt;We may have to play according to!' />
+	<key id="1216150106000613" npc="Claudia Lou Perry, Jacques" name="How do I use it to play music." />
+	<key id="1216150106000614" npc="Claudia Lou Perry, Jacques" name="If you want to have a way to play music is easy!&#x0A;Sheet music to buy or buy music when I put a blank sheet music is a record. &#x0A;Written songs directly to as many people as a convenient opportunity to tell! &#x0A;How about, attractive? " />
+	<key id="1216150106000615" npc="Claudia Lou Perry, Jacques" name="The music is not far away, there is always next to you. &#x0A;Our cute little more like your friends the key. &#x0A;I suggest giving this look, and play items!" />
+	<key id="1216202006000617" npc="Lester" name="What&#8217;s up with that?" />
+	<key id="1216202006000618" npc="Orin" name="Come on, come. What can I help you?" />
+	<key id="1216202006000619" npc="Orin" name="Stuff I need to leave the place in Medan?" />
+	<key id="1216202006000620" npc="Orin" name="Safe to use, please tell me." />
+	<key id="1219170106000621" npc="Marg Rica" name="What is the work?" />
+	<key id="1219170106000622" npc="Bagh Rica" name="What is the work?" />
+	<key id="1219223606000683" npc="Per" name="What did work!" />
+	<key id="1219235406000684" npc="Nelly" name="What brings you here?" />
+	<key id="1219235406000685" npc="Cup Kehl" name="What brings?" />
+	<key id="1221172106000686" npc="Piz" name="-Chuck to hold?" />
+	<key id="1221172106000687" npc="Piz" name="-Chuck&#8217;s hand taste is haunting Tigger" />
+	<key id="1221172106000688" npc="Piz" name="You can use bait fishing is more easier!" />
+	<key id="1221172106000689" npc="Piz" name="Fishing would be needed?" />
+	<key id="1222162206000690" npc="Delhi rain" name="What&#8217;s happening?" />
+	<key id="1222162206000691" npc="Warm MIA" name="What is going on?" />
+	<key id="1222162206000692" npc="Carl Ko" name="What happened?" />
+	<key id="1222162206000693" npc="Carl Ko" name="What happened?" />
+	<key id="1222162206000694" npc="Will Tura" name="What&#8217;s up with that?" />
+	<key id="1223011306000695" npc="MU w" name="What&#8217;s happening?" />
+	<key id="1223011306000696" npc="Bet nose" name="Come on, come. What can I help you?" />
+	<key id="1223011306000697" npc="Bet nose" name="Stuff I need to leave the place in Medan?" />
+	<key id="1223011306000698" npc="Bet nose" name="Safe to use, please tell me." />
 	<key id="0831180306000408" npc="Erin" name="What is going on?" />
 	<key id="0831180306000409" npc="Erin" name="Come on, come on~" />
 	<key id="0831180306000410" npc="Erin" name="The residents of this neighborhood&#8217;s store for those~" />
@@ -573,4 +616,64 @@
 	<key id="0831180306000501" npc="Cynthia" name="Come on, come on~" />
 	<key id="0831180306000502" npc="Cynthia" name="The residents of this neighborhood&#8217;s store for those~" />
 	<key id="0831180306000503" npc="Cynthia" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000623" npc="Katlenburg" name="What is going on?" />
+	<key id="1219175006000624" npc="Katlenburg" name="Come on, come on~" />
+	<key id="1219175006000625" npc="Katlenburg" name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000626" npc="Katlenburg" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000627" npc="Tricia fare" name="What is going on?" />
+	<key id="1219175006000628" npc="Tricia fare" name="Come on, come on~" />
+	<key id="1219175006000629" npc="Tricia fare" name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000630" npc="Tricia fare" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000631" npc="Elina" name="What is going on?" />
+	<key id="1219175006000632" npc="Elina" name="Come on, come on~" />
+	<key id="1219175006000633" npc="Elina" name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000634" npc="Elina" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000635" npc="Nadja," name="What is going on?" />
+	<key id="1219175006000636" npc="Nadja," name="Come on, come on~" />
+	<key id="1219175006000637" npc="Nadja," name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000638" npc="Nadja," name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000639" npc="TIA" name="What is going on?" />
+	<key id="1219175006000640" npc="TIA" name="Come on, come on~" />
+	<key id="1219175006000641" npc="TIA" name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000642" npc="TIA" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000643" npc="Emma" name="What is going on?" />
+	<key id="1219175006000644" npc="Emma" name="Come on, come on~" />
+	<key id="1219175006000645" npc="Emma" name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000646" npc="Emma" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000647" npc="Jasmine" name="What is going on?" />
+	<key id="1219175006000648" npc="Jasmine" name="Come on, come on~" />
+	<key id="1219175006000649" npc="Jasmine" name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000650" npc="Jasmine" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000651" npc="Uni PuTTY" name="What is going on?" />
+	<key id="1219175006000652" npc="Uni PuTTY" name="Come on, come on~" />
+	<key id="1219175006000653" npc="Uni PuTTY" name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000654" npc="Uni PuTTY" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000655" npc="Amanda" name="What is going on?" />
+	<key id="1219175006000656" npc="Amanda" name="Come on, come on~" />
+	<key id="1219175006000657" npc="Amanda" name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000658" npc="Amanda" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000659" npc="Aendeuri" name="What is going on?" />
+	<key id="1219175006000660" npc="Aendeuri" name="Come on, come on~" />
+	<key id="1219175006000661" npc="Aendeuri" name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000662" npc="Aendeuri" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000663" npc="Elly live" name="What is going on?" />
+	<key id="1219175006000664" npc="Elly live" name="Come on, come on~" />
+	<key id="1219175006000665" npc="Elly live" name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000666" npc="Elly live" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000667" npc="Bonnie" name="What is going on?" />
+	<key id="1219175006000668" npc="Bonnie" name="Come on, come on~" />
+	<key id="1219175006000669" npc="Bonnie" name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000670" npc="Bonnie" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000671" npc="Joey" name="What is going on?" />
+	<key id="1219175006000672" npc="Joey" name="Come on, come on~" />
+	<key id="1219175006000673" npc="Joey" name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000674" npc="Joey" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000675" npc="Hilda" name="What is going on?" />
+	<key id="1219175006000676" npc="Hilda" name="Come on, come on~" />
+	<key id="1219175006000677" npc="Hilda" name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000678" npc="Hilda" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
+	<key id="1219175006000679" npc="Riel" name="What is going on?" />
+	<key id="1219175006000680" npc="Riel" name="Come on, come on~" />
+	<key id="1219175006000681" npc="Riel" name="The residents of this neighborhood&#8217;s store for those~" />
+	<key id="1219175006000682" npc="Riel" name="The inhabitants of this place?&#x0A;Resident-only stores can&#8217;t take advantage of anyone.&#x0A;Go to this other~" />
 </ms2>

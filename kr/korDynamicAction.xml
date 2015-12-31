@@ -47,7 +47,7 @@
 	<key skillID="90200049" default="0" reserved="/Shuffle,/Shuffle dance"/>	
 	<key skillID="90200050" default="0" reserved="/Point,/Faucets,/Pointe dance"/>
   <key skillID="90200051" default="0" reserved="/Twitching,/Twitching twitching,/Twitching twitching dance"/>
-
+  <key skillID="90200052" default="0" reserved="/The song,/To sing"/>
   <!--	Dynamic action list
 	90200001	Mad
 	90200002	Spirit

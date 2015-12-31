@@ -99,6 +99,10 @@
 	<key id="10200094" name="Afro hair" />
 	<key id="10200095" name="Sporty twin tail" />
 	<key id="10200096" name="Velvet long hair" />
+	<key id="10200097" name="Ryan hair" />
+	<key id="10200098" name="Tidy, soft curl hair" />
+	<key id="10200099" name="To block a parting perm hair" />
+	<key id="10200100" name="Bohemian hair" />
 	<key id="10300001" name="Manly face" />
 	<key id="10300002" name="Smart face" />
 	<key id="10300003" name="Funny face" />
@@ -185,6 +189,12 @@
 	<key id="10300084" name="The new second ROM Ord kids face" />
 	<key id="10300085" name="Drop drop face" />
 	<key id="10300086" name="Drop drop face" />
+	<key id="10300087" name="Shiny face" />
+	<key id="10300088" name="Shiny face" />
+	<key id="10300089" name="The sleepy face" />
+	<key id="10300090" name="The sleepy face" />
+	<key id="10300091" name="Ice eyebrow face" />
+	<key id="10300092" name="Ice eyebrow face" />
 	<key id="10400000" name="No decorating" />
 	<key id="10400001" name="Shame shame blush" />
 	<key id="10400002" name="Heart tattoo" />
@@ -337,6 +347,7 @@
 	<key id="11200043" name="Sea Mo Khan&#8217;s jewelery" />
 	<key id="11200044" name="Atrocious earrings" />
 	<key id="11200045" name="Mark 52 Omega&#8217;s jewelery" />
+	<key id="11200046" name="Memorial earring" />
 	<key id="11250001" name="Cute carrot earring" />
 	<key id="11250002" name="Sweet donut earring" />
 	<key id="11250003" name="Closed beta earrings" />
@@ -791,6 +802,50 @@
 	<key id="11300431" name="Trimming of drinking plum" />
 	<key id="11300432" name="Dawn Boyd Horn" />
 	<key id="11300433" name="Black flame&#8217;s deck Horn" />
+	<key id="11300434" name="VARs Kant horns" />
+	<key id="11300435" name="White Fox ears" />
+	<key id="11300436" name="The horns of wrath" />
+	<key id="11300437" name="The chaos in the Horn of" />
+	<key id="11300438" name="The Warrior&#8217;s horns" />
+	<key id="11300439" name="Gundanjang horns" />
+	<key id="11300440" name="Griffon Helms" />
+	<key id="11300441" name="Griffey I helm" />
+	<key id="11300442" name="Horus Helms" />
+	<key id="11300443" name="Gatekeeper helmet" />
+	<key id="11300444" name="The last pitch" />
+	<key id="11300445" name="Silver Crown" />
+	<key id="11300446" name="Mushroom caps" />
+	<key id="11300447" name="Talisman mushroom caps" />
+	<key id="11300448" name="Toto and goose hats" />
+	<key id="11300449" name="And as a Moose Hat" />
+	<key id="11300450" name="Big country Hat" />
+	<key id="11300451" name="Battle of the Dragon scale helmet" />
+	<key id="11300452" name="Dragon scale frenzy helmet" />
+	<key id="11300453" name="Enjelrig magic circle Telluride Street" />
+	<key id="11300454" name="Enjelrig Holy circle Telluride Street" />
+	<key id="11300455" name="Focus Porto hunting cap rock pad" />
+	<key id="11300456" name="Bombarded with Porto hunting cap rock pad" />
+	<key id="11300457" name="Buckle Strap confusion de Hat" />
+	<key id="11300458" name="Buckle de strap assassination Hat" />
+	<key id="11300459" name="Dragon scale mystical helmet" />
+	<key id="11300460" name="Berserk battle Cap" />
+	<key id="11300461" name="Berserk frenzy caps" />
+	<key id="11300462" name="Berserk spell Cap" />
+	<key id="11300463" name="Berserk divine Hat" />
+	<key id="11300464" name="Berserk concentration cap" />
+	<key id="11300465" name="Berserk shelling Hat" />
+	<key id="11300466" name="Berserk confusing Cap" />
+	<key id="11300467" name="Berserk assassination Hat" />
+	<key id="11300468" name="Berserk witchcraft apex" />
+	<key id="11300469" name="Extreme combat caps" />
+	<key id="11300470" name="Extreme wild hats" />
+	<key id="11300471" name="Extreme magic Hat" />
+	<key id="11300472" name="Extreme Holiness Hat" />
+	<key id="11300473" name="The extreme concentration of Cap" />
+	<key id="11300474" name="Extreme blast Cap" />
+	<key id="11300475" name="Extreme chaos hats" />
+	<key id="11300476" name="The assassination of the most extreme Hat" />
+	<key id="11300477" name="Extreme spells of Apex" />
 	<key id="11309995" name="Savage Hat" />
 	<key id="11309996" name="Duck do Cone Hat" />
 	<key id="11309997" name="Blood Requiem Hat" />
@@ -1122,8 +1177,8 @@
 	<key id="11400330" name="The collected Bandit costume" />
 	<key id="11400331" name="A worthy Warrior costumes" />
 	<key id="11400332" name="Valuable Bandit costume" />
-	<key id="11400333" name="Explorer jumper (m)" />
-	<key id="11400334" name="Explorer t-shirt (women&#8217;s)" />
+	<key id="11400333" name="Explorer jumper" />
+	<key id="11400334" />
 	<key id="11400335" name="Officer jacket (m)" />
 	<key id="11400336" name="Officer jacket (women&#8217;s)" />
 	<key id="11400337" name="Cheer rings t-shirt (m)" />
@@ -1178,6 +1233,33 @@
 	<key id="11400386" name="Tom expression trim jacket" />
 	<key id="11400387" name="Dawn Boyd jacket" />
 	<key id="11400388" name="Black flame&#8217;s deck jacket" />
+	<key id="11400389" name="Classic duffel coat (m)" />
+	<key id="11400390" name="Classic duffel coat (women&#8217;s)" />
+	<key id="11400391" name="Raccoon Safari jumper (m)" />
+	<key id="11400392" name="Raccoon Safari jumper (female)" />
+	<key id="11400393" name="Goose padded jumper (m)" />
+	<key id="11400394" name="Goose padded jumpsuits (women&#8217;s)" />
+	<key id="11400395" name="Buckle Mustang jacket (m)" />
+	<key id="11400396" name="Buckle Mustang jacket (women&#8217;s)" />
+	<key id="11400397" name="Dragon scale battle plate" />
+	<key id="11400398" name="Dragon scale frenzy plate" />
+	<key id="11400399" name="Enjelrig Telluride magic armor" />
+	<key id="11400400" name="Enjelrig Telluride divine armor" />
+	<key id="11400401" name="Pad rock focus Porto jacket" />
+	<key id="11400402" name="Bombarded with Porto jacket rock pad" />
+	<key id="11400403" name="Buckle Strap confusion de jacket" />
+	<key id="11400404" name="Buckle de strap assassination jacket" />
+	<key id="11400405" name="Dragon scale witchcraft plate" />
+	<key id="11400406" name="Berserk battle ground" />
+	<key id="11400407" name="Berserk frenzy on" />
+	<key id="11400408" name="Berserk confusion on" />
+	<key id="11400409" name="Berserk on the assassination" />
+	<key id="11400410" name="Berserk on witchcraft" />
+	<key id="11400411" name="Extreme battle ground" />
+	<key id="11400412" name="Extreme frenzy on" />
+	<key id="11400413" name="Extreme confusion on" />
+	<key id="11400414" name="On the assassination of the most extreme" />
+	<key id="11400415" name="Extreme magic award" />
 	<key id="11409996" name="Savage award" />
 	<key id="11409997" name="Duck do con costumes" />
 	<key id="11409998" name="Phoenix Award" />
@@ -1442,8 +1524,8 @@
 	<key id="11500258" name="Bandit&#8217;s collected" />
 	<key id="11500259" name="It&#8217;s a worthy Warrior" />
 	<key id="11500260" name="Valuable to a thief&#8217;s" />
-	<key id="11500261" name="Explorer pants (m)" />
-	<key id="11500262" name="Explorer pants (women&#8217;s)" />
+	<key id="11500261" name="Explorer pants" />
+	<key id="11500262" />
 	<key id="11500263" name="Officer pants (m)" />
 	<key id="11500264" name="Officer skirt (f)" />
 	<key id="11500265" name="Cheer-ring pants (m)" />
@@ -1498,6 +1580,25 @@
 	<key id="11500314" name="Tom expression trim pants" />
 	<key id="11500315" name="Dawn Boyd pants" />
 	<key id="11500316" name="Black flame&#8217;s deck pants" />
+	<key id="11500317" name="Dragon scale combat guard" />
+	<key id="11500318" name="Dragon scale frenzy guard" />
+	<key id="11500319" name="Enjelrig Telluride magic pants" />
+	<key id="11500320" name="Enjelrig Telluride Holy pants" />
+	<key id="11500321" name="Pad rock focus Porto pants" />
+	<key id="11500322" name="The convenience of shelling as the pad rock pants" />
+	<key id="11500323" name="Buckle Strap confusion de pants" />
+	<key id="11500324" name="Buckle de strap assassination pants" />
+	<key id="11500325" name="Dragon scale magic guard" />
+	<key id="11500326" name="Battle of berserk" />
+	<key id="11500327" name="Berserk frenzy of" />
+	<key id="11500328" name="Berserk&#8217;s mess" />
+	<key id="11500329" name="The assassination of berserk" />
+	<key id="11500330" name="The magic-practicing priests of berserk" />
+	<key id="11500331" name="Extreme battle of the" />
+	<key id="11500332" name="Extreme wild&#8217;s" />
+	<key id="11500333" name="Extreme confusion of" />
+	<key id="11500334" name="The assassination of the most extreme" />
+	<key id="11500335" name="Extreme spells of" />
 	<key id="11509996" name="Savage&#8217;s" />
 	<key id="11509997" name="Duck do con&#8217;s" />
 	<key id="11509998" name="Phoenix&#8217;s" />
@@ -1841,8 +1942,8 @@
 	<key id="11600338" name="Violent dark gloves" />
 	<key id="11600339" name="Wild flames of gloves" />
 	<key id="11600340" name="Violent ice gloves" />
-	<key id="11600341" name="Angel gundanjang Wan Kap (male)" />
-	<key id="11600342" name="Angel gundanjang Wan gap (women&#8217;s)" />
+	<key id="11600341" name="Holly Seraphic Wan Kap (male)" />
+	<key id="11600342" name="Holly Seraphic Wan gap (women&#8217;s)" />
 	<key id="11600343" name="Inferno Wan Kap (male)" />
 	<key id="11600344" name="Inferno Wan gap (women&#8217;s)" />
 	<key id="11600345" name="For the sake of the shadow gloves" />
@@ -1892,6 +1993,34 @@
 	<key id="11600389" name="Tom expression trim gloves" />
 	<key id="11600390" name="Dawn Boyd gloves" />
 	<key id="11600391" name="Black flame&#8217;s deck glove" />
+	<key id="11600392" name="Dragon scale battle thing wrong chocolate" />
+	<key id="11600393" name="Dragon scale frenzy thing wrong chocolate" />
+	<key id="11600394" name="Enjelrig magical for Telluride" />
+	<key id="11600395" name="Ah, the deity for the Telluride enjelrig" />
+	<key id="11600396" name="Pad rock focus gloves from Porto" />
+	<key id="11600397" name="The convenience of shelling as the pad rock gloves" />
+	<key id="11600398" name="Buckle Strap chaos gloves de" />
+	<key id="11600399" name="Buckle de strap assassination gloves" />
+	<key id="11600400" name="Dragon scale witchcraft thing wrong chocolate" />
+	<key id="11600401" name="Berserk battle gloves" />
+	<key id="11600402" name="Berserk frenzy gloves" />
+	<key id="11600403" name="Berserk magic gloves" />
+	<key id="11600404" name="Berserk sanctity gloves" />
+	<key id="11600405" name="Berserk focus gloves" />
+	<key id="11600406" name="Berserk blast gloves" />
+	<key id="11600407" name="Berserk chaos gloves" />
+	<key id="11600408" name="Berserk assassination gloves" />
+	<key id="11600409" name="Berserk magic gloves" />
+	<key id="11600410" name="Extreme combat gloves" />
+	<key id="11600411" name="Extreme wild gloves" />
+	<key id="11600412" name="Extreme magic gloves" />
+	<key id="11600413" name="The sanctity of the most extreme gloves" />
+	<key id="11600414" name="The concentration of the most extreme gloves" />
+	<key id="11600415" name="Extreme blast gloves" />
+	<key id="11600416" name="Extreme chaos gloves" />
+	<key id="11600417" name="The assassination of the most extreme gloves" />
+	<key id="11600418" name="Extreme magic gloves" />
+	<key id="11600419" name="Herne&#8217;s Chris Parr" />
 	<key id="11609001" name="Dull leather hand reserve" />
 	<key id="11609002" name="Blunt Possum gloves" />
 	<key id="11609003" name="Blunt, a novice Wizard gloves" />
@@ -2166,8 +2295,8 @@
 	<key id="11700264" name="Valuable Bandit shoes" />
 	<key id="11700265" name="Air and space suits shoes (m)" />
 	<key id="11700266" name="Air and space suits shoes (women&#8217;s)" />
-	<key id="11700267" name="Explorer boots (m)" />
-	<key id="11700268" name="Explorer boots (women&#8217;s)" />
+	<key id="11700267" name="Explorer boots" />
+	<key id="11700268" />
 	<key id="11700269" name="Officer leather boots (m)" />
 	<key id="11700270" name="Officer leather boots (women&#8217;s)" />
 	<key id="11700271" name="Detective Roper (male)" />
@@ -2272,8 +2401,8 @@
 	<key id="11700370" name="Violent dark shoes" />
 	<key id="11700371" name="Rowdy blaze shoes" />
 	<key id="11700372" name="Rowdy glacier shoes" />
-	<key id="11700373" name="Angel gundanjang boots (m)" />
-	<key id="11700374" name="Angel gundanjang boots (women&#8217;s)" />
+	<key id="11700373" name="Holly Seraphic boots (m)" />
+	<key id="11700374" name="Holly Seraphic boots (women&#8217;s)" />
 	<key id="11700375" name="Inferno boots (m)" />
 	<key id="11700376" name="Inferno boots (women&#8217;s)" />
 	<key id="11700377" name="For the sake of the shadow boots" />
@@ -2318,6 +2447,34 @@
 	<key id="11700416" name="Tom expression trim boots" />
 	<key id="11700417" name="Dawn Boyd boots" />
 	<key id="11700418" name="Black flame&#8217;s deck boots" />
+	<key id="11700419" name="Dragon scale combat boots" />
+	<key id="11700420" name="Dragon scale frenzy boots" />
+	<key id="11700421" name="Enjelrig Telluride magic boots" />
+	<key id="11700422" name="Enjelrig Telluride divine boots" />
+	<key id="11700423" name="Pad rock focus kinpusen-boots" />
+	<key id="11700424" name="The convenience of shelling as the pad rock boots" />
+	<key id="11700425" name="Buckle Strap mess boots Ed" />
+	<key id="11700426" name="Buckle Strap assassination boots Ed" />
+	<key id="11700427" name="Dragon scale witchcraft boots" />
+	<key id="11700428" name="Berserk combat shoes" />
+	<key id="11700429" name="Berserk frenzy shoes" />
+	<key id="11700430" name="Berserk magic shoes" />
+	<key id="11700431" name="Berserk divine shoes" />
+	<key id="11700432" name="Berserk concentrating footwear" />
+	<key id="11700433" name="Berserk shelling shoes" />
+	<key id="11700434" name="Berserk confused shoes" />
+	<key id="11700435" name="Berserk assassination shoes" />
+	<key id="11700436" name="Berserk magic shoes" />
+	<key id="11700437" name="Extreme combat shoes" />
+	<key id="11700438" name="Extreme wild shoes" />
+	<key id="11700439" name="Extreme magic shoes" />
+	<key id="11700440" name="Extreme divine shoes" />
+	<key id="11700441" name="The extreme concentration of shoes" />
+	<key id="11700442" name="Extreme bombardment of shoes" />
+	<key id="11700443" name="Extreme confusion shoes" />
+	<key id="11700444" name="The assassination of the most extreme shoes" />
+	<key id="11700445" name="Extreme magic shoes" />
+	<key id="11700446" name="Desert long boots" />
 	<key id="11709001" name="Thanks dull leather boots" />
 	<key id="11709002" name="Blunt shoplifter sneaker" />
 	<key id="11709003" name="Blunt, a novice Wizard shoe" />
@@ -2393,6 +2550,7 @@
 	<key id="11800063" name="The cloak of trade" />
 	<key id="11800064" name="Cloaks were a bargain" />
 	<key id="11800065" name="Cart of wings" />
+	<key id="11800066" name="VARs Kant&#8217;s wing" />
 	<key id="11850001" name="Kid Devil wings" />
 	<key id="11850002" name="Baby Angel Wings" />
 	<key id="11850003" name="Chick bag" />
@@ -2427,6 +2585,15 @@
 	<key id="11850032" name="MAPLESTORE Memorial capes" />
 	<key id="11850033" name="MAPLESTORE Memorial capes" />
 	<key id="11850034" name="Star Guitar hard case" />
+	<key id="11850035" name="White Tiger tail" />
+	<key id="11850036" name="Tiger tail" />
+	<key id="11850037" name="White Ginseng Miho tail" />
+	<key id="11850038" name="A hearty three Miho tail" />
+	<key id="11850039" name="Griffon&#8217;s wings" />
+	<key id="11850040" name="Griffey my wings" />
+	<key id="11850041" name="Wings of Horus" />
+	<key id="11850042" name="Mark 52 Alpha&#8217;s propeller" />
+	<key id="11850043" name="Mark 52 beta propeller" />
 	<key id="11899999" name="Transparent function_Capes" />
 	<key id="11900001" name="Power pendant" />
 	<key id="11900002" name="Pendant of the Jinn" />
@@ -2544,6 +2711,7 @@
 	<key id="12000050" name="Pyrrhic Fahd&#8217;s ring" />
 	<key id="12000051" name="Forgotten ring" />
 	<key id="12000052" name="The ring of the black flame" />
+	<key id="12000053" name="Morrow Papa bronze ring" />
 	<key id="12080000" name="Shedding ring" />
 	<key id="12080001" name="P wind ring" />
 	<key id="12080002" name="P. Mall ring" />
@@ -2600,6 +2768,7 @@
 	<key id="12100049" name="The old fairy King&#8217;s belt" />
 	<key id="12100050" name="The old fairy&#8217;s belt" />
 	<key id="12100051" name="The power of the runes with belt" />
+	<key id="12100052" name="Lou&#8217;s Deli patron-belt" />
 	<key id="12200001" name="A novice Wizard robe" />
 	<key id="12200002" name="Traveler robe" />
 	<key id="12200003" name="Moonlight traveler robe" />
@@ -2854,11 +3023,19 @@
 	<key id="12200255" name="Violent dark suit" />
 	<key id="12200256" name="Wild fire suit" />
 	<key id="12200257" name="Rowdy glacier suit" />
-	<key id="12200258" name="Angel gundanjang (male)" />
-	<key id="12200259" name="Angel gundanjang dress (women&#8217;s)" />
+	<key id="12200258" name="Holly Seraphic Court (male)" />
+	<key id="12200259" name="Holly Seraphic dress (women&#8217;s)" />
 	<key id="12200260" />
 	<key id="12200261" />
 	<key id="12200262" name="Berry transient warriors coat" />
+	<key id="12200263" name="Berserk spell Telegraph" />
+	<key id="12200264" name="Berserk divine body" />
+	<key id="12200265" name="Berserk intensive full-body" />
+	<key id="12200266" name="Berserk shelling Telegraph" />
+	<key id="12200267" name="Extreme magic Telegraph" />
+	<key id="12200268" name="The sanctity of the extreme body" />
+	<key id="12200269" name="Extreme focus on systemic" />
+	<key id="12200270" name="Extreme bombardment of the Telegraph" />
 	<key id="12209999" name="Blood Requiem-body clothing" />
 	<key id="13000001" name="The old Club" />
 	<key id="13000002" name="Solid Club" />
@@ -2915,7 +3092,7 @@
 	<key id="13000053" name="(Event) spike Club" />
 	<key id="13000054" name="(Thanks hammer event)" />
 	<key id="13000055" name="Inferno sword (blunt)" />
-	<key id="13000056" name="Luminous enjelrig sword (blunt)" />
+	<key id="13000056" name="Holly Seraphic sword (blunt)" />
 	<key id="13000057" name="Well-done grilled Prawns (blunt)" />
 	<key id="13100001" name="Old Dirk" />
 	<key id="13100002" name="Hunting knives" />
@@ -3061,10 +3238,14 @@
 	<key id="13100142" name="Rowdy soul of debt" />
 	<key id="13100143" name="Pit light captain&#8217;s dagger" />
 	<key id="13100144" name="Inferno dagger (dagger)" />
-	<key id="13100145" name="Luminous enjelrig dagger (dagger)" />
+	<key id="13100145" name="Holly Seraphic dagger (dagger)" />
 	<key id="13100146" name="Buckle Strap for de" />
 	<key id="13100147" name="(For this coming event) Street" />
 	<key id="13100148" name="Fresh flying fish (cutlass)" />
+	<key id="13100149" name="ES finger&#8217;s dagger" />
+	<key id="13100150" name="Elaborate daggers" />
+	<key id="13100151" name="Berserk massive confusion" />
+	<key id="13100152" name="Extreme confusion for" />
 	<key id="13200001" name="Get a spa" />
 	<key id="13200002" name="Battle sword" />
 	<key id="13200003" name="Knight sword" />
@@ -3203,11 +3384,15 @@
 	<key id="13200137" name="Wild flames&#8217;s sword" />
 	<key id="13200138" name="Wave Pula Tuscany&#8217;s sword" />
 	<key id="13200139" name="Inferno sword (long sword)" />
-	<key id="13200140" name="Luminous enjelrig sword (long sword)" />
+	<key id="13200140" name="Holly Seraphic sword (long sword)" />
 	<key id="13200141" name="Dragon scale Longsword" />
 	<key id="13200142" name="(Event) the brilliance of the steel sword" />
 	<key id="13200143" name="(Event) the brilliance of the steel sword" />
 	<key id="13200144" name="Well-done grilled Prawns (long sword)" />
+	<key id="13200145" name="VARs Kant&#8217;s long sword" />
+	<key id="13200146" name="Sophisticated long sword" />
+	<key id="13200147" name="Berserk battle Longsword" />
+	<key id="13200148" name="Extreme combat Longsword" />
 	<key id="13209001" name="Get an old spa" />
 	<key id="13300001" name="Pointe-aux-SEB-" />
 	<key id="13300002" name="Stick a bead" />
@@ -3345,10 +3530,14 @@
 	<key id="13300137" name="For the sake of the shadow Hall" />
 	<key id="13300138" name="Blinking foot rock&#8217;s Hall" />
 	<key id="13300139" name="Inferno Holly SEB (Hall)" />
-	<key id="13300140" name="Luminous enjelrig SEB (Hall)" />
+	<key id="13300140" name="Holly Seraphic SEB (Hall)" />
 	<key id="13300141" name="Enjelrig count-Telluride" />
 	<key id="13300142" name="(Event) Bronze tiny Bell SEB-" />
-	<key id="13300143" name="Shy Urchin SEB-(Hall)" />
+	<key id="13300143" name="Nightclub Sea Urchin SEB-(Hall)" />
+	<key id="13300144" name="Maybe Don Hall" />
+	<key id="13300145" name="An elaborate Hall" />
+	<key id="13300146" name="Berserk Divinity Hall" />
+	<key id="13300147" name="Extreme Divinity Hall" />
 	<key id="13400001" name="Shuriken" />
 	<key id="13400002" name="-Non-recognition" />
 	<key id="13400003" name="Angry non-recognition" />
@@ -3486,10 +3675,14 @@
 	<key id="13400135" name="Citation of a rowdy ice" />
 	<key id="13400136" name="The commendation of the blinking feet" />
 	<key id="13400137" name="Inferno (citation)" />
-	<key id="13400138" name="Luminous enjelrig Star (citation)" />
+	<key id="13400138" name="Holly Seraphic Star (citation)" />
 	<key id="13400139" name="Commendation of the strap buckle de" />
 	<key id="13400140" name="(Commendation of the black event) te" />
 	<key id="13400141" name="Plump starfish (citation)" />
+	<key id="13400142" name="Willie won the commendation of the card" />
+	<key id="13400143" name="A sophisticated recognition" />
+	<key id="13400144" name="Berserk commendation of the assassination" />
+	<key id="13400145" name="Commendation from the assassination of the most extreme" />
 	<key id="14000001" name="Homebrew tutorial" />
 	<key id="14000002" name="Temple tutorial" />
 	<key id="14000003" name="Knowledge codes" />
@@ -3609,10 +3802,11 @@
 	<key id="14000117" name="Rowdy Lightning&#8217;s code" />
 	<key id="14000118" name="Blinking code of the foot" />
 	<key id="14000119" name="Inferno of doom in the North (code)" />
-	<key id="14000120" name="Luminous enjelrig Bible (codes)" />
+	<key id="14000120" name="Holly Seraphic Bible (codes)" />
 	<key id="14000121" name="Enjelrig Telluride doom North" />
 	<key id="14000122" name="(Event) Golden Wiz Codex" />
 	<key id="14000123" name="True fine colored Blowfish (code)" />
+	<key id="14000124" name="Oooh charm of reus" />
 	<key id="14100001" name="Round shield" />
 	<key id="14100002" name="Kite wood shield" />
 	<key id="14100003" name="Old square wooden shield" />
@@ -3740,11 +3934,12 @@
 	<key id="14100125" name="Rowdy shield of flames" />
 	<key id="14100126" name="Blinking foot rock shield" />
 	<key id="14100127" name="Inferno shield (shield)" />
-	<key id="14100128" name="Luminous enjelrig shield (shield)" />
+	<key id="14100128" name="Holly Seraphic shield (shield)" />
 	<key id="14100129" name="Dragon scale shield" />
 	<key id="14100130" name="(Event) the brilliance of steel shield" />
 	<key id="14100131" name="(Event) the brilliance of steel shield" />
-	<key id="14100132" name="Seasonal blue crab (shield)" />
+	<key id="14100132" name="Happy crab (shield)" />
+	<key id="14100133" name="Pro Lotus shield" />
 	<key id="15000001" name="Viking sword" />
 	<key id="15000002" name="Bastard sword" />
 	<key id="15000003" name="Broad sword" />
@@ -3889,10 +4084,14 @@
 	<key id="15000142" name="Rowdy glacier&#8217;s bayonet" />
 	<key id="15000143" name="Wave Pula Tuscany&#8217;s bayonet" />
 	<key id="15000144" name="Inferno lodges sword (large sword)" />
-	<key id="15000145" name="Luminous enjelrig lodges sword (large sword)" />
+	<key id="15000145" name="Holly Seraphic lodges sword (large sword)" />
 	<key id="15000146" name="Dragon scale large sword" />
 	<key id="15000147" name="(Event) Boyd bayonet" />
 	<key id="15000148" name="Chest width for the great white shark (large sword)" />
+	<key id="15000149" name="Cabo of sword" />
+	<key id="15000150" name="Sophisticated lodges sword" />
+	<key id="15000151" name="Berserk frenzy lodges sword" />
+	<key id="15000152" name="Extreme frenzy lodges sword" />
 	<key id="15100001" name="Gatwick bow" />
 	<key id="15100002" name="Hunter bow" />
 	<key id="15100003" name="Battle bow" />
@@ -4030,10 +4229,14 @@
 	<key id="15100135" name="Wild light bow" />
 	<key id="15100136" name="Blinking feet of bow" />
 	<key id="15100137" name="Inferno sniper (bow)" />
-	<key id="15100138" name="Luminous enjelrig scaler (bow)" />
+	<key id="15100138" name="Holly Seraphic scaler (bow)" />
 	<key id="15100139" name="Pad rock from Porto with bow" />
 	<key id="15100140" name="(Event) silver worms bow" />
 	<key id="15100141" name="Colorful coral bow (bow)" />
+	<key id="15100142" name="Acre&#8217;s bow" />
+	<key id="15100143" name="An elaborate bow" />
+	<key id="15100144" name="Berserk intensive bow" />
+	<key id="15100145" name="The extreme concentration of bow" />
 	<key id="15109001" name="Old twig bow" />
 	<key id="15200001" name="Apprenticeship staff" />
 	<key id="15200002" name="Bent staff" />
@@ -4178,10 +4381,14 @@
 	<key id="15200141" name="For the sake of a shadow stick" />
 	<key id="15200142" name="Blinking foot rock staff" />
 	<key id="15200143" name="Inferno staff (staff)" />
-	<key id="15200144" name="Luminous enjelrig staff (staff)" />
+	<key id="15200144" name="Holly Seraphic staff (staff)" />
 	<key id="15200145" name="Enjelrig Telluride staff" />
 	<key id="15200146" name="(Event) Earth worm staff" />
 	<key id="15200147" name="Mini squid staff (staff)" />
+	<key id="15200148" name="Graz my staff" />
+	<key id="15200149" name="A sophisticated staff" />
+	<key id="15200150" name="Berserk magic staff" />
+	<key id="15200151" name="Extreme magic staff" />
 	<key id="15209001" name="The old apprenticeship staff" />
 	<key id="15300001" name="Hex Canon" />
 	<key id="15300002" name="Rolling magazine Canon" />
@@ -4320,10 +4527,14 @@
 	<key id="15300135" name="Pit light captain&#8217;s Canon" />
 	<key id="15300136" name="Blinking foot rock&#8217;s Canon" />
 	<key id="15300137" name="Inferno shooter (Canon)" />
-	<key id="15300138" name="Luminous enjelrig Canon (Canon)" />
+	<key id="15300138" name="Holly Seraphic Canon (Canon)" />
 	<key id="15300139" name="Pad rock from Porto Cannon" />
 	<key id="15300140" name="(Event) Brown spiral Canon" />
 	<key id="15300141" name="Arun (Canon)" />
+	<key id="15300142" name="Acre of Canon" />
+	<key id="15300143" name="Sophisticated Canon" />
+	<key id="15300144" name="Berserk bombard Cannon" />
+	<key id="15300145" name="Extreme bombardment of Canon" />
 	<key id="15400001" name="Basic blades" />
 	<key id="15400002" name="Te Rune sword Liv entry-level blade" />
 	<key id="15400003" name="Te Rune sword Liv entry-level blade" />
@@ -4411,9 +4622,12 @@
 	<key id="15400085" name="Dawn&#8217;s Ridge blade" />
 	<key id="15400086" name="Black Blade of the flame" />
 	<key id="15400087" name="Rowdy doom blade" />
+	<key id="15400088" name="Sophisticated blade" />
+	<key id="15400089" name="Dire magic blades" />
+	<key id="15400090" name="Extreme magic blade" />
 	<key id="15400100" name="Dragon scale blade" />
 	<key id="15400101" name="Cart of the blade" />
-	<key id="15400102" name="Luminous enjelrig Blade (blade)" />
+	<key id="15400102" name="Holly Seraphic Blade (blade)" />
 	<key id="15400103" name="Inferno Blade (blade)" />
 	<key id="15400104" name="Die (blade)" />
 	<key id="15400105" name="Take a look at the French language recorders (blade)" />
@@ -4480,8 +4694,22 @@
 	<key id="18100034" name="Mine cart" />
 	<key id="18100035" name="WC pool aerosol sector" />
 	<key id="18100036" name="WC pool boss I" />
+	<key id="18100037" name="Magic jar" />
 	<key id="18200001" name="The bomb-throwing multiple bombs" />
-	<key id="19000001" name="I saw a red fishing rod" />
+	<key id="19000001" name="Twig saw the fishing rod" />
+	<key id="19000002" name="Red iron fishing pole saw" />
+	<key id="19000003" name="Blue iron fishing pole saw" />
+	<key id="19000004" name="Green iron fishing pole saw" />
+	<key id="19000005" name="Blue carbon fishing rod saw" />
+	<key id="19000006" name="Turquoise carbon fishing rod saw" />
+	<key id="19000007" name="Pink carbon fishing rod saw" />
+	<key id="19000008" name="Purple Kevlar fishing pole saw" />
+	<key id="19000009" name="I saw the blue Kevlar fishing rod" />
+	<key id="19000010" name="Orange Kevlar fishing pole saw" />
+	<key id="19000011" name="Plump whale fishing pole saw" />
+	<key id="19000012" name="Cube Angel saw the fishing rod" />
+	<key id="19000013" name="Expert demo I saw Nick fishing rod" />
+	<key id="19100001" name="Fun acoustic guitar (main)" />
 	<key id="20000004" name="El Rick West" />
 	<key id="20000013" name="Turtle eggs" />
 	<key id="20000014" name="MRES" />
@@ -4582,6 +4810,8 @@
 	<key id="20000109" name="Swift&#8217;s special white potion" />
 	<key id="20000110" name="Sweet cool juice" />
 	<key id="20000117" name="Megan cow detection eyedrops" />
+	<key id="20000118" name="Kar Kar coconut" />
+	<key id="20000119" name="Kar Kar coconut cookies" />
 	<key id="20000180" name="Agate spellbound a flower" />
 	<key id="20000181" name="Snow flower, Firecracker" />
 	<key id="20000182" name="Pink petals and firecrackers" />
@@ -4658,16 +4888,17 @@
 	<key id="20000262" name="Luxury experience potion" />
 	<key id="20000263" name="Christmas candy cane" />
 	<key id="20000264" name="Christmas tree cookies" />
-	<key id="20000265" name="Earthworm bait" />
-	<key id="20000266" name="Fresh bait" />
-	<key id="20000267" name="Brilliant bait" />
-	<key id="20000268" name="Flashing lures" />
-	<key id="20000269" name="Tasty bait" />
-	<key id="20000270" name="King worm bait" />
-	<key id="20000271" name="Striped worm" />
+	<key id="20000265" name="In essence this worm bait" />
+	<key id="20000266" name="Earthworm bait" />
+	<key id="20000267" name="Chubby earthworm bait" />
+	<key id="20000268" name="King worm bait" />
+	<key id="20000269" name="Gogisdeongi bait" />
+	<key id="20000270" name="Al rock Moon rock candy bait" />
+	<key id="20000271" name="Freeze your worms" />
 	<key id="20000272" name="Lanterns bait" />
 	<key id="20000273" name="Loosen the worm bait" />
 	<key id="20000274" name="Devil spider" />
+	<key id="20000275" name="Kar Kar mystical sand" />
 	<key id="20200001" name="Action course steam : Spirit" />
 	<key id="20200002" name="Action course steam : I do not know" />
 	<key id="20200003" name="Action course steam : Proud" />
@@ -4698,6 +4929,7 @@
 	<key id="20200028" name="Action course steam : Shuffle dance" />
 	<key id="20200029" name="Action course steam : Pointe dance" />
 	<key id="20200030" name="Action course steam : Twitching twitching dance" />
+	<key id="20200031" name="Action course steam : To sing" />
 	<key id="20300001" name="Maple coupons" />
 	<key id="20300002" name="777 Welcome Pack" />
 	<key id="20300003" name="Lotus walkie-talkie" />
@@ -4820,6 +5052,19 @@
 	<key id="20300120" name="Red Star Award winner" />
 	<key id="20300121" name="Red Star&#8217;s box" />
 	<key id="20300122" name="Blue Star treasure box" />
+	<key id="20300123" name="Holly Seraphic weapons coupon" />
+	<key id="20300124" name="Small buckwheat stuffing pockets" />
+	<key id="20300125" name="The big medley of small pocket" />
+	<key id="20300126" name="Kar Kar commemorative coins-box" />
+	<key id="20300127" name="Kar Kar commemorative coins-box" />
+	<key id="20300128" name="Kar Kar commemorative coins-box" />
+	<key id="20300129" name="Play practice sets" />
+	<key id="20300130" name="Party party gift" />
+	<key id="20300131" name="(PCRoom) Dungeon compensation benefits box" />
+	<key id="20400001" name="Nutritious pet food" />
+	<key id="20400002" name="Nutritious pet food" />
+	<key id="20400003" name="Nutritious pet food" />
+	<key id="20400004" name="Nutritious pet food" />
 	<key id="30000001" name="Hellfire regular" />
 	<key id="30000002" name="Fishing tackle" />
 	<key id="30000003" name="Netting mesh" />
@@ -5269,6 +5514,67 @@
 	<key id="30000448" name="Red Star" />
 	<key id="30000449" name="On-time NEXON cache coupons" />
 	<key id="30000450" name="Sealed foot rock&#8217;s blade" />
+	<key id="30000451" name="Ali bar portraits" />
+	<key id="30000452" name="Mrs. Arthur&#8217;s shopping articles" />
+	<key id="30000453" name="Coco marinade" />
+	<key id="30000454" name="Milk Mong Shu" />
+	<key id="30000455" name="He ran" />
+	<key id="30000456" name="Fun fun skateboard" />
+	<key id="30000457" name="The u.s. return the rental Board" />
+	<key id="30000458" name="Skateboard parts" />
+	<key id="30000459" name="Ho big taste coupons" />
+	<key id="30000460" name="Delicious barbecued chicken coupons" />
+	<key id="30000461" name="Dumplings tasted like bread coupon no." />
+	<key id="30000462" name="Kill course spray" />
+	<key id="30000463" name="Flotation tube set" />
+	<key id="30000464" name="Hotel image analysis report" />
+	<key id="30000465" name="Kathy&#8217;s letter" />
+	<key id="30000466" name="Kar Kar commemorative coins" />
+	<key id="30000467" name="Location history chipset" />
+	<key id="30000468" name="TADA but trading books" />
+	<key id="30000469" name="Crumpled paper " />
+	<key id="30000470" name="Red sand" />
+	<key id="30000471" name="Bronze slabs" />
+	<key id="30000472" name="Martha&#8217;s diary" />
+	<key id="30000473" name="Marcia Le Pen module RAM" />
+	<key id="30000474" name="Marsha&#8217;s dress" />
+	<key id="30000475" name="Fragments of memory : The birth of the" />
+	<key id="30000476" name="Fragments of memory : A blessing" />
+	<key id="30000477" name="Fragments of memory : Destiny" />
+	<key id="30000478" name="Cold beads of tears" />
+	<key id="30000479" name="Shaar Moby&#8217;s gift package" />
+	<key id="30000480" name="Ali bar blank checks" />
+	<key id="30000481" name="Mary tar limited edition" />
+	<key id="30000482" name="Ringside recording tape" />
+	<key id="30000483" name="Odds information data" />
+	<key id="30000484" name="Bows gloves" />
+	<key id="30000485" name="Bar bar the borrower still" />
+	<key id="30000486" name="Airship operation manual" />
+	<key id="30000487" name="The broken shells" />
+	<key id="30000488" name="A pair of old slippers" />
+	<key id="30000489" name="Rotten coral reefs" />
+	<key id="30000490" name="Broken steering handle" />
+	<key id="30000491" name="The broken anchor" />
+	<key id="30000492" name="Dried Moro Moro" />
+	<key id="30000493" name="The number of additional volumes obtained the Dungeon rewards" />
+	<key id="30000494" name="Add the number of books acquired the advanced dungeons compensated" />
+	<key id="30000495" name="Desire&#8217;s pendant" />
+	<key id="30000496" name="Tail feathers (thinning)" />
+	<key id="30000497" name="MI-El&#8217;s research journal" />
+	<key id="30000498" name="Bright star powder" />
+	<key id="30000499" name="Plump water pouch" />
+	<key id="30000500" name="Shining star kibble" />
+	<key id="30000501" name="Torn client list" />
+	<key id="30000502" name="Youghal&#8217;s lunches" />
+	<key id="30000503" name="A mysterious slab pieces" />
+	<key id="30000504" name="Aka Moreau&#8217;s leaps and bounds" />
+	<key id="30000505" name="Nell Le Mée petals" />
+	<key id="30000506" name="Racing stadium construction plan" />
+	<key id="30000507" name="Mustard Apple" />
+	<key id="30000508" name="Rainbow Valley photos" />
+	<key id="30000509" name="Desert development business plan" />
+	<key id="30000510" name="Signed confirmation of reading" />
+	<key id="30000511" name="Landscape photography camera" />
 	<key id="31000001" name="1Level which Chan Tran order form" />
 	<key id="31000002" name="2Level which Chan Tran order form" />
 	<key id="31000003" name="3Level which Chan Tran order form" />
@@ -5418,12 +5724,60 @@
 	<key id="31000147" name="9Step classy Chan Tran order form" />
 	<key id="31000148" name="7Intermediate steps which Chan Tran order form" />
 	<key id="31000149" name="7Intermediate steps which Chan Tran order form" />
-	<key id="32000001" name="Basic fishing rod" />
-	<key id="34000001" name="Electronic keyboard" />
-	<key id="34000002" name="Acoustic guitar" />
-	<key id="35000001" name="Blank sheet music" />
-	<key id="35000002" name="The first sample sheet music" />
-	<key id="35000003" name="The second sample sheet music" />
+	<key id="31000150" name="5Step classy Chan Tran order form" />
+	<key id="31000151" name="Damage to equipment repair order, which Chan Tran" />
+	<key id="31000152" name="Damage to equipment repair order, which Chan Tran" />
+	<key id="32000001" name="Twig, fishing rods" />
+	<key id="32000002" name="Red steel fishing rods" />
+	<key id="32000003" name="Blue steel fishing rods" />
+	<key id="32000004" name="Green iron fishing pole" />
+	<key id="32000005" name="Blue carbon fishing rod" />
+	<key id="32000006" name="Turquoise carbon fishing rod" />
+	<key id="32000007" name="Pink carbon fishing rod" />
+	<key id="32000008" name="Purple Kevlar fishing rods" />
+	<key id="32000009" name="Blue Kevlar fishing rods" />
+	<key id="32000010" name="Orange Kevlar fishing rods" />
+	<key id="32000011" name="Plump whale fishing rods" />
+	<key id="32000012" name="Cube Angel fishing rods" />
+	<key id="32000013" name="Expert demo Nick fishing rods" />
+	<key id="32000014" name="Cube Angel fishing rods" />
+	<key id="32000015" name="Cube Angel fishing rods" />
+	<key id="34000001" name="Fun digital piano" />
+	<key id="34000002" name="Fun acoustic guitar" />
+	<key id="34000003" name="Fun digital piano" />
+	<key id="34000004" name="Fun acoustic guitar" />
+	<key id="35000001" name="MapleStory 2 OST #1" />
+	<key id="35000002" name="MapleStory 2 OST #2" />
+	<key id="35000003" name="MapleStory 2 OST #3 (Ensemble songs)" />
+	<key id="35000004" name="MapleStory 2 OST #3 (Ensemble songs)" />
+	<key id="35000005" name="MapleStory 2 OST #4" />
+	<key id="35000006" name="Kartrider OST" />
+	<key id="35000007" name="Sudden attack OST" />
+	<key id="35000008" name="The Kingdom of the winds OST #1" />
+	<key id="35000009" name="The Kingdom of the winds OST #2" />
+	<key id="35000010" name="Talesweaver OST #1" />
+	<key id="35000011" name="Talesweaver OST #2" />
+	<key id="35000012" name="Talesweaver OST #3" />
+	<key id="35000013" name="MapleStory OST #1" />
+	<key id="35000014" name="MapleStory OST #2" />
+	<key id="35000015" name="MapleStory OST #3 (Ensemble songs)" />
+	<key id="35000016" name="MapleStory OST #3 (Ensemble songs)" />
+	<key id="35000017" name="Mabinogi OST #1" />
+	<key id="35000018" name="Mabinogi OST #2" />
+	<key id="35000019" name="Mabinogi OST #3 (Ensemble songs)" />
+	<key id="35000020" name="Mabinogi OST #3 (Ensemble songs)" />
+	<key id="35100001" name="Blank sheet music : 10Times for playing" />
+	<key id="35100002" name="Blank sheet music : 50Times for playing" />
+	<key id="35100003" name="Blank sheet music : 100Times for playing" />
+	<key id="35100004" name="Blank sheet music : 10Times for playing" />
+	<key id="35100005" name="Blank sheet music : 50Times for playing" />
+	<key id="35100006" name="Blank sheet music : 100Times for playing" />
+	<key id="35100007" name="Blank sheet music : 10Times for playing" />
+	<key id="35100008" name="Blank sheet music : 50Times for playing" />
+	<key id="35100009" name="Blank sheet music : 100Times for playing" />
+	<key id="35100010" name="Blank sheet music : 10Times for playing" />
+	<key id="35100011" name="Blank sheet music : 50Times for playing" />
+	<key id="35100012" name="Blank sheet music : 100Times for playing" />
 	<key id="39000001" name="The adventures of which Griffon" />
 	<key id="39000002" name="Your&#8217;s picture diary" />
 	<key id="39000003" name="The observer records" />
@@ -5469,6 +5823,8 @@
 	<key id="39000043" name="Lost girls (color Edition)" />
 	<key id="39000044" name="Mika photos #002" />
 	<key id="39000045" name="The job of the World Vol 2" />
+	<key id="39000046" name="Light&#8217;s Assistant" />
+	<key id="39000047" name="Music production Guide" />
 	<key id="40000001" name="Active skill North : Advance trumpet" />
 	<key id="40000002" name="Active skill North : Anger" />
 	<key id="40000003" name="Active skill North : Energy wave" />
@@ -5891,6 +6247,7 @@
 	<key id="50100370" name="Snow flower-patterned carpet cube" />
 	<key id="50100371" name="Winter tree wall" />
 	<key id="50100372" name="Green eyes flowers pattern wall" />
+	<key id="50100373" name="The thicker the steel stairs" />
 	<key id="50200001" name="Wooden bench" />
 	<key id="50200002" name="Wooden crate" />
 	<key id="50200003" name="White flowers" />
@@ -6559,6 +6916,15 @@
 	<key id="50200666" name="Santa gift pouch" />
 	<key id="50200667" name="Christmas bulb partition" />
 	<key id="50200668" name="Rudolph figurines" />
+	<key id="50200669" name="The old railway line" />
+	<key id="50200670" name="Freight wagon" />
+	<key id="50200671" name="Wall support" />
+	<key id="50200672" name="Light tank" />
+	<key id="50200673" name="Black fence" />
+	<key id="50200674" name="Black fence corner" />
+	<key id="50200675" name="The magic of the monument" />
+	<key id="50200676" name="Armor showcase" />
+	<key id="50200677" name="Weapons showcase" />
 	<key id="50300001" name="Steel spike trap" />
 	<key id="50300002" name="Red hermit crab trap" />
 	<key id="50300003" name="Silver hermit crab trap" />
@@ -6852,11 +7218,11 @@
 	<key id="50730025" name="Les Muerta souvenirs" />
 	<key id="50730026" name="Monte de Carlo souvenir" />
 	<key id="50730027" name="Cart van memorabilia" />
-	<key id="50730028" name="Snow table girl souvenirs" />
-	<key id="50730029" name="Wild Lotus souvenirs" />
-	<key id="50730030" name="The shadow sorcerer (tentative name) memorabilia" />
+	<key id="50730028" name="It&#8217;s a souvenir" />
+	<key id="50730029" name="Pro Lotus souvenirs" />
+	<key id="50730030" name="Graz I souvenirs" />
 	<key id="50730031" name="Willie won card memorabilia" />
-	<key id="50730032" name="Skeleton Wizard (tentative name) memorabilia" />
+	<key id="50730032" name="Ka calw souvenirs" />
 	<key id="50740001" name="Devlin Warrior memorabilia" />
 	<key id="50740002" name="The forgotten grief of" />
 	<key id="50740003" name="The head of the foot" />
@@ -6888,9 +7254,9 @@
 	<key id="50740030" name="-Based based souvenirs" />
 	<key id="50740031" name="Sea Mo Khan souvenirs" />
 	<key id="50740032" name="Par Mo Khan souvenirs" />
-	<key id="50740033" name="The six-fingered (tentative name) memorabilia" />
-	<key id="50740034" name="Hammer pig memorabilia" />
-	<key id="50740035" name="Dragon lion souvenirs" />
+	<key id="50740033" name="ES finger souvenirs" />
+	<key id="50740034" name="Maybe Don souvenirs" />
+	<key id="50740035" name="Acre on souvenirs" />
 	<key id="50740036" name="Cabo souvenirs" />
 	<key id="50740037" name="VARs Kant souvenirs" />
 	<key id="50750001" name="Cruel beginner Hunter" />
@@ -7174,6 +7540,18 @@
 	<key id="59200190" name="Rune bling attained the radar box (35)" />
 	<key id="59200191" name="Rune bling attained the radar box (45)" />
 	<key id="59200192" name="Rune bling attained the radar box (level 50)" />
+	<key id="59200193" name="Holly Seraphic look package (m)" />
+	<key id="59200194" name="Holly Seraphic Brook (female)" />
+	<key id="59200195" name="Holly Seraphic package (m)" />
+	<key id="59200196" name="Holly Seraphic package (female)" />
+	<key id="59200197" name="Holly Seraphic special package (m)" />
+	<key id="59200198" name="Holly Seraphic special package (female)" />
+	<key id="59200199" name="Light clam box" />
+	<key id="59200200" name="A clamshell box" />
+	<key id="59200201" name="Light-the oyster box" />
+	<key id="59200202" name="Heavy Oyster box" />
+	<key id="59200203" name="The crew (male)" />
+	<key id="59200204" name="The crew (female)" />
 	<key id="59300001" name="Happy House interior construction volumes" />
 	<key id="59300002" name="Happy House interior construction volumes" />
 	<key id="59300003" name="Snowy cabin interior construction volumes" />
@@ -7181,9 +7559,23 @@
 	<key id="59300005" name="Hideaway in the forest interior construction volumes" />
 	<key id="59300006" name="Hideaway in the forest interior construction volumes" />
 	<key id="59400001" name="Peng Peng Al" />
+	<key id="59400002" name="Feng Yi Al" />
+	<key id="59400003" name="Feng stone Al" />
+	<key id="59400004" name="Welsh House" />
+	<key id="59400005" name="Choco Welsh House" />
+	<key id="59400006" name="Hershey&#8217;s Welsh House" />
+	<key id="59400007" name="Blue Draco Al" />
+	<key id="59400008" name="Red Draco Al" />
+	<key id="59400009" name="Green Draco Al" />
 	<key id="60000001" name="Peng Peng" />
-	<key id="60000002" name="Welsh meat" />
-	<key id="60000003" name="Desert Fox" />
+	<key id="60000002" name="Feng Yi" />
+	<key id="60000003" name="Feng stone" />
+	<key id="60000004" name="Welsh" />
+	<key id="60000005" name="Choco Welsh" />
+	<key id="60000006" name="Hershey&#8217;s Welsh" />
+	<key id="60000007" name="Blue Draco" />
+	<key id="60000008" name="Red Draco" />
+	<key id="60000009" name="Green Draco" />
 	<key id="70100001" name="Transparent badge" />
 	<key id="70200001" name="Speech balloon badge : Night rat" />
 	<key id="70200002" name="Speech balloon badge : Dazzling Starlight" />

@@ -268,6 +268,7 @@
   <key id="$s_gameoption_bossSoundStep" 	value="Boss Monster Voice"/>
   <key id="$s_gameoption_systemSoundStep" 	value="System Voice"/>
   <key id="$s_gameoption_instrumentStep" 	value="Instrumental Play" />
+  <key id="$s_gameoption_instrumentStep_isOffBgm" value="When you hear the Muzak playing off the sheet music" />
 
 
   
@@ -461,7 +462,8 @@
   <key id="$s_worldmap_island_karkar" value="Karkar Island"/>
   <key id="$s_worldmap_island_darkness" value="Darkness Island"/>
   <key id="$s_worldmap_island_runeblader" value="Carl Liv Island"/>
-  
+  <key id="$s_worldmap_unknown_area"  value="Has not been found yet."/>
+
   <!--minimap-->
   <key id="$s_minimap_shop"	value="Merchant"/>
   <key id="$s_minimap_friendly_npc"	value="Friendly NPC"/>
@@ -478,7 +480,8 @@
   <key id="$s_upper_hud_tooltip_attend"	value="&lt;FONT color='#FFD200' size='15' &gt;Check the event attendance&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can see my account, check the record of attendance."/>
   <key id="$s_upper_hud_tooltip_manufacture" value="&lt;FONT color='#FFD200' size='15' &gt;Made production situation&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMaking a maid in the House now shows the status of the item.\nHow to produce the requested items to the progress made."/>
   <key id="$s_upper_hud_tooltip_search" value="&lt;FONT color='#FFD200' size='15' &gt;Mei view search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWhen you enter a search term, Mei views\nYou can see the search results."/>
-  
+  <key id="$s_upper_hud_tooltip_fishingbook" value="&lt;FONT color='#FFD200' size='15' &gt;Fish book&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAnglers can fish and fishing."/>
+
   <!--myInfo-->
   <key id="$s_myInfo_title" 	      value="Character Information"/>
   <key id="$s_myInfo_guild_empty" 	value="You are not in a guild"/>
@@ -930,6 +933,7 @@
   <key id="$s_gamemenu_camera" value="&lt;FONT color='#FFD200' size='15' &gt;Profile Camera&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can take a picture with the camera profile.\nThe images taken on my profile you can register right away."/>
   <key id="$s_gamemenu_warehouse" 	value="&lt;FONT color='#FFD200' size='15' &gt;Movers storage warehouses&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nHouse for sale, or contracting with expired,\nAmong the items were installed in the House as your belongings\nDoes the item transferred right away.\nThis is where the item is being kept in a certain period of time\nAre kept, &lt;FONT color='#FF5F5F'&gt;Archive for the period will be deleted." />
   <key id="$s_gamemenu_arena" value="&lt;FONT color='#FFD200' size='15' &gt;Battle chapter&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCan emulate the skills battle between characters in chapter\nYou can apply for the position."/>
+  <key id="$s_gamemenu_petinfo" value="&lt;FONT color='#FFD200' size='15' &gt;Pet information&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPet information."/>
   <!-- msgbox -->
   <key id="$s_msgbox_cnt" value=""/>
   <key id="$s_msgbox_addsome1" value="+1"/>
@@ -956,6 +960,7 @@
   <key id="$s_triggerEditor_list_title" value="A list of objects that can be controlled"/>
   <key id="$s_triggerEditor_debug_title" value="Debug"/>
   <key id="$s_triggerEditor_inital_state" value="[Start]"/>
+  <key id="$s_triggerEditor_inital_state_change" value="Changing the start"/>
   <key id="$s_triggerEditor_fold_dialog" value="&lt;FONT color='#FFD200' size='15' &gt;Minimize the trigger Editor&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPress the button to trigger the editor remains minimal.\nPress the trigger once more turns to its original size in the editor.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#00A2ED' &gt;[Tab]You can minimize the triggers as a key Editor.\n[Tab]Hold down the key on the show by minimizing the trigger Editor\nKey to return back to its original size after.&lt;/FONT&gt;\n"/>
   <key id="$s_triggerEditor_btn_help" value="Help"/>
   <key id="$s_triggerEditor_btn_help_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Trigger Editor help&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPress the button to go to the triggers of the view editor guide mate."/>
@@ -1539,7 +1544,8 @@
   <key id="$s_enchant_fail_desc0" value="" /> <!--Failure: only over-->
   <key id="$s_enchant_fail_desc1" value="&lt;FONT color='#FF5F5F'&gt;Failure (Drop) Chance.&lt;/FONT&gt;" /> <!--Failure to drop-->
   <key id="$s_enchant_fail_desc2" value="&lt;FONT color='#FF5F5F'&gt;Your equipment has been damaged because your enchant stage dropped to 0.\nDamaged equipment can no longer be enchanted.&lt;/FONT&gt;" /> <!--Failure damage-->
-  <key id="$s_enchant_fail_desc" value="" /> <!--Notes on the failure of which Chan Tran scroll-->
+  <key id="$s_enchant_fail_desc_enchant" value="" /> <!--Notes on the failure of which Chan Tran scroll-->
+  <key id="$s_enchant_fail_desc_restore" value="&lt;FONT color='#FF5F5F'&gt;You can only use the damaged equipment.&lt;/FONT&gt;" /> <!--Notes on the failure of which Chan Tran scroll-->
   <key id="$s_enchant_success_desc" value="The enchant option changed because you've successfully enchanted." />
   
   <!-- Smart recommendations -->
@@ -1570,7 +1576,7 @@
   
   <!-- Present gift -->
   <key id="$s_attend_gift_message" value="The attendance check reward can be found in your mailbox."/>
-  <key id="$s_attend_playGift_title" value="Bunny Girl is miraculous! Lucky Roulette~"/>
+  <key id="$s_attend_playGift_title" value="2016 Year of MapleStory 2!"/>
   <key id="$s_attend_playGift_noEvent" value="There are no events in progress. Please wait for the next event."/>
   <key id="$s_attend_playGift_show_detail" value="Read More"/>
   <key id="$s_attend_playGift_detail_tooltip" value="Click to read more\nGo to the event page"/>
@@ -1581,17 +1587,18 @@
   <key id="$s_upper_hpbar_boss" value="Boss"/>
   
   <!-- UIFieldEnteranceDialog -->
-  <key id="$s_field_enterance_dungeon_info" value="Dungeon Information"/>
-  <key id="$s_field_enterance_require_info" value="Entry Conditions"/>
-  <key id="$s_field_enterance_enter" value="Enter"/>
-  <key id="$s_field_enterance_reset" value="Reset Dungeon"/>
-  <key id="$s_field_enterance_find_party" value="Find Parties"/>
-  <key id="$s_field_enterance_reset_tooltip" value="Reset an ongoing dungeon to resume your adventure"/>
-  <key id="$s_field_enterance_find_party_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Find Parties&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nFind parties to play together with others.\nSign up for my party party party recruiters to find the\nI can look up the party, sign up\nFind people from waiting for the party to join the party\nI'd invite the party can wait."/>
-  <key id="$s_field_enterance_auto_join_allow" value="Allow Auto-Join"/>
-  <key id="$s_field_enterance_dungeon_level" value="Difficulty"/>
-  <key id="$s_field_enterance_reward" value="No. Obtainable Reward"/>
-  
+  <key id="$s_dungeon_room_dungeon_info" value="Dungeon Information"/>
+  <key id="$s_dungeon_room_require_info" value="Entry Conditions"/>
+  <key id="$s_dungeon_room_enter" value="Enter"/>
+  <key id="$s_dungeon_room_reset" value="Reset Dungeon"/>
+  <key id="$s_dungeon_room_find_party" value="Find Parties"/>
+  <key id="$s_dungeon_room_reset_tooltip" value="Reset an ongoing dungeon to resume your adventure"/>
+  <key id="$s_dungeon_room_find_party_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Find Parties&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nFind parties to play together with others.\nSign up for my party party party recruiters to find the\nI can look up the party, sign up\nFind people from waiting for the party to join the party\nI'd invite the party can wait."/>
+  <key id="$s_dungeon_room_select_level" value="Difficulty"/>
+  <key id="$s_dungeon_room_reward" value="No. Obtainable Reward"/>
+  <key id="$s_dungeon_room_addExtraRewardCount" value="The number of additional compensation"/>
+  <key id="$s_dungeon_room_addExtraRewardCount_tooltip" value="Belongings have in the window &lt;FONT color='#FFD200'&gt;The number of additional volumes obtained the Dungeon rewards&lt;/FONT&gt;You can consume the \nYou can add any number of times.\nHowever, if you do not use the initialization the number up to the point of earning rewards \nThe number of times you add disappear."/>
+
   <!-- title -->
   <key id="$s_title_empty" value="No Title"/>
 
@@ -1886,7 +1893,8 @@
   <key id="$s_login_msg_pwd" value="Password"/>
   <key id="$s_login_msg_login" value="Login"/>
 
-  <key id="$s_enchantscroll_title" value="Enchant Scroll"/>
+  <key id="$s_enchantscroll_title_enchant" value="Enchant Scroll"/>
+  <key id="$s_enchantscroll_title_restore" value="Damage to equipment repair order, which Chan Tran"/>
   <key id="$s_enchantscroll_ready" value="Place the item to enchant"/>
   <key id="$s_enchantscroll_ok" value="Enchant"/>
   
@@ -1905,7 +1913,7 @@
   <key id="$s_dark_stream_result_out" value="Exit" />
   
   <key id="$s_notice_dialog_title" value="Events in Progress" />
-  <key id="$s_notice_dialog_footer" value="* The Air Taxi is free of charge until 12/31!" />
+  <key id="$s_notice_dialog_footer" value="* MapleStory 2 new open! Fishing and let's play!" />
   
   <!-- Change options for an item (Arial) -->
   <key id="$s_itemremakeoption_title" value="Change options for adding items"/>
@@ -1924,4 +1932,78 @@
   
   <!-- Fishing book -->
   <key id="$s_fishingbook_title" value="Fishing Book"/>
+  <key id="$s_fishingbook_water" value="Freshwater"/>
+  <key id="$s_fishingbook_seawater" value="Waters"/>
+  <key id="$s_fishingbook_etc" value="Special region"/>
+
+  <!-- Pet information -->
+  <key id="$s_petsetting_title" value="Pet information"/>
+  <key id="$s_petsetting_summon_off" value="Recall off"/>
+  <key id="$s_petsetting_auto_revive" value="&lt;font color='#5c2b00'&gt;Auto-monument to the resurrection | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
+  <key id="$s_petsetting_auto_itemuse" value="&lt;font color='#5c2b00'&gt;Auto potion recovery | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
+  <key id="$s_petsetting_auto_itempick" value="&lt;font color='#5c2b00'&gt;Auto item pick up | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
+  <key id="$s_petsetting_tooltip_change_name" value="&lt;FONT color='#FFD200' size='15' &gt;Name change&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe name change." />
+  <key id="$s_petsetting_tooltip_auto_itemuse" value="&lt;FONT color='#FFD200' size='15' &gt;Auto potion recovery&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto-potion." />
+  <key id="$s_petsetting_tooltip_auto_itempick" value="&lt;FONT color='#FFD200' size='15' &gt;Auto item pick up&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto item pick up." />
+  <key id="$s_petsetting_tooltip_summon_off" value="&lt;FONT color='#FFD200' size='15' &gt;Recall off&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe summons." />
+
+  <!-- Items automatically -->
+  <key id="$s_itemautouse_title" value="Auto potion recovery settings"/>
+  
+
+  <!-- Playing an instrument -->
+  <key id="$s_playinstrument_main_title" value="Playing an instrument" />
+  <key id="$s_playinstrument_main_play_direct_tab" value="Improvisation" />
+  <key id="$s_playinstrument_main_play_score_tab" value="Music playing" />
+  <key id="$s_playinstrument_main_play_direct_tab_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Improvisation&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSheet music on-the-fly without playing by pressing the keyboard.\nClose the window by pressing the music score playing tab will be closed.\nImprovisation during chat, you cannot use keyboard shortcuts except." />
+  <key id="$s_playinstrument_main_play_score_tab_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Music playing&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWritten in advance by using the sheet music to play.\nRight click the sheet music in your belongings by choosing, you can play." />
+  <key id="$s_playinstrument_score_play_solo" value="In order to walkover" />
+  <key id="$s_playinstrument_score_play_ensemble" value="To the sum of" />
+  <!--
+  <key id="$s_playinstrument_score_start_button" value="To play" />
+  <key id="$s_playinstrument_score_stop_button" value="Stop playing" />
+  -->
+  <key id="$s_playinstrument_score_mastery_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Playing skills&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMusic played by using a skill.\nFamiliarity, then, a lot of time playing way better\nHigher level of proficiency is played by various aspects.\nSheet music can contribute the maximum skill." />
+  <key id="$s_playinstrument_score_play_solo_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;In order to walkover&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAlone I play solo mode.\nMy playing can tell to other people." />
+  <key id="$s_playinstrument_score_play_ensemble_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;To the sum of&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can play with others in the ensemble mode.\nEnsemble mode is only available when the party.\nPatijangi ensemble, the ensemble won the party that is being prepared together with the ensemble." />
+  <key id="$s_playinstrument_score_empty_score" value="Please put up the sheet music to play" />  
+  
+  <!--Music production-->
+  <key id="$s_writemusic_charset" value="0-9ABCDEFGabcdefgSsOoLlTtVvRr&amp;&lt;&gt;.+\r\- "/>
+  <key id="$s_writemusic_title" value="Composing | BETA"/>
+  <key id="$s_writemusic_btn_help_storybook" value="Composition method"/>
+  <key id="$s_writemusic_btn_help_webpage" value="Read more"/>
+  <key id="$s_writemusic_btn_make" value="Create sheet music"/>
+  <key id="$s_writemusic_btn_write_keyboard" value="Casio to composing"/> <!--Hidden-->
+  <key id="$s_writemusic_text_musicscore_title" value="Title"/>
+  <key id="$s_writemusic_text_musicscore_title_default" value="Please enter a title. (3~14Letter)"/>
+  <key id="$s_writemusic_text_musicscore_recommand_instrument" value="Featured instruments"/>
+  <key id="$s_writemusic_text_notice_prepare_piano_roll" value="The melody and the text input window below the chord type.\nPiano roll view is further supported."/>
+  <key id="$s_writemusic_text_info_melody" value="Melody : "/>
+  <key id="$s_writemusic_text_info_harmony" value="Chords : "/>
+  <key id="$s_writemusic_text_info_total_musicscore_length" value="The total number of characters : "/>
+  
+  <key id="$s_writemusic_tooltip_btn_write_keyboard" value="&lt;FONT color='#FFD200' size='15' &gt;Casio to composing&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nComposed with piano keys.\nIf you press the on the keyboard to enter the recording mode that automatically provides support for the code."/>
+  <key id="$s_writemusic_tooltip_btn_make" value="&lt;FONT color='#FFD200' size='15' &gt;Create sheet music&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSo far as the contents entered by the sheet music.\nProduced by sheet music cannot be modified."/>
+  <key id="$s_writemusic_tooltip_btn_play_gofirst" value="3"/>
+  <key id="$s_writemusic_tooltip_btn_play_start" value="&lt;FONT color='#FFD200' size='15' &gt;Preview&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAs far as I can hear the preview input.\nYou cannot modify the contents of the preview."/>
+  <key id="$s_writemusic_tooltip_btn_play_stop" value="&lt;FONT color='#FFD200' size='15' &gt;To stop the preview&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo stop the preview."/>
+  <key id="$s_writemusic_tooltip_btn_help_storybook" value="&lt;FONT color='#FFD200' size='15' &gt;Composition method&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCompositions used in the grammar, written description of the storybook.\nIf you want to find out more 'Read more'Check out the page of posts."/>
+  <key id="$s_writemusic_tooltip_btn_help_webpage" value="&lt;FONT color='#FFD200' size='15' &gt;Read more&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nA how-to guide to composing postings page."/>
+  
+  <key id="$s_writemusic_tab_0" value="Melody"/>
+  <key id="$s_writemusic_tab_1" value="ChordsA"/>
+  <key id="$s_writemusic_tab_2" value="ChordsB"/>
+  <key id="$s_writemusic_tab_3" value="ChordsC"/>
+  <key id="$s_writemusic_tab_4" value="ChordsD"/>
+  <key id="$s_writemusic_tab_5" value="ChordsE"/>
+  <key id="$s_writemusic_tab_6" value="ChordsF"/>
+  <key id="$s_writemusic_tab_7" value="ChordsG"/>
+  <key id="$s_writemusic_tab_8" value="ChordsH"/>
+  <key id="$s_writemusic_tab_9" value="ChordsI"/>
+  
+  <key id="$s_writemusic_rclick_menu_remove_tab" value="Delete this tab"/>
+  <key id="$s_writemusic_text_limit_total_musicscore_length" value="Limits the length of the entire sheet music has been exceeded."/>
+  <key id="$s_writemusic_text_notice_during_play_music" value="Preview can&#8217;t edit the sheet music."/>
+
 </ms2>

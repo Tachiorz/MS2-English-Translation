@@ -1176,6 +1176,7 @@
 	<key id="90200049" name="Shuffle dance" />
 	<key id="90200050" name="Pointe dance" />
 	<key id="90200051" name="Twitching twitching dance" />
+	<key id="90200052" name="To sing" />
 	<key id="90300001" name="Batting: 20% chance to burn-induced" />
 	<key id="90300011" name="20% chance to hit INT Increases the" />
 	<key id="90400001" name="+ 10% chance to hit causes freezes" />
@@ -1269,6 +1270,17 @@
 	<key id="50100033" name="Vortex 2 launch" />
 	<key id="50100034" name="Ready to go the moment" />
 	<key id="50100035" name="Devlin recalled, then exit" />
+	<key id="50100036" name="Oversized, resulting in 20%" />
+	<key id="50100036" name="Oversized 40% off" />
+	<key id="50100036" name="Oversized original size" />
+	<key id="50100037" name="4Continuous sound wave attack" />
+	<key id="50100037" name="4Continuous sound wave attack" />
+	<key id="50100037" name="4Continuous sound wave attack" />
+	<key id="50100037" name="4Continuous sound wave attack" />
+	<key id="50100038" name="Shell begins to hide" />
+	<key id="50100038" name="Among the hidden in the shell" />
+	<key id="50100038" name="Shell come out" />
+	<key id="50100039" name="3Dog fighter body launched" />
 	<key id="50100040" name="Continuous hand-stroke preparation" />
 	<key id="50100040" name="Continuous hand-stroke" />
 	<key id="50100040" name="Continuous hand-stroke" />
@@ -1293,7 +1305,8 @@
 	<key id="50100048" name="Teleportation" />
 	<key id="50100049" name="Part of the booth to bring your body" />
 	<key id="50100049" name="Part of the booth to bring your body" />
-	<key id="50100050" name="Howitzer throw (knockback)" />
+	<key id="50100050" name="Howitzer throw (knockback, 2nd floor)" />
+	<key id="50100050" name="Howitzer throw (knockback, 1st floor)" />
 	<key id="50100051" name="Continuous hand-stroke preparation" />
 	<key id="50100051" name="Continuous hand-stroke" />
 	<key id="50100051" name="Continuous hand-stroke" />
@@ -1365,8 +1378,45 @@
 	<key id="50100081" name="Attack_Idle Standby state" />
 	<key id="50100082" name="Laser ready" />
 	<key id="50100082" name="Laser launch" />
-	<key id="50100083" name="Prepare a direct throw energy balls" />
-	<key id="50100083" name="Launch a direct throw energy balls" />
+	<key id="50100083" name="Do the room room with fellow water grant" />
+	<key id="50100083" name="Do the room room with fellow water grant" />
+	<key id="50100084" name="Do the room room with fellow water grant" />
+	<key id="50100084" name="Do the room room with fellow water grant" />
+	<key id="50100085" name="Teleportation" />
+	<key id="50100086" name="Ground stroke" />
+	<key id="50100087" name="Prepare ollyo Chigi" />
+	<key id="50100087" name="Uppercut attack" />
+	<key id="50100087" name="Ollyo Chigi (resulting in step 1)" />
+	<key id="50100087" name="Uppercut attack (resulting in step 1)" />
+	<key id="50100087" name="Ollyo Chigi (resulting in step 2)" />
+	<key id="50100087" name="Uppercut attack (resulting in step 2)" />
+	<key id="50100088" name="Ice bomb (bomb planting) 1 room" />
+	<key id="50100089" name="Drip imprison first-use" />
+	<key id="50100089" name="Drip imprison" />
+	<key id="50100090" name="Drip toss imprison" />
+	<key id="50100091" name="Fire bee stings" />
+	<key id="50100092" name="Dash ready" />
+	<key id="50100092" name="Body rush" />
+	<key id="50100092" name="The dash finish" />
+	<key id="50100093" name="Front shock preparation" />
+	<key id="50100093" name="Fires a Shockwave ahead" />
+	<key id="50100094" name="Rotate ready" />
+	<key id="50100094" name="Rotation attack (in situ)" />
+	<key id="50100094" name="Rotation attack (go)" />
+	<key id="50100094" name="Spinning finish" />
+	<key id="50100095" name="Ready to Chuck the distant song" />
+	<key id="50100095" name="Struggling telecommunications songs Chuck launch" />
+	<key id="50100096" name="Ready to Chuck a recovery song" />
+	<key id="50100096" name="Struggling to pretend to launch a recovery song" />
+	<key id="50100097" name="Prepare ollyo Chigi" />
+	<key id="50100097" name="Uppercut attack" />
+	<key id="50100097" name="Prepare ollyo Chigi" />
+	<key id="50100097" name="Uppercut attack" />
+	<key id="50100098" name="Ready to bang the floor" />
+	<key id="50100098" name="Floor crack attack" />
+	<key id="50100098" name="Ready to bang the floor" />
+	<key id="50100098" name="Floor crack attack" />
+	<key id="50100099" name="Shields grant launch" />
 	<key id="50100100" name="Dark arrows ready 01" />
 	<key id="50100100" name="Dark arrows of fire 01" />
 	<key id="50100100" name="Dark arrows ready 02" />
@@ -2481,8 +2531,6 @@
 	<key id="50100385" name="The cube attack finish" />
 	<key id="50100386" name="Green hood crossbow appeared" />
 	<key id="50100387" name="Devlin Jr. summons" />
-	<key id="0" />
-	<key id="0" />
 	<key id="50100389" name="Phase transition HP Forced Clippers" />
 	<key id="50100389" name="Phase transition HP Forced Clippers" />
 	<key id="50100390" name="Guided missile splash (monthly)" />
@@ -3533,6 +3581,7 @@
 	<key id="50100446" name="Giant laser Po concussion" />
 	<key id="50100447" name="Landmines cast (3)" />
 	<key id="50100447" name="Toss the mines (5)" />
+	<key id="50100447" name="Toss the mines (5)" />
 	<key id="50100448" name="Landmines sensor detection" />
 	<key id="50100450" name="Get ready to jump" />
 	<key id="50100450" name="Landed the jump (General)" />
@@ -3580,12 +3629,20 @@
 	<key id="50100459" name="Landmines cast (3)" />
 	<key id="50100459" name="Toss the mines (5)" />
 	<key id="50100460" name="Landmines sensor detection" />
+	<key id="50100461" name="The laser lines cross ready (River)" />
+	<key id="50100461" name="Cross-firing laser line (River)" />
+	<key id="50100461" name="Cross-firing laser line (River)" />
+	<key id="50100461" name="Laser PO line flicks_Floor (River)" />
+	<key id="50100461" name="The laser lines cross ready (River)" />
+	<key id="50100461" name="Cross-firing laser line (River)" />
+	<key id="50100461" name="Cross-firing laser line (River)" />
+	<key id="50100461" name="Laser PO line flicks_Floor (River)" />
 	<key id="50100480" name="Oversized, resulting in 20%" />
 	<key id="50100480" name="Oversized 40% off" />
 	<key id="50100480" name="Oversized, resulting in 60%" />
 	<key id="50100480" name="Oversized, resulting in 80%" />
 	<key id="50100480" name="Oversized original size" />
-	<key id="50100481" name="There are a number of guided energy balls (5)" />
+	<key id="50100481" name="There are a number of guided energy balls (2)" />
 	<key id="50100481" name="There are a number of guided energy balls (10)" />
 	<key id="50100482" name="1Kill the room guided energy (2)" />
 	<key id="50100482" name="1Kill the room guided energy (2)" />
@@ -3898,7 +3955,6 @@
 	<key id="50100623" name="Check for the same height" />
 	<key id="50100624" name="Ready to launch your hair in the Middle" />
 	<key id="50100624" name="Middle head firing actuation" />
-	<key id="0" />
 	<key id="50100694" name="Hook hand cannons ready (2nd floor)" />
 	<key id="50100694" name="Hook hand cannon firing (2nd floor)" />
 	<key id="50100695" name="Hook hand cannons ready" />
@@ -3934,6 +3990,7 @@
 	<key id="50100704" name="Heliosphere ready long actuation" />
 	<key id="50100705" name="Feeler guided missile" />
 	<key id="50100706" name="Jump (climb)" />
+	<key id="50100706" name="Jump (climb)_Chaos" />
 	<key id="50100706" name="Landed the jump (climb)" />
 	<key id="50100706" name="Jump ready (a flop, terrain, destroyed)" />
 	<key id="50100706" name="Landed the jump (a flop)" />
@@ -3949,6 +4006,8 @@
 	<key id="50100710" name="Poison mist the floor planking (destroyed)" />
 	<key id="50100711" name="Kobo-up buff Dialer" />
 	<key id="50100711" name="Kobo-up buff Dialer" />
+	<key id="50100711" name="Kobo-up buff (chaos)" />
+	<key id="50100711" name="Kobo-up buff (chaos)" />
 	<key id="50100712" name="Full unstoppable buff Dialer" />
 	<key id="50100713" name="The left hand kick-ass cannons ready" />
 	<key id="50100713" name="The left hand kick Cannon firing" />
@@ -3960,6 +4019,10 @@
 	<key id="50100716" name="2Layer the above provocative" />
 	<key id="50100716" name="2Layer the above provocative (voice)" />
 	<key id="50100718" name="HP Recovery Act" />
+	<key id="50100719" name="Heliosphere prep time long" />
+	<key id="50100719" name="Heliosphere ready long actuation" />
+	<key id="50100719" name="The left hand kick-ass cannons ready" />
+	<key id="50100719" name="The left hand kick Cannon firing" />
 	<key id="50100733" name="Check the height of the target cube space for" />
 	<key id="50100734" name="Fist wielding preparation (General)" />
 	<key id="50100734" name="Fist wielding 1 (Typ)" />
@@ -4140,6 +4203,62 @@
 	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
 	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
 	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser ready (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
+	<key id="50100748" name="Laser 90 degrees rotation (back and forth)" />
 	<key id="50100749" name="Laser ready (back and forth)" />
 	<key id="50100749" name="Laser 90 degrees (left and right)" />
 	<key id="50100749" name="Laser 90 degrees (left and right)" />
@@ -4182,6 +4301,62 @@
 	<key id="50100749" name="Laser 90 degrees (left and right)" />
 	<key id="50100749" name="Laser 90 degrees (left and right)" />
 	<key id="50100749" name="Laser ready (back and forth)_Laser mode" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser ready (back and forth)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
+	<key id="50100749" name="Laser 90 degrees (left and right)" />
 	<key id="50100749" name="Laser 90 degrees (left and right)" />
 	<key id="50100749" name="Laser 90 degrees (left and right)" />
 	<key id="50100749" name="Laser 90 degrees (left and right)" />
@@ -4624,7 +4799,6 @@
 	<key id="50100791" name="Pole steel pie IRV-launch" />
 	<key id="50100791" name="Pole steel pie IRV-launch" />
 	<key id="50100791" name="Pole steel pie IRV LESTELLE-ending" />
-	<key id="0" />
 	<key id="50100795" name="Giant chill-brass arrangements" />
 	<key id="50100795" name="A huge chill brass launch" />
 	<key id="50100795" name="A huge chill brass launch" />
@@ -4821,7 +4995,6 @@
 	<key id="50100808" name="Firing the laser 180 counterclockwise" />
 	<key id="50100808" name="Firing the laser 180 counterclockwise" />
 	<key id="50100808" name="Firing the laser 180 counterclockwise" />
-	<key id="0" />
 	<key id="50100850" name="Get ready for the combo 1 2" />
 	<key id="50100850" name="Battered fires one combo 2" />
 	<key id="50100850" name="Battered fires one combo 2" />
@@ -5120,14 +5293,95 @@
 	<key id="50101005" name="Prepare the emerging car shots" />
 	<key id="50101005" name="Cha Jing shot machine collecting" />
 	<key id="50101005" name="Cha Jing shot firing (Stern)" />
-	<key id="50900380" name="Wind Valley" />
-	<key id="50900380" name="Wind Valley" />
-	<key id="50900380" name="Wind Valley" />
-	<key id="50900380" name="The wind push the monthly disposal" />
-	<key id="50900380" name="Winds push a feather spree" />
-	<key id="50900381" name="Winds push a feather spree" />
-	<key id="50900381" name="Wind Valley" />
-	<key id="50900381" name="Wind Valley" />
-	<key id="50900381" name="Wind Valley" />
-	<key id="50900381" name="The wind push the monthly machine" />
+	<key id="50101100" name="Mouth Shockwave ready" />
+	<key id="50101100" name="Mouth Shockwave launch" />
+	<key id="50101101" name="Watercourse brass arrangements" />
+	<key id="50101101" name="Watercourse Bresse 1 launch" />
+	<key id="50101101" name="Water cube land mine, throwing" />
+	<key id="50101101" name="Watercourse Bresse 2 launch" />
+	<key id="50101101" name="Water cube land mine, throwing" />
+	<key id="50101101" name="Watercourse brass fired three shots" />
+	<key id="50101101" name="Water cube land mine, throwing" />
+	<key id="50101101" name="Watercourse brass 4 launch" />
+	<key id="50101101" name="Water cube land mine, throwing" />
+	<key id="50101101" name="Watercourse brass launch 5 Taranaki" />
+	<key id="50101101" name="Water cube land mine, throwing" />
+	<key id="50101101" name="Watercourse brass six launch" />
+	<key id="50101101" name="Water cube land mine, throwing" />
+	<key id="50101101" name="Watercourse brass launch 7 Ta" />
+	<key id="50101101" name="Watercourse brass launch 8 Ta" />
+	<key id="50101101" name="Water cube sensors" />
+	<key id="50101102" name="Preparing the tail boom" />
+	<key id="50101102" name="Tail boom triggered" />
+	<key id="50101102" name="Tail boom electric cube" />
+	<key id="50101102" name="Tail boom electric cube" />
+	<key id="50101102" name="Tail boom electric cube" />
+	<key id="50101102" name="Tail boom electric cube" />
+	<key id="50101102" name="Tail boom electric cube" />
+	<key id="50101102" name="Tail boom electric cube" />
+	<key id="50101103" name="Horn lightning preparation" />
+	<key id="50101103" name="Horn lightning fire (monthly)" />
+	<key id="50101103" name="Horn lightning fire" />
+	<key id="50101103" name="Horn lightning fire (monthly)_Hill" />
+	<key id="50101103" name="Horn lightning fire_Hill" />
+	<key id="50101103" name="Horn lightning stand" />
+	<key id="50101103" name="Horn lightning finish" />
+	<key id="50101104" name="Hanging from the target drop-GI" />
+	<key id="50101105" name="Machine ready to explode" />
+	<key id="50101105" name="Ki blast and shoving" />
+	<key id="50101105" name="Ki blast finishing" />
+	<key id="50101106" name="Jump jump" />
+	<key id="50101106" name="Jump landing" />
+	<key id="50101107" name="Track: check for the streets" />
+	<key id="50101108" name="Check the above target for the Hill" />
+	<key id="50101150" name="Get ready for about 1 attack" />
+	<key id="50101150" name="Fires approximately 1 attack" />
+	<key id="50101151" name="About ready 2 attack" />
+	<key id="50101151" name="About attack 2 1" />
+	<key id="50101151" name="About attack 2 get 2" />
+	<key id="50101152" name="The river rushed to prepare for an attack" />
+	<key id="50101152" name="River rushing attack ready roofing" />
+	<key id="50101152" name="The river rushed preparations to attack tele Po" />
+	<key id="50101152" name="River fires rushing attack" />
+	<key id="50101153" name="Ready to jump in with a bang" />
+	<key id="50101153" name="Jump jump bang" />
+	<key id="50101153" name="Jump to bang attack" />
+	<key id="50101153" name="Ready to jump in with a bang" />
+	<key id="50101153" name="Jump jump bang" />
+	<key id="50101153" name="Jump to bang attack" />
+	<key id="50101154" name="About energy wave preparation" />
+	<key id="50101154" name="About energy wave fired" />
+	<key id="50101155" name="River energy wave preparation" />
+	<key id="50101155" name="River energy wave fundraisers" />
+	<key id="50101155" name="River Energy Patel Po" />
+	<key id="50101155" name="River fires an energy wave" />
+	<key id="50101156" name="4 out of the wind and ready to attack" />
+	<key id="50101156" name="4 out of the wind damage field" />
+	<key id="50101157" name="Bottom hotplate TypeA" />
+	<key id="50101157" name="Bottom hotplate TypeB" />
+	<key id="50101157" name="Bottom hotplate full life" />
+	<key id="50101157" name="Floor fire Edition full" />
+	<key id="50101158" name="Ready to go the moment" />
+	<key id="50101200" name="Get ready for about 1 attack" />
+	<key id="50101200" name="Fires approximately 1 attack" />
+	<key id="50101201" name="Prepare about 1 attack 2" />
+	<key id="50101201" name="About attack 2 1 actuation" />
+	<key id="50101201" name="Approximately 2 2 ready to attack" />
+	<key id="50101201" name="About attack 2 get 2 actuation" />
+	<key id="50101202" name="Ready to jump in with a bang" />
+	<key id="50101202" name="Jump, run with a bang" />
+	<key id="50101202" name="After finishing the jump bang attack" />
+	<key id="50101202" name="After the jump, change your posture with a bang" />
+	<key id="50101202" name="Ready to bash the rush after the jump with a bang" />
+	<key id="50101202" name="After finishing the jump bang bash rush" />
+	<key id="50101203" name="The magic ahead ready to launch" />
+	<key id="50101203" name="Magic launch one stroke ahead" />
+	<key id="50101203" name="Magic 2 front firing" />
+	<key id="50101204" name="Continuous attack mechanism of Versailles floor installation" />
+	<key id="50101204" name="Continuous assault slash" />
+	<key id="50101205" name="Attack_Idle" />
+	<key id="50101205" name="Attack_Idle Ambassador summoned" />
+	<key id="50101206" name="Pawn shield in preparation conferring" />
+	<key id="50101206" name="Pawn shields grant launch" />
+	<key id="50101207" name="Provocative behavior" />
 </ms2>

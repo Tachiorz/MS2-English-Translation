@@ -79,7 +79,10 @@
 	<key id="2077" name="Event merchandise"/>	
 	
 	<key id="2078" name="Minerals"/>	
-	
+	<key id="2079" name="Instrument"/>	
+	<key id="2080" name="Sheet music"/>
+	<key id="2081" name="Fishing tackle"/>
+
 	<key id="3000" name="Decorative building"/>
 	<key id="3001" name="Terrain"/>
 	<key id="3002" name="Interior props"/>
@@ -202,12 +205,16 @@
 	<key id="9158" name="Outdoor"/>			
 	<key id="9159" name="Maid"/>
 	<key id="9160" name="Building"/>
-	<key id="9163" name="Interior construction volumes"/>	
+	<key id="9166" name="Interior construction volumes"/>	
 
 	<key id="9161" name="Maid employment"/>
-	<key id="9162" name="Use coupon"/>		
-	
-	<key id="9900" name="Men&#8217;s clothing" />
+	<key id="9162" name="Use coupon"/>
+
+  <key id="9163" name="The right hand weapon" />
+  <key id="9164" name="The left-handed weapons" />
+  <key id="9165" name="Two-handed weapons" />
+
+  <key id="9900" name="Men&#8217;s clothing" />
 	<key id="9901" name="Women&#8217;s clothing" />
 	<key id="9902" name="Unisex public clothing" />
 	<key id="9903" name="Design cube" />
@@ -220,11 +227,13 @@
   <key id="9908" name="Santa Papa&#8217;s snacks" />
 
   <key id="9999" name="★ Featured"/>	
-	<key id="10000" name="Package"/>		
-		
-			
+	<key id="10000" name="Package"/>
 
-<!--Black market categories-->
+
+
+
+
+  <!--Black market categories-->
 	
 	<key id="31000" name="Weapons" />		
 	<key id="31130" name="Blunt" />		

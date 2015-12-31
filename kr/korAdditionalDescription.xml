@@ -642,7 +642,10 @@
 	<key id="40234001" level="1" name="Cool bottled up this" tooltipDescription="Icy paws was determined to attack your body!\nSpeed 40% reduction" />
 	<key id="40319001" level="1" name="Chunks of fire attack" tooltipDescription="Sometimes this whole body of flame!\nConstantly flame damage" />
 	<key id="40339011" level="1" name="Silence" tooltipDescription="Skill not available" />
-	<key id="49018001" level="1" name="Cursed winds" tooltipDescription="Due to the power of the curse can&#8217;t write properly ...\nPhysical damage, spell damage 30% reduced\nDef 30% reduced\n50% reduction in movement speed" />
+	<key id="49016001" level="1" name="To enhance the Thunder" tooltipDescription="Wu reus is stronger.\n 5If the fires of overlapping times thundered." />
+	<key id="49016011" level="1" name="House of Thunder" tooltipDescription="Schedule: while invincible." />
+	<key id="49018001" level="1" name="Cursed winds" tooltipDescription="Due to the power of the curse cannot be written properly.\nMovement speed reduction\n5Once completed the curse of nesting times." />
+	<key id="49018002" level="1" name="The completed curse" tooltipDescription="Skill and items will not be available." />
 	<key id="49021011" level="1" name="The death of bondage" tooltipDescription="Inability to act are in bondage" />
 	<key id="49022011" level="1" name="Shock" tooltipDescription="Acting stunned wonderment" />
 	<key id="49025011" level="1" name="Curse of the were-rabbit" tooltipDescription="The rabbit is the magic body shy small!\n50% reduction in body size\n99% reduction in physical damage, spell damage\nDefense power 40% reduction" />
@@ -663,6 +666,11 @@
 	<key id="49125001" level="1" name="Slime blast" tooltipDescription="When the explosion occurs in the body slime." />
 	<key id="49148021" level="1" name="And the fear of God for" tooltipDescription="Speed reduction for a period of time and EPIs not zero." />
 	<key id="49149021" level="1" name="Slow" tooltipDescription="Speed reduction for a period of time" />
+	<key id="49161001" level="1" name="The Sanctuary&#8217;s frigid" tooltipDescription="Speed reduction for a period of time. \n Fix series confined on the ice if the projectile." />
+	<key id="49161002" level="1" name="Fix bondage" tooltipDescription="Inability to act for a period of time trapped in the ice." />
+	<key id="49164011" level="1" name="Confusion" tooltipDescription="I can&#8217;t stand the spirit!\nContrary to the direction of the action and influence" />
+	<key id="49165001" level="1" name="Mental mastery" tooltipDescription="Wicked edge, you can attack a colleague allocated." />
+	<key id="49165002" level="1" name="Mental mastery" tooltipDescription="After a while, you can strike up a colleague." />
 	<key id="50000001" level="1" name="Addiction" tooltipDescription="Constantly poison damage" />
 	<key id="50000002" level="1" name="Addiction" tooltipDescription="Constantly poison damage" />
 	<key id="50000003" level="1" name="Addiction" tooltipDescription="Constantly poison damage" />
@@ -712,6 +720,7 @@
 	<key id="50000158" level="1" name="Go slow" tooltipDescription="30% reduction in movement speed" />
 	<key id="50000170" level="1" name="The water prison" tooltipDescription="Water trapped in the immobilizing prison" />
 	<key id="50000171" level="1" name="The water prison" tooltipDescription="Water trapped in the immobilizing prison" />
+	<key id="50000172" level="1" name="The water prison" tooltipDescription="Water trapped in the immobilizing prison" />
 	<key id="50000190" level="1" name="Horror" tooltipDescription="STR, DEX, INT, LUK 50% Reduction\nSpeed 40% reduction" />
 	<key id="50000191" level="1" name="Morale degradation" tooltipDescription="STR, DEX, INT, LUK 50% Reduction\nSpeed 40% reduction" />
 	<key id="50000192" level="1" name="Damn curse" tooltipDescription="Constantly poison damage \nSpeed 40% reduction\nHit rate 60%" />
@@ -784,6 +793,8 @@
 	<key id="50000354" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery" />
 	<key id="50000355" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery" />
 	<key id="50000356" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery" />
+	<key id="50000357" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery" />
+	<key id="50000358" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery" />
 	<key id="50000402" level="1" name="Movement speed reduction" tooltipDescription="30% reduction in movement speed" />
 	<key id="50000403" level="1" name="Damage reduction" tooltipDescription="Physical damage, spell damage 60% reduction" />
 	<key id="50000404" level="1" name="Fatal wounds" tooltipDescription="Ongoing physical damage" />
@@ -1008,6 +1019,11 @@
 	<key id="60071092" level="1" name="Explosion warning" tooltipDescription="After a period of time I self destruct system." />
 	<key id="60076002" level="1" name="Jack-o&#8217;-lantern bondage" tooltipDescription="The antics of the body but unsatisfactory Jack-o&#8217;-lantern velocity rises by leaps and bounds." />
 	<key id="60076021" level="1" name="The curse of ghost horse" tooltipDescription="A curse hanging over skill not available but regular attacks  \nAvailable.  \nPhysical attack power and spell damage is doubled." />
+	<key id="60093001" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
+	<key id="60093011" level="1" name="Confusion" tooltipDescription="I can&#8217;t stand the spirit!\nContrary to the direction of the action and influence" />
+	<key id="60093031" level="1" name="Healing" tooltipDescription="Health for a period of time." />
+	<key id="60093051" level="1" name="Mental mastery" tooltipDescription="Wicked edge, you can attack a colleague allocated." />
+	<key id="60093052" level="1" name="Mental mastery" tooltipDescription="After a while, you can strike up a colleague." />
 	<key id="70000007" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
 	<key id="70000010" level="1" name="Addiction" tooltipDescription="I have been addicted to venom!\nEvery second Max HP1% reduction of" />
 	<key id="70000010" level="2" name="Addiction" tooltipDescription="I have been addicted to venom!\nEvery second Max HPOnly 3% of reduction" />
@@ -1023,7 +1039,7 @@
 	<key id="70000022" level="1" name="Deadly shadow of miasma" tooltipDescription="This land has been polluted in the shadows!\nPoison damage each second" />
 	<key id="70000022" level="2" name="Deadly shadow of miasma" tooltipDescription="This land has been polluted in the shadows!\nPoison damage each second" />
 	<key id="70000023" level="1" name="Go slow" tooltipDescription="45% reduction in movement speed" />
-	<key id="70000027" level="1" name="The power of the shadow" tooltipDescription="I&#8217;ve heard that they changed in the body an aura of shadow!\nMax HP 680% Increases the\nPvP The effects of calibration of equipment at which Chan Tran" />
+	<key id="70000027" level="1" name="The power of the shadow" tooltipDescription="I&#8217;ve heard that they changed in the body an aura of shadow!\nMax HP 910% Increases the\nPvP The effects of calibration of equipment at which Chan Tran" />
 	<key id="70000028" level="1" name="The dominance of the shadows" tooltipDescription="Shadow world&#8217;s evil aura to dominate every body.\nSubject of the shadow while the Maple world \nShadow world cannot reenter." />
 	<key id="70000029" level="1" name="La pen&#8217;s protection" tooltipDescription="La pen&#8217;s comforting body wrap.\nLa pen&#8217;s protection while\nOther characters will not be able to contend with." />
 	<key id="70000030" level="1" name="La pen&#8217;s protection clear" tooltipDescription="Wrath of God in saying la pen&#8217;s protection to manually clear skill" />
@@ -1036,6 +1052,7 @@
 	<key id="70000044" level="1" name="Light of the soul" tooltipDescription="To absorb the light of the soul, the spirits have been\nLight of the soul disappears,\nAt the level of the soul will not be able to hold" />
 	<key id="70000046" level="1" name="Addiction" tooltipDescription="Poison damage each second" />
 	<key id="70000050" level="1" name="Nerve paralysis poison" tooltipDescription="Every second movement speed reduced by 5%\nEvery second Max HPReduced by 0.25% of\nUp to 20 times the nesting" />
+	<key id="70000054" level="1" name="Bleeding" tooltipDescription="Deep in the shed blood of the wounded.\n10 physical damage every second" />
 	<key id="70000056" level="1" name="Damage reduction" tooltipDescription="99% reduction in physical damage, spell damage" />
 	<key id="70000056" level="2" name="Damage reduction" tooltipDescription="Physical damage, spell damage reduced to 70%" />
 	<key id="70000058" level="1" name="Life&#8217;s a breeze" tooltipDescription="Received an aura of life\n150% increase in transfer speed" />
@@ -1059,11 +1076,13 @@
 	<key id="70000067" level="3" name="Kumba Wang&#8217;s fortune" tooltipDescription="Kumba refresh Cain the King strongly felt.\nHappy luck seems to follow.\nEquipment items from bosses\nOdds of winning will be greatly increased." />
 	<key id="70000067" level="4" name="Kumba Wang&#8217;s fortune" tooltipDescription="Special Kumba refresh Cain the King strongly felt.\nHappy luck seems to follow.\nEquipment items from bosses\n2Doubling." />
 	<key id="70000068" level="1" name="Stud to 7 Rune" tooltipDescription="The legendary Sharpshooter Haas&#8217;s perky body.\n200% increase in 5 seconds and movement speed" />
-	<key id="70000071" level="1" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India. \n10% reduction in the amount of the recovery of the items and skills" />
-	<key id="70000071" level="2" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India. \nA 20% reduction in the amount of the recovery of the items and skills" />
-	<key id="70000071" level="3" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India. \n50% reduction in the amount of the recovery of the items and skills" />
-	<key id="70000071" level="4" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India. \nItems and the amount of the recovery of 80% reduction of skill" />
-	<key id="70000071" level="5" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India. \n95% reduction in the amount of the recovery of the items and skills" />
+	<key id="70000071" level="1" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India.\n10% reduction in the amount of the recovery of the items and skills" />
+	<key id="70000071" level="2" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India.\nA 20% reduction in the amount of the recovery of the items and skills" />
+	<key id="70000071" level="3" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India.\n50% reduction in the amount of the recovery of the items and skills" />
+	<key id="70000071" level="4" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India.\nItems and the amount of the recovery of 80% reduction of skill" />
+	<key id="70000071" level="5" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India.\n95% reduction in the amount of the recovery of the items and skills" />
+	<key id="70000074" level="1" name="Confusion" tooltipDescription="I can&#8217;t stand the spirit!\nContrary to the direction of the action and influence" />
+	<key id="70000076" level="1" name="Deadly shadow of miasma" tooltipDescription="This land has been polluted in the shadows!\nPoison damage each second" />
 	<key id="81000001" level="1" name="Blue paint" tooltipDescription="It has been covered in paint" />
 	<key id="81000031" level="1" name="An unidentified cucumber flavored cocktail" tooltipDescription="Takes on an intense aroma of cucumber" />
 	<key id="81000051" level="1" name="Terry&#8217;s sailing schedule" tooltipDescription="Will himself" />
@@ -1245,17 +1264,19 @@
 	<key id="90000252" level="1" name="Souvenir effect" tooltipDescription="Increase the dark stream, evading 20" />
 	<key id="90000253" level="1" name="Fairy springs" tooltipDescription="Evasion 1000 increases, $map:02000350$Only applying effects to" />
 	<key id="90000254" level="1" name="Fairy&#8217;s tears" tooltipDescription="Defense power increase, 1000 $map:02000350$Only applying effects to" />
-	<key id="90000262" level="1" name="Earthworm bait" tooltipDescription="Normal, rare fish fishing odds 10% y/y increase" />
-	<key id="90000263" level="1" name="Fresh bait" tooltipDescription="Normal, rare, elite 10% increase in the chances of successful fish fishing" />
-	<key id="90000264" level="1" name="Brilliant bait" tooltipDescription="Normal, rare, elite fish fishing a 20% increase your chances of success" />
-	<key id="90000265" level="1" name="Flashing lures" tooltipDescription="All grades of fish fishing 20% increase your chances of success" />
-	<key id="90000266" level="1" name="Tasty bait" tooltipDescription="Elite, increases the probability that the fish is swarming new" />
-	<key id="90000267" level="1" name="King worm bait" tooltipDescription="-Increasing the chances of a big fish is swarming, pretend-class" />
-	<key id="90000268" level="1" name="Striped worm" tooltipDescription="To increase the probability of the fish is swarming the prison Al Ricardo" />
-	<key id="90000269" level="1" name="Lanterns bait" tooltipDescription="To increase the probability of the fish is swarming the moonlit sea captain&#8217;s fortress" />
-	<key id="90000270" level="1" name="Loosen the worm bait" tooltipDescription="To increase the probability of the fish is swarming of lava" />
-	<key id="90000271" level="1" name="Devil spider" tooltipDescription="To increase the probability of the fish is swarming the damned" />
+	<key id="90000262" level="1" name="In essence this worm bait" tooltipDescription="Normal, rare fish fishing odds 10% y/y increase" />
+	<key id="90000263" level="1" name="Earthworm bait" tooltipDescription="Normal, rare, elite 10% increase in the chances of successful fish fishing" />
+	<key id="90000264" level="1" name="Chubby earthworm bait" tooltipDescription="Normal, rare, elite fish fishing a 20% increase your chances of success" />
+	<key id="90000265" level="1" name="King worm bait" tooltipDescription="All grades of fish fishing 20% increase your chances of success" />
+	<key id="90000266" level="1" name="Gogisdeongi bait" tooltipDescription="Elite, new fish is swarming probability 10% y/y increase" />
+	<key id="90000267" level="1" name="Al rock Moon rock candy bait" tooltipDescription="Large fish is swarming probability 5% y/y increase" />
+	<key id="90000268" level="1" name="Freeze your worms" tooltipDescription="Al Ricardo prison increases the chances of success of the rare fish fishing" />
+	<key id="90000269" level="1" name="Lanterns bait" tooltipDescription="Moonlight increases the chances of success of the rare fish fishing captain&#8217;s fortress" />
+	<key id="90000270" level="1" name="Loosen the worm bait" tooltipDescription="Very hot lava to increase chances of success of the rare fish fishing" />
+	<key id="90000271" level="1" name="Devil spider" tooltipDescription="Shadow Legion of evil power in the region \nTo increase the chances of successful rare fish fishing" />
 	<key id="90000273" level="1" name="Christmas candy cane" tooltipDescription="Once every second HP 150 Recovery" />
+	<key id="90000277" level="1" name="A proof of courage" tooltipDescription="(Normal) with the illusion that the frozen sanctuary, pyramid,\nBunker, black Smirnoff, from an abandoned wading pool\nPhysics/Magic damage increases by 10%" />
+	<key id="90000278" level="1" name="Proof of Valor" tooltipDescription="(The captain&#8217;s fortress, the Moonlight shadow chaos) Corps of the altar\n(Normal) Barra ska Ice Cave, blue shadow caves\nCasa del Luna, La Quinta Los, labyrinth of the rally from the party\nPhysics/Magic damage increases by 10%" />
 	<key id="90001001" level="1" name="Tri at speed 5% y/y increase" tooltipDescription="Tri at speed 5% y/y increase" />
 	<key id="90001002" level="1" name="The willingness of the struggle" tooltipDescription="HP In a battle between the players, increasing stiffness immune\nPvP The effects of calibration of equipment at which Chan Tran" />
 	<key id="90001005" level="1" name="1Times" tooltipDescription="1Times" />
@@ -1273,7 +1294,7 @@
 	<key id="90030531" level="1" name="The odds of hitting at their regular HPReferred to as per absorb" />
 	<key id="90030541" level="1" name="The odds of hitting at their regular HPReferred to as per absorb" />
 	<key id="90030551" level="1" name="STR, DEX, INT, LUK 25% Reduction" />
-	<key id="90030561" level="1" name="STR,DEX, INT, LUK 50% Reduction" />
+	<key id="90030561" level="1" name="STR, DEX, INT, LUK 50% Reduction" />
 	<key id="90030571" level="1" name="With a chance at hitting the Schedule 10 seconds to increase all damage 20" />
 	<key id="90030572" level="1" name="The horns of the cart" tooltipDescription="Physics, magic damage increases 20" />
 	<key id="90030581" level="1" name="Shot during 3 seconds as the probability increases to 15% move speed" />
@@ -1306,7 +1327,115 @@
 	<key id="90800002" level="1" name="Addiction" tooltipDescription="20% as long as the poisoning effects" />
 	<key id="90800011" level="1" name="+ 10% chance to hit and move speed increase" tooltipDescription="+ 10% chance to hit and move speed increase" />
 	<key id="90800012" level="1" name="Movement speed increase" tooltipDescription="Speed 300% increase in stats" />
-	<key id="91000001" level="1" name="At the counter SP 3 Recovery" />
+	<key id="90050211" level="1" name="With a chance at hitting the 8 percent after 30 seconds of inactivity, the physical/Magic damage 17% y/y increase" />
+	<key id="90050221" level="1" name="+ 10% chance to hit after 30 seconds of inactivity, the physical/Magical attack 22% y/y increase" />
+	<key id="90050231" level="1" name="10:14% chance to hit after 30 seconds of inactivity, the physical/Magical attack 22% y/y increase" />
+	<key id="90050241" level="1" name="With a chance at hitting the 8 percent after 30 seconds of inactivity, the physical/Magic damage 17% y/y increase" />
+	<key id="90050251" level="1" name="With a chance at hitting the 8 percent after 30 seconds of inactivity, the physical/Magical attack 22% y/y increase" />
+	<key id="90050261" level="1" name="With a chance at hitting the 8 percent after 30 seconds of inactivity, the physical/Magical attack 22% y/y increase" />
+	<key id="90050271" level="1" name="With a chance at hitting the 8 percent after 30 seconds of inactivity, the physical/Magical attack power increases 11%" />
+	<key id="90050283" level="1" name="With a chance at hitting the 8 percent after 30 seconds of inactivity, the physical/Magical attack power increases 11%" />
+	<key id="90050212" level="1" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magic damage 17% y/y increase" />
+	<key id="90050222" level="1" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magical attack 22% y/y increase" />
+	<key id="90050232" level="1" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magical attack 22% y/y increase" />
+	<key id="90050242" level="1" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magic damage 17% y/y increase" />
+	<key id="90050252" level="1" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magical attack 22% y/y increase" />
+	<key id="90050262" level="1" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magical attack 22% y/y increase" />
+	<key id="90050274" level="1" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magical attack power increases 11%" />
+	<key id="90050274" level="2" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magical attack 22% y/y increase" />
+	<key id="90050284" level="1" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magical attack power increases 11%" />
+	<key id="90050284" level="2" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magical attack 22% y/y increase" />
+	<key id="90050311" level="1" name="Holly strike cooldown, SP 50% reduction in the consumption of" />
+	<key id="90050312" level="1" name="Holly strike damage increased 19%" />
+	<key id="90050313" level="1" name="Holly strike damage increased 19%" />
+	<key id="90050314" level="1" name="Holly strike damage increased 19%" />
+	<key id="90050315" level="1" name="Holly strike damage increased 19%" />
+	<key id="90050316" level="1" name="Holly strike damage increased 19%" />
+	<key id="90050321" level="1" name="Light Warrior&#8217;s spirit cooldown 45 seconds, attack speed, movement speed reduced to 18" />
+	<key id="90050323" level="1" name="Light Warrior&#8217;s spirit is defeated while it lasted/Magic damage increased by 5%" />
+	<key id="90050331" level="1" name="Lightning whip cooldown reduced to 10 seconds" />
+	<key id="90050332" level="1" name="Whipped lightning damage 40% y/y increase" />
+	<key id="90050333" level="1" name="Whipped lightning damage 20% y/y increase" />
+	<key id="90050334" level="1" name="Whipped lightning damage 20% y/y increase" />
+	<key id="90050335" level="1" name="Whipped lightning damage 20% y/y increase" />
+	<key id="90050341" level="1" name="Angel Ray cool time, SP Consumption, 50% reduction in the amount of the recovery" />
+	<key id="90050343" level="1" name="Angel Ray damage increased 38%" />
+	<key id="90050344" level="1" name="Angel Ray damage increased 19%" />
+	<key id="90050345" level="1" name="Angel Ray damage increased 19%" />
+	<key id="90050346" level="1" name="Angel Ray damage increased 19%" />
+	<key id="90050351" level="1" name="Sharp eyes only himself, but apply the critical hit\n   250 Further increase" />
+	<key id="90050353" level="1" name="Increases the critical damage of 300 apply sharp eyes" />
+	<key id="90050354" level="1" name="The sharp increase of critical damage 150 apply to your eyes" />
+	<key id="90050361" level="1" name="Magnetic spring cooldown reduced to 10 seconds" />
+	<key id="90050362" level="1" name="58% increase in damage of magnetic spring" />
+	<key id="90050363" level="1" name="Magnetic spring damage 29% y/y increase" />
+	<key id="90050364" level="1" name="Magnetic spring damage 29% y/y increase" />
+	<key id="90050365" level="1" name="Magnetic spring damage 29% y/y increase" />
+	<key id="90050371" level="1" name="The Balkan&#8217;s edge SP Consumption 4 reduction, damage increased by 5%, property damage\n   5% Reduction" />
+	<key id="90050376" level="1" name="8 percent increase in the Balkan edge damage" />
+	<key id="90050377" level="1" name="8 percent increase in the Balkan edge damage" />
+	<key id="90050378" level="1" name="8 percent increase in the Balkan edge damage" />
+	<key id="90050379" level="1" name="8 percent increase in the Balkan edge damage" />
+	<key id="90050380" level="1" name="8 percent increase in the Balkan edge damage" />
+	<key id="90050391" level="1" name="Grind star cooldown reduced to four seconds, SP Consumption decreased by 13%" />
+	<key id="90050394" level="1" name="Grind star damage 21% y/y increase" />
+	<key id="90050395" level="1" name="Grind star damage 21% y/y increase" />
+	<key id="90050396" level="1" name="Grind star damage 21% y/y increase" />
+	<key id="90050397" level="1" name="Grind star damage 21% y/y increase" />
+	<key id="90050398" level="1" name="Grind star damage 21% y/y increase" />
+	<key id="90050401" level="1" name="Luna installation increases and property damage and the duration increases the effect of 4\n   20% Reduction" />
+	<key id="90050408" level="1" name="Luna &quot;for the duration of the 4% increase in property damage and angry" />
+	<key id="90050411" level="1" name="As Ying shield damage 120% y/y increase" />
+	<key id="90050412" level="1" name="As Ying shield damage 58% y/y increase" />
+	<key id="90050413" level="1" name="As Ying shield damage 58% y/y increase" />
+	<key id="90050414" level="1" name="As Ying shield damage 58% y/y increase" />
+	<key id="90050415" level="1" name="As Ying shield damage 58% y/y increase" />
+	<key id="90050416" level="1" name="As Ying shield damage 58% y/y increase" />
+	<key id="90050421" level="1" name="Wind damage split 52% y/y increase" />
+	<key id="90050422" level="1" name="Wind damage split 26% y/y increase" />
+	<key id="90050423" level="1" name="Wind damage split 26% y/y increase" />
+	<key id="90050424" level="1" name="Wind damage split 26% y/y increase" />
+	<key id="90050425" level="1" name="Wind damage split 26% y/y increase" />
+	<key id="90050426" level="1" name="Wind damage split 26% y/y increase" />
+	<key id="90050431" level="1" name="Chain lightning damage and 36% y/y increase" />
+	<key id="90050432" level="1" name="Chain lightning damage and 36% y/y increase" />
+	<key id="90050433" level="1" name="Chain lightning damage and 18% y/y increase" />
+	<key id="90050434" level="1" name="Chain lightning damage and 18% y/y increase" />
+	<key id="90050435" level="1" name="Chain lightning damage and 18% y/y increase" />
+	<key id="90050441" level="1" name="Holly exploit I damage 20% y/y increase" />
+	<key id="90050442" level="1" name="Holly exploit I damage 20% y/y increase" />
+	<key id="90050443" level="1" name="Holly exploit I damage 10% y/y increase" />
+	<key id="90050444" level="1" name="Holly exploit I damage 10% y/y increase" />
+	<key id="90050445" level="1" name="Holly exploit I damage 10% y/y increase" />
+	<key id="90050451" level="1" name="Multi shot SP Consumption 3 reduction, multi shot damage increased 24%" />
+	<key id="90050452" level="1" name="Multi shot damage increased 24%" />
+	<key id="90050453" level="1" name="Multi shot damage 12% y/y increase" />
+	<key id="90050454" level="1" name="Multi shot damage 12% y/y increase" />
+	<key id="90050455" level="1" name="Multi shot damage 12% y/y increase" />
+	<key id="90050471" level="1" name="Flame thrower damage and 34% y/y increase" />
+	<key id="90050472" level="1" name="Flame thrower damage and 34% y/y increase" />
+	<key id="90050473" level="1" name="Flame thrower damage and 17% y/y increase" />
+	<key id="90050474" level="1" name="Flame thrower damage and 17% y/y increase" />
+	<key id="90050475" level="1" name="Flame thrower damage and 17% y/y increase" />
+	<key id="90050481" level="1" name="Poisonous glass bottles SP Consumption, reduce damage 111% increase in March" />
+	<key id="90050484" level="1" name="Poison vial damage 111% y/y increase" />
+	<key id="90050485" level="1" name="Poison vial damage 111% y/y increase" />
+	<key id="90050486" level="1" name="Poison vial damage 111% y/y increase" />
+	<key id="90050487" level="1" name="Poison vial damage 111% y/y increase" />
+	<key id="90050488" level="1" name="Poison vial damage 111% y/y increase" />
+	<key id="90050491" level="1" name="Circle of stars SP Consumption, reduce damage and 13% increase in March" />
+	<key id="90050494" level="1" name="Circle of Star damage 13% y/y increase" />
+	<key id="90050495" level="1" name="Circle of Star damage 13% y/y increase" />
+	<key id="90050496" level="1" name="Circle of Star damage 13% y/y increase" />
+	<key id="90050497" level="1" name="Circle of Star damage 13% y/y increase" />
+	<key id="90050498" level="1" name="Circle of Star damage 13% y/y increase" />
+	<key id="90050501" level="1" name="Cold air splitter SP Consumption 15 reduction" />
+	<key id="90050502" level="1" name="Cold air splitter damage increased by 5%" />
+	<key id="90050503" level="1" name="Cold air splitter damage increased by 5%" />
+	<key id="90050504" level="1" name="Cold air splitter damage increased by 5%" />
+	<key id="90050505" level="1" name="Cold air splitter damage increased by 5%" />
+	<key id="90050506" level="1" name="Cold air splitter damage increased by 5%" />
+	<key id="91000001" level="1" name="At the counter SP 3 Recovery" tooltipDescription="Physics/Magic attack + 18% y/y increase" />
 	<key id="91000011" level="1" name="At the counter SP 3 Recovery" />
 	<key id="91000021" level="1" name="Light Warrior&#8217;s spirit in every second of the State HP 1.0% Recovery" />
 	<key id="91000041" level="1" name="Holly exploit I hit: 7.0% extra damage" />
@@ -1341,12 +1470,12 @@
 	<key id="99900562" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment" />
 	<key id="99900922" level="1" name="Burns" tooltipDescription="Def 30% reduced\nEvery second flame damage" />
 	<key id="100000001" level="1" name="The rest of the soul" tooltipDescription="A monument to the power of Chi Wu alone,\nI&#8217;ve exhausted all broken up\nElan will need time of rest for recovery" />
-	<key id="100000002" level="1" name="Velma&#8217;s judgment" tooltipDescription="Bell received a punishment of the referee.\nThe acts related to the community for a period of time is limited.\n- All chat\n- Board registration\n- UGC Item authoring\n- UGC Items worn\n- Construction posted the item and replacement\n- Registered items in the designer&#8217;s market\n- Profile image change\n- Guild mark change\n- Character name change\n- Send a letter\n- Party recruitment applications written or and party registration\n&lt;font color=&apos;#00aaef&apos;&gt;However, Ricardo went to jail when the weeds made in-house reflection \nYou can reduce the sentence.&lt;/font&gt;" />
+	<key id="100000002" level="1" name="Velma&#8217;s judgment" tooltipDescription="Bell received a punishment of the referee.\nThe acts related to the community for a period of time is limited.\n- All chat\n- Board registration\n- UGC Item authoring\n- UGC Items worn\n- Construction posted the item and replacement\n- Registered items in the designer&#8217;s market\n- Profile image change\n- Guild mark change\n- Character name change\n- Send a letter\n- Party recruitment applications written or and party registration\n- Other community-related activity\n&lt;font color=&apos;#00aaef&apos;&gt;However, Ricardo went to jail when the weeds made in-house reflection \nYou can reduce the sentence.&lt;/font&gt;" />
 	<key id="100000003" level="1" name="The wounded soul" tooltipDescription="Nany left a deep wound, kicked off the monument.\nWounds heal before another collapsed when steel monument \nRug." />
 	<key id="100000004" level="1" name="The blessing of revival" tooltipDescription="Does the damage until fall she lighten up" />
 	<key id="100000005" level="1" name="Coming out of the break in space" tooltipDescription="Space is emerging amongst\nBody and spirit until we fully drown\nThe damage it does to" />
 	<key id="100000006" name="PCAccess to the room effect" tooltipDescription="Monster Hunt:, experience and obtain 20% of the cows in Medan\nPhysical attack power and spell damage 3%, HP 100 Increases the\nStat buff is PVPDoes not apply." />
 	<key id="100000007" name="Battlefield calling" tooltipDescription="Battlefield called recruits. \nWhen you apply for the membership holder of sidance with other battlefield identification, recruits" />
-	<key id="100000008" level="1" name="Velma&#8217;s warning" tooltipDescription="Velma&#8217;s warning.\nThe acts related to the community for a period of time is limited.\n- Board registration\n- UGC Item authoring\n- UGC Items worn\n- Construction posted the item and replacement\n- Registered items in the designer&#8217;s market\n- Profile image change\n- Guild mark change\n- Character name change\n- Send a letter\n&lt;font color=&apos;#00aaef&apos;&gt;However, Ricardo went to jail when the weeds made in-house reflection \nYou can reduce the sentence.&lt;/font&gt;" />
+	<key id="100000008" level="1" name="Velma&#8217;s warning" tooltipDescription="Velma&#8217;s warning.\nThe acts related to the community for a period of time is limited.\n- Board registration\n- UGC Item authoring\n- UGC Items worn\n- Construction posted the item and replacement\n- Registered items in the designer&#8217;s market\n- Profile image change\n- Guild mark change\n- Character name change\n- Send a letter\n- Party recruitment applications written or and party registration\n- Other community-related activity\n&lt;font color=&apos;#00aaef&apos;&gt;However, Ricardo went to jail when the weeds made in-house reflection \nYou can reduce the sentence.&lt;/font&gt;" />
 	<key id="100000009" name="Growing growing buff" tooltipDescription="Monster hunting and quest completion, experience acquired 10% extra" />
 </ms2>

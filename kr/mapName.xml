@@ -498,18 +498,18 @@
 	<key id="2900118" name="Empty map (tentative)" />
 	<key id="2900119" name="Empty map (tentative)" />
 	<key id="2900120" name="Empty map (tentative)" />
-	<key id="2900121" name="Empty map (tentative)" />
-	<key id="2900122" name="Empty map (tentative)" />
-	<key id="2900123" name="Empty map (tentative)" />
-	<key id="2900124" name="Empty map (tentative)" />
-	<key id="2900125" name="Empty map (tentative)" />
-	<key id="2900126" name="Empty map (tentative)" />
-	<key id="2900127" name="Empty map (tentative)" />
-	<key id="2900128" name="Empty map (tentative)" />
-	<key id="2900129" name="Empty map (tentative)" />
-	<key id="2900130" name="Empty map (tentative)" />
-	<key id="2900131" name="Empty map (tentative)" />
-	<key id="2900132" name="Empty map (tentative)" />
+	<key id="02900121" name="T Ares hotel" />
+	<key id="02900122" name="Sultan apartments AEast" />
+	<key id="02900123" name="Grand Palace" />
+	<key id="02900124" name="Edge Hill residence" />
+	<key id="02900125" name="Sultan apartments BEast" />
+	<key id="02900126" name="Noble palace" />
+	<key id="02900127" name="Saint Palace" />
+	<key id="02900128" name="Crescent residence" />
+	<key id="02900129" name="Rick source Villa" />
+	<key id="02900130" name="Nina Liv Villa 1-Dong" />
+	<key id="02900131" name="Nina Liv Villa 2-Dong, Buk-gu" />
+	<key id="02900132" name="Blu-ray hotels" />
 	<key id="2900133" name="Empty map (tentative)" />
 	<key id="2900134" name="Empty map (tentative)" />
 	<key id="2900135" name="Empty map (tentative)" />
@@ -557,7 +557,7 @@
 	<key id="2010037" name="Empty map (tentative)" />
 	<key id="2010038" name="Carmina Bridge East" />
 	<key id="2010039" name="Carmina bridge West" />
-	<key id="2010040" name="Cabo corridor" />
+	<key id="02010040" name="Labyrinth of corridors" />
 	<key id="2010041" name="Empty map (tentative)" />
 	<key id="2010042" name="Empty map (tentative)" />
 	<key id="2010043" name="Liza v-Rock Island" />
@@ -566,9 +566,9 @@
 	<key id="2010046" name="Empty map (tentative)" />
 	<key id="2010047" name="Star sand sites" />
 	<key id="2010048" name="Empty map (tentative)" />
-	<key id="2010049" name="Swimming pool entrance" />
-	<key id="2010050" name="Swimming pool in the main hall" />
-	<key id="2010051" name="Cabo&#8217;s shrine" />
+	<key id="02010049" name="The entrance to an abandoned wading pool" />
+	<key id="02010050" name="An abandoned wading pool" />
+	<key id="02010051" name="Labyrinth rally party" />
 	<key id="2010052" name="Frozen sanctuary" />
 	<key id="2010053" name="Star hearts restaurant" />
 	<key id="2010054" name="Casa del Luna" />
@@ -576,18 +576,18 @@
 	<key id="2010056" name="Waterpia resort outbuilding" />
 	<key id="2010057" name="Ali bar, hotel lobby" />
 	<key id="2010058" name="Lou Delhi rail Club" />
-	<key id="2010059" name="Empty map (tentative)" />
+	<key id="02010059" name="Kar Kar Embassy" />
 	<key id="2010060" name="Empty map (tentative)" />
 	<key id="2010061" name="Empty map (tentative)" />
 	<key id="2010062" name="Lou del Ritz Royal Palace" />
 	<key id="2010063" name="Mina-Le" />
-	<key id="2010064" name="vip Lounge Bar" />
-	<key id="2010065" name="Royal land" />
-	<key id="2010066" name="Lou Delhi Police Headquarters" />
-	<key id="2010067" name="Herne&#8217;s Association" />
-	<key id="2010068" name="An underground bunker" />
-	<key id="2010069" name="Cold wind cave entrance" />
-	<key id="2010070" name="Empty map (tentative)" />
+	<key id="02010064" name="Motors lounge" />
+	<key id="02010065" name="Royal land" />
+	<key id="02010066" name="Empty map (tentative)" />
+	<key id="02010067" name="Empty map (tentative)" />
+	<key id="02010068" name="Empty map (tentative)" />
+	<key id="02010069" name="Cold wind cave entrance" />
+	<key id="02010070" name="Illusion pyramid" />
 	<key id="2010071" name="Empty map (tentative)" />
 	<key id="2010072" name="Empty map (tentative)" />
 	<key id="2010073" name="Empty map (tentative)" />
@@ -827,7 +827,7 @@
 	<key id="52000024" name="Quest Dungeon 24" />
 	<key id="52000025" name="Quest Dungeon 25" />
 	<key id="52010001" name="Half the village hit home" />
-	<key id="52010002" name="-V mission temporary checkpoints" />
+	<key id="52010002" name="Lou Delhi Police Headquarters" />
 	<key id="52010003" name="The Rev room" />
 	<key id="52010004" name="1:1 Dalian chapter" />
 	<key id="52010005" name="Marcia&#8217;s room" />
@@ -836,11 +836,12 @@
 	<key id="52010008" name="Waterpia resort main building" />
 	<key id="52010009" name="Monorail underground line" />
 	<key id="52010010" name="Arena main office" />
-	<key id="52010011" name="Te Morrow barracks" />
-	<key id="52010012" name="Kar Kar quest Dungeon 12" />
-	<key id="52010013" name="Kar Kar quest Dungeon 13" />
-	<key id="52010014" name="Kar Kar quest Dungeon 14" />
-	<key id="52010015" name="Kar Kar quest Dungeon 15" />
+	<key id="52010011" name="Te Morrow UM membrane" />
+	<key id="52010012" name="Herne&#8217;s Association" />
+	<key id="52010013" name="An underground bunker" />
+	<key id="52010014" name="Star hearts restaurant" />
+	<key id="52010015" name="Marcia&#8217;s room" />
+	<key id="52010016" name="Nazca-Le-rated party" />
 	<key id="61000001" name="Trap master" />
 	<key id="61000002" name="Final survivor" />
 	<key id="61000003" name="Maple OX Quiz show" />
@@ -993,8 +994,8 @@
 	<key id="80000009" name="Rainbow slime factory" />
 	<key id="80000010" name="Space bungee jumping" />
 	<key id="80000011" name="Santa Papa&#8217;s Christmas trees" />
-	<key id="80000012" name="Kar Kar sand hell" />
-	<key id="80000013" name="Kar Kar deep hell of sand" />
+	<key id="80000012" name="Loomis rod" />
+	<key id="80000013" name="Kar Kar quicksand" />
 	<key id="80000014" name="Empty map (tentative)" />
 	<key id="80000015" name="Empty map (tentative)" />
 	<key id="99999880" name="# test_Summer house #" />

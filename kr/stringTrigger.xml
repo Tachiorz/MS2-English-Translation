@@ -933,13 +933,22 @@
 	<key id="02000334_BF__WAVE__9" name="Pigs cannot be pushed to something!" npc="OSU CAL"/>
 	<key id="02000334_BF__WAVE__10" name="Ride! Breaking down! All underfoot!" npc="Thabo"/>
 	<key id="02000334_BF__WAVE__11" name="Get moving, faster! Faster!" npc="OSU CAL"/>
+	<key id="02000335_BF__BOSS__0" name="This cargo."/>
+	<key id="02000335_BF__MAIN__0" name="Black Smirnoff HO : Unlike the runaway train"/>
+	<key id="02000336_BF__BOSS__0" name="This is exactly the kind of unfettered pony brings to nourish ... \nThis is the LU State, conflicts with a stop in Delhi Monorail trains is a matter of time ..." npc="Wei Hong"/>
+	<key id="02000336_BF__BOSS__1" name="The Agency went beyond that, indeed, does not stop the train would be difficult to deal with. \nWhat idiots only to see Higgins? Come on go trains rowing institutions are indeed!" npc="Wei Hong"/>
+	<key id="02000337_BF__BOSS__0" name="Runaway train was now some truly doeeossgun." npc="Wei Hong"/>
+	<key id="02000337_BF__BOSS__1" name="Dare ... I Wei Hong thing braid ... He will surely regret, no matter who!" npc="Wei Hong"/>
+	<key id="02000337_BF__BOSS__2" name="Today you&#8217;ll pay off the debt to be sure one day. I promise in the name of Hong-Wei!" npc="Wei Hong"/>
+	<key id="02000337_BF__BOSS__3" name="Today you&#8217;ll pay off the debt to be sure one day. I promise in the name of Hong-Wei!" npc="Wei Hong"/>
 	<key id="02000338_BF__MAIN1__0" name="Earth aura."/>
 	<key id="02000338_BF__MAIN1__1" name="Hydro ball cake night"/>
-	<key id="02000338_BF__MAIN1__2" name="Goal: Scoria to exterminate the net"/>
+	<key id="02000338_BF__MAIN1__2" name="Goal: Take the Pro&#8217;s teeth care"/>
 	<key id="02000338_BF__MAIN2__0" name="Mission success!"/>
 	<key id="02000338_BF__MAIN2__1" name="Take the portal!"/>
 	<key id="02000338_BF__MAIN3__0" name="High and open the way for a lot of people"/>
 	<key id="02000338_BF__MAIN3__1" name="Make your way through the low and few people."/>
+	<key id="02000338_BF__MAIN3__2" name="If you need the water, offering a sacrifice!"/>
 	<key id="02000344_BF__MAIN1__0" name="Amazing box : The fourth location"/>
 	<key id="02000344_BF__MAIN1__1" name="Appeared on the scene to shoot a monster aid!"/>	
 	<key id="02000344_BF__MAIN1__2" name="Shortly after starting."/>
@@ -1002,6 +1011,42 @@
 	<key id="02000353_BF__MAIN__3" name="Deep intense echo."/>
 	<key id="02000353_BF__MAIN__4" name="Deep intense echo."/>
 	<key id="02000354_BF__MAIN__1" name="Blue shadow caves  : Shu shu and booth"/>
+	<key id="02010052_BF__BOSS__0" name="You what the hell? Why not come along to me?!"/>
+	<key id="02010052_BF__BOSS__1" name="Come to the crossroads fire ice melt."/>
+	<key id="02010052_BF__BOSS__2" name="Ah, confused. No longer ... Do not ...!"/>
+	<key id="02010052_BF__BOSS__3" name="Come to the crossroads fire ice melt."/>
+	<key id="02010052_BF__BOSS__4" name="Everyone froze. Can&#8217;t go back again."/>
+	<key id="02010052_BF__BOSS__5" name="Come to the crossroads fire ice melt."/>
+	<key id="02010052_BF__BOSS__6" name="In the end, here at the outset. Yes, a human being. I&#8217;m going to let an opponent."/>
+	<key id="02010052_BF__BOSS__7" name="Come to the crossroads fire ice melt."/>
+	<key id="02010052_BF__MAIN__0" name="The frozen garden : The Holy girl"/>
+	<key id="02010052_BF__MAIN__1" name="A human being ...? How long ...?"/>
+	<key id="02010052_BF__MAIN__2" name="Go back to the ... You&#8217;re not a place to come ..!"/>
+	<key id="02010052_BF__MAIN__3" name="How do I find, but would do everything to stop outgoing."/>
+	<key id="02010052_BF__MAIN__4" name="If you could be in danger of no longer comes in."/>
+	<key id="02010052_BF__MAIN__5" name="The demon and the one pane? This freezing?"/>
+	<key id="02010052_BF__MAIN__6" name="No more access to none."/>
+	<key id="02010052_BF__TORCHLIGHT_01__0" name="Come to the crossroads fire ice melt."/>
+	<key id="02010052_BF__TORCHLIGHT_02__0" name="Come to the crossroads fire ice melt."/>
+	<key id="02010052_BF__TORCHLIGHT_03__0" name="Alternate ... Who are you?"/>
+	<key id="02010052_BF__TORCHLIGHT_03__1" name="Why are cerebrum incoming?"/>
+	<key id="02010052_BF__TORCHLIGHT_03__2" name="Come to the crossroads fire ice melt."/>
+	<key id="02010052_BF__TORCHLIGHT_04__0" name="Come to the crossroads fire ice melt."/>
+	<key id="02010052_BF__TORCHLIGHT_04__1" name="Keeps coming for a reason?"/>
+	<key id="02010052_BF__TORCHLIGHT_04__2" name="This is an area of God!"/>
+	<key id="02010052_BF__TORCHLIGHT_05__0" name="Keep incoming?"/>
+	<key id="02010052_BF__TORCHLIGHT_05__1" name="Come to the crossroads fire ice melt."/>
+	<key id="02010052_BF__TORCHLIGHT_05__2" name="Come malran! do not come."/>
+	<key id="02010052_BF__TORCHLIGHT_06__0" name="Come to the crossroads fire ice melt."/>
+	<key id="02010052_BF__BOSS__8" name="I rock da ... Can&#8217;t.\nWere brought to mind can&#8217;t walk like this anymore ...!"/>
+	<key id="02010069_BF__MAIN__1" name="You&#8217;re really stupid. Not so easily deceived ..."/>
+	<key id="02010069_BF__MAIN__2" name="So, I say. I really didn&#8217;t know through the ..."/>
+	<key id="02010069_BF__MAIN__3" name="Anyway, dedicated to offering a quiet for a while ..."/>
+	<key id="02010070_BF__MAIN__1" name="Come along with me. I&#8217;ll guide you to where the gold coins."/>
+	<key id="02010070_BF__MAIN__2" name="Do not look at the truth.\nThen, you can have everything you want."/>
+	<key id="02010070_BF__MAIN__3" name="The eerie laughter can be heard coming out of nowhere ...\nIt&#8217;s a dream, reality."/>
+	<key id="02010070_BF__MAIN__4" name="It does not feel the warmth.\nIt&#8217;s like a fantasy world that exists in the ..."/>
+	<key id="02010070_BF__MAIN__5" name="At the end of a pipe greedy Yen in reality shabby ...\nThe end of calw and obsessive car lust."/>
 	<key id="03000014_AD__IA_113__0" name="Now I have lived!"/>
 	<key id="03000014_AD__IA_114__0" name="Thank you!"/>
 	<key id="03000014_AD__IA_115__0" name="Thought I&#8217;d die heavy bruises!"/>
@@ -1066,6 +1111,7 @@
 	<key id="52000002_QD__STAGE01__0" name="All the broken fence repair."/>
 	<key id="52000002_QD__STAGE02__0" name="Good rescue all of them."/>
 	<key id="52000002_QD__STAGE03__0" name="Jump to the right."/>
+	
 	<key id="52000003_QD__KATVAN_01__0" name="Cart and a half!! Now all done!"/>
 	<key id="52000003_QD__KATVAN_01__1" name="Lennon ...!! Do not think that this is the end!"/>
 	<key id="52000003_QD__KATVAN_01__2" name="Not necessarily back to Board ... I&#8217;ll say extract!"/>
@@ -1192,6 +1238,44 @@
 	<key id="52000022_QD__PATROL01__8" name="In this ... Called to the room ..."/>
 	<key id="52000022_QD__PATROL01__9" name="Where a fie Monster ..."/>
 	<key id="52000022_QD__PATROL01__10" name="… Had to experiment with these things? ..."/>
+	<key id="52010001_QD__MAIN__0" name="NOU ... Who are pregnant or you&#8217;re off the fire"/>
+	<key id="52010001_QD__MAIN__1" name="The embers again ... Taking advantage of ... Resurrect ..."/>
+	<key id="52010001_QD__MAIN__2" name="He ... Gone the way of ... They have to say ..."/>
+	<key id="52010001_QD__MAIN__3" name="Oh ... On the way to glory is a descendant of the light ..."/>
+	<key id="52010001_QD__MAIN__4" name="Gee ... You&#8217;re tired of ..."/>
+	<key id="52010002_QD__MONSTER_01__0" name="On this! Doomed!"/>
+	<key id="52010002_QD__MONSTER_02__0" name="Steve who?"/>
+	<key id="52010002_QD__MONSTER_03__0" name="Sheesh!"/>
+	<key id="52010003_QD__MAIN__0" name="Voila~ I&#8217;m not to late?"/>
+	<key id="52010003_QD__MAIN__1" name="Who is that handsome brother from outside? Tara would like the style ..."/>
+	<key id="52010003_QD__MAIN__2" name="Mika ... Are you Mika! Isn&#8217;t it?"/>
+	<key id="52010003_QD__MAIN__3" name="Uhh? Huh!! I am Mika. Who is the Lady?"/>
+	<key id="52010003_QD__MAIN__4" name="Ah~ Ah ... The Lady ... Lani ... I looked so I Bo ..."/>
+	<key id="52010003_QD__MAIN__5" name="Anyway glad to meet so safe and sound form. \nI can keep my Maple world, Les bras."/>
+	<key id="52010003_QD__MAIN__6" name="Ah~ You are looking for the day that my Lord ... Huh?"/>
+	<key id="52010003_QD__MAIN__7" name="Oh Oops! The thing is clear, said cancellation of the aunts. \nSorry, I missed that."/>
+	<key id="52010003_QD__MAIN__8" name="But I don&#8217;t know why I&#8217;ve found?"/>
+	<key id="52010003_QD__MAIN__9" name="Mika! Now I have to listen to the story."/>
+	<key id="52010003_QD__MAIN__10" name="MU ... Ehh, I do not know what I&#8217;m saying is that one!"/>
+	<key id="52010003_QD__MAIN__11" name="My mom ... Mom why ...!!"/>
+	<key id="52010003_QD__MAIN__12" name="I&#8217;m going to go back right now, because I&#8217;m going to go back to de la Ken!"/>
+	<key id="52010009_QD__MAIN__0" name="Dangerously close, but this is great thanks again."/>
+	<key id="52010009_QD__MAIN__1" name="Phew .... Did take a decade."/>
+	<key id="52010009_QD__MAIN__2" name="The district .... What&#8217;s the big deal were scared the crap out of me."/>
+	<key id="52010013_QD__MAIN__0" name="Hey guys, this guy was a success!"/>
+	<key id="52010013_QD__MAIN__1" name="Tara is in the eye of the beholder only write quite a bit of people."/>
+	<key id="52010013_QD__MAIN__2" name="What the heck? Olivia is a BRO?"/>
+	<key id="52010013_QD__MAIN__3" name="Victoria came up here looking for you guys from Ireland."/>
+	<key id="52010013_QD__MAIN__4" name="Be sure to have your hear Mika, story said, \nTests whether a reliable guy who once played."/>
+	<key id="52010013_QD__MAIN__5" name="Oh, I don&#8217;t know~ Don&#8217;t know what to talk about and hungry.\nLet&#8217;s talk about rice or eating."/>
+	<key id="52010013_QD__MAIN__6" name="Mika ... Room. .. just a snack ..."/>
+	<key id="52010013_QD__MAIN__7" name="Kids! It&#8217;s a snack ... You want to take me an omelet. Let&#8217;s go!"/>
+	<key id="52010013_QD__MAIN__8" name="Huh ... Rumi Eragon this Nye ... The expression Tom ... Phew ..."/>
+	<key id="52010013_QD__MAIN__9" name="Hey new friend! You and our restaurants. \nLet&#8217;s talk back there."/>
+	<key id="52010014_QD__MAIN__0" name="Oh, I?"/>
+	<key id="52010014_QD__MAIN__1" name="Well? Brooding guy? AHU~ Don&#8217;t know, don&#8217;t know, hungry."/>
+	<key id="52010014_QD__MAIN__2" name="Star hearts! Come from an omelet!"/>
+	<key id="52010014_QD__MAIN__3" name="Hugh~ Knew it."/>
 	<key id="61000001_ME_001__MASSIVE00__0" name="Welcome to trap master."/>
 	<key id="61000001_ME_001__MASSIVE00__1" name="Trap master is a game to survive till the end to avoid the pitfalls.\nThe winner can receive goods together with well-known figures."/>
 	<key id="61000001_ME_001__MASSIVE00__2" name="Draw the shape of the cube which disappears.\nIt does not disappear, go to the cube, the last to survive."/>
