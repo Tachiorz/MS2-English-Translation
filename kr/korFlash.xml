@@ -1066,14 +1066,14 @@
   <key id="$s_trade_oppenet_lock" value="List Lock"/>
 
   <!-- construction slot -->
-  <key id="$s_construct_slot_up" value="Back to the"/>
+  <key id="$s_construct_slot_up" value="Up"/>
   <key id="$s_construct_slot_down" value="Down"/>
   <key id="$s_construct_slot_rotate" value="Rotation"/>
   <key id="$s_construct_slot_help" value="Help"/>
-  <key id="$s_construct_slot_remove" value="Recovery"/>
-  <key id="$s_construct_slot_place" value="Installation"/>
+  <key id="$s_construct_slot_remove" value="Recover"/>
+  <key id="$s_construct_slot_place" value="Place"/>
   <key id="$s_construct_slot_exit" value="Exit"/>
-  <key id="$s_construct_slot_next" value="The following items"/>
+  <key id="$s_construct_slot_next" value="Next"/>
 
   <!-- revival -->
   <key id="$s_revival_main" value="The monument was laid."/>
@@ -1102,8 +1102,8 @@
   <key id="$s_myhouseauth_title" value="Public Settings"/>
   <key id="$s_myhouseauth_public_all" value="Full Disclosure"/>
   <key id="$s_myhouseauth_public_part" value="Partial Disclosure"/>
-  <key id="$s_myhouseauth_open_friend" value="Friend public"/>
-  <key id="$s_myhouseauth_open_guild" value="Will the public"/>
+  <key id="$s_myhouseauth_open_friend" value="Public to friends"/>
+  <key id="$s_myhouseauth_open_guild" value="Public to guild"/>
   <key id="$s_myhouseauth_private" value="Private"/>
 
   <!-- maid -->
@@ -1243,7 +1243,7 @@
   <key id="$s_beauty_pay" value="Pay"/>
   
   <key id="$s_beauty_change_style" value="Style change"/> <!--Find change styles-->
-  <key id="$s_beauty_change_color" value="Changing color of"/>  <!--To find the default color change-->
+  <key id="$s_beauty_change_color" value="Change color"/>  <!--To find the default color change-->
   <key id="$s_beauty_none" value="No change"/>
   <key id="$s_beauty_crop" value="Trim"/>
   
@@ -1352,7 +1352,7 @@
 	<key id="$s_itembreak_title" value="Onyx-exhausters NSD-3200" />
 	<key id="$s_itembreak_break" value="To extract the" />
 	<key id="$s_itembreak_retry" value="Back to top" />
-	<key id="$s_itembreak_desc" value="Equipment parts in the Onyx decision items.\nDegradable equipment (20LvPlease put the least)." />
+	<key id="$s_itembreak_desc" value="Equipment parts in the Onyx decision items.\nDegradable equipment (Please put at least 20Lv item)." />
   
   <!-- messagebox-->
   <key id="$s_messagebox_group_name" value="Chat room name" />
@@ -1852,7 +1852,7 @@
 
   <!-- Guestbook -->
   <key id="$s_visitorsbook_title" value="Guestbook"/>
-  <key id="$s_visitorsbook_comment" value="Please leave comments in my guestbook work!"/>
+  <key id="$s_visitorsbook_comment" value="Please leave comments in my guestbook!"/>
   
   <!-- Event -->
   <key id="$s_systemmail_notify_detail" value="See more events"/>
