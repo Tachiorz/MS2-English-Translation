@@ -79,7 +79,10 @@
 	<key id="2077" name="이벤트 상품"/>	
 	
 	<key id="2078" name="광물"/>	
-	
+	<key id="2079" name="악기"/>	
+	<key id="2080" name="악보"/>
+	<key id="2081" name="낚시 도구"/>
+
 	<key id="3000" name="장식용 건물"/>
 	<key id="3001" name="지형"/>
 	<key id="3002" name="인테리어 소품"/>
@@ -202,12 +205,16 @@
 	<key id="9158" name="실외"/>			
 	<key id="9159" name="메이드"/>
 	<key id="9160" name="건물"/>
-	<key id="9163" name="인테리어 공사권"/>	
+	<key id="9166" name="인테리어 공사권"/>	
 
 	<key id="9161" name="메이드 고용"/>
-	<key id="9162" name="쿠폰 사용"/>		
-	
-	<key id="9900" name="남성 의류" />
+	<key id="9162" name="쿠폰 사용"/>
+
+  <key id="9163" name="오른손 무기" />
+  <key id="9164" name="왼손 무기" />
+  <key id="9165" name="양손 무기" />
+
+  <key id="9900" name="남성 의류" />
 	<key id="9901" name="여성 의류" />
 	<key id="9902" name="남여공용 의류" />
 	<key id="9903" name="디자인 큐브" />
@@ -220,11 +227,13 @@
   <key id="9908" name="산타파파의 간식" />
 
   <key id="9999" name="★ 추천"/>	
-	<key id="10000" name="패키지"/>		
-		
-			
+	<key id="10000" name="패키지"/>
 
-<!--블랙마켓 카테고리-->
+
+
+
+
+  <!--블랙마켓 카테고리-->
 	
 	<key id="31000" name="무기" />		
 	<key id="31130" name="둔기" />		

@@ -28,4 +28,7 @@
   <type id="26" name="islandName"/>
   <type id="27" name="attendGift"/>
   <type id="28" name="stringCharacterCreateSelect"/>
+  <type id="29" name="stringFishName"/>
+  <type id="30" name="stringFishDesc"/>
+  <type id="31" name="stringFishDetailDesc"/>
 </ms2>

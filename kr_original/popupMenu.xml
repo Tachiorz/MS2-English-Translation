@@ -26,4 +26,6 @@
 	<key id="501" name="신고하기" />
 	<key id="502" name="그룹 대화"/>
   <key id="503" name="집 방문하기"/>
+  <key id="504" name="펫 정보보기"/>
+  <key id="505" name="펫 소환해제"/>
 </ms2> 

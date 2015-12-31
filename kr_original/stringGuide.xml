@@ -174,8 +174,8 @@
 	<key id="6290" name="[[keyText:B]] 또는 [[keyText:ESC]] 키를 눌러 건설모드 종료하기" voiceID="" />
 	<key id="6300" name='건설 아이템을 구입하세요.\n&lt;font color=&quot;#909090&quot;&gt;자신의 부지나 건물 안에는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;건설 아이템&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 배치할 수 있습니다. 큰 마을에 있는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;건설 상인&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;또는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;원예 상인&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 찾아가거나, 건설모드일 때&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;바니걸의 상점&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에서 구입할 수 있습니다.&lt;/font&gt;' voiceID="" />
 	<key id="6900" name='집으로 귀환했습니다.\n&lt;font color=&quot;#909090&quot;&gt;귀환 장치를 이용하면 집 앞으로&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;귀환&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있습니다. 또한 집 앞에 만들어진&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 이용해&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;귀환하기 전의 장소&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;로 바로 돌아갈 수도 있습니다. 하지만 귀환 장치로 만들어진 포털은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;일정 시간&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;만 유지된다는 점을 잊지마세요.&lt;/font&gt;' voiceID="" />
-	<key id="6901" name='집 계약을 해지했습니다.\n&lt;font color=&quot;#909090&quot;&gt;이제 메이플 월드에 보금자리가 없어졌지만, 새로운 집을 계약할 수 있게 되었습니다. 계약을 해지할 때 설치되어 있던 아이템들은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;이삿짐 보관 창고&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;30일(메럿 및 캐시로 구입한 아이템은 365일)&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;간 보관됩니다.&lt;/font&gt;' voiceID="" />
-	<key id="6902" name='건물을 회수했습니다.\n&lt;font color=&quot;#909090&quot;&gt;실내에 아이템이 배치된 건물을 회수했습니다. 해당 건물의 실내에 배치했던 아이템들은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;이삿짐 보관 창고&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에서&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;30일(메럿 및 캐시로 구입한 아이템은 365일)&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;간 보관합니다. 실내의 아이템들을 먼저 회수하면 창고에 들르는 수고를 줄일 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="6901" name='집 계약을 해지했습니다.\n&lt;font color=&quot;#909090&quot;&gt;이제 메이플 월드에 보금자리가 없어졌지만, 새로운 집을 계약할 수 있게 되었습니다. 계약을 해지할 때 설치되어 있던 아이템들은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;이삿짐 보관 창고&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;90일(메럿 및 캐시로 구입한 아이템은 365일)&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;간 보관됩니다.&lt;/font&gt;' voiceID="" />
+	<key id="6902" name='건물을 회수했습니다.\n&lt;font color=&quot;#909090&quot;&gt;실내에 아이템이 배치된 건물을 회수했습니다. 해당 건물의 실내에 배치했던 아이템들은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;이삿짐 보관 창고&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에서&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;90일(메럿 및 캐시로 구입한 아이템은 365일)&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;간 보관합니다. 실내의 아이템들을 먼저 회수하면 창고에 들르는 수고를 줄일 수 있습니다.&lt;/font&gt;' voiceID="" />
 	<key id="6903" name="건설 아이템 구입하기" voiceID="" />
 	<key id="6904" name='새로운 부동산을 계약해 보세요.\n&lt;font color=&quot;#00a2ed&quot;&gt;저렴한 보급형 공동주택&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이 있는 에반스빌, 가막새 마을, 아일린 타운, 수정 광산 마을, 골두스 뉴타운 등을 방문해 보는 건 어떨까요? 좀더 자세한 정보를 알고 싶다면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;메이뷰 부동산&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 활용해 보세요.&lt;/font&gt;' voiceID="" />
 	<key id="7000" name='메이드를 고용해 보세요.\n&lt;font color=&quot;#909090&quot;&gt;집을 비워두기 싫다면,&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;트라이아&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에서&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;타바사&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 만나거나&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;바니걸의 상점&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에 들러 메이드를 고용해 보세요.&lt;/font&gt;\n&lt;font color=&quot;#909090&quot;&gt;좀 더 특별한 메이드를 찾는다면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;메럿 마켓&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 방문하셔도 좋습니다.&lt;/font&gt;' voiceID="" />
@@ -227,7 +227,7 @@
 	<key id="10150" name='20레벨 이상의 장비를 분해해 오닉스 결정을 추출합니다.\n&lt;font color=&quot;#00a2ed&quot;&gt;오닉스 결정은 무기나 방어구 아이템을 인챈트할 때 사용하는 필수 재료&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이며, 분해하는 아이템의 등급과 판매 가격에 따라 추출되는 오닉스 결정의 개수가 달라집니다.&lt;/font&gt;' voiceID="" />
 	<key id="10160" name='상점에 진열된 아이템을 교체할 수 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;상점에 마음에 드는 아이템이 없거나 배송 트럭을 기다리기 지루하다면,&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;&apos;즉시 입고&apos; 버튼을 눌러보세요.&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;단, &apos;즉시 입고&apos; 기능을 사용하면 수수료가 부과됩니다.&lt;/font&gt;' voiceID="" />
 	<key id="10161" name="판매 목록을 즉시 교체하기" voiceID="" />
-	<key id="10170" name='이삿짐 보관 창고에 보관 중인 아이템이 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;집을 판매하거나 계약 기간이 만료되면 집에 설치, 보관했던 아이템은 이삿짐 보관 창고에 보관됩니다.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;보관 기간은 30일(메럿 및 캐시로 구입한 아이템은 365일)&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이며, 기간 내에 찾아가지 않은 아이템은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;자동 폐기&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;됩니다.&lt;/font&gt;' voiceID="" />
+	<key id="10170" name='이삿짐 보관 창고에 보관 중인 아이템이 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;집을 판매하거나 계약 기간이 만료되면 집에 설치, 보관했던 아이템은 이삿짐 보관 창고에 보관됩니다.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;보관 기간은 90일(메럿 및 캐시로 구입한 아이템은 365일)&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이며, 기간 내에 찾아가지 않은 아이템은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;자동 폐기&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;됩니다.&lt;/font&gt;' voiceID="" />
 	<key id="10180" name='블랙마켓에서는 아이템을 판매 혹은 구매할 수 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;블랙마켓에서의 모든 거래는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;트레이더를 통해&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;은밀하게 이뤄집니다. 판매자와 구매자의 신원은 비밀이 보장되며, 엑설런트 이상 등급의 아이템도 거래가 가능합니다.&lt;/font&gt;' voiceID="" />
 	<key id="10190" name='잘못을 저지르면 벨마의 심판을 받게 됩니다.\n&lt;font color=&quot;#909090&quot;&gt;다른 친구들의 플레이를 방해하는 잘못을 반복해서 저지르면,&lt;/font&gt;\n&lt;font color=&quot;#00a2ed&quot;&gt;일정 시간 동안 채팅, UGC 이용 등이 제한&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;됩니다.\n이때&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;감옥에서 반성의 노역&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 하면 제재 시간이 단축됩니다.&lt;/font&gt;' voiceID="" />
 	<key id="10200" name='쉐도우 월드의 무법지대에서는 사방을 주시해야 합니다.\n&lt;font color=&quot;#909090&quot;&gt;쉐도우 월드는 사악한 악마 투르카가 지배하는 세상으로, 안전지대와 무법지대로 나눠져 있습니다.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;라펜타의 보호 없이 무법지대에 들어서면 다른 친구들의 사냥감&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이 될 수 있으니 주의가 필요합니다.&lt;/font&gt;' voiceID="" />
@@ -262,6 +262,17 @@
 	<key id="10430" name='SP 구슬을 주웠습니다.\n&lt;font color=&quot;#909090&quot;&gt;SP 구슬은 몬스터가 떨구며, 가까이 가면 자동으로 주울 수 있습니다.\nSP 구슬을 주우면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;SP 회복 스킬을 사용하지 않고도 일정량의 SP를 즉시 회복&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;시킬 수 있습니다.&lt;/font&gt;' voiceID="" />
 	<key id="10440" name='EP 구슬을 주웠습니다.\n&lt;font color=&quot;#909090&quot;&gt;EP 구슬은 부서지는 사물을 부서트리거나, 필드의 엘리트 및 보스 몬스터를 때리면 등장합니다. EP 구슬을 주우면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;EP 회복 시간을 기다릴 필요 없이 일정량의 EP를 즉시 회복&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;시킬 수 있습니다.&lt;/font&gt;' voiceID="" />
 	<key id="10470" name='미니맵에서 물음표를 찾아보세요.\n&lt;font color=&quot;#909090&quot;&gt;Tab키를 눌러 미니맵을 확장해 보세요.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;퀘스트를 완료할 수 있는 NPC의 위치&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 쉽게 확인할 수 있습니다. 또한&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;느낌표가 표시된 위치에는 시작 가능한 퀘스트를 지닌 NPC&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;가 있다는 것도 함께 알아두세요.&lt;/font&gt;' voiceID="" />
+	<key id="10480" name='물고기를 낚아보세요\n&lt;font color=&quot;#909090&quot;&gt;물고기를 낚으면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;낚시 숙련도&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;와&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;경험치&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 획득합니다.\n단, 높은 단계의 낚시터에서 잡히는 물고기일수록 여러 번 잡아야 숙련도를 올릴 수 있습니다.&lt;/font&gt;' voiceID="" />
+	<key id="10481" name="낚시 도감 보기" voiceID="" />
+	<key id="10490" name='새로운 음악을 작곡해 보세요.\n&lt;font color=&quot;#00a2ed&quot;&gt;메이플스토리2의 음악 코드&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 이용해서 작곡할 수 있습니다.\n작곡 방법에 대한 자세한 내용을 확인하려면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;화살표 위치의 도움말&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 클릭해 보세요.&lt;/font&gt;' voiceID="" />
+	<key id="10491" name="작곡 방법 자세히 보기" voiceID="" />
+	<key id="10501" name="소지품 창 열어 악기 확인하기" voiceID="" />
+	<key id="10502" name="기타 탭 클릭" voiceID="" />
+	<key id="10503" name="더블클릭해 연주 창 열기" voiceID="" />
+	<key id="10510" name='악기 연주를 해 보세요.\n&lt;font color=&quot;#909090&quot;&gt;연주의 종류에는 건반을 눌러 악보 없이 바로 연주할 수 있는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;즉흥 연주&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;와 악보대로 연주하는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;악보 연주&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;가 있습니다. 악보 연주를 위해서는 소지품 창에 있는 악보를 악기 연주 창에 올려야 합니다.&lt;/font&gt;' voiceID="" />
+	<key id="10520" name="소지품 창 열어 낚싯대 확인하기" voiceID="" />
+	<key id="10521" name="기타 탭 클릭" voiceID="" />
+	<key id="10522" name="물가에서 더블클릭하거나\n퀵슬롯에 올려 사용할 수 있습니다." voiceID="" />
 	<key id="20000" name='모두 함께 볼 수 있는 전광판입니다.\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드 곳곳에 배치되어 있는 전광판에서는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;원하는 날짜와 시간을 예약&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;해&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;자신이 등록한 사진&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 모두 함께 볼 수 있습니다. 하지만 다른 사람이 먼저 예약한 시간에는 자신의 사진을 예약할 수 없습니다.&lt;/font&gt;' voiceID="" />
 	<key id="20001" name='모두 함께 볼 수 있는 벽보입니다.\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드 곳곳에 배치되어 있는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;벽보&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에는 저렴한 비용으로&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;누구나 자유롭게&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;사진을 붙일 수 있습니다. 하지만&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;새로운 사진이 등록되면 이전의 사진은 사라진다&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;는 점을 명심하세요.&lt;/font&gt;' voiceID="" />
 	<key id="20010" name='프로필을 등록하세요.\n&lt;font color=&quot;#909090&quot;&gt;자신의 개성을 뽐낼 수 있는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;프로필&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 등록할 수 있습니다.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;PC에 보관하고 있던 사진&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;도 좋고&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;프로필 카메라로 촬영한 사진&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;도 좋습니다. 남들과 다른 자신을 표현해 보세요.&lt;/font&gt;' voiceID="" />
@@ -447,16 +458,32 @@
 	<key id="20003313" name="발자국을 따라가서 친구를 찾아 보세요." voiceID="" />
 	<key id="20003314" name="주변에서 레버를 찾아 당겨 보세요." voiceID="" />
 	<key id="20003315" name="갇혀 있는 $npc:11001172$$pp:를,을$ 구해 주세요." voiceID="" />
+	<key id="20003381" name="몬스터를 모두 처치해서 스위치를 활성화 시키세요." voiceID="" />
+	<key id="20003382" name="스위치를 작동 시키세요." voiceID="" />
+	<key id="20003383" name='[[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;을 타고 이동하세요!' voiceID="" />
+	<key id="20003384" name="윗길 아랫길 둘로 나누어 몬스터를 모두 처치하세요." voiceID="" />
+	<key id="20003385" name='화가난 &lt;font color=&quot;#00a2ed&quot;&gt;$npc:24001309$&lt;/font&gt;가 제물을 요구합니다.' voiceID="" />
 	<key id="20003491" name="뒤엉킨 어둠의 뿌리가 점점 풀리고 있습니다." voiceID="" />
 	<key id="20003492" name='검은 뿌리 덩굴 속에 갇힌 &lt;font color=&quot;#00a2ed&quot;&gt;요정&lt;/font&gt;을 구해주세요.' voiceID="" />
 	<key id="20003493" name='[[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;을 타고 이동하세요.' voiceID="" />
 	<key id="20003494" name="칠흑 속에 숨겨진 &lt;font color=&apos;#e91945&apos;&gt;어둠의 씨앗&lt;/font&gt;을 모두 제거하세요." voiceID="" />
 	<key id="20003495" name='검은 뿌리 덩굴 속에 갇힌 &lt;font color=&quot;#00a2ed&quot;&gt;레논&lt;/font&gt;을 구해주세요.' voiceID="" />
+	<key id="20100691" name="바위를 조사해 보세요." voiceID="" />
 	<key id="20100701" name="화살표를 따라 이동하세요." voiceID="" />
-	<key id="20100702" name="몰려오는 몬스터를 모두 처치하세요!" voiceID="" />
-	<key id="20100703" name="숲을 오염시키는 주범 카칼프$pp:를,을$ 처치하세요." voiceID="" />
+	<key id="20100702" name="욕망이 불러낸 몬스터를 모두 처치해야 합니다." voiceID="" />
+	<key id="20100703" name='환상을 만든 미치광이 환영술사 &lt;font color=&quot;#00a2ed&quot;&gt;$npc:24001904$&lt;/font&gt;$pp:를,을$ 처치하세요.' voiceID="" />
 	<key id="20100704" name="사원 가운데 화살표가 있는 곳으로 이동하세요." voiceID="" />
 	<key id="20100705" name='[[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;을 타고 이동하세요.' voiceID="" />
+	<key id="20100706" name="바니걸을 따라 이동하세요." voiceID="" />
+	<key id="20100707" name="테이블 위에 있는 금화를 획득하세요." voiceID="" />
+	<key id="20100708" name="욕망이 불러낸 몬스터를 모두 처치해야 합니다." voiceID="" />
+	<key id="20100709" name="로비에 등장한 몬스터를 모두 처치하세요!" voiceID="" />
+	<key id="20105401" name="별빛을 밝혀 몸을 가볍게 합시다." voiceID="" />
+	<key id="20105402" name="몸이 가벼워졌습니다." voiceID="" />
+	<key id="20105403" name='어둠의 힘을 품은 &lt;font color=&quot;#00a2ed&quot;&gt;마력의 구슬&lt;/font&gt;을 파괴하세요.' voiceID="" />
+	<key id="20105404" name="그라즈나에게 접근할 수 있게 되었습니다." voiceID="" />
+	<key id="20105405" name="몸이 다시 무거워졌습니다." voiceID="" />
+	<key id="20105406" name="안전하게 움직이기 위해 몸을 원래 상태로 되돌리세요." voiceID="" />
 	<key id="25200201" name='&lt;font color=&quot;#00a2ed&quot;&gt;레버&lt;/font&gt;를 당기세요.' voiceID="" />
 	<key id="25200202" name="잘했습니다. 이제 오른쪽으로 이동하세요." voiceID="" />
 	<key id="25200203" name='[[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;을 타고 에반스빌로 이동하세요.' voiceID="" />
@@ -474,6 +501,19 @@
 	<key id="25200409" name="배고픈 꿀꿀이들을 조심하세요." voiceID="" />
 	<key id="26100001" name="잠시 후에 시작합니다." voiceID="" />
 	<key id="26100002" name="다른 친구들이 올 때까지 조금만 기다려주세요." voiceID="" />
+	<key id="20003361" name='&lt;font color=&quot;#00a2ed&quot;&gt;$npc:24001505$&lt;/font&gt;$pp:를,을$ 처치하세요.' voiceID="" />
+	<key id="20003362" name="다음 구역으로 이동할 수 있습니다." voiceID="" />
+	<key id="20003363" name='&lt;font color=&quot;#00a2ed&quot;&gt;레버&lt;/font&gt;를 조작하여 드럼통을 폭파시키세요.' voiceID="" />
 	<key id="20003371" name='&lt;font color=&quot;#00a2ed&quot;&gt;기관실&lt;/font&gt; 내부로 이동하세요.' voiceID="" />
-	<key id="20003372" name='&lt;font color=&quot;#00a2ed&quot;&gt;레버&lt;/font&gt;를 조작하여 열차를 정지시키세요' voiceID="" />
+	<key id="20003372" name='&lt;font color=&quot;#00a2ed&quot;&gt;레버&lt;/font&gt;를 조작하여 열차를 정지시키세요.' voiceID="" />
+	<key id="20105201" name='&lt;font color=&quot;#00a2ed&quot;&gt;화로&lt;/font&gt;를 공격하여 불을 붙이세요.' voiceID="" />
+	<key id="20105202" name='&lt;font color=&quot;#00a2ed&quot;&gt;$npc:21800073$&lt;/font&gt;$pp:를,을$ 쫓아가세요.' voiceID="" />
+	<key id="20105203" name='&lt;font color=&quot;#00a2ed&quot;&gt;$npc:24001802$&lt;/font&gt;$pp:를,을$ 처치하세요.' voiceID="" />
+	<key id="20105204" name='길이 막혔습니다. &lt;font color=&quot;#00a2ed&quot;&gt;화로&lt;/font&gt;를 찾아보세요.' voiceID="" />
+	<key id="20104901" name="벌레떼가 모여들고 있습니다." voiceID="" />
+	<key id="20104902" name="달려드는 벌레들을 모두 처치하세요." voiceID="" />
+	<key id="20104903" name="안 쪽에 벌레들이 더 있습니다." voiceID="" />
+	<key id="20104904" name="화장실 악취에는 벌레도 기절합니다." voiceID="" />
+	<key id="20105101" name="빛의 힘으로 루미스톤 밝히기" voiceID="" />
+	<key id="52010901" name="수리공이 숨어있는 컨테이너를 찾으세요." voiceID="" />
 </ms2>

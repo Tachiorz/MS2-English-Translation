@@ -642,7 +642,10 @@
 	<key id="40234001" level="1" name="차가운 꾹꾹이" tooltipDescription="얼음처럼 차가운 앞 발 공격에 몸이 굳었습니다!\n이동속도 40% 감소" />
 	<key id="40319001" level="1" name="불 덩어리 공격" tooltipDescription="화염이 온 몸을 휘감고 있습니다!\n지속적으로 화염 대미지" />
 	<key id="40339011" level="1" name="침묵" tooltipDescription="스킬 사용 불가" />
-	<key id="49018001" level="1" name="저주하는 바람" tooltipDescription="저주로 인해 힘을 제대로 쓸 수 없습니다…\n물리 공격력, 마법 공격력 30% 감소\n방어력 30% 감소\n이동속도 50% 감소" />
+	<key id="49016001" level="1" name="강화하는 천둥" tooltipDescription="우레우스가 강해집니다.\n 5회 중첩되면 천둥의 가호가 발동합니다." />
+	<key id="49016011" level="1" name="천둥의 가호" tooltipDescription="일정 시 동안 무적이 됩니다." />
+	<key id="49018001" level="1" name="저주하는 바람" tooltipDescription="저주로 인해 힘을 제대로 쓸 수 없습니다.\n이동속도 감소\n5회 중첩되면 완성된 저주가 발동합니다." />
+	<key id="49018002" level="1" name="완성된 저주" tooltipDescription="스킬과 아이템을 사용할 수 없습니다." />
 	<key id="49021011" level="1" name="죽음의 속박" tooltipDescription="속박되어 행동 불가" />
 	<key id="49022011" level="1" name="충격" tooltipDescription="기절하여 행동 불가" />
 	<key id="49025011" level="1" name="토끼의 저주" tooltipDescription="토끼가 부린 마법에 몸이 작아졌습니다!\n신체 사이즈 50% 축소\n물리 공격력, 마법 공격력 99% 감소\n방어력 40% 감소" />
@@ -663,6 +666,11 @@
 	<key id="49125001" level="1" name="슬라임 폭발" tooltipDescription="슬라임이 사망하면 시체에서 폭발이 일어납니다." />
 	<key id="49148021" level="1" name="고대 신의 공포" tooltipDescription="일정 시간 동안 이동속도가 감소하고 EP가 0이 됩니다." />
 	<key id="49149021" level="1" name="슬로우" tooltipDescription="일정 시간 동안 이동속도가 감소" />
+	<key id="49161001" level="1" name="성소의 혹한" tooltipDescription="일정시간 동안 이동속도가 감소합니다. \n 수정 계열 발사체에 맞으면 얼음에 갇힙니다." />
+	<key id="49161002" level="1" name="수정의 속박" tooltipDescription="얼음에 갇혀 일정 시간 동안 행동이 불가합니다." />
+	<key id="49164011" level="1" name="혼란" tooltipDescription="정신을 차릴 수가 없습니다!\n상하와 좌우 방향이 반대로 동작" />
+	<key id="49165001" level="1" name="정신지배" tooltipDescription="악에 지배당해 동료를 공격할 수 있습니다." />
+	<key id="49165002" level="1" name="정신지배" tooltipDescription="잠시 후 동료를 공격할 수 있습니다." />
 	<key id="50000001" level="1" name="중독" tooltipDescription="지속적으로 독 대미지" />
 	<key id="50000002" level="1" name="중독" tooltipDescription="지속적으로 독 대미지" />
 	<key id="50000003" level="1" name="중독" tooltipDescription="지속적으로 독 대미지" />
@@ -712,6 +720,7 @@
 	<key id="50000158" level="1" name="이동속도 저하" tooltipDescription="이동속도 30% 감소" />
 	<key id="50000170" level="1" name="물감옥" tooltipDescription="물감옥에 갇혀 이동 불가" />
 	<key id="50000171" level="1" name="물감옥" tooltipDescription="물감옥에 갇혀 이동 불가" />
+	<key id="50000172" level="1" name="물감옥" tooltipDescription="물감옥에 갇혀 이동 불가" />
 	<key id="50000190" level="1" name="공포" tooltipDescription="STR, DEX, INT, LUK 50% 감소\n이동속도 40% 감소" />
 	<key id="50000191" level="1" name="의욕저하" tooltipDescription="STR, DEX, INT, LUK 50% 감소\n이동속도 40% 감소" />
 	<key id="50000192" level="1" name="지독한 저주" tooltipDescription="지속적으로 독 대미지 \n이동속도 40% 감소\n명중률 60% 감소" />
@@ -784,6 +793,8 @@
 	<key id="50000354" level="1" name="체력 회복" tooltipDescription="지속적으로 HP 회복" />
 	<key id="50000355" level="1" name="체력 회복" tooltipDescription="지속적으로 HP 회복" />
 	<key id="50000356" level="1" name="체력 회복" tooltipDescription="지속적으로 HP 회복" />
+	<key id="50000357" level="1" name="체력 회복" tooltipDescription="지속적으로 HP 회복" />
+	<key id="50000358" level="1" name="체력 회복" tooltipDescription="지속적으로 HP 회복" />
 	<key id="50000402" level="1" name="이동속도 감소" tooltipDescription="이동속도 30% 감소" />
 	<key id="50000403" level="1" name="공격력 감소" tooltipDescription="물리 공격력, 마법 공격력 60% 감소" />
 	<key id="50000404" level="1" name="치명적인 상처" tooltipDescription="지속적으로 물리 대미지" />
@@ -1004,10 +1015,15 @@
 	<key id="60068061" level="1" name="충전된 우르스카" tooltipDescription="우르스카가 번개를 충전하였습니다!" />
 	<key id="60069042" level="1" name="바위 던지기" tooltipDescription="기절하여 행동 불가" />
 	<key id="60071001" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
-	<key id="60071071" level="1" name="신경 마비" tooltipDescription="일정시간 동안 스킬 사용불가\n이동속도 증가" />
+	<key id="60071071" level="1" name="신경 마비" tooltipDescription="일정 시간 동안 스킬 사용불가\n이동속도 증가" />
 	<key id="60071092" level="1" name="폭발 경고" tooltipDescription="일정 시간 이후 자폭시스템이 가동합니다." />
 	<key id="60076002" level="1" name="잭오랜턴의 속박" tooltipDescription="잭오랜턴의 장난으로 몸이 작아지지만 이동속도가 비약적으로 상승합니다." />
 	<key id="60076021" level="1" name="유령마의 저주" tooltipDescription="저주에 걸려 스킬이 사용불가 하지만 일반 공격은  \n사용 가능합니다.  \n물리 공격력과 마법 공격력이 2배가 됩니다." />
+	<key id="60093001" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
+	<key id="60093011" level="1" name="혼란" tooltipDescription="정신을 차릴 수가 없습니다!\n상하와 좌우 방향이 반대로 동작" />
+	<key id="60093031" level="1" name="치유" tooltipDescription="일정 시간 동안 체력을 회복합니다." />
+	<key id="60093051" level="1" name="정신지배" tooltipDescription="악에 지배당해 동료를 공격할 수 있습니다." />
+	<key id="60093052" level="1" name="정신지배" tooltipDescription="잠시 후 동료를 공격할 수 있습니다." />
 	<key id="70000007" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
 	<key id="70000010" level="1" name="중독" tooltipDescription="독액에 중독되었습니다!\n매 초마다 최대 HP의 1% 감소" />
 	<key id="70000010" level="2" name="중독" tooltipDescription="독액에 중독되었습니다!\n매 초마다 최대 HP의 3% 감소" />
@@ -1023,7 +1039,7 @@
 	<key id="70000022" level="1" name="치명적인 그림자의 독기" tooltipDescription="이 땅은 그림자에 오염되었습니다!\n매 초마다 독 대미지" />
 	<key id="70000022" level="2" name="치명적인 그림자의 독기" tooltipDescription="이 땅은 그림자에 오염되었습니다!\n매 초마다 독 대미지" />
 	<key id="70000023" level="1" name="이동속도 저하" tooltipDescription="이동속도 45% 감소" />
-	<key id="70000027" level="1" name="그림자의 힘" tooltipDescription="그림자의 기운이 몸속에 스며들었습니다!\n최대 HP 680% 증가\nPvP 시 장비의 인챈트 효과 보정" />
+	<key id="70000027" level="1" name="그림자의 힘" tooltipDescription="그림자의 기운이 몸속에 스며들었습니다!\n최대 HP 910% 증가\nPvP 시 장비의 인챈트 효과 보정" />
 	<key id="70000028" level="1" name="그림자의 지배" tooltipDescription="쉐도우 월드의 사악한 기운이 온몸을 지배합니다.\n그림자의 지배를 받고 있는 동안 메이플 월드에서 \n쉐도우 월드로 재진입할 수 없습니다." />
 	<key id="70000029" level="1" name="라펜타의 보호" tooltipDescription="라펜타의 기운이 몸을 감싸고 있습니다.\n라펜타의 보호가 유지되는 동안\n다른 캐릭터와 싸울 수 없습니다." />
 	<key id="70000030" level="1" name="라펜타의 보호 지우기" tooltipDescription="분노의 신단에 말을 걸어 라펜타의 보호를 수동으로 지우는 스킬" />
@@ -1036,6 +1052,7 @@
 	<key id="70000044" level="1" name="영혼의 등불" tooltipDescription="영혼의 등불을 흡수하여 혼령이 되었습니다\n영혼의 등불이 사라지면\n영혼의 차원에서 버틸 수 없습니다" />
 	<key id="70000046" level="1" name="중독" tooltipDescription="매 초마다 독 대미지" />
 	<key id="70000050" level="1" name="신경 마비 독" tooltipDescription="매 초마다 이동속도 5% 감소\n매 초마다 최대 HP의 0.25% 씩 감소\n최대 20회까지 중첩" />
+	<key id="70000054" level="1" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 10의 물리 대미지" />
 	<key id="70000056" level="1" name="공격력 감소" tooltipDescription="물리 공격력, 마법 공격력 99% 감소" />
 	<key id="70000056" level="2" name="공격력 감소" tooltipDescription="물리 공격력, 마법 공격력 70% 감소" />
 	<key id="70000058" level="1" name="생명의 바람" tooltipDescription="생명의 기운을 받았습니다\n이동속도 150% 증가" />
@@ -1059,11 +1076,13 @@
 	<key id="70000067" level="3" name="쿰바왕카의 행운" tooltipDescription="쿰바왕카인의 기운이 강하게 느껴집니다.\n즐거운 행운이 따를 것 같습니다.\n보스 몬스터로부터 장비 아이템을\n획득할 확률이 크게 증가합니다." />
 	<key id="70000067" level="4" name="쿰바왕카의 행운" tooltipDescription="특별한 쿰바왕카인의 기운이 강하게 느껴집니다.\n즐거운 행운이 따를 것 같습니다.\n보스 몬스터로부터 장비 아이템을\n2배로 획득합니다." />
 	<key id="70000068" level="1" name="하스터즈 룬" tooltipDescription="전설의 명사수 하스터의 기운에 몸이 가벼워집니다.\n이동속도 5초간 200% 증가" />
-	<key id="70000071" level="1" name="죽음의 그림자" tooltipDescription="강력한 어둠이 파고들어 죽음의 길로 인도합니다. \n아이템과 스킬의 회복량이 10% 감소" />
-	<key id="70000071" level="2" name="죽음의 그림자" tooltipDescription="강력한 어둠이 파고들어 죽음의 길로 인도합니다. \n아이템과 스킬의 회복량이 20% 감소" />
-	<key id="70000071" level="3" name="죽음의 그림자" tooltipDescription="강력한 어둠이 파고들어 죽음의 길로 인도합니다. \n아이템과 스킬의 회복량이 50% 감소" />
-	<key id="70000071" level="4" name="죽음의 그림자" tooltipDescription="강력한 어둠이 파고들어 죽음의 길로 인도합니다. \n아이템과 스킬의 회복량이 80% 감소" />
-	<key id="70000071" level="5" name="죽음의 그림자" tooltipDescription="강력한 어둠이 파고들어 죽음의 길로 인도합니다. \n아이템과 스킬의 회복량이 95% 감소" />
+	<key id="70000071" level="1" name="죽음의 그림자" tooltipDescription="강력한 어둠이 파고들어 죽음의 길로 인도합니다.\n아이템과 스킬의 회복량이 10% 감소" />
+	<key id="70000071" level="2" name="죽음의 그림자" tooltipDescription="강력한 어둠이 파고들어 죽음의 길로 인도합니다.\n아이템과 스킬의 회복량이 20% 감소" />
+	<key id="70000071" level="3" name="죽음의 그림자" tooltipDescription="강력한 어둠이 파고들어 죽음의 길로 인도합니다.\n아이템과 스킬의 회복량이 50% 감소" />
+	<key id="70000071" level="4" name="죽음의 그림자" tooltipDescription="강력한 어둠이 파고들어 죽음의 길로 인도합니다.\n아이템과 스킬의 회복량이 80% 감소" />
+	<key id="70000071" level="5" name="죽음의 그림자" tooltipDescription="강력한 어둠이 파고들어 죽음의 길로 인도합니다.\n아이템과 스킬의 회복량이 95% 감소" />
+	<key id="70000074" level="1" name="혼란" tooltipDescription="정신을 차릴 수가 없습니다!\n상하와 좌우 방향이 반대로 동작" />
+	<key id="70000076" level="1" name="치명적인 그림자의 독기" tooltipDescription="이 땅은 그림자에 오염되었습니다!\n매 초마다 독 대미지" />
 	<key id="81000001" level="1" name="파란 페인트" tooltipDescription="페인트 범벅이 되었습니다" />
 	<key id="81000031" level="1" name="정체 불명의 오이맛 칵테일" tooltipDescription="강렬한 오이의 향에 취합니다" />
 	<key id="81000051" level="1" name="테리의 항해 계획표" tooltipDescription="의지가 넘칩니다" />
@@ -1245,17 +1264,19 @@
 	<key id="90000252" level="1" name="기념품 효과" tooltipDescription="다크 스트림에서 회피 20 증가" />
 	<key id="90000253" level="1" name="요정의 샘물" tooltipDescription="회피 1000 증가, $map:02000350$에서만 효과 적용" />
 	<key id="90000254" level="1" name="요정의 눈물" tooltipDescription="방어력 1000 증가, $map:02000350$에서만 효과 적용" />
-	<key id="90000262" level="1" name="지렁이 미끼" tooltipDescription="노멀, 레어 물고기 낚시 성공 확률 10% 증가" />
-	<key id="90000263" level="1" name="신선한 미끼" tooltipDescription="노멀, 레어, 엘리트 물고기 낚시 성공 확률 10% 증가" />
-	<key id="90000264" level="1" name="화려한 미끼" tooltipDescription="노멀, 레어, 엘리트 물고기 낚시 성공 확률 20% 증가" />
-	<key id="90000265" level="1" name="번쩍이는 미끼" tooltipDescription="모든 등급의 물고기 낚시 성공 확률 20% 증가" />
-	<key id="90000266" level="1" name="맛있는 미끼" tooltipDescription="엘리트, 엑설런트 물고기가 모여들 확률 증가" />
-	<key id="90000267" level="1" name="왕지렁이 미끼" tooltipDescription="월척 급의 큰 물고기가 모여들 확률 증가" />
-	<key id="90000268" level="1" name="스트라이프 웜" tooltipDescription="알리카르 감옥 물고기가 모여들 확률 증가" />
-	<key id="90000269" level="1" name="초롱 미끼" tooltipDescription="달빛선장의 요새 물고기가 모여들 확률 증가" />
-	<key id="90000270" level="1" name="불지렁이 미끼" tooltipDescription="용암의 물고기가 모여들 확률 증가" />
-	<key id="90000271" level="1" name="데빌 스파이더" tooltipDescription="저주받은 물고기가 모여들 확률 증가" />
+	<key id="90000262" level="1" name="실지렁이 미끼" tooltipDescription="노멀, 레어 물고기 낚시 성공 확률 10% 증가" />
+	<key id="90000263" level="1" name="지렁이 미끼" tooltipDescription="노멀, 레어, 엘리트 물고기 낚시 성공 확률 10% 증가" />
+	<key id="90000264" level="1" name="통통한 지렁이 미끼" tooltipDescription="노멀, 레어, 엘리트 물고기 낚시 성공 확률 20% 증가" />
+	<key id="90000265" level="1" name="왕지렁이 미끼" tooltipDescription="모든 등급의 물고기 낚시 성공 확률 20% 증가" />
+	<key id="90000266" level="1" name="고깃덩이 미끼" tooltipDescription="엘리트, 엑설런트 물고기가 모여들 확률 10% 증가" />
+	<key id="90000267" level="1" name="알록달록 사탕 미끼" tooltipDescription="대형 물고기가 모여들 확률 5% 증가" />
+	<key id="90000268" level="1" name="프리즈너 웜" tooltipDescription="알리카르 감옥의 희귀 물고기 낚시 성공 확률 증가" />
+	<key id="90000269" level="1" name="초롱 미끼" tooltipDescription="달빛선장의 요새의 희귀 물고기 낚시 성공 확률 증가" />
+	<key id="90000270" level="1" name="불지렁이 미끼" tooltipDescription="아주 뜨거운 용암의 희귀 물고기 낚시 성공 확률 증가" />
+	<key id="90000271" level="1" name="데빌 스파이더" tooltipDescription="그림자 군단의 사악한 힘이 미치는 지역의 \n희귀 물고기 낚시 성공 확률 증가" />
 	<key id="90000273" level="1" name="크리스마스 지팡이 캔디" tooltipDescription="매 초마다 HP 150 회복" />
+	<key id="90000277" level="1" name="용기의 증거" tooltipDescription="(노멀) 얼어붙은 성소, 환상 피라미드, 트로닉스\n벙커, 블랙노프호, 버려진 물놀이터에서\n물리/마법 대미지 10% 증가" />
+	<key id="90000278" level="1" name="용맹의 증거" tooltipDescription="(카오스) 달빛선장의 요새, 그림자 군단의 제단\n(노멀) 바라스카 얼음굴, 푸른 그림자 동굴\n카사 델 루나, 피라타로스, 미궁의 집회당에서\n물리/마법 대미지 10% 증가" />
 	<key id="90001001" level="1" name="트라이아에서 이동속도 5% 증가" tooltipDescription="트라이아에서 이동속도 5% 증가" />
 	<key id="90001002" level="1" name="투쟁의 의지" tooltipDescription="HP 증가, 유저간 전투에서 경직에 면역\nPvP 시 장비의 인챈트 효과 보정" />
 	<key id="90001005" level="1" name="1번입니다" tooltipDescription="1번입니다" />
@@ -1273,7 +1294,7 @@
 	<key id="90030531" level="1" name="타격 시 일정 확률로 자신의 HP를 흡수당함" />
 	<key id="90030541" level="1" name="타격 시 일정 확률로 자신의 HP를 흡수당함" />
 	<key id="90030551" level="1" name="STR, DEX, INT, LUK 25% 감소" />
-	<key id="90030561" level="1" name="STR,DEX, INT, LUK 50% 감소" />
+	<key id="90030561" level="1" name="STR, DEX, INT, LUK 50% 감소" />
 	<key id="90030571" level="1" name="타격 시 일정 확률로 10초 간 모든 공격력 20 증가" />
 	<key id="90030572" level="1" name="카트반의 뿔" tooltipDescription="물리, 마법 공격력 20 증가" />
 	<key id="90030581" level="1" name="피격 시 일정 확률로 3초 간 이동속도 15% 증가" />
@@ -1306,7 +1327,115 @@
 	<key id="90800002" level="1" name="중독" tooltipDescription="대미지의 20%만큼 중독 효과" />
 	<key id="90800011" level="1" name="타격 시 10% 확률로 이동속도 증가" tooltipDescription="타격 시 10% 확률로 이동속도 증가" />
 	<key id="90800012" level="1" name="이동속도 증가" tooltipDescription="이동속도 스탯 300% 증가" />
-	<key id="91000001" level="1" name="카운터 발동 시 SP 3 회복" />
+	<key id="90050211" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 17% 증가" />
+	<key id="90050221" level="1" name="타격 시 10% 확률로 30초 동안 물리/마법 공격력 22% 증가" />
+	<key id="90050231" level="1" name="타격 시 14% 확률로 30초 동안 물리/마법 공격력 22% 증가" />
+	<key id="90050241" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 17% 증가" />
+	<key id="90050251" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 22% 증가" />
+	<key id="90050261" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 22% 증가" />
+	<key id="90050271" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 11% 증가" />
+	<key id="90050283" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 11% 증가" />
+	<key id="90050212" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 17% 증가" />
+	<key id="90050222" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 22% 증가" />
+	<key id="90050232" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 22% 증가" />
+	<key id="90050242" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 17% 증가" />
+	<key id="90050252" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 22% 증가" />
+	<key id="90050262" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 22% 증가" />
+	<key id="90050274" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 11% 증가" />
+	<key id="90050274" level="2" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 22% 증가" />
+	<key id="90050284" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 11% 증가" />
+	<key id="90050284" level="2" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 22% 증가" />
+	<key id="90050311" level="1" name="홀리 스트라이크 쿨타임, SP 소모량 50% 감소" />
+	<key id="90050312" level="1" name="홀리 스트라이크 대미지 19% 증가" />
+	<key id="90050313" level="1" name="홀리 스트라이크 대미지 19% 증가" />
+	<key id="90050314" level="1" name="홀리 스트라이크 대미지 19% 증가" />
+	<key id="90050315" level="1" name="홀리 스트라이크 대미지 19% 증가" />
+	<key id="90050316" level="1" name="홀리 스트라이크 대미지 19% 증가" />
+	<key id="90050321" level="1" name="광전사의 혼 쿨타임 45초, 공격속도 18, 이동속도 18 감소" />
+	<key id="90050323" level="1" name="광전사의 혼이 지속되는 동안 물리/마법 공격력 5% 증가" />
+	<key id="90050331" level="1" name="번개 채찍 쿨타임 10초 감소" />
+	<key id="90050332" level="1" name="번개 채찍 대미지 40% 증가" />
+	<key id="90050333" level="1" name="번개 채찍 대미지 20% 증가" />
+	<key id="90050334" level="1" name="번개 채찍 대미지 20% 증가" />
+	<key id="90050335" level="1" name="번개 채찍 대미지 20% 증가" />
+	<key id="90050341" level="1" name="엔젤 레이 쿨타임, SP 소모량, 회복량 50% 감소" />
+	<key id="90050343" level="1" name="엔젤 레이 대미지 38% 증가" />
+	<key id="90050344" level="1" name="엔젤 레이 대미지 19% 증가" />
+	<key id="90050345" level="1" name="엔젤 레이 대미지 19% 증가" />
+	<key id="90050346" level="1" name="엔젤 레이 대미지 19% 증가" />
+	<key id="90050351" level="1" name="샤프 아이즈가 자신에게만 사용되지만, 적용 중 크리티컬 명중\n   250 추가 증가" />
+	<key id="90050353" level="1" name="샤프 아이즈 적용 중 크리티컬 피해 300 증가" />
+	<key id="90050354" level="1" name="샤프 아이즈 적용 중 크리티컬 피해 150 증가" />
+	<key id="90050361" level="1" name="마그네틱 봄 쿨타임 10초 감소" />
+	<key id="90050362" level="1" name="마그네틱 봄 대미지 58% 증가" />
+	<key id="90050363" level="1" name="마그네틱 봄 대미지 29% 증가" />
+	<key id="90050364" level="1" name="마그네틱 봄 대미지 29% 증가" />
+	<key id="90050365" level="1" name="마그네틱 봄 대미지 29% 증가" />
+	<key id="90050371" level="1" name="발칸 엣지 SP 소모량 4 감소, 대미지 5% 증가, 독 속성 대미지\n   5% 감소" />
+	<key id="90050376" level="1" name="발칸 엣지 대미지 8% 증가" />
+	<key id="90050377" level="1" name="발칸 엣지 대미지 8% 증가" />
+	<key id="90050378" level="1" name="발칸 엣지 대미지 8% 증가" />
+	<key id="90050379" level="1" name="발칸 엣지 대미지 8% 증가" />
+	<key id="90050380" level="1" name="발칸 엣지 대미지 8% 증가" />
+	<key id="90050391" level="1" name="그라인드 스타 쿨타임 4초 감소, SP 소모량 13% 감소" />
+	<key id="90050394" level="1" name="그라인드 스타 대미지 21% 증가" />
+	<key id="90050395" level="1" name="그라인드 스타 대미지 21% 증가" />
+	<key id="90050396" level="1" name="그라인드 스타 대미지 21% 증가" />
+	<key id="90050397" level="1" name="그라인드 스타 대미지 21% 증가" />
+	<key id="90050398" level="1" name="그라인드 스타 대미지 21% 증가" />
+	<key id="90050401" level="1" name="루나 인스톨 지속시간 4배 증가 및 속성 대미지 증가 효과\n   20% 감소" />
+	<key id="90050408" level="1" name="루나 인스톨이 지속되는 동안 화속성 대미지 4% 증가" />
+	<key id="90050411" level="1" name="스로잉 실드 대미지 120% 증가" />
+	<key id="90050412" level="1" name="스로잉 실드 대미지 58% 증가" />
+	<key id="90050413" level="1" name="스로잉 실드 대미지 58% 증가" />
+	<key id="90050414" level="1" name="스로잉 실드 대미지 58% 증가" />
+	<key id="90050415" level="1" name="스로잉 실드 대미지 58% 증가" />
+	<key id="90050416" level="1" name="스로잉 실드 대미지 58% 증가" />
+	<key id="90050421" level="1" name="바람 가르기 대미지 52% 증가" />
+	<key id="90050422" level="1" name="바람 가르기 대미지 26% 증가" />
+	<key id="90050423" level="1" name="바람 가르기 대미지 26% 증가" />
+	<key id="90050424" level="1" name="바람 가르기 대미지 26% 증가" />
+	<key id="90050425" level="1" name="바람 가르기 대미지 26% 증가" />
+	<key id="90050426" level="1" name="바람 가르기 대미지 26% 증가" />
+	<key id="90050431" level="1" name="체인 라이트닝 대미지 36% 증가" />
+	<key id="90050432" level="1" name="체인 라이트닝 대미지 36% 증가" />
+	<key id="90050433" level="1" name="체인 라이트닝 대미지 18% 증가" />
+	<key id="90050434" level="1" name="체인 라이트닝 대미지 18% 증가" />
+	<key id="90050435" level="1" name="체인 라이트닝 대미지 18% 증가" />
+	<key id="90050441" level="1" name="홀리 익스플로전 대미지 20% 증가" />
+	<key id="90050442" level="1" name="홀리 익스플로전 대미지 20% 증가" />
+	<key id="90050443" level="1" name="홀리 익스플로전 대미지 10% 증가" />
+	<key id="90050444" level="1" name="홀리 익스플로전 대미지 10% 증가" />
+	<key id="90050445" level="1" name="홀리 익스플로전 대미지 10% 증가" />
+	<key id="90050451" level="1" name="멀티 샷 SP 소모량 3 감소, 멀티 샷 대미지 24% 증가" />
+	<key id="90050452" level="1" name="멀티 샷 대미지 24% 증가" />
+	<key id="90050453" level="1" name="멀티 샷 대미지 12% 증가" />
+	<key id="90050454" level="1" name="멀티 샷 대미지 12% 증가" />
+	<key id="90050455" level="1" name="멀티 샷 대미지 12% 증가" />
+	<key id="90050471" level="1" name="화염 방사기 대미지 34% 증가" />
+	<key id="90050472" level="1" name="화염 방사기 대미지 34% 증가" />
+	<key id="90050473" level="1" name="화염 방사기 대미지 17% 증가" />
+	<key id="90050474" level="1" name="화염 방사기 대미지 17% 증가" />
+	<key id="90050475" level="1" name="화염 방사기 대미지 17% 증가" />
+	<key id="90050481" level="1" name="맹독 유리병 SP 소모량 3 감소, 대미지 111% 증가" />
+	<key id="90050484" level="1" name="맹독 유리병 대미지 111% 증가" />
+	<key id="90050485" level="1" name="맹독 유리병 대미지 111% 증가" />
+	<key id="90050486" level="1" name="맹독 유리병 대미지 111% 증가" />
+	<key id="90050487" level="1" name="맹독 유리병 대미지 111% 증가" />
+	<key id="90050488" level="1" name="맹독 유리병 대미지 111% 증가" />
+	<key id="90050491" level="1" name="서클 오브 스타 SP 소모량 3 감소, 대미지 13% 증가" />
+	<key id="90050494" level="1" name="서클 오브 스타 대미지 13% 증가" />
+	<key id="90050495" level="1" name="서클 오브 스타 대미지 13% 증가" />
+	<key id="90050496" level="1" name="서클 오브 스타 대미지 13% 증가" />
+	<key id="90050497" level="1" name="서클 오브 스타 대미지 13% 증가" />
+	<key id="90050498" level="1" name="서클 오브 스타 대미지 13% 증가" />
+	<key id="90050501" level="1" name="냉기 스플리터 SP 소모량 15 감소" />
+	<key id="90050502" level="1" name="냉기 스플리터 대미지 5% 증가" />
+	<key id="90050503" level="1" name="냉기 스플리터 대미지 5% 증가" />
+	<key id="90050504" level="1" name="냉기 스플리터 대미지 5% 증가" />
+	<key id="90050505" level="1" name="냉기 스플리터 대미지 5% 증가" />
+	<key id="90050506" level="1" name="냉기 스플리터 대미지 5% 증가" />
+	<key id="91000001" level="1" name="카운터 발동 시 SP 3 회복" tooltipDescription="물리/마법 공격력 18% 증가" />
 	<key id="91000011" level="1" name="카운터 발동 시 SP 3 회복" />
 	<key id="91000021" level="1" name="광전사의 혼 상태 중에 매 초마다 HP 1.0% 회복" />
 	<key id="91000041" level="1" name="홀리 익스플로전 명중 시 7.0% 추가 대미지" />
@@ -1341,12 +1470,12 @@
 	<key id="99900562" level="1" name="기절" tooltipDescription="기절하여 행동불가" />
 	<key id="99900922" level="1" name="화상" tooltipDescription="방어력 30% 감소\n매 초마다 화염 대미지" />
 	<key id="100000001" level="1" name="영혼의 휴식" tooltipDescription="혼자의 힘으로 비석을 치우느라\n기력을 모두 소진했습니다\n기력 회복을 위해 휴식의 시간이 필요합니다" />
-	<key id="100000002" level="1" name="벨마의 심판" tooltipDescription="벨마의 심판으로 처벌을 받았습니다.\n일정 시간 동안 커뮤니티 관련 행위가 제한됩니다.\n- 모든 채팅\n- 전광판 등록\n- UGC 아이템 제작\n- UGC 아이템 착용\n- 건설 아이템 배치 및 교체\n- 디자이너스 마켓에 아이템 등록\n- 프로필 이미지 변경\n- 길드 마크 변경\n- 캐릭터 이름 변경\n- 편지 보내기\n- 파티 모집 신청글 및 파티 참가 신청글 작성\n&lt;font color=&apos;#00aaef&apos;&gt;단, 알리카르 감옥에 가서 잡초를 뽑으며 반성하면 \n형량을 줄일 수 있습니다.&lt;/font&gt;" />
+	<key id="100000002" level="1" name="벨마의 심판" tooltipDescription="벨마의 심판으로 처벌을 받았습니다.\n일정 시간 동안 커뮤니티 관련 행위가 제한됩니다.\n- 모든 채팅\n- 전광판 등록\n- UGC 아이템 제작\n- UGC 아이템 착용\n- 건설 아이템 배치 및 교체\n- 디자이너스 마켓에 아이템 등록\n- 프로필 이미지 변경\n- 길드 마크 변경\n- 캐릭터 이름 변경\n- 편지 보내기\n- 파티 모집 신청글 및 파티 참가 신청글 작성\n- 그 외 커뮤니티 관련 행위\n&lt;font color=&apos;#00aaef&apos;&gt;단, 알리카르 감옥에 가서 잡초를 뽑으며 반성하면 \n형량을 줄일 수 있습니다.&lt;/font&gt;" />
 	<key id="100000003" level="1" name="상처 입은 영혼" tooltipDescription="비석을 걷어내니 깊은 상처가 남았습니다.\n상처가 치유되기 전에 또 쓰러지면 강철 비석에 \n깔리게 됩니다." />
 	<key id="100000004" level="1" name="소생의 축복" tooltipDescription="기운을 차릴 때까지 대미지를 입지 않습니다" />
 	<key id="100000005" level="1" name="공간의 틈에서 나오는 중" tooltipDescription="공간의 틈에서 나오고 있는 중입니다\n몸과 정신이 완전히 빠져 나올 때까지\n대미지를 입지 않습니다" />
 	<key id="100000006" name="PC방 접속 효과" tooltipDescription="몬스터 사냥 시, 경험치 및 메소 20% 추가 획득\n물리 공격력과 마법 공격력 3%, HP 100 증가\n스탯 버프는 PVP지역에서는 적용되지 않습니다." />
 	<key id="100000007" name="전장의 부름" tooltipDescription="전장의 부름을 받아 신병이 되었습니다. \n신병 신분일 때는 다른 전장 신청 불가" />
-	<key id="100000008" level="1" name="벨마의 경고" tooltipDescription="벨마의 경고를 받았습니다.\n일정 시간 동안 커뮤니티 관련 행위가 제한됩니다.\n- 전광판 등록\n- UGC 아이템 제작\n- UGC 아이템 착용\n- 건설 아이템 배치 및 교체\n- 디자이너스 마켓에 아이템 등록\n- 프로필 이미지 변경\n- 길드 마크 변경\n- 캐릭터 이름 변경\n- 편지 보내기\n&lt;font color=&apos;#00aaef&apos;&gt;단, 알리카르 감옥에 가서 잡초를 뽑으며 반성하면 \n형량을 줄일 수 있습니다.&lt;/font&gt;" />
+	<key id="100000008" level="1" name="벨마의 경고" tooltipDescription="벨마의 경고를 받았습니다.\n일정 시간 동안 커뮤니티 관련 행위가 제한됩니다.\n- 전광판 등록\n- UGC 아이템 제작\n- UGC 아이템 착용\n- 건설 아이템 배치 및 교체\n- 디자이너스 마켓에 아이템 등록\n- 프로필 이미지 변경\n- 길드 마크 변경\n- 캐릭터 이름 변경\n- 편지 보내기\n- 파티 모집 신청글 및 파티 참가 신청글 작성\n- 그 외 커뮤니티 관련 행위\n&lt;font color=&apos;#00aaef&apos;&gt;단, 알리카르 감옥에 가서 잡초를 뽑으며 반성하면 \n형량을 줄일 수 있습니다.&lt;/font&gt;" />
 	<key id="100000009" name="쑥쑥 성장 버프" tooltipDescription="몬스터 사냥 및 퀘스트 완료 시, 경험치 10% 추가 획득" />
 </ms2>
