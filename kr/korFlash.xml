@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ms2>
 
   <!--common-->
@@ -110,22 +110,22 @@
   <key id="$s_inventory_slot_count" value="Displays the slot information in the current tab.\nNumber of slots used / Total number of slots"/> 
   
   <!--itemoption-->
-  <key id="$s_itemopion_title" value="Pick up a set of items"/>
-  <key id="$s_itemopion_check_auto_equip" value="Equipment items auto pick up"/>
-  <key id="$s_itemopion_check_auto_skill" value="Skill item auto pick up"/>
-  <key id="$s_itemopion_check_auto_consume" value="Consumption items auto pick up"/>
-  <key id="$s_itemopion_check_auto_build" value="Construction item auto pick up"/>
-  <key id="$s_itemopion_check_auto_etc" value="Other items auto pick up"/>
-  <key id="$s_itemopion_check_auto_meso" value="Meredith small auto pick up"/>
-  <key id="$s_itemopion_check_auto_merat" value="Megan Barrett auto pick up"/>
-  <key id="$s_itemopion_check_auto_token" value="Other goods auto pick up" />
+  <key id="$s_itemopion_title" value="Item Pick-up Settings"/>
+  <key id="$s_itemopion_check_auto_equip" value="Equipment Items"/>
+  <key id="$s_itemopion_check_auto_skill" value="Skill Items"/>
+  <key id="$s_itemopion_check_auto_consume" value="Consumable Items"/>
+  <key id="$s_itemopion_check_auto_build" value="Construction Items"/>
+  <key id="$s_itemopion_check_auto_etc" value="ETC Items"/>
+  <key id="$s_itemopion_check_auto_meso" value="Meso"/>
+  <key id="$s_itemopion_check_auto_merat" value="Merit"/>
+  <key id="$s_itemopion_check_auto_token" value="Other" />
   
-  <key id="$s_itemopion_dropdown_rank_all" value="All Ranks Obtained"/>
-  <key id="$s_itemopion_dropdown_rank_up06" value="&lt;FONT color='#ff8c37'&gt;Artifact&lt;/FONT&gt;Acquired over"/>
-  <key id="$s_itemopion_dropdown_rank_up05" value="&lt;FONT color='#ffd533'&gt;Legendary&lt;/FONT&gt;Acquired over"/>
-  <key id="$s_itemopion_dropdown_rank_up04" value="&lt;FONT color='#c888ff'&gt;Excellent&lt;/FONT&gt;Acquired over"/>
-  <key id="$s_itemopion_dropdown_rank_up03" value="&lt;FONT color='#45d1ff'&gt;Elite&lt;/FONT&gt;Acquired over"/>
-  <key id="$s_itemopion_dropdown_rank_up02" value="&lt;FONT color='#b0f350'&gt;Rare&lt;/FONT&gt;Acquired over"/>
+  <key id="$s_itemopion_dropdown_rank_all" value="Obtain All Ranks"/>
+  <key id="$s_itemopion_dropdown_rank_up06" value="&lt;FONT color='#ff8c37'&gt;Artifact&lt;/FONT&gt; &amp; higher"/>
+  <key id="$s_itemopion_dropdown_rank_up05" value="&lt;FONT color='#ffd533'&gt;Legendary&lt;/FONT&gt; &amp; higher"/>
+  <key id="$s_itemopion_dropdown_rank_up04" value="&lt;FONT color='#c888ff'&gt;Excellent&lt;/FONT&gt; &amp; higher"/>
+  <key id="$s_itemopion_dropdown_rank_up03" value="&lt;FONT color='#45d1ff'&gt;Elite&lt;/FONT&gt; &amp; higher"/>
+  <key id="$s_itemopion_dropdown_rank_up02" value="&lt;FONT color='#b0f350'&gt;Rare&lt;/FONT&gt; &amp; higher"/>
   
   
   <!--gameoption-->
@@ -2003,7 +2003,7 @@
   <key id="$s_writemusic_tab_9" value="Chord I"/>
   
   <key id="$s_writemusic_rclick_menu_remove_tab" value="Delete Tab"/>
-  <key id="$s_writemusic_text_limit_total_musicscore_length" value="Limits the length of the entire sheet music has been exceeded."/>
+  <key id="$s_writemusic_text_limit_total_musicscore_length" value="You have exceeded the length limit of the musical score."/>
   <key id="$s_writemusic_text_notice_during_play_music" value="You cannot preview while playing your musical score."/>
 
 </ms2>
