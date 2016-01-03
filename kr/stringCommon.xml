@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ms2>
 	<key id="s_empty_string" value=""/>
 
@@ -1429,38 +1429,38 @@
 
    <!-- Right click on the ToolTip/Double click the TG article-->
   <key id="s_msg_rclick_attach_trade" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to register this item to the trade window &lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_dettach_trade" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to unregister this item. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_dettach_trade" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to remove this item. &lt;/FONT&gt;"/>
   <key id="s_msg_rclick_puton_equip" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to equip this item. &lt;/FONT&gt;"/>
   <key id="s_msg_rclick_putoff_equip" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to unequip this item. &lt;/FONT&gt;"/>
   <key id="s_msg_rclick_store_in" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to store this item. &lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_store_out" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to find this item. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_store_out" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to take out this item. &lt;/FONT&gt;"/>
   <key id="s_msg_rclick_sell" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to sell this item. &lt;/FONT&gt;"/>
   <key id="s_msg_rclick_attach_mail" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to attach this item. &lt;/FONT&gt;"/>
   <key id="s_msg_rclick_dettach_mail" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to unattach this item. &lt;/FONT&gt;"/>
   <key id="s_msg_rclick_buy" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to buy this item. &lt;/FONT&gt;"/>
   <key id="s_msg_rclick_putoff_qslot" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to remove this from the quick slot. &lt;/FONT&gt;"/>
   <key id="s_msg_rclick_puton_qslot" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to register this to the quick slot. &lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_puton_doll" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;Can be mounted on a dummy item with.&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_putoff_doll" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;To replace the item, you can turn off. ..&lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_upgrade" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to enhance this item.. &lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_warehouse_out" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to take this item out of storage. &lt;/FONT&gt;"/>
-  <key id="s_msg_rclick_item_break" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to dismantle this item.. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_puton_doll" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to equip this item on the mannequin. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_putoff_doll" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to unequip this item from the mannequin. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_upgrade" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to enhance this item. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_warehouse_out" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to take this item from the storage. &lt;/FONT&gt;"/>
+  <key id="s_msg_rclick_item_break" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to dismantle this item. &lt;/FONT&gt;"/>
   <key id="s_msg_rclick_blackmarket" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to register this item to the Black Market. &lt;/FONT&gt;"/>
   <key id="s_msg_rclick_remakeitemoption" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to change the equipment options on this item. &lt;/FONT&gt;"/>
-    <key id="s_msg_rclick_play_instrument" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Right click on the&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can choose the sheet music to play with.&lt;/FONT&gt;"/>
+    <key id="s_msg_rclick_play_instrument" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to play the selected musical score. &lt;/FONT&gt;"/>
 
-  <key id="s_msg_dclick_usable" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Double click on it&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;Can be used for general purposes.&lt;/FONT&gt;"/>
-  <key id="s_msg_dclick_readable" value="&lt;FONT color='#FFFFFF'&gt;Mouse &lt;FONT color='#FFD200'&gt;Double click on it&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can read.&lt;/FONT&gt;"/>
+  <key id="s_msg_dclick_usable" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to use. &lt;/FONT&gt;"/>
+  <key id="s_msg_dclick_readable" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to read. &lt;/FONT&gt;"/>
 
   <key id="s_msg_tooltip_compare_swap" value="&lt;FONT color='#FFD200'&gt;SHIFT&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt; Wear the left key is pressed, you can compare with a firearm.&lt;/FONT&gt;"/>
 
-  <key id="s_msg_tooltip_customize_color" value="Beauty can change the color of the room and the street&#8217;s Dyer."/>
-  <key id="s_msg_tooltip_customize_buy_random_color" value="Random color choice when purchasing."/>
-  <key id="s_msg_tooltip_limit_register_meratmarket" value="&lt;FONT color='#FF4040'&gt;Designer&#8217;s shop registration disabled&lt;/FONT&gt;"/>
+  <key id="s_msg_tooltip_customize_color" value="You can change the dye color at the Beauty Street."/>
+  <key id="s_msg_tooltip_customize_buy_random_color" value="A random color will be selected upon purchase."/>
+  <key id="s_msg_tooltip_limit_register_meratmarket" value="&lt;FONT color='#FF4040'&gt;Unregistered Designer Shop&lt;/FONT&gt;"/>
     <key id="s_msg_tooltip_enable_play_music" value="You can play by using the instrument."/>
 
   <!-- Death -->
-  <key id="s_msg_tombstone" value="Heavy rain was laid behind the wheel." />
+  <key id="s_msg_tombstone" value="A heavy tombstone was laid down." />
   <key id="s_msg_die" value="The other person &lt;FONT color='#FFD200'&gt;When a monument&lt;/FONT&gt; Taking place in the place, and\n&lt;FONT color='#FFD200'&gt;To the resurrection&lt;/FONT&gt;Is pressed, revived in a safe place.\n&lt;FONT color='#FFD200'&gt;Merit&lt;/FONT&gt;If you use the in-place &lt;FONT color='#FFD200'&gt;Immediately&lt;/FONT&gt; You can be resurrected." /> <!--The former dies after giving this message-->
   <key id="s_msg_die_repeat" value="Someone else smacked revived monument cannot give\n&lt;FONT color='#FFD200'&gt;To the resurrection&lt;/FONT&gt;Is pressed, revived in a safe place.\n&lt;FONT color='#FFD200'&gt;Merit&lt;/FONT&gt;If you use the in-place &lt;FONT color='#FFD200'&gt;Immediately&lt;/FONT&gt; You can be resurrected." /> <!--The former part after you have identified this message again Hugh dies-->
   <key id="s_msg_die_beginner" value="The other person &lt;FONT color='#FFD200'&gt;When a monument&lt;/FONT&gt; In place of resurrection,\n&lt;FONT color='#FFD200'&gt;To the resurrection&lt;/FONT&gt;Is pressed, revived in a safe place." /> <!--When a beginner is not dead or died when the message map identified by Hugh-->
@@ -1679,15 +1679,15 @@
   <key id="s_mail_error_empty_content" value="Enter the contents."/>
   <key id="s_mail_error_from_admin_to_user" value="You cannot send e-mail to the user the operator. Operating tools."/>
   <key id="s_mail_error_limit_input" value="The maximum number of characters exceeded."/>
-  <key id="s_mail_period_item_include" value="A letter attached to the term item has arrived."/>
-  <key id="s_mail_period_item_include_chat" value="&lt;FONT color='#FF5F5F' &gt;A letter attached to the term item has arrived.\nTime flows in a hurry, please, please use the item.&lt;/FONT&gt;"/>
+  <key id="s_mail_period_item_include" value="A letter with a temporary item attached to it has arrived."/>
+  <key id="s_mail_period_item_include_chat" value="&lt;FONT color='#FF5F5F' &gt;A letter with a temporary item attached to it has arrived.\nUse the item before it expires.&lt;/FONT&gt;"/>
 
   <key id="s_notify_mail_reply" value="[Re]: {0}"/>
-  <key id="s_notify_mail_reply_content" value="\n&lt;FONT color='#909090'&gt;--------------------------------------------------\nThe sender : {0}\nDate sent : {1}\nTitle : {2}\n\n{3}&lt;/FONT&gt;"/>
-  <key id="s_notify_mail_remainDay" value="{0}Days remaining"/>
-  <key id="s_notify_mail_remainDay_tooltip" value="{0}Days later, a letter will be deleted."/>
+  <key id="s_notify_mail_reply_content" value="\n&lt;FONT color='#909090'&gt;--------------------------------------------------\nSender : {0}\n Date Sent : {1}\nTitle : {2}\n\n{3}&lt;/FONT&gt;"/>
+  <key id="s_notify_mail_remainDay" value="{0} days remaining"/>
+  <key id="s_notify_mail_remainDay_tooltip" value="The letter will be deleted after {0} day(s)."/>
   <key id="s_notify_mail_remainDay_today" value="Today"/>
-  <key id="s_notify_mail_remainDay_tooltip_today" value="{0}Time {1}Minutes after it is deleted."/>
+  <key id="s_notify_mail_remainDay_tooltip_today" value="Deleted in {0}h {1}m."/>
   <key id="s_notify_mail_remainDay_expire" value="Delete"/>
 
  <!-- Customization-->
@@ -2860,16 +2860,16 @@
   <key id="s_nametag_symbol_seller_desc" value="Displays when obtaining the Top Designer title"/>
   <key id="s_nametag_symbol_guild_desc" value="Displays when obtaining the True Champion title"/>
   <key id="s_nametag_symbol_architect_desc" value="Displays when obtaining the Star Architect title"/>
-  <key id="s_nametag_symbol_trophy_desc" value="Displays after obtaining the [Trophy mania] trophy award"/>
-    <key id="s_nametag_symbol_musician_desc" value="[Dreaming of AXA] After achieving the equitable title acquisition display trophy"/>
-    <key id="s_nametag_symbol_fisher_desc" value="[There is also pretending to be in January!] After achieving the trophy fishing shows: the Royal title"/>
+  <key id="s_nametag_symbol_trophy_desc" value="Displays after obtaining the [Trophy Mania] achievement"/>
+    <key id="s_nametag_symbol_musician_desc" value="Displays after obtaining the [Dreaming Musician] achievement"/>
+    <key id="s_nametag_symbol_fisher_desc" value="Displays after obtaining the [Another Big Fish!] achievement"/>
   
-  <key id="s_attend_play_gift_slot" value="{0}\n{1}Access time:"/>
-  <key id="s_attend_play_gift_received" value="Mailing complete : Today I received all of the gifts you can receive."/>
-  <key id="s_attend_play_gift_can_receive" value="Sending the mail."/>
-  <key id="s_attend_play_time1" value="{0}Time {1}Minutes left"/>
-  <key id="s_attend_play_time2" value="{0}Minutes left"/>
-  <key id="s_attend_play_time3" value="1Less than a minute remaining"/>
+  <key id="s_attend_play_gift_slot" value="{0}\n{1}h connected:"/>
+  <key id="s_attend_play_gift_received" value="Mailing Complete : You've received all the gifts for today."/>
+  <key id="s_attend_play_gift_can_receive" value="Sending mail."/>
+  <key id="s_attend_play_time1" value="{0}h {1}m left"/>
+  <key id="s_attend_play_time2" value="{0} minutes left"/>
+  <key id="s_attend_play_time3" value="Less than a minute remaining"/>
   <key id="s_attend_play_gift_event_date" value="Enjoy the honey one time items paid for the weekend!"/>
 
   <key id="s_fieldboss_reward_assistbonus_notify" value="Actively participating in combat {0} Christchurch, New Zealand." />
@@ -3158,10 +3158,10 @@
     <key id="s_tooltip_itemoption_setitem_stat_row" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color='#{0:x}'&gt;And{1}\n&lt;/font&gt;"/>
 
     <!--Playing an instrument proficiency -->
-    <key id="s_play_instrument_grade_Lv1" value="Rudiments of music"/>
-    <key id="s_play_instrument_grade_Lv2" value="Intermediate musicians"/>
-    <key id="s_play_instrument_grade_Lv3" value="Advanced music"/>
-    <key id="s_play_instrument_grade_Lv4" value="Professional musicians"/>  
+    <key id="s_play_instrument_grade_Lv1" value="Novice Performer"/>
+    <key id="s_play_instrument_grade_Lv2" value="Average Performer"/>
+    <key id="s_play_instrument_grade_Lv3" value="Advanced Performer"/>
+    <key id="s_play_instrument_grade_Lv4" value="Professional Performer"/>  
     
     <!--Playing an instrument -->   
     <key id="s_msg_tooltip_musicscore_enable_playcount" value="&lt;FONT color='#FFD200'&gt;{0}Times available for playing&lt;/font&gt;\nYou can play by using the instrument."/>
@@ -3175,7 +3175,7 @@
     <key id="s_msg_tooltip_musicscore_writer" value="{0} Composition"/>
     
     <key id="s_play_instrument_ui_score_info_writer" value="Composition : {0}"/>
-    <key id="s_play_instrument_ui_score_play_duration" value="Playing time : {0}"/>
+    <key id="s_play_instrument_ui_score_play_duration" value="Playing Time : {0}"/>
     <key id="s_play_instrument_ui_score_info_title" value="[Sheet music] {0}"/>
     <key id="s_play_instrument_ui_score_info_instrument" value="Featured instruments : {0}"/>
     <key id="s_play_instrument_ui_ask_close_while_playing_score" value="&lt;FONT color='#FF5f5f'&gt;Closing the window will stop playing.&lt;/font&gt;\nYou really Windows?" />
@@ -3199,7 +3199,7 @@
     <key id="s_play_instrument_instrument_name_1" value="" /> <!--Grand Piano / If you add more instrument types.-->
     <key id="s_play_instrument_instrument_name_2" value="" /> <!--Acoustic guitar / If you add more instrument types.-->
     <key id="s_play_instrument_instrument_category_name_1" value="Piano" />
-    <key id="s_play_instrument_instrument_category_name_2" value="Other" />
+    <key id="s_play_instrument_instrument_category_name_2" value="Guitar" />
     
     <!--Music production -->    
     <key id="s_writemusic_complete_make"  value="Music production."/>
