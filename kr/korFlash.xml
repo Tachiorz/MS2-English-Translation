@@ -1913,7 +1913,7 @@
   <key id="$s_dark_stream_result_out" value="Exit" />
   
   <key id="$s_notice_dialog_title" value="Events in Progress" />
-  <key id="$s_notice_dialog_footer" value="* MapleStory 2 new open! Fishing and let's play!" />
+  <key id="$s_notice_dialog_footer" value="※ MapleStory 2's new continent is open! Let's play and go fishing!" />
   
   <!-- Change options for an item (Arial) -->
   <key id="$s_itemremakeoption_title" value="Change options for adding items"/>
@@ -1925,85 +1925,85 @@
   <key id="$s_itemremakeoption_text_desc_select_cur_option" value="Select the option by paying back the cost.\nEven if you do not change the options draw back option will deduct the number of re-sans-serif."/>
   <key id="$s_itemremakeoption_text_desc_select_new_option" value="You can change one of the above options.\nSelect the options you want to apply.\nIf you do not select a current option."/>
   <key id="$s_itemremakeoption_text_title_consume" value="Conversion materials"/>
-  <key id="$s_itemremakeoption_btn_select_option" value="Select options"/>
-  <key id="$s_itemremakeoption_btn_change_option" value="To change options"/>
-  <key id="$s_itemremakeoption_btn_select_new_option" value="Select options"/>
+  <key id="$s_itemremakeoption_btn_select_option" value="Select Options"/>
+  <key id="$s_itemremakeoption_btn_change_option" value="Change Options"/>
+  <key id="$s_itemremakeoption_btn_select_new_option" value="Select Options"/>
   <key id="$s_itemremakeoption_btn_confirm" value="Confirm"/>
   
   <!-- Fishing book -->
-  <key id="$s_fishingbook_title" value="Fishing Book"/>
-  <key id="$s_fishingbook_water" value="Freshwater"/>
-  <key id="$s_fishingbook_seawater" value="Waters"/>
-  <key id="$s_fishingbook_etc" value="Special region"/>
+  <key id="$s_fishingbook_title" value="Fish Encyclopedia"/>
+  <key id="$s_fishingbook_water" value="Water"/>
+  <key id="$s_fishingbook_seawater" value="Seawater"/>
+  <key id="$s_fishingbook_etc" value="Special"/>
 
   <!-- Pet information -->
-  <key id="$s_petsetting_title" value="Pet information"/>
-  <key id="$s_petsetting_summon_off" value="Recall off"/>
-  <key id="$s_petsetting_auto_revive" value="&lt;font color='#5c2b00'&gt;Auto-monument to the resurrection | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
-  <key id="$s_petsetting_auto_itemuse" value="&lt;font color='#5c2b00'&gt;Auto potion recovery | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
-  <key id="$s_petsetting_auto_itempick" value="&lt;font color='#5c2b00'&gt;Auto item pick up | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
-  <key id="$s_petsetting_tooltip_change_name" value="&lt;FONT color='#FFD200' size='15' &gt;Name change&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe name change." />
-  <key id="$s_petsetting_tooltip_auto_itemuse" value="&lt;FONT color='#FFD200' size='15' &gt;Auto potion recovery&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto-potion." />
-  <key id="$s_petsetting_tooltip_auto_itempick" value="&lt;FONT color='#FFD200' size='15' &gt;Auto item pick up&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto item pick up." />
-  <key id="$s_petsetting_tooltip_summon_off" value="&lt;FONT color='#FFD200' size='15' &gt;Recall off&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe summons." />
+  <key id="$s_petsetting_title" value="Pet Information"/>
+  <key id="$s_petsetting_summon_off" value="Desummon"/>
+  <key id="$s_petsetting_auto_revive" value="&lt;font color='#5c2b00'&gt;Auto Revive | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
+  <key id="$s_petsetting_auto_itemuse" value="&lt;font color='#5c2b00'&gt;Auto Potion Recovery | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
+  <key id="$s_petsetting_auto_itempick" value="&lt;font color='#5c2b00'&gt;Auto Item Pick-up | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
+  <key id="$s_petsetting_tooltip_change_name" value="&lt;FONT color='#FFD200' size='15' &gt;Change Name&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nChange Name." />
+  <key id="$s_petsetting_tooltip_auto_itemuse" value="&lt;FONT color='#FFD200' size='15' &gt;Auto Potion Recovery&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto Potion Recovery." />
+  <key id="$s_petsetting_tooltip_auto_itempick" value="&lt;FONT color='#FFD200' size='15' &gt;Auto Item Pick-up&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto Item Pick-up." />
+  <key id="$s_petsetting_tooltip_summon_off" value="&lt;FONT color='#FFD200' size='15' &gt;Recall off&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesummon." />
 
   <!-- Items automatically -->
   <key id="$s_itemautouse_title" value="Auto potion recovery settings"/>
   
 
   <!-- Playing an instrument -->
-  <key id="$s_playinstrument_main_title" value="Playing an instrument" />
+  <key id="$s_playinstrument_main_title" value="Playing Instruments" />
   <key id="$s_playinstrument_main_play_direct_tab" value="Improvisation" />
-  <key id="$s_playinstrument_main_play_score_tab" value="Music playing" />
-  <key id="$s_playinstrument_main_play_direct_tab_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Improvisation&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSheet music on-the-fly without playing by pressing the keyboard.\nClose the window by pressing the music score playing tab will be closed.\nImprovisation during chat, you cannot use keyboard shortcuts except." />
-  <key id="$s_playinstrument_main_play_score_tab_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Music playing&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWritten in advance by using the sheet music to play.\nRight click the sheet music in your belongings by choosing, you can play." />
-  <key id="$s_playinstrument_score_play_solo" value="In order to walkover" />
-  <key id="$s_playinstrument_score_play_ensemble" value="To the sum of" />
+  <key id="$s_playinstrument_main_play_score_tab" value="Musical Score" />
+  <key id="$s_playinstrument_main_play_direct_tab_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Improvisation&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCreate an improvised musical score by playing on the keyboard on your screen .\nYou can close the window by clicking the X button or simply press ESC.\nDuring improvised play, you cannot use keyboard shortcuts for chatting." />
+  <key id="$s_playinstrument_main_play_score_tab_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Musical Score&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPlay pre-written music from a musical score.\nRight-click on the musical score from your inventory to start playing." />
+  <key id="$s_playinstrument_score_play_solo" value="Solo" />
+  <key id="$s_playinstrument_score_play_ensemble" value="Ensemble" />
   <!--
-  <key id="$s_playinstrument_score_start_button" value="To play" />
-  <key id="$s_playinstrument_score_stop_button" value="Stop playing" />
+  <key id="$s_playinstrument_score_start_button" value="Play" />
+  <key id="$s_playinstrument_score_stop_button" value="Stop" />
   -->
-  <key id="$s_playinstrument_score_mastery_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Playing skills&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMusic played by using a skill.\nFamiliarity, then, a lot of time playing way better\nHigher level of proficiency is played by various aspects.\nSheet music can contribute the maximum skill." />
-  <key id="$s_playinstrument_score_play_solo_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;In order to walkover&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAlone I play solo mode.\nMy playing can tell to other people." />
-  <key id="$s_playinstrument_score_play_ensemble_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;To the sum of&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can play with others in the ensemble mode.\nEnsemble mode is only available when the party.\nPatijangi ensemble, the ensemble won the party that is being prepared together with the ensemble." />
-  <key id="$s_playinstrument_score_empty_score" value="Please put up the sheet music to play" />  
+  <key id="$s_playinstrument_score_mastery_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Playing skills&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYour mastery raises as you play music.\nFamiliarity, then, a lot of time playing way better\nHigher level of proficiency is played by various aspects.\nSheet music can contribute the maximum skill." />
+  <key id="$s_playinstrument_score_play_solo_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Solo&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPlay music alone.\nOther people can hear you playing music." />
+  <key id="$s_playinstrument_score_play_ensemble_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Ensemble&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPlay with others in an ensemble.\nYou can only use this in a party.\nOnce the party leader is ready with the ensemble, the other members are ready as well." />
+  <key id="$s_playinstrument_score_empty_score" value="Place a musical score." />  
   
   <!--Music production-->
   <key id="$s_writemusic_charset" value="0-9ABCDEFGabcdefgSsOoLlTtVvRr&amp;&lt;&gt;.+\r\- "/>
   <key id="$s_writemusic_title" value="Composing | BETA"/>
-  <key id="$s_writemusic_btn_help_storybook" value="Composition method"/>
-  <key id="$s_writemusic_btn_help_webpage" value="Read more"/>
-  <key id="$s_writemusic_btn_make" value="Create sheet music"/>
+  <key id="$s_writemusic_btn_help_storybook" value="Composition Help"/>
+  <key id="$s_writemusic_btn_help_webpage" value="Read More"/>
+  <key id="$s_writemusic_btn_make" value="Create Musical Score"/>
   <key id="$s_writemusic_btn_write_keyboard" value="Casio to composing"/> <!--Hidden-->
   <key id="$s_writemusic_text_musicscore_title" value="Title"/>
-  <key id="$s_writemusic_text_musicscore_title_default" value="Please enter a title. (3~14Letter)"/>
-  <key id="$s_writemusic_text_musicscore_recommand_instrument" value="Featured instruments"/>
-  <key id="$s_writemusic_text_notice_prepare_piano_roll" value="The melody and the text input window below the chord type.\nPiano roll view is further supported."/>
+  <key id="$s_writemusic_text_musicscore_title_default" value="Enter a title. (3~14 letters)"/>
+  <key id="$s_writemusic_text_musicscore_recommand_instrument" value="Instrument"/>
+  <key id="$s_writemusic_text_notice_prepare_piano_roll" value="The melody and chords can be entered below in different tabs.\nThe Piano Roll view is supported at a later date."/>
   <key id="$s_writemusic_text_info_melody" value="Melody : "/>
   <key id="$s_writemusic_text_info_harmony" value="Chords : "/>
-  <key id="$s_writemusic_text_info_total_musicscore_length" value="The total number of characters : "/>
+  <key id="$s_writemusic_text_info_total_musicscore_length" value="Total Number of Characters : "/>
   
-  <key id="$s_writemusic_tooltip_btn_write_keyboard" value="&lt;FONT color='#FFD200' size='15' &gt;Casio to composing&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nComposed with piano keys.\nIf you press the on the keyboard to enter the recording mode that automatically provides support for the code."/>
-  <key id="$s_writemusic_tooltip_btn_make" value="&lt;FONT color='#FFD200' size='15' &gt;Create sheet music&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSo far as the contents entered by the sheet music.\nProduced by sheet music cannot be modified."/>
+  <key id="$s_writemusic_tooltip_btn_write_keyboard" value="&lt;FONT color='#FFD200' size='15' &gt;Compose Keyboard&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nComposed with piano keys.\nIf you press the on the keyboard to enter the recording mode that automatically provides support for the code."/>
+  <key id="$s_writemusic_tooltip_btn_make" value="&lt;FONT color='#FFD200' size='15' &gt;Create Musical Score&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSo far as the contents entered by the sheet music.\nProduced by sheet music cannot be modified."/>
   <key id="$s_writemusic_tooltip_btn_play_gofirst" value="3"/>
   <key id="$s_writemusic_tooltip_btn_play_start" value="&lt;FONT color='#FFD200' size='15' &gt;Preview&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAs far as I can hear the preview input.\nYou cannot modify the contents of the preview."/>
-  <key id="$s_writemusic_tooltip_btn_play_stop" value="&lt;FONT color='#FFD200' size='15' &gt;To stop the preview&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo stop the preview."/>
-  <key id="$s_writemusic_tooltip_btn_help_storybook" value="&lt;FONT color='#FFD200' size='15' &gt;Composition method&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCompositions used in the grammar, written description of the storybook.\nIf you want to find out more 'Read more'Check out the page of posts."/>
-  <key id="$s_writemusic_tooltip_btn_help_webpage" value="&lt;FONT color='#FFD200' size='15' &gt;Read more&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nA how-to guide to composing postings page."/>
+  <key id="$s_writemusic_tooltip_btn_play_stop" value="&lt;FONT color='#FFD200' size='15' &gt;Stop Preview&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo stop the preview."/>
+  <key id="$s_writemusic_tooltip_btn_help_storybook" value="&lt;FONT color='#FFD200' size='15' &gt;Composition Help&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCompositions used in the grammar, written description of the storybook.\nIf you want to find out more 'Read more'Check out the page of posts."/>
+  <key id="$s_writemusic_tooltip_btn_help_webpage" value="&lt;FONT color='#FFD200' size='15' &gt;Read More&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nA how-to guide to composing postings page."/>
   
   <key id="$s_writemusic_tab_0" value="Melody"/>
-  <key id="$s_writemusic_tab_1" value="ChordsA"/>
-  <key id="$s_writemusic_tab_2" value="ChordsB"/>
-  <key id="$s_writemusic_tab_3" value="ChordsC"/>
-  <key id="$s_writemusic_tab_4" value="ChordsD"/>
-  <key id="$s_writemusic_tab_5" value="ChordsE"/>
-  <key id="$s_writemusic_tab_6" value="ChordsF"/>
-  <key id="$s_writemusic_tab_7" value="ChordsG"/>
-  <key id="$s_writemusic_tab_8" value="ChordsH"/>
-  <key id="$s_writemusic_tab_9" value="ChordsI"/>
+  <key id="$s_writemusic_tab_1" value="Chord A"/>
+  <key id="$s_writemusic_tab_2" value="Chord B"/>
+  <key id="$s_writemusic_tab_3" value="Chord C"/>
+  <key id="$s_writemusic_tab_4" value="Chord D"/>
+  <key id="$s_writemusic_tab_5" value="Chord E"/>
+  <key id="$s_writemusic_tab_6" value="Chord F"/>
+  <key id="$s_writemusic_tab_7" value="Chord G"/>
+  <key id="$s_writemusic_tab_8" value="Chord H"/>
+  <key id="$s_writemusic_tab_9" value="Chord I"/>
   
-  <key id="$s_writemusic_rclick_menu_remove_tab" value="Delete this tab"/>
+  <key id="$s_writemusic_rclick_menu_remove_tab" value="Delete Tab"/>
   <key id="$s_writemusic_text_limit_total_musicscore_length" value="Limits the length of the entire sheet music has been exceeded."/>
-  <key id="$s_writemusic_text_notice_during_play_music" value="Preview can&#8217;t edit the sheet music."/>
+  <key id="$s_writemusic_text_notice_during_play_music" value="You cannot preview while playing your musical score."/>
 
 </ms2>
