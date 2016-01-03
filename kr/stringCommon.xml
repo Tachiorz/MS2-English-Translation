@@ -2175,9 +2175,9 @@
   <key id="s_warehouse_accept" value="I&#8217;m found:SPACE, It&#8217;s been:ESC"/>
 
   <!-- World map ToolTips -->
-  <key id="s_worldmap_tooltip_channel" value="Channel {0} "/>
-  <key id="s_worldmap_tooltip_channel_enabled" value="Channel {0}"/>
-  <key id="s_worldmap_tooltip_channel_disabled" value="&lt;FONT color='#909090'&gt;Channel {0}&lt;/FONT&gt;"/>
+  <key id="s_worldmap_tooltip_channel" value="Ch.{0} "/>
+  <key id="s_worldmap_tooltip_channel_enabled" value="Ch.{0}"/>
+  <key id="s_worldmap_tooltip_channel_disabled" value="&lt;FONT color='#909090'&gt;Ch.{0}&lt;/FONT&gt;"/>
   <key id="s_worldmap_tooltip_channel_extra" value="Apart from that, {0}-Channel!"/>
   <key id="s_worldmap_tooltip_leveljob" value="&lt;FONT color='#909090'&gt;(Level {0} {1})&lt;/FONT&gt;"/> <!-- (Level vocational students) -->
   <key id="s_worldmap_tooltip_myname" value="{0}"/>
