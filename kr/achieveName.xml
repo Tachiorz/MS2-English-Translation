@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsing this data used do not directly modify the -->
 <ms2>
-	<key id="21100001" name="(Account) Knight&#8217;s way" />
-	<key id="21100002" name="(The way of the account), Berserker" />
-	<key id="21100003" name="(Jadeuyi on the way the account)" />
-	<key id="21100004" name="(The way of the account), priest" />
-	<key id="21100005" name="(Account) Ranger&#8217;s road" />
-	<key id="21100006" name="(Account) heavy gunner&#8217;s way" />
-	<key id="21100007" name="(A way of shifting the account)" />
-	<key id="21100009" name="(Account) Assassin&#8217;s way" />
-	<key id="21100010" name="(Account) Knight master" />
-	<key id="21100011" name="(Berserker master account)" />
-	<key id="21100012" name="(Account) on the master" />
-	<key id="21100013" name="(The Frist master account)" />
-	<key id="21100014" name="(Account) Ranger master" />
-	<key id="21100015" name="(Account) heavy gunner master" />
-	<key id="21100016" name="(Account) Sifu master" />
-	<key id="21100017" name="(Assassin&#8217;s master account)" />
-	<key id="21100018" name="(Account) baby-step master" />
+	<key id="21100001" name="(Account) Path of the Knight" />
+	<key id="21100002" name="(Account) Path of the Berserker" />
+	<key id="21100003" name="(Account) Path of the Wizard" />
+	<key id="21100004" name="(Account) Path of the Priest" />
+	<key id="21100005" name="(Account) Path of the Ranger" />
+	<key id="21100006" name="(Account) Path of the Heavy Gunner" />
+	<key id="21100007" name="(Account) Path of the Thief" />
+	<key id="21100009" name="(Account) Path of the Assassin" />
+	<key id="21100010" name="(Account) Knight Master" />
+	<key id="21100011" name="(Account) Berserker Master" />
+	<key id="21100012" name="(Account) Wizard Master" />
+	<key id="21100013" name="(Account) Priest Master" />
+	<key id="21100014" name="(Account) Ranger Master" />
+	<key id="21100015" name="(Account) Heavy Gunner Master" />
+	<key id="21100016" name="(Account) Thief Master" />
+	<key id="21100017" name="(Account) Assassin Master" />
+	<key id="21100018" name="(Account) Baby Steps Master" />
 	<key id="21100019" name="(Account) Grand Master" />
-	<key id="21100020" name="(Account) night residency is" />
-	<key id="21100021" name="(The bigger the interns are University account)" />
-	<key id="21100022" name="(The cultivation is on the account)" />
-	<key id="21100023" name="(The Frist intern is an account)" />
-	<key id="21100024" name="(Account) Ranger intern is" />
-	<key id="21100025" name="(Account) heavy gunner residency is" />
-	<key id="21100026" name="(Account) Sifu residency is" />
-	<key id="21100027" name="(Account) assassin residency is" />
-	<key id="21100028" name="(Account) baby-step cultivation is" />
-	<key id="21100029" name="(Account) night Warrior" />
-	<key id="21100030" name="(Account) University Kerr Warrior" />
-	<key id="21100031" name="(Account) Jade Warrior" />
-	<key id="21100032" name="(Account) priest Warrior" />
+	<key id="21100020" name="(Account) Practising Knight" />
+	<key id="21100021" name="(Account) Practising Berserker" />
+	<key id="21100022" name="(Account) Practising Wizard" />
+	<key id="21100023" name="(Account) Practising Priest" />
+	<key id="21100024" name="(Account) Practising Ranger" />
+	<key id="21100025" name="(Account) Practising Heavy Gunner" />
+	<key id="21100026" name="(Account) Practising Thief" />
+	<key id="21100027" name="(Account) Practising Assassin" />
+	<key id="21100028" name="(Account) Practising Baby Steps" />
+	<key id="21100029" name="(Account) Knight Warrior" />
+	<key id="21100030" name="(Account) Berserker Warrior" />
+	<key id="21100031" name="(Account) Wizard Warrior" />
+	<key id="21100032" name="(Account) Priest Warrior" />
 	<key id="21100033" name="(Account) Ranger Warrior" />
-	<key id="21100034" name="(Account) heavy gunner Warrior" />
-	<key id="21100035" name="(Account) Sifu Warrior" />
-	<key id="21100036" name="(Account) assassin Warrior" />
-	<key id="21100037" name="(Account) baby steps Warrior" />
-	<key id="21100038" name="(Bling radar residency is the Rune account)" />
-	<key id="21100039" name="(Bling radar account) Rune Warrior" />
-	<key id="21100040" name="(Bling radar Rune Master account)" />
+	<key id="21100034" name="(Account) Heavy Gunner Warrior" />
+	<key id="21100035" name="(Account) Thief Warrior" />
+	<key id="21100036" name="(Account) Assassin Warrior" />
+	<key id="21100037" name="(Account) Baby Steps Warrior" />
+	<key id="21100038" name="(Account) Practising Rune Blader" />
+	<key id="21100039" name="(Account) Rune Blader Warrior" />
+	<key id="21100040" name="(Account) Rune Blader Master" />
 	<key id="21210001" name="Killer instinct" />
 	<key id="21210002" name="Vegetarian" />
 	<key id="21210003" name="Gosh beast!" />
@@ -948,34 +948,34 @@
 	<key id="23500013" name="(Account) my maid is the Alchemist" />
 	<key id="23500014" name="(Account) best friend" />
 	<key id="23500015" name="(The man from the woman&#8217;s personal account)" />
-	<key id="23500016" name="(Account) you have the right star architects" />
-	<key id="90000006" name="Guild Championship 1 season contestants" />
-	<key id="90000010" name="The Guild # 1 Guild of the Championship 1 season" />
-	<key id="90000011" name="The Guild # 1 Guild of the Championship two seasons" />
-	<key id="90000012" name="The Guild # 1 Guild of the Championship three seasons" />
-	<key id="90000013" name="The Guild # 1 Guild of the Championship four seasons" />
-	<key id="90000014" name="The Guild # 1 Guild of the Championship five seasons" />
+	<key id="23500016" name="(Account) you have the right Star Architect" />
+	<key id="90000006" name="Guild Championship Season 1 Participant" />
+	<key id="90000010" name="Guild Championship Season 1 #1 Guild" />
+	<key id="90000011" name="Guild Championship Season 2 #1 Guild" />
+	<key id="90000012" name="Guild Championship Season 3 #1 Guild" />
+	<key id="90000013" name="Guild Championship Season 4 #1 Guild" />
+	<key id="90000014" name="Guild Championship Season 5 #1 Guild" />
 	<key id="90000015" name="Guild Championship 3-2Season&#8217;s # 1 Guild" />
-	<key id="91000001" name="(Popular designer 2015 account)" />
-	<key id="91000002" name="(Account) 2016 popular Designer" />
-	<key id="91000003" name="(Account) 2017 popular Designer" />
-	<key id="91000004" name="(Account) 2018 popular Designer" />
-	<key id="91000005" name="(Account) 2019 popular Designer" />
-	<key id="91000006" name="(Account) in 2020, a popular Designer" />
-	<key id="91000007" name="(Account), 2021 popular Designer" />
-	<key id="91000008" name="(Account) 2022 popular Designer" />
-	<key id="91000009" name="(Popular designer 2023 account)" />
-	<key id="91000010" name="(Account), popular designer 2024" />
-	<key id="91001001" name="(Account) 2015 star architects" />
-	<key id="91001002" name="(Account) 2016 star architects" />
-	<key id="91001003" name="(Account) 2017 star architects" />
-	<key id="91001004" name="(Account) 2018 star architects" />
-	<key id="91001005" name="(Account) 2019 star architects" />
-	<key id="91001006" name="(Account) 2020 star architects" />
-	<key id="91001007" name="(Account) 2021 star architects" />
-	<key id="91001008" name="(Account) • Star architects" />
-	<key id="91001009" name="(Account) 2023 star architects" />
-	<key id="91001010" name="(Account) 2024 star architects" />
-	<key id="92000001" name="(2 100 days commemorative gift MapleStory account)" />
+	<key id="91000001" name="(Account) 2015 Popular Designer" />
+	<key id="91000002" name="(Account) 2016 Popular Designer" />
+	<key id="91000003" name="(Account) 2017 Popular Designer" />
+	<key id="91000004" name="(Account) 2018 Popular Designer" />
+	<key id="91000005" name="(Account) 2019 Popular Designer" />
+	<key id="91000006" name="(Account) 2020 Popular Designer" />
+	<key id="91000007" name="(Account) 2021 Popular Designer" />
+	<key id="91000008" name="(Account) 2022 Popular Designer" />
+	<key id="91000009" name="(Account) 2023 Popular Designer" />
+	<key id="91000010" name="(Account) 2024 Popular Designer" />
+	<key id="91001001" name="(Account) 2015 Star Architect" />
+	<key id="91001002" name="(Account) 2016 Star Architect" />
+	<key id="91001003" name="(Account) 2017 Star Architect" />
+	<key id="91001004" name="(Account) 2018 Star Architect" />
+	<key id="91001005" name="(Account) 2019 Star Architect" />
+	<key id="91001006" name="(Account) 2020 Star Architect" />
+	<key id="91001007" name="(Account) 2021 Star Architect" />
+	<key id="91001008" name="(Account) 2022 Star Architect" />
+	<key id="91001009" name="(Account) 2023 Star Architect" />
+	<key id="91001010" name="(Account) 2024 Star Architect" />
+	<key id="92000001" name="(Account) MapleStory2 100 Days Commemoration Gift" />
 	<key id="92000002" name="I have Maple 2 honor Corps" />
 </ms2>
