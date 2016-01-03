@@ -1339,7 +1339,7 @@
    <key id="$s_tutorial_skip_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;End Tutorial&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnd the tutorial and move to Amherst.\nAfter moving to Amherst, you cannot come back,\nand you will not be rewarded." /> 
    
    <!-- Party damage meter -->
-   <key id="$s_partydps_timer" value="Cumulative Time" />
+   <key id="$s_partydps_timer" value="Timer" />
    <key id="$s_partydps_bar01" value="Ranking" />
    <key id="$s_partydps_bar02" value="Damage Meter" />
    <key id="$s_partydps_tooltip_notice" value="&lt;FONT color='#FFD200' size='15' &gt;Sharing&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays the ranking and records in the chat window." />
