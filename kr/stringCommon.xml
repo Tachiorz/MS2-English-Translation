@@ -1041,8 +1041,8 @@
   <key id="s_item_opt_sa_improve_acquire_questreward_exp_v" value="The amount of experience you get upon completion of the quest {0} Increases the"/>
   <key id="s_item_opt_sa_improve_acquire_questreward_exp_r" value="The amount of experience you get upon completion of the quest {0:0.1f}% Increases the"/>
   <key id="s_item_opt_sa_improve_acquire_questreward_meso" value="Complete quests: a medley of getting small increases"/>
-  <key id="s_item_opt_sa_improve_acquire_questreward_meso_v" value="Get upon completion of the quest, Meredith small {0:d} Increases the"/>
-  <key id="s_item_opt_sa_improve_acquire_questreward_meso_r" value="Get upon completion of the quest, Meredith small {0:0.1f}% Increases the"/>
+  <key id="s_item_opt_sa_improve_acquire_questreward_meso_v" value="Get upon completion of the quest, Meso {0:d} Increases the"/>
+  <key id="s_item_opt_sa_improve_acquire_questreward_meso_r" value="Get upon completion of the quest, Meso {0:0.1f}% Increases the"/>
   <key id="s_item_opt_sa_improve_npckill_dropitem_incrate" value="Increase your chances of getting items from the enemy drops"/>
   <key id="s_item_opt_sa_improve_npckill_dropitem_incrate_v" value="The odds of getting items from the enemy drops {0:d} Increases the"/>
   <key id="s_item_opt_sa_improve_npckill_dropitem_incrate_r" value="The odds of getting items from the enemy drops {0:0.1f}% Increases the"/>
@@ -1842,7 +1842,7 @@
    <key id="s_realestate_ask_extention_item" value="Contract extension ({0}Days) : &lt;FONT color='#FFD200' &gt;{1} {2}Dog&lt;/FONT&gt;\nAre you sure that you want to extend your contract?"/>
 
    <!-- Real estate for sale -->
-   <key id="s_realestate_sell_meso" value="{0} Meredith small&lt;FONT color='#C00000' &gt; (Non-refundable) &lt;/FONT&gt;"/>
+   <key id="s_realestate_sell_meso" value="{0} Meso&lt;FONT color='#C00000' &gt; (Non-refundable) &lt;/FONT&gt;"/>
    <key id="s_realestate_sell_merat" value="{0} Merit&lt;FONT color='#C00000' &gt; (Non-refundable) &lt;/FONT&gt;"/>
    <key id="s_realestate_sell_name" value="Real estate sign a pledge to give up.\nPlease enter a name for the character."/>
    <key id="s_realestate_sell_wrong" value="Does not match the name of the character."/>
@@ -1899,39 +1899,39 @@
   <!--Action key-->
   <key id="s_action_talk_normal" 	value="Talk"/><!--" Dialog" Were existing NPC KINDThe actionName.xmlTransfer the settings to not only writing this is spicy. action identified in the key-->
   <key id="s_action_talk_normal_cinematic" 	value="Talk"/>
-  <key id="s_action_portal" 		value="Move - {0}"/><!--" Move"-->
+  <key id="s_action_portal" 		value="Go To - {0}"/><!--" Move"-->
   <key id="s_action_interact" 	value="Action - {0}"/><!--" Action"-->
   <key id="s_action_lift_cube" 	value="Lifting - {0}"/><!--" Lifting"-->
-  <key id="s_action_enter_cube" 	value="Move"/><!--" Move"-->
-  <key id="s_action_buy_site" value="Real estate contracts"/><!--"ugc I bought a House, real estate (part I)"-->
-  <key id="s_action_sale_apartment" value="Real estate contracts"/><!--"ugc House, apartment purchase"-->
-  <key id="s_action_sell_cube" value="Termination of agreement"/><!--"ugc House, sale of real estate (part I)"-->
-  <key id="s_action_regist_ugc" value="Image registration"/><!--"ugc Images, wall register"-->
-  <key id="s_action_regist_banner" value="Image registration"/><!--"ugc Image, Billboard registration"-->
-  <key id="s_action_ride" value="Off-machine"/><!--Off-machine-->
-  <key id="s_action_pull" value="Aging hands"/><!--Items used in the lift-->
-  <key id="s_action_putdown_liftable" value="Drop down"/>
-  <key id="s_action_switchcube" value="Work"/>
-  <key id="s_action_fittingdoll" value="Work"/>
+  <key id="s_action_enter_cube" 	value="Go To"/><!--" Move"-->
+  <key id="s_action_buy_site" value="Real Estate Contract"/><!--"ugc I bought a House, real estate (part I)"-->
+  <key id="s_action_sale_apartment" value="Real Estate Contract"/><!--"ugc House, apartment purchase"-->
+  <key id="s_action_sell_cube" value="End Contract"/><!--"ugc House, sale of real estate (part I)"-->
+  <key id="s_action_regist_ugc" value="Image Registration"/><!--"ugc Images, wall register"-->
+  <key id="s_action_regist_banner" value="Image Registration"/><!--"ugc Image, Billboard registration"-->
+  <key id="s_action_ride" value="Mount"/><!--Off-machine-->
+  <key id="s_action_pull" value="Pull"/><!--Items used in the lift-->
+  <key id="s_action_putdown_liftable" value="Put down"/>
+  <key id="s_action_switchcube" value="Operate"/>
+  <key id="s_action_fittingdoll" value="Operate"/>
   <key id="s_action_use_telescope" value="View Telescope"/><!--Observation of objects-->
   <key id="s_action_view_cube_profile" value="View Information"/> <!--Real estate (part) information-->
   <key id="s_action_owner" value=" - {0}"/>
-  <key id="s_action_taxi_call" value="Calling a Taxi"/><!--Taxi stop objects-->
+  <key id="s_action_taxi_call" value="Calling Taxi"/><!--Taxi stop objects-->
   <key id="s_action_hold" value=" While holding the suspension"/><!--Monster catch-->
-    <key id="s_action_cant_pet" value="Now it is not available"/>
-  <key id="s_action_cant_ride" value="Now it is not available"/><!--It is only when you can ride in a vehicle-->
+    <key id="s_action_cant_pet" value="Currently unavailable"/>
+  <key id="s_action_cant_ride" value="Currently unavailable"/><!--It is only when you can ride in a vehicle-->
   <key id="s_action_privilege_portal" value="Only available to residents of the area in the portal."/><!--Real estate portal for the privilege-->
-  <key id="s_action_recall_otheruser" value="Teleport gate opening"/><!--Guild, part recall scroll use-->
-  <key id="s_action_fishing" value="Fishing begins"/><!--Guild, part recall scroll use-->
-  <key id="s_action_fishing_try" value="Fishing is one of."/><!--Guild, part recall scroll use-->
+  <key id="s_action_recall_otheruser" value="Opening Teleport Gate"/><!--Guild, part recall scroll use-->
+  <key id="s_action_fishing" value="Start Fishing"/><!--Guild, part recall scroll use-->
+  <key id="s_action_fishing_try" value="Fishing."/><!--Guild, part recall scroll use-->
 
   <!--City Bar-->
-  <key id="s_action_taxi_call_progress" value="Calling a Taxi"/>
-  <key id="s_action_cash_taxi_call_progress" value="Calling a Helicopter"/>
-    <key id="s_action_summon_pet" value="Call of a pet"/>
-  <key id="s_action_summon_ridee" value="Calling a Mount"/> <!--Call the city appears in the contents bar mounts-->
+  <key id="s_action_taxi_call_progress" value="Calling Taxi"/>
+  <key id="s_action_cash_taxi_call_progress" value="Calling Helicopter"/>
+    <key id="s_action_summon_pet" value="Calling Pet"/>
+  <key id="s_action_summon_ridee" value="Calling Mount"/> <!--Call the city appears in the contents bar mounts-->
   <key id="s_action_goto_home" value="Homing device communication ... Go into the House."/><!--Return enabled. Home: before going to the bar display-->
-  <key id="s_action_bank_call_progress" value="Golden Bank online"/><!--Return enabled. Home: before going to the bar display-->
+  <key id="s_action_bank_call_progress" value="Accessing Golden Bank"/><!--Return enabled. Home: before going to the bar display-->
 
   <!--Doctor-->
   <key id="s_resolve_panelty_accept" value="Cure:SPACE, No thanks:ESC"/>
@@ -1939,11 +1939,11 @@
   <!--In a letter in the mail system, mostly server here.-->
 
   <key id="s_recovery_mail_sender" value="Recovery Manager"/>
-  <key id="s_recovery_mail_title" value="The item has arrived."/>
-  <key id="s_recovery_mail_content" value="Belongings are full. Having your belongings and get an item."/>
+  <key id="s_recovery_mail_title" value="An item has arrived."/>
+  <key id="s_recovery_mail_content" value="Your inventory is full. Empty your inventory to receive the item."/>
   <key id="s_trade_recovery_mail_sender" value="Trading Manager"/>
   <key id="s_trade_recovery_mail_title" value="Trading items has been recovered."/>
-  <key id="s_trade_recovery_mail_content" value="Having your belongings and get an item."/>
+  <key id="s_trade_recovery_mail_content" value="Empty your inventory to receive the attached item."/>
 
   <!--1:1 Trading-->
   <key id="s_trade_request_success" value="The trade request was successful."/>
@@ -2120,7 +2120,7 @@
   <key id="s_word_minimap_alpha" value="Minimap Transparency"/>
   <key id="s_word_mapbg_alpha" value="Map Background Transparency"/>
   <key id="s_word_game_over" value="Exit Game"/>
-  <key id="s_word_exit_yes" value="Yes, byebye"/>
+  <key id="s_word_exit_yes" value="Yes, goodbye"/>
   <key id="s_word_exit_no" value="I'll stay"/>
 
   <key id="s_word_sunday" value="Sunday"/>
@@ -2147,7 +2147,7 @@
   <key id="s_system_quest_reward_exp" value="&lt;FONT color='#8dd502'&gt;{0} EXP Acquisition&lt;/FONT&gt;"/>
   <key id="s_system_quest_reward_exp_with_hottimebonus" value="&lt;FONT color='#8dd502'&gt;{0} EXP + Hot-time bonus {1} EXP Acquisition&lt;/FONT&gt;"/>
   <key id="s_system_quest_reward_meso" value="&lt;FONT color='#'FFB400&gt;{0} Meredith acquired the cow&lt;/FONT&gt;"/>
-  <key id="s_system_quest_reward_meso_with_hottimebonus" value="&lt;FONT color='#'FFB400&gt;{0} Meredith small + Hot-time bonus {1} Meredith acquired the cow&lt;/FONT&gt;"/>
+  <key id="s_system_quest_reward_meso_with_hottimebonus" value="&lt;FONT color='#'FFB400&gt;{0} Meso + Hot-time bonus {1} Meredith acquired the cow&lt;/FONT&gt;"/>
   <key id="s_system_quest_reward_merat" value="&lt;FONT color='#'FFB400&gt;{0} Merit obtained&lt;/FONT&gt;"/>
   <key id="s_system_achieve_reward_title" value="&lt;FONT color='#'FFB400&gt;{0} Entitlement acquired&lt;/FONT&gt;"/>
   <key id="s_system_achieve_reward_field_enterance" value="&lt;FONT color='#'FFB400&gt;{0} Entry rights acquisition&lt;/FONT&gt;"/>
@@ -2363,16 +2363,16 @@
   <key id="s_err_lack_itemcount" value="Out-of-stock merchandise."/>
   <key id="s_err_null_product" value = "Does not sell products."/>
 
-  <key id="s_blackmarket_mail_to_sender" value="Black market traders"/>
+  <key id="s_blackmarket_mail_to_sender" value="Black Market Trader"/>
   <key id="s_blackmarket_mail_to_cancel_direct" value="Direct cancellation"/>
   <key id="s_blackmarket_mail_to_buyer_recver" value="[The buyer]"/>
   <key id="s_blackmarket_mail_to_seller_title" value="[Black market] Settlement complete: {0}"/>
   <key id="s_blackmarket_mail_to_seller_title2" value="[Black market] For sale complete: {0}"/>
-  <key id="s_blackmarket_mail_to_seller_content" value="Black market sale price settlement was completed.\nPlease check the attached amounts.\n\nFor sale items: {0}\nPriced to sell: {1} Meredith small\nSales commissions: - {2}Meredith small\n        (Sales in the amount of {3}%)\n----------------------------------------------\nSale price: {4}Meredith small\n(Settlement complete)"/>
-  <key id="s_blackmarket_mail_to_seller_content2" value="One of the items consigned to the black market for sale.\nOur black market, in order to prevent abuse, such as the trading fraud {0}Payout time settlement period.\nTherefore, sale price items being sold {0}Over time, the Commission will send a separate mail, except for the amount.\n\nFor sale items: {1}\nPriced to sell: {2} Merle (per piece {3}Merle)\nSales commissions: - {4}Meredith small\n        (Sales in the amount of {5}%)\n----------------------------------------------\nSettlement slated for sale price: {6}Meredith small\n({0}Hours after the settlement plan)"/>
+  <key id="s_blackmarket_mail_to_seller_content" value="Black market sale price settlement was completed.\nPlease check the attached amounts.\n\nFor sale items: {0}\nPriced to sell: {1} Meso\nSales commissions: - {2}Meso\n        (Sales in the amount of {3}%)\n----------------------------------------------\nSale price: {4}Meso\n(Settlement complete)"/>
+  <key id="s_blackmarket_mail_to_seller_content2" value="One of the items consigned to the black market for sale.\nOur black market, in order to prevent abuse, such as the trading fraud {0}Payout time settlement period.\nTherefore, sale price items being sold {0}Over time, the Commission will send a separate mail, except for the amount.\n\nFor sale items: {1}\nPriced to sell: {2} Merle (per piece {3}Merle)\nSales commissions: - {4}Meso\n        (Sales in the amount of {5}%)\n----------------------------------------------\nSettlement slated for sale price: {6}Meso\n({0}Hours after the settlement plan)"/>
   <key id="s_blackmarket_mail_to_seller_content2_itemname" value="{0} ({1}The dog)"/>
   <key id="s_blackmarket_mail_to_buyer_title" value="[Black market] Purchase complete: {0}"/>
-  <key id="s_blackmarket_mail_to_buyer_content" value="Items purchased from the black market.\nPlease check the attached item.\n\nPurchase item (s): {0}\nThe purchase price: {1} Meredith small\n"/>
+  <key id="s_blackmarket_mail_to_buyer_content" value="Items purchased from the black market.\nPlease check the attached item.\n\nPurchase item (s): {0}\nThe purchase price: {1} Meso\n"/>
   <key id="s_blackmarket_mail_to_cancel_title" value="[Black market] Sale cancellations: {0}"/>
   <key id="s_blackmarket_mail_to_cancel_content" value="Black market sale of the registered items consigned to the cancellation.\n\nReason for cancellation: {0}\nConsignment items for sale: {1}\nRegistration price: {2}"/>
   <key id="s_blackmarket_mail_to_fail_add_title" value="[Black market] Registration failed : {0}"/>
@@ -3141,8 +3141,8 @@
   <!-- Change options for the equipment -->
   <key id="s_remake_itemoption_error" value="This option cannot be changed for the selected equipment."/>
   <key id="s_remake_itemoption_error_impossible" value="This option cannot be changed for the selected equipment."/>
-  <key id="s_remake_itemoption_error_maxcount" value="Change options for the selected equipment count has been exceeded."/>
-  <key id="s_remake_itemoption_error_limitlevel" value="50Level equipment."/>
+  <key id="s_remake_itemoption_error_maxcount" value="You've exceeded changing options on the selected equipment."/>
+  <key id="s_remake_itemoption_error_limitlevel" value="Only available on level 50 equipment or higher."/>
   
   <!--Show ToolTips-->
   <key id="s_tooltip_itemoption_kinds_static" value="&lt;font color='#ffffff'&gt;Default Options\n{0}&lt;/font&gt;"/>
@@ -3155,7 +3155,7 @@
     <key id="s_tooltip_itemoption_setitem_name" value="&lt;font color='#00d205'&gt;{0} ({1}/{2})\n&lt;/font&gt;"/>
     <key id="s_tooltip_itemoption_setitem_set_title" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color='#{0:x}'&gt;{1} Set\n&lt;/font&gt;"/>
     <key id="s_tooltip_itemoption_setitem_name_row" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color='#{0:x}'&gt;{1}\n&lt;/font&gt;"/>
-    <key id="s_tooltip_itemoption_setitem_stat_row" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color='#{0:x}'&gt;And{1}\n&lt;/font&gt;"/>
+    <key id="s_tooltip_itemoption_setitem_stat_row" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color='#{0:x}'&gt;ㆍ{1}\n&lt;/font&gt;"/>
 
     <!--Playing an instrument proficiency -->
     <key id="s_play_instrument_grade_Lv1" value="Novice Performer"/>
@@ -3164,37 +3164,37 @@
     <key id="s_play_instrument_grade_Lv4" value="Professional Performer"/>  
     
     <!--Playing an instrument -->   
-    <key id="s_msg_tooltip_musicscore_enable_playcount" value="&lt;FONT color='#FFD200'&gt;{0}Times available for playing&lt;/font&gt;\nYou can play by using the instrument."/>
-    <key id="s_msg_tooltip_musicscore_disable_playcount" value="&lt;FONT color='#FF4040'&gt;0Times available for playing&lt;/font&gt;"/>
-    <key id="s_msg_tooltip_musicscore_enable_playcount_custom_empty" value="&lt;FONT color='#FFD200'&gt;Production: {0}Times available for playing&lt;/font&gt;"/>
+    <key id="s_msg_tooltip_musicscore_enable_playcount" value="&lt;FONT color='#FFD200'&gt;Able to play {0} times&lt;/font&gt;\nYou can play this by using a instrument."/>
+    <key id="s_msg_tooltip_musicscore_disable_playcount" value="&lt;FONT color='#FF4040'&gt;Unable to play anymore&lt;/font&gt;"/>
+    <key id="s_msg_tooltip_musicscore_enable_playcount_custom_empty" value="&lt;FONT color='#FFD200'&gt;Able to play {0} times when created&lt;/font&gt;"/>
 
-    <key id="s_msg_tooltip_musicscore_custom_used_item_desc" value="You can play the recorded music and sheet music."/>
-    <key id="s_msg_tooltip_musicscore_custom_used_item_desc_guide" value="Double-click the sheet music and instruments in the window your belongings played when you select\nYou can play this song."/>
-    <key id="s_msg_tooltip_musicscore_custom_empty_stat_desc" value="{0}Now it is possible to enter"/>
-    <key id="s_msg_tooltip_musicscore_stat_desc" value="Featured instruments: {0}\nPlaying time: {1}"/>
-    <key id="s_msg_tooltip_musicscore_writer" value="{0} Composition"/>
+    <key id="s_msg_tooltip_musicscore_custom_used_item_desc" value="A recorded musical score that can be played."/>
+    <key id="s_msg_tooltip_musicscore_custom_used_item_desc_guide" value="Double-click an instrument to place this musical score for you to be able to play\nYou can play this musical score."/>
+    <key id="s_msg_tooltip_musicscore_custom_empty_stat_desc" value="{0} Max. Characters"/>
+    <key id="s_msg_tooltip_musicscore_stat_desc" value="Featured Instrument: {0}\nPlaying Time: {1}"/>
+    <key id="s_msg_tooltip_musicscore_writer" value="Composed by {0}"/>
     
-    <key id="s_play_instrument_ui_score_info_writer" value="Composition : {0}"/>
+    <key id="s_play_instrument_ui_score_info_writer" value="Composed By : {0}"/>
     <key id="s_play_instrument_ui_score_play_duration" value="Playing Time : {0}"/>
-    <key id="s_play_instrument_ui_score_info_title" value="[Sheet music] {0}"/>
-    <key id="s_play_instrument_ui_score_info_instrument" value="Featured instruments : {0}"/>
-    <key id="s_play_instrument_ui_ask_close_while_playing_score" value="&lt;FONT color='#FF5f5f'&gt;Closing the window will stop playing.&lt;/font&gt;\nYou really Windows?" />
-    <key id="s_play_instrument_ui_button_play_solo" value="To play" />
-    <key id="s_play_instrument_ui_button_play_ensemble" value="Ensemble getting started" />
-    <key id="s_play_instrument_ui_button_ready_ensemble" value="Ensemble to prepare" />
-    <key id="s_play_instrument_ui_button_stop_solo" value="To stop playing" />
-    <key id="s_play_instrument_ui_button_stop_ready_ensemble" value="Ensemble unprepared" />
-    <key id="s_play_instrument_ui_button_stop_ensemble" value="Ensemble to stop" />
-    <key id="s_play_instrument_ui_need_score" value="Playing sheet music.\nPlease put up the sheet music to play on your belongings." />
+    <key id="s_play_instrument_ui_score_info_title" value="[Musical Score] {0}"/>
+    <key id="s_play_instrument_ui_score_info_instrument" value="Featured Instrument : {0}"/>
+    <key id="s_play_instrument_ui_ask_close_while_playing_score" value="&lt;FONT color='#FF5f5f'&gt;Closing the window will stop the play.&lt;/font&gt;\nAre you sure you want to close this window?" />
+    <key id="s_play_instrument_ui_button_play_solo" value="Play" />
+    <key id="s_play_instrument_ui_button_play_ensemble" value="Start Ensemble" />
+    <key id="s_play_instrument_ui_button_ready_ensemble" value="Ensemble Prepared" />
+    <key id="s_play_instrument_ui_button_stop_solo" value="Stop" />
+    <key id="s_play_instrument_ui_button_stop_ready_ensemble" value="Ensemble Unprepared" />
+    <key id="s_play_instrument_ui_button_stop_ensemble" value="Stop" />
+    <key id="s_play_instrument_ui_need_score" value="There is no musical score to play with.\nPlace a musical score from your inventory." />
     <key id="s_play_instrument_ui_need_party_for_ensemble" value="&lt;FONT color='#FF5f5f'&gt;If you want to party, you must subscribe to the sum weeks.&lt;/font&gt;\nWhen you start patijangi ensemble\nNear ready to party with the ensemble in the ensemble." />    
-    <key id="s_play_instrument_invalid_instrument" value="The instrument is not valid." />
-    <key id="s_play_instrument_invalid_music_score" value="Sheet music is not valid." />
-    <key id="s_play_instrument_mastery" value="Playing skills {0} Rose." /> 
-    <key id="s_play_instrument_invalid_state" value="Now it is not available." />
-    <key id="s_play_instrument_invalid_position" value="This cannot be done." />
-    <key id="s_play_instrument_cant_while_write_music" value="Among the compositions can be used." />
-    <key id="s_play_instrument_cant_while_play_instrument" value="The instrument is in use." /> 
-    <key id="s_play_instrument_invalid_map" value="This cannot be done in the area." />
+    <key id="s_play_instrument_invalid_instrument" value="This instrument is invalid." />
+    <key id="s_play_instrument_invalid_music_score" value="This musical score is invalid." />
+    <key id="s_play_instrument_mastery" value="Your music mastery has been increased by {0}." /> 
+    <key id="s_play_instrument_invalid_state" value="Currently unavailable." />
+    <key id="s_play_instrument_invalid_position" value="You cannot do that here." />
+    <key id="s_play_instrument_cant_while_write_music" value="You cannot do that while composing music." />
+    <key id="s_play_instrument_cant_while_play_instrument" value="This instrument is already in use." /> 
+    <key id="s_play_instrument_invalid_map" value="You cannot do that in this area." />
     
     <key id="s_play_instrument_instrument_name_1" value="" /> <!--Grand Piano / If you add more instrument types.-->
     <key id="s_play_instrument_instrument_name_2" value="" /> <!--Acoustic guitar / If you add more instrument types.-->
@@ -3202,27 +3202,27 @@
     <key id="s_play_instrument_instrument_category_name_2" value="Guitar" />
     
     <!--Music production -->    
-    <key id="s_writemusic_complete_make"  value="Music production."/>
-    <key id="s_writemusic_error_make"  value="Music creation failed.\nClose the window, please back to making music."/>
-    <key id="s_writemusic_error_make_empty_title"  value="Please enter a title for the score."/>
-    <key id="s_writemusic_error_make_invalid_instrument_type"  value="Please choose the instrument again."/>
-    <key id="s_writemusic_error_make_empty_score"  value="Sheet music content is empty.\nPlease enter the contents of the sheet music."/>
-    <key id="s_writemusic_error_make_maxlength"  value="The maximum number of characters that can be entered has been exceeded."/>
-    <key id="s_writemusic_error_make_zero_time"  value="Less than 1 second of time playing music is unable to produce."/>
-    <key id="s_writemusic_error_play"  value="Failed to play the music.\nClose the window, please back to making music."/>
-    <key id="s_writemusic_error_play_empty_score"  value="Sheet music content is empty.\nPlease enter the contents of the sheet music."/>
-    <key id="s_writemusic_error_play_zero_time"  value="Playing time is 0 seconds.\nHow to make enter the contents after the composer."/>
-    <key id="s_writemusic_error_add_tab_maxcount"  value="The maximum number of tabs has been exceeded."/>
+    <key id="s_writemusic_complete_make"  value="You've created the musical score."/>
+    <key id="s_writemusic_error_make"  value="Failed creating the musical score.\nClose the window and try again."/>
+    <key id="s_writemusic_error_make_empty_title"  value="Please enter a title for the musical score."/>
+    <key id="s_writemusic_error_make_invalid_instrument_type"  value="Please select an instrument again."/>
+    <key id="s_writemusic_error_make_empty_score"  value="The contents of your musical score is empty.\nPlease enter the contents."/>
+    <key id="s_writemusic_error_make_maxlength"  value="You've exceeded the maximum number of characters allowed."/>
+    <key id="s_writemusic_error_make_zero_time"  value="The musical score cannot be created because there is less than a second of playing time."/>
+    <key id="s_writemusic_error_play"  value="Failed to play the music score.\nClose the window and try again."/>
+    <key id="s_writemusic_error_play_empty_score"  value="The contents of your musical score is empty.\nPlease enter the contents."/>
+    <key id="s_writemusic_error_play_zero_time"  value="The playing time is 0 seconds.\nEnter the contents after checking Composition Help."/>
+    <key id="s_writemusic_error_add_tab_maxcount"  value="You've exceeded the maximum number of tabs allowed."/>
     
-    <key id="s_writemusic_msg_ask_close"  value="If you close the window, the content being edited.\nDo you want to stop composing?"/>
-    <key id="s_writemusic_msg_ask_remove_tab" value="If you delete the contents of the input chord.\nAre you sure you want to delete?"/>
+    <key id="s_writemusic_msg_ask_close"  value="The entered contents will disappear if you close this window.\nDo you want to stop composing?"/>
+    <key id="s_writemusic_msg_ask_remove_tab" value="The entered chords will disappear if you close this tab.\nAre you sure you want to delete it?"/>
     
     <key id="s_writemusic_text_playtimer_total" value="({0:02d}:{1:02d})"/>
     <key id="s_writemusic_text_playtimer_cur" value="{0:02d}:{1:02d}"/>
     <!-- -->
-    <key id="s_anti_addiction_cannot_receive" value="Fatigue is the launch in time for the game." />
+    <key id="s_anti_addiction_cannot_receive" value="You cannot launch the game during fatigue hours." />
 
   <!-- Auto potion recovery settings-->
-  <key id="s_auto_itemuse_default" value="Please set the item." />
-  <key id="s_auto_itemuse_condition" value="HPIs {0} Days when" />
+  <key id="s_auto_itemuse_default" value="Set up your items." />
+  <key id="s_auto_itemuse_condition" value="When HP is {0} less" />
 </ms2>
