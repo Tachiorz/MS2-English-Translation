@@ -48,32 +48,32 @@
   <key id="400015" name="Maview"/>
   <key id="400016" name="Market"/>
   <key id="400017" name="Cash Shop"/>
-  <key id="400018" name="Find Parties"/>
+  <key id="400018" name="Party Search"/>
   <key id="400019" name="Maid Crafting"/>
   <key id="400020" name="Private Battle"/>
  
-  <key id="500001" name="Quick slot 1"/>
-  <key id="500002" name="Quick slot 2"/>
-  <key id="500003" name="Quick slot 3"/>
-  <key id="500004" name="Quick slot 4"/>
-  <key id="500005" name="Quick slot 5"/>
-  <key id="500006" name="Quick slot 6"/>
-  <key id="500007" name="Quick slot 7"/>
-  <key id="500008" name="Quick slot 8"/>
-  <key id="500009" name="Quick slot 9"/>
-  <key id="500010" name="Quick slot 10"/>
-  <key id="500011" name="Quick slot 11"/>
-  <key id="500012" name="Quick slot 12"/>
-  <key id="500013" name="Quick slot 13"/>
-  <key id="500014" name="Quick slot 14"/>
-  <key id="500015" name="Quick slots 15"/>
-  <key id="500016" name="Quick slot 16"/>
-  <key id="500017" name="Quick slots 17"/>
-  <key id="500018" name="Quick slots 18"/>
-  <key id="500019" name="Quick slot 19"/>
-  <key id="500020" name="Quick slot 20"/>
-  <key id="500021" name="Quick slot 21"/>
-  <key id="500022" name="Quick slot 22"/>
+  <key id="500001" name="Quick Slot 1"/>
+  <key id="500002" name="Quick Slot 2"/>
+  <key id="500003" name="Quick Slot 3"/>
+  <key id="500004" name="Quick Slot 4"/>
+  <key id="500005" name="Quick Slot 5"/>
+  <key id="500006" name="Quick Slot 6"/>
+  <key id="500007" name="Quick Slot 7"/>
+  <key id="500008" name="Quick Slot 8"/>
+  <key id="500009" name="Quick Slot 9"/>
+  <key id="500010" name="Quick Slot 10"/>
+  <key id="500011" name="Quick Slot 11"/>
+  <key id="500012" name="Quick Slot 12"/>
+  <key id="500013" name="Quick Slot 13"/>
+  <key id="500014" name="Quick Slot 14"/>
+  <key id="500015" name="Quick Slot 15"/>
+  <key id="500016" name="Quick Slot 16"/>
+  <key id="500017" name="Quick Slot 17"/>
+  <key id="500018" name="Quick Slot 18"/>
+  <key id="500019" name="Quick Slot 19"/>
+  <key id="500020" name="Quick Slot 20"/>
+  <key id="500021" name="Quick Slot 21"/>
+  <key id="500022" name="Quick Slot 22"/>
 
   <key id="600001" name="MODE"/>
 
