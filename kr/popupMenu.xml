@@ -19,13 +19,13 @@
 	<!--Shutdown feature-->
 	<key id="400" name="Block"/>
 	<key id="401" name="Unblock"/>
-	<key id="402" name="Block Note Editing"/>
+	<key id="402" name="Edit Block Note"/>
 	
 	<!--Other-->
 	<key id="500" name="Trade"/>
 	<key id="501" name="Report" />
-	<key id="502" name="Group Dialogue"/>
+	<key id="502" name="Group Talk"/>
   <key id="503" name="Visit House"/>
   <key id="504" name="Pet Information"/>
-  <key id="505" name="Pet Recall"/>
+  <key id="505" name="Pet Desummon"/>
 </ms2> 
