@@ -901,8 +901,8 @@
   <key id="s_word_woman" value="Female"/>
   <key id="s_word_man_or_woman" value="Unisex"/>
   <key id="s_word_usercount" value="{0}"/>
-    <key id="s_word_stat_increase" value="{0} Increases the"/> <!--ex)Went through 3% increase in power-->
-    <key id="s_word_stat_increase_near_zero" value="{0} 1 An increase of less than"/> <!--ex)Defense power increase in less than one-->
+    <key id="s_word_stat_increase" value="+{0}"/> <!--ex)Went through 3% increase in power-->
+    <key id="s_word_stat_increase_near_zero" value="{0} An increase of less than 1"/> <!--ex)Defense power increase in less than one-->
   <key id="s_word_exp" value="EXP"/>
   <key id="s_word_stat_hp" value="HP"/>
   <key id="s_word_stat_sp" value="SP"/>
@@ -972,9 +972,9 @@
   <key id="s_word_stat_hp_r" value="HP {0:0.1f}%"/>
   <key id="s_word_stat_sp_r" value="SP {0:0.1f}%"/>
   <key id="s_word_stat_ep_r" value="EP {0:0.1f}%"/>
-  <key id="s_word_stat_str_r" value="Wear: full STR {0:0.1f}% Increases the"/>
-  <key id="s_word_stat_dex_r" value="Wear: full DEX {0:0.1f}% Increases the"/>
-  <key id="s_word_stat_int_r" value="Wear: full INT {0:0.1f}% Increases the"/>
+  <key id="s_word_stat_str_r" value="Full STR +{0:0.1f}% when equipped"/>
+  <key id="s_word_stat_dex_r" value="Full DEX +{0:0.1f}% when equipped"/>
+  <key id="s_word_stat_int_r" value="Full INT +{0:0.1f}% when equipped"/>
   <key id="s_word_stat_ndd_r" value="Defense {0:0.1f}%"/>
   <key id="s_word_stat_atp_r" value="Accuracy {0:0.1f}%"/>
   <key id="s_word_stat_evp_r" value="Avoidability {0:0.1f}%"/>
@@ -989,7 +989,7 @@
   <key id="s_word_stat_asp_r" value="Attack Speed {0:0.1f}%"/>
   <key id="s_word_stat_abp_r" value="Complete Defense {0:0.1f}%"/>
   <key id="s_word_stat_jmp_r" value="Jump {0:0.1f}%"/>
-  <key id="s_word_stat_luk_r" value="Wear: full LUK {0:0.1f}% Increases the"/>
+  <key id="s_word_stat_luk_r" value="Full LUK {0:0.1f}% when equipped"/>
   <key id="s_word_stat_pap_r" value="Physical Attack {0:0.1f}%"/>
   <key id="s_word_stat_map_r" value="Magic Attack {0:0.1f}%"/>
   <key id="s_word_stat_par_r" value="Physical Defense {0:0.1f}%"/>
@@ -1031,39 +1031,39 @@
   <key id="s_item_type_righthand" value="Right-handed"/>
   <key id="s_item_opt_error" value="Item Option Error. code={0}"/>
 
-  <key id="s_item_opt_sa_improve_acquire_exp" value="The amount of experience you get from the increase to the enemy"/>
-  <key id="s_item_opt_sa_improve_acquire_exp_v" value="The amount of experience you get from the enemy {0} Increases the"/>
-  <key id="s_item_opt_sa_improve_acquire_exp_r" value="The amount of experience you get from the enemy {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_acquire_meso" value="Have you ever get from the increase in cattle in Medan"/>
-  <key id="s_item_opt_sa_improve_acquire_meso_v" value="Have you ever get from Tome to ISO {0:d} Increases the"/>
-  <key id="s_item_opt_sa_improve_acquire_meso_r" value="Have you ever get from Tome to ISO {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_acquire_questreward_exp" value="The amount of experience you get upon completion of a quest to increase"/>
-  <key id="s_item_opt_sa_improve_acquire_questreward_exp_v" value="The amount of experience you get upon completion of the quest {0} Increases the"/>
-  <key id="s_item_opt_sa_improve_acquire_questreward_exp_r" value="The amount of experience you get upon completion of the quest {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_acquire_questreward_meso" value="Complete quests: a medley of getting small increases"/>
-  <key id="s_item_opt_sa_improve_acquire_questreward_meso_v" value="Get upon completion of the quest, Meso {0:d} Increases the"/>
-  <key id="s_item_opt_sa_improve_acquire_questreward_meso_r" value="Get upon completion of the quest, Meso {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_npckill_dropitem_incrate" value="Increase your chances of getting items from the enemy drops"/>
-  <key id="s_item_opt_sa_improve_npckill_dropitem_incrate_v" value="The odds of getting items from the enemy drops {0:d} Increases the"/>
-  <key id="s_item_opt_sa_improve_npckill_dropitem_incrate_r" value="The odds of getting items from the enemy drops {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_speed_swim" value="Swimming speed increases"/>
-  <key id="s_item_opt_sa_improve_speed_swim_v" value="Swimming speed increases {0:d}"/>
-  <key id="s_item_opt_sa_improve_speed_swim_r" value="Swimming speed {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_speed_dash" value="Dash increasing distance"/>
-  <key id="s_item_opt_sa_improve_speed_dash_v" value="Dash increasing distance {0:d}"/>
-  <key id="s_item_opt_sa_improve_speed_dash_r" value="Dash away {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_acquire_potion" value="To increase the probability of discovering the elixir"/>
-  <key id="s_item_opt_sa_improve_acquire_potion_v" value="To increase the probability of discovering the elixir {0:d}"/>
-  <key id="s_item_opt_sa_improve_acquire_potion_r" value="Potion found the odds {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_acquire_equipment" value="To increase the probability of equipment found"/>
-  <key id="s_item_opt_sa_improve_acquire_equipment_v" value="Equipment found the odds {0:d} Increases the"/>
-  <key id="s_item_opt_sa_improve_acquire_equipment_r" value="Equipment found the odds {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_damage_critical" value="Critical Damage increase"/>
-  <key id="s_item_opt_sa_improve_damage_critical_v" value="Critical Damage increase {0:d}"/>
-  <key id="s_item_opt_sa_improve_damage_critical_r" value="Critical Damage {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_damage_normalNpc" value="General monster attack: increases damage"/>
-  <key id="s_item_opt_sa_improve_damage_normalNpc_v" value="General monster attack: increases damage {0:d}"/>
-  <key id="s_item_opt_sa_improve_damage_normalNpc_r" value="General monster attack damage {0:0.1f}% Increases the"/>
+  <key id="s_item_opt_sa_improve_acquire_exp" value="Increased EXP from enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_exp_v" value="{0} Increased EXP from enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_exp_r" value="{0:0.1f}% Increased EXP from enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_meso" value="Increased Meso from enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_meso_v" value="{0:d} Increased Meso from enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_meso_r" value="{0:0.1f}% Increased Meso from enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_questreward_exp" value="Increased EXP from completing quests"/>
+  <key id="s_item_opt_sa_improve_acquire_questreward_exp_v" value="{0} Increased EXP from completing quests"/>
+  <key id="s_item_opt_sa_improve_acquire_questreward_exp_r" value="{0:0.1f}% Increased EXP from completing quests"/>
+  <key id="s_item_opt_sa_improve_acquire_questreward_meso" value="Increased Meso from completing quests"/>
+  <key id="s_item_opt_sa_improve_acquire_questreward_meso_v" value="{0:d} Increased Meso from completing quests"/>
+  <key id="s_item_opt_sa_improve_acquire_questreward_meso_r" value="{0:0.1f}% Increased Meso from completing quests"/>
+  <key id="s_item_opt_sa_improve_npckill_dropitem_incrate" value="Increased item drop rate from enemies"/>
+  <key id="s_item_opt_sa_improve_npckill_dropitem_incrate_v" value="{0:d} Increased item drop rate from enemies"/>
+  <key id="s_item_opt_sa_improve_npckill_dropitem_incrate_r" value="{0:0.1f}% Increased item drop rate from enemies"/>
+  <key id="s_item_opt_sa_improve_speed_swim" value="Increased Swimming Speed"/>
+  <key id="s_item_opt_sa_improve_speed_swim_v" value="{0:d} Increased Swimming Speed"/>
+  <key id="s_item_opt_sa_improve_speed_swim_r" value="{0:0.1f}% Increased Swimming Speed"/>
+  <key id="s_item_opt_sa_improve_speed_dash" value="Increased Dash Range"/>
+  <key id="s_item_opt_sa_improve_speed_dash_v" value="{0:d} Increased Dash Range"/>
+  <key id="s_item_opt_sa_improve_speed_dash_r" value="{0:0.1f}% Increased Dash Range"/>
+  <key id="s_item_opt_sa_improve_acquire_potion" value="Increased Potion Discovery Rate"/>
+  <key id="s_item_opt_sa_improve_acquire_potion_v" value="{0:d} Increased Potion Discovery Rate"/>
+  <key id="s_item_opt_sa_improve_acquire_potion_r" value="{0:0.1f}% Increased Potion Discovery Rate"/>
+  <key id="s_item_opt_sa_improve_acquire_equipment" value="Increased Equipment Discovery Rate"/>
+  <key id="s_item_opt_sa_improve_acquire_equipment_v" value="{0:d} Increased Equipment Discovery Rate"/>
+  <key id="s_item_opt_sa_improve_acquire_equipment_r" value="{0:0.1f}% Increased Equipment Discovery Rate"/>
+  <key id="s_item_opt_sa_improve_damage_critical" value="Increased Critical Damage"/>
+  <key id="s_item_opt_sa_improve_damage_critical_v" value="{0:d} Increased Critical Damage"/>
+  <key id="s_item_opt_sa_improve_damage_critical_r" value="{0:0.1f}% Increased Critical Damage"/>
+  <key id="s_item_opt_sa_improve_damage_normalNpc" value="Increased Attack on Normal Monsters"/>
+  <key id="s_item_opt_sa_improve_damage_normalNpc_v" value="{0:d} Increased Attack on Normal Monsters"/>
+  <key id="s_item_opt_sa_improve_damage_normalNpc_r" value="{0:0.1f}% Increased Attack on Normal Monsters"/>
   <key id="s_item_opt_sa_improve_damage_leaderNpc" value="Increases the damage the attack: a reader"/>
   <key id="s_item_opt_sa_improve_damage_leaderNpc_v" value="Increases the damage the attack: a reader {0:d}"/>
   <key id="s_item_opt_sa_improve_damage_leaderNpc_r" value="Leader attack damage {0:0.1f}% Increases the"/>
@@ -1080,9 +1080,9 @@
   <key id="s_item_opt_sa_improve_recovery_regen_receiveheal" value="The effect of increasing the receiving teammate recovery skills"/>
   <key id="s_item_opt_sa_improve_recovery_regen_receiveheal_v" value="The effect of increasing the receiving teammate recovery skills {0:d}"/>
   <key id="s_item_opt_sa_improve_recovery_regen_receiveheal_r" value="Friendly receiving recovery skill effects {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_elements_ice" value="Frost damage increase"/>
-  <key id="s_item_opt_sa_improve_elements_ice_v" value="Frost damage increase {0:d}"/>
-  <key id="s_item_opt_sa_improve_elements_ice_r" value="Frost damage {0:0.1f}% Increases the"/>
+  <key id="s_item_opt_sa_improve_elements_ice" value="Increased Ice Damage"/>
+  <key id="s_item_opt_sa_improve_elements_ice_v" value="{0:d} Increased Ice Damage"/>
+  <key id="s_item_opt_sa_improve_elements_ice_r" value="{0:0.1f}% Increased Ice Damage"/>
   <key id="s_item_opt_sa_improve_elements_fire" value="Flame damage increase"/>
   <key id="s_item_opt_sa_improve_elements_fire_v" value="Flame damage {0:d} Increases the"/>
   <key id="s_item_opt_sa_improve_elements_fire_r" value="Flame damage {0:0.1f}% Increases the"/>
@@ -1106,12 +1106,12 @@
   <key id="s_item_opt_sa_improve_damage_longrange_v" value="Increases the ranged damage {0:d}"/>
   <key id="s_item_opt_sa_improve_damage_longrange_r" value="Ranged damage {0:0.1f}% Increases the"/>
 
-  <key id="s_item_opt_sa_improve_piercing_par" value="Physical def penetrating"/>
-  <key id="s_item_opt_sa_improve_piercing_par_v" value="Physical def penetrating {0:d}"/>
-  <key id="s_item_opt_sa_improve_piercing_par_r" value="Physical Defense {0:0.1f}% Piercing"/>
-  <key id="s_item_opt_sa_improve_piercing_mar" value="Magic armor piercing"/>
-  <key id="s_item_opt_sa_improve_piercing_mar_v" value="Magic armor piercing {0:d}"/>
-  <key id="s_item_opt_sa_improve_piercing_mar_r" value="Magic Defense {0:0.1f}% Piercing"/>
+  <key id="s_item_opt_sa_improve_piercing_par" value="Physical Defense Penetration"/>
+  <key id="s_item_opt_sa_improve_piercing_par_v" value="Physical Defense Penetration {0:d}"/>
+  <key id="s_item_opt_sa_improve_piercing_par_r" value="Physical Defense {0:0.1f}% Penetration"/>
+  <key id="s_item_opt_sa_improve_piercing_mar" value="Magic Defense Penetration"/>
+  <key id="s_item_opt_sa_improve_piercing_mar_v" value="Magic Defense Penetration {0:d}"/>
+  <key id="s_item_opt_sa_improve_piercing_mar_r" value="Magic Defense {0:0.1f}% Penetration"/>
 
   <key id="s_item_opt_sa_reduce_elements_ice" value="Frost damage reduction"/>
   <key id="s_item_opt_sa_reduce_elements_ice_v" value="Frost damage reduction {0:d}"/>
@@ -1186,14 +1186,14 @@
   <key id="s_item_opt_sa_probability_splashdamage_longrange_v" value="Ranged attack: the greater the damage {0:d}"/>
   <key id="s_item_opt_sa_probability_splashdamage_longrange_r" value="Ranged attack: the greater the damage {0:0.1f}%"/>
 
-  <key id="s_item_opt_sa_improve_damage_final" value="Total damage increase"/>
-  <key id="s_item_opt_sa_improve_damage_final_v" value="Total damage increase {0:d}"/>
-  <key id="s_item_opt_sa_improve_damage_final_r" value="Total damage {0:0.1f}% Increases the"/>
+  <key id="s_item_opt_sa_improve_damage_final" value="Total Damage Increase"/>
+  <key id="s_item_opt_sa_improve_damage_final_v" value="Total Damage +{0:d}"/>
+  <key id="s_item_opt_sa_improve_damage_final_r" value="Total Damage +{0:0.1f}%"/>
   
   <key id="s_item_opt_sa_invoke_effect" value="{0}"/>
-  <key id="s_item_opt_sa_invoke_skill_decrease_cooldowntime_v" value="Cool time {0:d}Second reduction"/>
-  <key id="s_item_opt_sa_invoke_skill_increase_cooldowntime_v" value="Cool time {0:d}Seconds"/>
-  <key id="s_item_opt_sa_invoke_skill_damage_v" value="Damage {0:d} Increases the"/>
+  <key id="s_item_opt_sa_invoke_skill_decrease_cooldowntime_v" value="Cooldown -{0:d} seconds"/>
+  <key id="s_item_opt_sa_invoke_skill_increase_cooldowntime_v" value="Cooldown +{0:d} seconds"/>
+  <key id="s_item_opt_sa_invoke_skill_damage_v" value="Damage +{0:d}"/>
   <key id="s_item_opt_sa_invoke_effect_duration_v" value="{0:d}"/>
   <key id="s_item_opt_sa_invoke_effect_conditioneffect_probability_v" value="{0:d}"/>
   <key id="s_item_opt_sa_invoke_effect_dotdamage_v" value="{0:d}"/>
@@ -1308,11 +1308,11 @@
   <key id="s_item_opt_has_additional_effect" value="{0}"/>
 
   <key id="s_word_iconcode_none" value="Unknown"/>
-  <key id="s_word_iconcode_weapon" value="Weapons"/>
+  <key id="s_word_iconcode_weapon" value="Weapon"/>
   <key id="s_word_iconcode_armor" value="Armor"/>
-  <key id="s_word_iconcode_accessory" value="Accessories"/>
-  <key id="s_word_iconcode_active" value="Active skill North"/>
-  <key id="s_word_iconcode_passive" value="Passive skill North"/>
+  <key id="s_word_iconcode_accessory" value="Accessory"/>
+  <key id="s_word_iconcode_active" value="Active Skillbook"/>
+  <key id="s_word_iconcode_passive" value="Passive Skillbook"/>
   <key id="s_word_iconcode_potion" value="Potion"/>
   <key id="s_word_iconcode_scroll" value="Scroll"/>
   <key id="s_word_iconcode_action" value="Action"/>
@@ -1320,31 +1320,31 @@
   <key id="s_word_iconcode_land" value="Terrain"/>
   <key id="s_word_iconcode_building" value="Building"/>
   <key id="s_word_iconcode_interior" value="Interior"/>
-  <key id="s_word_iconcode_souvenir" value="Souvenirs"/>
-  <key id="s_word_iconcode_riding" value="Mounts"/>
+  <key id="s_word_iconcode_souvenir" value="Souvenir"/>
+  <key id="s_word_iconcode_riding" value="Mount"/>
   <key id="s_word_iconcode_mannequin" value="Mannequin"/>
-  <key id="s_word_iconcode_store" value="Archive"/>
+  <key id="s_word_iconcode_store" value="Storage"/>
   <key id="s_word_iconcode_electronics" value="Controller"/>
   <key id="s_word_iconcode_coupon" value="Coupon"/>
-  <key id="s_word_iconcode_action_skillbook" value="Action skill North"/>
+  <key id="s_word_iconcode_action_skillbook" value="Action Skillbook"/>
   <key id="s_word_iconcode_gem" value="Badge"/>
-  <key id="s_word_iconcode_storybook" value="The storybook"/>
+  <key id="s_word_iconcode_storybook" value="Storybook"/>
   <key id="s_word_iconcode_maid" value="Maid"/>
   <key id="s_word_iconcode_package" value="Package"/>
   <key id="s_word_iconcode_random" value="Event"/>
   <key id="s_word_iconcode_crystal" value="Crystal"/>
   <key id="s_word_iconcode_airtaxi" value="Pager"/>
   <key id="s_word_iconcode_dungeonkey" value="Key"/>
-  <key id="s_word_iconcode_workbench_cook" value="Cooking tools"/>
-  <key id="s_word_iconcode_workbench_alchemy" value="Pension tools"/>
-  <key id="s_word_iconcode_workbench_biz" value="Craft tools"/>
+  <key id="s_word_iconcode_workbench_cook" value="Cooking Tools"/>
+  <key id="s_word_iconcode_workbench_alchemy" value="Pension Tools"/>
+  <key id="s_word_iconcode_workbench_biz" value="Crafting Tools"/>
   <key id="s_word_iconcode_buffportion" value="Buff potion"/>
-  <key id="s_word_iconcode_trigger_controller" value="Trigger controller"/>
-  <key id="s_word_iconcode_interior_pack" value="Construction books"/>
+  <key id="s_word_iconcode_trigger_controller" value="Trigger Controller"/>
+  <key id="s_word_iconcode_interior_pack" value="Construction Book"/>
   <key id="s_word_iconcode_pet" value="Pet"/>
-    <key id="s_word_iconcode_fishing_rod" value="Fishing rod"/>
+    <key id="s_word_iconcode_fishing_rod" value="Fishing Rod"/>
     <key id="s_word_iconcode_music_instrument" value="Instrument"/>
-    <key id="s_word_iconcode_music_note" value="Sheet music"/>
+    <key id="s_word_iconcode_music_note" value="Musical Score"/>
 
   <key id="s_word_rank_no" value="Rating not set items"/>
   <key id="s_word_rank_01" value="Normal"/>
@@ -1388,7 +1388,7 @@
   <key id="s_word_item_limit_sell_trade" value="Untradable and Unvendorable"/>
   <key id="s_word_item_limit_blackmarket" value="Only Tradable in Black Market"/>
   <key id="s_word_item_limit_blackmarket_sell" value="Only Tradable in Black Market, Unvendorable"/>
-  <key id="s_word_item_limit_bind" value="Cannot store in mannequins and storage"/>
+  <key id="s_word_item_limit_bind" value="Unstorable to Mannequins and Storage"/>
   <key id="s_word_skill_active" value="Active"/>
   <key id="s_word_skill_passive" value="Passive"/>
   <key id="s_word_skill_move" value="Action"/>
@@ -1414,18 +1414,18 @@
   <key id="s_word_longrange" value="Long range"/>
   <key id="s_word_element_physics" value="Physics"/>
   <key id="s_word_element_fire" value="Flame"/>
-  <key id="s_word_element_ice" value="Cold air"/>
-  <key id="s_word_element_lightning" value="Blitz"/>
-  <key id="s_word_element_holy" value="Divine"/>
+  <key id="s_word_element_ice" value="Ice"/>
+  <key id="s_word_element_lightning" value="Lightning"/>
+  <key id="s_word_element_holy" value="Holy"/>
   <key id="s_word_element_darkness" value="Dark"/>
   <key id="s_word_element_poison" value="Poison"/>
   <key id="s_word_item_title_none" value="Blunt {0}"/>
   <key id="s_word_item_title_kill" value="{0}The name Ben {1}"/>
   <key id="s_word_item_title_master" value="The seal was solved {0}"/>
-  <key id="s_word_item_title_status" value="{0} {1}% Increases the"/>
-  <key id="s_word_item_title_hidden" value="Sealed power"/>
-  <key id="s_word_item_damage" value="&lt;FONT color='#FF0000'&gt;{0}For Chan Tran disabled&lt;/FONT&gt;"/>
-  <key id="s_word_item_stat_zero" value="1 Less than"/>
+  <key id="s_word_item_title_status" value="{0} +{1}%"/>
+  <key id="s_word_item_title_hidden" value="Sealed Power"/>
+  <key id="s_word_item_damage" value="&lt;FONT color='#FF0000'&gt;Unenchantable for {0}&lt;/FONT&gt;"/>
+  <key id="s_word_item_stat_zero" value="Less than 1"/>
 
    <!-- Right click on the ToolTip/Double click the TG article-->
   <key id="s_msg_rclick_attach_trade" value="&lt;FONT color='#FFD200'&gt;Right-click&lt;/FONT&gt; &lt;FONT color='#FFFFFF'&gt;to register this item to the trade window &lt;/FONT&gt;"/>
@@ -2845,7 +2845,7 @@
   <key id="s_pcbang_get_play_item" value="{0}\n&lt;font color='#FFD200'&gt;PCRoom access time event gift in the mail has arrived.&lt;/font&gt;"/>
 
 
-  <key id="s_play_warnning" value="&lt;FONT color='#FF5F5F'&gt;Game time {0}Time lapse.\nExcessive use of normal everyday life interfere with the game.&lt;/FONT&gt;"/>
+  <key id="s_play_warnning" value="&lt;FONT color='#FF5F5F'&gt;{0} hour(s) of game time has elapsed.\nExcessive use of games can negatively affect your daily life.&lt;/FONT&gt;"/>
 
   <key id="s_nametag_symbol_none" value="No Mark"/>
   <key id="s_nametag_symbol_enchant" value="Power Enchanter"/>
@@ -3058,44 +3058,44 @@
   <key id="s_function_cube_error_invalid_summon_user" value="Currently, only the characters that you can summon it indoors."/>
   
     <!-- Fishing skill-->
-    <key id="s_fishing_grade_Lv1" value="Starter stage 1"/>
-    <key id="s_fishing_grade_Lv2" value="Novice 2 phase"/>
-    <key id="s_fishing_grade_Lv3" value="Starter 3 phase"/>
-    <key id="s_fishing_grade_Lv4" value="Beginner step 4"/>
-    <key id="s_fishing_grade_Lv5" value="Intermediate step 1"/>
-    <key id="s_fishing_grade_Lv6" value="Intermediate step 2"/>
-    <key id="s_fishing_grade_Lv7" value="Intermediate step 3"/>
-    <key id="s_fishing_grade_Lv8" value="Intermediate step 4"/>
-    <key id="s_fishing_grade_Lv9" value="Senior step 1"/>
-    <key id="s_fishing_grade_Lv10" value="Senior step 2"/>
-    <key id="s_fishing_grade_Lv11" value="Senior step 3"/>
-    <key id="s_fishing_grade_Lv12" value="Senior step 4"/>
-    <key id="s_fishing_grade_Lv13" value="Professional angler"/>
+    <key id="s_fishing_grade_Lv1" value="Beginner Stage 1"/>
+    <key id="s_fishing_grade_Lv2" value="Beginner Stage 2"/>
+    <key id="s_fishing_grade_Lv3" value="Beginner Stage 3"/>
+    <key id="s_fishing_grade_Lv4" value="Beginner Stage 4"/>
+    <key id="s_fishing_grade_Lv5" value="Intermediate Stage 1"/>
+    <key id="s_fishing_grade_Lv6" value="Intermediate Stage 2"/>
+    <key id="s_fishing_grade_Lv7" value="Intermediate Stage 3"/>
+    <key id="s_fishing_grade_Lv8" value="Intermediate Stage 4"/>
+    <key id="s_fishing_grade_Lv9" value="Advanced Stage 1"/>
+    <key id="s_fishing_grade_Lv10" value="Advanced Stage 2"/>
+    <key id="s_fishing_grade_Lv11" value="Advanced Stage 3"/>
+    <key id="s_fishing_grade_Lv12" value="Advanced Stage 4"/>
+    <key id="s_fishing_grade_Lv13" value="Professional Angler"/>
 
   <!-- Fishing -->
-    <key id="s_fishing_habitat_water" value="Freshwater"/>
-    <key id="s_fishing_habitat_seawater" value="Waters"/>
-    <key id="s_fishing_habitat_poison" value="The venom"/>
+    <key id="s_fishing_habitat_water" value="Water"/>
+    <key id="s_fishing_habitat_seawater" value="Seawater"/>
+    <key id="s_fishing_habitat_poison" value="Venom"/>
     <key id="s_fishing_habitat_lava" value="Lava"/>
     <key id="s_fishing_habitat_oil" value="Oil"/>
-    <key id="s_fishing_habitat_devilwater" value="Contaminated water"/>
+    <key id="s_fishing_habitat_devilwater" value="Contaminated Water"/>
   
-  <key id="s_fishing_notify_success" value="{0} Fishing success"/>
-  <key id="s_fishing_notify_fail" value="{0} Fishing fail"/>
-  <key id="s_fishing_fish_grade" value="{0} Rating"/>
-  <key id="s_fishing_fish_catch_count" value="{0}Times"/>
-  <key id="s_fishing_fish_size" value="{0}cm"/>
+  <key id="s_fishing_notify_success" value="{0} Fishing Success"/>
+  <key id="s_fishing_notify_fail" value="{0} Fishing Failure"/>
+  <key id="s_fishing_fish_grade" value="{0} Rank"/>
+  <key id="s_fishing_fish_catch_count" value="{0} times"/>
+  <key id="s_fishing_fish_size" value="{0} cm"/>
     <key id="s_fishing_mastery_gauge_level_max" value="| MAX"/>
-    <key id="s_fishing_mastery_tooltip_level_max" value="Skill up"/>
+    <key id="s_fishing_mastery_tooltip_level_max" value="Mastery MAX"/>
 
-    <key id="s_fishing_none_title" value="Prospective anglers"/>
+    <key id="s_fishing_none_title" value="Reserved Angler"/>
     
     <key id="s_fishing_error_invalid_cube" value="Here you&#8217;ll find fishing."/>
     <key id="s_fishing_error_notexist_water" value="Fishing rods must be used in a swimming possible inflation."/>
     <key id="s_fishing_error_invalid_item" value="The fishing rod is not valid."/>
     <key id="s_fishing_error_lack_mastery" value="Anglers fishing from the lower steps here."/>
     <key id="s_fishing_error_notexist_fish" value="Here you&#8217;ll find fishing."/>
-    <key id="s_fishing_error_system_error" value="System error"/>
+    <key id="s_fishing_error_system_error" value="System Error"/>
     <key id="s_fishing_error_fishingrod_mastery" value="Low angler steps this fishing rod is not available."/>
     <key id="s_fishing_error_ride" value="Ride cannot be mounted State fishing."/>
     <key id="s_fishing_error_inventory_full" value="Among the equipment or personal belongings on the other tab, full of fishing cannot be started." />
@@ -3105,12 +3105,12 @@
     <key id="s_fishing_offset_mastery_bigsizecatch" value="-Chuck {0} Fishing w fishing skill {1} In December."/><!--({2}) You can display additional cumulative skills-->
     <key id="s_fishing_notice_bigfish" value="{0} NI-Chuck {1} Fishing."/>
 
-    <key id="s_fishing_total_mastery" value="Fishing skill {0}"/>
+    <key id="s_fishing_total_mastery" value="Fishing Mastery {0}"/>
     <key id="s_fishing_need_mastery" value="&lt;FONT color='#FFD200' size='15' &gt;Fishing skill ({0}/{1})&lt;/FONT&gt;\nThe next step up to the required level of proficiency and to determine the level of proficiency attained. \nMy angler to catch fish such as the steps now.\nHigh level of proficiency is to hold several times the fish more in step."/>
-    <key id="s_fishing_size_small" value="Mini"/>
+    <key id="s_fishing_size_small" value="Small"/>
     <key id="s_fishing_size_medium" value="Medium"/>
     <key id="s_fishing_size_large" value="Large"/>
-    <key id="s_fishing_size_bigfish" value="-Chuck"/>
+    <key id="s_fishing_size_bigfish" value="Big Fish"/>
     
     <key id="s_fishing_start_castingbar_text0" value="Fishing is one of."/>
     <key id="s_fishing_start_castingbar_text1" value="Wandering around the fish early."/>
