@@ -110,7 +110,7 @@
   <key id="$s_inventory_slot_count" value="Displays the slot information in the current tab.\nNumber of slots used / Total number of slots"/> 
   
   <!--itemoption-->
-  <key id="$s_itemopion_title" value="Item Pick-up Settings"/>
+  <key id="$s_itemopion_title" value="Item Pick-Up Settings"/>
   <key id="$s_itemopion_check_auto_equip" value="Equipment Items"/>
   <key id="$s_itemopion_check_auto_skill" value="Skill Items"/>
   <key id="$s_itemopion_check_auto_consume" value="Consumable Items"/>
@@ -1575,8 +1575,8 @@
   <key id="$s_monster_peak_text_notify_9" value="Darkness will swallow you whole!"/>
   
   <!-- Present gift -->
-  <key id="$s_attend_gift_message" value="The attendance check reward can be found in your mailbox."/>
-  <key id="$s_attend_playGift_title" value="2016 Year of MapleStory 2!"/>
+  <key id="$s_attend_gift_message" value="The check-in reward can be found in your mailbox."/>
+  <key id="$s_attend_playGift_title" value="Together with MapleStory2 in 2016!"/>
   <key id="$s_attend_playGift_noEvent" value="There are no events in progress. Please wait for the next event."/>
   <key id="$s_attend_playGift_show_detail" value="Read More"/>
   <key id="$s_attend_playGift_detail_tooltip" value="Click to read more\nGo to the event page"/>
@@ -1941,10 +1941,10 @@
   <key id="$s_petsetting_summon_off" value="Desummon"/>
   <key id="$s_petsetting_auto_revive" value="&lt;font color='#5c2b00'&gt;Auto Revive | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
   <key id="$s_petsetting_auto_itemuse" value="&lt;font color='#5c2b00'&gt;Auto Potion Recovery | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
-  <key id="$s_petsetting_auto_itempick" value="&lt;font color='#5c2b00'&gt;Auto Item Pick-up | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
+  <key id="$s_petsetting_auto_itempick" value="&lt;font color='#5c2b00'&gt;Auto Item Pick-Up | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
   <key id="$s_petsetting_tooltip_change_name" value="&lt;FONT color='#FFD200' size='15' &gt;Change Name&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nChange Name." />
   <key id="$s_petsetting_tooltip_auto_itemuse" value="&lt;FONT color='#FFD200' size='15' &gt;Auto Potion Recovery&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto Potion Recovery." />
-  <key id="$s_petsetting_tooltip_auto_itempick" value="&lt;FONT color='#FFD200' size='15' &gt;Auto Item Pick-up&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto Item Pick-up." />
+  <key id="$s_petsetting_tooltip_auto_itempick" value="&lt;FONT color='#FFD200' size='15' &gt;Auto Item Pick-Up&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto Item Pick-Up." />
   <key id="$s_petsetting_tooltip_summon_off" value="&lt;FONT color='#FFD200' size='15' &gt;Recall off&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesummon." />
 
   <!-- Items automatically -->
