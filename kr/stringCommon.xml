@@ -936,50 +936,50 @@
   <key id="s_word_stat_pen" value="Defense Penetration"/>
   <key id="s_word_stat_rmsp" value="Mount Movement Speed"/>
 
-  <key id="s_word_stat_hp_v" value="HP {0}"/>
-  <key id="s_word_stat_sp_v" value="SP {0}"/>
-  <key id="s_word_stat_ep_v" value="EP {0}"/>
-  <key id="s_word_stat_str_v" value="STR {0}"/>
-  <key id="s_word_stat_dex_v" value="DEX {0}"/>
-  <key id="s_word_stat_int_v" value="INT {0}"/>
-  <key id="s_word_stat_ndd_v" value="Defense {0}"/>
-  <key id="s_word_stat_atp_v" value="Accuracy {0}"/>
-  <key id="s_word_stat_evp_v" value="Avoidability {0}"/>
-  <key id="s_word_stat_cap_v" value="Critical Accuracy {0}"/>
-  <key id="s_word_stat_msp_v" value="Movement Speed {0}%"/>
+  <key id="s_word_stat_hp_v" value="{0} HP"/>
+  <key id="s_word_stat_sp_v" value="{0} SP"/>
+  <key id="s_word_stat_ep_v" value="{0} EP"/>
+  <key id="s_word_stat_str_v" value="{0} STR"/>
+  <key id="s_word_stat_dex_v" value="{0} DEX"/>
+  <key id="s_word_stat_int_v" value="{0} INT"/>
+  <key id="s_word_stat_ndd_v" value="{0} Defense"/>
+  <key id="s_word_stat_atp_v" value="{0} Accuracy"/>
+  <key id="s_word_stat_evp_v" value="{0} Avoidability"/>
+  <key id="s_word_stat_cap_v" value="{0} Critical Accuracy"/>
+  <key id="s_word_stat_msp_v" value="{0}% Movement Speed"/>
   <key id="s_word_stat_hp_rgp_v" value="HP Regeneration {0}"/>
   <key id="s_word_stat_hp_inv_v" value="HP Regeneration Cycle {0}"/>
   <key id="s_word_stat_sp_rgp_v" value="SP Regeneration {0}"/>
   <key id="s_word_stat_sp_inv_v" value="SP Regeneration Cycle {0}"/>
   <key id="s_word_stat_ep_rgp_v" value="EP Regeneration {0}"/>
   <key id="s_word_stat_ep_inv_v" value="EP Regeneration Cycle {0}"/>
-  <key id="s_word_stat_asp_v" value="Attack Speed {0}%"/>
-  <key id="s_word_stat_abp_v" value="Complete Defense {0}"/>
-  <key id="s_word_stat_jmp_v" value="Jump {0}"/>
-  <key id="s_word_stat_luk_v" value="LUK {0}"/>
-  <key id="s_word_stat_pap_v" value="Physical Attack {0}"/>
-  <key id="s_word_stat_map_v" value="Magic Attack {0}"/>
-  <key id="s_word_stat_par_v" value="Physical Defense {0}"/>
-  <key id="s_word_stat_mar_v" value="Magic Defense {0}"/>
-  <key id="s_word_stat_cad_v" value="Critical Damage {0}"/>
-  <key id="s_word_stat_car_v" value="Critical Avoidability {0}"/>
-  <key id="s_word_stat_wap_d_v" value="Weapon Minimum Damage {0}"/>
-  <key id="s_word_stat_wap_u_v" value="Weapon Maximum Damage {0}"/>
-  <key id="s_word_stat_dmg_v" value="Damage {0}"/>
-  <key id="s_word_stat_pen_v" value="Defense Penetration {0}"/>
-  <key id="s_word_stat_rmsp_v" value="Mount Movement Speed {0}"/>
+  <key id="s_word_stat_asp_v" value="{0}% Attack Speed"/>
+  <key id="s_word_stat_abp_v" value="{0} Complete Defense"/>
+  <key id="s_word_stat_jmp_v" value="{0} Jump"/>
+  <key id="s_word_stat_luk_v" value="{0} LUK"/>
+  <key id="s_word_stat_pap_v" value="{0} Physical Attack"/>
+  <key id="s_word_stat_map_v" value="{0} Magic Attack"/>
+  <key id="s_word_stat_par_v" value="{0} Physical Defense"/>
+  <key id="s_word_stat_mar_v" value="{0} Magic Defense"/>
+  <key id="s_word_stat_cad_v" value="{0} Critical Damage"/>
+  <key id="s_word_stat_car_v" value="{0} Critical Avoidability"/>
+  <key id="s_word_stat_wap_d_v" value="{0} Weapon Minimum Damage"/>
+  <key id="s_word_stat_wap_u_v" value="{0} Weapon Maximum Damage"/>
+  <key id="s_word_stat_dmg_v" value="{0} Damage"/>
+  <key id="s_word_stat_pen_v" value="{0} Defense Penetration"/>
+  <key id="s_word_stat_rmsp_v" value="{0} Mount Movement Speed"/>
 
-  <key id="s_word_stat_hp_r" value="HP {0:0.1f}%"/>
-  <key id="s_word_stat_sp_r" value="SP {0:0.1f}%"/>
-  <key id="s_word_stat_ep_r" value="EP {0:0.1f}%"/>
-  <key id="s_word_stat_str_r" value="Full STR +{0:0.1f}% when equipped"/>
-  <key id="s_word_stat_dex_r" value="Full DEX +{0:0.1f}% when equipped"/>
-  <key id="s_word_stat_int_r" value="Full INT +{0:0.1f}% when equipped"/>
-  <key id="s_word_stat_ndd_r" value="Defense {0:0.1f}%"/>
-  <key id="s_word_stat_atp_r" value="Accuracy {0:0.1f}%"/>
-  <key id="s_word_stat_evp_r" value="Avoidability {0:0.1f}%"/>
-  <key id="s_word_stat_cap_r" value="Critical Accuracy {0:0.1f}%"/>
-  <key id="s_word_stat_msp_r" value="Movement Speed {0:0.1f}%"/>
+  <key id="s_word_stat_hp_r" value="{0:0.1f}% HP"/>
+  <key id="s_word_stat_sp_r" value="{0:0.1f}% SP"/>
+  <key id="s_word_stat_ep_r" value="{0:0.1f}% EP"/>
+  <key id="s_word_stat_str_r" value="+{0:0.1f}% Full STR when equipped"/>
+  <key id="s_word_stat_dex_r" value="+{0:0.1f}% Full DEX when equipped"/>
+  <key id="s_word_stat_int_r" value="+{0:0.1f}% Full INT when equipped"/>
+  <key id="s_word_stat_ndd_r" value="{0:0.1f}% Defense"/>
+  <key id="s_word_stat_atp_r" value="{0:0.1f}% Accuracy"/>
+  <key id="s_word_stat_evp_r" value="{0:0.1f}% Avoidability"/>
+  <key id="s_word_stat_cap_r" value="{0:0.1f}% Critical Accuracy"/>
+  <key id="s_word_stat_msp_r" value="{0:0.1f}% Movement Speed"/>
   <key id="s_word_stat_hp_rgp_r" value="HP Regeneration {0:0.1f}%"/>
   <key id="s_word_stat_hp_inv_r" value="HP Regeneration Cycle {0:0.1f}%"/>
   <key id="s_word_stat_sp_rgp_r" value="SP Regeneration {0:0.1f}%"/>
@@ -1064,47 +1064,47 @@
   <key id="s_item_opt_sa_improve_damage_normalNpc" value="Increased Attack on Normal Monsters"/>
   <key id="s_item_opt_sa_improve_damage_normalNpc_v" value="{0:d} Increased Attack on Normal Monsters"/>
   <key id="s_item_opt_sa_improve_damage_normalNpc_r" value="{0:0.1f}% Increased Attack on Normal Monsters"/>
-  <key id="s_item_opt_sa_improve_damage_leaderNpc" value="Increases the damage the attack: a reader"/>
-  <key id="s_item_opt_sa_improve_damage_leaderNpc_v" value="Increases the damage the attack: a reader {0:d}"/>
-  <key id="s_item_opt_sa_improve_damage_leaderNpc_r" value="Leader attack damage {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_damage_namedNpc" value="The elite attack: increases damage"/>
-  <key id="s_item_opt_sa_improve_damage_namedNpc_v" value="The elite attack: increases damage {0:d}"/>
-  <key id="s_item_opt_sa_improve_damage_namedNpc_r" value="The elite attack damage {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_damage_bossNpc" value="Boss attack: increases damage"/>
-  <key id="s_item_opt_sa_improve_damage_bossNpc_v" value="Boss attack: increases damage {0:d}"/>
-  <key id="s_item_opt_sa_improve_damage_bossNpc_r" value="Boss attack damage {0:0.1f}% Increases the"/>
+  <key id="s_item_opt_sa_improve_damage_leaderNpc" value="Increases Leader Damage"/>
+  <key id="s_item_opt_sa_improve_damage_leaderNpc_v" value="+{0:d} Leader Damage"/>
+  <key id="s_item_opt_sa_improve_damage_leaderNpc_r" value="+{0:0.1f}% Leader Damage"/>
+  <key id="s_item_opt_sa_improve_damage_namedNpc" value="Increased Elite Damage"/>
+  <key id="s_item_opt_sa_improve_damage_namedNpc_v" value="+{0:d} Elite Damage"/>
+  <key id="s_item_opt_sa_improve_damage_namedNpc_r" value="+{0:0.1f}% Elite Damage"/>
+  <key id="s_item_opt_sa_improve_damage_bossNpc" value="Increased Boss Damage"/>
+  <key id="s_item_opt_sa_improve_damage_bossNpc_v" value="+{0:d} Boss Damage"/>
+  <key id="s_item_opt_sa_improve_damage_bossNpc_r" value="+{0:0.1f}% Boss Damage"/>
 
-  <key id="s_item_opt_sa_improve_recovery_regen_doheal" value="Recovery skill increases the effect"/>
-  <key id="s_item_opt_sa_improve_recovery_regen_doheal_v" value="Recovery skill increases the effect {0:d}"/>
-  <key id="s_item_opt_sa_improve_recovery_regen_doheal_r" value="Recovery skill effects {0:0.1f}% Increases the"/>
+  <key id="s_item_opt_sa_improve_recovery_regen_doheal" value="Recovery Skill Effect"/>
+  <key id="s_item_opt_sa_improve_recovery_regen_doheal_v" value="+{0:d} Recovery Skill Effect"/>
+  <key id="s_item_opt_sa_improve_recovery_regen_doheal_r" value="+{0:0.1f}% Recovery Skill Effect"/>
   <key id="s_item_opt_sa_improve_recovery_regen_receiveheal" value="The effect of increasing the receiving teammate recovery skills"/>
   <key id="s_item_opt_sa_improve_recovery_regen_receiveheal_v" value="The effect of increasing the receiving teammate recovery skills {0:d}"/>
   <key id="s_item_opt_sa_improve_recovery_regen_receiveheal_r" value="Friendly receiving recovery skill effects {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_elements_ice" value="Increased Ice Damage"/>
-  <key id="s_item_opt_sa_improve_elements_ice_v" value="{0:d} Increased Ice Damage"/>
-  <key id="s_item_opt_sa_improve_elements_ice_r" value="{0:0.1f}% Increased Ice Damage"/>
-  <key id="s_item_opt_sa_improve_elements_fire" value="Flame damage increase"/>
-  <key id="s_item_opt_sa_improve_elements_fire_v" value="Flame damage {0:d} Increases the"/>
-  <key id="s_item_opt_sa_improve_elements_fire_r" value="Flame damage {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_elements_dark" value="Dark damage increase"/>
-  <key id="s_item_opt_sa_improve_elements_dark_v" value="Dark damage increase {0:d}"/>
-  <key id="s_item_opt_sa_improve_elements_dark_r" value="Dark damage {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_elements_light" value="Increases Holy damage"/>
-  <key id="s_item_opt_sa_improve_elements_light_v" value="Increases Holy damage {0:d}"/>
-  <key id="s_item_opt_sa_improve_elements_light_r" value="Holy damage {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_elements_poison" value="Poison damage increase"/>
-  <key id="s_item_opt_sa_improve_elements_poison_v" value="Poison damage increase {0:d}"/>
-  <key id="s_item_opt_sa_improve_elements_poison_r" value="Poison damage {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_elements_thunder" value="Blitz damage increase"/>
-  <key id="s_item_opt_sa_improve_elements_thunder_v" value="Blitz damage increase {0:d}"/>
-  <key id="s_item_opt_sa_improve_elements_thunder_r" value="Lightning damage {0:0.1f}% Increases the"/>
+  <key id="s_item_opt_sa_improve_elements_ice" value="Ice Damage"/>
+  <key id="s_item_opt_sa_improve_elements_ice_v" value="+{0:d} Ice Damage"/>
+  <key id="s_item_opt_sa_improve_elements_ice_r" value="+{0:0.1f}% Ice Damage"/>
+  <key id="s_item_opt_sa_improve_elements_fire" value="Flame Damage"/>
+  <key id="s_item_opt_sa_improve_elements_fire_v" value="+{0:d} Flame Damage"/>
+  <key id="s_item_opt_sa_improve_elements_fire_r" value="+{0:0.1f}% Flame Damage"/>
+  <key id="s_item_opt_sa_improve_elements_dark" value="Dark Damage"/>
+  <key id="s_item_opt_sa_improve_elements_dark_v" value="+{0:d} Dark Damage"/>
+  <key id="s_item_opt_sa_improve_elements_dark_r" value="+{0:0.1f}% Dark Damage"/>
+  <key id="s_item_opt_sa_improve_elements_light" value="Holy Damage"/>
+  <key id="s_item_opt_sa_improve_elements_light_v" value="+{0:d} Holy Damage"/>
+  <key id="s_item_opt_sa_improve_elements_light_r" value="+{0:0.1f}% Holy Damage"/>
+  <key id="s_item_opt_sa_improve_elements_poison" value="Poison Damage"/>
+  <key id="s_item_opt_sa_improve_elements_poison_v" value="+{0:d} Poison Damage"/>
+  <key id="s_item_opt_sa_improve_elements_poison_r" value="+{0:0.1f}% Poison Damage"/>
+  <key id="s_item_opt_sa_improve_elements_thunder" value="Lightning Damage"/>
+  <key id="s_item_opt_sa_improve_elements_thunder_v" value="+{0:d} Lightning Damage"/>
+  <key id="s_item_opt_sa_improve_elements_thunder_r" value="+{0:0.1f}% Lightning Damage"/>
 
-  <key id="s_item_opt_sa_improve_damage_nearrange" value="Increased melee damage"/>
-  <key id="s_item_opt_sa_improve_damage_nearrange_v" value="Increased melee damage {0:d}"/>
-  <key id="s_item_opt_sa_improve_damage_nearrange_r" value="Melee damage {0:0.1f}% Increases the"/>
-  <key id="s_item_opt_sa_improve_damage_longrange" value="Increases the ranged damage"/>
-  <key id="s_item_opt_sa_improve_damage_longrange_v" value="Increases the ranged damage {0:d}"/>
-  <key id="s_item_opt_sa_improve_damage_longrange_r" value="Ranged damage {0:0.1f}% Increases the"/>
+  <key id="s_item_opt_sa_improve_damage_nearrange" value="Melee Damage"/>
+  <key id="s_item_opt_sa_improve_damage_nearrange_v" value="+{0:d} Melee Damage"/>
+  <key id="s_item_opt_sa_improve_damage_nearrange_r" value="+{0:0.1f}% Melee Damage"/>
+  <key id="s_item_opt_sa_improve_damage_longrange" value="Ranged Damage"/>
+  <key id="s_item_opt_sa_improve_damage_longrange_v" value="+{0:d} Ranged Damage"/>
+  <key id="s_item_opt_sa_improve_damage_longrange_r" value="+{0:0.1f}% Ranged Damage"/>
 
   <key id="s_item_opt_sa_improve_piercing_par" value="Physical Defense Penetration"/>
   <key id="s_item_opt_sa_improve_piercing_par_v" value="Physical Defense Penetration {0:d}"/>
@@ -1397,7 +1397,7 @@
   <key id="s_word_fitness" value="Only"/>
   <key id="s_word_sellprice" value="Shop Sell Value"/>
   <key id="s_word_sellremind_format" value="Remaining Quantity : {0}    "/>
-  <key id="s_word_require_level" value="Required level"/>
+  <key id="s_word_require_level" value="Required Lv:"/>
   <key id="s_word_equiped" value="Equipped"/>
   <key id="s_word_skillbook" value="Skillbook"/>
   <key id="s_word_designed" value="Design"/>
@@ -1605,11 +1605,11 @@
   <key id="s_maid_tooltip_maid_desc" value="Specialty: {0}\nSalary: {1}&lt;Img Src='{2}' vspace='-4'/&gt;/30Days"/>
   <key id="s_maid_tooltip_manufactured" value="{0} Produced by aborted ({1})"/>
   <key id="s_maid_tooltip_manufacturing" value="{0} Production ({1})"/>
-  <key id="s_maid_reserved_word_passed_days" value="{0}Days"/>
+  <key id="s_maid_reserved_word_passed_days" value="{0} Days"/>
   <key id="s_maid_reserved_word_pay_type_meso" value="{0} Meso"/>
   <key id="s_maid_reserved_word_pay_type_merat" value="{0} Merit"/>
-  <key id="s_maid_recipe_item_option" value="+{0}Random options"/>
-  <key id="s_maid_recipe_item_option_range" value="+{0}~{1}Random options"/>
+  <key id="s_maid_recipe_item_option" value="+{0} Random Options"/>
+  <key id="s_maid_recipe_item_option_range" value="+{0}~{1} Random Options"/>
 
  <!-- Production -->
   <key id="s_manufacture_require" value="Familiarity {0}Step over"/>
@@ -2428,28 +2428,28 @@
   <key id="s_talk_reward_title" value=" " />
 
   <!-- Reinforced (Chan) -->
-  <key id="s_itemenchant_unknown_err" value="System error : Item (s). code = {0}"/>
-  <key id="s_itemenchant_invalid_item" value="There is one item which Chan it is impossible."/>
-  <key id="s_itemenchant_except_item" value="Due to Chan Tran is not possible"/>
-  <key id="s_itemenchant_valid_item" value="&lt;FONT color='#FFD200'&gt;It is possible due to Chan Tran&lt;/FONT&gt;"/>
+  <key id="s_itemenchant_unknown_err" value="System Error : Item. code = {0}"/>
+  <key id="s_itemenchant_invalid_item" value="This item cannot be enchanted."/>
+  <key id="s_itemenchant_except_item" value="Unenchantable"/>
+  <key id="s_itemenchant_valid_item" value="&lt;FONT color='#FFD200'&gt;Enchantable&lt;/FONT&gt;"/>
   <key id="s_itemenchant_damaged_item_tooltip" value="&lt;FONT color='#FF4040'&gt;Equipment damage due to Chan Tran disabled&lt;/FONT&gt;"/>
-  <key id="s_itemenchant_damaged_item" value="Damaged items."/>
-  <key id="s_itemenchant_lack_ingredient" value="Materials are lacking."/>
+  <key id="s_itemenchant_damaged_item" value="Your item is damaged."/>
+  <key id="s_itemenchant_lack_ingredient" value="You don't have enough materials."/>
   <key id="s_itemenchant_fail_sec" value="s"/>
   <key id="s_itemenchant_fail_min" value="m"/>
   <key id="s_itemenchant_fail_hour" value="h"/>
   <key id="s_itemenchant_fail_day" value="d"/>
-  <key id="s_itemenchant_fail_duration" value="For Chan Tran disabled"/>
-  <key id="s_itemenchant_return_item" value="Apple&#8217;s gift"/>
-  <key id="s_itemenchant_cinematic_btn" value="To stop:ESC"/>
-  <key id="s_itemenchant_option_prop" value="&lt;FONT color='#C0C0C0'&gt;Your chances of success : {0} &lt;/FONT&gt;"/> <!--/ Drop {1} / Damage {2}-->
-  <key id="s_itemenchant_option_low_prop" value="1% Less than"/>
-  <key id="s_itemenchant_option_damage" value="&lt;FONT color='#FF5F5F'&gt; (Failure due to Chan Tran steps 0 and equipment damage.\nDamaged equipment is no longer due to Chan Tran.)"/>
+  <key id="s_itemenchant_fail_duration" value="Unenchantable for"/>
+  <key id="s_itemenchant_return_item" value="Apology Gift"/>
+  <key id="s_itemenchant_cinematic_btn" value="Stop:ESC"/>
+  <key id="s_itemenchant_option_prop" value="&lt;FONT color='#C0C0C0'&gt;Success Chance : {0} &lt;/FONT&gt;"/> <!--/ Drop {1} / Damage {2}-->
+  <key id="s_itemenchant_option_low_prop" value="Less than 1%"/>
+  <key id="s_itemenchant_option_damage" value="&lt;FONT color='#FF5F5F'&gt; (Equipment becomes damaged after it reaches stage 0.\nDamaged equipment can no longer be used for enchantment.)"/>
     
-  <key id="s_itemenchant_option_repair" value="Broken items can be repaired after Chan Tran.\n{0}&lt;Img Src='export_common_icon_merat' vspace='-4'&gt;&lt;/Img&gt;Are you sure you want to use immediately repair?"/>
-  <key id="s_itemenchant_option_lack_merat" value="Merit is low."/>
-  <key id="s_itemenchant_damage_warning" value="&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#FFD200'&gt;+{0} Due to Chan Tran&lt;/FONT&gt;Are you sure you want to try?&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#FFD200' size='18' &gt;Your chances of success : {1}%&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;p align='left'&gt;&lt;FONT color='#FF5F5F'&gt;Failure is zero, which Chan Tran stage equipment has been damaged due to Chan Tran.&lt;/FONT&gt;&lt;FONT color='#C0C0C0'&gt; +10 More than Chan Tran, or damaged equipment can&#8217;t do the deal, banks and cannot be kept in a mannequin.&lt;/FONT&gt;&lt;/p&gt;&lt;FONT size='3'&gt; &lt;/FONT&gt;\n"/> <!-- Failure probability : {2}% / {3} If you denote the probability that damage to your equipment- : On failure {3} In all probability will damage the equipment. / {0} Currently the river is a challenge--> 
-  <key id="s_itemenchant_success_notice" value="{0} NI {1} Due to Chan Tran was successful."/>
+  <key id="s_itemenchant_option_repair" value="Broken items can be repaired after enchanting.\n{0}&lt;Img Src='export_common_icon_merat' vspace='-4'&gt;&lt;/Img&gt;Are you sure you want to use instant repair?"/>
+  <key id="s_itemenchant_option_lack_merat" value="You don't have enough Merit."/>
+  <key id="s_itemenchant_damage_warning" value="&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#FFD200'&gt;+{0} Enchant&lt;/FONT&gt;Would you like to try?&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#FFD200' size='18' &gt;Success Chance : {1}%&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;p align='left'&gt;&lt;FONT color='#FF5F5F'&gt;Equipment reaching an enchant stage of 0 becomes damaged and cannot be enchanted any longer.&lt;/FONT&gt;&lt;FONT color='#C0C0C0'&gt; Enchanted items +10 and above and damaged equipment are untradable, unstorable to the bank and mannequin.&lt;/FONT&gt;&lt;/p&gt;&lt;FONT size='3'&gt; &lt;/FONT&gt;\n"/> <!-- Failure Chance : {2}% / {3} If you denote the probability that damage to your equipment- : On failure {3} In all probability will damage the equipment. / {0} Currently the river is a challenge--> 
+  <key id="s_itemenchant_success_notice" value="{0} has successfully enchanted {1}."/>
   
   <!--&lt;FONT color='#FFA200' size='13' &gt;          &lt;/FONT&gt;-->
   <!-- Common -->
@@ -2479,8 +2479,8 @@
   <key id="s_shadowworld_safezone_chat_msg" value="You have entered a safe zone. You cannot battle with other players."/>
   <key id="s_shadowworld_pkzone_allert" value="There is a battle going on with characters in the lawless zone. \nIt&#8217;s really &lt;FONT color='#FFD200'&gt;Go to lawlessness&lt;/FONT&gt;Are you sure you want to?"/>
 
-  <key id="s_shadowworld_kill_log_die" value="{0} I was down."/>
-  <key id="s_shadowworld_kill_log_kill" value="I {0} Rolled down."/>
+  <key id="s_shadowworld_kill_log_die" value="{0} was taken down."/>
+  <key id="s_shadowworld_kill_log_kill" value="You took {0} down."/>
   
   <key id="s_bill_format_sumprice" value="{0} &lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;"/>
   <key id="s_bill_format_sumprice_beauty" value="{0} &lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;"/>
@@ -2493,25 +2493,25 @@
   <key id="s_bill_warning_coloring" value="Only one coupon per item of equipment it is possible to dye."/>
 
   <!-- FFA Battlefield -->
-  <key id="s_pvp_start" value="War Please arrange" />
-  <key id="s_pvp_ffa_double_kill" value="{0} De double kill!" />
-  <key id="s_pvp_ffa_triple_kill" value="{0} De triple kill!!" />
-  <key id="s_pvp_ffa_slayer_kill" value="{0} It&#8217;s genocide!" />
-  <key id="s_pvp_ffa_ruler_kill" value="Battle of the heroes {0}!" />
+  <key id="s_pvp_start" value="Prepare for war" />
+  <key id="s_pvp_ffa_double_kill" value="{0} has a Double Kill!" />
+  <key id="s_pvp_ffa_triple_kill" value="{0} has a Triple Kill!!" />
+  <key id="s_pvp_ffa_slayer_kill" value="{0} is an Eliminator!" />
+  <key id="s_pvp_ffa_ruler_kill" value="Hero of the Battlefield {0}!" />
 
-  <key id="s_field_limit_unknown" value="It cannot be admitted." />
-  <key id="s_field_limit_level_min_max" value="{0}Level from {1}Level up." />
-  <key id="s_field_limit_level_min" value="{0}You can enter from the level." />
-  <key id="s_field_limit_achieve" value="Trophy [{0}]You need to achieve." />
+  <key id="s_field_limit_unknown" value="You cannot enter." />
+  <key id="s_field_limit_level_min_max" value="You can enter from Lv. {0} till {1}." />
+  <key id="s_field_limit_level_min" value="You cannot enter until Lv. {0}." />
+  <key id="s_field_limit_achieve" value="You need to achieve the [{0}] trophy in order to enter." />
   <key id="s_field_limit_item" value="{0} This {1}The dog should be." />
   <key id="s_field_limit_admin" value="Still unable to enter the area." />
-  <key id="s_field_limit_timelimit_ymdh" value="{0}Years {1}- {2}Days {3}Since its entry into the city." />
-  <key id="s_field_limit_timelimit_ymdhm" value="{0}Years {1}- {2}Days {3}: {4}Pm onwards." />
-  <key id="s_field_limit_timelimit_ymdhms" value="{0}Years {1}- {2}Days {3}: {4}Min. {5}Seconds since." />
+  <key id="s_field_limit_timelimit_ymdh" value="{0}y {1}m {2}d {3}hSince its entry into the city." />
+  <key id="s_field_limit_timelimit_ymdhm" value="{0}y {1}m {2}d {3}h {4}min onwards." />
+  <key id="s_field_limit_timelimit_ymdhms" value="{0}y {1}m {2}d {3}h {4}min {5}Seconds since." />
 
-  <key id="s_room_increase_time" value="Time {0}SEC has been increased." />
-  <key id="s_room_increase_time_type2" value="Boss-fix complete! Dungeon was extended to a time limit." />
-  <key id="s_room_decrease_time" value="Time {0}SEC has been reduced." />
+  <key id="s_room_increase_time" value="The time has been increased by {0} seconds." />
+  <key id="s_room_increase_time_type2" value="Boss defeat completed! The dungeon time limit was extended." />
+  <key id="s_room_decrease_time" value="The time has been reduced by {0} seconds." />
   <key id="s_room_party_err_no_party" value="After a party." />
   <key id="s_room_party_err_not_chief" value="Patijangi must be the first entry." />
   <key id="s_room_party_err_full_room" value="You have exceeded the maximum number that can be admitted." />
