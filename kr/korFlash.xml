@@ -41,7 +41,7 @@
   <key id="$s_common_skill" value="Skills"/>
   <key id="$s_common_install" value="Construction"/>
   
-  <!--Shop sale tags (Megan Barrett market, Cathy shop)-->
+  <!--Shop sale tags (Merit market, Cathy shop)-->
   <key id="$s_saletag_new" value="NEW"/>
   <key id="$s_saletag_sale" value="SALE"/>
   <key id="$s_saletag_event" value="EVENT"/>
@@ -267,8 +267,8 @@
   <key id="$s_gameoption_npcSoundStep" 		value="Character Voice"/>
   <key id="$s_gameoption_bossSoundStep" 	value="Boss Monster Voice"/>
   <key id="$s_gameoption_systemSoundStep" 	value="System Voice"/>
-  <key id="$s_gameoption_instrumentStep" 	value="Instrumental Play" />
-  <key id="$s_gameoption_instrumentStep_isOffBgm" value="When you hear the Muzak playing off the sheet music" />
+  <key id="$s_gameoption_instrumentStep" 	value="Playing Instruments" />
+  <key id="$s_gameoption_instrumentStep_isOffBgm" value="Disable BGM when Playing Instruments" />
 
 
   
@@ -309,7 +309,7 @@
   <key id="$s_gameoption_optimizer_show_custom" value="Display Max. Characters"/>
   <key id="$s_gameoption_optimizer_count" value=""/>
   <key id="$s_gameoption_optimizer_useOptimizer" value="Use Automatic Optimization"/>
-  <key id="$s_gameoption_optimizer_warning" value="This performs optimization in the game. \nDisable this option when the game becomes unstable,\and doesn't run smooth anymore."/>
+  <key id="$s_gameoption_optimizer_warning" value="This performs optimization in the game. \nDisable this option when the game becomes unstable,\nand doesn't run smooth anymore."/>
   
   <!--skill-->
   <key id="$s_skill_title" value="Skill"/>
@@ -477,10 +477,10 @@
   <key id="$s_minimap_quest_repeat"	value="Repeatable Quest"/>
 
   <!--upper hud-->  
-  <key id="$s_upper_hud_tooltip_attend"	value="&lt;FONT color='#FFD200' size='15' &gt;Check the event attendance&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can see my account, check the record of attendance."/>
+  <key id="$s_upper_hud_tooltip_attend"	value="&lt;FONT color='#FFD200' size='15' &gt;Attendance Check Event&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can check the check-ins of the attendance check on your account."/>
   <key id="$s_upper_hud_tooltip_manufacture" value="&lt;FONT color='#FFD200' size='15' &gt;Made production situation&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMaking a maid in the House now shows the status of the item.\nHow to produce the requested items to the progress made."/>
-  <key id="$s_upper_hud_tooltip_search" value="&lt;FONT color='#FFD200' size='15' &gt;Mei view search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWhen you enter a search term, Mei views\nYou can see the search results."/>
-  <key id="$s_upper_hud_tooltip_fishingbook" value="&lt;FONT color='#FFD200' size='15' &gt;Fish book&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAnglers can fish and fishing."/>
+  <key id="$s_upper_hud_tooltip_search" value="&lt;FONT color='#FFD200' size='15' &gt;Maview Search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter a keyword to search on Maview."/>
+  <key id="$s_upper_hud_tooltip_fishingbook" value="&lt;FONT color='#FFD200' size='15' &gt;Fish Encyclopedia&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can see which fish you've caught and what stage of fishing you are at."/>
 
   <!--myInfo-->
   <key id="$s_myInfo_title" 	      value="Character Information"/>
@@ -719,7 +719,7 @@
   <key id="$s_tooltip_messenger_add_tab" 	value="&lt;FONT color='#FFD200' size='15' &gt;Add Chat Tab&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAdded a new chat tab, you can set up so that you can see only the content you want." />
   <key id="$s_tooltip_messenger_tab" 		value="&lt;FONT color='#FFD200' size='15' &gt;Full Tab&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAll is the default chat message chat tab. \n&lt;FONT size='8'&gt; &lt;/FONT&gt;\n &lt;Img Src='export_common_icon_rclick' vspace='-3'&gt;&lt;/Img&gt; If you drag the mouse left click, you can change the location." />
   <key id="$s_tooltip_messenger_resize" 		value="&lt;FONT color='#FFD200' size='15' &gt;Listens for resize area&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the size of the chat window." />
-  <key id="$s_tooltip_messenger_type" 		value="&lt;FONT color='#FFD200' size='15' &gt;Chat Settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCommand, you can use a variety of chat.\nThe world consumes Megan Barrett dialogue and channels of dialogue.\n\nWorld talk  &quot;/w,/world,/In January,/World,/World loudspeaker&quot;\nChannels dialog  &quot;/c,/channel,/Chapman,/Channel,/Channel loudspeaker&quot;\nRegional dialogue  &quot;/s,/space,/That,/,/Area&quot; \nParty conversation  &quot;/p,/party,/ㅔ,/Wave,/Party&quot;\nGuild dialog  &quot;/g,/guild,/Heh,/Gil,/Guild&quot;\nA whisper  &quot;/r,/It shall come to pass,/Ear,/Ear horse,/A whisper,/whisper + Space + ID&quot;" />
+  <key id="$s_tooltip_messenger_type" 		value="&lt;FONT color='#FFD200' size='15' &gt;Chat Settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCommand, you can use a variety of chat.\nThe world consumes Merit dialogue and channels of dialogue.\n\nWorld talk  &quot;/w,/world,/In January,/World,/World loudspeaker&quot;\nChannels dialog  &quot;/c,/channel,/Chapman,/Channel,/Channel loudspeaker&quot;\nRegional dialogue  &quot;/s,/space,/That,/,/Area&quot; \nParty conversation  &quot;/p,/party,/ㅔ,/Wave,/Party&quot;\nGuild dialog  &quot;/g,/guild,/Heh,/Gil,/Guild&quot;\nA whisper  &quot;/r,/It shall come to pass,/Ear,/Ear horse,/A whisper,/whisper + Space + ID&quot;" />
 
   <key id="$s_tooltip_myinfo_gearScore" value="&lt;FONT color='#FFD200' size='15' &gt;Item Score&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;The character is currently wearing the item is the sum of scores."/>
   <key id="$s_tooltip_myinfo_trophyPoint" value="&lt;FONT color='#FFD200' size='15' &gt;Trophy&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;The character has acquired trophy count."/>
@@ -1147,7 +1147,7 @@
 
   <!-- manufacture status-->
   <key id="$s_mf_status_title" value="Made production situation"/>
-  <key id="$s_mf_status_empty" value="You can leave the production made.\nMade in my house by posting made to take care of the production.\nMade from premium shop Megan Barrett market employment, or\nGet in the Tri Ah may employ to Vaasa."/>
+  <key id="$s_mf_status_empty" value="You can leave the production made.\nMade in my house by posting made to take care of the production.\nMade from premium shop Merit market employment, or\nGet in the Tri Ah may employ to Vaasa."/>
   <key id="$s_mf_status_ready" value="The items that are being produced.\nProduced by request to talk to the maid."/>
   <key id="$s_mf_status_expired" value="Employment period has expired, the production stopped.\nIf you hire a maid again being produced."/> <!--Employment period has expired, even now that you have decided to keep the production does not use text IM-->
   <key id="$s_mf_status_item_get" value="Instantly receive"/>
@@ -1320,7 +1320,7 @@
   <key id="$s_report_category4_sub_reason03" value="Inappropriate item item description" />
   <key id="$s_report_category4_sub_reason04" value="Copyright infringement" /> 
   <key id="$s_report_category4_sub_reason05" value="Other" /> 
-  <key id="$s_report_category4_description" value="And report and at the same time blocking the 1, this item has gone from invisible Megan Barrett market \n   You can hide.\nAnd false: &lt;FONT color='#be0202'&gt;Strong punishment&lt;/FONT&gt;You can receive a Please be careful.&lt;/FONT&gt;" />
+  <key id="$s_report_category4_description" value="And report and at the same time blocking the 1, this item has gone from invisible Merit market \n   You can hide.\nAnd false: &lt;FONT color='#be0202'&gt;Strong punishment&lt;/FONT&gt;You can receive a Please be careful.&lt;/FONT&gt;" />
   
   <key id="$s_report_category5_sub_reason01" value="Inappropriate item design" />
   <key id="$s_report_category5_sub_reason02" value="Placing inappropriate items" />
@@ -1478,9 +1478,9 @@
   <key id="$s_regist_arena_tooltip" value="Chapter position battle." />
   
   <!-- Black market -->
-  <key id="$s_blackmarket_title" value="Black market  |  BETA" />
+  <key id="$s_blackmarket_title" value="Black Market  |  BETA" />
   <key id="$s_blackmarket_tab_search" value="Search" />
-  <key id="$s_blackmarket_tab_register" value="Register" />
+  <key id="$s_blackmarket_tab_register" value="List" />
   <key id="$s_blackmarket_period" value="" />
   <key id="$s_blackmarket_remind_time" value="Time Remaining:" />
   <key id="$s_blackmarket_sell_price" value="Unit Price"/>
@@ -1503,7 +1503,7 @@
   <key id="$s_blackmarket_search_enchant" value="Enchant Stage"/>
   <key id="$s_blackmarket_search_enchant_maxlevel" value="MAX"/>
   <key id="$s_blackmarket_btn_search" value="Search"/>
-  <key id="$s_blackmarket_btn_register" value="Register"/> 
+  <key id="$s_blackmarket_btn_register" value="List"/> 
   <key id="$s_blackmarket_btn_cancel_sell" value="Cancel"/>
   <key id="$s_blackmarket_btn_complete_buy" value="Complete"/>  
   <key id="$s_blackmarket_btn_buy" value="Buy"/> 
@@ -1516,14 +1516,14 @@
   <key id="$s_blackmarket_dropdown_notselect" value="No Options"/>
   
   <key id="$s_blackmarket_notice_registeritem" value="Place an item to sell"/>
-  <key id="$s_blackmarket_notice_close" value="You cannot use the warm-up period."/>
+  <key id="$s_blackmarket_notice_close" value="There is no preparation time available.."/>
   <key id="$s_blackmarket_notice_disable_use_time" value="It's not time to use."/>
   
-  <key id="$s_blackmarket_notice_empty" value="Want an article that fits the search criteria.\nTry searching other search conditions."/>
-  <key id="$s_blackmarket_notice_search" value="The item that is being sold in the black market.\nSet the search criteria you want, try searching for the item.\n"/>
-  <key id="$s_blackmarket_notice_regist" value="Register for items to sell.\nBlack market traders is responsible for the sale."/>
+  <key id="$s_blackmarket_notice_empty" value="There is no item matching your search criteria.\nTry using different search criterias."/>
+  <key id="$s_blackmarket_notice_search" value="You can check items that are being sold at the Black Market.\nUse a search criteria to search for the item you want.\n"/>
+  <key id="$s_blackmarket_notice_regist" value="You can list your items for sale.\nThe Black Market Trader is responsible for your listings."/>
   
-  <key id="$s_blackmarket_notice_lowest_price_search" value="The search results are displayed from the lowest price only."/>
+  <key id="$s_blackmarket_notice_lowest_price_search" value="Displays search results from the lowest price."/>
   
   <key id="$s_blackmarket_radio_count_1" value="1"/>
   <key id="$s_blackmarket_radio_count_10" value="10"/>
@@ -1539,7 +1539,7 @@
   <!-- Enchanting -->
   <key id="$s_enchant_try" value="Enchant" />
   <key id="$s_enchant_retry" value="Go Back" />
-  <key id="$s_enchant_fail" value="Enchant Failed" />
+  <key id="$s_enchant_fail" value="Enchantment Failed" />
   <key id="$s_enchant_fail_detail" value="You can no longer enchant this equipment because it is damaged." />
   <key id="$s_enchant_fail_desc0" value="" /> <!--Failure: only over-->
   <key id="$s_enchant_fail_desc1" value="&lt;FONT color='#FF5F5F'&gt;Failure (Drop) Chance.&lt;/FONT&gt;" /> <!--Failure to drop-->
@@ -1685,38 +1685,38 @@
   <key id="$s_meratmarket_text_gift_charname" value="Character Name"/>
   <key id="$s_meratmarket_text_gift_msg" value="Gift Message"/>
   <key id="$s_meratmarket_bill_notice_meratmarket_only_premium" value=""/>
-  <key id="$s_meratmarket_bill_notice_meratmarket" value="Designer's shop if you are in violation of the policy in the item of the item (s) purchased in the item, you will not be able to use the design of the disappeared.\nWhen you buy a used item, Megan Barrett is 3 days will be paid through the mail."/>
+  <key id="$s_meratmarket_bill_notice_meratmarket" value="Designer's shop if you are in violation of the policy in the item of the item (s) purchased in the item, you will not be able to use the design of the disappeared.\nWhen you buy a used item, Merit is 3 days will be paid through the mail."/>
   <key id="$s_meratmarket_bill_notice_cashshop" value="The item is purchased from the cache, the cache shop moved to the warehouse, you can use the move with your belongings."/>
   <key id="$s_meratmarket_bill_notice_cashshop_gift" value="You cannot make the cancellation of the items presented.\nSent gift gifts can be found in the cache of the person receiving the warehouse."/>
   
-  <key id="$s_meratmarket_tooltip_tab_home" value="&lt;FONT color='#FFD200' size='15' &gt;Market home&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can see at a glance the featured items."/>
-  <key id="$s_meratmarket_tooltip_tab_premium" value="&lt;FONT color='#FFD200' size='15' &gt;Premium shop&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo search for and purchase premium items."/>
-  <key id="$s_meratmarket_tooltip_tab_designers" value="&lt;FONT color='#FFD200' size='15' &gt;Designer's shop&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesigners created to search for and purchase products."/>
-  <key id="$s_meratmarket_tooltip_tab_myshop" 	value="&lt;FONT color='#FFD200' size='15' &gt;My shop&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesigner's shop items to register for sale, or\nThe design of the item for sale, you can get a revenue settlement." />
+  <key id="$s_meratmarket_tooltip_tab_home" value="&lt;FONT color='#FFD200' size='15' &gt;Market Home&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can see at a glance the featured items."/>
+  <key id="$s_meratmarket_tooltip_tab_premium" value="&lt;FONT color='#FFD200' size='15' &gt;Premium Shop&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo search for and purchase premium items."/>
+  <key id="$s_meratmarket_tooltip_tab_designers" value="&lt;FONT color='#FFD200' size='15' &gt;Designer Shop&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesigners created to search for and purchase products."/>
+  <key id="$s_meratmarket_tooltip_tab_myshop" 	value="&lt;FONT color='#FFD200' size='15' &gt;My Shop&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesigner's shop items to register for sale, or\nThe design of the item for sale, you can get a revenue settlement." />
   <key id="$s_meratmarket_tooltip_tab_bookmark" value="&lt;FONT color='#FFD200' size='15' &gt;Favorites&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAdd your favorite Designer, you can see at a glance."/>
-  <key id="$s_meratmarket_tooltip_tab_basket" value="&lt;FONT color='#FFD200' size='15' &gt;Shopping cart&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe items in the shopping cart\nYou can buy at a time."/>
+  <key id="$s_meratmarket_tooltip_tab_basket" value="&lt;FONT color='#FFD200' size='15' &gt;Shopping Cart&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe items in the shopping cart\nYou can buy at a time."/>
   
-  <key id="$s_meratmarket_tooltip_radio_male" value="&lt;FONT color='#FFD200' size='15' &gt;Men's&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nFor men, you can see with the item.\nMy character is different from sex mannequin are displayed." />
-  <key id="$s_meratmarket_tooltip_radio_female" value="&lt;FONT color='#FFD200' size='15' &gt;Women's&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWomen can be seen with the item.\nMy character is different from sex mannequin are displayed." />
+  <key id="$s_meratmarket_tooltip_radio_male" value="&lt;FONT color='#FFD200' size='15' &gt;Male&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nFor men, you can see with the item.\nMy character is different from sex mannequin are displayed." />
+  <key id="$s_meratmarket_tooltip_radio_female" value="&lt;FONT color='#FFD200' size='15' &gt;Female&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWomen can be seen with the item.\nMy character is different from sex mannequin are displayed." />
   <key id="$s_meratmarket_tooltip_check_preview_coloring" value="&lt;FONT color='#FFD200' size='15' &gt;Parts of the dye preview&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nParts of the painted pink." />
-  <key id="$s_meratmarket_tooltip_btn_unequip_all" 	value="&lt;FONT color='#FFD200' size='15' &gt;It all comes off&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDid not wear the item." />
-  <key id="$s_meratmarket_tooltip_btn_show_myequip" 	value="&lt;FONT color='#FFD200' size='15' &gt;See my clothes&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn the preview shows only the items with my character." />
-  <key id="$s_meratmarket_tooltip_btn_buy_equip_all" 	value="&lt;FONT color='#FFD200' size='15' &gt;The current buy list&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAll items with a purchase in preview." />
+  <key id="$s_meratmarket_tooltip_btn_unequip_all" 	value="&lt;FONT color='#FFD200' size='15' &gt;Unequip All&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDid not wear the item." />
+  <key id="$s_meratmarket_tooltip_btn_show_myequip" 	value="&lt;FONT color='#FFD200' size='15' &gt;My Clothing&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn the preview shows only the items with my character." />
+  <key id="$s_meratmarket_tooltip_btn_buy_equip_all" 	value="&lt;FONT color='#FFD200' size='15' &gt;Current Buy List&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAll items with a purchase in preview." />
   <key id="$s_meratmarket_tooltip_shop_dropdown_sort" 	value="&lt;FONT color='#FFD200' size='15' &gt;Sort&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSorted in the order you want." /> 
   <key id="$s_meratmarket_tooltip_shop_input_search" 	value="&lt;FONT color='#FFD200' size='15' &gt;Search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter your search terms, you can find the desired design items." />
-  <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_all" 	value="&lt;FONT color='#FFD200' size='15' &gt;Full&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShow all sex wearable clothes." />
-  <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_male" 	value="&lt;FONT color='#FFD200' size='15' &gt;Men's&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMale characters are available to wear clothes." />
-  <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_female" 	value="&lt;FONT color='#FFD200' size='15' &gt;Women's&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWomen characters are available to wear clothes." />
+  <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_all" 	value="&lt;FONT color='#FFD200' size='15' &gt;All&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShow all sex wearable clothes." />
+  <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_male" 	value="&lt;FONT color='#FFD200' size='15' &gt;Male&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMale characters are available to wear clothes." />
+  <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_female" 	value="&lt;FONT color='#FFD200' size='15' &gt;Female&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWomen characters are available to wear clothes." />
   <key id="$s_meratmarket_tooltip_myshop_btn_addnew" 	value="&lt;FONT color='#FFD200' size='15' &gt;New product registration&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nI made the same design as the design items and goods market.\nYou can register up to 20 pieces per design-goods account." />
   <key id="$s_meratmarket_tooltip_myshop_btn_calculate" 	value="&lt;FONT color='#FFD200' size='15' &gt;Settlement amount and receive&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nRegistered design products sales revenue caused by settlement.\nSale of goods, after seven days, you can get a settled amount." />
   <key id="$s_meratmarket_tooltip_myshop_btn_history" 	value="&lt;FONT color='#FFD200' size='15' &gt;Settlement history view&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nHas not been settled yet, sales revenue for\nDetails of the slated to amount and settlement." />
-  <key id="$s_meratmarket_tooltip_basket_check_all" 	value="&lt;FONT color='#FFD200' size='15' &gt;Select all&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn the shopping cart, select all of them an article." />
+  <key id="$s_meratmarket_tooltip_basket_check_all" 	value="&lt;FONT color='#FFD200' size='15' &gt;Select All&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn the shopping cart, select all of them an article." />
   <key id="$s_meratmarket_tooltip_basket_btn_buy" 	value="&lt;FONT color='#FFD200' size='15' &gt;Buy&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAll of the selected items to buy." />
   <key id="$s_meratmarket_tooltip_bookmark_btn_remove_seller" 	value="&lt;FONT color='#FFD200' size='15' &gt;Delete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe seller will be deleted from the Favorites list." />
   <key id="$s_meratmarket_tooltip_basket_btn_remove_item" 	value="&lt;FONT color='#FFD200' size='15' &gt;Delete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDelete the item from the shopping cart." />
   
   <key id="$s_meratmarket_tooltip_btn_report" value="&lt;FONT color='#FFD200' size='15' &gt;Report&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSell the item to the designer."/>
-  <key id="$s_meratmarket_tooltip_btn_to_basket" value="&lt;FONT color='#FFD200' size='15' &gt;Add to cart&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe item in the cart."/>
+  <key id="$s_meratmarket_tooltip_btn_to_basket" value="&lt;FONT color='#FFD200' size='15' &gt;Add to Cart&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe item in the cart."/>
   <key id="$s_meratmarket_tooltip_btn_add_bookmark" value="&lt;FONT color='#FFD200' size='15' &gt;Add to Favorites&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSell the item to the designer\nAdd to Favorites."/>
   <key id="$s_meratmarket_tooltip_btn_recipe" value="&lt;FONT color='#FFD200' size='15' &gt;Recipe view&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShows a list of items that you can create a maid.\n&lt;FONT color='#909090'&gt;When you place a employment contract made after the House during item creation.\nMade up the familiarity (up to 10 steps), you can create more items.&lt;/font&gt;"/>
   <key id="$s_meratmarket_tooltip_btn_preview" value="&lt;FONT color='#FFD200' size='15' &gt;Component view&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nInterior construction areas, you can see the included components.&lt;/font&gt;"/>
@@ -1724,27 +1724,27 @@
   <key id="$s_meratmarketreg_tooltip_input_price" 	value="&lt;FONT color='#FFD200' size='15' &gt;Priced to sell&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter the selling price per unit of the product design.\nProduct sales: 50% of the selling price as a fee and the cost of producing\nThe remaining 50% of the amount of revenue the sale.\nHowever, if the amount of the fees, the odd amount of days.\nSales revenue can be found in my shop." />
   <key id="$s_meratmarketreg_tooltip_input_itemdesc" 	value="&lt;FONT color='#FFD200' size='15' &gt;Design description&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesigner's shop looks in the list of items of goods.\nFor more on goods to sell, you can add a description.\nThis information appears only in design products on sale.\nHowever, you can enter the text here." />
   <key id="$s_meratmarketreg_tooltip_input_itemtag" 	value="&lt;FONT color='#FFD200' size='15' &gt;Tags&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn addition to the item name queries and registrations." />
-  <key id="$s_meratmarketreg_tooltip_check_ad" 	value="&lt;FONT color='#FFD200' size='15' &gt;Random ad space&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nRandom ads advertising selected randomly from the list of the goods applied for in\nMegan Barrett market main screen and recommended products tab of the designer's shop in the classifieds.\n\n&lt;FONT color='#C0C0C0'&gt;However, the cumulative revenue exceeds 10 million per month as is everyone else sold out Megan Bobcats merchandise\nCan't buy these costs are non-refundable.&lt;/font&gt;" />
+  <key id="$s_meratmarketreg_tooltip_check_ad" 	value="&lt;FONT color='#FFD200' size='15' &gt;Random ad space&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nRandom ads advertising selected randomly from the list of the goods applied for in\nMerit market main screen and recommended products tab of the designer's shop in the classifieds.\n\n&lt;FONT color='#C0C0C0'&gt;However, the cumulative revenue exceeds 10 million per month as is everyone else sold out Megan Bobcats merchandise\nCan't buy these costs are non-refundable.&lt;/font&gt;" />
   <key id="$s_meratmarketreg_tooltip_btn_royalty" 	value="&lt;FONT color='#FFD200' size='15' &gt;Production costs and fees&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe actual item is sold in designer's shop in a registered design as the original\nBecause the same items newly produced and production costs and fees.\n50% of the selling price of an item and use the rest of the amount of the sale fee 50%\nTurn it into revenue. However, if the amount of the fees, the odd amount of days.\nSales revenue can be found in my shop." />
   <key id="$s_meratmarketreg_tooltip_btn_period" 	value="&lt;FONT color='#FFD200' size='15' &gt;Sales period&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDuring the registration period design product.\nThe registration period will be automatically changes the State to stop the sale.\n\n&lt;FONT color='#C0C0C0'&gt;However, only the cumulative profits 10 per month if you exceed the sales of renal Medan products\nChange all sold out, and cannot be sold by one day next month.\nIn this case, you can stop the sale of the item on sale and no sale end date\nDoes not change.&lt;/font&gt;" />
   <key id="$s_meratmarketreg_tooltip_btn_show_enable_designs" 	value="&lt;FONT color='#FFD200' size='15' &gt;Is it possible to register the design view only&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIf you already have an account, with the exception of a design\nIs it possible to register designs." />
   <key id="$s_meratmarketreg_tooltip_btn_resale" 	value="&lt;FONT color='#FFD200' size='15' &gt;Resale&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nStop selling state changes back to design goods sales.\nStop selling State product designer's shop list is invisible.\nPress again the number of the registered sales and resale registration date remains\nNew products even if not in the list of recently sorted and displayed in the existing location." />
   <key id="$s_meratmarketreg_tooltip_btn_delete" 	value="&lt;FONT color='#FFD200' size='15' &gt;Delete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo delete a registered design product.\nIf you delete it from the list shown in the management, no longer sold\nIf you want to sell the same design again, you must register the new article.\nIf you are registering a registered product is deleted over and over again, all existing sales record." />
-  <key id="$s_meratmarketreg_tooltip_btn_stopsale" 	value="&lt;FONT color='#FFD200' size='15' &gt;Stop selling&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nStop selling your design product sale and changes\nStop selling goods which are not exposed in the designer's shop." />
-  <key id="$s_meratmarketreg_tooltip_btn_register" 	value="&lt;FONT color='#FFD200' size='15' &gt;To register with the&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThis is the contents of the designer's shop goods." />
+  <key id="$s_meratmarketreg_tooltip_btn_stopsale" 	value="&lt;FONT color='#FFD200' size='15' &gt;End Sale&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nStop selling your design product sale and changes\nStop selling goods which are not exposed in the designer's shop." />
+  <key id="$s_meratmarketreg_tooltip_btn_register" 	value="&lt;FONT color='#FFD200' size='15' &gt;List&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThis is the contents of the designer's shop goods." />
 
   <!-- Market the ToolTip -->
   <key id="$s_meratmarket_tooltip_seller" value="Seller"/>
   <key id="$s_meratmarket_tooltip_product_desc" value="Item Description"/>
   <key id="$s_meratmarket_tooltip_product_tag" value="Tag"/>
-  <key id="$s_meratmarket_tooltip_product_count" value="Cumulative sales number"/>
+  <key id="$s_meratmarket_tooltip_product_count" value="Cumulative Sell Count"/>
   <key id="$s_meratmarket_tooltip_sell_date" value="Sales Period"/>
   <key id="$s_meratmarket_tooltip_sell_price" value="Selling Price"/>
   
   <!-- The cache shop -->
   <key id="$s_cashshop_title" value="Cash Shop  |  BETA"/>
   <key id="$s_cashshop_btn_home" value="Home"/>
-  <key id="$s_cashshop_btn_basket" value="Shopping Cart"/>
+  <key id="$s_cashshop_btn_basket" value="Cart"/>
   <key id="$s_cashshop_btn_cash_charge" value="Charge"/>
   <key id="$s_cashshop_inven_info" value="Use the storage to move items from your inventory."/>
   <key id="$s_cashshop_inven_name" value="Cash Storage"/>
