@@ -599,10 +599,10 @@
   <key id="$s_shop_purchase"	value="Item"/>
   <key id="$s_shop_repurchase"	value="Rebuy"/>
   <key id="$s_shop_buy"	value="Buy"/>
-  <key id="$s_shop_check_enable_item"	value="Show only available items"/>
+  <key id="$s_shop_check_enable_item"	value="Show Only Available Items"/>
   <key id="$s_shop_notice_disable_reset"	value="New shops are not wearing."/>
   <key id="$s_shop_notice_enable_reset"	value="Among the new ships."/>
-  <key id="$s_shop_notice_search"	value="Enter a search term."/>
+  <key id="$s_shop_notice_search"	value="Enter a keyword."/>
   <key id="$s_shop_reset" value="Reset"/>
   <key id="$s_shop_soldout"	value="Out of Stock"/> <!--If out of stock-->
   <key id="$s_shop_stopsale" value="Sale Stopped"/> <!--If the sale is stopped-->
@@ -631,9 +631,9 @@
   <key id="$s_buddy_addban" value="Add Block"/>
   
   <key id="$s_buddy_input_memo" value="Please note that modifying block."/>
-  <key id="$s_buddy_input_userID" value="Please enter the name of the character you want to have a friend."/>
+  <key id="$s_buddy_input_userID" value="Enter the name of the character you want to have a friend."/>
   <key id="$s_buddy_notice_ban" value="Block: the other side of the profile image, chat, mail, you can hide invisible request."/>
-  <key id="$s_buddy_input_banID" value="Please enter the name of the character that you want to block block reasons."/>
+  <key id="$s_buddy_input_banID" value="Enter the name of the character that you want to block block reasons."/>
   
   <key id="$s_buddy_btn_ok" value="Confirm"/>
   <key id="$s_buddy_btn_cancel" value="Cancel"/>
@@ -1010,7 +1010,7 @@
   <key id="$s_achieve_summaryTrophy_rd" value="Reward"/>
   <key id="$s_achieve_heroTropy_emptyProgress" value="There is no trophy in progress."/>
   <key id="$s_achieve_heroTropy_emptyComplete" value="There is no completed trophy."/>
-  <key id="$s_achieve_search" value="Enter a search term."/>
+  <key id="$s_achieve_search" value="Enter a keyword."/>
   <key id="$s_achieve_filter_0" value="Trophies in Progress"/>
   <key id="$s_achieve_filter_1" value="Completed Trophies"/>
   <key id="$s_achieve_filter_2" value="All Trophies"/>
@@ -1483,29 +1483,29 @@
   <key id="$s_blackmarket_tab_register" value="Register" />
   <key id="$s_blackmarket_period" value="" />
   <key id="$s_blackmarket_remind_time" value="Time Remaining:" />
-  <key id="$s_blackmarket_sell_price" value="The selling price per piece"/>
-  <key id="$s_blackmarket_sell_totalprice" value="Total sale price:"/>
-  <key id="$s_blackmarket_sell_count" value="Sales count"/>
+  <key id="$s_blackmarket_sell_price" value="Unit Price"/>
+  <key id="$s_blackmarket_sell_totalprice" value="Total Price:"/>
+  <key id="$s_blackmarket_sell_count" value="Sell Count"/>
   <key id="$s_blackmarket_count" value="Count"/>
   <key id="$s_blackmarket_max_sell_price" value="(Max.)"/>
   <key id="$s_blackmarket_max_sell_price_default" value="Unknown" />
-  <key id="$s_blackmarket_sell_average" value="Average Cost (12)"/>
+  <key id="$s_blackmarket_sell_average" value="Average Price (12)"/>
   <key id="$s_blackmarket_notice_fee" value="\n Charging Fee : 15% of the sales price\n (Sale of goods: sales amount automatically deducted)"/>
-  <key id="$s_blackmarket_search_job" value="Job"/>
+  <key id="$s_blackmarket_search_job" value="Class"/>
   <key id="$s_blackmarket_search_level" value="Level"/>
   <key id="$s_blackmarket_search_grade" value="Rank"/>
   <key id="$s_blackmarket_search_name" value="Name"/>
   <key id="$s_blackmarket_search_maxlevel" value="MAX"/>
-  <key id="$s_blackmarket_search_option" value="Advanced search"/>
-  <key id="$s_blackmarket_search_default_must_select" value="&lt;FONT color='#FF5F5F'&gt;Select the required&lt;/FONT&gt;"/>
-  <key id="$s_blackmarket_search_default_do_select" value="Option mode not selected."/>
-  <key id="$s_blackmarket_search_default_must_input" value="Essential input"/>
+  <key id="$s_blackmarket_search_option" value="Advanced Search"/>
+  <key id="$s_blackmarket_search_default_must_select" value="&lt;FONT color='#FF5F5F'&gt;Select&lt;/FONT&gt;"/>
+  <key id="$s_blackmarket_search_default_do_select" value="No Options"/>
+  <key id="$s_blackmarket_search_default_must_input" value="Enter"/>
   <key id="$s_blackmarket_search_enchant" value="Enchant Stage"/>
   <key id="$s_blackmarket_search_enchant_maxlevel" value="MAX"/>
   <key id="$s_blackmarket_btn_search" value="Search"/>
   <key id="$s_blackmarket_btn_register" value="Register"/> 
-  <key id="$s_blackmarket_btn_cancel_sell" value="Cancel Sale"/>
-  <key id="$s_blackmarket_btn_complete_buy" value="Sale Completed"/>  
+  <key id="$s_blackmarket_btn_cancel_sell" value="Cancel"/>
+  <key id="$s_blackmarket_btn_complete_buy" value="Complete"/>  
   <key id="$s_blackmarket_btn_buy" value="Buy"/> 
   <key id="$s_blackmarket_list_column_name" value="Item Name"/>
   <key id="$s_blackmarket_list_column_level" value="Level"/>
@@ -1515,7 +1515,7 @@
   <key id="$s_blackmarket_dropdown_joball" value="All"/>
   <key id="$s_blackmarket_dropdown_notselect" value="No Options"/>
   
-  <key id="$s_blackmarket_notice_registeritem" value="– An item to sell"/>
+  <key id="$s_blackmarket_notice_registeritem" value="Place the item to sell"/>
   <key id="$s_blackmarket_notice_close" value="You cannot use the warm-up period."/>
   <key id="$s_blackmarket_notice_disable_use_time" value="It's not time to use."/>
   
