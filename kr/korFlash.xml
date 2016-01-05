@@ -355,12 +355,12 @@
   <key id="$s_gamemenu_popup_maview" value="Maview"/>
 
   <!--Construction mode toggle button-->
-  <key id="$s_gamemenu_btn_demolish" value="Indoor zeroing"/>
-  <key id="$s_gamemenu_btn_construct" value="Getting started with the construction of the"/> 
-  <key id="$s_gamemenu_btn_normal" value="Construction to close"/> 
+  <key id="$s_gamemenu_btn_demolish" value="Reset House"/>
+  <key id="$s_gamemenu_btn_construct" value="Start Construction"/> 
+  <key id="$s_gamemenu_btn_normal" value="End Construction"/> 
   <key id="$s_gamemenu_btn_construct_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Getting started with the construction of the&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIf you press a hotkey can decorate my house\nConstruction mode.\nAround my house or my house indoors only\nYou can use the construction mode."/>
   <key id="$s_gamemenu_btn_normal_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Return to normal mode&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShortcuts or ESC Key is pressed, the mode is terminated and the construction\nThe battle of possible common mode.\nCharacter mode, you don't have to hit the button\nConfined to the construction area will switch automatically."/> 
-  <key id="$s_gamemenu_btn_shop" value="Bunny store"/> 
+  <key id="$s_gamemenu_btn_shop" value="Bunny Girl's Shop"/> 
   <key id="$s_gamemenu_btn_shop_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;The construction of the Bunny shop&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe Interior of the popular items sold in the square, where a collection of Bunny is the construction of a store.\nYou can buy directly from the construction mode.\n&lt;FONT color='#8dd502'&gt;If you go to more goods and the Interior square watch decorating directly.&lt;/FONT&gt;"/>
   <key id="$s_gamemenu_btn_demolish_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Indoor zeroing&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAll items in the current build is installed indoors.\nRecovered items are filled with belongings as if enters belongings movers storage warehouses.\nIndoor or out during emptying as changes are made to the existing information that is placed in the Interior, you can be empty.&lt;/FONT&gt;"/>
   
