@@ -126,7 +126,7 @@
 	   <!-- [Skill, fight] -->
 	   <key id="s_err_stat" value="Stat is low."/>
 	   <key id="s_err_target" value="There is no target."/>
-	   <key id="s_skill_err_weapon" value="Listen to the correct weapon."/>
+	   <key id="s_skill_err_weapon" value="Cannot be used with the equipped weapon."/>
 	   <key id="s_err_lack_hp" value="You don't have enough HP."/>
 	   <key id="s_err_lack_sp" value="You don't have enough SP."/>
 	   <key id="s_err_lack_ep" value="You don't have enough EP."/>
@@ -346,7 +346,7 @@
 	  <key id="s_party_break" value="The party was disbanded."/>
 	  <key id="s_party_join_me" value="You have joined the party."/>
 	  <key id="s_party_expel_me" value="You have been expelled from the party."/>
-	  <key id="s_party_join_someone" value="{0} would like to join your party."/>
+	  <key id="s_party_join_someone" value="{0} has joined your party."/>
 	  <key id="s_party_leave_someone" value="{0} has left the party."/>
 	  <key id="s_party_expel_someone" value="{0} was expelled from the party."/>
 	  <key id="s_party_member_login" value="{0} has logged on."/>
@@ -359,7 +359,7 @@
 	  <key id="s_party_check_change_chief" value="Are you sure you want to make {0} the party leader?" />
 	  <key id="s_party_check_expel_member" value="Are you sure you want to expel {0}?" />
 	  <key id="s_party_expel_boss_room" value="You cannot expel party members during a dungeon or boss fight." />
-	  <key id="s_party_someone_get_high_item" value="{0} NI {1} Obtained." />
+	  <key id="s_party_someone_get_high_item" value="{0} obtained {1}." />
 	  <key id="s_party_change_dungeon_level" value="The dungeon difficulty has been changed to {0}." />
 	  <key id="s_party_auto_join_confirm" value="&lt;FONT color='#FFA200'&gt;[{0}]&lt;/FONT&gt; Are you sure you want to join this party?" />
 	  
@@ -398,8 +398,8 @@
 	  <key id="s_guild_notify_expel_member" value="&lt;FONT color='#ff8adf'&gt;{0} NI {1} Su was expelled from the Guild.&lt;/FONT&gt;" /> <!--Listens for-->
 	  <key id="s_guild_notify_expeled" value="&lt;FONT color='#ff8adf'&gt;Expelled from the Guild.&lt;/FONT&gt;" /><!--Listens for-->
 	  <key id="s_guild_notify_expeled_from" value="&lt;FONT color='#ff8adf'&gt;{0} I was expelled from the Guild Lord.&lt;/FONT&gt;" /><!--Listens for-->
-	  <key id="s_guild_notify_login_member" value="&lt;FONT color='#ff8adf'&gt;Guild {0} By this juncture.&lt;/FONT&gt;" /><!--Listens for-->
-	  <key id="s_guild_notify_logout_member" value="&lt;FONT color='#ff8adf'&gt;Guild {0} This has ended the connection.&lt;/FONT&gt;" /><!--Listens for-->
+	  <key id="s_guild_notify_login_member" value="&lt;FONT color='#ff8adf'&gt;Guild member {0} has logged on.&lt;/FONT&gt;" /><!--Listens for-->
+	  <key id="s_guild_notify_logout_member" value="&lt;FONT color='#ff8adf'&gt;Guild member {0} has logged off.&lt;/FONT&gt;" /><!--Listens for-->
 	  <key id="s_guild_notify_change_member_grade" value="&lt;FONT color='#ff8adf'&gt;{0} NI [{1}] The rating was changed to.&lt;/FONT&gt;" /><!--Listens for-->
 	  <key id="s_guild_notify_change_member_grade_me" value="&lt;FONT color='#ff8adf'&gt;Guild [{0}] The rating was changed to.&lt;/FONT&gt;" /><!--Listens for-->
 	  <key id="s_guild_notify_change_master" value="&lt;FONT color='#ff8adf'&gt;Guild {0} Changes to submitted.&lt;/FONT&gt;" /><!--Listens for-->
@@ -408,7 +408,7 @@
 	  <key id="s_guild_notify_change_mark" value="&lt;FONT color='#ff8adf'&gt;{0} You&#8217;ve changed the Guild marks.&lt;/FONT&gt;" /> <!--Listens for-->
 	  <key id="s_guild_notify_change_name" value="&lt;FONT color='#ff8adf'&gt;Guild people [{0}]Has been changed to.&lt;/FONT&gt;" /> <!--Listens for-->
 	  <key id="s_guild_notify_change_capacity" value="This page has been changed the maximum number." />
-	  <key id="s_guild_notify_achieve_progress" value="&lt;FONT color='#ff8adf'&gt;{0} This trophy was achieved. {1}&lt;/FONT&gt;" />
+	  <key id="s_guild_notify_achieve_progress" value="&lt;FONT color='#ff8adf'&gt;{0} has achieved the trophy {1}&lt;/FONT&gt;" />
 	  <key id="s_guild_notify_achieve_complete" value="&lt;FONT color='#ff8adf'&gt;{0} This was completed by the final stage of the trophy. {1}&lt;/FONT&gt;" />
 	  <key id="s_guild_notify_pvp_get_grade" value="&lt;FONT color='#ff8adf'&gt;The Guild has changed the rating of the battlefield. : {0}&lt;/FONT&gt;" />
 	  <key id="s_guild_notify_pvp_regist" value="&lt;FONT color='#ff8adf'&gt;{0} This Guild I was applying for.&lt;/FONT&gt;" />
@@ -641,7 +641,7 @@
 
 	  <!-- [Item (s)] -->
 	  <key id="s_item_err_drop" value="You cannot discard this item."/>
-	  <key id="s_item_err_cannot_drop" value="Turn out to be destroyed.\nItems &lt;FONT color='#FFA200'&gt;All&lt;/FONT&gt; Are you sure you want to destroy?"/>
+	  <key id="s_item_err_cannot_drop" value="This can only be destroyed.\nAre you sure you want to destroy &lt;FONT color='#FFA200'&gt;All&lt;/FONT&gt; the items?"/>
 	  <key id="s_item_err_cant_sell" value="You cannot sell this item."/>
 	  <key id="s_skill_err_low_level" value="Low levels are not available."/>
 	  <key id="s_item_err_cash_putoff" value="First, the skin will take the items."/>
@@ -650,7 +650,7 @@
 	  <key id="s_item_err_puton" value="Wearable items."/>
 	  <key id="s_item_err_putoff" value="Unable to take off."/>
 	  <key id="s_item_err_destroy_equip" value="You cannot destroy the active item is worn."/>
-	  <key id="s_item_err_no_weapon" value="Listen to the correct weapon."/>
+	  <key id="s_item_err_no_weapon" value="No weapon equipped."/>
 	  <key id="s_item_err_invalid_weapon" value="Cannot be used with the weapons now."/>
     <key id="s_item_err_Invalid_slot" value="Cannot equip slots."/>
 	  <key id="s_item_err_cash_slot" value="Take off the skin and worn items\nPlease try again."/>
