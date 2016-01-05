@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsing this data used do not directly modify the -->
 <ms2>
-	<key id="1" name="Men&#8217;s skin" />
-	<key id="2" name="Women&#8217;s skin" />
+	<key id="1" name="Male Skin" />
+	<key id="2" name="Female Skin" />
 	<key id="10200001" name="Youthful dandy cut" />
 	<key id="10200002" name="Salt Mohican hair" />
 	<key id="10200003" name="Cool guy hair" />
@@ -489,17 +489,17 @@
 	<key id="11300118" name="Knights helmet" />
 	<key id="11300119" name="Brown barnacles" />
 	<key id="11300120" name="Milly Shah Hat" />
-	<key id="11300121" name="Alpha-test Cap" />
-	<key id="11300122" name="Closed beta Hat" />
+	<key id="11300121" name="Alpha Test Hat" />
+	<key id="11300122" name="Closed Beta Hat" />
 	<key id="11300123" name="Duck do Cone pitches" />
 	<key id="11300124" name="Blood Requiem Horn" />
 	<key id="11300125" name="Milly Shah Hat" />
 	<key id="11300126" name="Hot dumplings on the plate" />
 	<key id="11300127" />
-	<key id="11300128" name="Lava Cap" />
-	<key id="11300129" name="Griffon Helms" />
-	<key id="11300130" name="Griffey I helm" />
-	<key id="11300131" name="Horus Helms" />
+	<key id="11300128" name="Lava Hat" />
+	<key id="11300129" name="Griffon Helm" />
+	<key id="11300130" name="Griffina Helm" />
+	<key id="11300131" name="Horus Helm" />
 	<key id="11300132" name="Gatekeeper helmet" />
 	<key id="11300133" name="The last pitch" />
 	<key id="11300134" name="Forgotten helmet" />
@@ -516,7 +516,7 @@
 	<key id="11300145" name="Tracker Hat" />
 	<key id="11300146" name="Monitor Cap" />
 	<key id="11300147" name="Stud Captain Hat" />
-	<key id="11300148" name="Eness Cap" />
+	<key id="11300148" name="Anes Hat" />
 	<key id="11300149" name="Flight helmet" />
 	<key id="11300150" name="Marine race swimming Cap" />
 	<key id="11300151" name="Croaked croaked a swimming Cap" />
@@ -4710,29 +4710,29 @@
 	<key id="19000012" name="Cube Angel saw the fishing rod" />
 	<key id="19000013" name="Expert demo I saw Nick fishing rod" />
 	<key id="19100001" name="Fun acoustic guitar (main)" />
-	<key id="20000004" name="El Rick West" />
-	<key id="20000013" name="Turtle eggs" />
-	<key id="20000014" name="MRES" />
+	<key id="20000004" name="Elixir" />
+	<key id="20000013" name="Turtle Egg" />
+	<key id="20000014" name="Battle Food" />
 	<key id="20000015" name="Tour non-tour the jelly" />
 	<key id="20000016" name="Written by Rita min Jung" />
-	<key id="20000017" name="Warrior potion" />
-	<key id="20000018" name="The wizard&#8217;s potion" />
+	<key id="20000017" name="Warrior Potion" />
+	<key id="20000018" name="Wizard Potion" />
 	<key id="20000019" name="Health Potion" />
-	<key id="20000020" name="Defense potion" />
-	<key id="20000021" name="Mini El Rick West" />
-	<key id="20000022" name="Red potion" />
-	<key id="20000023" name="Orange potion" />
-	<key id="20000024" name="White potion" />
-	<key id="20000025" name="Special red potion" />
-	<key id="20000026" name="Special mango potion" />
-	<key id="20000027" name="Special white potion" />
-	<key id="20000028" name="Red herb" />
-	<key id="20000029" name="Orange herb" />
-	<key id="20000030" name="White herb" />
-	<key id="20000031" name="Special red herb" />
-	<key id="20000032" name="Special Orange herb" />
-	<key id="20000033" name="Special white herb" />
-	<key id="20000034" name="Enriched with red herb" />
+	<key id="20000020" name="Defense Potion" />
+	<key id="20000021" name="Mini Elixir" />
+	<key id="20000022" name="Red Potion" />
+	<key id="20000023" name="Orange Potion" />
+	<key id="20000024" name="White Potion" />
+	<key id="20000025" name="Special Red Potion" />
+	<key id="20000026" name="Special Orange Potion" />
+	<key id="20000027" name="Special White Potion" />
+	<key id="20000028" name="Red Herb" />
+	<key id="20000029" name="Orange Herb" />
+	<key id="20000030" name="White Herb" />
+	<key id="20000031" name="Special Red Herb" />
+	<key id="20000032" name="Special Orange Herb" />
+	<key id="20000033" name="Special White Herb" />
+	<key id="20000034" name="Concentrated Red Herb" />
 	<key id="20000035" name="Panacea" />
 	<key id="20000036" name="Strawberry punch" />
 	<key id="20000037" name="Rainbow shake" />
@@ -4777,7 +4777,7 @@
 	<key id="20000076" name="Rotten milk" />
 	<key id="20000077" name="Changsha Tianhe nutritional bread" />
 	<key id="20000078" name="Green Herb" />
-	<key id="20000079" name="Green potion" />
+	<key id="20000079" name="Green Potion" />
 	<key id="20000080" name="Invisibility Potion" />
 	<key id="20000081" name="Stun grenades droid" />
 	<key id="20000082" name="Cucumber" />
@@ -4837,7 +4837,7 @@
 	<key id="20000204" name="Intense aggressive Red" />
 	<key id="20000205" name="Brave Starter potion" />
 	<key id="20000206" name="Foot quick Starter potion" />
-	<key id="20000207" name="(PCRoom) El Rick West" />
+	<key id="20000207" name="(PCRoom) Elixir" />
 	<key id="20000208" name="Blue paint" />
 	<key id="20000209" name="Guard House of a whistle" />
 	<key id="20000210" name="To whistle flutes" />
@@ -4869,7 +4869,7 @@
 	<key id="20000236" name="(Check reward) defense potion" />
 	<key id="20000237" name="Campfire Kit" />
 	<key id="20000238" name="Dark energy potion" />
-	<key id="20000239" name="Projection of El Rick West" />
+	<key id="20000239" name="Projection of Elixir" />
 	<key id="20000240" name="After nutritious fruit by the foot" />
 	<key id="20000241" name="Durable after Ruth by the foot" />
 	<key id="20000242" name="Pumpkin candy" />
@@ -4898,9 +4898,9 @@
 	<key id="20000272" name="Lanterns bait" />
 	<key id="20000273" name="Loosen the worm bait" />
 	<key id="20000274" name="Devil spider" />
-	<key id="20000275" name="Kar Kar mystical sand" />
+	<key id="20000275" name="Karkar Mystical Sand" />
 	<key id="20200001" name="Action course steam : Spirit" />
-	<key id="20200002" name="Action course steam : I do not know" />
+	<key id="20200002" name="Action course steam : I Don't Know" />
 	<key id="20200003" name="Action course steam : Proud" />
 	<key id="20200004" name="Action course steam : Frustrated" />
 	<key id="20200005" name="Action course steam : Calyx" />
@@ -4911,9 +4911,9 @@
 	<key id="20200010" name="Action course steam : Go to sleep" />
 	<key id="20200011" name="Action course steam : Para para dancing" />
 	<key id="20200012" name="Action course steam : A bevy of writing" />
-	<key id="20200013" name="Action course steam : A pair of scissors" />
+	<key id="20200013" name="Action course steam : Scissors" />
 	<key id="20200014" name="Action course steam : Rock" />
-	<key id="20200015" name="Action course steam : Bo" />
+	<key id="20200015" name="Action course steam : Paper" />
 	<key id="20200016" name="Action course steam : Dorval" />
 	<key id="20200017" name="Action course steam : Slow load" />
 	<key id="20200018" name="Action course steam : Hand Kiss" />
@@ -4929,108 +4929,108 @@
 	<key id="20200028" name="Action course steam : Shuffle dance" />
 	<key id="20200029" name="Action course steam : Pointe dance" />
 	<key id="20200030" name="Action course steam : Twitching twitching dance" />
-	<key id="20200031" name="Action course steam : To sing" />
-	<key id="20300001" name="Maple coupons" />
+	<key id="20200031" name="Action course steam : Singing" />
+	<key id="20300001" name="Maple Coupon" />
 	<key id="20300002" name="777 Welcome Pack" />
-	<key id="20300003" name="Lotus walkie-talkie" />
-	<key id="20300004" name="The golden key to the Dungeon" />
-	<key id="20300005" name="Expand the volumes window of your belongings : 24Khan" />
+	<key id="20300003" name="Lotus Walkie-Talkie" />
+	<key id="20300004" name="Golden Dungeon Key" />
+	<key id="20300005" name="Inventory Expansion Voucher : 24 Slots" />
 	<key id="20300006" name="Character name change rights" />
 	<key id="20300007" name="Character gender change vol" />
 	<key id="20300008" name="(PCRoom) Golden Dungeon keys" />
-	<key id="20300009" name="(PCRoom) trader walkie-talkie" />
-	<key id="20300010" name="Trader walkie-talkie" />
-	<key id="20300011" name="A first-aid helicopter pager" />
-	<key id="20300012" name="La Penta cents" />
-	<key id="20300013" name="Lotus walkie-talkie : 5Dog" />
-	<key id="20300014" name="Lotus walkie-talkie : 25Dog" />
-	<key id="20300015" name="Lotus walkie-talkie : 50Dog" />
-	<key id="20300016" name="Lotus walkie-talkie : 100Dog" />
-	<key id="20300017" name="Lotus walkie-talkie : 150Dog" />
-	<key id="20300018" name="El Rick West : 10Dog" />
-	<key id="20300019" name="El Rick West : 50Dog" />
-	<key id="20300020" name="El Rick West : 100Dog" />
-	<key id="20300021" name="Trader walkie-talkie" />
-	<key id="20300022" name="Trader walkie-talkie" />
-	<key id="20300023" name="Trader walkie-talkie" />
-	<key id="20300024" name="A first-aid helicopter pager : 5Dog" />
-	<key id="20300025" name="A first-aid helicopter pager : 10Dog" />
-	<key id="20300026" name="A first-aid helicopter pager : 30Dog" />
-	<key id="20300027" name="La Penta cents : 5Dog" />
-	<key id="20300028" name="La Penta cents : 10Dog" />
-	<key id="20300029" name="La Penta cents : 30Dog" />
+	<key id="20300009" name="(PCRoom) trader Walkie-Talkie" />
+	<key id="20300010" name="Trader Walkie-Talkie" />
+	<key id="20300011" name="First-Aid Helicopter Pager" />
+	<key id="20300012" name="Lapenta Set" />
+	<key id="20300013" name="Lotus Walkie-Talkie : 5" />
+	<key id="20300014" name="Lotus Walkie-Talkie : 25" />
+	<key id="20300015" name="Lotus Walkie-Talkie : 50" />
+	<key id="20300016" name="Lotus Walkie-Talkie : 100" />
+	<key id="20300017" name="Lotus Walkie-Talkie : 150" />
+	<key id="20300018" name="Elixir : 10" />
+	<key id="20300019" name="Elixir : 50" />
+	<key id="20300020" name="Elixir : 100" />
+	<key id="20300021" name="Trader Walkie-Talkie" />
+	<key id="20300022" name="Trader Walkie-Talkie" />
+	<key id="20300023" name="Trader Walkie-Talkie" />
+	<key id="20300024" name="First-Aid Helicopter Pager : 5" />
+	<key id="20300025" name="First-Aid Helicopter Pager : 10" />
+	<key id="20300026" name="First-Aid Helicopter Pager : 30" />
+	<key id="20300027" name="Lapenta Set : 5" />
+	<key id="20300028" name="Lapenta Set : 10" />
+	<key id="20300029" name="Lapenta Set : 30" />
 	<key id="20300030" name="777 Starter Pack" />
-	<key id="20300031" name="(PCRoom) Lotus walkie-talkie" />
+	<key id="20300031" name="(PCRoom) Lotus Walkie-Talkie" />
 	<key id="20300032" name="(PCRoom) first-aid helicopter pager" />
-	<key id="20300033" name="Lotus walkie-talkie : 300" />
-	<key id="20300034" name="Megan Barrett pouch : 50Megan Barrett" />
-	<key id="20300035" name="Free hair styling coupons" />
-	<key id="20300036" name="Free cosmetic surgery coupons" />
-	<key id="20300037" name="Free makeup coupons" />
-	<key id="20300038" name="Free dyeing equipment coupons" />
-	<key id="20300039" name="Free channel dialog coupons" />
-	<key id="20300040" name="Free world talk coupons" />
-	<key id="20300041" name="Free resurrection place coupon" />
-	<key id="20300042" name="Free skin: drink coupons" />
-	<key id="20300043" name="Lotus walkie-talkie : 100Dog" />
+	<key id="20300033" name="Lotus Walkie-Talkie : 300" />
+	<key id="20300034" name="Merit Pouch : 50 Merit" />
+	<key id="20300035" name="Free Hairstyle Coupon" />
+	<key id="20300036" name="Free Cosmetic Surgery Coupon" />
+	<key id="20300037" name="Free Make-Up Coupon" />
+	<key id="20300038" name="Free Equipment Dye Coupon" />
+	<key id="20300039" name="Free Channel Talk Coupon" />
+	<key id="20300040" name="Free World Talk Coupon" />
+	<key id="20300041" name="Free Resurrection Coupon" />
+	<key id="20300042" name="Free Skin Change Coupon" />
+	<key id="20300043" name="Lotus Walkie-Talkie : 100" />
 	<key id="20300044" name="Slime Bonus Pack" />
-	<key id="20300045" name="The Golden Medley Barrett pouch : 20Megan Barrett" />
-	<key id="20300046" name="Helium balloon" />
-	<key id="20300047" name="(Reward) Golden Dungeon keys" />
-	<key id="20300048" name="Megan Barrett pouch : 1000Megan Barrett" />
-	<key id="20300049" name="Megan Barrett pouch : 30Megan Barrett" />
-	<key id="20300050" name="Megan Barrett pouch : 60Megan Barrett" />
-	<key id="20300051" name="After Ruth by the input box" />
-	<key id="20300052" name="Character slot expansion power : 1Khan" />
-	<key id="20300053" name="The party summoning scroll" />
-	<key id="20300054" name="Guild recall scroll" />
-	<key id="20300055" name="Megan Barrett pouch : 10Megan Barrett" />
-	<key id="20300056" name="Megan Barrett pouch : 500Megan Barrett" />
-	<key id="20300057" name="Meredith small pouch" />
-	<key id="20300058" name="Meredith small pouch" />
-	<key id="20300059" name="Best of luck MERVILLE-small pocket" />
-	<key id="20300060" name="Halloween mystery pouch" />
-	<key id="20300061" name="Slime coupon box" />
-	<key id="20300062" name="Orange mushroom coupon box" />
-	<key id="20300063" name="More keys coupon box" />
-	<key id="20300064" name="Devlin coupon box" />
-	<key id="20300065" name="Megan Barrett pouch : 50Megan Barrett" />
-	<key id="20300066" name="Megan Barrett pouch : 100Megan Barrett" />
-	<key id="20300067" name="Megan Barrett pouch : 300Megan Barrett" />
-	<key id="20300068" name="Megan Barrett pouch : 500Megan Barrett" />
-	<key id="20300069" name="Megan Barrett pouch : 800Megan Barrett" />
-	<key id="20300070" name="Megan Barrett pouch : 1000Megan Barrett" />
-	<key id="20300071" name="Megan Barrett pouch : 10000Megan Barrett" />
+	<key id="20300045" name="Golden Merit Pouch : 20 Merit" />
+	<key id="20300046" name="Helium Balloon" />
+	<key id="20300047" name="(Reward) Golden Dungeon Key" />
+	<key id="20300048" name="Merit Pouch : 1000 Merit" />
+	<key id="20300049" name="Merit Pouch : 30 Merit" />
+	<key id="20300050" name="Merit Pouch : 60 Merit" />
+	<key id="20300051" name="Hurt By The Foot Box" />
+	<key id="20300052" name="Character Expansion Voucher : 1 Slot" />
+	<key id="20300053" name="Party Summoning Scroll" />
+	<key id="20300054" name="Guild Summoning Scroll" />
+	<key id="20300055" name="Merit Pouch : 10 Merit" />
+	<key id="20300056" name="Merit Pouch : 500 Merit" />
+	<key id="20300057" name="Meso Pouch" />
+	<key id="20300058" name="Meso Pouch" />
+	<key id="20300059" name="Lucky Meso Pouch" />
+	<key id="20300060" name="Halloween Mystery Pouch" />
+	<key id="20300061" name="Slime Coupon Box" />
+	<key id="20300062" name="Orange Mushroom Coupon Box" />
+	<key id="20300063" name="Ducky Coupon Box" />
+	<key id="20300064" name="Devlin Coupon Box" />
+	<key id="20300065" name="Merit Pouch : 50 Merit" />
+	<key id="20300066" name="Merit Pouch : 100 Merit" />
+	<key id="20300067" name="Merit Pouch : 300 Merit" />
+	<key id="20300068" name="Merit Pouch : 500 Merit" />
+	<key id="20300069" name="Merit Pouch : 800 Merit" />
+	<key id="20300070" name="Merit Pouch : 1000 Merit" />
+	<key id="20300071" name="Merit Pouch : 10000 Merit" />
 	<key id="20300072" name="G-star special package" />
 	<key id="20300073" name="Cherish en Pilar package" />
-	<key id="20300074" name="Halloween weapons Exchange ticket" />
-	<key id="20300075" name="Halloween special package" />
+	<key id="20300074" name="Halloween Weapons Exchange ticket" />
+	<key id="20300075" name="Halloween Special Package" />
 	<key id="20300076" name="Growing Starter Pack" />
 	<key id="20300077" name="E-Mart special coupon box" />
-	<key id="20300078" name="Lotus walkie-talkie" />
-	<key id="20300079" name="Free resurrection place coupon" />
-	<key id="20300080" name="Free channel dialog coupons" />
-	<key id="20300081" name="Welcome to Starter package" />
-	<key id="20300082" name="Comeback bonus package" />
-	<key id="20300083" name="Green Crystal package" />
-	<key id="20300084" name="Blue Crystal package" />
-	<key id="20300085" name="Red Crystal package" />
-	<key id="20300086" name="Robust weapons package" />
+	<key id="20300078" name="Lotus Walkie-Talkie" />
+	<key id="20300079" name="Free Resurrection Coupon" />
+	<key id="20300080" name="Free Channel Talk Coupon" />
+	<key id="20300081" name="Welcome Starter Package" />
+	<key id="20300082" name="Comeback Bonus Package" />
+	<key id="20300083" name="Green Crystal Package" />
+	<key id="20300084" name="Blue Crystal Package" />
+	<key id="20300085" name="Red Crystal Package" />
+	<key id="20300086" name="Powerful Weapon Package" />
 	<key id="20300087" name="Golden quarter-Bank" />
 	<key id="20300088" name="Golden quarter-Bank" />
 	<key id="20300089" name="Golden quarter-Bank" />
 	<key id="20300090" name="Asimov&#8217;s return" />
-	<key id="20300091" name="Meredith small pouch : 200000 Meredith small" />
+	<key id="20300091" name="Meso Pouch : 200000 Meso" />
 	<key id="20300092" name="Growing help package" />
 	<key id="20300093" name="Strengthen the growth package" />
 	<key id="20300094" name="Winter special package" />
-	<key id="20300095" name="Meredith small pouch : 1000000 Meredith small" />
-	<key id="20300096" name="25Level achieved package" />
-	<key id="20300097" name="35Level achieved package" />
-	<key id="20300098" name="45Level achieved package" />
+	<key id="20300095" name="Meso Pouch : 1000000 Meso" />
+	<key id="20300096" name="Level 25 Achievement Package" />
+	<key id="20300097" name="Level 35 Achievement Package" />
+	<key id="20300098" name="Level 45 Achievement Package" />
 	<key id="20300099" name="Santa Papa&#8217;s gift socks" />
 	<key id="20300100" name="(PCRoom) Golden quarter-Bank" />
-	<key id="20300101" name="Character gender change" />
+	<key id="20300101" name="Character Gender Change" />
 	<key id="20300102" name="Blue Star hat box" />
 	<key id="20300103" name="Blue Star full-body outfit box" />
 	<key id="20300104" name="Blue Star glove box" />
@@ -5061,16 +5061,16 @@
 	<key id="20300129" name="Play practice sets" />
 	<key id="20300130" name="Party party gift" />
 	<key id="20300131" name="(PCRoom) Dungeon compensation benefits box" />
-	<key id="20400001" name="Nutritious pet food" />
-	<key id="20400002" name="Nutritious pet food" />
-	<key id="20400003" name="Nutritious pet food" />
-	<key id="20400004" name="Nutritious pet food" />
+	<key id="20400001" name="Nutritious Pet Food" />
+	<key id="20400002" name="Nutritious Pet Food" />
+	<key id="20400003" name="Nutritious Pet Food" />
+	<key id="20400004" name="Nutritious Pet Food" />
 	<key id="30000001" name="Hellfire regular" />
 	<key id="30000002" name="Fishing tackle" />
 	<key id="30000003" name="Netting mesh" />
 	<key id="30000004" name="Antique porcelain" />
 	<key id="30000005" name="Antique sculpture" />
-	<key id="30000006" name="Old books" />
+	<key id="30000006" name="Old Book" />
 	<key id="30000007" name="And biological fossils" />
 	<key id="30000008" name="Pearl Al" />
 	<key id="30000009" name="Starfish" />
@@ -5078,7 +5078,7 @@
 	<key id="30000011" name="Chela" />
 	<key id="30000012" name="Orange mushroom Lampshade" />
 	<key id="30000013" name="Dew drops of lime" />
-	<key id="30000014" name="Pig&#8217;s head" />
+	<key id="30000014" name="Pig Head" />
 	<key id="30000015" name="MOSS mud" />
 	<key id="30000016" name="Black with stones" />
 	<key id="30000017" name="Golden Tower access keys" />
@@ -5186,11 +5186,11 @@
 	<key id="30000119" name="Waste tires" />
 	<key id="30000120" name="Chunks of scrap metal" />
 	<key id="30000121" name="Molten iron" />
-	<key id="30000122" name="Sweet pudding" />
+	<key id="30000122" name="Sweet Pudding" />
 	<key id="30000123" name="Twisted oak seedlings" />
 	<key id="30000124" name="Comic book package" />
 	<key id="30000125" name="Honey" />
-	<key id="30000126" name="Red wood" />
+	<key id="30000126" name="Red Wood" />
 	<key id="30000127" name="Someone lost rings" />
 	<key id="30000128" name="Monkey Apple" />
 	<key id="30000129" name="Bo form lunches" />
@@ -5325,7 +5325,7 @@
 	<key id="30000259" name="Berman of water bottles" />
 	<key id="30000260" name="The healing power of water bottles, stating that" />
 	<key id="30000261" name="A full flute" />
-	<key id="30000262" name="777 Lucky bag" />
+	<key id="30000262" name="777 Lucky Bag" />
 	<key id="30000263" name="Your dream used coupons in Izu" />
 	<key id="30000264" name="The key to the prison bars of dark cells" />
 	<key id="30000265" name="Tutor manuscript part 1" />
@@ -5383,9 +5383,9 @@
 	<key id="30000317" name="The soil of life" />
 	<key id="30000318" name="Award-winning indicators" />
 	<key id="30000319" name="Victoria Ho voyage recorder" />
-	<key id="30000320" name="Chaos time - Alpha" />
-	<key id="30000321" name="Chaos time - Beta" />
-	<key id="30000322" name="Chaos time - Delta" />
+	<key id="30000320" name="Chaos Time - Alpha" />
+	<key id="30000321" name="Chaos Time - Beta" />
+	<key id="30000322" name="Chaos Time - Delta" />
 	<key id="30000323" name="Mont-shell&#8217;s casual wear" />
 	<key id="30000324" name="The Royal Palace the souls of men" />
 	<key id="30000325" name="Ripe corn" />
@@ -5467,14 +5467,14 @@
 	<key id="30000401" name="Relaxed Teddy bear" />
 	<key id="30000402" name="Gem brilliant tiara" />
 	<key id="30000403" name="Small flashlight" />
-	<key id="30000404" name="A broken walkie-talkie" />
+	<key id="30000404" name="Broken Walkie-Talkie" />
 	<key id="30000405" name="The old coinage" />
 	<key id="30000406" name="100Memorial Day cake" />
-	<key id="30000407" name="NEXON cached Exchange ticket : 1,000USD" />
-	<key id="30000408" name="NEXON cached Exchange ticket : 3,000USD" />
-	<key id="30000409" name="NEXON cached Exchange ticket : 5,000USD" />
-	<key id="30000410" name="NEXON cached Exchange ticket : 10,000USD" />
-	<key id="30000411" name="NEXON cached Exchange ticket : 100,000USD" />
+	<key id="30000407" name="NEXON Cash Exchange ticket : 1,000 KRW" />
+	<key id="30000408" name="NEXON Cash Exchange ticket : 3,000 KRW" />
+	<key id="30000409" name="NEXON Cash Exchange ticket : 5,000 KRW" />
+	<key id="30000410" name="NEXON Cash Exchange ticket : 10,000 KRW" />
+	<key id="30000411" name="NEXON Cash Exchange ticket : 100,000 KRW" />
 	<key id="30000412" name="Vigilante supplies list" />
 	<key id="30000413" name="Halloween Pumpkin" />
 	<key id="30000414" name="Shooting tape #1" />
@@ -7563,81 +7563,81 @@
 	<key id="59400003" name="Feng stone Al" />
 	<key id="59400004" name="Welsh House" />
 	<key id="59400005" name="Choco Welsh House" />
-	<key id="59400006" name="Hershey&#8217;s Welsh House" />
-	<key id="59400007" name="Blue Draco Al" />
-	<key id="59400008" name="Red Draco Al" />
-	<key id="59400009" name="Green Draco Al" />
+	<key id="59400006" name="Hershey Welsh House" />
+	<key id="59400007" name="Blue Draco Egg" />
+	<key id="59400008" name="Red Draco Egg" />
+	<key id="59400009" name="Green Draco Egg" />
 	<key id="60000001" name="Peng Peng" />
 	<key id="60000002" name="Feng Yi" />
 	<key id="60000003" name="Feng stone" />
 	<key id="60000004" name="Welsh" />
 	<key id="60000005" name="Choco Welsh" />
-	<key id="60000006" name="Hershey&#8217;s Welsh" />
+	<key id="60000006" name="Hershey Welsh" />
 	<key id="60000007" name="Blue Draco" />
 	<key id="60000008" name="Red Draco" />
 	<key id="60000009" name="Green Draco" />
-	<key id="70100001" name="Transparent badge" />
-	<key id="70200001" name="Speech balloon badge : Night rat" />
-	<key id="70200002" name="Speech balloon badge : Dazzling Starlight" />
-	<key id="70200003" name="Speech balloon badge : Neon sign" />
-	<key id="70200004" name="Speech balloon badge : Hologram" />
-	<key id="70200005" name="Speech balloon badge : Simple red" />
-	<key id="70200006" name="Speech balloon badge : Simple blue" />
-	<key id="70200007" name="Speech balloon badge : Line blue" />
-	<key id="70200008" name="Speech balloon badge : Line pink" />
-	<key id="70200009" name="Speech balloon badge : Metal purple" />
-	<key id="70200010" name="Speech balloon badge : Metal Brown" />
+	<key id="70100001" name="Transparent Badge" />
+	<key id="70200001" name="Speech Balloon Badge : Night rat" />
+	<key id="70200002" name="Speech Balloon Badge : Dazzling Starlight" />
+	<key id="70200003" name="Speech Balloon Badge : Neon sign" />
+	<key id="70200004" name="Speech Balloon Badge : Hologram" />
+	<key id="70200005" name="Speech Balloon Badge : Simple red" />
+	<key id="70200006" name="Speech Balloon Badge : Simple blue" />
+	<key id="70200007" name="Speech Balloon Badge : Line blue" />
+	<key id="70200008" name="Speech Balloon Badge : Line pink" />
+	<key id="70200009" name="Speech Balloon Badge : Metal purple" />
+	<key id="70200010" name="Speech Balloon Badge : Metal Brown" />
 	<key id="70200011" name="(PCRoom) malpungseon badge : Drip" />
-	<key id="70200012" name="Speech balloon badge : Cherry Blossom" />
-	<key id="70200013" name="Speech balloon badge : Neon stars" />
-	<key id="70200014" name="Speech balloon badge : Blue hologram" />
-	<key id="70200015" name="Speech balloon badge : The green neon sign" />
-	<key id="70200016" name="Speech balloon badge : Inset Red" />
-	<key id="70200017" name="Speech balloon badge : Inset blue" />
-	<key id="70200018" name="Speech balloon badge : Simple purple" />
-	<key id="70200019" name="Speech balloon badge : Simple teal" />
+	<key id="70200012" name="Speech Balloon Badge : Cherry Blossom" />
+	<key id="70200013" name="Speech Balloon Badge : Neon stars" />
+	<key id="70200014" name="Speech Balloon Badge : Blue hologram" />
+	<key id="70200015" name="Speech Balloon Badge : The green neon sign" />
+	<key id="70200016" name="Speech Balloon Badge : Inset Red" />
+	<key id="70200017" name="Speech Balloon Badge : Inset blue" />
+	<key id="70200018" name="Speech Balloon Badge : Simple purple" />
+	<key id="70200019" name="Speech Balloon Badge : Simple teal" />
 	<key id="70200020" name="(PCRoom) malpungseon badge : Brown picture frame" />
-	<key id="70200021" name="Speech balloon badge : Starlit sky" />
-	<key id="70200022" name="Speech balloon badge : Purple cherry" />
+	<key id="70200021" name="Speech Balloon Badge : Starlit sky" />
+	<key id="70200022" name="Speech Balloon Badge : Purple cherry" />
 	<key id="70200023" name="(PCRoom) malpungseon badge : Teal BLOB" />
-	<key id="70200024" name="Speech balloon badge : Mushroom garden" />
-	<key id="70200025" name="Speech balloon badge : The blue-green glow" />
-	<key id="70200026" name="Speech balloon badge : Purple glow" />
-	<key id="70200027" name="Speech balloon badge : Metal Red" />
-	<key id="70200028" name="Speech balloon badge : On the chalkboard" />
-	<key id="70200029" name="Speech balloon badge : FA Doolan poison seconds" />
-	<key id="70200030" name="Speech balloon badge : Ripe pumpkin" />
-	<key id="70200031" name="Speech balloon badge : Yellow pumpkin" />
-	<key id="70200032" name="Speech balloon badge : The harsh desert" />
-	<key id="70200033" name="Speech balloon badge : The harsh desert" />
-	<key id="70200034" name="Speech balloon badge : ARI black Lee roll" />
-	<key id="70200035" name="Speech balloon badge : ARI black Lee roll" />
-	<key id="70200036" name="Speech balloon badge : Ripe pumpkin" />
-	<key id="70200037" name="Speech balloon badge : Green scale" />
-	<key id="70200038" name="Speech balloon badge : Orange scale" />
-	<key id="70200039" name="Speech balloon badge : Blue output" />
-	<key id="70200040" name="Speech balloon badge : Orange output" />
-	<key id="70200041" name="Speech balloon badge : Runes blog radar" />
-	<key id="70200042" name="Speech balloon badge : Jingle bells" />
-	<key id="70200043" name="Speech balloon badge : Jingle bells" />
-	<key id="70200044" name="Speech balloon badge : Rudolph sleigh" />
-	<key id="80000010" name="The Earth article" />
-	<key id="80000011" name="House document" />
-	<key id="80000012" name="Gold bullion" />
-	<key id="80000013" name="Gold Apple" />
+	<key id="70200024" name="Speech Balloon Badge : Mushroom garden" />
+	<key id="70200025" name="Speech Balloon Badge : The blue-green glow" />
+	<key id="70200026" name="Speech Balloon Badge : Purple glow" />
+	<key id="70200027" name="Speech Balloon Badge : Metal Red" />
+	<key id="70200028" name="Speech Balloon Badge : On the chalkboard" />
+	<key id="70200029" name="Speech Balloon Badge : FA Doolan poison seconds" />
+	<key id="70200030" name="Speech Balloon Badge : Ripe pumpkin" />
+	<key id="70200031" name="Speech Balloon Badge : Yellow pumpkin" />
+	<key id="70200032" name="Speech Balloon Badge : The harsh desert" />
+	<key id="70200033" name="Speech Balloon Badge : The harsh desert" />
+	<key id="70200034" name="Speech Balloon Badge : ARI black Lee roll" />
+	<key id="70200035" name="Speech Balloon Badge : ARI black Lee roll" />
+	<key id="70200036" name="Speech Balloon Badge : Ripe pumpkin" />
+	<key id="70200037" name="Speech Balloon Badge : Green scale" />
+	<key id="70200038" name="Speech Balloon Badge : Orange scale" />
+	<key id="70200039" name="Speech Balloon Badge : Blue output" />
+	<key id="70200040" name="Speech Balloon Badge : Orange output" />
+	<key id="70200041" name="Speech Balloon Badge : Runes blog radar" />
+	<key id="70200042" name="Speech Balloon Badge : Jingle bells" />
+	<key id="70200043" name="Speech Balloon Badge : Jingle bells" />
+	<key id="70200044" name="Speech Balloon Badge : Rudolph sleigh" />
+	<key id="80000010" name="Earth Scroll" />
+	<key id="80000011" name="House Scroll" />
+	<key id="80000012" name="Golden Bar" />
+	<key id="80000013" name="Golden Apple" />
 	<key id="80000014" />
 	<key id="80000015" />
-	<key id="90000001" name="Meredith small" />
-	<key id="90000002" name="Meredith small" />
-	<key id="90000003" name="Meredith small" />
-	<key id="90000004" name="Megan Barrett" />
-	<key id="90000005" name="Dungeon keys" />
+	<key id="90000001" name="Meso" />
+	<key id="90000002" name="Meso" />
+	<key id="90000003" name="Meso" />
+	<key id="90000004" name="Merit" />
+	<key id="90000005" name="Dungeon Key" />
 	<key id="90000006" name="Token of Valor" />
 	<key id="90000007" name="Karma" />
-	<key id="90000008" name="Experience beads" />
-	<key id="90000009" name="SP Beads" />
-	<key id="90000010" name="EP Beads" />
-	<key id="90000011" name="Megan Barrett" />
-	<key id="90000013" name="Lou" />
-	<key id="90000014" name="Harvey Berry" />
+	<key id="90000008" name="EXP Bead" />
+	<key id="90000009" name="SP Bead" />
+	<key id="90000010" name="EP Bed" />
+	<key id="90000011" name="Merit" />
+	<key id="90000013" name="Lu" />
+	<key id="90000014" name="Habi" />
 </ms2>
