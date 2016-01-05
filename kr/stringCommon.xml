@@ -60,7 +60,7 @@
    <key id="s_msg_item_upgrade_failed" value="The Dim light and the main article is gone."/>
    <key id="s_msg_item_upgrade_complete" value="The main article has been handed a mysterious force is a brightly shining."/>
    <key id="s_msg_item_default" value="Are you sure you want to use the item (s)?"/>
-   <key id="s_msg_item_open_item_box" value="Are you sure you want to use the item (s)?\nIf your inventory is full, you will be mailed."/>
+   <key id="s_msg_item_open_item_box" value="Do you want to use this item?\nIf your inventory is full, you will be mailed."/>
    <key id="s_msg_item_use_name" value="[{0}]Are you sure you want to use?"/>
    <key id="s_msg_expand_inven_complete" value="Your inventory has been expanded." />
    <key id="s_msg_expand_inven_already_maximum" value="Your inventory cannot be expanded anymore." />
@@ -2724,13 +2724,13 @@
   <!--Cash Shop Errors-->
   <key id="s_cashshop_error_unknown" value="System error. [protocol:{0}, code:{1}]"/>
   <!--Below is a pop-->
-  <key id="s_cashshop_err_closed" value="The cash shop is not available."/>
+  <key id="s_cashshop_err_closed" value="Cash Shop is not available."/>
   <key id="s_cashshop_err_disconnect" value="The cache server and the connection is terminated. Please try again after a while."/>
-  <key id="s_cashshop_err_not_ready_product" value="To initialize the cash shop."/>
+  <key id="s_cashshop_err_not_ready_product" value="Reset the Cash Shop."/>
   <key id="s_cashshop_err_invalid_gift_name" value="Is the name of a character that does not exist.\nPlease check back the name of the character."/>
   <key id="s_cashshop_err_same_account" value="You can&#8217;t make a gift to yourself."/>
   <key id="s_cashshop_err_no_empty_slot" value="Belongings are full.\nPlease empty your belongings."/>
-  <key id="s_cashshop_err_not_purchase_date" value="I can&#8217;t buy a period.\nOpen the cash shop again."/> <!--[code = 2]-->
+  <key id="s_cashshop_err_not_purchase_date" value="Purchases cannot be made during this period.\nRe-open the Cash Shop."/> <!--[code = 2]-->
   <key id="s_cashshop_err_cannot_gift_product" value="This item is a gift."/>
   <key id="s_cashshop_err_cannot_refund_product" value="This item was not able to make a withdrawal."/>
   <key id="s_cashshop_err_null_cash_product_data" value="The item is not valid.\n"/>
