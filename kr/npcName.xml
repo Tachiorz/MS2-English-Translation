@@ -2260,7 +2260,7 @@
 	<key id="23000020" name="Griffey, I" />
 	<key id="23000021" name="Horus" />
 	<key id="23000029" name="Acre came" />
-	<key id="23000033" name="Shu shu and booth" />
+	<key id="23000033" name="Shushu and Boobooth" />
 	<key id="23000034" name="Toto and the goose" />
 	<key id="23000035" name="And as a Moose" />
 	<key id="23000039" name="Sea Mo Khan" />
@@ -2281,8 +2281,8 @@
 	<key id="23000069" name="Cant alter ego bar" />
 	<key id="23000070" name="Cant alter ego bar" />
 	<key id="23000024" name="Wrath of the bar four mat" />
-	<key id="23000025" name="Chaos bar Po mat" />
-	<key id="23000026" name="Cold blood bar Po mat" />
+	<key id="23000025" name="Chaos Baphomet" />
+	<key id="23000026" name="Cold-Blooded Baphomet" />
 	<key id="23090005" name="Foot rock" />
 	<key id="23090066" name="ES finger" />
 	<key id="23000071" name="Now Combe" />
@@ -2300,10 +2300,10 @@
 	<key id="23100006" name="Forgotten BAYAR" />
 	<key id="23100007" name="Shadow Magic Deborah Crest" />
 	<key id="23100011" name="Pyrrhic Fahd" />
-	<key id="23100015" name="Captain gunsmoke" />
+	<key id="23100015" name="Captain Mork" />
 	<key id="23100021" name="Horus" />
-	<key id="23100025" name="Chaos bar Po mat" />
-	<key id="23100033" name="Shu shu and booth" />
+	<key id="23100025" name="Chaos Baphomet" />
+	<key id="23100033" name="Shushu and Boobooth" />
 	<key id="23100039" name="Sea Mo Khan" />
 	<key id="23100041" name="Par Mo Khan" />
 	<key id="23100055" name="Mark 52 beta" />
@@ -2313,7 +2313,7 @@
 	<key id="23190005" name="Foot rock" />
 	<key id="23190066" name="ES finger" />
 	<key id="23200007" name="Shadow Magic Deborah Crest" />
-	<key id="23200015" name="Captain gunsmoke" />
+	<key id="23200015" name="Captain Mork" />
 	<key id="23200077" name="Wave Pula Tuscany" />
 	<key id="23900001" name="Devlin_Bottom stroke cube" />
 	<key id="23900002" name="Devlin_The greater the shock wave" />
@@ -2337,25 +2337,25 @@
 	<key id="23900020" name="Deborah Krakow_After teleporting laser launch" />
 	<key id="23900021" name="Deborah Krakow_DamageUP Buff" />
 	<key id="23900022" name="Deborah Krakow_Defense powerUP Buff" />
-	<key id="23900035" name="Shu shu and booth_Arm wielding (approx.)" />
-	<key id="23900036" name="Shu shu and booth_Arm wielding (River)" />
+	<key id="23900035" name="Shushu and Boobooth_Arm wielding (approx.)" />
+	<key id="23900036" name="Shushu and Boobooth_Arm wielding (River)" />
 	<key id="23900037" name="And as a Moose_Bottom bang hit the lead pair" />
 	<key id="23900038" name="And as a Moose_Poisonous bomb planting" />
 	<key id="23900039" name="And as a Moose_Roots Entwine" />
 	<key id="23900040" name="And as a Moose_Poison mushrooms come" />
 	<key id="23900041" name="And as a Moose_The size of the earthquake, everywhere" />
-	<key id="23900042" name="Shu shu and booth_Upper cut" />
+	<key id="23900042" name="Shushu and Boobooth_Upper cut" />
 	<key id="23900043" name="And as a Moose_The masked shining" />
 	<key id="23900044" name="And as a Moose_Pounding away ollyo Chigi" />
 	<key id="23900045" name="And as a Moose_Poisonous non-induction" />
 	<key id="23900046" name="And as a Moose_Face the public di buff" />
-	<key id="23900047" name="Shu shu and booth_Induced energy penetrator 5" />
-	<key id="23900048" name="Shu shu and booth_Kill the two inductive energy penetrator" />
-	<key id="23900049" name="Shu shu and booth_Ice cube wave" />
-	<key id="23900050" name="Shu shu and booth_Bottom stroke (dialogue)" />
-	<key id="23900051" name="Shu shu and booth_Recall the dialog" />
-	<key id="23900052" name="Shu shu and booth_Face the public wide area attacks" />
-	<key id="23900053" name="Shu shu and booth_Freezing force (15 seconds)" />
+	<key id="23900047" name="Shushu and Boobooth_Induced energy penetrator 5" />
+	<key id="23900048" name="Shushu and Boobooth_Kill the two inductive energy penetrator" />
+	<key id="23900049" name="Shushu and Boobooth_Ice cube wave" />
+	<key id="23900050" name="Shushu and Boobooth_Bottom stroke (dialogue)" />
+	<key id="23900051" name="Shushu and Boobooth_Recall the dialog" />
+	<key id="23900052" name="Shushu and Boobooth_Face the public wide area attacks" />
+	<key id="23900053" name="Shushu and Boobooth_Freezing force (15 seconds)" />
 	<key id="23900054" name="Mark 52_The left and right laser shooting" />
 	<key id="23900055" name="Mark 52_Brandishing both everywhere and lasers" />
 	<key id="23900056" name="Mark 52_Bottom electric" />
@@ -2523,19 +2523,19 @@
 	<key id="23999008" name="Foot rock_Jump Mobile" />
 	<key id="23999009" name="Foot rock_Blood sucking" />
 	<key id="23999010" name="Foot rock_Weird sex greater Ki blast attack" />
-	<key id="23999015" name="Captain gunsmoke_Sword wielding" />
-	<key id="23999016" name="Captain gunsmoke_Dash the sword wielding" />
-	<key id="23999017" name="Captain gunsmoke_Body rush" />
-	<key id="23999018" name="Captain gunsmoke_Jump to bang attack" />
-	<key id="23999019" name="Captain gunsmoke_Feeler in the light guided missile" />
-	<key id="23999020" name="Captain gunsmoke_Cannon firing floor explosion" />
-	<key id="23999021" name="Captain gunsmoke_Pronounced the greater the cannon firing" />
-	<key id="23999022" name="Captain gunsmoke_The ship destroyed the ground floor side" />
-	<key id="23999023" name="Captain gunsmoke_2Floor, ledge hopping up and down" />
-	<key id="23999024" name="Captain gunsmoke_2Floor, ledge Cannon firing" />
-	<key id="23999025" name="Captain gunsmoke_After having knocked out wide Cannon" />
-	<key id="23999026" name="Captain gunsmoke_Universal Cannon recalled a crossbow" />
-	<key id="23999027" name="Captain gunsmoke_Rose defense buff" />
+	<key id="23999015" name="Captain Mork_Sword wielding" />
+	<key id="23999016" name="Captain Mork_Dash the sword wielding" />
+	<key id="23999017" name="Captain Mork_Body rush" />
+	<key id="23999018" name="Captain Mork_Jump to bang attack" />
+	<key id="23999019" name="Captain Mork_Feeler in the light guided missile" />
+	<key id="23999020" name="Captain Mork_Cannon firing floor explosion" />
+	<key id="23999021" name="Captain Mork_Pronounced the greater the cannon firing" />
+	<key id="23999022" name="Captain Mork_The ship destroyed the ground floor side" />
+	<key id="23999023" name="Captain Mork_2Floor, ledge hopping up and down" />
+	<key id="23999024" name="Captain Mork_2Floor, ledge Cannon firing" />
+	<key id="23999025" name="Captain Mork_After having knocked out wide Cannon" />
+	<key id="23999026" name="Captain Mork_Universal Cannon recalled a crossbow" />
+	<key id="23999027" name="Captain Mork_Rose defense buff" />
 	<key id="23999077" name="Wave Pula Tuscany_The fist 2 combo" />
 	<key id="23999078" name="Wave Pula Tuscany_Bang and shoving the Palm of your hand" />
 	<key id="23999079" name="Wave Pula Tuscany_Clapping-stroke" />
