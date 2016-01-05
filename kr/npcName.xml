@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsing this data used do not directly modify the -->
 <ms2>
-	<key id="2040998" name="male" />
-	<key id="2040999" name="female" />
-	<key id="11000001" name="Matthew Voinovich" />
-	<key id="11000002" name="Lina" />
-	<key id="11000003" name="Boo this" />
-	<key id="11000004" name="Snow snow" />
+	<key id="2040998" name="Male" />
+	<key id="2040999" name="Female" />
+	<key id="11000001" name="Manovich" />
+	<key id="11000002" name="Rina" />
+	<key id="11000003" name="어흥이" />
+	<key id="11000004" name="Seolnunyi" />
 	<key id="11000005" name="Ann" />
-	<key id="11000006" name="Black kids" />
-	<key id="11000007" name="Ellie" />
-	<key id="11000008" name="The vigilante" />
+	<key id="11000006" name="Blackeye" />
+	<key id="11000007" name="Elly" />
+	<key id="11000008" name="Vigilante" />
 	<key id="11000009" name="Rolling Thunder" />
 	<key id="11000010" name="Maya" />
-	<key id="11000011" name="Macchiato" />
-	<key id="11000012" name="View" />
-	<key id="11000013" name="Koh Samui" />
-	<key id="11000014" name="Ka Ranco" />
-	<key id="11000015" name="OSU CAL" />
+	<key id="11000011" name="Maggi" />
+	<key id="11000012" name="Bogi" />
+	<key id="11000013" name="Kosamui" />
+	<key id="11000014" name="Karangco" />
+	<key id="11000015" name="Oskhal" />
 	<key id="11000016" name="Tru" />
 	<key id="11000017" name="Rumi" />
-	<key id="11000018" name="Snow Mong" />
+	<key id="11000018" name="Seolmongyi" />
 	<key id="11000019" name="Terry" />
 	<key id="11000020" name="Marina" />
 	<key id="11000021" name="Santiago" />
@@ -28,25 +28,25 @@
 	<key id="11000023" name="Patrick" />
 	<key id="11000024" name="Lydia" />
 	<key id="11000025" name="Beth" />
-	<key id="11000026" name="The vigilante" />
+	<key id="11000026" name="Vigilante" />
 	<key id="11000027" name="Connie" />
-	<key id="11000028" name="Velda Jo" />
-	<key id="11000029" name="Lari" />
+	<key id="11000028" name="Berzzo" />
+	<key id="11000029" name="Larry" />
 	<key id="11000030" name="Robin" />
 	<key id="11000031" name="Asimov" />
-	<key id="11000032" name="Oh North" />
+	<key id="11000032" name="Anos" />
 	<key id="11000033" name="Jorge" />
-	<key id="11000034" name="Do Rio" />
+	<key id="11000034" name="Mahio" />
 	<key id="11000035" name="Juno" />
 	<key id="11000036" name="Arita" />
-	<key id="11000037" name="LEA" />
+	<key id="11000037" name="Lea" />
 	<key id="11000038" name="Henry" />
 	<key id="11000039" name="I Med" />
 	<key id="11000040" name="Lobbe" />
 	<key id="11000041" name="Rech" />
-	<key id="11000042" name="Oh Le de" />
-	<key id="11000043" name="Tree NG" />
-	<key id="11000044" name="The cart ban" />
+	<key id="11000042" name="Orde" />
+	<key id="11000043" name="Trinny" />
+	<key id="11000044" name="Kartvan" />
 	<key id="11000045" name="This Kass" />
 	<key id="11000046" name="Jenna" />
 	<key id="11000047" name="Anna" />
@@ -77,7 +77,7 @@
 	<key id="11000072" name="Zenko-JI" />
 	<key id="11000073" name="Carabinieri crossbow bottle" />
 	<key id="11000074" name="Carl" />
-	<key id="11000075" name="In Rev" />
+	<key id="11000075" name="Ereve" />
 	<key id="11000076" name="Arlon" />
 	<key id="11000077" name="Ta Lou" />
 	<key id="11000078" name="Non-PESA" />
@@ -95,17 +95,17 @@
 	<key id="11000090" name="Frog paddles" />
 	<key id="11000091" name="Seagulls fly" />
 	<key id="11000092" name="Cat 2" />
-	<key id="11000093" name="ISO" />
+	<key id="11000093" name="So" />
 	<key id="11000094" name="Pig" />
 	<key id="11000095" name="White Wolf" />
-	<key id="11000096" name="DK" />
+	<key id="11000096" name="Deekay" />
 	<key id="11000097" name="Solvay" />
-	<key id="11000098" name="DK" />
+	<key id="11000098" name="Deekay" />
 	<key id="11000099" name="Capri o" />
 	<key id="11000100" name="Dee Dee" />
 	<key id="11000101" name="Ray" />
-	<key id="11000102" name="Bunny" />
-	<key id="11000103" name="Bunny" />
+	<key id="11000102" name="Bunny Girl" />
+	<key id="11000103" name="Bunny Girl" />
 	<key id="11000104" name="Santiago" />
 	<key id="11000105" name="Ben Hertz" />
 	<key id="11000106" name="Cecilia" />
@@ -116,12 +116,12 @@
 	<key id="11000111" name="John" />
 	<key id="11000112" name="Buffy" />
 	<key id="11000113" name="Shogi" />
-	<key id="11000114" name="Formulation" />
+	<key id="11000114" name="JJ" />
 	<key id="11000115" name="Eli" />
 	<key id="11000116" name="Anthony" />
 	<key id="11000117" name="Solvay" />
 	<key id="11000118" name="Klee pin" />
-	<key id="11000119" name="The fray" />
+	<key id="11000119" name="Frey" />
 	<key id="11000120" name="!! Warning!!" />
 	<key id="11000121" name="Daniel" />
 	<key id="11000122" name="Gregory Dr" />
@@ -129,22 +129,22 @@
 	<key id="11000124" name="Copen" />
 	<key id="11000125" name="Benjamin" />
 	<key id="11000126" name="Popo" />
-	<key id="11000127" name="Royal porters" />
+	<key id="11000127" name="Royal Porter" />
 	<key id="11000128" name="Gary" />
 	<key id="11000129" name="Alvin" />
-	<key id="11000130" name="Royal porters" />
-	<key id="11000131" name="Royal porters" />
+	<key id="11000130" name="Royal Porter" />
+	<key id="11000131" name="Royal Porter" />
 	<key id="11000132" name="Yantai o" />
 	<key id="11000133" name="Wu Nita" />
-	<key id="11000134" name="Red Wolf&#8217;s heart" />
+	<key id="11000134" name="Heart of the Red Wolf" />
 	<key id="11000135" name="Squat ass" />
 	<key id="11000136" name="Tina" />
 	<key id="11000137" name="Chris" />
-	<key id="11000138" name="Hyperion resident men" />
+	<key id="11000138" name="Male Perion Resident" />
 	<key id="11000139" name="Lying lying" />
 	<key id="11000140" name="Dana" />
 	<key id="11000141" name="Come to know" />
-	<key id="11000142" name="Hyperion resident women" />
+	<key id="11000142" name="Female Perion Resident" />
 	<key id="11000143" name="Boo Ying BU Ying" />
 	<key id="11000144" name="Tristan" />
 	<key id="11000145" name="Andy" />
@@ -167,19 +167,19 @@
 	<key id="11000162" name="Carabinieri gum disease" />
 	<key id="11000163" name="Carabinieri Spearman" />
 	<key id="11000164" name="Vale" />
-	<key id="11000165" name="GEO" />
-	<key id="11000166" name="Nicene" />
+	<key id="11000165" name="Gio" />
+	<key id="11000166" name="Nikea" />
 	<key id="11000167" name="Peter" />
-	<key id="11000168" name="K" />
+	<key id="11000168" name="Kay" />
 	<key id="11000169" name="Mark" />
-	<key id="11000170" name="Les Tata" />
+	<key id="11000170" name="Reta" />
 	<key id="11000171" name="Cono" />
 	<key id="11000172" name="Mikey" />
 	<key id="11000173" name="Ralph" />
 	<key id="11000174" name="Brownie" />
 	<key id="11000175" name="Books on the desk" />
-	<key id="11000176" name="Nel&#8217;s home" />
-	<key id="11000177" name="Tri Ah office building" />
+	<key id="11000176" name="Nelph's Home" />
+	<key id="11000177" name="Tria Building" />
 	<key id="11000178" name="Ibelin Merrick" />
 	<key id="11000179" name="Albert" />
 	<key id="11000180" name="Connors" />
@@ -189,8 +189,8 @@
 	<key id="11000184" name="Collapsed tunnel gap" />
 	<key id="11000185" name="Mrs. Kim" />
 	<key id="11000186" name="Jack" />
-	<key id="11000187" name="Knockout" />
-	<key id="11000188" name="La El" />
+	<key id="11000187" name="Mane" />
+	<key id="11000188" name="Rael" />
 	<key id="11000189" name="Sylvia" />
 	<key id="11000190" name="Hoffman" />
 	<key id="11000191" name="Hoffman and his wife," />
@@ -331,7 +331,7 @@
 	<key id="11000326" name="By Eng" />
 	<key id="11000327" name="Natalie" />
 	<key id="11000328" name="MER Zappa" />
-	<key id="11000329" name="Wu reus" />
+	<key id="11000329" name="Ureus" />
 	<key id="11000330" name="Newsroom staff 1" />
 	<key id="11000331" name="Brandon" />
 	<key id="11000332" name="Newsroom staff 2" />
@@ -440,21 +440,21 @@
 	<key id="11000435" name="Beast" />
 	<key id="11000436" name="Not" />
 	<key id="11000437" name="Yang" />
-	<key id="11000438" name="The vigilante" />
+	<key id="11000438" name="Vigilante" />
 	<key id="11000439" name="Dark wind reconnaissance crew" />
-	<key id="11000440" name="Oh North" />
+	<key id="11000440" name="Anos" />
 	<key id="11000441" name="Lund, dry live" />
-	<key id="11000442" name="Kathy Mart staff" />
-	<key id="11000443" name="Kathy Mart staff" />
+	<key id="11000442" name="Cash Mart Staff" />
+	<key id="11000443" name="Cash Mart Staff" />
 	<key id="11000444" name="Columbus Division" />
 	<key id="11000445" name="Punch" />
 	<key id="11000446" name="Ricky" />
 	<key id="11000447" name="The wounded guard House" />
-	<key id="11000448" name="Bunny" />
-	<key id="11000449" name="MI-ran" />
-	<key id="11000450" name="Carabinieri patrol bottle" />
-	<key id="11000451" name="Carabinieri guard" />
-	<key id="11000452" name="Carabinieri Sentinel" />
+	<key id="11000448" name="Bunny Girl" />
+	<key id="11000449" name="Mirin" />
+	<key id="11000450" name="Royal Patrol Guard" />
+	<key id="11000451" name="Royal Security Guard" />
+	<key id="11000452" name="Royal Sentinel" />
 	<key id="11000453" name="Bree" />
 	<key id="11000454" name="Theo" />
 	<key id="11000455" name="Payson" />
@@ -471,30 +471,30 @@
 	<key id="11000466" name="Arcade directed by m 3" />
 	<key id="11000467" name="Arcade directed by m 4" />
 	<key id="11000468" name="Arcade directed by Lady 1" />
-	<key id="11000469" name="ROM the Bell" />
-	<key id="11000470" name="Tea bag" />
+	<key id="11000469" name="Rombel" />
+	<key id="11000470" name="Teabag" />
 	<key id="11000471" name="Vito" />
 	<key id="11000472" name="Tonk" />
-	<key id="11000473" name="Bunny" />
-	<key id="11000474" name="Happy spin" />
-	<key id="11000475" name="Happy spin" />
+	<key id="11000473" name="Bunny Girl" />
+	<key id="11000474" name="Happy Spin" />
+	<key id="11000475" name="Happy Spin" />
 	<key id="11000476" name="The goal of the two President&#8217;s Secretary" />
 	<key id="11000477" name="The goal in praise" />
-	<key id="11000478" name="D'nose" />
+	<key id="11000478" name="Cock d&#8217;Or" />
 	<key id="11000479" name="Saddle roll" />
 	<key id="11000480" name="Kaya" />
 	<key id="11000481" name="Quarry worker" />
 	<key id="11000482" name="Written notes of the Rune stones dry live" />
-	<key id="11000483" name="Bunny" />
+	<key id="11000483" name="Bunny Girl" />
 	<key id="11000484" name="Luca Chi" />
 	<key id="11000485" name="Guests Josh Kidd" />
-	<key id="11000486" name="Bunny" />
+	<key id="11000486" name="Bunny Girl" />
 	<key id="11000487" name="Miyu" />
 	<key id="11000488" name="Hari" />
 	<key id="11000489" name="Apprentices" />
 	<key id="11000490" name="The uproar" />
 	<key id="11000491" name="Kathy Catalina" />
-	<key id="11000492" name="Janelle f." />
+	<key id="11000492" name="Nelph" />
 	<key id="11000493" name="This way of" />
 	<key id="11000494" name="Liz" />
 	<key id="11000495" name="Sabrina" />
@@ -504,20 +504,20 @@
 	<key id="11000499" name="And Ho" />
 	<key id="11000500" name="Flat Rock" />
 	<key id="11000501" name="Bao BA" />
-	<key id="11000502" name="Oh Le Mano" />
-	<key id="11000503" name="Oh Le Mano" />
+	<key id="11000502" name="Armano" />
+	<key id="11000503" name="Armano" />
 	<key id="11000504" name="Lou" />
-	<key id="11000505" name="The black crusade operatives" />
-	<key id="11000506" name="The black crusade operatives" />
+	<key id="11000505" name="Black Crusade Gang Member" />
+	<key id="11000506" name="Black Crusade Gang Member" />
 	<key id="11000507" name="Hum operatives in Naples" />
-	<key id="11000508" name="Ofelia" />
+	<key id="11000508" name="Ophelia" />
 	<key id="11000509" name="Rachel" />
 	<key id="11000510" name="Pitch" />
 	<key id="11000511" name="Eliana Shu Avry body" />
 	<key id="11000512" name="Momo" />
 	<key id="11000513" name="Al Ricardo guards" />
 	<key id="11000514" name="Velma" />
-	<key id="11000515" name="Jay:" />
+	<key id="11000515" name="Jaysee" />
 	<key id="11000516" name="Trader" />
 	<key id="11000517" name="Trader" />
 	<key id="11000518" name="Trader" />
@@ -531,7 +531,7 @@
 	<key id="11000526" name="Raymond" />
 	<key id="11000527" name="Cabin do bum" />
 	<key id="11000528" name="Cabin do bum" />
-	<key id="11000529" name="Black kids" />
+	<key id="11000529" name="Blackeye" />
 	<key id="11000530" name="Sue Banda" />
 	<key id="11000531" name="Joe-Le-BAS" />
 	<key id="11000532" name="Vogel-Russia" />
@@ -542,27 +542,27 @@
 	<key id="11000537" name="Lindsay" />
 	<key id="11000538" name="Millet, I" />
 	<key id="11000539" name="Lennon" />
-	<key id="11000540" name="Black kids" />
+	<key id="11000540" name="Blackeye" />
 	<key id="11000541" name="Ty" />
 	<key id="11000542" name="ES Tan" />
 	<key id="11000543" name="Wayne" />
 	<key id="11000544" name="Team" />
 	<key id="11000545" name="Sue Banda" />
-	<key id="11000546" name="The non-" />
-	<key id="11000547" name="In Ekaterinburg" />
+	<key id="11000546" name="Evi" />
+	<key id="11000547" name="Eka" />
 	<key id="11000548" name="The real la" />
 	<key id="11000549" name="Tau" />
 	<key id="11000550" name="Al Hyun-Sik article" />
 	<key id="11000551" name="Delta" />
-	<key id="11000552" name="The black crusade operatives" />
-	<key id="11000553" name="The shadow stone monument" />
-	<key id="11000554" name="The shadow stone monument" />
-	<key id="11000555" name="The shadow stone monument" />
-	<key id="11000556" name="The shadow stone monument" />
-	<key id="11000557" name="The shadow stone monument" />
-	<key id="11000558" name="The shadow stone monument" />
-	<key id="11000559" name="The shadow stone monument" />
-	<key id="11000560" name="The shadow stone monument" />
+	<key id="11000552" name="Black Crusade Gang Member" />
+	<key id="11000553" name="Shadow Stone Monument" />
+	<key id="11000554" name="Shadow Stone Monument" />
+	<key id="11000555" name="Shadow Stone Monument" />
+	<key id="11000556" name="Shadow Stone Monument" />
+	<key id="11000557" name="Shadow Stone Monument" />
+	<key id="11000558" name="Shadow Stone Monument" />
+	<key id="11000559" name="Shadow Stone Monument" />
+	<key id="11000560" name="Shadow Stone Monument" />
 	<key id="11000561" name="Tooth sat." />
 	<key id="11000562" name="Bindi body" />
 	<key id="11000563" name="Belle Perez Gor" />
@@ -571,14 +571,14 @@
 	<key id="11000566" name="Ron" />
 	<key id="11000567" name="The wounded guard House" />
 	<key id="11000568" name="Vigilante reinforcements" />
-	<key id="11000569" name="Knight dedicated trader" />
-	<key id="11000570" name="University Communications private trader" />
-	<key id="11000571" name="Wizard exclusive merchants" />
-	<key id="11000572" name="Priest-only merchants" />
-	<key id="11000573" name="Ranger-only merchants" />
-	<key id="11000574" name="Heavy gunner private trader" />
-	<key id="11000575" name="Sifu private trader" />
-	<key id="11000576" name="Assassin-only merchants" />
+	<key id="11000569" name="Knight Merchant" />
+	<key id="11000570" name="Berserker Merchant" />
+	<key id="11000571" name="Wizard Merchant" />
+	<key id="11000572" name="Priest Merchant" />
+	<key id="11000573" name="Ranger Merchant" />
+	<key id="11000574" name="Heavy Gunner Merchant" />
+	<key id="11000575" name="Thief Merchant" />
+	<key id="11000576" name="Assassin Merchant" />
 	<key id="11000577" name="Guest" />
 	<key id="11000578" name="Guest" />
 	<key id="11000579" name="Guest" />
@@ -591,7 +591,7 @@
 	<key id="11000586" name="The wounded guard House" />
 	<key id="11000587" name="Ginger es" />
 	<key id="11000588" name="Vincent" />
-	<key id="11000589" name="Dionysius" />
+	<key id="11000589" name="Diony" />
 	<key id="11000590" name="Casimir" />
 	<key id="11000591" name="TELI_A" />
 	<key id="11000592" name="TELI_B" />
@@ -687,7 +687,7 @@
 	<key id="11000682" name="Eve&#8217;s soul" />
 	<key id="11000683" name="Nell&#8217;s soul" />
 	<key id="11000684" name="Ibelin&#8217;s soul" />
-	<key id="11000685" name="Oh North" />
+	<key id="11000685" name="Anos" />
 	<key id="11000686" name="Mine Lair entrance" />
 	<key id="11000687" name="Hyperion residents suffering from" />
 	<key id="11000688" name="Hyperion residents suffering from" />
@@ -704,38 +704,38 @@
 	<key id="11000699" name="Cherie" />
 	<key id="11000700" name="Tata BASA" />
 	<key id="11000701" name="OSU CAL" />
-	<key id="11000702" name="The fray" />
+	<key id="11000702" name="Frey" />
 	<key id="11000703" name="Kenneth" />
 	<key id="11000704" name="Love" />
 	<key id="11000705" name="Moya" />
-	<key id="11000706" name="The seven-colored Rainbow" />
-	<key id="11000707" name="Bunny" />
+	<key id="11000706" name="Seven-colored Rainbow" />
+	<key id="11000707" name="Bunny Girl" />
 	<key id="11000708" name="Elizabeth" />
 	<key id="11000709" name="Happy spin" />
 	<key id="11000710" name="Then Dru" />
 	<key id="11000711" name="Mint" />
 	<key id="11000712" name="Premium tall this" />
 	<key id="11000713" name="Premium tea" />
-	<key id="11000714" name="The shadow stone monument" />
-	<key id="11000715" name="The shadow stone monument" />
-	<key id="11000716" name="The shadow stone monument" />
-	<key id="11000717" name="The shadow stone monument" />
-	<key id="11000718" name="The shadow stone monument" />
-	<key id="11000719" name="The shadow stone monument" />
-	<key id="11000720" name="The shadow stone monument" />
-	<key id="11000721" name="The shadow stone monument" />
-	<key id="11000722" name="The shadow stone monument" />
-	<key id="11000723" name="The shadow stone monument" />
-	<key id="11000724" name="The shadow stone monument" />
-	<key id="11000725" name="The shadow stone monument" />
-	<key id="11000726" name="The shadow stone monument" />
-	<key id="11000727" name="The shadow stone monument" />
-	<key id="11000728" name="The shadow stone monument" />
-	<key id="11000729" name="The shadow stone monument" />
-	<key id="11000730" name="The shadow stone monument" />
-	<key id="11000731" name="The shadow stone monument" />
-	<key id="11000732" name="The shadow stone monument" />
-	<key id="11000733" name="The shadow stone monument" />
+	<key id="11000714" name="Shadow Stone Monument" />
+	<key id="11000715" name="Shadow Stone Monument" />
+	<key id="11000716" name="Shadow Stone Monument" />
+	<key id="11000717" name="Shadow Stone Monument" />
+	<key id="11000718" name="Shadow Stone Monument" />
+	<key id="11000719" name="Shadow Stone Monument" />
+	<key id="11000720" name="Shadow Stone Monument" />
+	<key id="11000721" name="Shadow Stone Monument" />
+	<key id="11000722" name="Shadow Stone Monument" />
+	<key id="11000723" name="Shadow Stone Monument" />
+	<key id="11000724" name="Shadow Stone Monument" />
+	<key id="11000725" name="Shadow Stone Monument" />
+	<key id="11000726" name="Shadow Stone Monument" />
+	<key id="11000727" name="Shadow Stone Monument" />
+	<key id="11000728" name="Shadow Stone Monument" />
+	<key id="11000729" name="Shadow Stone Monument" />
+	<key id="11000730" name="Shadow Stone Monument" />
+	<key id="11000731" name="Shadow Stone Monument" />
+	<key id="11000732" name="Shadow Stone Monument" />
+	<key id="11000733" name="Shadow Stone Monument" />
 	<key id="11000734" name="Dell v" />
 	<key id="11000735" name="Mika" />
 	<key id="11000736" name="Arwen" />
@@ -781,7 +781,7 @@
 	<key id="11000776" name="Ladin" />
 	<key id="11000777" name="Cordelia" />
 	<key id="11000778" name="Mint" />
-	<key id="11000779" name="Jay:" />
+	<key id="11000779" name="Jaysee" />
 	<key id="11000780" name="Leather this" />
 	<key id="11000781" name="FES car" />
 	<key id="11000782" name="Lavaur" />
@@ -789,7 +789,7 @@
 	<key id="11000784" name="Carrie" />
 	<key id="11000785" name="Deaf peoples" />
 	<key id="11000786" name="In Ekaterinburg" />
-	<key id="11000787" name="K" />
+	<key id="11000787" name="Kay" />
 	<key id="11000788" name="Harry" />
 	<key id="11000789" name="Arita" />
 	<key id="11000790" name="Squat ass" />
@@ -801,31 +801,31 @@
 	<key id="11000796" name="Innocent" />
 	<key id="11000797" name="Blunt" />
 	<key id="11000798" name="Changhua Don" />
-	<key id="11000799" name="Breast biopsy" />
-	<key id="11000800" name="The shadow stone monument" />
-	<key id="11000801" name="The shadow stone monument" />
-	<key id="11000802" name="The shadow stone monument" />
-	<key id="11000803" name="The shadow stone monument" />
+	<key id="11000799" name="Yuseng" />
+	<key id="11000800" name="Shadow Stone Monument" />
+	<key id="11000801" name="Shadow Stone Monument" />
+	<key id="11000802" name="Shadow Stone Monument" />
+	<key id="11000803" name="Shadow Stone Monument" />
 	<key id="11000804" name="Liam" />
 	<key id="11000805" name="Hodge" />
-	<key id="11000806" name="Les pen" />
-	<key id="11000807" name="Non-Atta" />
-	<key id="11000808" name="Non-Atta" />
-	<key id="11000809" name="Non-Atta" />
+	<key id="11000806" name="Lapen" />
+	<key id="11000807" name="Vyatta" />
+	<key id="11000808" name="Vyatta" />
+	<key id="11000809" name="Vyatta" />
 	<key id="11000810" name="Amy" />
 	<key id="11000811" name="Amy" />
 	<key id="11000812" name="Amy" />
-	<key id="11000813" name="Night" />
-	<key id="11000814" name="Night" />
-	<key id="11000815" name="Motor" />
-	<key id="11000816" name="Motor" />
-	<key id="11000817" name="Pake" />
-	<key id="11000818" name="Pake" />
-	<key id="11000819" name="-No" />
-	<key id="11000820" name="-No" />
-	<key id="11000821" name="Min-Ah" />
-	<key id="11000822" name="Min-Ah" />
-	<key id="11000823" name="Min-Ah" />
+	<key id="11000813" name="Bam" />
+	<key id="11000814" name="Bam" />
+	<key id="11000815" name="Moda" />
+	<key id="11000816" name="Moda" />
+	<key id="11000817" name="Hodai" />
+	<key id="11000818" name="Hodai" />
+	<key id="11000819" name="Juno" />
+	<key id="11000820" name="Juno" />
+	<key id="11000821" name="Mina" />
+	<key id="11000822" name="Mina" />
+	<key id="11000823" name="Mina" />
 	<key id="11000824" name="Ciao is" />
 	<key id="11000825" name="Ciao is" />
 	<key id="11000826" name="It is also" />
@@ -867,16 +867,16 @@
 	<key id="11000862" name="Carl" />
 	<key id="11000863" name="Cyom es" />
 	<key id="11000864" name="Yolanda" />
-	<key id="11000865" name="MIRU" />
-	<key id="11000866" name="Yarn name" />
+	<key id="11000865" name="Miru" />
+	<key id="11000866" name="Sareum" />
 	<key id="11000867" name="Fruit cell" />
 	<key id="11000868" name="Tess" />
-	<key id="11000869" name="Hove" />
+	<key id="11000869" name="Hob" />
 	<key id="11000870" name="Merlot" />
 	<key id="11000871" name="Tuna" />
-	<key id="11000872" name="S.r." />
-	<key id="11000873" name="Boss tee" />
-	<key id="11000874" name="At stake for the" />
+	<key id="11000872" name="Skan" />
+	<key id="11000873" name="Bosti" />
+	<key id="11000874" name="Cheoyoung" />
 	<key id="11000875" name="Brynner" />
 	<key id="11000876" name="Sankt" />
 	<key id="11000877" name="Less than p" />
@@ -887,24 +887,24 @@
 	<key id="11000882" name="Slave" />
 	<key id="11000883" name="Slave" />
 	<key id="11000884" name="Slave" />
-	<key id="11000885" name="Levi Garrett" />
-	<key id="11000886" name="Hare" />
-	<key id="11000887" name="The not-so-NIKA" />
-	<key id="11000888" name="The good witch" />
-	<key id="11000889" name="Red haired boy" />
-	<key id="11000890" name="Ling-ling" />
+	<key id="11000885" name="Rabbiret" />
+	<key id="11000886" name="Mountain Rabbit" />
+	<key id="11000887" name="Gronika" />
+	<key id="11000888" name="Good Witch" />
+	<key id="11000889" name="Red-haired Boy" />
+	<key id="11000890" name="Ling Ling" />
 	<key id="11000891" name="Chi Chi" />
-	<key id="11000892" name="Yes or" />
-	<key id="11000893" name="Shah or" />
+	<key id="11000892" name="Neina" />
+	<key id="11000893" name="Shaina" />
 	<key id="11000894" name="Ayna" />
 	<key id="11000895" name="Bulletin Board" />
 	<key id="11000896" name="Zusto" />
-	<key id="11000897" name="Shah world" />
+	<key id="11000897" name="Xiaolu" />
 	<key id="11000898" name="Dietrich" />
-	<key id="11000899" name="Key new" />
+	<key id="11000899" name="Kashin" />
 	<key id="11000900" name="Jia" />
-	<key id="11000901" name="Bunny" />
-	<key id="11000902" name="Bunny" />
+	<key id="11000901" name="Bunny Girl" />
+	<key id="11000902" name="Bunny Girl" />
 	<key id="11000903" name="Cheeky maid" />
 	<key id="11000904" name="Cheeky Butler" />
 	<key id="11000905" name="Tsundere maid" />
@@ -1026,7 +1026,7 @@
 	<key id="11001021" name="Port" />
 	<key id="11001022" name="Raymond" />
 	<key id="11001023" name="Lennon" />
-	<key id="11001024" name="The cart ban" />
+	<key id="11001024" name="Kartvan" />
 	<key id="11001025" name="Eve" />
 	<key id="11001026" name="Raymond" />
 	<key id="11001027" name="Royal Palace, prison guards" />
@@ -1126,7 +1126,7 @@
 	<key id="11001121" name="Colon, Ph.d." />
 	<key id="11001122" name="Welte" />
 	<key id="11001123" name="Jerome" />
-	<key id="11001124" name="Hanyū" />
+	<key id="11001124" name="Hanyu" />
 	<key id="11001125" name="ABT-2XO" />
 	<key id="11001126" name="Construction workmen" />
 	<key id="11001127" name="Patrol robot 1" />
@@ -1159,18 +1159,18 @@
 	<key id="11001154" name="The residents of the desert town girl 2" />
 	<key id="11001155" name="Women residents of the desert town 3" />
 	<key id="11001156" name="Residents of the desert town girl 4" />
-	<key id="11001157" name="Casino girl dealer 1" />
-	<key id="11001158" name="Casino girl dealers 2" />
-	<key id="11001159" name="Casino man dealer 1" />
-	<key id="11001160" name="1 homeless man" />
-	<key id="11001161" name="Homeless man 2" />
-	<key id="11001162" name="Women&#8217;s homeless 1" />
+	<key id="11001157" name="Female Casino Dealer 1" />
+	<key id="11001158" name="Female Casino Dealer 2" />
+	<key id="11001159" name="Male Casino Dealer 1" />
+	<key id="11001160" name="Homeless Man 1" />
+	<key id="11001161" name="Homeless Man 2" />
+	<key id="11001162" name="Homeless Woman 1" />
 	<key id="11001163" name="The seven-colored Rainbow" />
 	<key id="11001164" name="Pump Kinney" />
-	<key id="11001165" name="Marin" />
-	<key id="11001166" name="Marin" />
-	<key id="11001167" name="Bryn" />
-	<key id="11001168" name="EZ" />
+	<key id="11001165" name="Merrin" />
+	<key id="11001166" name="Merrin" />
+	<key id="11001167" name="Brin" />
+	<key id="11001168" name="Eazy" />
 	<key id="11001169" name="Flynn" />
 	<key id="11001170" name="Steen" />
 	<key id="11001171" name="Tori" />
@@ -1181,9 +1181,9 @@
 	<key id="11001176" name="Senior Designer" />
 	<key id="11001177" name="Gomei" />
 	<key id="11001178" name="Cherokee" />
-	<key id="11001179" name="Aliyah Le" />
+	<key id="11001179" name="Aliyar" />
 	<key id="11001180" name="Mayor" />
-	<key id="11001181" name="Godard" />
+	<key id="11001181" name="Godar" />
 	<key id="11001182" name="ARI black top" />
 	<key id="11001183" name="A wounded black crusade members 1" />
 	<key id="11001184" name="A wounded black crusade operatives 2" />
@@ -1192,7 +1192,7 @@
 	<key id="11001187" name="A wounded black crusade operatives 5" />
 	<key id="11001188" name="A wounded black crusade operatives 6" />
 	<key id="11001189" name="Wei Hong" />
-	<key id="11001190" name="The black crusade operatives" />
+	<key id="11001190" name="Black Crusade Gang Member" />
 	<key id="11001191" name="Joan I" />
 	<key id="11001192" name="Fatigue" />
 	<key id="11001193" name="Ilruna" />
@@ -1231,11 +1231,11 @@
 	<key id="11001226" name="Morrow Papa residents 2" />
 	<key id="11001227" name="Morrow Papa residents 3" />
 	<key id="11001228" name="Puri" />
-	<key id="11001229" name="Issue La" />
-	<key id="11001230" name="Karen Bianchi by DuPont" />
-	<key id="11001231" name="Horseshoe tart" />
-	<key id="11001232" name="Yu and the Feria de Abril" />
-	<key id="11001233" name="Les Cup" />
+	<key id="11001229" name="Ishura" />
+	<key id="11001230" name="Renduebian" />
+	<key id="11001231" name="Holshutart" />
+	<key id="11001232" name="Yuperia" />
+	<key id="11001233" name="Rejan" />
 	<key id="11001234" name="Riders" />
 	<key id="11001235" name="Turncoat" />
 	<key id="11001236" name="Lennon" />
@@ -1245,12 +1245,12 @@
 	<key id="11001240" name="Ruta Timothy Carr" />
 	<key id="11001241" name="Mina Crest" />
 	<key id="11001242" name="Odessa" />
-	<key id="11001243" name="Issue La" />
-	<key id="11001244" name="Issue La" />
-	<key id="11001245" name="Issue La" />
-	<key id="11001246" name="Issue La" />
-	<key id="11001247" name="Les Cup" />
-	<key id="11001248" name="Karen Bianchi by DuPont" />
+	<key id="11001243" name="Ishura" />
+	<key id="11001244" name="Ishura" />
+	<key id="11001245" name="Ishura" />
+	<key id="11001246" name="Ishura" />
+	<key id="11001247" name="Rejan" />
+	<key id="11001248" name="Renduebian" />
 	<key id="11001249" name="Riders" />
 	<key id="11001250" name="Runes blog radar 1" />
 	<key id="11001251" name="Runes blog radar 2" />
@@ -1265,11 +1265,11 @@
 	<key id="11001260" name="Fort Ranger" />
 	<key id="11001261" name="Kirkland" />
 	<key id="11001262" name="Lippert" />
-	<key id="11001263" name="Issue La" />
-	<key id="11001264" name="Yu and the Feria de Abril" />
-	<key id="11001265" name="Yu and the Feria de Abril" />
+	<key id="11001263" name="Ishura" />
+	<key id="11001264" name="Yuperia" />
+	<key id="11001265" name="Yuperia" />
 	<key id="11001266" name="For Chase" />
-	<key id="11001267" name="Issue La" />
+	<key id="11001267" name="Ishura" />
 	<key id="11001268" name="Chase crew" />
 	<key id="11001269" name="Santa Rudolph" />
 	<key id="11001270" name="Loire" />
@@ -1281,11 +1281,11 @@
 	<key id="11001276" name="Makan" />
 	<key id="11001277" name="Kirkland" />
 	<key id="11001278" name="Shun" />
-	<key id="11001279" name="Issue La" />
-	<key id="11001280" name="Yu and the Feria de Abril" />
-	<key id="11001281" name="Issue La" />
+	<key id="11001279" name="Ishura" />
+	<key id="11001280" name="Yuperia" />
+	<key id="11001281" name="Ishura" />
 	<key id="11001282" name="Chase crew" />
-	<key id="11001283" name="Horseshoe tart" />
+	<key id="11001283" name="Holshutart" />
 	<key id="11001284" name="Turncoat" />
 	<key id="11001285" name="Mika" />
 	<key id="11001286" name="Mika" />
@@ -1303,11 +1303,11 @@
 	<key id="11001298" name="Tara" />
 	<key id="11001299" name="Arlon" />
 	<key id="11001300" name="Arlon" />
-	<key id="11001301" name="In Rev" />
-	<key id="11001302" name="In Rev" />
-	<key id="11001303" name="Luau I" />
+	<key id="11001301" name="Ereve" />
+	<key id="11001302" name="Ereve" />
+	<key id="11001303" name="Rivanda" />
 	<key id="11001304" name="Asimov" />
-	<key id="11001305" name="Matthew Voinovich" />
+	<key id="11001305" name="Manovich" />
 	<key id="11001306" name="Lee Banda" />
 	<key id="11001307" name="Taban" />
 	<key id="11001308" name="Denver de" />
@@ -1315,7 +1315,7 @@
 	<key id="11001310" name="Deaf peoples" />
 	<key id="11001311" name="Ronan" />
 	<key id="11001312" name="Teddy" />
-	<key id="11001313" name="Den-den" />
+	<key id="11001313" name="Denden" />
 	<key id="11001314" name="Te Morrow" />
 	<key id="11001315" name="As the armor" />
 	<key id="11001316" name="Marcia Mar" />
@@ -1450,7 +1450,7 @@
 	<key id="11001445" name="Back Le tub" />
 	<key id="11001446" name="Town residents" />
 	<key id="11001447" name="Town residents" />
-	<key id="11001448" name="In Rev" />
+	<key id="11001448" name="Ereve" />
 	<key id="11001449" name="Piz" />
 	<key id="11001450" name="Delhi rain" />
 	<key id="11001451" name="Warm MIA" />
@@ -1477,9 +1477,9 @@
 	<key id="11001472" name="Mika" />
 	<key id="11001473" name="Corbina" />
 	<key id="11001474" name="Par David" />
-	<key id="11001475" name="ES finger" />
+	<key id="11001475" name="Spinger" />
 	<key id="11001476" name="Wei Hong" />
-	<key id="11001477" name="The black crusade operatives" />
+	<key id="11001477" name="Black Crusade Gang Member" />
 	<key id="11002000" name="Pablo" />
 	<key id="11002001" name="Erin" />
 	<key id="11002002" name="Anderson" />
@@ -2071,8 +2071,8 @@
 	<key id="21500071" name="Jelly is non-" />
 	<key id="21500072" name="Jelly is non-" />
 	<key id="21500073" name="Jelly is non-" />
-	<key id="21500080" name="ES finger" />
-	<key id="21500081" name="ES finger" />
+	<key id="21500080" name="Spinger" />
+	<key id="21500081" name="Spinger" />
 	<key id="21500090" name="Yellow wing Ka" />
 	<key id="21500091" name="Spear Kaka" />
 	<key id="21500095" name="Forrest rolling river" />
@@ -2111,7 +2111,7 @@
 	<key id="21800902" name="Green Hood&#8217;s Crossbow" />
 	<key id="21800903" name="Green Hood&#8217;s Crossbow" />
 	<key id="21800910" name="The pirates only Cannon" />
-	<key id="21800044" name="The cart ban" />
+	<key id="21800044" name="Kartvan" />
 	<key id="21800064" name="Lennon" />
 	<key id="21800072" name="Bella" />
 	<key id="21800073" name="It&#8217;s a" />
@@ -2124,7 +2124,7 @@
 	<key id="21800409" name="In Reston" />
 	<key id="21801409" name="In Reston" />
 	<key id="21802409" name="In Reston" />
-	<key id="21800529" name="Black kids" />
+	<key id="21800529" name="Blackeye" />
 	<key id="21890407" name="Fire fairy_Recovery of fire-bomb" />
 	<key id="21890409" name="Water fairy_Recovery of water cube" />
 	<key id="21890410" name="Water fairy_Shields the water cube" />
@@ -2148,7 +2148,7 @@
 	<key id="21900081" name="Lumina Liberation Army" />
 	<key id="21900082" name="Lumina Liberation Army" />
 	<key id="21900083" name="Lumina Liberation Army" />
-	<key id="21900084" name="Black kids" />
+	<key id="21900084" name="Blackeye" />
 	<key id="21900085" name="Lennon" />
 	<key id="21900086" name="Bella" />
 	<key id="21900087" name="Lennon" />
@@ -2157,67 +2157,67 @@
 	<key id="21900090" name="Do Tsar" />
 	<key id="21900091" name="Lennon" />
 	<key id="21900093" name="Lennon" />
-	<key id="21900095" name="Issue La" />
+	<key id="21900095" name="Ishura" />
 	<key id="21900096" name="Skirmishers riders" />
-	<key id="21900097" name="The black crusade operatives" />
-	<key id="21900098" name="The black crusade operatives" />
-	<key id="21900099" name="Bunny" />
-	<key id="21900100" name="Bunny" />
-	<key id="21900107" name="Bunny" />
+	<key id="21900097" name="Black Crusade Gang Member" />
+	<key id="21900098" name="Black Crusade Gang Member" />
+	<key id="21900099" name="Bunny Girl" />
+	<key id="21900100" name="Bunny Girl" />
+	<key id="21900107" name="Bunny Girl" />
 	<key id="21900108" name="Dealers hull rälla" />
-	<key id="22000001" name="Stumm p" />
-	<key id="22000002" name="Bully Barajas" />
-	<key id="22000003" name="Nigsi" />
-	<key id="22000004" name="Effie" />
-	<key id="22000005" name="The giant lava kids" />
-	<key id="22000007" name="Wind psychics la Fang" />
-	<key id="22000009" name="Wu reus" />
-	<key id="22000011" name="Lever in zombies" />
-	<key id="22000015" name="De Bree I" />
-	<key id="22000016" name="De Brea" />
+	<key id="22000001" name="Stumpy" />
+	<key id="22000002" name="Bully Varaha" />
+	<key id="22000003" name="Nixie" />
+	<key id="22000004" name="Epi" />
+	<key id="22000005" name="Giant Lava Eye" />
+	<key id="22000007" name="Wind Shaman Rapang" />
+	<key id="22000009" name="Ureus" />
+	<key id="22000011" name="Revenant Zombie" />
+	<key id="22000015" name="Debrina" />
+	<key id="22000016" name="Debria" />
 	<key id="22090011" name="Patos" />
-	<key id="22000022" name="Your party" />
-	<key id="22000023" name="Your Skype" />
-	<key id="22000024" name="Your Panda" />
-	<key id="22000033" name="Dark lava night" />
-	<key id="22000034" name="Earth lava night" />
-	<key id="22000035" name="Flame of lava night" />
-	<key id="22000037" name="Ice edge sealant" />
-	<key id="22000038" name="Dark edge sealant" />
-	<key id="22000042" name="Nine Cap CAPA" />
-	<key id="22000043" name="Nine caps Zeta" />
-	<key id="22000044" name="Nine caps Mu" />
+	<key id="22000022" name="Urza" />
+	<key id="22000023" name="Urska" />
+	<key id="22000024" name="Urpanda" />
+	<key id="22000033" name="Dark Lava Knight" />
+	<key id="22000034" name="Earth Lava Knight" />
+	<key id="22000035" name="Flame Lava Knight" />
+	<key id="22000037" name="Ice Zirant" />
+	<key id="22000038" name="Dark Zirant" />
+	<key id="22000042" name="Ninecap Kappa" />
+	<key id="22000043" name="Ninecap Zeta" />
+	<key id="22000044" name="Ninecap Mu" />
 	<key id="22000045" name="Monte de Carlo" />
 	<key id="22000046" name="Romero de Carlo" />
-	<key id="22000047" name="Peer de Carlo" />
-	<key id="22000050" name="Pekka Ta" />
-	<key id="22000051" name="Carl Kita" />
-	<key id="22000052" name="Les-Le-Ta" />
-	<key id="22000053" name="Trogir Los" />
-	<key id="22000056" name="Or key-Mo car" />
-	<key id="22000057" name="Or key money" />
-	<key id="22000058" name="Or key-Mo Mu" />
-	<key id="22000059" name="Agate" />
-	<key id="22000060" name="Blue agate" />
-	<key id="22000061" name="Orange agate" />
+	<key id="22000047" name="Pior de Carlo" />
+	<key id="22000050" name="Pekkata" />
+	<key id="22000051" name="Kalkita" />
+	<key id="22000052" name="Lerta" />
+	<key id="22000053" name="Trauros" />
+	<key id="22000056" name="Inakimo Ka" />
+	<key id="22000057" name="Inakimo De" />
+	<key id="22000058" name="Inakimo Mu" />
+	<key id="22000059" name="Mano" />
+	<key id="22000060" name="Blue Mano" />
+	<key id="22000061" name="Orange Mano" />
 	<key id="22000065" name="Gras Kass Scouts chapter" />
-	<key id="22000320" name="Blue Emma sh suit" />
-	<key id="22000321" name="Emma sh suit" />
-	<key id="22000322" name="Pampers easy Zombie Bots" />
-	<key id="22300105" name="Guard Chang Chow" />
-	<key id="22300149" name="Boogie Collier" />
-	<key id="22090007" name="Psychics summoned la Toon" />
-	<key id="22091007" name="The magic rabbit blue" />
-	<key id="22090107" name="King slime" />
-	<key id="22090123" name="Phantom destroyers" />
-	<key id="22090165" name="Mad Oh yes hot" />
-	<key id="22090166" name="Franc Quesnay floating" />
+	<key id="22000320" name="Blue Mushmom" />
+	<key id="22000321" name="Mushmom" />
+	<key id="22000322" name="Zombie Mushmom" />
+	<key id="22300105" name="Guard Chief Chow" />
+	<key id="22300149" name="Boogie Coolie" />
+	<key id="22090007" name="Summoner Ratoon" />
+	<key id="22091007" name="Magic Rabbit Parang" />
+	<key id="22090107" name="King Slime" />
+	<key id="22090123" name="Phantom Destroyer" />
+	<key id="22090165" name="Madonette" />
+	<key id="22090166" name="Frankonette" />
 	<key id="22090196" name="Hatter" />
 	<key id="22409034" name="Toto" />
 	<key id="22409134" name="Toto" />
-	<key id="22409035" name="As" />
-	<key id="22409135" name="As" />
-	<key id="22400062" name="Dr. Phi Phi" />
+	<key id="22409035" name="Lolo" />
+	<key id="22409135" name="Lolo" />
+	<key id="22400062" name="Doctor Pipi" />
 	<key id="22400071" name="Eva Gor" />
 	<key id="22800144" name="Al and Ron jump bang" />
 	<key id="22809144" name="Arlon 2 combo" />
@@ -2227,94 +2227,94 @@
 	<key id="22990027" name="Bamboo Panda_Jump to bang attack" />
 	<key id="22990028" name="Bamboo Panda_Jump with a bang after the attack cube" />
 	<key id="22990029" name="Bamboo Panda_Swinging in the Chase" />
-	<key id="22400011" name="Do wear:" />
+	<key id="22400011" name="Mamamosi" />
 	<key id="22499035" name="As_Dash claw" />
 	<key id="22499036" name="As_After rushing to jump claw" />
 	<key id="22499037" name="As_To summon" />
 	<key id="22499038" name="As_DART improves balance" />
-	<key id="22490062" name="Wave Pula Tuscany_Twister" />
-	<key id="22490063" name="Wave Pula Tuscany_Ki blast" />
-	<key id="22490064" name="Wave Pula Tuscany_Track attack" />
+	<key id="22490062" name="Papulatus_Twister" />
+	<key id="22490063" name="Papulatus_Ki blast" />
+	<key id="22490064" name="Papulatus_Track attack" />
 	<key id="22490071" name="Eva Gor_Floor naeryo Chigi" />
 	<key id="22490072" name="Eva Gor_Smaller la" />
 	<key id="22490073" name="Eva Gor_Teleportation" />
-	<key id="22500001" name="Nine caps Zeta" />
-	<key id="22500002" name="Nine caps Zeta" />
-	<key id="22500003" name="Nine caps Mu" />
-	<key id="22500004" name="Nine caps Mu" />
+	<key id="22500001" name="Ninecap Zeta" />
+	<key id="22500002" name="Ninecap Zeta" />
+	<key id="22500003" name="Ninecap Mu" />
+	<key id="22500004" name="Ninecap Mu" />
 	<key id="22500010" name="Big Bobos" />
 	<key id="22500020" name="Iron each etc." />
 	<key id="22990072" name="Bella" />
 	<key id="23000001" name="Devlin Warrior" />
-	<key id="23000006" name="Forgotten BAYAR" />
-	<key id="23000007" name="Shadow Magic Deborah Crest" />
+	<key id="23000006" name="Forgotten Bajar" />
+	<key id="23000007" name="Shadow Shaman Deborak" />
 	<key id="23000008" name="Devlin Chief" />
-	<key id="23000009" name="Wu reus" />
-	<key id="23000011" name="Pyrrhic Fahd" />
-	<key id="23000012" name="Mad Icar" />
-	<key id="23000013" name="Dull dull" />
+	<key id="23000009" name="Ureus" />
+	<key id="23000011" name="Pyrrhus Fard" />
+	<key id="23000012" name="Ikar Mard" />
+	<key id="23000013" name="Dun Dun" />
 	<key id="23000015" name="Captain Mork" />
-	<key id="23000017" name="The alpha turtle" />
-	<key id="23000018" name="Giant turtle" />
+	<key id="23000017" name="Alpha Turtle" />
+	<key id="23000018" name="Giant Turtle" />
 	<key id="23000019" name="Griffon" />
-	<key id="23000020" name="Griffey, I" />
+	<key id="23000020" name="Griffina" />
 	<key id="23000021" name="Horus" />
-	<key id="23000029" name="Acre came" />
-	<key id="23000033" name="Shushu and Boobooth" />
-	<key id="23000034" name="Toto and the goose" />
-	<key id="23000035" name="And as a Moose" />
-	<key id="23000039" name="Sea Mo Khan" />
-	<key id="23000040" name="Camo Khan" />
-	<key id="23000041" name="Par Mo Khan" />
-	<key id="23000045" name="Pekka Kana 2 North" />
-	<key id="23000046" name="Carl key North" />
-	<key id="23000047" name="Les ORNOS" />
-	<key id="23000052" name="Cabo" />
-	<key id="23000054" name="Mark 52 alpha" />
-	<key id="23000055" name="Mark 52 beta" />
+	<key id="23000029" name="Akremon" />
+	<key id="23000033" name="Shushu &amp; Bubus" />
+	<key id="23000034" name="Toto &amp; Gugus" />
+	<key id="23000035" name="Lolo &amp; Mumus" />
+	<key id="23000039" name="Hemokan" />
+	<key id="23000040" name="Kamokan" />
+	<key id="23000041" name="Pamokan" />
+	<key id="23000045" name="Pekanos" />
+	<key id="23000046" name="Kalkinos" />
+	<key id="23000047" name="Lernos" />
+	<key id="23000052" name="Kabo" />
+	<key id="23000054" name="Mark 52 Alpha" />
+	<key id="23000055" name="Mark 52 Beta" />
 	<key id="23000056" name="Mark 52 Omega" />
-	<key id="23000057" name="Probably money" />
-	<key id="23000065" name="Wild Tuscany" />
-	<key id="23000066" name="Provence-Tuscany" />
-	<key id="23000067" name="Plan-les-Tuscany" />
-	<key id="23000068" name="VARs Kant" />
-	<key id="23000069" name="Cant alter ego bar" />
-	<key id="23000070" name="Cant alter ego bar" />
-	<key id="23000024" name="Wrath of the bar four mat" />
+	<key id="23000057" name="Amadon" />
+	<key id="23000065" name="Wild Tooth" />
+	<key id="23000066" name="Protooth" />
+	<key id="23000067" name="Pletooth" />
+	<key id="23000068" name="Varkant" />
+	<key id="23000069" name="Varkant Clone" />
+	<key id="23000070" name="Varkant Clone" />
+	<key id="23000024" name="Enraged Baphomet" />
 	<key id="23000025" name="Chaos Baphomet" />
 	<key id="23000026" name="Cold-Blooded Baphomet" />
-	<key id="23090005" name="Foot rock" />
-	<key id="23090066" name="ES finger" />
-	<key id="23000071" name="Now Combe" />
-	<key id="23000077" name="Wave Pula Tuscany" />
-	<key id="23401071" name="Now Combe right arm top" />
-	<key id="23402071" name="Now Combe right arm Middle" />
-	<key id="23403071" name="Now Combe right arm below" />
-	<key id="23404071" name="Now Combe left arm top" />
+	<key id="23090005" name="Balrog" />
+	<key id="23090066" name="Spinger" />
+	<key id="23000071" name="Zakum" />
+	<key id="23000077" name="Papulatus" />
+	<key id="23401071" name="Zakum right arm top" />
+	<key id="23402071" name="Zakum right arm Middle" />
+	<key id="23403071" name="Zakum right arm below" />
+	<key id="23404071" name="Zakum left arm top" />
 	<key id="23405071" name="Left arm Middle ja Combe" />
 	<key id="23406071" name="Now the left arm under Combe" />
-	<key id="23000099" name="BAYAR gatekeeper" />
-	<key id="23000100" name="The last Baja sur" />
-	<key id="23000918" name="Giant turtle_Test" />
-	<key id="23001100" name="The last Baja sur_Test" />
-	<key id="23100006" name="Forgotten BAYAR" />
-	<key id="23100007" name="Shadow Magic Deborah Crest" />
-	<key id="23100011" name="Pyrrhic Fahd" />
+	<key id="23000099" name="Bajar Gatekeeper" />
+	<key id="23000100" name="The Last Bajar" />
+	<key id="23000918" name="Giant Turtle_Test" />
+	<key id="23001100" name="The Last Bajar_Test" />
+	<key id="23100006" name="Forgotten Bajar" />
+	<key id="23100007" name="Shadow Shaman Deborak" />
+	<key id="23100011" name="Pyrrhus Fard" />
 	<key id="23100015" name="Captain Mork" />
 	<key id="23100021" name="Horus" />
 	<key id="23100025" name="Chaos Baphomet" />
-	<key id="23100033" name="Shushu and Boobooth" />
-	<key id="23100039" name="Sea Mo Khan" />
-	<key id="23100041" name="Par Mo Khan" />
-	<key id="23100055" name="Mark 52 beta" />
+	<key id="23100033" name="Shushu &amp; Bubus" />
+	<key id="23100039" name="Hemokan" />
+	<key id="23100041" name="Pamokan" />
+	<key id="23100055" name="Mark 52 Beta" />
 	<key id="23100056" name="Mark 52 Omega" />
-	<key id="23100077" name="Wave Pula Tuscany" />
-	<key id="23100100" name="The last Baja sur" />
-	<key id="23190005" name="Foot rock" />
-	<key id="23190066" name="ES finger" />
-	<key id="23200007" name="Shadow Magic Deborah Crest" />
+	<key id="23100077" name="Papulatus" />
+	<key id="23100100" name="The Last Bajar" />
+	<key id="23190005" name="Balrog" />
+	<key id="23190066" name="Spinger" />
+	<key id="23200007" name="Shadow Shaman Deborak" />
 	<key id="23200015" name="Captain Mork" />
-	<key id="23200077" name="Wave Pula Tuscany" />
+	<key id="23200077" name="Papulatus" />
 	<key id="23900001" name="Devlin_Bottom stroke cube" />
 	<key id="23900002" name="Devlin_The greater the shock wave" />
 	<key id="23900003" name="Devlin_Bullion and shoving in the Holy Land (cube)" />
@@ -2327,35 +2327,35 @@
 	<key id="23900010" name="Devlin_Rotating laser for 5 seconds the clock" />
 	<key id="23900011" name="Devlin_Laser 3 in a row (bottom burning)" />
 	<key id="23900012" name="Devlin_Jump to bang attack" />
-	<key id="23900013" name="Deborah Krakow_Judo throw floor explosion cube" />
-	<key id="23900014" name="Deborah Krakow_Shadow-inducing to pretend" />
-	<key id="23900015" name="Deborah Krakow_1/4The bottom shadow fire explosion" />
-	<key id="23900016" name="Deborah Krakow_Teleportation" />
-	<key id="23900017" name="Deborah Krakow_The ROAR HPClippers, shoving" />
-	<key id="23900018" name="Deborah Krakow_The final blow" />
-	<key id="23900019" name="Deborah Krakow_Palm pruning" />
-	<key id="23900020" name="Deborah Krakow_After teleporting laser launch" />
-	<key id="23900021" name="Deborah Krakow_DamageUP Buff" />
-	<key id="23900022" name="Deborah Krakow_Defense powerUP Buff" />
-	<key id="23900035" name="Shushu and Boobooth_Arm wielding (approx.)" />
-	<key id="23900036" name="Shushu and Boobooth_Arm wielding (River)" />
-	<key id="23900037" name="And as a Moose_Bottom bang hit the lead pair" />
-	<key id="23900038" name="And as a Moose_Poisonous bomb planting" />
-	<key id="23900039" name="And as a Moose_Roots Entwine" />
-	<key id="23900040" name="And as a Moose_Poison mushrooms come" />
-	<key id="23900041" name="And as a Moose_The size of the earthquake, everywhere" />
-	<key id="23900042" name="Shushu and Boobooth_Upper cut" />
-	<key id="23900043" name="And as a Moose_The masked shining" />
-	<key id="23900044" name="And as a Moose_Pounding away ollyo Chigi" />
-	<key id="23900045" name="And as a Moose_Poisonous non-induction" />
-	<key id="23900046" name="And as a Moose_Face the public di buff" />
-	<key id="23900047" name="Shushu and Boobooth_Induced energy penetrator 5" />
-	<key id="23900048" name="Shushu and Boobooth_Kill the two inductive energy penetrator" />
-	<key id="23900049" name="Shushu and Boobooth_Ice cube wave" />
-	<key id="23900050" name="Shushu and Boobooth_Bottom stroke (dialogue)" />
-	<key id="23900051" name="Shushu and Boobooth_Recall the dialog" />
-	<key id="23900052" name="Shushu and Boobooth_Face the public wide area attacks" />
-	<key id="23900053" name="Shushu and Boobooth_Freezing force (15 seconds)" />
+	<key id="23900013" name="Deborak_Judo throw floor explosion cube" />
+	<key id="23900014" name="Deborak_Shadow-inducing to pretend" />
+	<key id="23900015" name="Deborak_1/4The bottom shadow fire explosion" />
+	<key id="23900016" name="Deborak_Teleportation" />
+	<key id="23900017" name="Deborak_The ROAR HPClippers, shoving" />
+	<key id="23900018" name="Deborak_The final blow" />
+	<key id="23900019" name="Deborak_Palm pruning" />
+	<key id="23900020" name="Deborak_After teleporting laser launch" />
+	<key id="23900021" name="Deborak_DamageUP Buff" />
+	<key id="23900022" name="Deborak_Defense powerUP Buff" />
+	<key id="23900035" name="Shushu &amp; Bubus_Arm wielding (approx.)" />
+	<key id="23900036" name="Shushu &amp; Bubus_Arm wielding (River)" />
+	<key id="23900037" name="Lolo &amp; Mumus_Bottom bang hit the lead pair" />
+	<key id="23900038" name="Lolo &amp; Mumus_Poisonous bomb planting" />
+	<key id="23900039" name="Lolo &amp; Mumus_Roots Entwine" />
+	<key id="23900040" name="Lolo &amp; Mumus_Poison mushrooms come" />
+	<key id="23900041" name="Lolo &amp; Mumus_The size of the earthquake, everywhere" />
+	<key id="23900042" name="Shushu &amp; Bubus_Upper cut" />
+	<key id="23900043" name="Lolo &amp; Mumus_The masked shining" />
+	<key id="23900044" name="Lolo &amp; Mumus_Pounding away ollyo Chigi" />
+	<key id="23900045" name="Lolo &amp; Mumus_Poisonous non-induction" />
+	<key id="23900046" name="Lolo &amp; Mumus_Face the public di buff" />
+	<key id="23900047" name="Shushu &amp; Bubus_Induced energy penetrator 5" />
+	<key id="23900048" name="Shushu &amp; Bubus_Kill the two inductive energy penetrator" />
+	<key id="23900049" name="Shushu &amp; Bubus_Ice cube wave" />
+	<key id="23900050" name="Shushu &amp; Bubus_Bottom stroke (dialogue)" />
+	<key id="23900051" name="Shushu &amp; Bubus_Recall the dialog" />
+	<key id="23900052" name="Shushu &amp; Bubus_Face the public wide area attacks" />
+	<key id="23900053" name="Shushu &amp; Bubus_Freezing force (15 seconds)" />
 	<key id="23900054" name="Mark 52_The left and right laser shooting" />
 	<key id="23900055" name="Mark 52_Brandishing both everywhere and lasers" />
 	<key id="23900056" name="Mark 52_Bottom electric" />
@@ -2371,28 +2371,28 @@
 	<key id="23900066" name="Mark 52_Electrical shock attack mode" />
 	<key id="23900067" name="Mark 52_The electric cube stun attack" />
 	<key id="23900068" name="Mark 52_Jump landing electric cube electric shock" />
-	<key id="23980011" name="Pyrrhic Fahd_A huge fire brass" />
-	<key id="23980012" name="Pyrrhic Fahd_General fire brass" />
-	<key id="23980013" name="Pyrrhic Fahd_Head ollyo Chigi" />
-	<key id="23980014" name="Pyrrhic Fahd_Annoyed after hitting bottom bang sex" />
-	<key id="23980015" name="Pyrrhic Fahd_Tail wielding" />
-	<key id="23980016" name="Pyrrhic Fahd_Tail number three bang-stroke" />
-	<key id="23980017" name="Pyrrhic Fahd_180Also rotating laser" />
-	<key id="23980018" name="Pyrrhic Fahd_Straight trunk dash" />
-	<key id="23980019" name="Pyrrhic Fahd_Stop continuous firing of the body" />
-	<key id="23980020" name="Pyrrhic Fahd_Room-up buff" />
-	<key id="23980021" name="Pyrrhic Fahd_Hanging from the target drop-GI" />
-	<key id="23988012" name="ICA Le do de_Giant chill-brass" />
-	<key id="23988013" name="ICA Le do de_General Frost brass" />
-	<key id="23988014" name="ICA Le do de_Head ollyo Chigi" />
-	<key id="23988015" name="ICA Le do de_Annoyed after hitting bottom bang sex" />
-	<key id="23988016" name="ICA Le do de_Tail wielding" />
-	<key id="23988017" name="ICA Le do de_Tail number three bang-stroke" />
-	<key id="23988018" name="ICA Le do de_180Also rotating laser" />
-	<key id="23988019" name="ICA Le do de_Straight trunk dash" />
-	<key id="23988020" name="ICA Le do de_Stop continuous firing of the body" />
-	<key id="23988021" name="ICA Le do de_Room-up buff" />
-	<key id="23988022" name="ICA Le do de_Hanging from the target drop-GI" />
+	<key id="23980011" name="Pyrrhus Fard_A huge fire brass" />
+	<key id="23980012" name="Pyrrhus Fard_General fire brass" />
+	<key id="23980013" name="Pyrrhus Fard_Head ollyo Chigi" />
+	<key id="23980014" name="Pyrrhus Fard_Annoyed after hitting bottom bang sex" />
+	<key id="23980015" name="Pyrrhus Fard_Tail wielding" />
+	<key id="23980016" name="Pyrrhus Fard_Tail number three bang-stroke" />
+	<key id="23980017" name="Pyrrhus Fard_180Also rotating laser" />
+	<key id="23980018" name="Pyrrhus Fard_Straight trunk dash" />
+	<key id="23980019" name="Pyrrhus Fard_Stop continuous firing of the body" />
+	<key id="23980020" name="Pyrrhus Fard_Room-up buff" />
+	<key id="23980021" name="Pyrrhus Fard_Hanging from the target drop-GI" />
+	<key id="23988012" name="Ikar Mard_Giant chill-brass" />
+	<key id="23988013" name="Ikar Mard_General Frost brass" />
+	<key id="23988014" name="Ikar Mard_Head ollyo Chigi" />
+	<key id="23988015" name="Ikar Mard_Annoyed after hitting bottom bang sex" />
+	<key id="23988016" name="Ikar Mard_Tail wielding" />
+	<key id="23988017" name="Ikar Mard_Tail number three bang-stroke" />
+	<key id="23988018" name="Ikar Mard_180Also rotating laser" />
+	<key id="23988019" name="Ikar Mard_Straight trunk dash" />
+	<key id="23988020" name="Ikar Mard_Stop continuous firing of the body" />
+	<key id="23988021" name="Ikar Mard_Room-up buff" />
+	<key id="23988022" name="Ikar Mard_Hanging from the target drop-GI" />
 	<key id="23990006" name="BAYAR_Ice caves go jump" />
 	<key id="23990007" name="BAYAR_Ice cube bottom" />
 	<key id="23990008" name="BAYAR_The hand wielding" />
@@ -2400,12 +2400,12 @@
 	<key id="23990010" name="BAYAR_River rushing attack, wielding" />
 	<key id="23990011" name="BAYAR_Ground stroke" />
 	<key id="23990012" name="BAYAR_2Floor terrain test" />
-	<key id="23990013" name="Dull dull_The cube attack and jump attack" />
-	<key id="23990014" name="Dull dull_Placement machine" />
-	<key id="23990015" name="Dull dull_Jump pull the wind with a bang" />
-	<key id="23990016" name="Dull dull_High jump attack" />
-	<key id="23990017" name="Dull dull_Very high jump attack" />
-	<key id="23990018" name="Dull dull_Very high jump attack stunned" />
+	<key id="23990013" name="Dun Dun_The cube attack and jump attack" />
+	<key id="23990014" name="Dun Dun_Placement machine" />
+	<key id="23990015" name="Dun Dun_Jump pull the wind with a bang" />
+	<key id="23990016" name="Dun Dun_High jump attack" />
+	<key id="23990017" name="Dun Dun_Very high jump attack" />
+	<key id="23990018" name="Dun Dun_Very high jump attack stunned" />
 	<key id="23990099" name="BAYAR_In situ jump bang" />
 	<key id="23990019" name="Griffon_Fly sky attack" />
 	<key id="23990020" name="Griffon_Wing feather launch" />
@@ -2414,61 +2414,61 @@
 	<key id="23990023" name="Griffon_Brown Feather attack" />
 	<key id="23990024" name="Griffon_Strike up the buff" />
 	<key id="23990025" name="Griffon_Claw dash attack" />
-	<key id="23990047" name="Les ORNOS_Claw" />
-	<key id="23990048" name="Les ORNOS_Dive into claw" />
-	<key id="23990049" name="Les ORNOS_Fired from the mouth" />
-	<key id="23990050" name="Les ORNOS_Floor Shockwave" />
-	<key id="23990051" name="Les ORNOS_Shockwave guided missile" />
-	<key id="23990052" name="Les ORNOS_Bites and attacks" />
-	<key id="23990053" name="Les ORNOS_Brass" />
-	<key id="23990054" name="Les ORNOS_Getting the bites attack command" />
-	<key id="23990055" name="Les ORNOS_Get a wide attack command" />
-	<key id="23990056" name="Pekka Kana 2 North_Claw" />
-	<key id="23990057" name="Pekka Kana 2 North_Long range claw" />
-	<key id="23990058" name="Pekka Kana 2 North_Front firing side-firing" />
-	<key id="23990059" name="Pekka Kana 2 North_The bottom side of the front bottom" />
-	<key id="23990060" name="Pekka Kana 2 North_Shockwave guided missile" />
-	<key id="23990061" name="Pekka Kana 2 North_Brass fire property" />
-	<key id="23990062" name="Pekka Kana 2 North_After the witch summons bites" />
-	<key id="23990063" name="Pekka Kana 2 North_After throwing for LAN bites" />
-	<key id="23990064" name="Pekka Kana 2 North_After tossing the distant bites" />
-	<key id="23990065" name="Pekka Kana 2 North_Brass launch time" />
-	<key id="23990071" name="Now Combe torso_Now Combe&#8217;s wrath (HP 1, SP 0)" />
-	<key id="23990072" name="Now Combe torso_Damn curse (hit, this genus, poison)" />
-	<key id="23990073" name="Now Combe torso_Do water room" />
-	<key id="23990074" name="Now Combe torso_Death sentence" />
-	<key id="23990075" name="Now Combe torso_The mist of death" />
-	<key id="23990076" name="Now Combe hand_The arrows of darkness" />
-	<key id="23990077" name="Now Combe hand_Ruin the bomb planting" />
-	<key id="23990078" name="Now Combe hand_Hit attack" />
-	<key id="23990079" name="Now Combe hand_The rock rises machine cube" />
-	<key id="23990080" name="Now Combe hand_Curse of darkness hit rate" />
-	<key id="23990081" name="Now Combe hand_The curse of the weakened Max HP Degradation" />
-	<key id="23990082" name="Now Combe hand_After you die, the rising power buff" />
-	<key id="23990083" name="Now Combe hand_Lightning storm" />
-	<key id="23990084" name="Now Combe hand_Attack power buff after death rise" />
-	<key id="23990085" name="Now Combe hand_Squelches attack" />
-	<key id="23990086" name="Now Combe hand_Land seismic cube wave" />
-	<key id="23990087" name="Now Combe hand_Pawn Summoner" />
-	<key id="23990088" name="Now Combe hand_Plague strike" />
-	<key id="23990089" name="Now Combe hand_Fist straight strokes" />
-	<key id="23990090" name="Now Combe torso_Floor pillar of fire" />
-	<key id="23990091" name="Now Combe torso_Laser 2~3Line" />
-	<key id="23990092" name="Now Combe torso_Industrial use buffing" />
-	<key id="23990093" name="Now Combe torso_Speaking after the stunning" />
-	<key id="23992066" name="ES finger_Wielding 1, 2 RBI" />
-	<key id="23992067" name="ES finger_Jump straight after the attack attack" />
-	<key id="23992068" name="ES finger_Front 2 continuous firing" />
-	<key id="23992069" name="ES finger_After you install the floor straight cut" />
-	<key id="23992070" name="ES finger_Room-up buff" />
-	<key id="23992071" name="ES finger_Room up the buff granted" />
-	<key id="23999029" name="Acre came_Mouth Shockwave" />
-	<key id="23999030" name="Acre came_Watercourse brass" />
-	<key id="23999031" name="Acre came_Tail boom electric" />
-	<key id="23999032" name="Acre came_Horn electric launch" />
-	<key id="23999033" name="Acre came_Body shake" />
-	<key id="23999034" name="Acre came_Ki blast" />
-	<key id="23999035" name="Acre came_Jump Mobile" />
+	<key id="23990047" name="Lernos_Claw" />
+	<key id="23990048" name="Lernos_Dive into claw" />
+	<key id="23990049" name="Lernos_Fired from the mouth" />
+	<key id="23990050" name="Lernos_Floor Shockwave" />
+	<key id="23990051" name="Lernos_Shockwave guided missile" />
+	<key id="23990052" name="Lernos_Bites and attacks" />
+	<key id="23990053" name="Lernos_Brass" />
+	<key id="23990054" name="Lernos_Getting the bites attack command" />
+	<key id="23990055" name="Lernos_Get a wide attack command" />
+	<key id="23990056" name="Pekanos_Claw" />
+	<key id="23990057" name="Pekanos_Long range claw" />
+	<key id="23990058" name="Pekanos_Front firing side-firing" />
+	<key id="23990059" name="Pekanos_The bottom side of the front bottom" />
+	<key id="23990060" name="Pekanos_Shockwave guided missile" />
+	<key id="23990061" name="Pekanos_Brass fire property" />
+	<key id="23990062" name="Pekanos_After the witch summons bites" />
+	<key id="23990063" name="Pekanos_After throwing for LAN bites" />
+	<key id="23990064" name="Pekanos_After tossing the distant bites" />
+	<key id="23990065" name="Pekanos_Brass launch time" />
+	<key id="23990071" name="Zakum torso_Zakum&#8217;s wrath (HP 1, SP 0)" />
+	<key id="23990072" name="Zakum torso_Damn curse (hit, this genus, poison)" />
+	<key id="23990073" name="Zakum torso_Do water room" />
+	<key id="23990074" name="Zakum torso_Death sentence" />
+	<key id="23990075" name="Zakum torso_The mist of death" />
+	<key id="23990076" name="Zakum hand_The arrows of darkness" />
+	<key id="23990077" name="Zakum hand_Ruin the bomb planting" />
+	<key id="23990078" name="Zakum hand_Hit attack" />
+	<key id="23990079" name="Zakum hand_The rock rises machine cube" />
+	<key id="23990080" name="Zakum hand_Curse of darkness hit rate" />
+	<key id="23990081" name="Zakum hand_The curse of the weakened Max HP Degradation" />
+	<key id="23990082" name="Zakum hand_After you die, the rising power buff" />
+	<key id="23990083" name="Zakum hand_Lightning storm" />
+	<key id="23990084" name="Zakum hand_Attack power buff after death rise" />
+	<key id="23990085" name="Zakum hand_Squelches attack" />
+	<key id="23990086" name="Zakum hand_Land seismic cube wave" />
+	<key id="23990087" name="Zakum hand_Pawn Summoner" />
+	<key id="23990088" name="Zakum hand_Plague strike" />
+	<key id="23990089" name="Zakum hand_Fist straight strokes" />
+	<key id="23990090" name="Zakum torso_Floor pillar of fire" />
+	<key id="23990091" name="Zakum torso_Laser 2~3Line" />
+	<key id="23990092" name="Zakum torso_Industrial use buffing" />
+	<key id="23990093" name="Zakum torso_Speaking after the stunning" />
+	<key id="23992066" name="Spinger_Wielding 1, 2 RBI" />
+	<key id="23992067" name="Spinger_Jump straight after the attack attack" />
+	<key id="23992068" name="Spinger_Front 2 continuous firing" />
+	<key id="23992069" name="Spinger_After you install the floor straight cut" />
+	<key id="23992070" name="Spinger_Room-up buff" />
+	<key id="23992071" name="Spinger_Room up the buff granted" />
+	<key id="23999029" name="Akremon_Mouth Shockwave" />
+	<key id="23999030" name="Akremon_Watercourse brass" />
+	<key id="23999031" name="Akremon_Tail boom electric" />
+	<key id="23999032" name="Akremon_Horn electric launch" />
+	<key id="23999033" name="Akremon_Body shake" />
+	<key id="23999034" name="Akremon_Ki blast" />
+	<key id="23999035" name="Akremon_Jump Mobile" />
 	<key id="23999052" name="Cabo_1Ta wielding" />
 	<key id="23999053" name="Cabo_2Battered wielding" />
 	<key id="23999054" name="Cabo_Dash sting teleportation" />
@@ -2483,46 +2483,46 @@
 	<key id="23999916" name="Turtle boss_Drip imprison" />
 	<key id="23999917" name="Turtle boss_Vomiting u say" />
 	<key id="23999918" name="Turtle boss_On their own" />
-	<key id="23999124" name="Bar Po mat_Horizontal slash non-property curse" />
-	<key id="23999126" name="Bar Po mat_The curse of the rear attack non-property" />
-	<key id="23999127" name="Bar Po mat_The left attacks cast the curse of properties" />
-	<key id="23999128" name="Bar Po mat_The curse of the right attack non-property" />
-	<key id="23999130" name="Bar Po mat_Wide shoes cube the curse the wind biting property" />
-	<key id="23999224" name="Bar Po mat_Horizontal slash cold basal state" />
-	<key id="23999226" name="Bar Po mat_Rear attack cold basal state" />
-	<key id="23999227" name="Bar Po mat_The left attacks cold basal state" />
-	<key id="23999228" name="Bar Po mat_The right attack cold basal state" />
-	<key id="23999230" name="Bar Po mat_Wide turn after attacks cold basal state" />
-	<key id="23999924" name="Bar Po mat_The curse of the dark horizontal slash" />
-	<key id="23999925" name="Bar Po mat_Bell bash the gunslinger" />
-	<key id="23999926" name="Bar Po mat_Curse the darkness to attack the rear of the" />
-	<key id="23999927" name="Bar Po mat_The left attacks the dark curse" />
-	<key id="23999928" name="Bar Po mat_Curse the darkness to attack the right side" />
-	<key id="23999929" name="Bar Po mat_Launch attack_Dash (dark)" />
-	<key id="23999930" name="Bar Po mat_Wide shoes everywhere launches dark curse" />
-	<key id="23999931" name="Bar Po mat_Soul absorption" />
-	<key id="23999932" name="Bar Po mat_DamageUp Buff" />
-	<key id="23999933" name="Bar Po mat_Launch attack_Everywhere the six (non-property)" />
-	<key id="23999934" name="Bar Po mat_Launch attack_Left and right (cold)" />
-	<key id="23999939" name="Sea Mo Khan_Straight trunk dash" />
-	<key id="23999940" name="Sea Mo Khan_Py get attack" />
-	<key id="23999941" name="Sea Mo Khan_Jump attack" />
-	<key id="23999942" name="Sea Mo Khan_Jump attack floor mabeopjin" />
-	<key id="23999943" name="Sea Mo Khan_Ki blast shoving iambic" />
-	<key id="23999944" name="Sea Mo Khan_Weird sex jireugi" />
-	<key id="23999945" name="Sea Mo Khan_Horizontal slash 2 battered combo" />
-	<key id="23999946" name="Sea Mo Khan_Wheel wind 2nd Round 3rd round" />
-	<key id="23999947" name="Sea Mo Khan_Horizontal slash after the jump attack" />
-	<key id="23999948" name="Par Mo Khan_Continuous wheel wind knocked out after" />
-	<key id="23999949" name="Par Mo Khan_Continuous wheel wind knocked a jump with a bang" />
-	<key id="23999950" name="Par Mo Khan_Go to dash jump crash" />
-	<key id="23999951" name="Par Mo Khan_Jump with a bang fire Panel" />
-	<key id="23999005" name="Foot rock_3After continuous wielding walking" />
-	<key id="23999006" name="Foot rock_Continuous dash" />
-	<key id="23999007" name="Foot rock_Weird sex hook-wielding" />
-	<key id="23999008" name="Foot rock_Jump Mobile" />
-	<key id="23999009" name="Foot rock_Blood sucking" />
-	<key id="23999010" name="Foot rock_Weird sex greater Ki blast attack" />
+	<key id="23999124" name="Baphomet_Horizontal slash non-property curse" />
+	<key id="23999126" name="Baphomet_The curse of the rear attack non-property" />
+	<key id="23999127" name="Baphomet_The left attacks cast the curse of properties" />
+	<key id="23999128" name="Baphomet_The curse of the right attack non-property" />
+	<key id="23999130" name="Baphomet_Wide shoes cube the curse the wind biting property" />
+	<key id="23999224" name="Baphomet_Horizontal slash cold basal state" />
+	<key id="23999226" name="Baphomet_Rear attack cold basal state" />
+	<key id="23999227" name="Baphomet_The left attacks cold basal state" />
+	<key id="23999228" name="Baphomet_The right attack cold basal state" />
+	<key id="23999230" name="Baphomet_Wide turn after attacks cold basal state" />
+	<key id="23999924" name="Baphomet_The curse of the dark horizontal slash" />
+	<key id="23999925" name="Baphomet_Bell bash the gunslinger" />
+	<key id="23999926" name="Baphomet_Curse the darkness to attack the rear of the" />
+	<key id="23999927" name="Baphomet_The left attacks the dark curse" />
+	<key id="23999928" name="Baphomet_Curse the darkness to attack the right side" />
+	<key id="23999929" name="Baphomet_Launch attack_Dash (dark)" />
+	<key id="23999930" name="Baphomet_Wide shoes everywhere launches dark curse" />
+	<key id="23999931" name="Baphomet_Soul absorption" />
+	<key id="23999932" name="Baphomet_DamageUp Buff" />
+	<key id="23999933" name="Baphomet_Launch attack_Everywhere the six (non-property)" />
+	<key id="23999934" name="Baphomet_Launch attack_Left and right (cold)" />
+	<key id="23999939" name="Hemokan_Straight trunk dash" />
+	<key id="23999940" name="Hemokan_Py get attack" />
+	<key id="23999941" name="Hemokan_Jump attack" />
+	<key id="23999942" name="Hemokan_Jump attack floor mabeopjin" />
+	<key id="23999943" name="Hemokan_Ki blast shoving iambic" />
+	<key id="23999944" name="Hemokan_Weird sex jireugi" />
+	<key id="23999945" name="Hemokan_Horizontal slash 2 battered combo" />
+	<key id="23999946" name="Hemokan_Wheel wind 2nd Round 3rd round" />
+	<key id="23999947" name="Hemokan_Horizontal slash after the jump attack" />
+	<key id="23999948" name="Pamokan_Continuous wheel wind knocked out after" />
+	<key id="23999949" name="Pamokan_Continuous wheel wind knocked a jump with a bang" />
+	<key id="23999950" name="Pamokan_Go to dash jump crash" />
+	<key id="23999951" name="Pamokan_Jump with a bang fire Panel" />
+	<key id="23999005" name="Balrog_3After continuous wielding walking" />
+	<key id="23999006" name="Balrog_Continuous dash" />
+	<key id="23999007" name="Balrog_Weird sex hook-wielding" />
+	<key id="23999008" name="Balrog_Jump Mobile" />
+	<key id="23999009" name="Balrog_Blood sucking" />
+	<key id="23999010" name="Balrog_Weird sex greater Ki blast attack" />
 	<key id="23999015" name="Captain Mork_Sword wielding" />
 	<key id="23999016" name="Captain Mork_Dash the sword wielding" />
 	<key id="23999017" name="Captain Mork_Body rush" />
@@ -2536,19 +2536,19 @@
 	<key id="23999025" name="Captain Mork_After having knocked out wide Cannon" />
 	<key id="23999026" name="Captain Mork_Universal Cannon recalled a crossbow" />
 	<key id="23999027" name="Captain Mork_Rose defense buff" />
-	<key id="23999077" name="Wave Pula Tuscany_The fist 2 combo" />
-	<key id="23999078" name="Wave Pula Tuscany_Bang and shoving the Palm of your hand" />
-	<key id="23999079" name="Wave Pula Tuscany_Clapping-stroke" />
-	<key id="23999080" name="Wave Pula Tuscany_Ki blast punch" />
-	<key id="23999081" name="Wave Pula Tuscany_Palm-guided missile" />
-	<key id="23999082" name="Wave Pula Tuscany_Two-handed laser" />
-	<key id="23999083" name="Wave Pula Tuscany_Alarm goes off" />
-	<key id="23999084" name="Wave Pula Tuscany_Physical attack mode" />
-	<key id="23999085" name="Wave Pula Tuscany_Laser attack mode" />
-	<key id="23999086" name="Wave Pula Tuscany_Increase the time cube" />
-	<key id="23999087" name="Wave Pula Tuscany_Watch the floor planking" />
-	<key id="23999088" name="Wave Pula Tuscany_The back and forth rotating laser" />
-	<key id="23999089" name="Wave Pula Tuscany_Left and right rotating laser" />
+	<key id="23999077" name="Papulatus_The fist 2 combo" />
+	<key id="23999078" name="Papulatus_Bang and shoving the Palm of your hand" />
+	<key id="23999079" name="Papulatus_Clapping-stroke" />
+	<key id="23999080" name="Papulatus_Ki blast punch" />
+	<key id="23999081" name="Papulatus_Palm-guided missile" />
+	<key id="23999082" name="Papulatus_Two-handed laser" />
+	<key id="23999083" name="Papulatus_Alarm goes off" />
+	<key id="23999084" name="Papulatus_Physical attack mode" />
+	<key id="23999085" name="Papulatus_Laser attack mode" />
+	<key id="23999086" name="Papulatus_Increase the time cube" />
+	<key id="23999087" name="Papulatus_Watch the floor planking" />
+	<key id="23999088" name="Papulatus_The back and forth rotating laser" />
+	<key id="23999089" name="Papulatus_Left and right rotating laser" />
 	<key id="24000001" name="Mask blunt" />
 	<key id="24000002" name="Mask blow radar" />
 	<key id="24000003" name="Mask Esper" />
@@ -2628,16 +2628,16 @@
 	<key id="24000610" name="The forest of souls zombie suit" />
 	<key id="24000611" name="River sat Rob Hodges" />
 	<key id="24000612" name="April draw Scooby" />
-	<key id="24000613" name="Ancient Pekka North" />
+	<key id="24000613" name="Ancient Pekkanos" />
 	<key id="24000614" name="Patos" />
-	<key id="24000615" name="Dr. Phi Phi" />
+	<key id="24000615" name="Doctor Pipi" />
 	<key id="24000616" name="Barricade" />
 	<key id="24000617" name="Matthew Chan par youngest" />
 	<key id="24000618" name="Matthew Chan par youngest" />
 	<key id="24000701" name="Dire wolf" />
 	<key id="24000702" name="Elder Wolf" />
 	<key id="24000801" name="Tristan" />
-	<key id="24000802" name="Oh North" />
+	<key id="24000802" name="Anos" />
 	<key id="24000901" name="A large comb sewer bugs" />
 	<key id="24000902" name="Hungry honey honey" />
 	<key id="24000903" name="Bad honey honey" />
@@ -2664,7 +2664,7 @@
 	<key id="24001306" name="Maro zombie" />
 	<key id="24001307" name="Meat Boogie" />
 	<key id="24001308" name="Hydro ball cake night" />
-	<key id="24001309" name="Provence-Tuscany" />
+	<key id="24001309" name="Protooth" />
 	<key id="24001401" name="Behind junior-four keys" />
 	<key id="24001402" name="Qu was Chunghwa Corp" />
 	<key id="24001403" name="I was hiding the red shoes Corp" />
@@ -2696,7 +2696,7 @@
 	<key id="24001702" name="Shadow Woody" />
 	<key id="24001703" name="Bar La top" />
 	<key id="24001704" name="The dark Scorpions" />
-	<key id="24001705" name="The cart ban" />
+	<key id="24001705" name="Kartvan" />
 	<key id="24001801" name="Dark Sling" />
 	<key id="24001802" name="Huge dark Sling" />
 	<key id="24001803" name="Boogie" />
@@ -2732,8 +2732,8 @@
 	<key id="25000102" name="Loomis Rod alley cat" />
 	<key id="25000201" name="A huge golden treasure chest" />
 	<key id="25000202" name="Sand Tomb guards" />
-	<key id="26000001" name="REDTeam Cannon" />
-	<key id="26000002" name="BLUETeam Cannon" />
+	<key id="26000001" name="RED Team Cannon" />
+	<key id="26000002" name="BLUE Team Cannon" />
 	<key id="27000001" name="Halloween Messenger" />
 	<key id="27000002" name="Halloween Messenger" />
 	<key id="29000099" name="Straw doll, skill videos captured" />
@@ -2751,12 +2751,12 @@
 	<key id="29000029" name="Young pitched to Carr" />
 	<key id="29000030" name="Monkey" />
 	<key id="29000031" name="Fairy in the rough" />
-	<key id="29000032" name="Toto&#8217;s alter ego" />
+	<key id="29000032" name="Toto's Clone" />
 	<key id="29000033" name="Stone Crest Rabbi" />
 	<key id="29000034" name="Sat cast" />
-	<key id="29000035" name="Claw zombies" />
+	<key id="29000035" name="Claw Zombie" />
 	<key id="29000036" name="Battle the vigilante" />
-	<key id="29000037" name="Agate" />
+	<key id="29000037" name="Mano" />
 	<key id="29000038" name="Mask Stinger" />
 	<key id="29000039" name="Time Stiller Rex" />
 	<key id="29000040" name="COBOL is like" />
@@ -2808,13 +2808,13 @@
 	<key id="29000086" name="Cabo" />
 	<key id="29900002" name="Dual-Burke" />
 	<key id="29900003" name="Sports car" />
-	<key id="23990034" name="Toto and the goose_Fire bomb planting" />
-	<key id="23990035" name="Toto and the goose_Face brass fire" />
-	<key id="23990036" name="Toto and the goose_The flame of a number of guided missile" />
-	<key id="23990037" name="Toto and the goose_Pillar of fire cube" />
-	<key id="23990038" name="Toto and the goose_Hotplate bottom planking" />
-	<key id="23990039" name="Toto and the goose_Face the public di buff" />
-	<key id="23999045" name="Pekka Kana 2 North_Bite test" />
+	<key id="23990034" name="Toto &amp; Gugus_Fire bomb planting" />
+	<key id="23990035" name="Toto &amp; Gugus_Face brass fire" />
+	<key id="23990036" name="Toto &amp; Gugus_The flame of a number of guided missile" />
+	<key id="23990037" name="Toto &amp; Gugus_Pillar of fire cube" />
+	<key id="23990038" name="Toto &amp; Gugus_Hotplate bottom planking" />
+	<key id="23990039" name="Toto &amp; Gugus_Face the public di buff" />
+	<key id="23999045" name="Pekanos_Bite test" />
 	<key id="23999101" name="BAYAR hands wielding" />
 	<key id="23999102" name="BAYAR two-handed stroke" />
 	<key id="23999103" name="BAYAR continuous cube skills" />
@@ -2827,26 +2827,26 @@
 	<key id="23999110" name="BAYAR water up the buff" />
 	<key id="23999111" name="BAYAR don&#8217;t bang up buff" />
 	<key id="23999112" name="BAYAR Shak Goji berries" />
-	<key id="30000001" name="Mad Oh yes hot Whan Decree" />
-	<key id="30000002" name="Lever in zombies-hwan Decree" />
+	<key id="30000001" name="Madonette Whan Decree" />
+	<key id="30000002" name="Revenant Zombie-hwan Decree" />
 	<key id="30000003" name="Tough pill to wish Messenger" />
-	<key id="30000004" name="Franc Quesnay floating hwan Decree" />
+	<key id="30000004" name="Frankonette hwan Decree" />
 	<key id="30000005" name="Dark edge in hwan, Col." />
 	<key id="30000006" name="The giant lava child Whan the Messenger" />
 	<key id="30000007" name="Zombie Bots pampers easy-hwan Decree" />
-	<key id="30000008" name="Stumm p hwan Decree" />
-	<key id="30000009" name="King slime-hwan Decree" />
-	<key id="30000010" name="Agate-hwan Decree" />
+	<key id="30000008" name="Stumpy hwan Decree" />
+	<key id="30000009" name="King Slime-hwan Decree" />
+	<key id="30000010" name="Mano-hwan Decree" />
 	<key id="30000011" name="Wind psychics la Pang hwan Decree" />
-	<key id="30000012" name="Your Panda-hwan Decree" />
+	<key id="30000012" name="Urpanda-hwan Decree" />
 	<key id="30000013" name="Summon magic-la-Toon-hwan Decree" />
-	<key id="30000014" name="Trogir Los hwan Decree" />
+	<key id="30000014" name="Trauros hwan Decree" />
 	<key id="30000015" name="Nine Cap CAPA hwan Decree" />
-	<key id="30000016" name="Earth lava night Whan the Messenger" />
-	<key id="30000017" name="Your Skype-hwan Decree" />
-	<key id="30000018" name="Les-Le-Ta-hwan Decree" />
+	<key id="30000016" name="Earth Lava Knight Whan the Messenger" />
+	<key id="30000017" name="Urska-hwan Decree" />
+	<key id="30000018" name="Lerta-hwan Decree" />
 	<key id="30000019" name="Monte de Carlo-hwan Decree" />
-	<key id="30000020" name="Phantom destroyers hwan Decree" />
+	<key id="30000020" name="Phantom Destroyer hwan Decree" />
 	<key id="31000001" name="Feng Feng bubbling" />
 	<key id="31000002" name="Snail" />
 	<key id="31000003" name="The summoned four pen tooth" />
@@ -2869,12 +2869,12 @@
 	<key id="32000802" name="Jaw ticket Sapa intern students" />
 	<key id="32000803" name="Jaw ticket Sapa Blackwood" />
 	<key id="32000901" name="Hy race" />
-	<key id="32001001" name="Twitter King slime" />
+	<key id="32001001" name="Twitter King Slime" />
 	<key id="32001101" name="Eaters toads" />
 	<key id="32001102" name="Nutritious larvae" />
 	<key id="32001103" name="Piquant spider" />
 	<key id="32001201" name="Bubble ruffle de" />
-	<key id="32001301" name="Sifu monkey" />
+	<key id="32001301" name="Thief Monkey" />
 	<key id="32001401" name="Reflections in the rain" />
 	<key id="32001501" name="Black roots-Ki" />
 	<key id="32001601" name="Jr. Boogie silence" />
@@ -3115,7 +3115,7 @@
 	<key id="81000002" name="Elite test Monster" />
 	<key id="81000003" name="Boss test Monster" />
 	<key id="82000001" name="Straw doll, skill videos captured" />
-	<key id="99000018" name="Foot rock" />
+	<key id="99000018" name="Balrog" />
 	<key id="99000019" name="Emma Xu Ming" />
 	<key id="99000020" name="Yes, pen tooth" />
 	<key id="99000021" name="X bottom gap" />
@@ -3129,8 +3129,8 @@
 	<key id="99000043" name="Feng Feng bubbling" />
 	<key id="99000044" name="Feng Feng slime" />
 	<key id="99000045" name="Pow Pow purple slime" />
-	<key id="99000055" name="Pampers easy Zombie Bots" />
-	<key id="99000056" name="King slime" />
+	<key id="99000055" name="Zombie Mushmom" />
+	<key id="99000056" name="King Slime" />
 	<key id="99000057" name="Feng Feng bubbling" />
 	<key id="99000058" name="3D contact us wards" />
 	<key id="99000059" name="Carabinieri crossbow bottle" />
@@ -3139,7 +3139,7 @@
 	<key id="99000062" name="Koh Volk" />
 	<key id="99000063" name="Pipe zombie" />
 	<key id="99000064" name="Rick General skeleton" />
-	<key id="99000065" name="Lever in zombies" />
+	<key id="99000065" name="Revenant Zombie" />
 	<key id="99000066" name="Gate" />
 	<key id="99000074" name="Rick skeleton Warrior" />
 	<key id="99000075" name="Poisonous gel lime" />
