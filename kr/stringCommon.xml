@@ -132,13 +132,13 @@
 	   <key id="s_err_lack_ep" value="You don't have enough EP."/>
 	   <key id="s_err_unable" value="The monument cannot be done when the hardwood."/>
 	   <key id="s_err_cannot_fly" value="You cannot use this while in combat."/>
-	   <key id="s_err_cannot_use_here" value="Here you&#8217;ll find is not available."/>
+	   <key id="s_err_cannot_use_here" value="This cannot be used here."/>
        <key id="s_err_cannot_use_dead" value="When you cannot make use of the monument floors."/>
        <key id="s_err_cannot_use_cooltime" value="You may not use this yet."/>
 	   <key id="s_err_cannot_use_only_shadowworld" value="Can only be used in Shadow World."/>
 	   <key id="s_err_require_additional_effect" value="Now it is not available."/>
 	   <key id="s_err_got_of_control_unable_potion" value="The monument floors when the potion is not available."/>
-	   <key id="s_err_skill_use_disable" value="Now it&#8217;s impossible to use the skill."/>
+	   <key id="s_err_skill_use_disable" value="Your skill has been sealed, rendering you unable to use it."/>
 
 	   <!-- [A special buff, buff strings] -->
 	   <key id="s_portal_invincible_effect_name" value="Coming out of the break in space"/>
