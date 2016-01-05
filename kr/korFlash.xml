@@ -1515,7 +1515,7 @@
   <key id="$s_blackmarket_dropdown_joball" value="All"/>
   <key id="$s_blackmarket_dropdown_notselect" value="No Options"/>
   
-  <key id="$s_blackmarket_notice_registeritem" value="Place the item to sell"/>
+  <key id="$s_blackmarket_notice_registeritem" value="Place an item to sell"/>
   <key id="$s_blackmarket_notice_close" value="You cannot use the warm-up period."/>
   <key id="$s_blackmarket_notice_disable_use_time" value="It's not time to use."/>
   
