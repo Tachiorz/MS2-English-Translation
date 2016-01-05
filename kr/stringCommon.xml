@@ -394,7 +394,7 @@
 	  <key id="s_guild_search_last_request" value="Please wait." />
 	  <key id="s_guild_search_null_join_guild_request" value="This application doesn't exist." />
 	  <key id="s_guild_notify_change_grade" value="&lt;FONT color='#ff8adf'&gt;{0} Change of Guild rating, and permissions.&lt;/FONT&gt;" /> <!--Listens for-->
-	  <key id="s_guild_notify_accept_invite" value="&lt;FONT color='#ff8adf'&gt;{0} The invitation of the {1} By the Guild to join.&lt;/FONT&gt;" /> <!--Listens for-->
+	  <key id="s_guild_notify_accept_invite" value="&lt;FONT color='#ff8adf'&gt;{0} has invited {1} to the guild.&lt;/FONT&gt;" /> <!--Listens for-->
 	  <key id="s_guild_notify_expel_member" value="&lt;FONT color='#ff8adf'&gt;{0} NI {1} Su was expelled from the Guild.&lt;/FONT&gt;" /> <!--Listens for-->
 	  <key id="s_guild_notify_expeled" value="&lt;FONT color='#ff8adf'&gt;Expelled from the Guild.&lt;/FONT&gt;" /><!--Listens for-->
 	  <key id="s_guild_notify_expeled_from" value="&lt;FONT color='#ff8adf'&gt;{0} I was expelled from the Guild Lord.&lt;/FONT&gt;" /><!--Listens for-->
