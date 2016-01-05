@@ -394,7 +394,7 @@
 	  <key id="s_guild_search_last_request" value="Please wait." />
 	  <key id="s_guild_search_null_join_guild_request" value="This application doesn't exist." />
 	  <key id="s_guild_notify_change_grade" value="&lt;FONT color='#ff8adf'&gt;{0} Change of Guild rating, and permissions.&lt;/FONT&gt;" /> <!--Listens for-->
-	  <key id="s_guild_notify_accept_invite" value="&lt;FONT color='#ff8adf'&gt;{0} has invited {1} to the guild.&lt;/FONT&gt;" /> <!--Listens for-->
+	  <key id="s_guild_notify_accept_invite" value="&lt;FONT color='#ff8adf'&gt;{0} The invitation of the {1} By the Guild to join.&lt;/FONT&gt;" /> <!--Listens for-->
 	  <key id="s_guild_notify_expel_member" value="&lt;FONT color='#ff8adf'&gt;{0} NI {1} Su was expelled from the Guild.&lt;/FONT&gt;" /> <!--Listens for-->
 	  <key id="s_guild_notify_expeled" value="&lt;FONT color='#ff8adf'&gt;Expelled from the Guild.&lt;/FONT&gt;" /><!--Listens for-->
 	  <key id="s_guild_notify_expeled_from" value="&lt;FONT color='#ff8adf'&gt;{0} I was expelled from the Guild Lord.&lt;/FONT&gt;" /><!--Listens for-->
@@ -1113,22 +1113,22 @@
   <key id="s_item_opt_sa_improve_piercing_mar_v" value="{0:d} Magic Defense Penetration"/>
   <key id="s_item_opt_sa_improve_piercing_mar_r" value="{0:0.1f}% Magic Defense Penetration"/>
 
-  <key id="s_item_opt_sa_reduce_elements_ice" value="Ice Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_ice" value="Reduced Ice Damage"/>
   <key id="s_item_opt_sa_reduce_elements_ice_v" value="{0:d} Reduced Ice Damage"/>
   <key id="s_item_opt_sa_reduce_elements_ice_r" value="-{0:0.1f}% Ice Damage"/>
-  <key id="s_item_opt_sa_reduce_elements_fire" value="Flame Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_fire" value="Reduced Flame Damage"/>
   <key id="s_item_opt_sa_reduce_elements_fire_v" value="{0:d} Reduced Flame Damage"/>
   <key id="s_item_opt_sa_reduce_elements_fire_r" value="-{0:0.1f}% Flame Damage"/>
-  <key id="s_item_opt_sa_reduce_elements_dark" value="Dark Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_dark" value="Reduced Dark Damage"/>
   <key id="s_item_opt_sa_reduce_elements_dark_v" value="{0:d} Reduced Dark Damage"/>
   <key id="s_item_opt_sa_reduce_elements_dark_r" value="-{0:0.1f}% Dark Damage"/>
-  <key id="s_item_opt_sa_reduce_elements_light" value="Holy Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_light" value="Reduced Holy Damage"/>
   <key id="s_item_opt_sa_reduce_elements_light_v" value="{0:d} Reduced Holy Damage"/>
   <key id="s_item_opt_sa_reduce_elements_light_r" value="-{0:0.1f}% Holy Damage"/>
-  <key id="s_item_opt_sa_reduce_elements_poison" value="Poison Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_poison" value="Reduced Poison Damage"/>
   <key id="s_item_opt_sa_reduce_elements_poison_v" value="{0:d} Reduced Poison Damage"/>
   <key id="s_item_opt_sa_reduce_elements_poison_r" value="-{0:0.1f}% Poison Damage"/>
-  <key id="s_item_opt_sa_reduce_elements_thunder" value="Lightning Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_thunder" value="Reduced Lightning Damage"/>
   <key id="s_item_opt_sa_reduce_elements_thunder_v" value="{0:d} Reduced Lightning Damage"/>
   <key id="s_item_opt_sa_reduce_elements_thunder_r" value="-{0:0.1f}% Lightning Damage"/>
 
@@ -2161,9 +2161,9 @@
   <key id="s_system_get_item" value="&lt;FONT color='#{0:x}'&gt;{1} Item drop&lt;/FONT&gt;"/>
 
   <!--UGC Construction-->
-  <key id="s_mainplayinfo_build_count" value="&lt;font size='15'&gt;The number of buildings that can be placed : &lt;/font&gt;&lt;FONT size='15' color='#FFB400'&gt;{0}&lt;/FONT&gt;&lt;font size='15'&gt;/{1}&lt;/FONT&gt;"/> <!--If you have an outdoor grounds, outdoor construction mode, the display-->
-  <key id="s_mainplayinfo_maid_count" value="&lt;font size='15'&gt; Can be made that can be placed : &lt;/font&gt;&lt;FONT size='15' color='#FFB400'&gt;{0}&lt;/FONT&gt;&lt;font size='15'&gt;/{1}&lt;/FONT&gt;"/>
-  <key id="s_mainplayinfo_trigger_count" value="&lt;font size='15'&gt; The number of the controller triggers that can be placed : &lt;/font&gt;&lt;FONT size='15' color='#FFB400'&gt;{0}&lt;/FONT&gt;&lt;font size='15'&gt;/{1}&lt;/FONT&gt;"/>
+  <key id="s_mainplayinfo_build_count" value="&lt;font size='15'&gt;Building Count : &lt;/font&gt;&lt;FONT size='15' color='#FFB400'&gt;{0}&lt;/FONT&gt;&lt;font size='15'&gt;/{1}&lt;/FONT&gt;"/> <!--If you have an outdoor grounds, outdoor construction mode, the display-->
+  <key id="s_mainplayinfo_maid_count" value="&lt;font size='15'&gt; Maid Count : &lt;/font&gt;&lt;FONT size='15' color='#FFB400'&gt;{0}&lt;/FONT&gt;&lt;font size='15'&gt;/{1}&lt;/FONT&gt;"/>
+  <key id="s_mainplayinfo_trigger_count" value="&lt;font size='15'&gt; Trigger Count: &lt;/font&gt;&lt;FONT size='15' color='#FFB400'&gt;{0}&lt;/FONT&gt;&lt;font size='15'&gt;/{1}&lt;/FONT&gt;"/>
 
   <!--Container box-->
   <key id="s_warehouse_timeleft_day_normal" value="{0} days remaining"/>
