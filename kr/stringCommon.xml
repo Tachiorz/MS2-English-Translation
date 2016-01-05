@@ -60,12 +60,12 @@
    <key id="s_msg_item_upgrade_failed" value="The Dim light and the main article is gone."/>
    <key id="s_msg_item_upgrade_complete" value="The main article has been handed a mysterious force is a brightly shining."/>
    <key id="s_msg_item_default" value="Are you sure you want to use the item (s)?"/>
-   <key id="s_msg_item_open_item_box" value="Are you sure you want to use the item (s)?\nIf you are full of items will be mailed."/>
+   <key id="s_msg_item_open_item_box" value="Do you want to use this item?\nIf your inventory is full, you will be mailed."/>
    <key id="s_msg_item_use_name" value="[{0}]Are you sure you want to use?"/>
-   <key id="s_msg_expand_inven_complete" value="The window has been extended to provide support for your belongings." />
-   <key id="s_msg_expand_inven_already_maximum" value="No more belongings window cannot be extended." />
-   <key id="s_msg_expand_character_slot_complete" value="Character slot has been extended." />
-   <key id="s_msg_expand_character_slot_already_maximum" value="No more character slots cannot be extended." />
+   <key id="s_msg_expand_inven_complete" value="Your inventory has been expanded." />
+   <key id="s_msg_expand_inven_already_maximum" value="Your inventory cannot be expanded anymore." />
+   <key id="s_msg_expand_character_slot_complete" value="A character slot has been added." />
+   <key id="s_msg_expand_character_slot_already_maximum" value="No more character slots can be added." />
    
    <key id="s_err_lack_guild_trophy" value="You don't have a Guild trophy." />
    <key id="s_err_lack_achieve" value="You must have the [{0}] trophy achieved." />
@@ -2304,7 +2304,7 @@
 
   <!-- The game menu, ToolTip -->
   <key id="s_tooltip_gamemenu_userinfo" value="&lt;FONT color='#FFD200' size='15' &gt;Character information {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can see the information of my character.\nCheck out a worn items and stats information." />   <!--P-->
-  <key id="s_tooltip_gamemenu_inven" value="&lt;FONT color='#FFD200' size='15' &gt;Belongings {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMy character is the\nYou can see the items."/><!--I-->
+  <key id="s_tooltip_gamemenu_inven" value="&lt;FONT color='#FFD200' size='15' &gt;Inventory {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMy character is the\nYou can see the items."/><!--I-->
   <key id="s_tooltip_gamemenu_skillbook" value="&lt;FONT color='#FFD200' size='15' &gt;Skill {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMy character is a learned skill and\nCan be mounted on the quick slot."/><!--K-->
   <key id="s_tooltip_gamemenu_quest" value="&lt;FONT color='#FFD200' size='15' &gt;Quest information {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nOnce you have completed the quest list and I have received\nQuest information."/><!--L-->
   <key id="s_tooltip_gamemenu_acheivement" value="&lt;FONT color='#FFD200' size='15' &gt;Trophy {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMy character&#8217;s activities.\nYou can achieve a record trophy and may receive compensation."/><!--Y-->
@@ -2314,8 +2314,8 @@
   <key id="s_tooltip_gamemenu_ugc_shop" value="&lt;FONT color='#FFD200' size='15' &gt;Merit market {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nExclusive special items on sale is a premium shop and\nThe design of the items to other players on sale\nDesigner&#8217;s shop."/><!--N-->
   <key id="s_tooltip_gamemenu_gameoption" value="&lt;FONT color='#FFD200' size='15' &gt;Game menu [ESC]&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nChannel selection, preferences, select the characters, the game ends\nI can."/><!--ESC-->
   <key id="s_tooltip_gamemenu_guild" value="&lt;FONT color='#FFD200' size='15' &gt;Guild {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nI am a Guild information \nYou can check."/><!--G-->
-  <key id="s_tooltip_gamemenu_maview" value="&lt;FONT color='#FFD200' size='15' &gt;Mei views {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nNews, maps, real estate, encyclopedia, rank, etc. \nMapleStory 2 more fun \nThe information that can help you enjoy \nYou can see it. "/><!--V-->
-  <key id="s_tooltip_gamemenu_cashshop" value="&lt;FONT color='#FFD200' size='15' &gt;The cache shop {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn the cache shop NEXON cache\nYou can purchase the item."/>
+  <key id="s_tooltip_gamemenu_maview" value="&lt;FONT color='#FFD200' size='15' &gt;Maview {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nNews, maps, real estate, encyclopedia, rank, etc. \nMapleStory 2 more fun \nThe information that can help you enjoy \nYou can see it. "/><!--V-->
+  <key id="s_tooltip_gamemenu_cashshop" value="&lt;FONT color='#FFD200' size='15' &gt;Cash Shop {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn the cash shop NEXON cache\nYou can purchase the item."/>
   <key id="s_tooltip_gamemenu_partysearch" value="&lt;FONT color='#FFD200' size='15' &gt;Find a party {0}&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nFind a party with \nAdventure Group colleague."/>
 
   <key id="s_chat_restrict_samechat" value="Enter the number of words, such as {0}Seconds, and local/Channel/World/You cannot chat with a whisper. (Paper warning : 1Times)"/>
@@ -2706,8 +2706,8 @@
   <key id="s_meratmarket_priceday_limitless" value="Unlimited"/>
 
   <!-- Cash Shop -->
-  <key id="s_cashshop_invenpickup" value="&lt;FONT color='#FF5F5F' size='15' &gt;After you have moved into your belongings that cannot be reversed.&lt;/FONT&gt;\n&lt;FONT color='#FFFFFF' size='15' &gt;Are you sure you want to move this item to your belongings?&lt;/font&gt;"/>
-  <key id="s_cashshop_invenpickup_refund" value="&lt;FONT color='#FF5F5F' size='15' &gt;After you have moved into your belongings that cannot be reversed.&lt;/FONT&gt;\n&lt;FONT color='#FFFFFF' size='15' &gt;Are you sure you want to move this item to your belongings?&lt;/font&gt;"/>
+  <key id="s_cashshop_invenpickup" value="&lt;FONT color='#FF5F5F' size='15' &gt;You will not be able to move this item back to the cash storage.&lt;/FONT&gt;\n&lt;FONT color='#FFFFFF' size='15' &gt;Are you sure you want to move this item to your inventory?&lt;/font&gt;"/>
+  <key id="s_cashshop_invenpickup_refund" value="&lt;FONT color='#FF5F5F' size='15' &gt;You will not be able to move this item back to the cash storage.&lt;/FONT&gt;\n&lt;FONT color='#FFFFFF' size='15' &gt;Are you sure you want to move this item to your inventory?&lt;/font&gt;"/>
   <key id="s_cashshop_refund" value="\nAmong the items purchased directly from the cache is stored in a warehouse &lt;FONT color='#FF5F5F' size='15' &gt;Within 7 days after purchase&lt;/font&gt;In &lt;FONT color='#FF5F5F' size='15' &gt;Cancellation of contract&lt;/font&gt;You can do it. \n&lt;FONT color='#C0C0C0' size='15' &gt;(However, there is no 'undo' when you apply for cancellation of contract\nPlease think carefully.)&lt;/font&gt;\n\nIt&#8217;s really &lt;FONT color='#FF5F5F' size='15' &gt;Cancellation of contract&lt;/font&gt;Are you sure you want to apply for?\n\n"/>
   <key id="s_cashshop_lack_balance" value="Balance is lacking."/>
   <key id="s_cashshop_expand_inven_warning" value="The character is no longer personal effects window\nCannot be extended.\nAre you sure you want to buy a franchise expand the window your belongings?"/>
@@ -2724,13 +2724,13 @@
   <!--Cash Shop Errors-->
   <key id="s_cashshop_error_unknown" value="System error. [protocol:{0}, code:{1}]"/>
   <!--Below is a pop-->
-  <key id="s_cashshop_err_closed" value="The cache shop is not available."/>
+  <key id="s_cashshop_err_closed" value="Cash Shop is not available."/>
   <key id="s_cashshop_err_disconnect" value="The cache server and the connection is terminated. Please try again after a while."/>
-  <key id="s_cashshop_err_not_ready_product" value="To initialize the cache shop."/>
+  <key id="s_cashshop_err_not_ready_product" value="Reset the Cash Shop."/>
   <key id="s_cashshop_err_invalid_gift_name" value="Is the name of a character that does not exist.\nPlease check back the name of the character."/>
   <key id="s_cashshop_err_same_account" value="You can&#8217;t make a gift to yourself."/>
   <key id="s_cashshop_err_no_empty_slot" value="Belongings are full.\nPlease empty your belongings."/>
-  <key id="s_cashshop_err_not_purchase_date" value="I can&#8217;t buy a period.\nOpen the cache shop again."/> <!--[code = 2]-->
+  <key id="s_cashshop_err_not_purchase_date" value="Purchases cannot be made during this period.\nRe-open the Cash Shop."/> <!--[code = 2]-->
   <key id="s_cashshop_err_cannot_gift_product" value="This item is a gift."/>
   <key id="s_cashshop_err_cannot_refund_product" value="This item was not able to make a withdrawal."/>
   <key id="s_cashshop_err_null_cash_product_data" value="The item is not valid.\n"/>
@@ -2739,7 +2739,7 @@
 
   <key id="s_cashshop_err_balance_unknown" value="It is now not available. After a while back. [code = {0}]"/>
   <key id="s_cashshop_err_balance_block_user" value="Is a disabled account.\nYou cannot use."/>
-  <key id="s_cashshop_err_balance_maintenance" value="Check the cache shop. After a while back."/>
+  <key id="s_cashshop_err_balance_maintenance" value="Check the cash shop. After a while back."/>
   <key id="s_cashshop_err_balance_notfind_user" value="I can&#8217;t find any information.\nHome page 1:1Please feel free to contact us."/>
 
   <key id="s_cashshop_err_purchase_unknown" value="An error occurred when you order the item. [code={0}]"/>
@@ -2747,9 +2747,9 @@
   <key id="s_cashshop_err_purchase_sale_count_over" value="You have exceeded the maximum number that can be purchased."/>
   <key id="s_cashshop_err_purchase_invalid_game" value="Cache-restricted account.\nHome page 1:1Please feel free to contact us."/>
   <key id="s_cashshop_err_purchase_invalid_gift_product" value="This item is a gift."/>
-  <key id="s_cashshop_err_purchase_maintenance" value="Check the cache shop. After a while back."/>
+  <key id="s_cashshop_err_purchase_maintenance" value="Check the cash shop. After a while back."/>
   <key id="s_cashshop_err_purchase_lock_cashuse" value="The lock is enabled, the cache cannot be purchased.\nAre you sure you want to unlock the cache?"/>
-  <key id="s_cashshop_err_purchase_block_user" value="This use ceased in the cache shop account.\nHome page 1:1Please feel free to contact us."/>
+  <key id="s_cashshop_err_purchase_block_user" value="This use ceased in the cash shop account.\nHome page 1:1Please feel free to contact us."/>
   <key id="s_cashshop_err_purchase_notfind_user" value="I can&#8217;t find any information.\nHome page 1:1Please feel free to contact us."/>
   <key id="s_cashshop_err_purchase_lack_balance" value="The lack of balance in the cache.\nPlease use the cache after a recharge NEXON."/>
   <key id="s_cashshop_err_purchase_invalid_cash_date" value="Obsoletion cache.\nHome page 1:1Please feel free to contact us."/>
@@ -2758,12 +2758,12 @@
   <key id="s_cashshop_err_purchase_limit_purchase" value="This month I bought the item the cache limit has been exceeded."/>
 
   <key id="s_cashshop_err_inventory_inquiry_unknown" value="It is now not available. After a while back. [code={0}]"/>
-  <key id="s_cashshop_err_inventory_inquiry_maintenance" value="Check the cache shop. After a while back."/>
+  <key id="s_cashshop_err_inventory_inquiry_maintenance" value="Check the cash shop. After a while back."/>
 
   <key id="s_cashshop_err_inventory_pickup_unknown" value="To transfer your belongings at a warehouse of the cache error occurred during. [code{0}]"/>
   <key id="s_cashshop_err_inventory_pickup_no_inventory" value="Does not exist in the cache.\nPlease check the item back to the cache of the warehouse.\n"/>
   <key id="s_cashshop_err_inventory_pickup_lackcount" value="The quantity of items in the cache.\nPlease check the item back to the cache of the warehouse."/>
-  <key id="s_cashshop_err_inventory_pickup_maintenance" value="Check the cache shop. After a while back."/>
+  <key id="s_cashshop_err_inventory_pickup_maintenance" value="Check the cash shop. After a while back."/>
 
   <key id="s_cashshop_err_refund_unknown" value="Cancellation failed. Home page 1:1Please feel free to contact us. [code={0}]"/>
   <key id="s_cashshop_err_refund_disable_refund" value="Cancellation can not."/>
@@ -2803,8 +2803,8 @@
   <key id="s_gem_error_unknown" value="System Error."/>
 
   <key id="s_room_exit_ugc_indoor" value="Get out of the House"/>
-  <key id="s_room_exit_boss_dungeon" value="Out in the Dunne"/>
-  <key id="s_room_exit_party_dungeon" value="Out in the Dunne"/>
+  <key id="s_room_exit_boss_dungeon" value="Leave Dungeon"/>
+  <key id="s_room_exit_party_dungeon" value="Leave Dungeon"/>
   <key id="s_room_exit_bonus" value="To get out amongst the space"/>
   <key id="s_room_exit_massive_event" value="Event to give"/>
   <key id="s_room_exit_pvp_zone" value="Leave the battlefield"/>
@@ -2819,7 +2819,7 @@
   <key id="s_room_exit_msg_pvp_field" value="&lt;FONT color='#FF5F5F'&gt;10After a few seconds, it automatically moves the Maple world.&lt;/font&gt;"/>
 
   <key id="s_itemlink_meratmarket" value="[Merit market: {0}]"/>
-  <key id="s_itemlink_cashshop" value="[The cache shop : {0}]"/>
+  <key id="s_itemlink_cashshop" value="[The cash shop : {0}]"/>
   <key id="s_waitingticket_message" value="The garden has been exceeded.\nCurrently, waitlists: {0}"/>
   <key id="s_waitingticket_cancel" value="Wait cancelled"/>
 
