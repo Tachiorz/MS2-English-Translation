@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<key id="1001" name="Editor&#8217;s recommended products"/>
-	<key id="1002" name="Full"/>
+	<key id="1001" name="Recommended"/>
+	<key id="1002" name="All"/>
   
-	<key id="1003" name="Full"/>
+	<key id="1003" name="All"/>
 	<key id="1004" name="Equipment"/>
-	<key id="1005" name="Full"/>
+	<key id="1005" name="All"/>
 	<key id="1006" name="Construction"/>
-	<key id="1007" name="Full"/>
-	<key id="1008" name="Materials"/>
-	<key id="1009" name="Mounts"/>	
-	<key id="1010" name="Other"/>
+	<key id="1007" name="All"/>
+	<key id="1008" name="Material"/>
+	<key id="1009" name="Mount"/>	
+	<key id="1010" name="ETC"/>
 	
-   	<key id="2000" name="Suite"/> 
-	<key id="2001" name="Costumes"/>
-	<key id="2002" name="Of the"/>
-	<key id="2003" name="Cap"/>
-	<key id="2004" name="Capes"/>
+   	<key id="2000" name="Overall"/> 
+	<key id="2001" name="Top"/>
+	<key id="2002" name="Bottom"/>
+	<key id="2003" name="Hat"/>
+	<key id="2004" name="Cape"/>
 	<key id="2005" name="Shoes"/>
 	<key id="2006" name="Gloves"/>
-	<key id="2007" name="Face decorations"/>
-	<key id="2008" name="Eye decor"/>  
+	<key id="2007" name="Face Decoration"/>
+	<key id="2008" name="Eye Decoration"/>  
 	<key id="2009" name="Earrings"/>
 	<key id="2010" name="Necklace"/>
 	<key id="2011" name="Ring"/>  
-	<key id="2012" name="One-hand weapon"/>  
-	<key id="2013" name="Two-handed weapons"/>
-	<key id="2014" name="Accessories"/>
+	<key id="2012" name="One-handed Weapon"/>  
+	<key id="2013" name="Two-handed Weapon"/>
+	<key id="2014" name="Secondary Weapon"/>
 	<key id="2015" name="Potion"/>
-	<key id="2016" name="Design costume"/>
-	<key id="2017" name="Weapons"/>
+	<key id="2016" name="Design Costume"/>
+	<key id="2017" name="Weapon"/>
 	<key id="2018" name="Armor"/>
-	<key id="2019" name="Dairy products"/>
-	<key id="2020" name="Fruit juice"/>
+	<key id="2019" name="Daily Supplies"/>
+	<key id="2020" name="Fruit Juice"/>
 	<key id="2021" name="Lee Keith Brook"/>	
-	<key id="2022" name="Cool furniture"/>		
+	<key id="2022" name="Cool Furniture"/>		
 	<key id="2023" name="Belt"/>		
-	<key id="2024" name="Weapons"/>		
-	<key id="2025" name="Accessories"/>
-	<key id="2026" name="Skill in the North"/>			
+	<key id="2024" name="Weapon"/>		
+	<key id="2025" name="Accessory"/>
+	<key id="2026" name="Skillbook"/>			
 	<key id="2027" name="Snack"/>			
 	<key id="2028" name="Toy"/>
-	<key id="2029" name="Rooting supplies"/>
-	<key id="2030" name="Special skin"/>				
+	<key id="2029" name="Support Supplies"/>
+	<key id="2030" name="Special Skin"/>				
 	<key id="2031" name="Skin"/>		
 	<key id="2032" name="Snack"/>			
 	<key id="2033" name="Barbecue"/>				
 	<key id="2034" name="Smoothie"/>	
-	<key id="2035" name="Luxury dining"/>	
-	<key id="2036" name="Juicy fruit"/>		
+	<key id="2035" name="Luxury Dining"/>	
+	<key id="2036" name="Sweet Fruit"/>		
 	<key id="2037" name="Swimwear"/>
-	<key id="2038" name="Special costumes"/>
+	<key id="2038" name="Special Costume"/>
 	
 	<key id="2040" name="Car"/>
 	<key id="2041" name="Monster"/>
 
-	<key id="2042" name="Craft materials"/>
-	<key id="2043" name="Ingredients"/>
-	<key id="2044" name="Annuity materials"/>
-	<key id="2045" name="Other material"/>
+	<key id="2042" name="Handicraft Material"/>
+	<key id="2043" name="Ingredient"/>
+	<key id="2044" name="Pension Material"/>
+	<key id="2045" name="ETC Material"/>
 	
-	<key id="2050" name="Photos"/>
-	<key id="2051" name="Maple comics"/>
+	<key id="2050" name="Photo Book"/>
+	<key id="2051" name="Maple Comic"/>
 	
-	<key id="2060" name="Hall of weapons"/>
-	<key id="2061" name="Hall of armor"/>
-	<key id="2062" name="Honor mounts"/>
+	<key id="2060" name="Honor Weapon"/>
+	<key id="2061" name="Honor Armor"/>
+	<key id="2062" name="Honor Mount"/>
 	
-	<key id="2070" name="Karma skins"/>
-	<key id="2071" name="Karma weapons"/>
-	<key id="2072" name="Karma armor"/>
-	<key id="2073" name="Karma mounts"/>
+	<key id="2070" name="Karma Skins"/>
+	<key id="2071" name="Karma Weapon"/>
+	<key id="2072" name="Karma Armor"/>
+	<key id="2073" name="Karma Mount"/>
 
-	<key id="2074" name="Design source"/>
+	<key id="2074" name="Blank Design"/>
 	<key id="2075" name="Mannequin"/>	
 
-	<key id="2076" name="Special weapons"/>
-	<key id="2077" name="Event merchandise"/>	
+	<key id="2076" name="Special Weapon"/>
+	<key id="2077" name="Event Merchandise"/>	
 	
-	<key id="2078" name="Minerals"/>	
+	<key id="2078" name="Mineral"/>	
 	<key id="2079" name="Instrument"/>	
-	<key id="2080" name="Sheet music"/>
-	<key id="2081" name="Fishing tackle"/>
+	<key id="2080" name="Musical Score"/>
+	<key id="2081" name="Fishing Tool"/>
 
-	<key id="3000" name="Decorative building"/>
+	<key id="3000" name="Decorative Building"/>
 	<key id="3001" name="Terrain"/>
-	<key id="3002" name="Interior props"/>
+	<key id="3002" name="Interior Accessory"/>
 	<key id="3003" name="Fitting the stone"/>
-	<key id="3004" name="Mounts"/>
-	<key id="3005" name="Souvenirs"/>	
-	<key id="3006" name="In-room safe"/>	
-	<key id="3007" name="Monster box"/>
+	<key id="3004" name="Mount"/>
+	<key id="3005" name="Souvenir"/>	
+	<key id="3006" name="Safe"/>	
+	<key id="3007" name="Monster Box"/>
 	<key id="3008" name="Specialty products"/>
 	<key id="3009" name="Life, home appliances"/>
 	<key id="3010" name="Wood"/>
-	<key id="3011" name="Grass, flowers, mushrooms"/>
+	<key id="3011" name="Grass, Flowers, Mushrooms"/>
 	<key id="3012" name="Stairs to the cube"/>
-	<key id="3013" name="Unusual items"/>
-	<key id="3014" name="Souvenirs"/>	
+	<key id="3013" name="Unusual Item"/>
+	<key id="3014" name="Souvenir"/>	
 	<key id="3015" name="Action course steam"/>
 	<key id="3016" name="En Pilar"/>
 	<key id="3017" name="Beauty coupons"/>		
 	<key id="3018" name="Mannequin"/>
-	<key id="3019" name="Monster mounts"/>			
-	<key id="3020" name="Utility library"/>			
+	<key id="3019" name="Monster Mount"/>			
+	<key id="3020" name="Versatile Storage Box"/>			
 	<key id="3021" name="Retractable furniture"/>
 	<key id="3022" name="Indoors buildings"/>	
 	<key id="3023" name="Outdoor package"/>			
@@ -114,10 +114,10 @@
 	<key id="3028" name="Cube"/>	
 	<key id="3029" name="Deco"/>		
 
-	<key id="3030" name="Authoring tools"/>	
-	<key id="3031" name="Craft tools"/>
-	<key id="3032" name="Pension tools"/>
-	<key id="3033" name="Cooking tools"/>	
+	<key id="3030" name="Crafting Tools"/>	
+	<key id="3031" name="Handicraft Tools"/>
+	<key id="3032" name="Pension Tools"/>
+	<key id="3033" name="Cooking Tools"/>	
 	
 	<key id="9001" name="Assembled building"/>	
 	<key id="9002" name="A single-layer building"/>	
@@ -133,9 +133,9 @@
 	<key id="9012" name="DIY"/>	
 
 	
-	<key id="9100" name="1Floor"/>		
-	<key id="9101" name="Mezzanine"/>		
-	<key id="9102" name="The rooftop"/>		
+	<key id="9100" name="1F"/>		
+	<key id="9101" name="Middle"/>		
+	<key id="9102" name="Roof"/>		
 
 	<key id="9103" name="Inside the fault"/>		
 	<key id="9104" name="Decorating ideas for a single-layer building"/>		
@@ -182,7 +182,7 @@
 	
 
 	
-	<key id="9138" name="Mannequin, library"/>	
+	<key id="9138" name="Mannequin, Storage Box"/>	
 	<key id="9139" name="Integration library"/>
 	<key id="9140" name="Private lockers"/>	
 	<key id="9141" name="Basic materials"/>	
@@ -208,25 +208,25 @@
 	<key id="9166" name="Interior construction volumes"/>	
 
 	<key id="9161" name="Maid employment"/>
-	<key id="9162" name="Use coupon"/>
+	<key id="9162" name="Use Coupon"/>
 
-  <key id="9163" name="The right hand weapon" />
-  <key id="9164" name="The left-handed weapons" />
-  <key id="9165" name="Two-handed weapons" />
+  <key id="9163" name="Right-handed Weapon" />
+  <key id="9164" name="Left-handed Weapon" />
+  <key id="9165" name="Two-handed Weapon" />
 
-  <key id="9900" name="Men&#8217;s clothing" />
-	<key id="9901" name="Women&#8217;s clothing" />
-	<key id="9902" name="Unisex public clothing" />
-	<key id="9903" name="Design cube" />
-	<key id="9904" name="Design mounts" />
+  <key id="9900" name="Male Clothing" />
+	<key id="9901" name="Female Clothing" />
+	<key id="9902" name="Unisex Clothing" />
+	<key id="9903" name="Design Cube" />
+	<key id="9904" name="Design Mount" />
 
-  <key id="9904" name="The event caps" />
-  <key id="9905" name="Christmas props" />
-  <key id="9907" name="Event mounts" /> 
-  <key id="9906" name="Santa Papa&#8217;s favorite" />
-  <key id="9908" name="Santa Papa&#8217;s snacks" />
+  <key id="9904" name="Event Hat" />
+  <key id="9905" name="Christmas Accessory" />
+  <key id="9907" name="Event Mount" /> 
+  <key id="9906" name="Santa Papa's Favorites" />
+  <key id="9908" name="Santa Papa's Snack" />
 
-  <key id="9999" name="★ Featured"/>	
+  <key id="9999" name="★ Recommended"/>	
 	<key id="10000" name="Package"/>
 
 
@@ -235,105 +235,104 @@
 
   <!--Black market categories-->
 	
-	<key id="31000" name="Weapons" />		
+	<key id="31000" name="Weapon" />		
 	<key id="31130" name="Blunt" />		
 	<key id="31131" name="Dagger" />		
-	<key id="31132" name="Long sword" />	
-	<key id="31133" name="Hall" />		
-	<key id="31134" name="Citation" />		
-	<key id="31150" name="Large sword" />	
+	<key id="31132" name="Long Sword" />	
+	<key id="31133" name="Scepter" />		
+	<key id="31134" name="Throwing Star" />		
+	<key id="31150" name="Large Sword" />	
 	<key id="31151" name="Bow" />		
 	<key id="31152" name="Staff" />	
-	<key id="31153" name="Canon" />		
+	<key id="31153" name="Cannon" />		
 	<key id="31154" name="Blade" />	
 
-	<key id="32000" name="Secondary weapon" />	
-	<key id="32140" name="Code" />	
+	<key id="32000" name="Secondary Weapon" />	
+	<key id="32140" name="Spellbook" />	
 	<key id="32141" name="Shield" />	
 	
 	<key id="33000" name="Armor" />	
-	<key id="33122" name="Suite" />	
-	<key id="33114" name="Costumes" />		
-	<key id="33115" name="Of the" />		
-	<key id="33113" name="Cap" />		
-	<key id="33118" name="Capes" />		
+	<key id="33122" name="Overall" />	
+	<key id="33114" name="Top" />		
+	<key id="33115" name="Bottom" />		
+	<key id="33113" name="Hat" />		
+	<key id="33118" name="Cape" />		
 	<key id="33117" name="Shoes" />		
 	<key id="33116" name="Gloves" />		
 	<key id="33121" name="Belt" />		
 	
-	<key id="34000" name="Accessories" />	
+	<key id="34000" name="Accessory" />	
 	<key id="34112" name="Earrings" />	
 	<key id="34119" name="Necklace" />	
 	<key id="34120" name="Ring" />		
 	
 	<key id="35000" name="Skin" />		
-	<key id="35122" name="Suite" />	
-	<key id="35114" name="Costumes" />		
-	<key id="35115" name="Of the" />		
-	<key id="35113" name="Cap" />		
-	<key id="35118" name="Capes" />		
+	<key id="35122" name="Overall" />	
+	<key id="35114" name="Top" />		
+	<key id="35115" name="Bottom" />		
+	<key id="35113" name="Hat" />		
+	<key id="35118" name="Cape" />		
 	<key id="35117" name="Shoes" />		
 	<key id="35116" name="Gloves" />		
-	<key id="35110" name="Face decorations" />	
-	<key id="35111" name="Eye decor" />	
+	<key id="35110" name="Face Decoration" />	
+	<key id="35111" name="Eye Decoration" />	
 	<key id="35112" name="Earrings" />	
-	<key id="36000" name="Weapons" />		
+	<key id="36000" name="Weapon" />		
 
 	
 	<key id="37000" name="Construction" />		
 	<key id="37010" name="Terrain" />		
 	<key id="37011" name="Building" />		
 	<key id="37012" name="Deco" />		
-	<key id="37013" name="Souvenirs" />	
+	<key id="37013" name="Souvenir" />	
 	<key id="37015" name="Mannequin" />	
-	<key id="37016" name="Archive" />	
+	<key id="37016" name="Storage Box" />	
 	<key id="37017" name="Controller" />	
 	<key id="37018" name="Package" />
-	<key id="37019" name="Construction books" />
+	<key id="37019" name="Construction Book" />
 	
-	<key id="38000" name="Skill in the North" />	
+	<key id="38000" name="Skillbook" />	
 	<key id="38004" name="Active" />	
 	<key id="38005" name="Passive" />	
 	<key id="38019" name="Action" />		
 	
-	<key id="39000" name="Apart from that," />		
+	<key id="39000" name="Other" />		
 	<key id="39006" name="Potion" />		
-	<key id="39014" name="Mounts" />		
+	<key id="39014" name="Mount" />		
 	<key id="39008" name="Action" />		
-	<key id="39021" name="The storybook" />	
-	<key id="39009" name="Other" />	
-	<key id="39010" name="Full" />		
+	<key id="39021" name="Storybook" />	
+	<key id="39009" name="ETC" />	
+	<key id="39010" name="All" />		
 
 <!--Premium shop-->
-	<key id="40000" name="Design source" />		
-	<key id="40001" name="Specials on sale" />		
+	<key id="40000" name="Blank Design" />		
+	<key id="40001" name="Special Sale" />		
 	<key id="40002" name="Construction" />
 		
-	<key id="40100" name="Skin armor"/>
-	<key id="40101" name="Accessories" />	
-	<key id="40104" name="Cap" />	
-	<key id="40105" name="Suite" />	
-	<key id="40106" name="Costumes" />	
-	<key id="40107" name="Of the" />		
+	<key id="40100" name="Skin Armor"/>
+	<key id="40101" name="Accessory" />	
+	<key id="40104" name="Hat" />	
+	<key id="40105" name="Overall" />	
+	<key id="40106" name="Top" />	
+	<key id="40107" name="Bottom" />		
 	<key id="40108" name="Shoes" />		
 	<key id="40109" name="Gloves" />			
-	<key id="40110" name="Capes" />		
-	<key id="40200" name="Skins weapons" />	
-	<key id="40201" name="The right hand weapon" />	
-	<key id="40202" name="The left-handed weapons" />	
-	<key id="40203" name="Two-handed weapons" />	
+	<key id="40110" name="Cape" />		
+	<key id="40200" name="Skin Weapon" />	
+	<key id="40201" name="Right-handed Weapon" />	
+	<key id="40202" name="Left-handed Weapon" />	
+	<key id="40203" name="Two-handed Weapon" />	
 	
 	<key id="40300" name="Construction" />	
 	<key id="40301" name="General" />	
-	<key id="40302" name="Installation equipment" />	
-	<key id="40400" name="Archive" />	
+	<key id="40302" name="Install Equipment" />	
+	<key id="40400" name="Storage Box" />	
 	<key id="40500" name="Maid" />	
 	<key id="40600" name="Mannequin" />	
-	<key id="40700" name="Mounts" />	
-	<key id="40800" name="Action course steam" />	
-	<key id="40900" name="Action skill North" />		
-	<key id="41000" name="Consumption, etc." />
+	<key id="40700" name="Mount" />	
+	<key id="40800" name="Action Emote" />	
+	<key id="40900" name="Action Skillbook" />		
+	<key id="41000" name="Consume, ETC" />
 	<key id="41100" name="Badge" />
 	
 	</ms2>
-
