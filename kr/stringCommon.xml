@@ -589,21 +589,21 @@
 	  <key id="s_whisper_err_target" value="Wrong target." />
 
 	  <!-- [Operators sanctions] -->
-	  <key id="s_admin_block_velma_notice" value="Velma&#8217;s judgment while being unable to do. Velma&#8217;s judgment is {0:04d}Years {1}- {2}Days {3:02d}: {4:02d}Min. {5:02d}Candles will last up to."/>
+	  <key id="s_admin_block_velma_notice" value="Velma&#8217;s judgment while being unable to do. Velma&#8217;s judgment is {0:04d} {1}- {2} {3:02d}: {4:02d}m {5:02d}Candles will last up to."/>
 	  <key id="s_admin_block_velma_notice_chat" value="Velma&#8217;s judgment while being unable to chat."/>
 	  <key id="s_admin_block_velma_add" value="Bell received a punishment of the referee."/>
 	  <key id="s_admin_block_velma_endtime_dec" value="Velma&#8217;s judgment time {0}SEC has been reduced."/>
 	  <key id="s_admin_block_velma_msgbox_title" value="Velma&#8217;s ref Guide"/>
-	  <key id="s_admin_block_velma_msgbox_content" value="Velma feature limited to the judgment of the State.\n\n[Sanction period]\n{0:04d}Years {1}- {2}Days {3:02d}: {4:02d}Min. {5:02d}Seconds ~ {6:04d}Years {7}- {8}Days {9:02d}: {10:02d}Min. {11:02d}Seconds\n\n[Reason for sanctions]\n{12}"/>
+	  <key id="s_admin_block_velma_msgbox_content" value="Velma feature limited to the judgment of the State.\n\n[Sanction period]\n{0:04d} {1}- {2} {3:02d}: {4:02d}m {5:02d}s ~ {6:04d} {7}- {8} {9:02d}: {10:02d}m {11:02d}s\n\n[Reason for sanctions]\n{12}"/>
 
-	  <key id="s_admin_block_velma_ugc_notice" value="Velma&#8217;s warning not to do while getting action. Velma&#8217;s warnings {0:04d}Years {1}- {2}Days {3:02d}: {4:02d}Min. {5:02d}Candles will last up to."/>
+	  <key id="s_admin_block_velma_ugc_notice" value="Velma&#8217;s warning not to do while getting action. Velma&#8217;s warnings {0:04d} {1}- {2} {3:02d}: {4:02d}m {5:02d}Candles will last up to."/>
 	  <key id="s_admin_block_velma_ugc_add" value="Bell received the punishment as a warning of."/>
 	  <key id="s_admin_block_velma_ugc_endtime_dec" value="Velma&#8217;s warning time {0}SEC has been reduced."/>
 	  <key id="s_admin_block_velma_ugc_msgbox_title" value="Velma&#8217;s warning Guide"/>
-	  <key id="s_admin_block_velma_ugc_msgbox_content" value="Velma feature limited as a warning of the State.\n\n[Sanction period]\n{0:04d}Years {1}- {2}Days {3:02d}: {4:02d}Min. {5:02d}Seconds ~ {6:04d}Years {7}- {8}Days {9:02d}: {10:02d}Min. {11:02d}Seconds\n\n[Reason for sanctions]\n{12}"/>
+	  <key id="s_admin_block_velma_ugc_msgbox_content" value="Velma feature limited as a warning of the State.\n\n[Sanction period]\n{0:04d} {1}- {2} {3:02d}: {4:02d}m {5:02d}s ~ {6:04d} {7}- {8} {9:02d}: {10:02d}m {11:02d}s\n\n[Reason for sanctions]\n{12}"/>
 
 	  <key id="s_admin_block_create_guild_msgbox_title" value="Guild creation limit Guide"/>
-	  <key id="s_admin_block_create_guild_msgbox_content" value="Guild creation is limited.\n\n[Sanction period]\n{0:04d}Years {1}- {2}Days {3:02d}: {4:02d}Min. {5:02d}Seconds ~ {6:04d}Years {7}- {8}Days {9:02d}: {10:02d}Min. {11:02d}Seconds\n\n[Reason for sanctions]\n{12}"/>
+	  <key id="s_admin_block_create_guild_msgbox_content" value="Guild creation is limited.\n\n[Sanction period]\n{0:04d} {1}- {2} {3:02d}: {4:02d}m {5:02d}s ~ {6:04d} {7}- {8} {9:02d}: {10:02d}m {11:02d}s\n\n[Reason for sanctions]\n{12}"/>
 
 	  <key id="s_admin_block_login" value="Login to the restricted status."/>
 	  <key id="s_admin_block_chat" value="Chat is limited."/>
@@ -621,7 +621,7 @@
 	  <key id="s_admin_block_party_search" value="Party Finder feature limited."/>
       <key id="s_admin_block_play_score" value="Playing an instrument is a limited ability status."/>
       <key id="s_admin_block_write_music" value="Music production have limited functionality."/>  
-	  <key id="s_admin_block_period" value="( {0:04d}Years {1}- {2}Days {3:02d}: {4:02d}Min. {5:02d}Seconds ~ {6:04d}Years {7}- {8}Days {9:02d}: {10:02d}Min. {11:02d}Seconds)"/>
+	  <key id="s_admin_block_period" value="( {0:04d} {1}- {2} {3:02d}: {4:02d}m {5:02d}s ~ {6:04d} {7}- {8} {9:02d}: {10:02d}m {11:02d}s)"/>
 
 <!-- ============================================================================================================================================================================= -->
  <!-- Pop-up reminder OpenMessageBox The definitive phrases s-->
@@ -715,17 +715,17 @@
     <key id="s_msg_skill_upgrade" value="{0} Skills {1}Level\nAre you sure you want to upgrade?"/>
 
   <!-- [Quest] -->
-	 <key id="s_quest_error_inventory_full" value="Belongings window."/>
+	 <key id="s_quest_error_inventory_full" value="Your inventory is full."/>
 	 <key id="s_quest_error_consume_fail" value="Failed to complete the quest."/>
 	 <key id="s_quest_error_accept_fail" value="Failed to accept the quest."/>
-	 <key id="s_quest_error_count_limit" value="You can register up to five. LPress the &lt; enter &gt; key to unregister."/>
+	 <key id="s_quest_error_count_limit" value="You can register up to five. Press the L key to unregister."/>
 	 <key id="s_quest_error_invalid_date" value="The quest can accept a period has ended."/>
 	 <key id="s_quest_not_selected_reward" value="Please choose a reward."/>
-	 <key id="s_quest_boss_notify" value="{0} Emergence. Check out a map of the world."/>
-	 <key id="s_quest_boss_notify_chat" value="[{0:02d}:{1:02d}] {2} Emergence. Check out a map of the world."/>
+	 <key id="s_quest_boss_notify" value="{0} has appeared. Check the World Map."/>
+	 <key id="s_quest_boss_notify_chat" value="[{0:02d}:{1:02d}] {2} has appeared. Check the World Map."/>
 
 	<!-- [Vote-by-mail] -->
-	 <key id="s_mail_error_not_select" value="The selected letter."/>
+	 <key id="s_mail_error_not_select" value="There is no selected letter."/>
 	 <key id="s_mail_read_fail" value="Unable to read the letter."/>
 
 	<!-- [Skill] -->
@@ -740,7 +740,7 @@
 	  <key id="s_item_err_puton_skill_samekinds" value="Already equipped with skill."/>
 
 	<!-- [Behavior, etc.] -->
-	 <key id="s_word_screenshot" value="{0}To save a screenshot."/>
+	 <key id="s_word_screenshot" value="The screenshot was saved in {0}."/>
 	 <key id="s_cannot_move_to_npc" value="Located npcThere is no."/>
 
 	 <!-- Banned -->
@@ -774,7 +774,7 @@
 	 <key id="s_char_delete_waiting" value="{0} Pending Delete"/>
 	 <key id="s_char_ask_delete" value="&lt;FONT color='#FFD200'&gt;{0} &lt;/FONT&gt;Are you sure you want to delete this character?\nEnter the name of the character you want to delete."/>
 	 <key id="s_char_ask_delete_with_wait" value="&lt;FONT color='#FFD200'&gt;{0}Level&lt;/FONT&gt; Or more characters &lt;FONT color='#FFD200'&gt;{1}&lt;/FONT&gt;Of \nDelete, you can delete it after the wait time.\n&lt;FONT color='#FFD200'&gt;{2} &lt;/FONT&gt;Are you sure you want to delete the character?\nEnter the name of the character you want to delete."/>
-	 <key id="s_char_ask_delete_final" value="&lt;FONT color='#FFD200'&gt;{0} &lt;/FONT&gt;Are you sure you want to delete a character, really?\nWhen you delete a character cannot save information."/>
+	 <key id="s_char_ask_delete_final" value="&lt;FONT color='#FFD200'&gt;{0} &lt;/FONT&gt;Are you really sure you want to delete this character?\nThe character info will not be saved upon deletion."/>
 	 <key id="s_char_ask_revival_char" value="&lt;FONT color='#FFD200'&gt;{0} &lt;/FONT&gt;Do you want to bring back your character?"/>
 	 <key id="s_char_err_input" value="Please enter at least 2 letters or more."/>
 	 <key id="s_char_err_delete_name" value="The character name you entered is incorrect."/>
@@ -834,7 +834,7 @@
 
 	 <key id="s_login_err_check_passport" value="The game failed to authenticate.\nPlease try again after a while. ({0})"/>
 	 <key id="s_login_err_restrict_title" value="Access limit Guide"/>
-	 <key id="s_login_err_restrict" value="Access to the restricted account.\n\n[Sanction period]\n{0:04d}Years {1}- {2}Days {3:02d}: {4:02d}Min. {5:02d}Seconds ~ {6:04d}Years {7}- {8}Days {9:02d}: {10:02d}Min. {11:02d}Seconds\n\n[Reason for sanctions]\n{12}"/>
+	 <key id="s_login_err_restrict" value="Access to the restricted account.\n\n[Sanction period]\n{0:04d} {1}- {2} {3:02d}: {4:02d}m {5:02d}s ~ {6:04d} {7}- {8} {9:02d}: {10:02d}m {11:02d}s\n\n[Reason for sanctions]\n{12}"/>
 	 <key id="s_login_err_alphatester" value="Unable to participate in the test account.\nYou cannot connect."/>
 	 <key id="s_login_err_guest_nopcbang" value="NEXON PCRoom only accessible account.\nYou cannot connect." />
 	 <key id="s_login_err_session_error" value="Session authentication failed.\nYou cannot connect."/>
@@ -947,12 +947,12 @@
   <key id="s_word_stat_evp_v" value="{0} Avoidability"/>
   <key id="s_word_stat_cap_v" value="{0} Critical Accuracy"/>
   <key id="s_word_stat_msp_v" value="{0}% Movement Speed"/>
-  <key id="s_word_stat_hp_rgp_v" value="HP Regeneration {0}"/>
-  <key id="s_word_stat_hp_inv_v" value="HP Regeneration Cycle {0}"/>
-  <key id="s_word_stat_sp_rgp_v" value="SP Regeneration {0}"/>
-  <key id="s_word_stat_sp_inv_v" value="SP Regeneration Cycle {0}"/>
-  <key id="s_word_stat_ep_rgp_v" value="EP Regeneration {0}"/>
-  <key id="s_word_stat_ep_inv_v" value="EP Regeneration Cycle {0}"/>
+  <key id="s_word_stat_hp_rgp_v" value="{0} HP Regeneration"/>
+  <key id="s_word_stat_hp_inv_v" value="{0} HP Regeneration Cycle"/>
+  <key id="s_word_stat_sp_rgp_v" value="{0} SP Regeneration"/>
+  <key id="s_word_stat_sp_inv_v" value="{0} SP Regeneration Cycle"/>
+  <key id="s_word_stat_ep_rgp_v" value="{0} EP Regeneration"/>
+  <key id="s_word_stat_ep_inv_v" value="{0} EP Regeneration Cycle"/>
   <key id="s_word_stat_asp_v" value="{0}% Attack Speed"/>
   <key id="s_word_stat_abp_v" value="{0} Complete Defense"/>
   <key id="s_word_stat_jmp_v" value="{0} Jump"/>
@@ -963,8 +963,8 @@
   <key id="s_word_stat_mar_v" value="{0} Magic Defense"/>
   <key id="s_word_stat_cad_v" value="{0} Critical Damage"/>
   <key id="s_word_stat_car_v" value="{0} Critical Avoidability"/>
-  <key id="s_word_stat_wap_d_v" value="{0} Weapon Minimum Damage"/>
-  <key id="s_word_stat_wap_u_v" value="{0} Weapon Maximum Damage"/>
+  <key id="s_word_stat_wap_d_v" value="{0} Weapon Min. Damage"/>
+  <key id="s_word_stat_wap_u_v" value="{0} Weapon Max. Damage"/>
   <key id="s_word_stat_dmg_v" value="{0} Damage"/>
   <key id="s_word_stat_pen_v" value="{0} Defense Penetration"/>
   <key id="s_word_stat_rmsp_v" value="{0} Mount Movement Speed"/>
@@ -980,27 +980,27 @@
   <key id="s_word_stat_evp_r" value="{0:0.1f}% Avoidability"/>
   <key id="s_word_stat_cap_r" value="{0:0.1f}% Critical Accuracy"/>
   <key id="s_word_stat_msp_r" value="{0:0.1f}% Movement Speed"/>
-  <key id="s_word_stat_hp_rgp_r" value="HP Regeneration {0:0.1f}%"/>
-  <key id="s_word_stat_hp_inv_r" value="HP Regeneration Cycle {0:0.1f}%"/>
-  <key id="s_word_stat_sp_rgp_r" value="SP Regeneration {0:0.1f}%"/>
-  <key id="s_word_stat_sp_inv_r" value="SP Regeneration Cycle {0:0.1f}%"/>
-  <key id="s_word_stat_ep_rgp_r" value="EP Regeneration {0:0.1f}%"/>
-  <key id="s_word_stat_ep_inv_r" value="EP Regeneration Cycle {0:0.1f}%"/>
-  <key id="s_word_stat_asp_r" value="Attack Speed {0:0.1f}%"/>
-  <key id="s_word_stat_abp_r" value="Complete Defense {0:0.1f}%"/>
-  <key id="s_word_stat_jmp_r" value="Jump {0:0.1f}%"/>
-  <key id="s_word_stat_luk_r" value="Full LUK {0:0.1f}% when equipped"/>
-  <key id="s_word_stat_pap_r" value="Physical Attack {0:0.1f}%"/>
-  <key id="s_word_stat_map_r" value="Magic Attack {0:0.1f}%"/>
-  <key id="s_word_stat_par_r" value="Physical Defense {0:0.1f}%"/>
-  <key id="s_word_stat_mar_r" value="Magic Defense {0:0.1f}%"/>
-  <key id="s_word_stat_cad_r" value="Critical Damage {0:0.1f}%"/>
-  <key id="s_word_stat_car_r" value="Critical Avoidability {0:0.1f}%"/>
-  <key id="s_word_stat_wap_d_r" value="Weapon Minimum Damage {0:0.1f}%"/>
-  <key id="s_word_stat_wap_u_r" value="Weapon Maximum Damage {0:0.1f}%"/>
-  <key id="s_word_stat_dmg_r" value="Damage {0:0.1f}%"/>
-  <key id="s_word_stat_pen_r" value="Defense Penetration {0:0.1f}%"/>
-  <key id="s_word_stat_rmsp_r" value="Mount Movement Speed {0:0.1f}%"/>
+  <key id="s_word_stat_hp_rgp_r" value="{0:0.1f}% HP Regeneration"/>
+  <key id="s_word_stat_hp_inv_r" value="{0:0.1f}% HP Regeneration Cycle"/>
+  <key id="s_word_stat_sp_rgp_r" value="{0:0.1f}% SP Regeneration"/>
+  <key id="s_word_stat_sp_inv_r" value="{0:0.1f}% SP Regeneration Cycle"/>
+  <key id="s_word_stat_ep_rgp_r" value="{0:0.1f}% EP Regeneration"/>
+  <key id="s_word_stat_ep_inv_r" value="{0:0.1f}% EP Regeneration Cycle"/>
+  <key id="s_word_stat_asp_r" value="{0:0.1f}% Attack Speed"/>
+  <key id="s_word_stat_abp_r" value="{0:0.1f}% Complete Defense"/>
+  <key id="s_word_stat_jmp_r" value="{0:0.1f}% Jump"/>
+  <key id="s_word_stat_luk_r" value="+{0:0.1f}% Full LUK when equipped"/>
+  <key id="s_word_stat_pap_r" value="{0:0.1f}% Physical Attack"/>
+  <key id="s_word_stat_map_r" value="{0:0.1f}% Magic Attack"/>
+  <key id="s_word_stat_par_r" value="{0:0.1f}% Physical Defense"/>
+  <key id="s_word_stat_mar_r" value="{0:0.1f}% Magic Defense"/>
+  <key id="s_word_stat_cad_r" value="{0:0.1f}% Critical Damage"/>
+  <key id="s_word_stat_car_r" value="{0:0.1f}% Critical Avoidability"/>
+  <key id="s_word_stat_wap_d_r" value="{0:0.1f}% Weapon Min. Damage"/>
+  <key id="s_word_stat_wap_u_r" value="{0:0.1f}% Weapon Max. Damage"/>
+  <key id="s_word_stat_dmg_r" value="{0:0.1f}% Damage"/>
+  <key id="s_word_stat_pen_r" value="{0:0.1f}% Defense Penetration"/>
+  <key id="s_word_stat_rmsp_r" value="{0:0.1f}% Mount Movement Speed"/>
 
   <key id="s_word_stat_weapon_damage" value="{0}-{1}"/>
   <key id="s_item_require_weapon" value="Weapon Required"/>
@@ -1031,52 +1031,52 @@
   <key id="s_item_type_righthand" value="Right-handed"/>
   <key id="s_item_opt_error" value="Item Option Error. code={0}"/>
 
-  <key id="s_item_opt_sa_improve_acquire_exp" value="Increased EXP from enemies"/>
-  <key id="s_item_opt_sa_improve_acquire_exp_v" value="{0} Increased EXP from enemies"/>
-  <key id="s_item_opt_sa_improve_acquire_exp_r" value="{0:0.1f}% Increased EXP from enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_exp" value="EXP from enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_exp_v" value="+{0} Increased EXP from enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_exp_r" value="+{0:0.1f}% Increased EXP from enemies"/>
   <key id="s_item_opt_sa_improve_acquire_meso" value="Increased Meso from enemies"/>
-  <key id="s_item_opt_sa_improve_acquire_meso_v" value="{0:d} Increased Meso from enemies"/>
-  <key id="s_item_opt_sa_improve_acquire_meso_r" value="{0:0.1f}% Increased Meso from enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_meso_v" value="+{0:d} Increased Meso from enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_meso_r" value="+{0:0.1f}% Increased Meso from enemies"/>
   <key id="s_item_opt_sa_improve_acquire_questreward_exp" value="Increased EXP from completing quests"/>
-  <key id="s_item_opt_sa_improve_acquire_questreward_exp_v" value="{0} Increased EXP from completing quests"/>
-  <key id="s_item_opt_sa_improve_acquire_questreward_exp_r" value="{0:0.1f}% Increased EXP from completing quests"/>
-  <key id="s_item_opt_sa_improve_acquire_questreward_meso" value="Increased Meso from completing quests"/>
-  <key id="s_item_opt_sa_improve_acquire_questreward_meso_v" value="{0:d} Increased Meso from completing quests"/>
-  <key id="s_item_opt_sa_improve_acquire_questreward_meso_r" value="{0:0.1f}% Increased Meso from completing quests"/>
-  <key id="s_item_opt_sa_improve_npckill_dropitem_incrate" value="Increased item drop rate from enemies"/>
-  <key id="s_item_opt_sa_improve_npckill_dropitem_incrate_v" value="{0:d} Increased item drop rate from enemies"/>
-  <key id="s_item_opt_sa_improve_npckill_dropitem_incrate_r" value="{0:0.1f}% Increased item drop rate from enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_questreward_exp_v" value="+{0} EXP from Completing Quests"/>
+  <key id="s_item_opt_sa_improve_acquire_questreward_exp_r" value="+{0:0.1f}% EXP from Completing Quests"/>
+  <key id="s_item_opt_sa_improve_acquire_questreward_meso" value="Meso from Completing Quests"/>
+  <key id="s_item_opt_sa_improve_acquire_questreward_meso_v" value="+{0:d} Meso from Completing Quests"/>
+  <key id="s_item_opt_sa_improve_acquire_questreward_meso_r" value="+{0:0.1f}% Meso from Completing Quests"/>
+  <key id="s_item_opt_sa_improve_npckill_dropitem_incrate" value="Item Drop Rate from Enemies"/>
+  <key id="s_item_opt_sa_improve_npckill_dropitem_incrate_v" value="+{0:d} Item Drop Rate from Enemies"/>
+  <key id="s_item_opt_sa_improve_npckill_dropitem_incrate_r" value="+{0:0.1f}% Item Drop Rate from Enemies"/>
   <key id="s_item_opt_sa_improve_speed_swim" value="Increased Swimming Speed"/>
   <key id="s_item_opt_sa_improve_speed_swim_v" value="{0:d} Increased Swimming Speed"/>
   <key id="s_item_opt_sa_improve_speed_swim_r" value="{0:0.1f}% Increased Swimming Speed"/>
-  <key id="s_item_opt_sa_improve_speed_dash" value="Increased Dash Range"/>
-  <key id="s_item_opt_sa_improve_speed_dash_v" value="{0:d} Increased Dash Range"/>
-  <key id="s_item_opt_sa_improve_speed_dash_r" value="{0:0.1f}% Increased Dash Range"/>
-  <key id="s_item_opt_sa_improve_acquire_potion" value="Increased Potion Discovery Rate"/>
-  <key id="s_item_opt_sa_improve_acquire_potion_v" value="{0:d} Increased Potion Discovery Rate"/>
-  <key id="s_item_opt_sa_improve_acquire_potion_r" value="{0:0.1f}% Increased Potion Discovery Rate"/>
-  <key id="s_item_opt_sa_improve_acquire_equipment" value="Increased Equipment Discovery Rate"/>
-  <key id="s_item_opt_sa_improve_acquire_equipment_v" value="{0:d} Increased Equipment Discovery Rate"/>
-  <key id="s_item_opt_sa_improve_acquire_equipment_r" value="{0:0.1f}% Increased Equipment Discovery Rate"/>
-  <key id="s_item_opt_sa_improve_damage_critical" value="Increased Critical Damage"/>
-  <key id="s_item_opt_sa_improve_damage_critical_v" value="{0:d} Increased Critical Damage"/>
-  <key id="s_item_opt_sa_improve_damage_critical_r" value="{0:0.1f}% Increased Critical Damage"/>
-  <key id="s_item_opt_sa_improve_damage_normalNpc" value="Increased Attack on Normal Monsters"/>
+  <key id="s_item_opt_sa_improve_speed_dash" value="Dash Range"/>
+  <key id="s_item_opt_sa_improve_speed_dash_v" value="+{0:d} Dash Range"/>
+  <key id="s_item_opt_sa_improve_speed_dash_r" value="+{0:0.1f}% Dash Range"/>
+  <key id="s_item_opt_sa_improve_acquire_potion" value="Potion Discovery Rate"/>
+  <key id="s_item_opt_sa_improve_acquire_potion_v" value="+{0:d} Potion Discovery Rate"/>
+  <key id="s_item_opt_sa_improve_acquire_potion_r" value="+{0:0.1f}% Potion Discovery Rate"/>
+  <key id="s_item_opt_sa_improve_acquire_equipment" value="Equipment Discovery Rate"/>
+  <key id="s_item_opt_sa_improve_acquire_equipment_v" value="+{0:d} Equipment Discovery Rate"/>
+  <key id="s_item_opt_sa_improve_acquire_equipment_r" value="+{0:0.1f}% Equipment Discovery Rate"/>
+  <key id="s_item_opt_sa_improve_damage_critical" value="Critical Damage"/>
+  <key id="s_item_opt_sa_improve_damage_critical_v" value="+{0:d} Critical Damage"/>
+  <key id="s_item_opt_sa_improve_damage_critical_r" value="+{0:0.1f}% Critical Damage"/>
+  <key id="s_item_opt_sa_improve_damage_normalNpc" value="Normal Monsters Damage"/>
   <key id="s_item_opt_sa_improve_damage_normalNpc_v" value="{0:d} Increased Attack on Normal Monsters"/>
   <key id="s_item_opt_sa_improve_damage_normalNpc_r" value="{0:0.1f}% Increased Attack on Normal Monsters"/>
-  <key id="s_item_opt_sa_improve_damage_leaderNpc" value="Increases Leader Damage"/>
+  <key id="s_item_opt_sa_improve_damage_leaderNpc" value="Leader Damage"/>
   <key id="s_item_opt_sa_improve_damage_leaderNpc_v" value="+{0:d} Leader Damage"/>
   <key id="s_item_opt_sa_improve_damage_leaderNpc_r" value="+{0:0.1f}% Leader Damage"/>
-  <key id="s_item_opt_sa_improve_damage_namedNpc" value="Increased Elite Damage"/>
+  <key id="s_item_opt_sa_improve_damage_namedNpc" value="Elite Damage"/>
   <key id="s_item_opt_sa_improve_damage_namedNpc_v" value="+{0:d} Elite Damage"/>
   <key id="s_item_opt_sa_improve_damage_namedNpc_r" value="+{0:0.1f}% Elite Damage"/>
-  <key id="s_item_opt_sa_improve_damage_bossNpc" value="Increased Boss Damage"/>
+  <key id="s_item_opt_sa_improve_damage_bossNpc" value="Boss Damage"/>
   <key id="s_item_opt_sa_improve_damage_bossNpc_v" value="+{0:d} Boss Damage"/>
   <key id="s_item_opt_sa_improve_damage_bossNpc_r" value="+{0:0.1f}% Boss Damage"/>
 
   <key id="s_item_opt_sa_improve_recovery_regen_doheal" value="Recovery Skill Effect"/>
   <key id="s_item_opt_sa_improve_recovery_regen_doheal_v" value="+{0:d} Recovery Skill Effect"/>
-  <key id="s_item_opt_sa_improve_recovery_regen_doheal_r" value="+{0:0.1f}% Recovery Skill Effect"/>
+  <key id="s_item_opt_sa_improve_recovery_regen_doheal_r" value="+{0:0.1f}% Skill Recovery Effect"/>
   <key id="s_item_opt_sa_improve_recovery_regen_receiveheal" value="The effect of increasing the receiving teammate recovery skills"/>
   <key id="s_item_opt_sa_improve_recovery_regen_receiveheal_v" value="The effect of increasing the receiving teammate recovery skills {0:d}"/>
   <key id="s_item_opt_sa_improve_recovery_regen_receiveheal_r" value="Friendly receiving recovery skill effects {0:0.1f}% Increases the"/>
@@ -1107,93 +1107,93 @@
   <key id="s_item_opt_sa_improve_damage_longrange_r" value="+{0:0.1f}% Ranged Damage"/>
 
   <key id="s_item_opt_sa_improve_piercing_par" value="Physical Defense Penetration"/>
-  <key id="s_item_opt_sa_improve_piercing_par_v" value="Physical Defense Penetration {0:d}"/>
-  <key id="s_item_opt_sa_improve_piercing_par_r" value="Physical Defense {0:0.1f}% Penetration"/>
+  <key id="s_item_opt_sa_improve_piercing_par_v" value="{0:d} Physical Defense Penetration"/>
+  <key id="s_item_opt_sa_improve_piercing_par_r" value="{0:0.1f}% Physical Defense Penetration"/>
   <key id="s_item_opt_sa_improve_piercing_mar" value="Magic Defense Penetration"/>
-  <key id="s_item_opt_sa_improve_piercing_mar_v" value="Magic Defense Penetration {0:d}"/>
-  <key id="s_item_opt_sa_improve_piercing_mar_r" value="Magic Defense {0:0.1f}% Penetration"/>
+  <key id="s_item_opt_sa_improve_piercing_mar_v" value="{0:d} Magic Defense Penetration"/>
+  <key id="s_item_opt_sa_improve_piercing_mar_r" value="{0:0.1f}% Magic Defense Penetration"/>
 
-  <key id="s_item_opt_sa_reduce_elements_ice" value="Frost damage reduction"/>
-  <key id="s_item_opt_sa_reduce_elements_ice_v" value="Frost damage reduction {0:d}"/>
-  <key id="s_item_opt_sa_reduce_elements_ice_r" value="Frost damage {0:0.1f}% Reduction"/>
-  <key id="s_item_opt_sa_reduce_elements_fire" value="Flame damage reduction"/>
-  <key id="s_item_opt_sa_reduce_elements_fire_v" value="Flame damage {0:d} Reduction"/>
-  <key id="s_item_opt_sa_reduce_elements_fire_r" value="Flame damage {0:0.1f}% Reduction"/>
-  <key id="s_item_opt_sa_reduce_elements_dark" value="Dark damage reduction"/>
-  <key id="s_item_opt_sa_reduce_elements_dark_v" value="Dark damage reduction {0:d}"/>
-  <key id="s_item_opt_sa_reduce_elements_dark_r" value="Dark damage {0:0.1f}% Reduction"/>
-  <key id="s_item_opt_sa_reduce_elements_light" value="Holy damage reduction"/>
-  <key id="s_item_opt_sa_reduce_elements_light_v" value="Holy damage reduction {0:d}"/>
-  <key id="s_item_opt_sa_reduce_elements_light_r" value="Holy damage {0:0.1f}% Reduction"/>
-  <key id="s_item_opt_sa_reduce_elements_poison" value="Poison damage reduction"/>
-  <key id="s_item_opt_sa_reduce_elements_poison_v" value="Poison damage reduction {0:d}"/>
-  <key id="s_item_opt_sa_reduce_elements_poison_r" value="Poison damage {0:0.1f}% Reduction"/>
-  <key id="s_item_opt_sa_reduce_elements_thunder" value="Lightning damage reduction"/>
-  <key id="s_item_opt_sa_reduce_elements_thunder_v" value="Lightning damage reduction {0:d}"/>
-  <key id="s_item_opt_sa_reduce_elements_thunder_r" value="Lightning damage {0:0.1f}% Reduction"/>
+  <key id="s_item_opt_sa_reduce_elements_ice" value="Ice Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_ice_v" value="{0:d} Reduced Ice Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_ice_r" value="-{0:0.1f}% Ice Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_fire" value="Flame Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_fire_v" value="{0:d} Reduced Flame Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_fire_r" value="-{0:0.1f}% Flame Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_dark" value="Dark Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_dark_v" value="{0:d} Reduced Dark Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_dark_r" value="-{0:0.1f}% Dark Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_light" value="Holy Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_light_v" value="{0:d} Reduced Holy Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_light_r" value="-{0:0.1f}% Holy Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_poison" value="Poison Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_poison_v" value="{0:d} Reduced Poison Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_poison_r" value="-{0:0.1f}% Poison Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_thunder" value="Lightning Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_thunder_v" value="{0:d} Reduced Lightning Damage"/>
+  <key id="s_item_opt_sa_reduce_elements_thunder_r" value="-{0:0.1f}% Lightning Damage"/>
 
-  <key id="s_item_opt_sa_improve_recovery_hp_dokill" value="Church: HPRecovery"/>
-  <key id="s_item_opt_sa_improve_recovery_hp_dokill_v" value="Church: HP {0:d} Recovery"/>
-  <key id="s_item_opt_sa_improve_recovery_hp_dokill_r" value="Church: HP {0:0.1f}% Recovery"/>
-  <key id="s_item_opt_sa_improve_recovery_sp_dokill" value="Attention: schedule probability SPRecovery"/>
-  <key id="s_item_opt_sa_improve_recovery_sp_dokill_v" value="Attention: schedule probability SP {0:d} Recovery"/>
-  <key id="s_item_opt_sa_improve_recovery_sp_dokill_r" value="Attention: schedule probability SP {0:0.1f}% Recovery"/>
-  <key id="s_item_opt_sa_improve_recovery_ep_dokill" value="Attention: schedule probability EPRecovery"/>
-  <key id="s_item_opt_sa_improve_recovery_ep_dokill_v" value="Attention: schedule probability EP {0:d} Recovery"/>
-  <key id="s_item_opt_sa_improve_recovery_ep_dokill_r" value="Attention: schedule probability EP {0:0.1f}% Recovery"/>
-  <key id="s_item_opt_sa_reduce_time_cooldown" value="Skill cooldown reduction"/>
-  <key id="s_item_opt_sa_reduce_time_cooldown_v" value="Skill cooldown reduction {0:d}"/>
-  <key id="s_item_opt_sa_reduce_time_cooldown_r" value="Skill cooldown {0:0.1f}% Reduction"/>
+  <key id="s_item_opt_sa_improve_recovery_hp_dokill" value="HP Recovery on Kill"/>
+  <key id="s_item_opt_sa_improve_recovery_hp_dokill_v" value="{0:d} HP Recovery on Kill"/>
+  <key id="s_item_opt_sa_improve_recovery_hp_dokill_r" value="{0:0.1f}% HP Recovery on Kill"/>
+  <key id="s_item_opt_sa_improve_recovery_sp_dokill" value="SP Recovery on Kill"/>
+  <key id="s_item_opt_sa_improve_recovery_sp_dokill_v" value="{0:d} SP Recovery on Kill"/>
+  <key id="s_item_opt_sa_improve_recovery_sp_dokill_r" value="{0:0.1f}% SP Recovery on Kill"/>
+  <key id="s_item_opt_sa_improve_recovery_ep_dokill" value="EP Recovery on Kill"/>
+  <key id="s_item_opt_sa_improve_recovery_ep_dokill_v" value="{0:d} EP Recovery on Kill"/>
+  <key id="s_item_opt_sa_improve_recovery_ep_dokill_r" value="{0:0.1f}% EP Recovery on Kill"/>
+  <key id="s_item_opt_sa_reduce_time_cooldown" value="Reduced Skill Cooldown"/>
+  <key id="s_item_opt_sa_reduce_time_cooldown_v" value="{0:d} Reduced Skill Cooldown"/>
+  <key id="s_item_opt_sa_reduce_time_cooldown_r" value="-{0:0.1f}% Reduced Skill Cooldown"/>
 
-  <key id="s_item_opt_sa_reduce_time_stun" value="Inability to act in time"/>
-  <key id="s_item_opt_sa_reduce_time_stun_v" value="Inability to act in time {0:d}"/>
-  <key id="s_item_opt_sa_reduce_time_stun_r" value="Inability to act in time {0:0.1f}% Reduction"/>
-  <key id="s_item_opt_sa_reduce_time_condition" value="Over time the State"/>
-  <key id="s_item_opt_sa_reduce_time_condition_v" value="Over time the State {0:d}"/>
-  <key id="s_item_opt_sa_reduce_time_condition_r" value="Over time the State {0:0.1f}% Reduction"/>
-  <key id="s_item_opt_sa_reduce_distance_knockBack" value="Knockback resist"/>
-  <key id="s_item_opt_sa_reduce_distance_knockBack_v" value="Knockback resist {0:d}"/>
-  <key id="s_item_opt_sa_reduce_distance_knockBack_r" value="Knockback resist {0:0.1f}%"/>
-  <key id="s_item_opt_sa_reduce_damage_nearrange" value="Reduced melee damage"/>
-  <key id="s_item_opt_sa_reduce_damage_nearrange_v" value="Reduced melee damage {0:d}"/>
-  <key id="s_item_opt_sa_reduce_damage_nearrange_r" value="Melee damage {0:0.1f}% Reduction"/>
-  <key id="s_item_opt_sa_reduce_damage_longrange" value="Ranged damage reduced"/>
-  <key id="s_item_opt_sa_reduce_damage_longrange_v" value="Ranged damage reduced {0:d}"/>
-  <key id="s_item_opt_sa_reduce_damage_longrange_r" value="Ranged damage {0:0.1f}% Reduction"/>
+  <key id="s_item_opt_sa_reduce_time_stun" value="Reduced Stun Time"/>
+  <key id="s_item_opt_sa_reduce_time_stun_v" value="{0:d} Reduced Stun Time"/>
+  <key id="s_item_opt_sa_reduce_time_stun_r" value="-{0:0.1f}% Stun Time"/>
+  <key id="s_item_opt_sa_reduce_time_condition" value="Reduced Status Ailment Time"/>
+  <key id="s_item_opt_sa_reduce_time_condition_v" value="{0:d} Reduced Status Ailment Time"/>
+  <key id="s_item_opt_sa_reduce_time_condition_r" value="-{0:0.1f}% Reduced Status Ailment Time"/>
+  <key id="s_item_opt_sa_reduce_distance_knockBack" value="Knockback Resistance"/>
+  <key id="s_item_opt_sa_reduce_distance_knockBack_v" value="{0:d} Knockback Resistance"/>
+  <key id="s_item_opt_sa_reduce_distance_knockBack_r" value="{0:0.1f}% Knockback Resistance"/>
+  <key id="s_item_opt_sa_reduce_damage_nearrange" value="Reduced Melee Damage"/>
+  <key id="s_item_opt_sa_reduce_damage_nearrange_v" value="{0:d} Reduced Melee Damage"/>
+  <key id="s_item_opt_sa_reduce_damage_nearrange_r" value="-{0:0.1f}% Reduced Melee Damage"/>
+  <key id="s_item_opt_sa_reduce_damage_longrange" value="Reduced Ranged Damage"/>
+  <key id="s_item_opt_sa_reduce_damage_longrange_v" value="{0:d} Reduced Ranged Damage"/>
+  <key id="s_item_opt_sa_reduce_damage_longrange_r" value="-{0:0.1f}% Reduced Ranged Damage"/>
 
-  <key id="s_item_opt_sa_probability_stun_nearrange" value="Melee stunt"/>
-  <key id="s_item_opt_sa_probability_stun_nearrange_v" value="Melee stunt {0:d}"/>
-  <key id="s_item_opt_sa_probability_stun_nearrange_r" value="Melee stunt {0:0.1f}%"/>
-  <key id="s_item_opt_sa_probability_stun_longrange" value="Ranged attack Stern"/>
-  <key id="s_item_opt_sa_probability_stun_longrange_v" value="Ranged attack: Stern {0:d}"/>
-  <key id="s_item_opt_sa_probability_stun_longrange_r" value="Ranged attack: Stern {0:0.1f}%"/>
-  <key id="s_item_opt_sa_probability_knockback_nearrange" value="Melee: knockback"/>
-  <key id="s_item_opt_sa_probability_knockback_nearrange_v" value="Melee: knockback {0:d}"/>
-  <key id="s_item_opt_sa_probability_knockback_nearrange_r" value="Melee: knockback {0:0.1f}%"/>
-  <key id="s_item_opt_sa_probability_knockback_longrange" value="Ranged attack: knockback"/>
-  <key id="s_item_opt_sa_probability_knockback_longrange_v" value="Ranged attack: knockback {0:d}"/>
-  <key id="s_item_opt_sa_probability_knockback_longrange_r" value="Ranged attack: knockback {0:0.1f}%"/>
-  <key id="s_item_opt_sa_probability_cannotmove_nearrange" value="Melee: inability to move"/>
-  <key id="s_item_opt_sa_probability_cannotmove_nearrange_v" value="Melee: inability to move {0:d}"/>
-  <key id="s_item_opt_sa_probability_cannotmove_nearrange_r" value="Melee: inability to move {0:0.1f}%"/>
-  <key id="s_item_opt_sa_probability_cannotmove_longrange" value="Ranged attack: inability to move"/>
-  <key id="s_item_opt_sa_probability_cannotmove_longrange_v" value="Ranged attack: inability to move {0:d}"/>
-  <key id="s_item_opt_sa_probability_cannotmove_longrange_r" value="Ranged attack: inability to move {0:0.1f}%"/>
-  <key id="s_item_opt_sa_probability_splashdamage_nearrange" value="Melee: the greater the damage"/>
-  <key id="s_item_opt_sa_probability_splashdamage_nearrange_v" value="Melee: the greater the damage {0:d}"/>
-  <key id="s_item_opt_sa_probability_splashdamage_nearrange_r" value="Melee: the greater the damage {0:0.1f}%"/>
-  <key id="s_item_opt_sa_probability_splashdamage_longrange" value="Ranged attack: the greater the damage"/>
-  <key id="s_item_opt_sa_probability_splashdamage_longrange_v" value="Ranged attack: the greater the damage {0:d}"/>
-  <key id="s_item_opt_sa_probability_splashdamage_longrange_r" value="Ranged attack: the greater the damage {0:0.1f}%"/>
+  <key id="s_item_opt_sa_probability_stun_nearrange" value="Melee Attack Stun"/>
+  <key id="s_item_opt_sa_probability_stun_nearrange_v" value="{0:d} Melee Attack Stun"/>
+  <key id="s_item_opt_sa_probability_stun_nearrange_r" value="{0:0.1f}% Melee Attack Stun"/>
+  <key id="s_item_opt_sa_probability_stun_longrange" value="Ranged Attack Stun"/>
+  <key id="s_item_opt_sa_probability_stun_longrange_v" value="{0:d} Ranged Attack Stun"/>
+  <key id="s_item_opt_sa_probability_stun_longrange_r" value="{0:0.1f}% Ranged Attack Stun"/>
+  <key id="s_item_opt_sa_probability_knockback_nearrange" value="Knockback on Melee Attack"/>
+  <key id="s_item_opt_sa_probability_knockback_nearrange_v" value="{0:d} Knockback on Melee Attack"/>
+  <key id="s_item_opt_sa_probability_knockback_nearrange_r" value="{0:0.1f}% Knockback on Melee Attack"/>
+  <key id="s_item_opt_sa_probability_knockback_longrange" value="Knockback on Ranged Attack"/>
+  <key id="s_item_opt_sa_probability_knockback_longrange_v" value="{0:d} Knockback on Ranged Attack"/>
+  <key id="s_item_opt_sa_probability_knockback_longrange_r" value="{0:0.1f}% Knockback on Ranged Attack"/>
+  <key id="s_item_opt_sa_probability_cannotmove_nearrange" value="Disabled Movement on Melee Attack"/>
+  <key id="s_item_opt_sa_probability_cannotmove_nearrange_v" value="{0:d} Disabled Movement on Melee Attack"/>
+  <key id="s_item_opt_sa_probability_cannotmove_nearrange_r" value="{0:0.1f}% Disabled Movement on Melee Attack"/>
+  <key id="s_item_opt_sa_probability_cannotmove_longrange" value="Disabled Movement on Ranged Attack"/>
+  <key id="s_item_opt_sa_probability_cannotmove_longrange_v" value="{0:d} Disabled Movement on Ranged Attack"/>
+  <key id="s_item_opt_sa_probability_cannotmove_longrange_r" value="{0:0.1f}% Disabled Movement on Ranged Attack"/>
+  <key id="s_item_opt_sa_probability_splashdamage_nearrange" value="Splash Damage on Melee Attack"/>
+  <key id="s_item_opt_sa_probability_splashdamage_nearrange_v" value="{0:d} Splash Damage on Melee Attack"/>
+  <key id="s_item_opt_sa_probability_splashdamage_nearrange_r" value="{0:0.1f}% Splash Damage on Melee Attack"/>
+  <key id="s_item_opt_sa_probability_splashdamage_longrange" value="Splash Damage on Ranged Attack"/>
+  <key id="s_item_opt_sa_probability_splashdamage_longrange_v" value="{0:d} Splash Damage on Ranged Attack"/>
+  <key id="s_item_opt_sa_probability_splashdamage_longrange_r" value="{0:0.1f}% Splash Damage on Ranged Attack"/>
 
-  <key id="s_item_opt_sa_improve_damage_final" value="Total Damage Increase"/>
-  <key id="s_item_opt_sa_improve_damage_final_v" value="Total Damage +{0:d}"/>
-  <key id="s_item_opt_sa_improve_damage_final_r" value="Total Damage +{0:0.1f}%"/>
+  <key id="s_item_opt_sa_improve_damage_final" value="Total Damage"/>
+  <key id="s_item_opt_sa_improve_damage_final_v" value="+{0:d} Total Damage"/>
+  <key id="s_item_opt_sa_improve_damage_final_r" value="+{0:0.1f}% Total Damage"/>
   
   <key id="s_item_opt_sa_invoke_effect" value="{0}"/>
   <key id="s_item_opt_sa_invoke_skill_decrease_cooldowntime_v" value="Cooldown -{0:d} seconds"/>
   <key id="s_item_opt_sa_invoke_skill_increase_cooldowntime_v" value="Cooldown +{0:d} seconds"/>
-  <key id="s_item_opt_sa_invoke_skill_damage_v" value="Damage +{0:d}"/>
+  <key id="s_item_opt_sa_invoke_skill_damage_v" value="+{0:d} Damage"/>
   <key id="s_item_opt_sa_invoke_effect_duration_v" value="{0:d}"/>
   <key id="s_item_opt_sa_invoke_effect_conditioneffect_probability_v" value="{0:d}"/>
   <key id="s_item_opt_sa_invoke_effect_dotdamage_v" value="{0:d}"/>
@@ -1250,7 +1250,7 @@
   
   <key id="s_item_opt_sa_invoke_skill_decrease_cooldowntime_r" value="{0:0.1f}%"/>
   <key id="s_item_opt_sa_invoke_skill_increase_cooldowntime_r" value="{0:0.1f}%"/>
-  <key id="s_item_opt_sa_invoke_skill_damage_r" value="Damage {0:0.1f}% Increases the"/>
+  <key id="s_item_opt_sa_invoke_skill_damage_r" value="{0:0.1f}% Damage"/>
   <key id="s_item_opt_sa_invoke_effect_duration_r" value="{0:0.1f}%"/>
   <key id="s_item_opt_sa_invoke_effect_conditioneffect_probability_r" value="{0:0.1f}%"/>
   <key id="s_item_opt_sa_invoke_effect_dotdamage_r" value="{0:0.1f}%"/>
@@ -1382,13 +1382,13 @@
   <key id="s_word_item_category_construction" value="Construction"/>
   <key id="s_word_item_unlimited_period" value="Unlimited"/>
   <key id="s_word_item_soldout" value="Sold Out"/>
-  <key id="s_word_item_soldout_html" value="&lt;FONT color='#FF5F5F'&gt;Sould Out&lt;/FONT&gt;"/>
-  <key id="s_word_item_limit_sell" value="Unvendorable"/>
+  <key id="s_word_item_soldout_html" value="&lt;FONT color='#FF5F5F'&gt;Sold Out&lt;/FONT&gt;"/>
+  <key id="s_word_item_limit_sell" value="Unsellable"/>
   <key id="s_word_item_limit_trade" value="Untradable"/>
-  <key id="s_word_item_limit_sell_trade" value="Untradable and Unvendorable"/>
-  <key id="s_word_item_limit_blackmarket" value="Only Tradable in Black Market"/>
-  <key id="s_word_item_limit_blackmarket_sell" value="Only Tradable in Black Market, Unvendorable"/>
-  <key id="s_word_item_limit_bind" value="Unstorable to Mannequins and Storage"/>
+  <key id="s_word_item_limit_sell_trade" value="Untradable and Unsellable"/>
+  <key id="s_word_item_limit_blackmarket" value="Tradable in Black Market"/>
+  <key id="s_word_item_limit_blackmarket_sell" value="Tradable in Black Market, Unsellable"/>
+  <key id="s_word_item_limit_bind" value="Unstorable to Mannequin and Storage"/>
   <key id="s_word_skill_active" value="Active"/>
   <key id="s_word_skill_passive" value="Passive"/>
   <key id="s_word_skill_move" value="Action"/>
@@ -1648,37 +1648,37 @@
 
 
 <!-- Mailbox -->
-  <key id="s_mail_cleaning_title" value="Are you sure you want to clean up the Inbox?\n&lt;FONT color='#FFD200'&gt;However, it does not delete the letters in the attached article.&lt;/FONT&gt;"/>
+  <key id="s_mail_cleaning_title" value="Are you sure you want to cleanup your mailbox?\n&lt;FONT color='#FFD200'&gt;However, letters with attachments remain undeleted.&lt;/FONT&gt;"/>
   <key id="s_mail_cleaning_usermail" value="Read the letter by regular mail of deleted"/>
   <key id="s_mail_cleaning_systemmail" value="Read the letter of the special vote-by-mail deletion"/>
-  <key id="s_mail_send_date" value="{0}Years {1}- {2}Days {3} {4}: {5}Min."/>
-  <key id="s_mail_attach_item" value="Would like to send a few out?"/>
-  <key id="s_mail_delete_confirm" value="Are you sure you want to delete a letter?"/>
-  <key id="s_mail_delete_exist_attach" value="The attached article.\n Are you sure you want to delete a letter?"/>
-  <key id="s_mail_send_really" value="I really would like to send?" />
-  <key id="s_mail_error" value="System error : In the mail. p = {0}, code = {1}"/>
-  <key id="s_mail_error_already_attach_meso" value="Already I&#8217;ve attached a cow in Medan."/>
-  <key id="s_mail_error_range" value="With the exception of the fee and the maximum {0}You can attach up to."/>
-  <key id="s_mail_error_username" value="Is the wrong target."/>
+  <key id="s_mail_send_date" value="{0}-{1}-{2} {3}:{4} {5}"/>
+  <key id="s_mail_attach_item" value="Would like to send this much?"/>
+  <key id="s_mail_delete_confirm" value="Are you sure you want to delete this letter?"/>
+  <key id="s_mail_delete_exist_attach" value="An attachment is attached to it.\n Are you sure you want to delete this letter?"/>
+  <key id="s_mail_send_really" value="Are you sure you want to send this?" />
+  <key id="s_mail_error" value="System error : Mail. p = {0}, code = {1}"/>
+  <key id="s_mail_error_already_attach_meso" value="You've already attached Meso."/>
+  <key id="s_mail_error_range" value="You can attach up to {0} with exception of the fee."/>
+  <key id="s_mail_error_username" value="Wrong Target."/>
   <key id="s_mail_error_cannot_attach_item" value="Unable to send the item."/>
-  <key id="s_mail_error_attachcount" value="The number of the item."/>
-  <key id="s_mail_error_already_receive" value="Already received a letter with an attached article."/>
-  <key id="s_mail_error_recipient_equal_sender" value="The recipient and the sender is the same."/>
-  <key id="s_mail_error_createmail" value="Failed to generate the letter."/>
+  <key id="s_mail_error_attachcount" value="The number of items don't match."/>
+  <key id="s_mail_error_already_receive" value="You've already received the letter with the attachment."/>
+  <key id="s_mail_error_recipient_equal_sender" value="The recipient and the sender are the same."/>
+  <key id="s_mail_error_createmail" value="Failed to create the letter."/>
   <key id="s_mail_error_sendmail" value="Failed to send the letter."/>
-  <key id="s_mail_error_empty_cleaning_user" value="There is no general is clean."/>
-  <key id="s_mail_error_empty_cleaning_system" value="Organizes special email."/>
-  <key id="s_mail_error_alreadyread" value="Have already read the letter."/>
-  <key id="s_mail_error_receiveitem_to_inven" value="Unable to get the window filled with items for your belongings."/>
-  <key id="s_mail_error_block_from_me" value="Has been blocked by the recipients of the mail. Unpack the blocking, give it a try."/>
-  <key id="s_mail_error_block_from_other" value="Mail recipient is blocking you. Failed to send the letter."/>
-  <key id="s_mail_error_admin_character" value="Unable to send mail."/>
+  <key id="s_mail_error_empty_cleaning_user" value="There is no regular mail to cleanup."/>
+  <key id="s_mail_error_empty_cleaning_system" value="There is no special mail to cleanup."/>
+  <key id="s_mail_error_alreadyread" value="You've already read this letter."/>
+  <key id="s_mail_error_receiveitem_to_inven" value="You cannot receive the item because your inventory is full."/>
+  <key id="s_mail_error_block_from_me" value="You've blocked the recipient. Remove the block and try again."/>
+  <key id="s_mail_error_block_from_other" value="The recipient has blocked you. Failed to send the letter."/>
+  <key id="s_mail_error_admin_character" value="You are unable to send this letter."/>
   <key id="s_mail_error_bancheck" value="The words cannot be used in the title or content is included in the room rate."/>
-  <key id="s_mail_error_admin_block" value="Delivery by the operator status is blocked."/>
-  <key id="s_mail_error_empty_title" value="Please enter a title."/>
+  <key id="s_mail_error_admin_block" value="The GM has blocked your ability to send letters."/>
+  <key id="s_mail_error_empty_title" value="Enter a title."/>
   <key id="s_mail_error_empty_content" value="Enter the contents."/>
-  <key id="s_mail_error_from_admin_to_user" value="You cannot send e-mail to the user the operator. Operating tools."/>
-  <key id="s_mail_error_limit_input" value="The maximum number of characters exceeded."/>
+  <key id="s_mail_error_from_admin_to_user" value="You cannot send the mail to this user. Use the GM Tool."/>
+  <key id="s_mail_error_limit_input" value="You've exceeded the maximum number of characters allowed."/>
   <key id="s_mail_period_item_include" value="A letter with a temporary item attached to it has arrived."/>
   <key id="s_mail_period_item_include_chat" value="&lt;FONT color='#FF5F5F' &gt;A letter with a temporary item attached to it has arrived.\nUse the item before it expires.&lt;/FONT&gt;"/>
 
@@ -1827,13 +1827,13 @@
    <key id="s_realestate_building_type_3" value="Entry"/><!--The grounds for that type appear in the real estate contract, ugcMapIn BuildingTypeWhen you set the text to come out-->
    <key id="s_realestate_area" value="Floor {0}Khan, height {1}Khan"/><!--Real estate contracts, the size of the unit, the display in the home ugcMapSet the number of the Khan. In the case of outdoor outdoors indoors Interior editable Khan, Khan shows the number of-->
    <key id="s_realestate_install_building_count" value="Building {0}It is possible to install a sink"/><!--To display the contents of the real estate contract. Outdoor grounds (UGCSellTypeThis is displayed only if 0). Total number of buildings that can be installed on these grounds, the number of stringOf s_mainplayinfo_build_countThe same functionality that you want to appear in the-->
-   <key id="s_realestate_detail_expire_date" value="{0}Years {1}- {2}Days"/><!--The contract expiration date shown in the real estate contract -->
+   <key id="s_realestate_detail_expire_date" value="{0} {1}- {2}"/><!--The contract expiration date shown in the real estate contract -->
    <key id="s_realestate_detail_expire_time" value="{0}: {1}P.m."/><!--Real estate contracts the contract expiration time-->
    <key id="s_realestate_morning" value="AM"/>
    <key id="s_realestate_afternoon" value="PM"/>
    <key id="s_realestate_waiting_time" value="{0} {1}- {2}\n{3}: {4}m"/>
    <key id="s_realestate_extension_date" value="Contract expirations {0}Days before.\n({1}From available)"/>
-   <key id="s_realestate_date_string" value="{0}Years {1}- {2}Days {3}: {4}Min."/>
+   <key id="s_realestate_date_string" value="{0} {1}- {2} {3} {4}"/>
    <key id="s_realestate_price_desc_money" value="{0} {1}"/>
    <key id="s_realestate_price_desc_item" value="{1} {0}"/>
    <key id="s_realestate_description" value="Administrative expenses : {1}\nWhen the term of the agreement to pay the maintenance fee {0}You can extend the work.\n\nMailed in advance when changes are made to the management of rain."/>
@@ -1910,13 +1910,13 @@
   <key id="s_action_regist_banner" value="Image Registration"/><!--"ugc Image, Billboard registration"-->
   <key id="s_action_ride" value="Mount"/><!--Off-machine-->
   <key id="s_action_pull" value="Pull"/><!--Items used in the lift-->
-  <key id="s_action_putdown_liftable" value="Put down"/>
+  <key id="s_action_putdown_liftable" value="Put Down"/>
   <key id="s_action_switchcube" value="Operate"/>
   <key id="s_action_fittingdoll" value="Operate"/>
   <key id="s_action_use_telescope" value="View Telescope"/><!--Observation of objects-->
   <key id="s_action_view_cube_profile" value="View Information"/> <!--Real estate (part) information-->
   <key id="s_action_owner" value=" - {0}"/>
-  <key id="s_action_taxi_call" value="Calling Taxi"/><!--Taxi stop objects-->
+  <key id="s_action_taxi_call" value="Call Taxi"/><!--Taxi stop objects-->
   <key id="s_action_hold" value=" While holding the suspension"/><!--Monster catch-->
     <key id="s_action_cant_pet" value="Currently unavailable"/>
   <key id="s_action_cant_ride" value="Currently unavailable"/><!--It is only when you can ride in a vehicle-->
@@ -2266,27 +2266,27 @@
   <key id="s_home_visit_failed_disablemap" value="There you can visit other people&#8217;s homes."/>
   <key id="s_home_visit_failed_myhome" value="You cannot move into my house."/>
 
-  <key id="s_tutorial_shortcutkey_limit" value="You cannot do that in the middle of the tutorial."/>
-  <key id="s_tutorial_itemputonoff_limit" value="You cannot do that in the middle of the tutorial."/>
-  <key id="s_tutorial_itemdrop_limit" value="You cannot do that in the middle of the tutorial."/>
-  <key id="s_tutorial_dialog_limit" value="You cannot do that in the middle of the tutorial."/>
-  <key id="s_tutorial_skip_movie" value="Do you want to quit playing?"/>
-  <key id="s_tutorial_skip_comfirm" value="If you stop, you cannot come back to the tutorial\nProgress Quest is initialized.\n &lt;FONT color='#ffd200' &gt;Stop the tutorial&lt;/FONT&gt;Are you sure you want to?"/>
+  <key id="s_tutorial_shortcutkey_limit" value="You cannot do that in the tutorial."/>
+  <key id="s_tutorial_itemputonoff_limit" value="You cannot do that in the tutorial."/>
+  <key id="s_tutorial_itemdrop_limit" value="You cannot do that in the tutorial."/>
+  <key id="s_tutorial_dialog_limit" value="You cannot do that in the tutorial."/>
+  <key id="s_tutorial_skip_movie" value="Are you sure you want to skip the movie?"/>
+  <key id="s_tutorial_skip_comfirm" value="You cannot return if you skip the tutorial\nQuests in progress will be reset.\n Are you sure you want to &lt;FONT color='#ffd200' &gt;skip the tutorial&lt;/FONT&gt;?"/>
 
-  <key id="s_interact_result_auth" value="You do not have permission." />
-  <key id="s_interact_result_item" value="The item is required."/>
+  <key id="s_interact_result_auth" value="You are not authorized to do this." />
+  <key id="s_interact_result_item" value="This item is required."/>
   <key id="s_interact_result_quest" value="Quest is not performed."/>
   <key id="s_interact_result_party" value="You can get the party."/>
-  <key id="s_interact_result_privilege" value="You do not have permission."/>
-  <key id="s_interact_result_unknown" value="System error : interat. {0}"/>
-  <key id="s_interact_find_new_telescope" value="I&#8217;ve found a new landscape."/>
+  <key id="s_interact_result_privilege" value="You are not authorized to do this."/>
+  <key id="s_interact_result_unknown" value="System Error : interat. {0}"/>
+  <key id="s_interact_find_new_telescope" value="You've discovered a landscape."/>
 
   <!-- Hunting -->
-  <key id="s_hunting_kill_boss" value="{0} As the final blow of the {1}Of this has been lost."/>
-  <key id="s_hunting_npc_kill_boss" value="{0}By {1}Of this has been lost." />
+  <key id="s_hunting_kill_boss" value="{1} released its last breath due to the final blow of {0}."/>
+  <key id="s_hunting_npc_kill_boss" value="{1} released its last breath because of {0}" />
 
   <!-- Battlefield -->
-  <key id="s_mode_pvp_status_winner" value="{0}Winning streak"/>
+  <key id="s_mode_pvp_status_winner" value="{0} wins"/>
   <key id="s_mode_pvp_status_challenger" value="Challenger" />
 
   <!-- Return -->
@@ -2532,7 +2532,7 @@
   <key id="s_shutdown_notify" value="As part of the Shutdown Law, children aged 16 or less are subject to limited gameplay from {0}." />
 
   <!-- Quick slot registration prompts -->
-  <key id="s_msg_shortcutkey_slot_full" value="Empty quick slot does not exist." />
+  <key id="s_msg_shortcutkey_slot_full" value="You do not have an empty quick slot." />
   <key id="s_msg_shortcutkey_error" value="Passive skills cannot be registered to quick slots." />
 
   <!-- Souvenir ToolTip -->
@@ -2604,8 +2604,8 @@
   <key id="s_meratmarket_designers_terms" value="Are you sure you want to register the goods to designer&#8217;s shop?\n&lt;font color='#c00000'&gt;The costs paid will not be refunded.&lt;/font&gt;"/>
 
   <!-- Merit market -->
-  <key id="s_meratmarket_tooltip_sell_count" value="{0}Dog"/>
-  <key id="s_meratmarket_tooltip_sell_date" value="{0}Years {1}- {2}Days {3:02d}: {4:02d}P.m."/>
+  <key id="s_meratmarket_tooltip_sell_count" value="{0}"/>
+  <key id="s_meratmarket_tooltip_sell_date" value="Until {0} {1}- {2} {3:02d} {4:02d}"/>
   <key id="s_meratmarket_tooltip_bookmark" value="&lt;FONT color='#FFD200' size='15' &gt;{0} Design view submitted by&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n{0} Enrolled in this designer&#8217;s shop, submitted by\nYou can view the collected list of goods."/>
   <key id="s_meratmarket_tooltip_myshop_calculate" value="&lt;FONT color='#FFD200' size='15' &gt;Designer cultivation project&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAssociation of Victorian design, the designer&#8217;s shop for the activation and rookie designer excavation &lt;font color='#FF5F5F'&gt;10 million monthly sales revenue per account is limited to Merit&lt;/font&gt;.\nIn this month&#8217;s revenue exceeds 10 million sold in this account, Merit of goods all 'Sold out'This and the other people will not be able to purchase.\n1, when the next month 'Sold out' The status of the remaining items of the period off and sold back to the other people.\nMonthly sales by achieving maximum return limits all but would like to receive the settlement cannot take advantage of features. &lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#8dd502'&gt;In this month&#8217;s sales revenue {0} /{1}&lt;/FONT&gt; "/>
   <key id="s_meratmarket_complete_buy_item" value = "You have selected to buy merchandise."/>
@@ -2663,7 +2663,7 @@
 
   <key id="s_meratmarket_bookmark_add_complete" value="{0} You have registered your favorite Designer."/>
   <key id="s_meratmarket_bookmark_limit_maxcount" value="Max {0}People can register to Favorites only.\nPlease try again after you have wiped the Favorites list."/>
-  <key id="s_meratmarket_bookmark_input_search" value="Please enter the name of the designer you want to search."/>
+  <key id="s_meratmarket_bookmark_input_search" value="Enter the name of the designer you want to search."/>
   <key id="s_meratmarket_bookmark_empty_products" value="The designers on sale items."/>
 
   <key id="s_meratmarket_basket_limit_maxcount" value="The cart has exceeded the maximum number that you can hold."/> <!--{0} Displays the maximum number of registration, shopping cart, type:-->
@@ -2909,7 +2909,7 @@
   <key id="s_home_password_mismatch" value="The password is incorrect." />
   <key id="s_home_password_block_time" value="You can try in succession.\nPlease try again after a while." />
 
-  <key id="s_home_password_on_chat_msg" value="Set a password. ({0}Years {1}- {2}Days {3:02d}: {4:02d}P.m.)" />
+  <key id="s_home_password_on_chat_msg" value="Set a password. Until ({0} {1}- {2} {3:02d} {4:02d})" />
   <key id="s_home_password_off_chat_msg" value="Password has been disabled." />
   <key id="s_home_password_enter_field_chat_msg" value="The password is set." />
   <key id="s_home_password_user_out_chat_msg" value="The house owner, all was set to export.\nWent out again after the entry.\n&lt;FONT color='#FFD200' &gt;10Go out after a few seconds, and\nExit go right at the touch of a button.&lt;/FONT&gt;" />
