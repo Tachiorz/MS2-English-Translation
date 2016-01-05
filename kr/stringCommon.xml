@@ -312,19 +312,19 @@
   <key id="s_groupchat_exit" value="{0} Chat rooms really?"/>
 
   <!--Mannequin-->
-	 <key id="s_fittingdoll_error_invalid_owner" value="It&#8217;s not a mannequin I own."/>
+	 <key id="s_fittingdoll_error_invalid_owner" value="You do not own a mannequin."/>
 
-	 <key id="s_fittingdoll_InvalidDoll" value="System error : Mannequin. Code = {0}"/>
-	 <key id="s_fittingdoll_InvalidItemType_Skin" value="Game items can be worn by a mannequin."/>
-	 <key id="s_fittingdoll_InvalidItemType_Equip" value="Skin items wearable mannequins."/>
-	 <key id="s_fittingdoll_InventoryFull" value="Belongings are full."/>
+	 <key id="s_fittingdoll_InvalidDoll" value="System Error : Mannequin. Code = {0}"/>
+	 <key id="s_fittingdoll_InvalidItemType_Skin" value="A mannequin can only equip game items."/>
+	 <key id="s_fittingdoll_InvalidItemType_Equip" value="A mannequin can only skin items."/>
+	 <key id="s_fittingdoll_InventoryFull" value="Your inventory is full."/>
 
-	 <key id="s_fittingdoll_InvalidItem" value="Wearable items."/>
+	 <key id="s_fittingdoll_InvalidItem" value="This item cannot be equipped."/>
 	 <key id="s_fittingdoll_InvalidItem_rule" value="Cannot be used with the weapons now."/>
-	 <key id="s_fittingdoll_Invaliditem_limit" value="Level, gender, job restrictions can&#8217;t wear items are included."/>
-	 <key id="s_fittingdoll_Invaliditem_male" value="Male or Coed items can be worn by a mannequin."/>
-	 <key id="s_fittingdoll_Invaliditem_female" value="Women&#8217;s or men&#8217;s and women&#8217;s shared items can be worn by a mannequin."/>
-	 <key id="s_fittingdoll_Invalid_slot" value="Cannot equip slots."/>
+	 <key id="s_fittingdoll_Invaliditem_limit" value="This item cannot be equipped because it contains a restriction due to level, gender, class."/>
+	 <key id="s_fittingdoll_Invaliditem_male" value="Only male and unisex items can be equipped on this mannequin"/>
+	 <key id="s_fittingdoll_Invaliditem_female" value="Only female and unisex items can be equipped on this mannequin."/>
+	 <key id="s_fittingdoll_Invalid_slot" value="Cannot be equipped in this slot."/>
 
  <!-- ==================================================================================================================================================================================== -->
  <!-- Chat notification AppendChatMessage The definitive phrases s-->
@@ -1031,13 +1031,13 @@
   <key id="s_item_type_righthand" value="Right-handed"/>
   <key id="s_item_opt_error" value="Item Option Error. code={0}"/>
 
-  <key id="s_item_opt_sa_improve_acquire_exp" value="EXP from enemies"/>
-  <key id="s_item_opt_sa_improve_acquire_exp_v" value="+{0} Increased EXP from enemies"/>
-  <key id="s_item_opt_sa_improve_acquire_exp_r" value="+{0:0.1f}% Increased EXP from enemies"/>
-  <key id="s_item_opt_sa_improve_acquire_meso" value="Increased Meso from enemies"/>
-  <key id="s_item_opt_sa_improve_acquire_meso_v" value="+{0:d} Increased Meso from enemies"/>
-  <key id="s_item_opt_sa_improve_acquire_meso_r" value="+{0:0.1f}% Increased Meso from enemies"/>
-  <key id="s_item_opt_sa_improve_acquire_questreward_exp" value="Increased EXP from completing quests"/>
+  <key id="s_item_opt_sa_improve_acquire_exp" value="EXP from Enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_exp_v" value="+{0} EXP from Enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_exp_r" value="+{0:0.1f}% EXP from Enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_meso" value="Meso from Enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_meso_v" value="+{0:d} Meso from Enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_meso_r" value="+{0:0.1f}% Meso from Enemies"/>
+  <key id="s_item_opt_sa_improve_acquire_questreward_exp" value="EXP from Completing Quests"/>
   <key id="s_item_opt_sa_improve_acquire_questreward_exp_v" value="+{0} EXP from Completing Quests"/>
   <key id="s_item_opt_sa_improve_acquire_questreward_exp_r" value="+{0:0.1f}% EXP from Completing Quests"/>
   <key id="s_item_opt_sa_improve_acquire_questreward_meso" value="Meso from Completing Quests"/>
@@ -1046,9 +1046,9 @@
   <key id="s_item_opt_sa_improve_npckill_dropitem_incrate" value="Item Drop Rate from Enemies"/>
   <key id="s_item_opt_sa_improve_npckill_dropitem_incrate_v" value="+{0:d} Item Drop Rate from Enemies"/>
   <key id="s_item_opt_sa_improve_npckill_dropitem_incrate_r" value="+{0:0.1f}% Item Drop Rate from Enemies"/>
-  <key id="s_item_opt_sa_improve_speed_swim" value="Increased Swimming Speed"/>
-  <key id="s_item_opt_sa_improve_speed_swim_v" value="{0:d} Increased Swimming Speed"/>
-  <key id="s_item_opt_sa_improve_speed_swim_r" value="{0:0.1f}% Increased Swimming Speed"/>
+  <key id="s_item_opt_sa_improve_speed_swim" value="Swimming Speed"/>
+  <key id="s_item_opt_sa_improve_speed_swim_v" value="+{0:d} Swimming Speed"/>
+  <key id="s_item_opt_sa_improve_speed_swim_r" value="+{0:0.1f}% Swimming Speed"/>
   <key id="s_item_opt_sa_improve_speed_dash" value="Dash Range"/>
   <key id="s_item_opt_sa_improve_speed_dash_v" value="+{0:d} Dash Range"/>
   <key id="s_item_opt_sa_improve_speed_dash_r" value="+{0:0.1f}% Dash Range"/>
@@ -1062,8 +1062,8 @@
   <key id="s_item_opt_sa_improve_damage_critical_v" value="+{0:d} Critical Damage"/>
   <key id="s_item_opt_sa_improve_damage_critical_r" value="+{0:0.1f}% Critical Damage"/>
   <key id="s_item_opt_sa_improve_damage_normalNpc" value="Normal Monsters Damage"/>
-  <key id="s_item_opt_sa_improve_damage_normalNpc_v" value="{0:d} Increased Attack on Normal Monsters"/>
-  <key id="s_item_opt_sa_improve_damage_normalNpc_r" value="{0:0.1f}% Increased Attack on Normal Monsters"/>
+  <key id="s_item_opt_sa_improve_damage_normalNpc_v" value="+{0:d} Normal Monsters Damage"/>
+  <key id="s_item_opt_sa_improve_damage_normalNpc_r" value="+{0:0.1f}% Normal Monsters Damage"/>
   <key id="s_item_opt_sa_improve_damage_leaderNpc" value="Leader Damage"/>
   <key id="s_item_opt_sa_improve_damage_leaderNpc_v" value="+{0:d} Leader Damage"/>
   <key id="s_item_opt_sa_improve_damage_leaderNpc_r" value="+{0:0.1f}% Leader Damage"/>
@@ -1651,7 +1651,7 @@
   <key id="s_mail_cleaning_title" value="Are you sure you want to cleanup your mailbox?\n&lt;FONT color='#FFD200'&gt;However, letters with attachments remain undeleted.&lt;/FONT&gt;"/>
   <key id="s_mail_cleaning_usermail" value="Read the letter by regular mail of deleted"/>
   <key id="s_mail_cleaning_systemmail" value="Read the letter of the special vote-by-mail deletion"/>
-  <key id="s_mail_send_date" value="{0}-{1}-{2} {3}:{4} {5}"/>
+  <key id="s_mail_send_date" value="{0}-{1}-{2} {4}:{5} {3}"/>
   <key id="s_mail_attach_item" value="Would like to send this much?"/>
   <key id="s_mail_delete_confirm" value="Are you sure you want to delete this letter?"/>
   <key id="s_mail_delete_exist_attach" value="An attachment is attached to it.\n Are you sure you want to delete this letter?"/>
@@ -2283,7 +2283,7 @@
 
   <!-- Hunting -->
   <key id="s_hunting_kill_boss" value="{1} released its last breath due to the final blow of {0}."/>
-  <key id="s_hunting_npc_kill_boss" value="{1} released its last breath because of {0}" />
+  <key id="s_hunting_npc_kill_boss" value="{1} released its last breath because of {0}." />
 
   <!-- Battlefield -->
   <key id="s_mode_pvp_status_winner" value="{0} wins"/>
@@ -2344,12 +2344,12 @@
   <key id="s_maintenance_title" value="Modify the contents of the notification"/>
   <key id="s_maintenance_modify_enable" value="You can modify the contents of the notification."/>
 
-  <!-- Decomposition -->
-  <key id="s_itembreak_unknown_err" value="System error : Item (s). code = {0}"/>
-  <key id="s_itembreak_invalid_item" value="Cannot be disassembled without destroying it."/>
-  <key id="s_itembreak_excellent_item" value="New rating contains more than one item.\nAre you sure you want to really explode?"/>
+  <!-- Dismantle -->
+  <key id="s_itembreak_unknown_err" value="System error : Item. code = {0}"/>
+  <key id="s_itembreak_invalid_item" value="This item cannot be dismantled."/>
+  <key id="s_itembreak_excellent_item" value="This item is ranked Excellent or higher.\nAre you really sure you want to dismantle this item?"/>
 
-  <!-- Recall -->
+  <!-- Summon -->
   <key id="s_recall_user_notify_recall" value="{0} Su recalled."/>
   <key id="s_recall_user_notify_confirm_recall" value="{0} Hauled to the request submitted by."/>
   <key id="s_recall_user_notify_recalled" value="{0} You force the recall."/>
@@ -2359,16 +2359,16 @@
   <key id="s_recall_user_notify_already_recalled" value="{0} The Lord has already been summoned."/>
   <key id="s_recall_user_confirm" value="{0} You summon.\nDo you want to allow a subpoena?"/>
 
-  <!-- BlackMarket -->
-  <key id="s_err_lack_itemcount" value="Out-of-stock merchandise."/>
-  <key id="s_err_null_product" value = "Does not sell products."/>
+  <!-- Black Market -->
+  <key id="s_err_lack_itemcount" value="Out of stock."/>
+  <key id="s_err_null_product" value = "This item is not for sale."/>
 
   <key id="s_blackmarket_mail_to_sender" value="Black Market Trader"/>
-  <key id="s_blackmarket_mail_to_cancel_direct" value="Direct cancellation"/>
-  <key id="s_blackmarket_mail_to_buyer_recver" value="[The buyer]"/>
-  <key id="s_blackmarket_mail_to_seller_title" value="[Black market] Settlement complete: {0}"/>
-  <key id="s_blackmarket_mail_to_seller_title2" value="[Black market] For sale complete: {0}"/>
-  <key id="s_blackmarket_mail_to_seller_content" value="Black market sale price settlement was completed.\nPlease check the attached amounts.\n\nFor sale items: {0}\nPriced to sell: {1} Meso\nSales commissions: - {2}Meso\n        (Sales in the amount of {3}%)\n----------------------------------------------\nSale price: {4}Meso\n(Settlement complete)"/>
+  <key id="s_blackmarket_mail_to_cancel_direct" value="Cancel Direct"/>
+  <key id="s_blackmarket_mail_to_buyer_recver" value="[Buyer]"/>
+  <key id="s_blackmarket_mail_to_seller_title" value="[Black Market] Complete Settlement: {0}"/>
+  <key id="s_blackmarket_mail_to_seller_title2" value="[Black Market] Confirm Sale: {0}"/>
+  <key id="s_blackmarket_mail_to_seller_content" value="Black Market sale price settlement was completed.\nPlease check the attached amounts.\n\nFor sale items: {0}\nPriced to sell: {1} Meso\nSales commissions: - {2}Meso\n        (Sales in the amount of {3}%)\n----------------------------------------------\nSale price: {4}Meso\n(Settlement complete)"/>
   <key id="s_blackmarket_mail_to_seller_content2" value="One of the items consigned to the black market for sale.\nOur black market, in order to prevent abuse, such as the trading fraud {0}Payout time settlement period.\nTherefore, sale price items being sold {0}Over time, the Commission will send a separate mail, except for the amount.\n\nFor sale items: {1}\nPriced to sell: {2} Merle (per piece {3}Merle)\nSales commissions: - {4}Meso\n        (Sales in the amount of {5}%)\n----------------------------------------------\nSettlement slated for sale price: {6}Meso\n({0}Hours after the settlement plan)"/>
   <key id="s_blackmarket_mail_to_seller_content2_itemname" value="{0} ({1}The dog)"/>
   <key id="s_blackmarket_mail_to_buyer_title" value="[Black market] Purchase complete: {0}"/>
@@ -2379,49 +2379,49 @@
   <key id="s_blackmarket_mail_to_fail_add_content" value="Failed to register the consignment sale, the item was mailed."/>
   <key id="s_blackmarket_notice_try_later" value="Please try again after a while."/>
 
-  <key id="s_blackmarket_error_code" value="System error :Black market code={0}"/>
-  <key id="s_blackmarket_error_disable_registitem" value="Can not charge."/>
+  <key id="s_blackmarket_error_code" value="System Error :Black Market code={0}"/>
+  <key id="s_blackmarket_error_disable_registitem" value="This item cannot be listed."/>
   <key id="s_blackmarket_error_close" value="Now is not the time for business."/>
-  <key id="s_blackmarket_error_already_remove" value="Already on sale items."/> <!--Already the sale canceled, other users to buy.-->
-  <key id="s_blackmarket_error_invalid_sale_price" value="Please re-enter the amount sold."/>
-  <key id="s_blackmarket_error_invalid_sale_price_range" value="Sales amount {0} - {1} Please enter through."/>
-  <key id="s_blackmarket_error_invalid_sale_count" value="Please re-type the number sold."/>
-  <key id="s_blackmarket_error_lack_sale_count" value="Please re-type the number sold."/>
-  <key id="s_blackmarket_error_max_register_item" value="Registration has exceeded the number available.\nMax {0}No registration."/>
-  <key id="s_blackmarket_error_fail_register" value="Registration failed.\nThe item is registered, check your mail."/>
-  <key id="s_blackmarket_error_register_not_exist_in_inven" value="The item is not in your belongings, you cannot register.\nPlease select a different item."/>
+  <key id="s_blackmarket_error_already_remove" value="This item is already sold."/> <!--Already the sale canceled, other users to buy.-->
+  <key id="s_blackmarket_error_invalid_sale_price" value="Re-enter the selling price."/>
+  <key id="s_blackmarket_error_invalid_sale_price_range" value="Enter the selling price between {0} - {1}."/>
+  <key id="s_blackmarket_error_invalid_sale_count" value="Re-enter the sell count."/>
+  <key id="s_blackmarket_error_lack_sale_count" value="Re-enter the sell count."/>
+  <key id="s_blackmarket_error_max_register_item" value="You've exceeded the maximum number of listings.\nYou can list up to {0} items."/>
+  <key id="s_blackmarket_error_fail_register" value="Listing failed.\nCheck the item in your mailbox."/>
+  <key id="s_blackmarket_error_register_not_exist_in_inven" value="You cannot list this item because it isn't in your inventory.\nSelect a different item."/>
   <key id="s_blackmarket_error_already_add" value="The first was a request to register the item (s)\nThe item has not been registered.\n&lt;FONT color='#FF5F5F'&gt;Checked items for sale please register again.&lt;/FONT&gt;"/>
-  <key id="s_blackmarket_error_search_invalid_name" value="Please enter the exact name of the item."/>
-  <key id="s_blackmarket_error_search_invalid_count" value="Please check the number you want to retrieve."/>
+  <key id="s_blackmarket_error_search_invalid_name" value="Enter the exact name of the item."/>
+  <key id="s_blackmarket_error_search_invalid_count" value="Confirm the number count you want to search."/>
 
-  <key id="s_blackmarket_price_1_unit" value="Per piece {0}"/>
-  <key id="s_blackmarket_upper_rank" value="{0} More"/>
-  <key id="s_blackmarket_remain_time_hhmmss" value="{0:02d}Time {1:02d}Min. {2:02d}Seconds"/>
-  <key id="s_blackmarket_remain_time_mmss" value="{0:02d}Min. {1:02d}Seconds"/>
-  <key id="s_blackmarket_remain_time_ss" value="{0:02d}Seconds"/>
+  <key id="s_blackmarket_price_1_unit" value="per {0}"/>
+  <key id="s_blackmarket_upper_rank" value="{0} and higher"/>
+  <key id="s_blackmarket_remain_time_hhmmss" value="{0:02d}h{1:02d}m {2:02d}s"/>
+  <key id="s_blackmarket_remain_time_mmss" value="{0:02d}m {1:02d}s"/>
+  <key id="s_blackmarket_remain_time_ss" value="{0:02d}s"/>
   <key id="s_blackmarket_shutdown" value="Disabled"/>
-  <key id="s_blackmarket_notice_fee" value="\n Charging fees: 15% of the sales price\n (Sale of goods: sales amount automatically deducted)"/>
+  <key id="s_blackmarket_notice_fee" value="\n Fee: 15% of the selling price\n (The amount is automatically deducted at time of sale)"/>
 
   <!--Unused-->
   <key id="s_blackmarket_openday_1day" value="Weekly {0}"/>
   <key id="s_blackmarket_openday_2day" value="Weekly {0}, {1}"/>
   <key id="s_blackmarket_openday_over_2day" value="Weekly {0} ~ {1}"/>
   <key id="s_blackmarket_openday_with_hour" value="Weekly {0} {1} ~ {2} {3}"/>
-  <key id="s_blackmarket_openday_am" value="AM {0}:00"/>
-  <key id="s_blackmarket_openday_pm" value="PM {0}:00"/>
+  <key id="s_blackmarket_openday_am" value="{0}:00 AM"/>
+  <key id="s_blackmarket_openday_pm" value="{0}:00 PM"/>
 
-  <key id="s_blackmarket_notice_close" value="It is now not available.\nAvailable time : {0}"/>
+  <key id="s_blackmarket_notice_close" value="Currently unavailable.\nOpening Time : {0}"/>
 
 
-  <key id="s_blackmarket_notice_sell_complete" value="The item is registered at the black market have been sold. Please check the Inbox."/>
+  <key id="s_blackmarket_notice_sell_complete" value="Your listed item at the Black Market has been sold. Check your mailbox."/>
 
-  <key id="s_msg_blackmarket_complete_register" value="Black market items for sale have been charging."/>
-  <key id="s_msg_blackmarket_complete_remove" value="Item was deleted from the list of charge. Please check the Inbox.\n"/>
-  <key id="s_msg_blackmarket_complete_buy" value="I bought an item from the black market.\nPlease check the Inbox.\n "/>
-  <key id="s_msg_blackmarket_complete_stopsale" value="Items for sale consignments. Please check the Inbox."/>
+  <key id="s_msg_blackmarket_complete_register" value="You've listed the item to the Black Market."/>
+  <key id="s_msg_blackmarket_complete_remove" value="The item was removed from the list.\nCheck your mailbox.\n"/>
+  <key id="s_msg_blackmarket_complete_buy" value="You've bought item from the Black Market.\nPlease check your mailbox.\n "/>
+  <key id="s_msg_blackmarket_complete_stopsale" value="Canceled listing the item. Check your mailbox."/>
   <key id="s_msg_blackmarket_ask_buy" value="&lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt;&lt;Img Src='export_common_icon_meso' vspace='-4'&gt;&lt;/Img&gt;\n\nAre you sure you want to buy this item?\n "/>
-  <key id="s_msg_blackmarket_ask_stopsale" value="&lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt;&lt;Img Src='export_common_icon_meso' vspace='-4'&gt;&lt;/Img&gt;\n\n Are you sure you want to cancel the sale of a consignment of this item?\n "/>
-  <key id="s_msg_blackmarket_ask_close" value="To open the tray again, you must use more walkie-talkie.\nThe black market you want to navigate away?"/>
+  <key id="s_msg_blackmarket_ask_stopsale" value="&lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt;&lt;Img Src='export_common_icon_meso' vspace='-4'&gt;&lt;/Img&gt;\n\n Are you sure you want to cancel the listing of this item?\n "/>
+  <key id="s_msg_blackmarket_ask_close" value="You must use the Trader Walkie-Talkie to open it again.\nAre you sure you want to dismiss from the Black Market?"/>
 
   <key id="s_tooltip_blackmarket_sellprice" value="&lt;FONT color='#FFD200' size='15' &gt;The selling price per piece&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nRegister for the black market sale price per piece.\nA bundle of multiple registration, even if the\nOn the basis of the selling price per piece entered here\nThe total sales price." /> <!--{0}A minimum selling price as you can get.-->
 
@@ -2597,8 +2597,8 @@
   <key id="s_ugc_profile_terms" value="Are you sure you want to register your profile?"/>
   <key id="s_ugc_guildmark_terms" value="The Guild marks?"/>
 
-  <key id="s_blackmarket_terms" value="Are you sure you want to entrust the sale items?\n&lt;font color='#c00000'&gt;The black market will take up to an hour to register.&lt;/font&gt;"/>
-  <key id="s_blackmarket_terms_text_content" value="&lt;FONT color='#C0C0C0' size='15' &gt;Black market guide&lt;/FONT&gt;\n\n- Item (s) within one hour after application, maximum charge black market items are registered.\n- Unregister for sale: get paid items via email.\n- If the amount of items to be sold to collectors, and a 15% Commission on sales after 48 hours after payout, except by mail for a fee.\n- Sale price if you are not receiving mail within thirty (30) days period to expire and will be deleted.\n- If you are selling an unusual transaction history has been verified, the lender may be the recovery measures.\n"/>
+  <key id="s_blackmarket_terms" value="Are you sure you want to sell this item?\n&lt;font color='#c00000'&gt;It will take up to an hour for the item to be listed at the Black Market.&lt;/font&gt;"/>
+  <key id="s_blackmarket_terms_text_content" value="&lt;FONT color='#C0C0C0' size='15' &gt;Black Market Guide&lt;/FONT&gt;\n\n- Item (s) within one hour after application, maximum charge black market items are registered.\n- Unregister for sale: get paid items via email.\n- If the amount of items to be sold to collectors, and a 15% Commission on sales after 48 hours after payout, except by mail for a fee.\n- Sale price if you are not receiving mail within thirty (30) days period to expire and will be deleted.\n- If you are selling an unusual transaction history has been verified, the lender may be the recovery measures.\n"/>
 
   <key id="s_meratmarket_designers_terms_text_content" value="&lt;FONT color='#C0C0C0' size='15' &gt;UGCContent users notice and legal disclaimer&lt;/FONT&gt;\n\nThe user 'MapleStory 2'Within the services provided by the UGC(User-Generated Contents: User generated content), you can publish your use or production.\nProvided, however, UGCShould be made without a violation of the operating policy and is subject to change without warning, a violation of the/Delete/Recovery measures can be.\n\n1) Users within the game UGCFree production/You can do a post.\nIn this case, apply the design &#8217; is owned by the user, or produced by, the 'No item (s)' And 'Not even the design items' About intellectual property rights and copyright 'MapleStory 2'And (However, 'To apply a design'This if you infringe the rights of third parties shall not be applicable), 'MapleStory 2' The 'No item (s)' And 'Not even the design items'Against reuse, open to the public, you can have the right to transmit.\n\n2) Posted by users UGCIn-game/You can be exposed to anyone besides, screenshots, etc., and by others through replication and can be stored.\n\n3) Seamless  UGC Observe the precautions below for use on our secure online booking form and submit.\n- The user rights of others (copyrights, trademarks, publicity rights, intellectual property rights, such as rights of privacy-related rights of personal information), UGCAuthoring/Do not post,'MapleStory 2'If the infringement is said randomly deleted or non-disclosure.\n- The user expresses hatred, slander and political inclination is obscene, such as violation of the operating policies UGCAuthoring/Do not post, 'MapleStory 2'In cases deemed breaching the operating policies arbitrarily delete or non-disclosure.\n- Caution do not comply with the sanctions and change/Delete/If you are being reclaimed the game consumed goods (Barrett) is not paid back.\n\n4) 'MapleStory 2'The operational policy is a violation of UGCAuthoring/Publishing/To the user using the game, you can do a limit for the service.\n\n5) Designer&#8217;s shop you can get from 10 million in revenue a month for up to Merle Barrett.\n- To give a chance to more user account can get maximum revenue for one month.\n- Designer&#8217;s shop sold the goods acquired the design in monthly revenue exceeds 100,000 Tome Bobcats all registered items my account 'Sold out'Has been observed. 'Sold out'The processed goods are goods on the list, but it is not available to other people. Still on sale on the 1st of the next month of the remaining items of the period 'Sold out' Status, and other people will be able to purchase.\n'Sold out' The remaining sales of goods of the State period, the advertising is not a separate compensation for the period. \n- -10 million sales revenue reaches Merit next month until one day my shop sells new product registration, status change, sale items, you cannot delete it.\n\n*'MapleStory 2'The rights of all users trying to prevent infringement, and breach of rights, &#8217; rights violation report Center &#8217; of the &#8217; report &#8217;, please apply no later than through.\n"/>
   <key id="s_meratmarket_designers_terms" value="Are you sure you want to register the goods to designer&#8217;s shop?\n&lt;font color='#c00000'&gt;The costs paid will not be refunded.&lt;/font&gt;"/>
