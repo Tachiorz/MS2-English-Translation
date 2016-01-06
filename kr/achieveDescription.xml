@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Parsing this data used do not directly modify the --><ms2>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
 	<achieve id="21100001" desc="" complete="" manualDesc="Job advance to Knight" manualComplete="Advanced to Knight"/>
 	<achieve id="21100002" desc="" complete="" manualDesc="Job advance to Berserker" manualComplete="Advanced to Berserker"/>
 	<achieve id="21100003" desc="" complete="" manualDesc="Job advance to Wizard" manualComplete="Advanced to Wizard"/>

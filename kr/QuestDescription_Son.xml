@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Parsing this data used do not directly modify the --><ms2>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
 	<quest questID="30000010" name="Dear logbook" desc="Sailing to meet sudden inexplicable during storm $map:02000062$Adrift in a $npc:11000444$.&#10;He cherishes the Decade came floating down to the water crisis in the navigation journal to write in.&#10;On behalf of the injured leg $map:02000062$ Offshore from $item:30000150$ Out of Rioja." manual="$map:02000062$ Offshore from $item:30000150$ Search" complete="$map:02000062$In the $npc:11000444$ Meet" count="1"/>
 	<quest questID="30000011" name="A prerequisite of the sail" desc="The storm was a smash and crash because the custodians apostasy $item:30000151$Also lost, but $npc:11000444$.&#10;Sadly not seen collapsed crying Nishi $map:02000068$Go to the $npc:11000019$ Meet $item:30000151$ Be sure to give the issue a map of the area.&#10;$map:02000068$ $map:02000062$." manual="" complete="$map:02000068$ Inside the building the $npc:11000019$ Meet" count=""/>
 	<quest questID="30000012" name="Dreaming new again" desc="As it turned out $npc:11000019$ $npc:11000444$I was a big fan of. &#10;$npcName:11000444$To $item:30000151$ Bring the runners. &#10;And feel free to $item:30000151$ If you need to $map:02000068$Of $npc:11000019$ In the drawer next to the $item:30000151$ Let me also say they can even give out." manual="" complete="$map:02000062$In the $npc:11000444$ Meet" count=""/>

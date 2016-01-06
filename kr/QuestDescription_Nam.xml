@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Parsing this data used do not directly modify the --><ms2>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
 	<quest questID="10001000" name="Santiago's Worry" desc="$npc:11000021$The youngest grandson of the $npc:11000054$ Send in the swarm while Hyun-Sik, know suddenly faded away.&#10;$npc:11000054$ Where? &#10;$map:63000001$In the $npc:11000148$ But I, $npc:11000054$As to the whereabouts of a map of the area." manual="" complete="$map:63000001$In $npc:11000148$ Meet" count=""/>
 	<quest questID="10001001" name="Start of a journey" desc="$npc:11000016$This time the offer from Al Hyun-Sik, it is possible to attend ordinary residents are heard. I wonder if once in a life time horse? is a very special chance unto you don't want to miss. I leave?" manual="$map:63000001$In the $npc:11000016$ Dialogue Reese havens row boating" complete="$map:02000062$In $npc:11000096$ Meet" count="0"/>
 	<quest questID="10001002" name="The Empress's Word" desc="Island village kid $npc:11000080$ $map:02000062$Looking back from seem to be more marvellous. $map:02000001$ Is another good face seems to be able to meet them.&#10;$map:02000062$In $map:02000001$The Royal Road if I don't go?&#10;Once, $map:02000062$In $map:02000114$ Find your way through that link." manual="Al Hyun-Sik open $map:02000001$ Top" complete="$map:02000001$In $npc:11000160$ Meet" count="0"/>

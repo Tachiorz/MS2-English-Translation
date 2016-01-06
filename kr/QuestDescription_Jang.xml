@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Parsing this data used do not directly modify the --><ms2>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
 	<quest questID="20001000" name="The new cement materials" desc="$map:02000017$Packed in a stream of $npc:21000029$ You can hunt $item:20000055$ Let's get!" manual="NAT in the $npc:21000029$ You can hunt $item:20000055$ Get" complete="" count="1"/>
 	<quest questID="20001001" name="Cement in my hand!" desc="$map:02000017$Of $npc:11000350$ Next to the Palace in this $item:30000094$ Production!&#10;Necessary in the production of cement $item:20000055$ $npc:21000029$ If you have the ingredients for another hunt could save it seems that there is no need to save." manual="$npc:11000350$To $item:020000055$ Take the w in the uterus $item:30000094$ But coming" complete="" count="1"/>
 	<quest questID="20001010" name="Cobra who's dead upset" desc="$map:02000148$Of $npc:11000353$ Pull the lever to appear around the $npc:99000038$Dispose of them!" manual="Hole $npc:99000038$To their aid" complete="" count="1"/>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Parsing this data used do not directly modify the --><ms2>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
 	<chapter id="1" name="Al Hyun-Sik, towards the" isTutorial="OK" regionID=""/>
 	<chapter id="2" name="Invisible truth" isTutorial="OK" regionID=""/>
 	<chapter id="3" name="Behind the shadows" isTutorial="OK" regionID=""/>

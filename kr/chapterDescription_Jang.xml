@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Parsing this data used do not directly modify the --><ms2>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
 	<chapter id="1000" name="Jeremy's life" isTutorial="" regionID=""/>
 	<chapter id="1001" name="Cobra who's dead upset" isTutorial="" regionID=""/>
 	<chapter id="1002" name="The elderly wife of a time capsule" isTutorial="" regionID=""/>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Parsing this data used do not directly modify the --><ms2>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
 	<key id="1" name="Attack"/>
 	<key id="11" name="Air attacks"/>
 	<key id="100001" name="Blunt Attack"/>

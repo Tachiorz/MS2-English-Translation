@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Parsing this data used do not directly modify the --><ms2>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
 	<description id="20000014" mapcode="2000001" groupNo="4" privilege_Icon="./Data/Resource/Image/UGCMap/privilege/cow.png" privilege_Title="Stall" privilege_Tooltip="Around the House to get a special item for the cattle."/>
 	<description id="20000015" mapcode="2000001" groupNo="5" privilege_Icon="./Data/Resource/Image/UGCMap/privilege/cow.png" privilege_Title="Stall" privilege_Tooltip="Around the House to get a special item for the cattle."/>
 	<description id="20000016" mapcode="2000001" groupNo="6" privilege_Icon="./Data/Resource/Image/UGCMap/privilege/cow.png" privilege_Title="Stall" privilege_Tooltip="Around the House to get a special item for the cattle."/>

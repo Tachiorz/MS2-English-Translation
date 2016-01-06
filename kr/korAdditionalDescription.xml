@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Parsing this data used do not directly modify the --><ms2>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
 	<key id="10000031" level="1" name="Butting" tooltipDescription="The head is strongly rap blindsided!\nActing stunned wonderment"/>
 	<key id="10100031" level="1" name="Piercing blade" tooltipDescription="Shield strongly rap blindsided!\nActing stunned wonderment"/>
 	<key id="10100041" level="1" name="Advance trumpet" tooltipDescription="Horn is a scam!\nDamage increases by 10%"/>

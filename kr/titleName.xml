@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Parsing this data used do not directly modify the --><ms2>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
 	<key id="0" name="No Title"/>
 	<key id="10000001" name="Apprentice Knight"/>
 	<key id="10000002" name="Apprentice Berserker"/>

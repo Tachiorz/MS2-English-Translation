@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 --><ms2>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
 	<address mapcode="02000001" blockCode="1" blockNameKor="궁전 돌담길" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000001" blockCode="2" blockNameKor="에레브 로드" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000001" blockCode="3" blockNameKor="프리미엄 아파트" blockModifierKor="" blockNameEng="" blockModifierEng=""/>

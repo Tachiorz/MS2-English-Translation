@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- Parsing this data used do not directly modify the --><ms2>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
 	<quest questID="40001000" name="Warehouse clearance later" desc="$npc:11000148$ $npc:11000104$ With the window and decided to clean up.&#10;But the lower back aches, delaying later wanting to clean up the warehouse $npc:11000148$.&#10;$npc:11000054$Tell me about the whereabouts of Russia $npc:11000104$Incidentally, to tell him this news with a runner." manual="" complete="$map:63000001$In the $npc:11000104$ Meet" count=""/>
 	<quest questID="40001001" name="Touch of warmth" desc="Is considered a tropical juice in the sand found on the collapsed House $npc:11000105$.&#10;Now, I don't think I hit the nail and help.&#10;$npc:11000105$ On behalf of the people, help the runners collapsed in the sand House." manual="" complete="$map:02000062$In the $npc:11000444$ Meet" count=""/>
 	<quest questID="40001002" name="The owner of the balloon boy" desc="Fly: nakka balloons CHAN $npc:11000114$ I'd like to give back to the balloon.&#10;Sister to meet $npc:11000114$ On behalf of the people, $item:30000171$ $npc:11000389$Would bring to the party." manual="$map:2000115$In the $npc:11000114$As to the $item:30000171$ Receive" complete="$map:02000115$In the $npc:11000389$ Meet" count="1"/>
