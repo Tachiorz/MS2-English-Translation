@@ -1,4 +1,5 @@
 import codecs, os, sys
+from io import BytesIO
 from lxml import etree as et
 
 root_dir = sys.argv[1]
@@ -11,7 +12,8 @@ for root, dirs, files in os.walk(root_dir):
 
 for xml_file in xml_files:
     parser = et.XMLParser(ns_clean=False, recover=True, remove_comments=False, remove_blank_text=False, encoding='utf-8')
-    tree = et.parse(xml_file, parser=parser)
+    with codecs.open(xml_file, 'r', 'utf-8') as f:
+        tree = et.parse(BytesIO(f.read().encode('utf-8')), parser=parser)
 
     print("Replacing " + xml_file)
     for i in tree.iter():
