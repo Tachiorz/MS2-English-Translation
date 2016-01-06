@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ms2>
-    <key id="80000001" name="Dimensional Crack" />
-    <key id="80000002" name="Dimensional Crack" />
-    <key id="80000003" name="Dimensional Crack" />
-    <key id="80000004" name="Dimensional Crack" />
-    <key id="80000005" name="Dimensional Crack" />
-	<key id="80000006" name="Dimensional Crack" />
-    <key id="80000007" name="Dimensional Crack" />
-    <key id="80000008" name="Dimensional Crack" />
-    <key id="80000009" name="Dimensional Crack" />
-    <key id="80000010" name="Dimensional Crack" />
-    <key id="80000011" name="Dimensional Crack" />
+    <key id="80000001" name="Dimensional Crack"/>
+    <key id="80000002" name="Dimensional Crack"/>
+    <key id="80000003" name="Dimensional Crack"/>
+    <key id="80000004" name="Dimensional Crack"/>
+    <key id="80000005" name="Dimensional Crack"/>
+	<key id="80000006" name="Dimensional Crack"/>
+    <key id="80000007" name="Dimensional Crack"/>
+    <key id="80000008" name="Dimensional Crack"/>
+    <key id="80000009" name="Dimensional Crack"/>
+    <key id="80000010" name="Dimensional Crack"/>
+    <key id="80000011" name="Dimensional Crack"/>
 
-    <key id="80000012" name="Ant Hell" />
-    <key id="80000013" name="Space vortex" />
+    <key id="80000012" name="Ant Hell"/>
+    <key id="80000013" name="Space vortex"/>
 </ms2>

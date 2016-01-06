@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <ms2>
 	<!-- default=1 : Built-in, reserved : Chat commands -->
 	<!-- SkillIDThe SkillEtcExpressing emotions that you set in the SkillIDAs input. -->
@@ -11,7 +10,7 @@
 	<key skillID="90200024" default="1" reserved="/Rejection,/OK,/Hate"/>
 	<key skillID="90200003" default="1" reserved="/Pout,/Complaints"/>
 	<key skillID="90200004" default="1" reserved="/Saucy,/Sneaky,/Hihi"/>
-	<key skillID="90200005" default="1" reserved="/Disappointed,/HA,/It&#8217;s the head"/>
+	<key skillID="90200005" default="1" reserved="/Disappointed,/HA,/It's the head"/>
 	<key skillID="90200006" default="1" reserved="/OK,/Thinner,/Happy"/>
 	<key skillID="90200031" default="1" reserved="/Black,/Cry,/En en,/A sobbing"/>		
 	<key skillID="90200041" default="1" reserved="/Sitting"/>
@@ -19,7 +18,7 @@
 
 	<key skillID="90200027" default="0" reserved="/Hand Kiss"/>
 	<key skillID="90200002" default="0" reserved="/Power,/Spirit, /Machine"/>
-	<key skillID="90200007" default="0" reserved="/I don&#8217;t know,/I do not know,/Don&#8217;t know"/>
+	<key skillID="90200007" default="0" reserved="/I don't know,/I do not know,/Don't know"/>
 	<key skillID="90200008" default="0" reserved="/Proud,/Cool pose/Woven"/>
 	<key skillID="90200009" default="0" reserved="/Frustrated,/No,/Blimey"/>
 	<key skillID="90200017" default="0" reserved="/Farah,/Para para,/Para para dancing"/>	

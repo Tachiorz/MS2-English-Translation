@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ms2>
 
   <!--common-->
@@ -7,14 +7,14 @@
   
   <key id="$s_common_confirm" value="Confirm"/>
   <key id="$s_common_cancel" value="Cancel"/>
-  <key id="$s_common_save" value="Save" />
-  <key id="$s_common_close" value="Close" />
-  <key id="$s_common_exit" value="Exit" />
+  <key id="$s_common_save" value="Save"/>
+  <key id="$s_common_close" value="Close"/>
+  <key id="$s_common_exit" value="Exit"/>
   
-  <key id="$s_common_day" value="d" />
-  <key id="$s_common_hour" value="h" />
-  <key id="$s_common_min" value="m" />
-  <key id="$s_common_sec" value="s" />
+  <key id="$s_common_day" value="d"/>
+  <key id="$s_common_hour" value="h"/>
+  <key id="$s_common_min" value="m"/>
+  <key id="$s_common_sec" value="s"/>
   
   <key id="$s_common_receive" value="Receive"/>
   <key id="$s_common_input_search_default" value="Please enter a search term."/>
@@ -118,7 +118,7 @@
   <key id="$s_itemopion_check_auto_etc" value="ETC Items"/>
   <key id="$s_itemopion_check_auto_meso" value="Meso"/>
   <key id="$s_itemopion_check_auto_merat" value="Merit"/>
-  <key id="$s_itemopion_check_auto_token" value="Other" />
+  <key id="$s_itemopion_check_auto_token" value="Other"/>
   
   <key id="$s_itemopion_dropdown_rank_all" value="Obtain All Ranks"/>
   <key id="$s_itemopion_dropdown_rank_up06" value="&lt;FONT color='#ff8c37'&gt;Artifact&lt;/FONT&gt; &amp; higher"/>
@@ -157,118 +157,118 @@
   <key id="$s_gameoption_sm_window" value="Windowed"/>
   <key id="$s_gameoption_sm_full_screen" value="Full screen"/>
   <key id="$s_gameoption_sm_full_window" value="Full screen windowed"/>  
-  <key id="$s_gameoption_smoothCamera" 	value="Smooth camera rendering"/>  
-  <key id="$s_gameoption_effectStep"		value="Effect quality"/>
-  <key id="$s_gameoption_brightness"		value="Screen brightness"/>
-  <key id="$s_gameoption_showFrameRate" 	value="Display FPS"/>  
-  <key id="$s_gameoption_advance_effect"	value="Advanced Screen Effect"/>
-  <key id="$s_gameoption_max_fov"			value="Maximum camera FOV"/>
-  <key id="$s_gameoption_close_all_dlg"		value="Close all windows at once with ESC"/>
-  <key id="$s_gameoption_auto_desc"			value="Display tooltips"/>
-  <key id="$s_gameoption_show_tip_text"		value="View help"/>
-  <key id="$s_gameoption_show_damagemeter"	value="Display damage meter" />
-  <key id="$s_gameoption_show_nametag_mark"	value="Display enchant mark" />
-  <key id="$s_gameoption_set_ui"			value="Control interface size"/>
-  <key id="$s_gameoption_set_quality"		value="Easy Setup"/>
-  <key id="$s_gameoption_hdr"				value="HDR"/>
-  <key id="$s_gameoption_shimmer"			value="Distortion effect"/>
-  <key id="$s_gameoption_vsync"				value="Vertical sync"/>
-  <key id="$s_gameoption_boss_notify_0"		value="Similar levels or quest objectives only"/>
-  <key id="$s_gameoption_boss_notify_1"		value="Quests only"/>
-  <key id="$s_gameoption_boss_notify_2"		value="Disabled"/>
-  <key id="$s_gameoption_set_boss_notify"	value="Elite/Boss monster spawn notification"/>
-  <key id="$s_gameoption_shadow"			value="Real-time Shadow"/>
-  <key id="$s_gameoption_multisampling"		value="Multisampling"/>
-  <key id="$s_gameoption_shadow_none"		value="No shadows"/>
-  <key id="$s_gameoption_shadow_simple"		value="Partial shadows"/>
-  <key id="$s_gameoption_shadow_realtime"	value="Real-time shadows"/>
-  <key id="$s_gameoption_device"			value="Video Card"/>
-  <key id="$s_gameoption_multisampling_0x"	value="0x Multisampling"/>
-  <key id="$s_gameoption_multisampling_2x"	value="2x Multisampling"/>
-  <key id="$s_gameoption_multisampling_4x"	value="4x Multisampling"/>
-  <key id="$s_gameoption_language_select"	value="Language"/>
-  <key id="$s_gameoption_language_select_kr"	value="Korean"/>
-  <key id="$s_gameoption_language_select_jp"	value="Japanese"/>
-  <key id="$s_gameoption_language_select_en"	value="English"/>
-  <key id="$s_gameoption_language_select_cn"	value="Chinese"/>
-  <key id="$s_gameoption_tooltip_quality"	value="Easily adjust your graphics settings in stages.\n\n&lt;FONT color='#FFD200' &gt;The higher the stage, the better your PC needs to be to run the game smoothly.\nA warning message will appear when you set it the quality setting higher than your PC can handle.&lt;/FONT&gt;"/>
-  <key id="$s_gameoption_tooltip_hdr"		value="Use the HDR option to improve the brightness on your screen.\n\n&lt;FONT color='#FFD200' &gt;This option requires a high-end PC.&lt;/FONT&gt;"/>
-  <key id="$s_gameoption_tooltip_hdr_on"	value="HDR &lt;FONT color='#FFD200' &gt;On&lt;/FONT&gt;"/>
-  <key id="$s_gameoption_tooltip_hdr_off"	value="HDR &lt;FONT color='#FFD200' &gt;Off&lt;/FONT&gt;"/>
-  <key id="$s_gameoption_tooltip_shimmer"	value="Adds a distorted representation to environments, skills and space.\n\n&lt;FONT color='#FFD200' &gt;This option requires a high-end PC.&lt;/FONT&gt;"/>
-  <key id="$s_gameoption_tooltip_shimmer_on"	value="Distortion Effect &lt;FONT color='#FFD200' &gt;On&lt;/FONT&gt;"/>
-  <key id="$s_gameoption_tooltip_shimmer_off"	value="Distortion Effect &lt;FONT color='#FFD200' &gt;Off&lt;/FONT&gt;"/>
-  <key id="$s_gameoption_tooltip_fps"		value="Displays a frames per second (FPS) counter on your screen.\n\n&lt;FONT color='#FFD200' &gt;60 FPS indicates smooth gameplay.\nAdjust your settings if your FPS is 30 or less.&lt;/FONT&gt;"/>
-  <key id="$s_gameoption_tooltip_vsync"		value="Synchronizes your FPS with the monitor's refresh rate.\n\n&lt;FONT color='#FFD200' &gt;Consider using this option if you are experiencing screen tearing. \nHowever, this may result in a lower FPS.&lt;/FONT&gt;"/>
-  <key id="$s_gameoption_tooltip_effect"	value="Adjust the quality of effects.\n\n&lt;FONT color='#FFD200' &gt;The higher the stage, the better your PC needs to be to run the game smoothly.&lt;/FONT&gt;"/>
+  <key id="$s_gameoption_smoothCamera" value="Smooth camera rendering"/>  
+  <key id="$s_gameoption_effectStep" value="Effect quality"/>
+  <key id="$s_gameoption_brightness" value="Screen brightness"/>
+  <key id="$s_gameoption_showFrameRate" value="Display FPS"/>  
+  <key id="$s_gameoption_advance_effect" value="Advanced Screen Effect"/>
+  <key id="$s_gameoption_max_fov" value="Maximum camera FOV"/>
+  <key id="$s_gameoption_close_all_dlg" value="Close all windows at once with ESC"/>
+  <key id="$s_gameoption_auto_desc" value="Display tooltips"/>
+  <key id="$s_gameoption_show_tip_text" value="View help"/>
+  <key id="$s_gameoption_show_damagemeter" value="Display damage meter"/>
+  <key id="$s_gameoption_show_nametag_mark" value="Display enchant mark"/>
+  <key id="$s_gameoption_set_ui" value="Control interface size"/>
+  <key id="$s_gameoption_set_quality" value="Easy Setup"/>
+  <key id="$s_gameoption_hdr" value="HDR"/>
+  <key id="$s_gameoption_shimmer" value="Distortion effect"/>
+  <key id="$s_gameoption_vsync" value="Vertical sync"/>
+  <key id="$s_gameoption_boss_notify_0" value="Similar levels or quest objectives only"/>
+  <key id="$s_gameoption_boss_notify_1" value="Quests only"/>
+  <key id="$s_gameoption_boss_notify_2" value="Disabled"/>
+  <key id="$s_gameoption_set_boss_notify" value="Elite/Boss monster spawn notification"/>
+  <key id="$s_gameoption_shadow" value="Real-time Shadow"/>
+  <key id="$s_gameoption_multisampling" value="Multisampling"/>
+  <key id="$s_gameoption_shadow_none" value="No shadows"/>
+  <key id="$s_gameoption_shadow_simple" value="Partial shadows"/>
+  <key id="$s_gameoption_shadow_realtime" value="Real-time shadows"/>
+  <key id="$s_gameoption_device" value="Video Card"/>
+  <key id="$s_gameoption_multisampling_0x" value="0x Multisampling"/>
+  <key id="$s_gameoption_multisampling_2x" value="2x Multisampling"/>
+  <key id="$s_gameoption_multisampling_4x" value="4x Multisampling"/>
+  <key id="$s_gameoption_language_select" value="Language"/>
+  <key id="$s_gameoption_language_select_kr" value="Korean"/>
+  <key id="$s_gameoption_language_select_jp" value="Japanese"/>
+  <key id="$s_gameoption_language_select_en" value="English"/>
+  <key id="$s_gameoption_language_select_cn" value="Chinese"/>
+  <key id="$s_gameoption_tooltip_quality" value="Easily adjust your graphics settings in stages.\n\n&lt;FONT color='#FFD200' &gt;The higher the stage, the better your PC needs to be to run the game smoothly.\nA warning message will appear when you set it the quality setting higher than your PC can handle.&lt;/FONT&gt;"/>
+  <key id="$s_gameoption_tooltip_hdr" value="Use the HDR option to improve the brightness on your screen.\n\n&lt;FONT color='#FFD200' &gt;This option requires a high-end PC.&lt;/FONT&gt;"/>
+  <key id="$s_gameoption_tooltip_hdr_on" value="HDR &lt;FONT color='#FFD200' &gt;On&lt;/FONT&gt;"/>
+  <key id="$s_gameoption_tooltip_hdr_off" value="HDR &lt;FONT color='#FFD200' &gt;Off&lt;/FONT&gt;"/>
+  <key id="$s_gameoption_tooltip_shimmer" value="Adds a distorted representation to environments, skills and space.\n\n&lt;FONT color='#FFD200' &gt;This option requires a high-end PC.&lt;/FONT&gt;"/>
+  <key id="$s_gameoption_tooltip_shimmer_on" value="Distortion Effect &lt;FONT color='#FFD200' &gt;On&lt;/FONT&gt;"/>
+  <key id="$s_gameoption_tooltip_shimmer_off" value="Distortion Effect &lt;FONT color='#FFD200' &gt;Off&lt;/FONT&gt;"/>
+  <key id="$s_gameoption_tooltip_fps" value="Displays a frames per second (FPS) counter on your screen.\n\n&lt;FONT color='#FFD200' &gt;60 FPS indicates smooth gameplay.\nAdjust your settings if your FPS is 30 or less.&lt;/FONT&gt;"/>
+  <key id="$s_gameoption_tooltip_vsync" value="Synchronizes your FPS with the monitor's refresh rate.\n\n&lt;FONT color='#FFD200' &gt;Consider using this option if you are experiencing screen tearing. \nHowever, this may result in a lower FPS.&lt;/FONT&gt;"/>
+  <key id="$s_gameoption_tooltip_effect" value="Adjust the quality of effects.\n\n&lt;FONT color='#FFD200' &gt;The higher the stage, the better your PC needs to be to run the game smoothly.&lt;/FONT&gt;"/>
   
-  <key id="$s_gameoption_MyName"			value="Display my name"/>
-  <key id="$s_gameoption_FriendlyName"		value="Display names of friendly players"/>
-  <key id="$s_gameoption_EnemyName"			value="Display names of hostile players"/>
-  <key id="$s_gameoption_NpcName"			value="Display NPC names"/>
-  <key id="$s_gameoption_MonsterName"		value="Display monster names"/>
-  <key id="$s_gameoption_MonsterGaugeValue"	value="Display monsters' remaining HP gauge"/>
-  <key id="$s_gameoption_ExpValue"			value="Display current EXP gauge"/>
-  <key id="$s_gameoption_MyHpGauge"			value="Display HP gauge above my character"/>
-  <key id="$s_gameoption_PartyHpGauge"		value="Display HP gauge above party members and friendly NPCs"/>
-  <key id="$s_gameoption_MonsterHpGauge"	value="Display HP gauge above monsters"/>
-  <key id="$s_gameoption_NormalChatBalloon"	value="Display area chat speech bubble"/>
-  <key id="$s_gameoption_PartyChatBalloon"	value="Display party chat speech bubble"/>
-  <key id="$s_gameoption_GuildChatBalloon"	value="Display guild chat speech bubble"/>
+  <key id="$s_gameoption_MyName" value="Display my name"/>
+  <key id="$s_gameoption_FriendlyName" value="Display names of friendly players"/>
+  <key id="$s_gameoption_EnemyName" value="Display names of hostile players"/>
+  <key id="$s_gameoption_NpcName" value="Display NPC names"/>
+  <key id="$s_gameoption_MonsterName" value="Display monster names"/>
+  <key id="$s_gameoption_MonsterGaugeValue" value="Display monsters' remaining HP gauge"/>
+  <key id="$s_gameoption_ExpValue" value="Display current EXP gauge"/>
+  <key id="$s_gameoption_MyHpGauge" value="Display HP gauge above my character"/>
+  <key id="$s_gameoption_PartyHpGauge" value="Display HP gauge above party members and friendly NPCs"/>
+  <key id="$s_gameoption_MonsterHpGauge" value="Display HP gauge above monsters"/>
+  <key id="$s_gameoption_NormalChatBalloon" value="Display area chat speech bubble"/>
+  <key id="$s_gameoption_PartyChatBalloon" value="Display party chat speech bubble"/>
+  <key id="$s_gameoption_GuildChatBalloon" value="Display guild chat speech bubble"/>
   
-  <key id="$s_gameoption_MyGiveDamage"	value="Display damage inflicted"/>
-  <key id="$s_gameoption_MyTakeDamage"	value="Display damage received"/>
-  <key id="$s_gameoption_MyGiveRecovery"	value="Display heal inflicted"/>
-  <key id="$s_gameoption_MyTakeRecovery"	value="Display heal received"/>
-  <key id="$s_gameoption_PartyGiveDamage"	value="Display damage inflicted by party members"/>
-  <key id="$s_gameoption_PartyTageDamage"	value="Display damage received by party members"/>
-  <key id="$s_gameoption_PartyRecovery"	value="Display heal received by party members"/>
-  <key id="$s_gameoption_DropIcon"		value="Display item drop cube"/>
-  <key id="$s_gameoption_GetMeso"		value="Display Mesos obtained"/>
-  <key id="$s_gameoption_GetExp"		value="Display EXP obtained"/>
-  <key id="$s_gameoption_EpGauge"		value="Display EP gauge"/>
-  <key id="$s_gameoption_Mode"			value="Display other players' damage with:"/>
-  <key id="$s_gameoption_Color"			value="Different colors"/>
-  <key id="$s_gameoption_Size"			value="Different sizes"/>
-  <key id="$s_gameoption_Alpha"			value="Different transparency"/>
-  <key id="$s_gameoption_damageSize"	value="Damage Size"/>
-  <key id="$s_gameoption_reset_interface"	value="Reset Interface"/>
+  <key id="$s_gameoption_MyGiveDamage" value="Display damage inflicted"/>
+  <key id="$s_gameoption_MyTakeDamage" value="Display damage received"/>
+  <key id="$s_gameoption_MyGiveRecovery" value="Display heal inflicted"/>
+  <key id="$s_gameoption_MyTakeRecovery" value="Display heal received"/>
+  <key id="$s_gameoption_PartyGiveDamage" value="Display damage inflicted by party members"/>
+  <key id="$s_gameoption_PartyTageDamage" value="Display damage received by party members"/>
+  <key id="$s_gameoption_PartyRecovery" value="Display heal received by party members"/>
+  <key id="$s_gameoption_DropIcon" value="Display item drop cube"/>
+  <key id="$s_gameoption_GetMeso" value="Display Mesos obtained"/>
+  <key id="$s_gameoption_GetExp" value="Display EXP obtained"/>
+  <key id="$s_gameoption_EpGauge" value="Display EP gauge"/>
+  <key id="$s_gameoption_Mode" value="Display other players' damage with:"/>
+  <key id="$s_gameoption_Color" value="Different colors"/>
+  <key id="$s_gameoption_Size" value="Different sizes"/>
+  <key id="$s_gameoption_Alpha" value="Different transparency"/>
+  <key id="$s_gameoption_damageSize" value="Damage Size"/>
+  <key id="$s_gameoption_reset_interface" value="Reset Interface"/>
   
-  <key id="$s_gameoption_BgTransparency"	value="Make nearby objects transparent"/>
-  <key id="$s_gameoption_CameraLooseFall"	value="Camera effect when falling"/>
-  <key id="$s_gameoption_VibrateEffect"		value="Screen shake effect"/>
-  <key id="$s_gameoption_damageEffectAlphaStep"	value="Hit effect transparency"/>
-  <key id="$s_gameoption_cameraLooseStep"	value="Smooth camera rendering"/>
-  <key id="$s_gameoption_cameraFovStep"		value="Maximum camera FOV"/>
+  <key id="$s_gameoption_BgTransparency" value="Make nearby objects transparent"/>
+  <key id="$s_gameoption_CameraLooseFall" value="Camera effect when falling"/>
+  <key id="$s_gameoption_VibrateEffect" value="Screen shake effect"/>
+  <key id="$s_gameoption_damageEffectAlphaStep" value="Hit effect transparency"/>
+  <key id="$s_gameoption_cameraLooseStep" value="Smooth camera rendering"/>
+  <key id="$s_gameoption_cameraFovStep" value="Maximum camera FOV"/>
   
   
-  <key id="$s_gameoption_myChatBalloon" 	value="Display my speech bubbles"/>
-  <key id="$s_gameoption_otherChatBalloon" 	value="Display other players' speech bubbles"/>
-  <key id="$s_gameoption_ChatWorld" 		value="Confirm Merit expenditure when using world chat"/>
-  <key id="$s_gameoption_ChatChannel" 		value="Confirm Merit expenditure when using channel chat"/>
-  <key id="$s_gameoption_partyRequest" 		value="Decline party requests"/>
-  <key id="$s_gameoption_buddyRequest" 		value="Decline friend requests"/>
-  <key id="$s_gameoption_guildRequest" 		value="Decline guild invites"/>
-  <key id="$s_gameoption_tradeRequest" 		value="Decline trade requests"/>
-  <key id="$s_gameoption_groupRequest" 		value="Decline group chat invites"/>
-  <key id="$s_gameoption_whisperNotify" 	value="Decline whispers"/>
+  <key id="$s_gameoption_myChatBalloon" value="Display my speech bubbles"/>
+  <key id="$s_gameoption_otherChatBalloon" value="Display other players' speech bubbles"/>
+  <key id="$s_gameoption_ChatWorld" value="Confirm Merit expenditure when using world chat"/>
+  <key id="$s_gameoption_ChatChannel" value="Confirm Merit expenditure when using channel chat"/>
+  <key id="$s_gameoption_partyRequest" value="Decline party requests"/>
+  <key id="$s_gameoption_buddyRequest" value="Decline friend requests"/>
+  <key id="$s_gameoption_guildRequest" value="Decline guild invites"/>
+  <key id="$s_gameoption_tradeRequest" value="Decline trade requests"/>
+  <key id="$s_gameoption_groupRequest" value="Decline group chat invites"/>
+  <key id="$s_gameoption_whisperNotify" value="Decline whispers"/>
   
-  <key id="$s_gameoption_muteAll" 			value="Mute"/>
-  <key id="$s_gameoption_playAll" 			value="Play sound when minimized"/>
+  <key id="$s_gameoption_muteAll" value="Mute"/>
+  <key id="$s_gameoption_playAll" value="Play sound when minimized"/>
   
-  <key id="$s_gameoption_mainSoundStep" 	value="Master Volume"/>
+  <key id="$s_gameoption_mainSoundStep" value="Master Volume"/>
 
-  <key id="$s_gameoption_bgmSoundStep" 		value="Background Music"/>
-  <key id="$s_gameoption_effectSoundStep" 	value="Default Sound Effect"/>
-  <key id="$s_gameoption_uiSoundStep" 		value="Interface Sound Effect"/>
-  <key id="$s_gameoption_enviromentSoundStep"	value="Environmental Sound Effect"/>  
-  <key id="$s_gameoption_movieSoundStep" 	value="Cutscene Sound Effects"/>
+  <key id="$s_gameoption_bgmSoundStep" value="Background Music"/>
+  <key id="$s_gameoption_effectSoundStep" value="Default Sound Effect"/>
+  <key id="$s_gameoption_uiSoundStep" value="Interface Sound Effect"/>
+  <key id="$s_gameoption_enviromentSoundStep" value="Environmental Sound Effect"/>  
+  <key id="$s_gameoption_movieSoundStep" value="Cutscene Sound Effects"/>
   
-  <key id="$s_gameoption_npcSoundStep" 		value="Character Voice"/>
-  <key id="$s_gameoption_bossSoundStep" 	value="Boss Monster Voice"/>
-  <key id="$s_gameoption_systemSoundStep" 	value="System Voice"/>
-  <key id="$s_gameoption_instrumentStep" 	value="Playing Instruments" />
-  <key id="$s_gameoption_instrumentStep_isOffBgm" value="Disable BGM when playing instruments" />
+  <key id="$s_gameoption_npcSoundStep" value="Character Voice"/>
+  <key id="$s_gameoption_bossSoundStep" value="Boss Monster Voice"/>
+  <key id="$s_gameoption_systemSoundStep" value="System Voice"/>
+  <key id="$s_gameoption_instrumentStep" value="Playing Instruments"/>
+  <key id="$s_gameoption_instrumentStep_isOffBgm" value="Disable BGM when playing instruments"/>
 
 
   
@@ -422,11 +422,11 @@
   <key id="$s_cameraedit_desc_custom_wheel" value="Mouse&lt;FONT color='#FFD200'&gt;Wheel&lt;/FONT&gt;What if I want to change the size or length as\n."/>
 	
   <!--worldmap-->
-  <key id="$s_worldmap_southperry"	value="Southperry"/>
-  <key id="$s_worldmap_lith" 		    value="Lith Harbor"/>
-  <key id="$s_worldmap_henesys" 	  value="Henesys"/>
-  <key id="$s_worldmap_ellinia" 	  value="Ellinia"/>
-  <key id="$s_worldmap_perion" 		  value="Perion"/>
+  <key id="$s_worldmap_southperry" value="Southperry"/>
+  <key id="$s_worldmap_lith" value="Lith Harbor"/>
+  <key id="$s_worldmap_henesys" value="Henesys"/>
+  <key id="$s_worldmap_ellinia" value="Ellinia"/>
+  <key id="$s_worldmap_perion" value="Perion"/>
   <key id="$s_worldmap_kerningcity" value="Kerning City"/>
   <key id="$s_worldmap_dropdown_default" value="World Map"/>
   <key id="$s_worldmap_dropdown_statistics" value="Statistics"/>
@@ -462,83 +462,83 @@
   <key id="$s_worldmap_island_karkar" value="Karkar Island"/>
   <key id="$s_worldmap_island_darkness" value="Darkness Island"/>
   <key id="$s_worldmap_island_runeblader" value="Kalev Island"/>
-  <key id="$s_worldmap_unknown_area"  value="Has not been found yet."/>
+  <key id="$s_worldmap_unknown_area" value="Has not been found yet."/>
 
   <!--minimap-->
-  <key id="$s_minimap_shop"	value="Merchant"/>
-  <key id="$s_minimap_friendly_npc"	value="Friendly NPC"/>
-  <key id="$s_minimap_enemy"	value="Monster"/>
-  <key id="$s_minimap_portal"	value="Portal"/>
-  <key id="$s_minimap_buddy"	value="Friend"/>
-  <key id="$s_minimap_other_pc"	value="Other Player"/>
-  <key id="$s_minimap_text"	value="Display Name"/>
-  <key id="$s_minimap_quest_epic"	value="Epic Quest"/>
-  <key id="$s_minimap_quest_world"	value="World Quest"/>
-  <key id="$s_minimap_quest_repeat"	value="Repeatable Quest"/>
+  <key id="$s_minimap_shop" value="Merchant"/>
+  <key id="$s_minimap_friendly_npc" value="Friendly NPC"/>
+  <key id="$s_minimap_enemy" value="Monster"/>
+  <key id="$s_minimap_portal" value="Portal"/>
+  <key id="$s_minimap_buddy" value="Friend"/>
+  <key id="$s_minimap_other_pc" value="Other Player"/>
+  <key id="$s_minimap_text" value="Display Name"/>
+  <key id="$s_minimap_quest_epic" value="Epic Quest"/>
+  <key id="$s_minimap_quest_world" value="World Quest"/>
+  <key id="$s_minimap_quest_repeat" value="Repeatable Quest"/>
 
   <!--upper hud-->  
-  <key id="$s_upper_hud_tooltip_attend"	value="&lt;FONT color='#FFD200' size='15' &gt;Attendance Check Event&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can check the check-ins of the attendance check on your account."/>
+  <key id="$s_upper_hud_tooltip_attend" value="&lt;FONT color='#FFD200' size='15' &gt;Attendance Check Event&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can check the check-ins of the attendance check on your account."/>
   <key id="$s_upper_hud_tooltip_manufacture" value="&lt;FONT color='#FFD200' size='15' &gt;Made production situation&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMaking a maid in the House now shows the status of the item.\nHow to produce the requested items to the progress made."/>
   <key id="$s_upper_hud_tooltip_search" value="&lt;FONT color='#FFD200' size='15' &gt;Maview Search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter a keyword to search on Maview."/>
   <key id="$s_upper_hud_tooltip_fishingbook" value="&lt;FONT color='#FFD200' size='15' &gt;Fish Encyclopedia&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can see which fish you've caught and what stage of fishing you are at."/>
 
   <!--myInfo-->
-  <key id="$s_myInfo_title" 	      value="Character Information"/>
-  <key id="$s_myInfo_guild_empty" 	value="You are not in a guild"/>
-  <key id="$s_myInfo_todaymemo" 	      value="Please enter your word of the day."/>
-  <key id="$s_myInfo_game" 	      value="Equipment"/>
-  <key id="$s_myInfo_skin" 	      value="Skin"/>
-  <key id="$s_myInfo_detail_show" 	  value="View More Stats"/>
-  <key id="$s_myInfo_detail_hide" 	  value="Hide Stats"/>
-  <key id="$s_myInfo_transparency_gem" 	  value="Item Transparency Settings"/>
-  <key id="$s_myInfo_transparency_cp" 	  value="Hide Hat"/>
-  <key id="$s_myInfo_transparency_ey" 	  value="Hide Eye Decoration"/>
-  <key id="$s_myInfo_transparency_cl" 	  value="Hide Top"/>
-  <key id="$s_myInfo_transparency_pa" 	  value="Hide Bottom"/>
-  <key id="$s_myInfo_transparency_mt" 	  value="Hide Cape"/>
-  <key id="$s_myInfo_transparency_ea" 	  value="Hide Earrings"/>
-  <key id="$s_myInfo_transparency_fh" 	  value="Hide Face Decoration"/>
-  <key id="$s_myInfo_transparency_gl" 	  value="Hide Gloves"/>
-  <key id="$s_myInfo_transparency_ri" 	  value="Hide Ring"/>
-  <key id="$s_myInfo_transparency_sh" 	  value="Hide Shoes"/>
-  <key id="$s_myInfo_transparency_ok" 	  value="Confirm"/>
-  <key id="$s_myInfo_transparency_cancel" 	  value="Cancel"/>
-  <key id="$s_myinfo_empty_title" 	  	value="No Title"/>
-  <key id="$s_myinfo_my_news_tooltip" 	  	value="&lt;FONT color='#FFD200' size='15' &gt;News search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMei, 2009 by Yahoo! News search results for this character appeared in the view."/>
-  <key id="$s_myinfo_empty_todaymemo" 	  	value="You have no word of the day"/>
+  <key id="$s_myInfo_title" value="Character Information"/>
+  <key id="$s_myInfo_guild_empty" value="You are not in a guild"/>
+  <key id="$s_myInfo_todaymemo" value="Please enter your word of the day."/>
+  <key id="$s_myInfo_game" value="Equipment"/>
+  <key id="$s_myInfo_skin" value="Skin"/>
+  <key id="$s_myInfo_detail_show" value="View More Stats"/>
+  <key id="$s_myInfo_detail_hide" value="Hide Stats"/>
+  <key id="$s_myInfo_transparency_gem" value="Item Transparency Settings"/>
+  <key id="$s_myInfo_transparency_cp" value="Hide Hat"/>
+  <key id="$s_myInfo_transparency_ey" value="Hide Eye Decoration"/>
+  <key id="$s_myInfo_transparency_cl" value="Hide Top"/>
+  <key id="$s_myInfo_transparency_pa" value="Hide Bottom"/>
+  <key id="$s_myInfo_transparency_mt" value="Hide Cape"/>
+  <key id="$s_myInfo_transparency_ea" value="Hide Earrings"/>
+  <key id="$s_myInfo_transparency_fh" value="Hide Face Decoration"/>
+  <key id="$s_myInfo_transparency_gl" value="Hide Gloves"/>
+  <key id="$s_myInfo_transparency_ri" value="Hide Ring"/>
+  <key id="$s_myInfo_transparency_sh" value="Hide Shoes"/>
+  <key id="$s_myInfo_transparency_ok" value="Confirm"/>
+  <key id="$s_myInfo_transparency_cancel" value="Cancel"/>
+  <key id="$s_myinfo_empty_title" value="No Title"/>
+  <key id="$s_myinfo_my_news_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;News search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMei, 2009 by Yahoo! News search results for this character appeared in the view."/>
+  <key id="$s_myinfo_empty_todaymemo" value="You have no word of the day"/>
   
-  <key id="$s_myInfo_menu_select_profile_enable" value = "Profile Settings"/>
-  <key id="$s_myInfo_menu_select_profile_disable" value = "Profile"/>
-  <key id="$s_myInfo_menu_take_photo" value = "Take Photo"/>
-  <key id="$s_myInfo_menu_input_memo" value = "Today's Word"/>
-  <key id="$s_myInfo_menu_hp" value = "HP"/>
-  <key id="$s_myInfo_menu_sp" value = "SP"/>
-  <key id="$s_myInfo_menu_lv" value = "Level"/>
-  <key id="$s_myInfo_menu_cb" value = "Battle"/>
-  <key id="$s_myInfo_menu_ad" value = "Adventure"/>
-  <key id="$s_myInfo_menu_lf" value = "Life"/>
-  <key id="$s_myInfo_menu_statistic" value = "Statistics"/>
-  <key id="$s_myInfo_menu_stat" value = "Character Stat"/>
-  <key id="$s_myInfo_menu_delete_profile"	value="Reset"/>
-  <key id="$s_myInfo_ugc_contract"	value="Real Estate Contract"/>
-  <key id="$s_myInfo_home_name"	value="House Name"/>
-  <key id="$s_myInfo_home_term"	value="Term"/>
+  <key id="$s_myInfo_menu_select_profile_enable" value="Profile Settings"/>
+  <key id="$s_myInfo_menu_select_profile_disable" value="Profile"/>
+  <key id="$s_myInfo_menu_take_photo" value="Take Photo"/>
+  <key id="$s_myInfo_menu_input_memo" value="Today's Word"/>
+  <key id="$s_myInfo_menu_hp" value="HP"/>
+  <key id="$s_myInfo_menu_sp" value="SP"/>
+  <key id="$s_myInfo_menu_lv" value="Level"/>
+  <key id="$s_myInfo_menu_cb" value="Battle"/>
+  <key id="$s_myInfo_menu_ad" value="Adventure"/>
+  <key id="$s_myInfo_menu_lf" value="Life"/>
+  <key id="$s_myInfo_menu_statistic" value="Statistics"/>
+  <key id="$s_myInfo_menu_stat" value="Character Stat"/>
+  <key id="$s_myInfo_menu_delete_profile" value="Reset"/>
+  <key id="$s_myInfo_ugc_contract" value="Real Estate Contract"/>
+  <key id="$s_myInfo_home_name" value="House Name"/>
+  <key id="$s_myInfo_home_term" value="Term"/>
   <key id="$s_myInfo_home_price" value="Price"/>
-  <key id="$s_myInfo_home_term_myinfo"	value="Contract Term"/>
-  <key id="$s_myInfo_home_price_myinfo"	value="Contract Price"/>
+  <key id="$s_myInfo_home_term_myinfo" value="Contract Term"/>
+  <key id="$s_myInfo_home_price_myinfo" value="Contract Price"/>
 
-  <key id="$s_myInfo_label_damage"	value="Attack"/>
-  <key id="$s_myInfo_label_defense"	value="Defense"/>
-  <key id="$s_myInfo_label_str"	value="STR"/>
-  <key id="$s_myInfo_label_dex"	value="DEX"/>
-  <key id="$s_myInfo_label_int"	value="INT"/>
-  <key id="$s_myInfo_label_luk"	value="LUK"/>
+  <key id="$s_myInfo_label_damage" value="Attack"/>
+  <key id="$s_myInfo_label_defense" value="Defense"/>
+  <key id="$s_myInfo_label_str" value="STR"/>
+  <key id="$s_myInfo_label_dex" value="DEX"/>
+  <key id="$s_myInfo_label_int" value="INT"/>
+  <key id="$s_myInfo_label_luk" value="LUK"/>
 
   
   <!--image upload-->
   <key id="$s_ugc_image_title_profile" value="Profile Settings"/>
   <key id="$s_ugc_image_title_banner" value="Register Poster"/>
-  <key id="$s_ugc_image_title_guild" value="Register Guild Mark" />
+  <key id="$s_ugc_image_title_guild" value="Register Guild Mark"/>
   <key id="$s_ugc_image_btn_upload" value="Register"/>
   <key id="$s_ugc_image_btn_terms" value="View Contents"/>
   <key id="$s_ugc_image_btn_new" value="New Drawing"/>
@@ -596,27 +596,27 @@
   <key id="$s_ugc_banner_tooltip_open" value="Open Folder"/>
   
   <!--shop-->
-  <key id="$s_shop_purchase"	value="Item"/>
-  <key id="$s_shop_repurchase"	value="Rebuy"/>
-  <key id="$s_shop_buy"	value="Buy"/>
-  <key id="$s_shop_check_enable_item"	value="Show Only Available Items"/>
-  <key id="$s_shop_notice_disable_reset"	value="New shops are not wearing."/>
-  <key id="$s_shop_notice_enable_reset"	value="Among the new ships."/>
-  <key id="$s_shop_notice_search"	value="Enter a keyword."/>
+  <key id="$s_shop_purchase" value="Item"/>
+  <key id="$s_shop_repurchase" value="Rebuy"/>
+  <key id="$s_shop_buy" value="Buy"/>
+  <key id="$s_shop_check_enable_item" value="Show Only Available Items"/>
+  <key id="$s_shop_notice_disable_reset" value="New shops are not wearing."/>
+  <key id="$s_shop_notice_enable_reset" value="Among the new ships."/>
+  <key id="$s_shop_notice_search" value="Enter a keyword."/>
   <key id="$s_shop_reset" value="Reset"/>
-  <key id="$s_shop_soldout"	value="Out of Stock"/> <!--If out of stock-->
+  <key id="$s_shop_soldout" value="Out of Stock"/> <!--If out of stock-->
   <key id="$s_shop_stopsale" value="Sale Stopped"/> <!--If the sale is stopped-->
   
   <!--store-->
-  <key id="$s_store_title"	value="Storage"/>
-  <key id="$s_store_savemeso"	value="Deposit"/>
-  <key id="$s_store_takemeso"	value="Take Out"/>
-  <key id="$s_store_range"	value="Auto Align"/>
+  <key id="$s_store_title" value="Storage"/>
+  <key id="$s_store_savemeso" value="Deposit"/>
+  <key id="$s_store_takemeso" value="Take Out"/>
+  <key id="$s_store_range" value="Auto Align"/>
   <key id="$s_store_expand" value="Expand"/>
-  <key id="$s_objectstore_title"	value="Personal Storage"/>
+  <key id="$s_objectstore_title" value="Personal Storage"/>
 
   <!--buddy-->
-  <key id="$s_buddy_title"	value="Community"/>
+  <key id="$s_buddy_title" value="Community"/>
   <key id="$s_buddy_tab_player" value="Players"/>
   <key id="$s_buddy_tab_list" value="Friend List"/>
   <key id="$s_buddy_tab_recvlist" value="Requests"/>
@@ -664,86 +664,84 @@
   <key id="$s_systemmenu_resume" value="Resume"/>
   
   <!-- tooltip common -->
-  <key id="$s_tooltip_empty" 				value=""/>
-  <key id="$s_tooltip_remain_time" 			value="seconds remaining"/>
-  <key id="$s_tooltip_first_page"			value="&lt;FONT color='#FFD200' size='15' &gt;First Page&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGo to the first page."/>
-  <key id="$s_tooltip_prev_page"			value="&lt;FONT color='#FFD200' size='15' &gt;Previous Page&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGo to the previous page."/>
-  <key id="$s_tooltip_next_page"			value="&lt;FONT color='#FFD200' size='15' &gt;Next Page&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGo to the next page."/>
-  <key id="$s_tooltip_dungeon_level"		value="&lt;FONT color='#FFD200' size='16' &gt;Normal&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nBasic Difficulty.\n&lt;FONT size='6'&gt; &lt;/FONT&gt;
-&lt;FONT color='#FFD200' size='16' &gt;Challenge&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nRequires a certain level of skill.\n&lt;FONT size='6'&gt; &lt;/FONT&gt;
-&lt;FONT color='#FFD200' size='16' &gt;Chaos&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nClass cooperation is important to recognize boss patterns.\nIf unconditional collapsing steel monument to the pallet, so be careful.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;"/>
+  <key id="$s_tooltip_empty" value=""/>
+  <key id="$s_tooltip_remain_time" value="seconds remaining"/>
+  <key id="$s_tooltip_first_page" value="&lt;FONT color='#FFD200' size='15' &gt;First Page&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGo to the first page."/>
+  <key id="$s_tooltip_prev_page" value="&lt;FONT color='#FFD200' size='15' &gt;Previous Page&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGo to the previous page."/>
+  <key id="$s_tooltip_next_page" value="&lt;FONT color='#FFD200' size='15' &gt;Next Page&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGo to the next page."/>
+  <key id="$s_tooltip_dungeon_level" value="&lt;FONT color='#FFD200' size='16' &gt;Normal&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nBasic Difficulty.\n&lt;FONT size='6'&gt; &lt;/FONT&gt; &lt;FONT color='#FFD200' size='16' &gt;Challenge&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nRequires a certain level of skill.\n&lt;FONT size='6'&gt; &lt;/FONT&gt; &lt;FONT color='#FFD200' size='16' &gt;Chaos&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nClass cooperation is important to recognize boss patterns.\nIf unconditional collapsing steel monument to the pallet, so be careful.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;"/>
   
   <!--My Info window tool tips-->
-  <key id="$s_tooltip_myinfo_guild" 		value="&lt;FONT color='#FFD200' size='15' &gt;Guild&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe character joined the Guild information."/>
-  <key id="$s_tooltip_myinfo_birthday" 	value="&lt;FONT color='#FFD200' size='15' &gt;The beginning of the adventure&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMy character is the day you started the adventure for the first time."/> <!--Unused-->
-  <key id="$s_tooltip_myinfo_address" 	value="&lt;FONT color='#FFD200' size='15' &gt;Address&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe characters live in is the address of the House.\nI will share all the characters in your account in one House."/>
-  <key id="$s_tooltip_myinfo_job" 			value="&lt;FONT color='#FFD200' size='15' &gt;Job&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIt shows the character's job." />
-  <key id="$s_tooltip_myinfo_good_interior_point" 	value="&lt;FONT color='#FFD200' size='15' &gt;Architect score&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#8dd502'&gt;This month's architect score/The cumulative score of an architect&lt;/FONT&gt;\nIn my house who can recommend me a star architect.\nWhen you receive a referral to each star architects architects stacked the score.\nArchitect score is initialized per month 'This month's architect score'And have received so far\n'The cumulative score of an architect'Is divided into.\nStar architect it is recommended once a day, can recommend only one per account."/>
+  <key id="$s_tooltip_myinfo_guild" value="&lt;FONT color='#FFD200' size='15' &gt;Guild&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe character joined the Guild information."/>
+  <key id="$s_tooltip_myinfo_birthday" value="&lt;FONT color='#FFD200' size='15' &gt;The beginning of the adventure&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMy character is the day you started the adventure for the first time."/> <!--Unused-->
+  <key id="$s_tooltip_myinfo_address" value="&lt;FONT color='#FFD200' size='15' &gt;Address&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe characters live in is the address of the House.\nI will share all the characters in your account in one House."/>
+  <key id="$s_tooltip_myinfo_job" value="&lt;FONT color='#FFD200' size='15' &gt;Job&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIt shows the character's job."/>
+  <key id="$s_tooltip_myinfo_good_interior_point" value="&lt;FONT color='#FFD200' size='15' &gt;Architect score&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#8dd502'&gt;This month's architect score/The cumulative score of an architect&lt;/FONT&gt;\nIn my house who can recommend me a star architect.\nWhen you receive a referral to each star architects architects stacked the score.\nArchitect score is initialized per month 'This month's architect score'And have received so far\n'The cumulative score of an architect'Is divided into.\nStar architect it is recommended once a day, can recommend only one per account."/>
 <!--Main UI Tool tips-->
-  <key id="$s_tooltip_myinfo_hp" 			value="&lt;FONT color='#FFD200' size='15' &gt;HP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe character's HP Gage.\nHPIf the monument is not zero, you cannot act as a hardwood." />
-  <key id="$s_tooltip_myinfo_sp" 			value="&lt;FONT color='#FFD200' size='15' &gt;SP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCharacter combat skill when consuming gauge to use.\nSPYou can use all of the skills are not available.\nSPEvery time natural recovery." /> 
+  <key id="$s_tooltip_myinfo_hp" value="&lt;FONT color='#FFD200' size='15' &gt;HP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe character's HP Gage.\nHPIf the monument is not zero, you cannot act as a hardwood."/>
+  <key id="$s_tooltip_myinfo_sp" value="&lt;FONT color='#FFD200' size='15' &gt;SP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCharacter combat skill when consuming gauge to use.\nSPYou can use all of the skills are not available.\nSPEvery time natural recovery."/> 
   <!--My Info window tool tips-->
-  <key id="$s_tooltip_myinfo_profile" 		value="&lt;FONT color='#FFD200' size='15' &gt;Profile Settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSets the image to represent my character.\nTake pictures of images stored in the camera to my computer\nChange your profile image." />
-  <key id="$s_tooltip_myinfo_todayword" 	value="&lt;FONT color='#FFD200' size='15' &gt;Today's Word&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWrite down the word of the day to show your friends.\n&lt;FONT size='8'&gt; &lt;/FONT&gt;\n&lt;Img Src='export_common_icon_lclick' vspace='-3'&gt;&lt;/Img&gt; Mouse &lt;FONT color='#FFD200'&gt;LMB&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can enter into." />
-  <key id="$s_tooltip_myinfo_tab_equip" 	value="&lt;FONT color='#FFD200' size='15' &gt;Game equipment items&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nReplace the item, you can turn off the game slots.\nBelongings can be equipped with an item of the window." />
-  <key id="$s_tooltip_myinfo_tab_skin" 		value="&lt;FONT color='#FFD200' size='15' &gt;Skin equipment items&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSkin can turn the mounting, the item slots.\nBelongings can be equipped with an item of the window." />
+  <key id="$s_tooltip_myinfo_profile" value="&lt;FONT color='#FFD200' size='15' &gt;Profile Settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSets the image to represent my character.\nTake pictures of images stored in the camera to my computer\nChange your profile image."/>
+  <key id="$s_tooltip_myinfo_todayword" value="&lt;FONT color='#FFD200' size='15' &gt;Today's Word&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWrite down the word of the day to show your friends.\n&lt;FONT size='8'&gt; &lt;/FONT&gt;\n&lt;Img Src='export_common_icon_lclick' vspace='-3'&gt;&lt;/Img&gt; Mouse &lt;FONT color='#FFD200'&gt;LMB&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can enter into."/>
+  <key id="$s_tooltip_myinfo_tab_equip" value="&lt;FONT color='#FFD200' size='15' &gt;Game equipment items&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nReplace the item, you can turn off the game slots.\nBelongings can be equipped with an item of the window."/>
+  <key id="$s_tooltip_myinfo_tab_skin" value="&lt;FONT color='#FFD200' size='15' &gt;Skin equipment items&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSkin can turn the mounting, the item slots.\nBelongings can be equipped with an item of the window."/>
 <!--Main UI Tool tips-->
 <!--  <key id="$s_tooltip_myinfo_badge" 		value="&lt;FONT color='#FFD200' size='15' &gt;Badge slot&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSkin can be turned off in the mounting, the item slots.\nYou can replace the item window, your belongings." /> -->
 
   <!--My Info window tool tips-->
-  <key id="$s_tooltip_myinfo_level" 		value="&lt;FONT color='#FFD200' size='15' &gt;Level&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIt shows the level of the character." />
+  <key id="$s_tooltip_myinfo_level" value="&lt;FONT color='#FFD200' size='15' &gt;Level&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIt shows the level of the character."/>
   
 
   
   <!--Mini map information, tool tips-->  
-  <key id="$s_tooltip_minimap_channel" 	value="&lt;FONT color='#FFD200' size='15' &gt;Shift channels&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can move a channel within the same server."/> 
+  <key id="$s_tooltip_minimap_channel" value="&lt;FONT color='#FFD200' size='15' &gt;Shift channels&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can move a channel within the same server."/> 
   <!--If the lower-right corner of the world map, use the same main menu tool tip description-->
-  <key id="$s_tooltip_minimap_worldmap"	value="&lt;FONT color='#FFD200' size='15' &gt;World Map [M]&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can check the appearance of the world.\nNow the information and where the monster comes out there, check out the information." />
+  <key id="$s_tooltip_minimap_worldmap" value="&lt;FONT color='#FFD200' size='15' &gt;World Map [M]&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can check the appearance of the world.\nNow the information and where the monster comes out there, check out the information."/>
   
-  <key id="$s_tooltip_minimap_setting" 		value="&lt;FONT color='#FFD200' size='15' &gt;Minimap Settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the displayed information minimap." />
-  <key id="$s_tooltip_minimap_minimize" 	value="&lt;FONT color='#FFD200' size='15' &gt;Minimize Minimap&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe minimap will become invincible.\nPress again to return the minimap to its original state." />
-  <key id="$s_tooltip_minimap_resize" 		value="&lt;FONT color='#FFD200' size='15' &gt;Mini map scale&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMini map size can be modified.\nTab If you press the up key." />
-  <key id="$s_tooltip_minimap_playerlist" 	value="&lt;FONT color='#FFD200' size='15' &gt;Player List&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays which players are currently in the map." />
-  <key id="$s_tooltip_minimap_mapalpha" 	value="&lt;FONT color='#FFD200' size='15' &gt;Control Minimap Transparency&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the transparency of the minimap." />
-  <key id="$s_tooltip_minimap_bgalpha" 	value="&lt;FONT color='#FFD200' size='15' &gt;The minimap adjust background transparency&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the transparency of the background of the minimap." />
-  <key id="$s_tooltip_minimap_zoomin" 	value="&lt;FONT color='#FFD200' size='15' &gt;Minimap Zoom-In&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nZooms in the minimap." />
-  <key id="$s_tooltip_minimap_zoomout" 	value="&lt;FONT color='#FFD200' size='15' &gt;Minimap Zoom-Out&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nZooms out the minimap." />
+  <key id="$s_tooltip_minimap_setting" value="&lt;FONT color='#FFD200' size='15' &gt;Minimap Settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the displayed information minimap."/>
+  <key id="$s_tooltip_minimap_minimize" value="&lt;FONT color='#FFD200' size='15' &gt;Minimize Minimap&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe minimap will become invincible.\nPress again to return the minimap to its original state."/>
+  <key id="$s_tooltip_minimap_resize" value="&lt;FONT color='#FFD200' size='15' &gt;Mini map scale&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMini map size can be modified.\nTab If you press the up key."/>
+  <key id="$s_tooltip_minimap_playerlist" value="&lt;FONT color='#FFD200' size='15' &gt;Player List&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays which players are currently in the map."/>
+  <key id="$s_tooltip_minimap_mapalpha" value="&lt;FONT color='#FFD200' size='15' &gt;Control Minimap Transparency&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the transparency of the minimap."/>
+  <key id="$s_tooltip_minimap_bgalpha" value="&lt;FONT color='#FFD200' size='15' &gt;The minimap adjust background transparency&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the transparency of the background of the minimap."/>
+  <key id="$s_tooltip_minimap_zoomin" value="&lt;FONT color='#FFD200' size='15' &gt;Minimap Zoom-In&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nZooms in the minimap."/>
+  <key id="$s_tooltip_minimap_zoomout" value="&lt;FONT color='#FFD200' size='15' &gt;Minimap Zoom-Out&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nZooms out the minimap."/>
 
-  <key id="$s_tooltip_homeinfo_minimize" 	value="&lt;FONT color='#FFD200' size='15' &gt;Minimize the information home&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nHome information invisible.\nPress again to return to the original state." />
+  <key id="$s_tooltip_homeinfo_minimize" value="&lt;FONT color='#FFD200' size='15' &gt;Minimize the information home&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nHome information invisible.\nPress again to return to the original state."/>
     
 
   
-  <key id="$s_tooltip_maininfo_hp" 			value="&lt;FONT color='#FFD200' size='15' &gt;HP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nHPIf the monument is not zero, you cannot act as a hardwood.\nHPEvery time natural recovery." />
-  <key id="$s_tooltip_maininfo_sp" 			value="&lt;FONT color='#FFD200' size='15' &gt;SP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSPYou can use all of the SPConsuming active skill not available.\nSPEvery time natural recovery." />
-  <key id="$s_tooltip_maininfo_ep" 			value="&lt;FONT color='#FFD200' size='15' &gt;EP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEPYou can use all of the EPA action skill will not be available.\nA total of six consists of 1 Khan Khan of 20 per.\nEPEvery time natural recovery." />
-  <key id="$s_tooltip_messenger_add_tab" 	value="&lt;FONT color='#FFD200' size='15' &gt;Add Chat Tab&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAdded a new chat tab, you can set up so that you can see only the content you want." />
-  <key id="$s_tooltip_messenger_tab" 		value="&lt;FONT color='#FFD200' size='15' &gt;Full Tab&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAll is the default chat message chat tab. \n&lt;FONT size='8'&gt; &lt;/FONT&gt;\n &lt;Img Src='export_common_icon_rclick' vspace='-3'&gt;&lt;/Img&gt; If you drag the mouse left click, you can change the location." />
-  <key id="$s_tooltip_messenger_resize" 		value="&lt;FONT color='#FFD200' size='15' &gt;Listens for resize area&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the size of the chat window." />
-  <key id="$s_tooltip_messenger_type" 		value="&lt;FONT color='#FFD200' size='15' &gt;Chat Settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCommand, you can use a variety of chat.\nThe world consumes Merit dialogue and channels of dialogue.\n\nWorld talk  &quot;/w,/world,/In January,/World,/World loudspeaker&quot;\nChannels dialog  &quot;/c,/channel,/Chapman,/Channel,/Channel loudspeaker&quot;\nRegional dialogue  &quot;/s,/space,/That,/,/Area&quot; \nParty conversation  &quot;/p,/party,/ㅔ,/Wave,/Party&quot;\nGuild dialog  &quot;/g,/guild,/Heh,/Gil,/Guild&quot;\nA whisper  &quot;/r,/It shall come to pass,/Ear,/Ear horse,/A whisper,/whisper + Space + ID&quot;" />
+  <key id="$s_tooltip_maininfo_hp" value="&lt;FONT color='#FFD200' size='15' &gt;HP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nHPIf the monument is not zero, you cannot act as a hardwood.\nHPEvery time natural recovery."/>
+  <key id="$s_tooltip_maininfo_sp" value="&lt;FONT color='#FFD200' size='15' &gt;SP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSPYou can use all of the SPConsuming active skill not available.\nSPEvery time natural recovery."/>
+  <key id="$s_tooltip_maininfo_ep" value="&lt;FONT color='#FFD200' size='15' &gt;EP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEPYou can use all of the EPA action skill will not be available.\nA total of six consists of 1 Khan Khan of 20 per.\nEPEvery time natural recovery."/>
+  <key id="$s_tooltip_messenger_add_tab" value="&lt;FONT color='#FFD200' size='15' &gt;Add Chat Tab&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAdded a new chat tab, you can set up so that you can see only the content you want."/>
+  <key id="$s_tooltip_messenger_tab" value="&lt;FONT color='#FFD200' size='15' &gt;Full Tab&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAll is the default chat message chat tab. \n&lt;FONT size='8'&gt; &lt;/FONT&gt;\n &lt;Img Src='export_common_icon_rclick' vspace='-3'&gt;&lt;/Img&gt; If you drag the mouse left click, you can change the location."/>
+  <key id="$s_tooltip_messenger_resize" value="&lt;FONT color='#FFD200' size='15' &gt;Listens for resize area&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the size of the chat window."/>
+  <key id="$s_tooltip_messenger_type" value="&lt;FONT color='#FFD200' size='15' &gt;Chat Settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCommand, you can use a variety of chat.\nThe world consumes Merit dialogue and channels of dialogue.\n\nWorld talk  &quot;/w,/world,/In January,/World,/World loudspeaker&quot;\nChannels dialog  &quot;/c,/channel,/Chapman,/Channel,/Channel loudspeaker&quot;\nRegional dialogue  &quot;/s,/space,/That,/,/Area&quot; \nParty conversation  &quot;/p,/party,/ㅔ,/Wave,/Party&quot;\nGuild dialog  &quot;/g,/guild,/Heh,/Gil,/Guild&quot;\nA whisper  &quot;/r,/It shall come to pass,/Ear,/Ear horse,/A whisper,/whisper + Space + ID&quot;"/>
 
   <key id="$s_tooltip_myinfo_gearScore" value="&lt;FONT color='#FFD200' size='15' &gt;Item Score&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;The character is currently wearing the item is the sum of scores."/>
   <key id="$s_tooltip_myinfo_trophyPoint" value="&lt;FONT color='#FFD200' size='15' &gt;Trophy&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;The character has acquired trophy count."/>
   <key id="$s_tooltip_myinfo_stat_dmg" value="&lt;FONT color='#FFD200' size='15' &gt;Damage&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;You can figure out the character's combat abilities STAT.\nWeapon damage, physical damage, spell damage, critical hit, heal crits are affected."/>
 
-  <key id="$s_tooltip_myinfo_stat_1" 		value="&lt;FONT color='#FFD200' size='15' &gt;HP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe character's stamina.\nHPIf the monument is not zero, you cannot act as a hardwood.\nHPEvery time natural recovery." />
-  <key id="$s_tooltip_myinfo_stat_2" 		value="&lt;FONT color='#FFD200' size='15' &gt;SP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWhat resources will be required to use Active skill.\nSPYou can use all of the SPConsuming active skill not available.\nSPEvery time natural recovery." />
-  <key id="$s_tooltip_myinfo_stat_3" 		value="&lt;FONT color='#FFD200' size='15' &gt;EP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAction is needed on the use of resources and skills.\nEPYou can use all of the EPA action skill will not be available.\nEPEvery time natural recovery." />
-  <key id="$s_tooltip_myinfo_stat_4" 		value="&lt;FONT color='#FFD200' size='15' &gt;Movement Speed (%)&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe character is moving on the ground.\n100%Is the default state and the maximum can rise up to 170%." />
-  <key id="$s_tooltip_myinfo_stat_5" 		value="&lt;FONT color='#FFD200' size='15' &gt;STR&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nKnight and University, Rune affects the main attack of the blog radar stats." />
-  <key id="$s_tooltip_myinfo_stat_6" 		value="&lt;FONT color='#FFD200' size='15' &gt;DEX&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nRanger and heavy gunner's main stats that affect the damage." />
-  <key id="$s_tooltip_myinfo_stat_7" 		value="&lt;FONT color='#FFD200' size='15' &gt;INT&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWizard and priest, runes blog radar damage affecting the main stat." />
-  <key id="$s_tooltip_myinfo_stat_8" 		value="&lt;FONT color='#FFD200' size='15' &gt;LUK&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSifu and Assassin's damage affecting the main stat." />
-  <key id="$s_tooltip_myinfo_stat_9" 		value="&lt;FONT color='#FFD200' size='15' &gt;Physical Attack&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo determine the main physical attack damage stat.\nCareer stats are affected varies for each." />
-  <key id="$s_tooltip_myinfo_stat_10" 		value="&lt;FONT color='#FFD200' size='15' &gt;Magic Attack&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMagic attack damage is the main stat.\nINTAre affected." />
-  <key id="$s_tooltip_myinfo_stat_11" 		value="&lt;FONT color='#FFD200' size='15' &gt;Attack Speed&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nBasic attack: time of skill, including reducing the stat.\nDEXAre affected." />
-  <key id="$s_tooltip_myinfo_stat_12" 		value="&lt;FONT color='#FFD200' size='15' &gt;Accuracy&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo determine the success or failure of the attack stat.\nDEXAre affected." />
-  <key id="$s_tooltip_myinfo_stat_13" 		value="&lt;FONT color='#FFD200' size='15' &gt;Critical Rate&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo determine the probability that the hit to crit stat.\nCritical hits to the attack damage increases.\nLUKAre affected.&lt;/FONT&gt;" />
-  <key id="$s_tooltip_myinfo_stat_14" 		value="&lt;FONT color='#FFD200' size='15' &gt;Critical Damage&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCritical to determine the damage be increased by stats." />
-  <key id="$s_tooltip_myinfo_stat_15" 		value="&lt;FONT color='#FFD200' size='15' &gt;Defense&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCharacter stat that reduces the damage taken." />
-  <key id="$s_tooltip_myinfo_stat_16" 		value="&lt;FONT color='#FFD200' size='15' &gt;Physical Defense&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo further reduce the physical damage the character giving the receiving stats.\nSTRAnd DEXAre affected." />
-  <key id="$s_tooltip_myinfo_stat_17" 		value="&lt;FONT color='#FFD200' size='15' &gt;Magic Defense&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAdditionally, the character receives a magic damage reduced by stat.\nINTAre affected." />
-  <key id="$s_tooltip_myinfo_stat_18" 		value="&lt;FONT color='#FFD200' size='15' &gt;Avoidability&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe characters are fully to determine the probability of avoiding the attack stat.\nLUKAre affected." />  
-  <key id="$s_tooltip_myinfo_stat_19" 		value="&lt;FONT color='#FFD200' size='15' &gt;Critical Resistance&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCritical attacks can reduce the probability of blood every other stat." />
+  <key id="$s_tooltip_myinfo_stat_1" value="&lt;FONT color='#FFD200' size='15' &gt;HP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe character's stamina.\nHPIf the monument is not zero, you cannot act as a hardwood.\nHPEvery time natural recovery."/>
+  <key id="$s_tooltip_myinfo_stat_2" value="&lt;FONT color='#FFD200' size='15' &gt;SP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWhat resources will be required to use Active skill.\nSPYou can use all of the SPConsuming active skill not available.\nSPEvery time natural recovery."/>
+  <key id="$s_tooltip_myinfo_stat_3" value="&lt;FONT color='#FFD200' size='15' &gt;EP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAction is needed on the use of resources and skills.\nEPYou can use all of the EPA action skill will not be available.\nEPEvery time natural recovery."/>
+  <key id="$s_tooltip_myinfo_stat_4" value="&lt;FONT color='#FFD200' size='15' &gt;Movement Speed (%)&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe character is moving on the ground.\n100%Is the default state and the maximum can rise up to 170%."/>
+  <key id="$s_tooltip_myinfo_stat_5" value="&lt;FONT color='#FFD200' size='15' &gt;STR&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nKnight and University, Rune affects the main attack of the blog radar stats."/>
+  <key id="$s_tooltip_myinfo_stat_6" value="&lt;FONT color='#FFD200' size='15' &gt;DEX&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nRanger and heavy gunner's main stats that affect the damage."/>
+  <key id="$s_tooltip_myinfo_stat_7" value="&lt;FONT color='#FFD200' size='15' &gt;INT&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWizard and priest, runes blog radar damage affecting the main stat."/>
+  <key id="$s_tooltip_myinfo_stat_8" value="&lt;FONT color='#FFD200' size='15' &gt;LUK&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSifu and Assassin's damage affecting the main stat."/>
+  <key id="$s_tooltip_myinfo_stat_9" value="&lt;FONT color='#FFD200' size='15' &gt;Physical Attack&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo determine the main physical attack damage stat.\nCareer stats are affected varies for each."/>
+  <key id="$s_tooltip_myinfo_stat_10" value="&lt;FONT color='#FFD200' size='15' &gt;Magic Attack&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMagic attack damage is the main stat.\nINTAre affected."/>
+  <key id="$s_tooltip_myinfo_stat_11" value="&lt;FONT color='#FFD200' size='15' &gt;Attack Speed&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nBasic attack: time of skill, including reducing the stat.\nDEXAre affected."/>
+  <key id="$s_tooltip_myinfo_stat_12" value="&lt;FONT color='#FFD200' size='15' &gt;Accuracy&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo determine the success or failure of the attack stat.\nDEXAre affected."/>
+  <key id="$s_tooltip_myinfo_stat_13" value="&lt;FONT color='#FFD200' size='15' &gt;Critical Rate&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo determine the probability that the hit to crit stat.\nCritical hits to the attack damage increases.\nLUKAre affected.&lt;/FONT&gt;"/>
+  <key id="$s_tooltip_myinfo_stat_14" value="&lt;FONT color='#FFD200' size='15' &gt;Critical Damage&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCritical to determine the damage be increased by stats."/>
+  <key id="$s_tooltip_myinfo_stat_15" value="&lt;FONT color='#FFD200' size='15' &gt;Defense&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCharacter stat that reduces the damage taken."/>
+  <key id="$s_tooltip_myinfo_stat_16" value="&lt;FONT color='#FFD200' size='15' &gt;Physical Defense&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo further reduce the physical damage the character giving the receiving stats.\nSTRAnd DEXAre affected."/>
+  <key id="$s_tooltip_myinfo_stat_17" value="&lt;FONT color='#FFD200' size='15' &gt;Magic Defense&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAdditionally, the character receives a magic damage reduced by stat.\nINTAre affected."/>
+  <key id="$s_tooltip_myinfo_stat_18" value="&lt;FONT color='#FFD200' size='15' &gt;Avoidability&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe characters are fully to determine the probability of avoiding the attack stat.\nLUKAre affected."/>  
+  <key id="$s_tooltip_myinfo_stat_19" value="&lt;FONT color='#FFD200' size='15' &gt;Critical Resistance&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCritical attacks can reduce the probability of blood every other stat."/>
  
   <key id="$s_tooltip_myinfo_stat_0_0" value="&lt;FONT color='#FFD200' size='15' &gt;HP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nHPIf the monument is not zero, you cannot act as a hardwood.\nHPEvery time natural recovery."/>
   <key id="$s_tooltip_myinfo_stat_0_1" value="&lt;FONT color='#FFD200' size='15' &gt;SP&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSPYou can use all of the SPConsuming active skill not available.\nSPEvery time natural recovery."/>
@@ -758,8 +756,8 @@
   <key id="$s_tooltip_myinfo_stat_1_1" value="&lt;FONT color='#FFD200' size='15' &gt;Physical Attack&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWhen a physical attack to the enemy, giving damage increases."/>
   <key id="$s_tooltip_myinfo_stat_1_2" value="&lt;FONT color='#FFD200' size='15' &gt;Magic Attack&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWhen attacking an enemy, giving the magic damage increases."/>
   <key id="$s_tooltip_myinfo_stat_1_3" value="&lt;FONT color='#FFD200' size='15' &gt;Defense Penetration&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWhen you attack the enemy defense power by ignoring some of the bigger damage can cause harm."/>
-  <key id="$s_tooltip_myinfo_stat_1_4" value="&lt;FONT color='#FFD200' size='15' &gt;Physical Defense Penetration&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWhen a physical attack to the enemy physical defense power by ignoring some of the bigger damage can cause harm." />
-  <key id="$s_tooltip_myinfo_stat_1_5" value="&lt;FONT color='#FFD200' size='15' &gt;Magic Defense Penetration&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWhen the magic attacks to the enemy magic defense power by ignoring some of the bigger damage can cause harm." />
+  <key id="$s_tooltip_myinfo_stat_1_4" value="&lt;FONT color='#FFD200' size='15' &gt;Physical Defense Penetration&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWhen a physical attack to the enemy physical defense power by ignoring some of the bigger damage can cause harm."/>
+  <key id="$s_tooltip_myinfo_stat_1_5" value="&lt;FONT color='#FFD200' size='15' &gt;Magic Defense Penetration&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWhen the magic attacks to the enemy magic defense power by ignoring some of the bigger damage can cause harm."/>
   <key id="$s_tooltip_myinfo_stat_1_6" value="&lt;FONT color='#FFD200' size='15' &gt;Accuracy&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nFor an attack to be successful, the ability to increase your chances."/>
   <key id="$s_tooltip_myinfo_stat_1_7" value="&lt;FONT color='#FFD200' size='15' &gt;Critical Accuracy&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIncreases the chances of the ability to hit to crit.\nAdd a critical hit to attack damage."/>
   <key id="$s_tooltip_myinfo_stat_1_8" value="&lt;FONT color='#FFD200' size='15' &gt;Critical Damage&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCritical: increases the damage of giving to the enemy."/>
@@ -797,115 +795,115 @@
 
  
   <!--The tool tip for the tab of the window of your belongings description-->
-  <key id="$s_tooltip_inven_equip" 		value="&lt;FONT color='#FFD200' size='13' &gt;Equipment&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nArmor, equipment and accessory items are stored in here." />
-    <!--Unused--><key id="$s_tooltip_inven_skill" 		value="&lt;FONT color='#FFD200' size='13' &gt;Skill&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSkill items are stored in here." />
-  <key id="$s_tooltip_inven_construct" 	value="&lt;FONT color='#FFD200' size='13' &gt;Construction&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nConstruction items are stored in here." />
-  <key id="$s_tooltip_inven_etc" 		value="&lt;FONT color='#FFD200' size='13' &gt;ETC&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nConsumables and and other items are stored in here." />
-  <key id="$s_tooltip_inven_ridee" 	value="&lt;FONT color='#FFD200' size='13' &gt;Mount&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMount items are stored in here." />
+  <key id="$s_tooltip_inven_equip" value="&lt;FONT color='#FFD200' size='13' &gt;Equipment&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nArmor, equipment and accessory items are stored in here."/>
+    <!--Unused--><key id="$s_tooltip_inven_skill" value="&lt;FONT color='#FFD200' size='13' &gt;Skill&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSkill items are stored in here."/>
+  <key id="$s_tooltip_inven_construct" value="&lt;FONT color='#FFD200' size='13' &gt;Construction&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nConstruction items are stored in here."/>
+  <key id="$s_tooltip_inven_etc" value="&lt;FONT color='#FFD200' size='13' &gt;ETC&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nConsumables and and other items are stored in here."/>
+  <key id="$s_tooltip_inven_ridee" value="&lt;FONT color='#FFD200' size='13' &gt;Mount&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMount items are stored in here."/>
   
   <!--Game option for the tool tip description-->
-  <key id="$s_tooltip_gameoption_game" 	value="&lt;FONT color='#FFD200' size='15' &gt;Games&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the settings related to the gameplay." />  
-  <key id="$s_tooltip_gameoption_graphic" 	value="&lt;FONT color='#FFD200' size='15' &gt;Graphics&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the settings for the graphical environment." />  
-  <key id="$s_tooltip_gameoption_sound" 	value="&lt;FONT color='#FFD200' size='15' &gt;Sound&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the sound settings." />  
-  <key id="$s_tooltip_gameoption_input" 	value="&lt;FONT color='#FFD200' size='15' &gt;Key Input&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the settings for the input key." />  
-  <key id="$s_tooltip_gameoption_camera" 	value="&lt;FONT color='#FFD200' size='15' &gt;Controls &amp; Camera&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the settings on the camera, and manipulate game related." />  
-  <key id="$s_tooltip_gameoption_interface" 	value="&lt;FONT color='#FFD200' size='15' &gt;Interface&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn-game UIYou can change the settings related to." />  
-  <key id="$s_tooltip_gameoption_status" 	value="&lt;FONT color='#FFD200' size='15' &gt;Status Information&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays the name, HP Display, display status information display experience." />  
-  <key id="$s_tooltip_gameoption_battle" 	value="&lt;FONT color='#FFD200' size='15' &gt;Combat Information&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDamage, recovery figures, obtained information such as the item, you can change the information associated with the battle." />  
-  <key id="$s_tooltip_gameoption_community" 	value="&lt;FONT color='#FFD200' size='15' &gt;Community&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nA version of the comic, you can change the settings related to the community, such as the invitation." />  
-  <key id="$s_tooltip_gameoption_graphic_category" 	value="&lt;FONT color='#FFD200' size='15' &gt;Default Settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGraphic, you can change the default settings." />  
-  <key id="$s_tooltip_gameoption_sound_category" 	value="&lt;FONT color='#FFD200' size='15' &gt;Default Settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the sound volume type." />  
-  <key id="$s_tooltip_gameoption_input_category" 	value="&lt;FONT color='#FFD200' size='15' &gt;Default Settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe Enter key allows you to adjust the settings." />  
-  <key id="$s_tooltip_gameoption_optimizer_category" 	value="&lt;FONT color='#FFD200' size='15' &gt;Optimization&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the optimization settings." />  
-  <key id="$s_tooltip_gameoption_language" 	value="&lt;FONT color='#FFD200' size='15' &gt;Language settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the language." />
-  <key id="$s_tooltip_gameoption_slider_grade" 	value="{0}Step" />
+  <key id="$s_tooltip_gameoption_game" value="&lt;FONT color='#FFD200' size='15' &gt;Games&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the settings related to the gameplay."/>  
+  <key id="$s_tooltip_gameoption_graphic" value="&lt;FONT color='#FFD200' size='15' &gt;Graphics&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the settings for the graphical environment."/>  
+  <key id="$s_tooltip_gameoption_sound" value="&lt;FONT color='#FFD200' size='15' &gt;Sound&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the sound settings."/>  
+  <key id="$s_tooltip_gameoption_input" value="&lt;FONT color='#FFD200' size='15' &gt;Key Input&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the settings for the input key."/>  
+  <key id="$s_tooltip_gameoption_camera" value="&lt;FONT color='#FFD200' size='15' &gt;Controls &amp; Camera&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the settings on the camera, and manipulate game related."/>  
+  <key id="$s_tooltip_gameoption_interface" value="&lt;FONT color='#FFD200' size='15' &gt;Interface&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn-game UIYou can change the settings related to."/>  
+  <key id="$s_tooltip_gameoption_status" value="&lt;FONT color='#FFD200' size='15' &gt;Status Information&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays the name, HP Display, display status information display experience."/>  
+  <key id="$s_tooltip_gameoption_battle" value="&lt;FONT color='#FFD200' size='15' &gt;Combat Information&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDamage, recovery figures, obtained information such as the item, you can change the information associated with the battle."/>  
+  <key id="$s_tooltip_gameoption_community" value="&lt;FONT color='#FFD200' size='15' &gt;Community&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nA version of the comic, you can change the settings related to the community, such as the invitation."/>  
+  <key id="$s_tooltip_gameoption_graphic_category" value="&lt;FONT color='#FFD200' size='15' &gt;Default Settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGraphic, you can change the default settings."/>  
+  <key id="$s_tooltip_gameoption_sound_category" value="&lt;FONT color='#FFD200' size='15' &gt;Default Settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the sound volume type."/>  
+  <key id="$s_tooltip_gameoption_input_category" value="&lt;FONT color='#FFD200' size='15' &gt;Default Settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe Enter key allows you to adjust the settings."/>  
+  <key id="$s_tooltip_gameoption_optimizer_category" value="&lt;FONT color='#FFD200' size='15' &gt;Optimization&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the optimization settings."/>  
+  <key id="$s_tooltip_gameoption_language" value="&lt;FONT color='#FFD200' size='15' &gt;Language settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the language."/>
+  <key id="$s_tooltip_gameoption_slider_grade" value="{0}Step"/>
   
   
-  <key id="$s_tooltip_questguide_close" 	value="&lt;FONT color='#FFD200' size='15' &gt;Hide notification Windows&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nQuests can be set in the window." />
+  <key id="$s_tooltip_questguide_close" value="&lt;FONT color='#FFD200' size='15' &gt;Hide notification Windows&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nQuests can be set in the window."/>
   
-  <key id="$s_tooltip_charcustom_size" 	value="&lt;FONT color='#FFD200' size='15' &gt;Size&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the size." />
-  <key id="$s_tooltip_charcustom_length" 	value="&lt;FONT color='#FFD200' size='15' &gt;Length&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the length." />
-  <key id="$s_tooltip_charcustom_front_hair" 	value="&lt;FONT color='#FFD200' size='15' &gt;Bangs&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the length of the bangs." />
-  <key id="$s_tooltip_charcustom_back_hair" 	value="&lt;FONT color='#FFD200' size='15' &gt;The rear head&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the length of the back of the head." />
-  <key id="$s_tooltip_charcustom_pos" 	value="&lt;FONT color='#FFD200' size='15' &gt;Location&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the position." />
-  <key id="$s_tooltip_charcustom_custompos" 	value="&lt;FONT color='#FFD200' size='15' &gt;User settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nUsers can directly change the position of the State." />
-  <key id="$s_tooltip_charcustom_degree" 	value="&lt;FONT color='#FFD200' size='15' &gt;Angle&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the angle." />
+  <key id="$s_tooltip_charcustom_size" value="&lt;FONT color='#FFD200' size='15' &gt;Size&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the size."/>
+  <key id="$s_tooltip_charcustom_length" value="&lt;FONT color='#FFD200' size='15' &gt;Length&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the length."/>
+  <key id="$s_tooltip_charcustom_front_hair" value="&lt;FONT color='#FFD200' size='15' &gt;Bangs&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the length of the bangs."/>
+  <key id="$s_tooltip_charcustom_back_hair" value="&lt;FONT color='#FFD200' size='15' &gt;The rear head&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the length of the back of the head."/>
+  <key id="$s_tooltip_charcustom_pos" value="&lt;FONT color='#FFD200' size='15' &gt;Location&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can adjust the position."/>
+  <key id="$s_tooltip_charcustom_custompos" value="&lt;FONT color='#FFD200' size='15' &gt;User settings&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nUsers can directly change the position of the State."/>
+  <key id="$s_tooltip_charcustom_degree" value="&lt;FONT color='#FFD200' size='15' &gt;Angle&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can change the angle."/>
 
   <!--Community tool tips-->
   <key id="$s_tooltip_community_party" value="Party"/>
   <key id="$s_tooltip_community_buddy" value="Friend"/>
-  <key id="$s_tooltip_community_tab_player" 	value="&lt;FONT color='#FFD200' size='15' &gt;Online&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nNow I belong to in the map shows the connections." />
-  <key id="$s_tooltip_community_tab_list" 	value="&lt;FONT color='#FFD200' size='15' &gt;Friends list&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShows a list of all my friends." />
-  <key id="$s_tooltip_community_tab_recv" 	value="&lt;FONT color='#FFD200' size='15' &gt;Request&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nI received a friend request." />
-  <key id="$s_tooltip_community_tab_ban" 	value="&lt;FONT color='#FFD200' size='15' &gt;Block list&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShows the list of characters blocked." />
-  <key id="$s_tooltip_community_btn_addbuddy" 	value="&lt;FONT color='#FFD200' size='15' &gt;Add friends&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter the name of your character, try to add a friend." />
-  <key id="$s_tooltip_community_btn_addban" 	value="&lt;FONT color='#FFD200' size='15' &gt;Add block&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter a name for the various characters, you can block messages." />
-  <key id="$s_tooltip_community_btn_cancel_buddy" 	value="&lt;FONT color='#FFD200' size='15' &gt;Request cancellation&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;A friend unsubscribe." />
-  <key id="$s_tooltip_community_btn_homevisit" 	value="&lt;FONT color='#FFD200' size='15' &gt;Visit House&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;You can visit the houses of other players." />
-  <key id="$s_tooltip_community_btn_deny_buddy" 	value="&lt;FONT color='#FFD200' size='15' &gt;Rejection&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;To refuse a friend request." />
-  <key id="$s_tooltip_community_btn_admit_buddy" 	value="&lt;FONT color='#FFD200' size='15' &gt;Accept&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;A friend request is accepted.\nWill be added to your friends list." />
-  <key id="$s_tooltip_community_edit_banmemo" 	value="&lt;FONT color='#FFD200' size='15' &gt;Block notes&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWrite down the reason for the block.\nYou can enter up to a maximum of 28 letters.\nAfter writing [enter]To be saved.\n&lt;FONT size='8'&gt; &lt;/FONT&gt;\n&lt;Img Src='export_common_icon_lclick' vspace='-3'&gt;&lt;/Img&gt; Mouse &lt;FONT color='#FFD200'&gt;LMB&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can enter into." />
+  <key id="$s_tooltip_community_tab_player" value="&lt;FONT color='#FFD200' size='15' &gt;Online&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nNow I belong to in the map shows the connections."/>
+  <key id="$s_tooltip_community_tab_list" value="&lt;FONT color='#FFD200' size='15' &gt;Friends list&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShows a list of all my friends."/>
+  <key id="$s_tooltip_community_tab_recv" value="&lt;FONT color='#FFD200' size='15' &gt;Request&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nI received a friend request."/>
+  <key id="$s_tooltip_community_tab_ban" value="&lt;FONT color='#FFD200' size='15' &gt;Block list&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShows the list of characters blocked."/>
+  <key id="$s_tooltip_community_btn_addbuddy" value="&lt;FONT color='#FFD200' size='15' &gt;Add friends&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter the name of your character, try to add a friend."/>
+  <key id="$s_tooltip_community_btn_addban" value="&lt;FONT color='#FFD200' size='15' &gt;Add block&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter a name for the various characters, you can block messages."/>
+  <key id="$s_tooltip_community_btn_cancel_buddy" value="&lt;FONT color='#FFD200' size='15' &gt;Request cancellation&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;A friend unsubscribe."/>
+  <key id="$s_tooltip_community_btn_homevisit" value="&lt;FONT color='#FFD200' size='15' &gt;Visit House&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;You can visit the houses of other players."/>
+  <key id="$s_tooltip_community_btn_deny_buddy" value="&lt;FONT color='#FFD200' size='15' &gt;Rejection&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;To refuse a friend request."/>
+  <key id="$s_tooltip_community_btn_admit_buddy" value="&lt;FONT color='#FFD200' size='15' &gt;Accept&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;A friend request is accepted.\nWill be added to your friends list."/>
+  <key id="$s_tooltip_community_edit_banmemo" value="&lt;FONT color='#FFD200' size='15' &gt;Block notes&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWrite down the reason for the block.\nYou can enter up to a maximum of 28 letters.\nAfter writing [enter]To be saved.\n&lt;FONT size='8'&gt; &lt;/FONT&gt;\n&lt;Img Src='export_common_icon_lclick' vspace='-3'&gt;&lt;/Img&gt; Mouse &lt;FONT color='#FFD200'&gt;LMB&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;You can enter into."/>
 
-  <key id="$s_tooltip_ugcitemedit_radio_mannequin" 	value="&lt;FONT color='#FFD200' size='15' &gt;Mannequin&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGender with my character like mannequins\nYou can try replacing the design items." />
-  <key id="$s_tooltip_ugcitemedit_radio_mychar" 	value="&lt;FONT color='#FFD200' size='15' &gt;My Character&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMy character design, you can try replacing the item." />
-  <key id="$s_tooltip_ugcitemedit_check_showcamera" 	value="&lt;FONT color='#FFD200' size='15' &gt;View Camera&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe camera features, you can create the desired icon." />
-  <key id="$s_tooltip_ugcitemedit_btn_apply" 	value="&lt;FONT color='#FFD200' size='15' &gt;Create&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSet the contents of the design items.\nAfter you have created and cannot be modified." />
-  <key id="$s_tooltip_ugcitemedit_btn_cancel" 	value="&lt;FONT color='#FFD200' size='15' &gt;Cancel&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCloses the window without making the item.\nSo far, the settings will not be saved." />
-  <key id="$s_tooltip_ugcitemedit_btn_reset" 	value="&lt;FONT color='#FFD200' size='15' &gt;Reset&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nClears the contents of the set will revert to its initial state so far.\nIs set to the initial position." />
-  <key id="$s_tooltip_ugcitemedit_btn_newdraw" 	value="&lt;FONT color='#FFD200' size='15' &gt;New Drawing&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCreate your own design to the newly made.\nWhen you click the button, you can edit the default image." />
-  <key id="$s_tooltip_ugcitemedit_btn_add" 	value="&lt;FONT color='#FFD200' size='15' &gt;Open File&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nLoads the image file that you want to apply." />
-  <key id="$s_tooltip_ugcitemedit_btn_openfolder" 	value="&lt;FONT color='#FFD200' size='15' &gt;Open Folder&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn the list below, open the folder that stores the images." />
-  <key id="$s_tooltip_ugcitemedit_btn_showcomment" 	value="&lt;FONT color='#FFD200' size='15' &gt;View Contents&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTerms and conditions of use for editing an item you can see." />
-  <key id="$s_tooltip_ugcitemedit_input_name" 	value="&lt;FONT color='#FFD200' size='15' &gt;Enter Name&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMy design, type the name of the item to create by applying.\n(At least 3 letters~Up to 14 letters, no spaces)" />
-  <key id="$s_tooltip_ugcitemedit_check_hide_ui" 	value="&lt;FONT color='#FFD200' size='15' &gt;Hide UI&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMouse left the area and description UIHides." />
+  <key id="$s_tooltip_ugcitemedit_radio_mannequin" value="&lt;FONT color='#FFD200' size='15' &gt;Mannequin&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGender with my character like mannequins\nYou can try replacing the design items."/>
+  <key id="$s_tooltip_ugcitemedit_radio_mychar" value="&lt;FONT color='#FFD200' size='15' &gt;My Character&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMy character design, you can try replacing the item."/>
+  <key id="$s_tooltip_ugcitemedit_check_showcamera" value="&lt;FONT color='#FFD200' size='15' &gt;View Camera&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe camera features, you can create the desired icon."/>
+  <key id="$s_tooltip_ugcitemedit_btn_apply" value="&lt;FONT color='#FFD200' size='15' &gt;Create&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSet the contents of the design items.\nAfter you have created and cannot be modified."/>
+  <key id="$s_tooltip_ugcitemedit_btn_cancel" value="&lt;FONT color='#FFD200' size='15' &gt;Cancel&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCloses the window without making the item.\nSo far, the settings will not be saved."/>
+  <key id="$s_tooltip_ugcitemedit_btn_reset" value="&lt;FONT color='#FFD200' size='15' &gt;Reset&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nClears the contents of the set will revert to its initial state so far.\nIs set to the initial position."/>
+  <key id="$s_tooltip_ugcitemedit_btn_newdraw" value="&lt;FONT color='#FFD200' size='15' &gt;New Drawing&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCreate your own design to the newly made.\nWhen you click the button, you can edit the default image."/>
+  <key id="$s_tooltip_ugcitemedit_btn_add" value="&lt;FONT color='#FFD200' size='15' &gt;Open File&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nLoads the image file that you want to apply."/>
+  <key id="$s_tooltip_ugcitemedit_btn_openfolder" value="&lt;FONT color='#FFD200' size='15' &gt;Open Folder&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn the list below, open the folder that stores the images."/>
+  <key id="$s_tooltip_ugcitemedit_btn_showcomment" value="&lt;FONT color='#FFD200' size='15' &gt;View Contents&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTerms and conditions of use for editing an item you can see."/>
+  <key id="$s_tooltip_ugcitemedit_input_name" value="&lt;FONT color='#FFD200' size='15' &gt;Enter Name&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMy design, type the name of the item to create by applying.\n(At least 3 letters~Up to 14 letters, no spaces)"/>
+  <key id="$s_tooltip_ugcitemedit_check_hide_ui" value="&lt;FONT color='#FFD200' size='15' &gt;Hide UI&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMouse left the area and description UIHides."/>
   
-  <key id="$s_tooltip_ugcupload_btn_showcomment" 	value="&lt;FONT color='#FFD200' size='15' &gt;View Contents&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can view the terms of use." />
-  <key id="$s_tooltip_ugcupload_profile_apply" 	value="&lt;FONT color='#FFD200' size='15' &gt;Register&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nProfile of the selected image." />
-  <key id="$s_tooltip_ugcupload_banner_apply" 	value="&lt;FONT color='#FFD200' size='15' &gt;Register&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe selected image banner." />
-  <key id="$s_tooltip_ugcupload_guild_mark_apply" value="&lt;FONT color='#FFD200' size='15' &gt;Register&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe selected image will register as a Guild." />
-  <key id="$s_tooltip_ugcbanner_apply" 	value="&lt;FONT color='#FFD200' size='15' &gt;Reserve&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe selected image on the scoreboard." />
+  <key id="$s_tooltip_ugcupload_btn_showcomment" value="&lt;FONT color='#FFD200' size='15' &gt;View Contents&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can view the terms of use."/>
+  <key id="$s_tooltip_ugcupload_profile_apply" value="&lt;FONT color='#FFD200' size='15' &gt;Register&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nProfile of the selected image."/>
+  <key id="$s_tooltip_ugcupload_banner_apply" value="&lt;FONT color='#FFD200' size='15' &gt;Register&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe selected image banner."/>
+  <key id="$s_tooltip_ugcupload_guild_mark_apply" value="&lt;FONT color='#FFD200' size='15' &gt;Register&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe selected image will register as a Guild."/>
+  <key id="$s_tooltip_ugcbanner_apply" value="&lt;FONT color='#FFD200' size='15' &gt;Reserve&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe selected image on the scoreboard."/>
 
   <!--Item ToolTip dye-->
-  <key id="$s_tooltip_beauty_coloring_addbasket" 	value="&lt;FONT color='#FFD200' size='15' &gt;Add to Shopping Cart&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe selected items into a shopping cart." />
-  <key id="$s_tooltip_beauty_coloring_reset" 	value="&lt;FONT color='#FFD200' size='15' &gt;Default&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nReverts to the original color of the item." />
-  <key id="$s_tooltip_beauty_coloring_pay" 	value="&lt;FONT color='#FFD200' size='15' &gt;Pay&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe discussion items in a shopping cart changes\nConfirmed." />
+  <key id="$s_tooltip_beauty_coloring_addbasket" value="&lt;FONT color='#FFD200' size='15' &gt;Add to Shopping Cart&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe selected items into a shopping cart."/>
+  <key id="$s_tooltip_beauty_coloring_reset" value="&lt;FONT color='#FFD200' size='15' &gt;Default&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nReverts to the original color of the item."/>
+  <key id="$s_tooltip_beauty_coloring_pay" value="&lt;FONT color='#FFD200' size='15' &gt;Pay&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe discussion items in a shopping cart changes\nConfirmed."/>
 
   <!--Shop the ToolTip-->
-  <key id="$s_tooltip_shop_reset" 	value="&lt;FONT color='#FFD200' size='15' &gt;Wearing it immediately&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nNew products on sale in the shop without waiting for shipping\nFor a list of items you can change immediately.\nThe item can be changed with the option to change." />
-  <key id="$s_tooltip_shop_showenable" 	value="&lt;FONT color='#FFD200' size='15' &gt;Show only the available items&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe list of items for sale in the store\nDisplays only the available items." />
-  <key id="$s_tooltip_shop_input_search" 	value="&lt;FONT color='#FFD200' size='15' &gt;Search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can find the desired item directly." />
-  <key id="$s_tooltip_shop_tab_purchase" 	value="&lt;FONT color='#FFD200' size='15' &gt;Item (s)&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThis is a list of the items for sale in the shop." />
-  <key id="$s_tooltip_shop_tab_repurchase" 	value="&lt;FONT color='#FFD200' size='15' &gt;Re buy&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThis is a list of the items available for purchase again." />
+  <key id="$s_tooltip_shop_reset" value="&lt;FONT color='#FFD200' size='15' &gt;Wearing it immediately&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nNew products on sale in the shop without waiting for shipping\nFor a list of items you can change immediately.\nThe item can be changed with the option to change."/>
+  <key id="$s_tooltip_shop_showenable" value="&lt;FONT color='#FFD200' size='15' &gt;Show only the available items&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe list of items for sale in the store\nDisplays only the available items."/>
+  <key id="$s_tooltip_shop_input_search" value="&lt;FONT color='#FFD200' size='15' &gt;Search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can find the desired item directly."/>
+  <key id="$s_tooltip_shop_tab_purchase" value="&lt;FONT color='#FFD200' size='15' &gt;Item (s)&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThis is a list of the items for sale in the shop."/>
+  <key id="$s_tooltip_shop_tab_repurchase" value="&lt;FONT color='#FFD200' size='15' &gt;Re buy&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThis is a list of the items available for purchase again."/>
   
   <!--Black market ToolTip-->
-  <key id="$s_tooltip_blackmarket_tab_search" 	value="&lt;FONT color='#FFD200' size='15' &gt;Article search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nBlack market searching for registered items can be purchased." />
-  <key id="$s_tooltip_blackmarket_tab_register" 	value="&lt;FONT color='#FFD200' size='15' &gt;Sale registration&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe items on the black market, you can sell." />
-  <key id="$s_tooltip_blackmarket_input_sellprice" 	value="&lt;FONT color='#FFD200' size='15' &gt;Priced to sell&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n10 - 9,900,000,000You can enter up to." /> <!--Unused-->
-  <key id="$s_tooltip_blackmarket_input_sellcount" 	value="&lt;FONT color='#FFD200' size='15' &gt;Sales count&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n1Please enter at least." /><!--Unused-->
-  <key id="$s_tooltip_blackmarket_btn_cancelsell" 	value="&lt;FONT color='#FFD200' size='15' &gt;Sale cancellations&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nBlack market item charge back on sale.\nCancellation of sale, consignment items by mail.\nThere is no fee to cancel the sale." />
-  <key id="$s_tooltip_blackmarket_btn_register" 	value="&lt;FONT color='#FFD200' size='15' &gt;Sale registration&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nNow type the contents of the consignment sale items in the black market.\nAfter the application for registration on the list of actual black market to go up to 1." />
-  <key id="$s_tooltip_blackmarket_btn_search" 	value="&lt;FONT color='#FFD200' size='15' &gt;Article search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nNow set as a condition the item is registered at the black market." />
-  <key id="$s_tooltip_blackmarket_btn_buy" 	value="&lt;FONT color='#FFD200' size='15' &gt;To purchase a&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe item is purchased, you will receive in the mail." />
-  <key id="$s_tooltip_blackmarket_input_minlevel" 	value="&lt;FONT color='#FFD200' size='15' &gt;Minimum level&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter the minimum level of the item you want to retrieve." />
-  <key id="$s_tooltip_blackmarket_input_maxlevel" 	value="&lt;FONT color='#FFD200' size='15' &gt;Maximum level&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter the maximum level of the item you want to retrieve." />
-  <key id="$s_tooltip_blackmarket_input_minvalue" 	value="&lt;FONT color='#FFD200' size='15' &gt;The minimum value of&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter the minimum value of the selected item (s) option." />
-  <key id="$s_tooltip_blackmarket_input_name" 	value="&lt;FONT color='#FFD200' size='15' &gt;Name filter settings (optional)&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo search for items that contain the word you entered.\nYou do not need to enter this content can be retrieved.\nIf you do not enter a name, if only other conditions except for the filter search results." />
-  <key id="$s_tooltip_blackmarket_input_name_essential" 	value="&lt;FONT color='#FFD200' size='15' &gt;Name search &lt;/FONT&gt;&lt;FONT color='#FF5F5F'&gt;(Required input)&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nType the name of the item to retrieve.\nYou can also type only a portion of the full name and the name of the item (s) so that you know &lt;FONT color='#FFD200' &gt;Auto-completion support&lt;/FONT&gt;.\nHowever, when you search in this category &lt;FONT color='#FFD200' &gt;Type the name of the correct item (s)&lt;/FONT&gt;You can search you need to." />
-  <key id="$s_tooltip_blackmarket_check_include_enchant" 	value="&lt;FONT color='#FFD200' size='15' &gt;Inn Chan including&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo increase options for figures, which also includes the Chancellor search." />
-  <key id="$s_tooltip_blackmarket_btn_option_search" 	value="&lt;FONT color='#FFD200' size='15' &gt;Advanced search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nItem option is specified directly or\nYou can search for the steps which Chan Tran." />
-  <key id="$s_tooltip_blackmarket_btn_option_reset" 	value="&lt;FONT color='#FFD200' size='15' &gt;Advanced search initialization&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nClears all of the content that you entered in the advanced search." />
-  <key id="$s_tooltip_blackmarket_input_min_enchant" 	value="&lt;FONT color='#FFD200' size='15' &gt;The minimum step which Chan Tran&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDue to the least of the item you want to retrieve Chan Tran enter the steps." />
-  <key id="$s_tooltip_blackmarket_input_max_enchant" 	value="&lt;FONT color='#FFD200' size='15' &gt;Step up, which Chan Tran&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe maximum number of items you want to retrieve, which Chan Tran enter the stage." />
+  <key id="$s_tooltip_blackmarket_tab_search" value="&lt;FONT color='#FFD200' size='15' &gt;Article search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nBlack market searching for registered items can be purchased."/>
+  <key id="$s_tooltip_blackmarket_tab_register" value="&lt;FONT color='#FFD200' size='15' &gt;Sale registration&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe items on the black market, you can sell."/>
+  <key id="$s_tooltip_blackmarket_input_sellprice" value="&lt;FONT color='#FFD200' size='15' &gt;Priced to sell&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n10 - 9,900,000,000You can enter up to."/> <!--Unused-->
+  <key id="$s_tooltip_blackmarket_input_sellcount" value="&lt;FONT color='#FFD200' size='15' &gt;Sales count&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n1Please enter at least."/><!--Unused-->
+  <key id="$s_tooltip_blackmarket_btn_cancelsell" value="&lt;FONT color='#FFD200' size='15' &gt;Sale cancellations&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nBlack market item charge back on sale.\nCancellation of sale, consignment items by mail.\nThere is no fee to cancel the sale."/>
+  <key id="$s_tooltip_blackmarket_btn_register" value="&lt;FONT color='#FFD200' size='15' &gt;Sale registration&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nNow type the contents of the consignment sale items in the black market.\nAfter the application for registration on the list of actual black market to go up to 1."/>
+  <key id="$s_tooltip_blackmarket_btn_search" value="&lt;FONT color='#FFD200' size='15' &gt;Article search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nNow set as a condition the item is registered at the black market."/>
+  <key id="$s_tooltip_blackmarket_btn_buy" value="&lt;FONT color='#FFD200' size='15' &gt;To purchase a&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe item is purchased, you will receive in the mail."/>
+  <key id="$s_tooltip_blackmarket_input_minlevel" value="&lt;FONT color='#FFD200' size='15' &gt;Minimum level&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter the minimum level of the item you want to retrieve."/>
+  <key id="$s_tooltip_blackmarket_input_maxlevel" value="&lt;FONT color='#FFD200' size='15' &gt;Maximum level&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter the maximum level of the item you want to retrieve."/>
+  <key id="$s_tooltip_blackmarket_input_minvalue" value="&lt;FONT color='#FFD200' size='15' &gt;The minimum value of&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter the minimum value of the selected item (s) option."/>
+  <key id="$s_tooltip_blackmarket_input_name" value="&lt;FONT color='#FFD200' size='15' &gt;Name filter settings (optional)&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo search for items that contain the word you entered.\nYou do not need to enter this content can be retrieved.\nIf you do not enter a name, if only other conditions except for the filter search results."/>
+  <key id="$s_tooltip_blackmarket_input_name_essential" value="&lt;FONT color='#FFD200' size='15' &gt;Name search &lt;/FONT&gt;&lt;FONT color='#FF5F5F'&gt;(Required input)&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nType the name of the item to retrieve.\nYou can also type only a portion of the full name and the name of the item (s) so that you know &lt;FONT color='#FFD200' &gt;Auto-completion support&lt;/FONT&gt;.\nHowever, when you search in this category &lt;FONT color='#FFD200' &gt;Type the name of the correct item (s)&lt;/FONT&gt;You can search you need to."/>
+  <key id="$s_tooltip_blackmarket_check_include_enchant" value="&lt;FONT color='#FFD200' size='15' &gt;Inn Chan including&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo increase options for figures, which also includes the Chancellor search."/>
+  <key id="$s_tooltip_blackmarket_btn_option_search" value="&lt;FONT color='#FFD200' size='15' &gt;Advanced search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nItem option is specified directly or\nYou can search for the steps which Chan Tran."/>
+  <key id="$s_tooltip_blackmarket_btn_option_reset" value="&lt;FONT color='#FFD200' size='15' &gt;Advanced search initialization&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nClears all of the content that you entered in the advanced search."/>
+  <key id="$s_tooltip_blackmarket_input_min_enchant" value="&lt;FONT color='#FFD200' size='15' &gt;The minimum step which Chan Tran&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDue to the least of the item you want to retrieve Chan Tran enter the steps."/>
+  <key id="$s_tooltip_blackmarket_input_max_enchant" value="&lt;FONT color='#FFD200' size='15' &gt;Step up, which Chan Tran&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe maximum number of items you want to retrieve, which Chan Tran enter the stage."/>
   
   <!--The party find ToolTips-->  
   <key id="$s_tooltip_partysearch_tab_memeber_search" value="&lt;FONT color='#FFD200' size='15' &gt;Party recruitment&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nJoin the party proceeded to recruit a party party.\nSeeking applications from party members and party together."/>
   <key id="$s_tooltip_partysearch_tab_party_search" value="&lt;FONT color='#FFD200' size='15' &gt;The party participated in the&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe party participated in the reorganization of the system.\nIt is now not available."/>
-  <key id="$s_tooltip_partysearch_input_search" 	value="&lt;FONT color='#FFD200' size='15' &gt;Title search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIf you enter a query, the query retrieves the title included.\nHowever, the search only within the currently selected list." />
-  <key id="$s_tooltip_partysearch_check_show_similar_level" value="&lt;FONT color='#FFD200' size='15' &gt;See similar levels&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays a list of my level Dungeon.\nIf you turn off the check, the entire Dungeon." />
+  <key id="$s_tooltip_partysearch_input_search" value="&lt;FONT color='#FFD200' size='15' &gt;Title search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIf you enter a query, the query retrieves the title included.\nHowever, the search only within the currently selected list."/>
+  <key id="$s_tooltip_partysearch_check_show_similar_level" value="&lt;FONT color='#FFD200' size='15' &gt;See similar levels&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays a list of my level Dungeon.\nIf you turn off the check, the entire Dungeon."/>
   
-  <key id="$s_tooltip_partysearch_dropdown_sort_dungeon_level" 	value="&lt;FONT color='#FFD200' size='15' &gt;Select difficulty&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShows a list of the selected difficulty level of the Dungeon.\nHowever, regardless of the difficulty of recruiting the adventurer always shows." />
-  <key id="$s_tooltip_partysearch_dropdown_sort_memeber_search" 	value="&lt;FONT color='#FFD200' size='15' &gt;Select the sort order&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShows a list of the selected order." />
-  <key id="$s_tooltip_partysearch_dropdown_sort_party_search" 	value="&lt;FONT color='#FFD200' size='15' &gt;Select the sort order&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShows a list of the selected order." />
+  <key id="$s_tooltip_partysearch_dropdown_sort_dungeon_level" value="&lt;FONT color='#FFD200' size='15' &gt;Select difficulty&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShows a list of the selected difficulty level of the Dungeon.\nHowever, regardless of the difficulty of recruiting the adventurer always shows."/>
+  <key id="$s_tooltip_partysearch_dropdown_sort_memeber_search" value="&lt;FONT color='#FFD200' size='15' &gt;Select the sort order&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShows a list of the selected order."/>
+  <key id="$s_tooltip_partysearch_dropdown_sort_party_search" value="&lt;FONT color='#FFD200' size='15' &gt;Select the sort order&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShows a list of the selected order."/>
   
   <key id="$s_tooltip_partysearch_btn_refresh_party_search" value="&lt;FONT color='#FFD200' size='15' &gt;Refresh&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe party participated in the written list.\nHowever, if you need to refresh page 1 shows from the back."/>
   <key id="$s_tooltip_partysearch_btn_refresh_member_search" value="&lt;FONT color='#FFD200' size='15' &gt;Refresh&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe party seeking to renew or list.\nHowever, if you need to refresh page 1 shows from the back."/>
@@ -931,7 +929,7 @@
   <key id="$s_gamemenu_ugc" value="&lt;FONT color='#FFD200' size='15' &gt;Screenshot Folder&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn-game screen shots taken are kept\nYou can open a folder."/>
   <key id="$s_gamemenu_realestate" value="&lt;FONT color='#FFD200' size='15' &gt;Real Estate Contract&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIs now live and you can see the House's agreement.\nYou can change the name of the House to open the contract."/>
   <key id="$s_gamemenu_camera" value="&lt;FONT color='#FFD200' size='15' &gt;Profile Camera&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can take a picture with the camera profile.\nThe images taken on my profile you can register right away."/>
-  <key id="$s_gamemenu_warehouse" 	value="&lt;FONT color='#FFD200' size='15' &gt;Movers storage warehouses&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nHouse for sale, or contracting with expired,\nAmong the items were installed in the House as your belongings\nDoes the item transferred right away.\nThis is where the item is being kept in a certain period of time\nAre kept, &lt;FONT color='#FF5F5F'&gt;Archive for the period will be deleted." />
+  <key id="$s_gamemenu_warehouse" value="&lt;FONT color='#FFD200' size='15' &gt;Movers storage warehouses&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nHouse for sale, or contracting with expired,\nAmong the items were installed in the House as your belongings\nDoes the item transferred right away.\nThis is where the item is being kept in a certain period of time\nAre kept, &lt;FONT color='#FF5F5F'&gt;Archive for the period will be deleted."/>
   <key id="$s_gamemenu_arena" value="&lt;FONT color='#FFD200' size='15' &gt;Battle chapter&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCan emulate the skills battle between characters in chapter\nYou can apply for the position."/>
   <key id="$s_gamemenu_petinfo" value="&lt;FONT color='#FFD200' size='15' &gt;Pet information&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPet information."/>
   <!-- msgbox -->
@@ -984,9 +982,9 @@
   <key id="$s_skillbook_upgrade" value="Upgrade"/>
   <key id="$s_skillbook_okbutton" value="Upgrade"/>
   <key id="$s_skillbook_novideo" value="Preview is unavailable"/>
-  <key id="$s_tooltip_skillbook_active" 		value="&lt;FONT color='#FFD200' size='15' &gt;Active&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays a list of available active skills that can be learned later on.\nDrag and drop the skill to a quick slot use it." />
-  <key id="$s_tooltip_skillbook_passive" 		value="&lt;FONT color='#FFD200' size='15' &gt;Passive&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays a list of available passive skills that can be learned later on.\nThe skill's passive effect is always active or conditionally." />
-  <key id="$s_tooltip_skillbook_action" 		value="&lt;FONT color='#FFD200' size='15' &gt;Action&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays a list of available action skills that can be learned later on.\nDrag-and-drop to a quick slot can be equipped with the skill." />
+  <key id="$s_tooltip_skillbook_active" value="&lt;FONT color='#FFD200' size='15' &gt;Active&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays a list of available active skills that can be learned later on.\nDrag and drop the skill to a quick slot use it."/>
+  <key id="$s_tooltip_skillbook_passive" value="&lt;FONT color='#FFD200' size='15' &gt;Passive&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays a list of available passive skills that can be learned later on.\nThe skill's passive effect is always active or conditionally."/>
+  <key id="$s_tooltip_skillbook_action" value="&lt;FONT color='#FFD200' size='15' &gt;Action&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays a list of available action skills that can be learned later on.\nDrag-and-drop to a quick slot can be equipped with the skill."/>
   
     <!-- achieve -->
   <key id="$s_achieve_title" value="Trophy"/>
@@ -1026,7 +1024,7 @@
   <key id="$s_apartment_gotoDoor" value="Go To"/>
   <key id="$s_apartment_myhome_tooltip" value="Action Key : Enter"/>
 
-  <key id="$s_owner_name" value="Address" />
+  <key id="$s_owner_name" value="Address"/>
 
   <!-- real estate contract -->
   <key id="$s_realestate_confirm" value="Contract"/>
@@ -1279,89 +1277,89 @@
   
     <!-- Report Report -->
   <!-- 1:Character Click, 2:Listens for click, 3:Wall boy/Billboard, 4:Market items, 5:Real estate -->
-  <key id="$s_report_button_report" value="Report" />
-  <key id="$s_report_subject" value="Target" />
-  <key id="$s_report_reason" value="Reason" />
-  <key id="$s_report_item" value="Report Item" />
-  <key id="$s_report_realestate" value="Report Real Estate" />
-  <key id="$s_report_maker" value="Creator" />
-  <key id="$s_report_button_blind" value="Blind" />
-  <key id="$s_report_inputText_default" value="Please enter a reason to file this report" />
-  <key id="$s_report_ban_character_check" value="This character has been blocked." />
-  <key id="$s_report_blind_contents_check" value="This content has been blocked." />
+  <key id="$s_report_button_report" value="Report"/>
+  <key id="$s_report_subject" value="Target"/>
+  <key id="$s_report_reason" value="Reason"/>
+  <key id="$s_report_item" value="Report Item"/>
+  <key id="$s_report_realestate" value="Report Real Estate"/>
+  <key id="$s_report_maker" value="Creator"/>
+  <key id="$s_report_button_blind" value="Blind"/>
+  <key id="$s_report_inputText_default" value="Please enter a reason to file this report"/>
+  <key id="$s_report_ban_character_check" value="This character has been blocked."/>
+  <key id="$s_report_blind_contents_check" value="This content has been blocked."/>
   
-  <key id="$s_report_category1_main_reason" value="Report Character." />
-  <key id="$s_report_category1_sub_reason01" value="Inappropriate Profile Image" />
-  <key id="$s_report_category1_sub_reason02" value="Inappropriate Designer Clothing Wear" />
-  <key id="$s_report_category1_sub_reason03" value="Hacking, Illegal Programs" />
-  <key id="$s_report_category1_sub_reason04" value="Misconduct to Another Player" />
-  <key id="$s_report_category1_sub_reason05" value="Other" />
-  <key id="$s_report_category1_description" value="And at the same time blocking the other side character report profile image, chat, mail and \n   You can hide all sorts of requests to the invisible.\nAnd a list of characters in the window block, you can manage the community.\nAnd false: &lt;FONT color='#be0202'&gt;Strong punishment&lt;/FONT&gt;You can receive a Please be careful.&lt;/FONT&gt;" />
+  <key id="$s_report_category1_main_reason" value="Report Character."/>
+  <key id="$s_report_category1_sub_reason01" value="Inappropriate Profile Image"/>
+  <key id="$s_report_category1_sub_reason02" value="Inappropriate Designer Clothing Wear"/>
+  <key id="$s_report_category1_sub_reason03" value="Hacking, Illegal Programs"/>
+  <key id="$s_report_category1_sub_reason04" value="Misconduct to Another Player"/>
+  <key id="$s_report_category1_sub_reason05" value="Other"/>
+  <key id="$s_report_category1_description" value="And at the same time blocking the other side character report profile image, chat, mail and \n   You can hide all sorts of requests to the invisible.\nAnd a list of characters in the window block, you can manage the community.\nAnd false: &lt;FONT color='#be0202'&gt;Strong punishment&lt;/FONT&gt;You can receive a Please be careful.&lt;/FONT&gt;"/>
 
-  <key id="$s_report_category2_main_reason" value="Report Chat Content." />
-  <key id="$s_report_category2_sub_reason01" value="Abusive or obscene posts" />
-  <key id="$s_report_category2_sub_reason02" value="Person writing a derogatory or can cause trouble" />
-  <key id="$s_report_category2_sub_reason03" value="Scam or cash transactions induction" />
-  <key id="$s_report_category2_sub_reason04" value="Bombard in chat" />
-  <key id="$s_report_category2_sub_reason05" value="Other" />
-  <key id="$s_report_category2_description" value="And at the same time blocking the other side character report profile image, chat, mail and \n   You can hide all sorts of requests to the invisible.\nAnd a list of characters in the window block, you can manage the community.\nAnd false: &lt;FONT color='#be0202'&gt;Strong punishment&lt;/FONT&gt;You can receive a Please be careful.&lt;/FONT&gt;" />
+  <key id="$s_report_category2_main_reason" value="Report Chat Content."/>
+  <key id="$s_report_category2_sub_reason01" value="Abusive or obscene posts"/>
+  <key id="$s_report_category2_sub_reason02" value="Person writing a derogatory or can cause trouble"/>
+  <key id="$s_report_category2_sub_reason03" value="Scam or cash transactions induction"/>
+  <key id="$s_report_category2_sub_reason04" value="Bombard in chat"/>
+  <key id="$s_report_category2_sub_reason05" value="Other"/>
+  <key id="$s_report_category2_description" value="And at the same time blocking the other side character report profile image, chat, mail and \n   You can hide all sorts of requests to the invisible.\nAnd a list of characters in the window block, you can manage the community.\nAnd false: &lt;FONT color='#be0202'&gt;Strong punishment&lt;/FONT&gt;You can receive a Please be careful.&lt;/FONT&gt;"/>
   
-  <key id="$s_report_category3_main_reason" value="The Billboard images." />
-  <key id="$s_report_category3_sub_reason01" value="Violate the intellectual property rights of image" />
-  <key id="$s_report_category3_sub_reason02" value="Profanity or indecent content embedded images" />
-  <key id="$s_report_category3_sub_reason03" value="Person in a derogatory or can cause trouble images" />
-  <key id="$s_report_category3_sub_reason04" value="Commercial advertising" />
-  <key id="$s_report_category3_sub_reason05" value="Other" />
-  <key id="$s_report_category3_description" value="And if you block this content, at the same time as filing the image invisible \n   You can hide. \nAnd false: &lt;FONT color='#be0202'&gt;Strong punishment&lt;/FONT&gt;You can receive a Please be careful.&lt;/FONT&gt;" />
+  <key id="$s_report_category3_main_reason" value="The Billboard images."/>
+  <key id="$s_report_category3_sub_reason01" value="Violate the intellectual property rights of image"/>
+  <key id="$s_report_category3_sub_reason02" value="Profanity or indecent content embedded images"/>
+  <key id="$s_report_category3_sub_reason03" value="Person in a derogatory or can cause trouble images"/>
+  <key id="$s_report_category3_sub_reason04" value="Commercial advertising"/>
+  <key id="$s_report_category3_sub_reason05" value="Other"/>
+  <key id="$s_report_category3_description" value="And if you block this content, at the same time as filing the image invisible \n   You can hide. \nAnd false: &lt;FONT color='#be0202'&gt;Strong punishment&lt;/FONT&gt;You can receive a Please be careful.&lt;/FONT&gt;"/>
   
-  <key id="$s_report_category4_main_reason" value="The item report." />
-  <key id="$s_report_category4_sub_reason01" value="Inappropriate item design" />
-  <key id="$s_report_category4_sub_reason02" value="Inappropriate item name" />
-  <key id="$s_report_category4_sub_reason03" value="Inappropriate item item description" />
-  <key id="$s_report_category4_sub_reason04" value="Copyright infringement" /> 
-  <key id="$s_report_category4_sub_reason05" value="Other" /> 
-  <key id="$s_report_category4_description" value="And report and at the same time blocking the 1, this item has gone from invisible Merit market \n   You can hide.\nAnd false: &lt;FONT color='#be0202'&gt;Strong punishment&lt;/FONT&gt;You can receive a Please be careful.&lt;/FONT&gt;" />
+  <key id="$s_report_category4_main_reason" value="The item report."/>
+  <key id="$s_report_category4_sub_reason01" value="Inappropriate item design"/>
+  <key id="$s_report_category4_sub_reason02" value="Inappropriate item name"/>
+  <key id="$s_report_category4_sub_reason03" value="Inappropriate item item description"/>
+  <key id="$s_report_category4_sub_reason04" value="Copyright infringement"/> 
+  <key id="$s_report_category4_sub_reason05" value="Other"/> 
+  <key id="$s_report_category4_description" value="And report and at the same time blocking the 1, this item has gone from invisible Merit market \n   You can hide.\nAnd false: &lt;FONT color='#be0202'&gt;Strong punishment&lt;/FONT&gt;You can receive a Please be careful.&lt;/FONT&gt;"/>
   
-  <key id="$s_report_category5_sub_reason01" value="Inappropriate item design" />
-  <key id="$s_report_category5_sub_reason02" value="Placing inappropriate items" />
-  <key id="$s_report_category5_sub_reason03" value="Improper home name" />
-  <key id="$s_report_category5_sub_reason04" value="Copyright infringement" /> 
-  <key id="$s_report_category5_sub_reason05" value="Other" /> 
-  <key id="$s_report_category5_description" value="And false: &lt;FONT color='#be0202'&gt;Strong punishment&lt;/FONT&gt;You can receive a Please be careful.&lt;/FONT&gt;" />
+  <key id="$s_report_category5_sub_reason01" value="Inappropriate item design"/>
+  <key id="$s_report_category5_sub_reason02" value="Placing inappropriate items"/>
+  <key id="$s_report_category5_sub_reason03" value="Improper home name"/>
+  <key id="$s_report_category5_sub_reason04" value="Copyright infringement"/> 
+  <key id="$s_report_category5_sub_reason05" value="Other"/> 
+  <key id="$s_report_category5_description" value="And false: &lt;FONT color='#be0202'&gt;Strong punishment&lt;/FONT&gt;You can receive a Please be careful.&lt;/FONT&gt;"/>
 
   <!-- The storybook -->
-   <key id="$s_storybook_prev_page" value="Previous Page" /> 
-   <key id="$s_storybook_next_page" value="Next Page" /> 
-   <key id="$s_storybook_close" value="Close" /> 
+   <key id="$s_storybook_prev_page" value="Previous Page"/> 
+   <key id="$s_storybook_next_page" value="Next Page"/> 
+   <key id="$s_storybook_close" value="Close"/> 
    
-   <key id="$s_tutorial_skip_button" value="End Tutorial" /> 
-   <key id="$s_tutorial_skip_message" value="Do you want to skip the tutorial?" /> 
-   <key id="$s_tutorial_skip_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;End Tutorial&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnd the tutorial and move to Amherst.\nAfter moving to Amherst, you cannot come back,\nand you will not be rewarded." /> 
+   <key id="$s_tutorial_skip_button" value="End Tutorial"/> 
+   <key id="$s_tutorial_skip_message" value="Do you want to skip the tutorial?"/> 
+   <key id="$s_tutorial_skip_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;End Tutorial&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnd the tutorial and move to Amherst.\nAfter moving to Amherst, you cannot come back,\nand you will not be rewarded."/> 
    
    <!-- Party damage meter -->
-   <key id="$s_partydps_timer" value="Timer" />
-   <key id="$s_partydps_bar01" value="Ranking" />
-   <key id="$s_partydps_bar02" value="Damage Meter" />
-   <key id="$s_partydps_tooltip_notice" value="&lt;FONT color='#FFD200' size='15' &gt;Sharing&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays the ranking and records in the chat window." />
-   <key id="$s_partydps_tooltip_toggle" value="&lt;FONT color='#FFD200' size='15' &gt;Display Values&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays or hides the damage values." />
-   <key id="$s_partydps_tooltip_reset" value="&lt;FONT color='#FFD200' size='15' &gt;Reset&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nResets the cumulative time of your damage record." />
-   <key id="$s_partydps_tooltip_close" value="&lt;FONT color='#FFD200' size='15' &gt;Hide Damage Meter Window&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCan be enabled through the Interface settings in Preferences." />
+   <key id="$s_partydps_timer" value="Timer"/>
+   <key id="$s_partydps_bar01" value="Ranking"/>
+   <key id="$s_partydps_bar02" value="Damage Meter"/>
+   <key id="$s_partydps_tooltip_notice" value="&lt;FONT color='#FFD200' size='15' &gt;Sharing&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays the ranking and records in the chat window."/>
+   <key id="$s_partydps_tooltip_toggle" value="&lt;FONT color='#FFD200' size='15' &gt;Display Values&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDisplays or hides the damage values."/>
+   <key id="$s_partydps_tooltip_reset" value="&lt;FONT color='#FFD200' size='15' &gt;Reset&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nResets the cumulative time of your damage record."/>
+   <key id="$s_partydps_tooltip_close" value="&lt;FONT color='#FFD200' size='15' &gt;Hide Damage Meter Window&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCan be enabled through the Interface settings in Preferences."/>
   
    <!-- Group chat invitation dial -->
-    <key id="$s_invitegroup_title" value="Invite your buddies" />
-    <key id="$s_invitegroup_from_search" value="Invite Character Name" />
-    <key id="$s_invitegroup_from_comunity" value="Invite from Community" />
-    <key id="$s_invitegroup_button_invite" value="Invite" />
+    <key id="$s_invitegroup_title" value="Invite your buddies"/>
+    <key id="$s_invitegroup_from_search" value="Invite Character Name"/>
+    <key id="$s_invitegroup_from_comunity" value="Invite from Community"/>
+    <key id="$s_invitegroup_button_invite" value="Invite"/>
 	
 	<!-- item break -->
-	<key id="$s_itembreak_title" value="Onyx Extraction Device NSD-3200" />
-	<key id="$s_itembreak_break" value="Dismantle" />
-	<key id="$s_itembreak_retry" value="Go Back" />
-	<key id="$s_itembreak_desc" value="Dismantle equipment to extract Onyx Crystals from it.\nPlace a dismantleable equipment (Lv. 20Lv or higher)." />
+	<key id="$s_itembreak_title" value="Onyx Extraction Device NSD-3200"/>
+	<key id="$s_itembreak_break" value="Dismantle"/>
+	<key id="$s_itembreak_retry" value="Go Back"/>
+	<key id="$s_itembreak_desc" value="Dismantle equipment to extract Onyx Crystals from it.\nPlace a dismantleable equipment (Lv. 20Lv or higher)."/>
   
   <!-- messagebox-->
-  <key id="$s_messagebox_group_name" value="Chat Room Name" />
-  <key id="$s_messagebox_group_alpha" value="Transparency" />
+  <key id="$s_messagebox_group_name" value="Chat Room Name"/>
+  <key id="$s_messagebox_group_alpha" value="Transparency"/>
   
   <!-- groupmessenger-->
   <key id="$s_groupmessenger_start_groupchat" value="&lt;FONT color='#FFD200' size='15' &gt;New Group Talk&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nClick on the button to start a new Group Talk."/>
@@ -1372,123 +1370,123 @@
   <key id="$s_groupmessenger_addbutton" value="Group Talk"/>
   
   <!-- guild -->
-  <key id="$s_guild_mail_header" value="Guild Mailbox" />
-  <key id="$s_guild_mail_content_desc" value="Number of Characters {0} / {1}" />
-  <key id="$s_guild_mail_title" value="Title" />
-  <key id="$s_guild_mail_content" value="Contents" />
-  <key id="$s_guild_mail_send" value="Send" />
-  <key id="$s_guild_header_name" value="Guild" />
-  <key id="$s_guild_join_doyowant_create" value="Do you want to create a new guild?" />  
-  <key id="$s_guild_join_create_detail_01" value="Create a guild and interact in activities with others as a guild master!" />
-  <key id="$s_guild_join_create_detail_02" value="A guild garden can have up to 25 players." />
-  <key id="$s_guild_join_create_detail_03" value="It cost you 5000 Meso to create a guild." />
-  <key id="$s_guild_join_create_detail_04" value="You can expand your guild garden later on by paying a small cost." />  
-  <key id="$s_guild_join_button_see_other_guild" value="View Top-Ranked GUilds" />
-  <key id="$s_guild_join_button_create_nrew_guild" value="Create New Guild" />
-  <key id="$s_guild_info_guild_info" value="Guild Information" />
-  <key id="$s_guild_info_guild_name" value="Guild people" />
-  <key id="$s_guild_info_guild_create_time" value="Guild Established" />
-  <key id="$s_guild_info_guild_member_count" value="The Guild and the number of guests" />
-  <key id="$s_guild_info_guild_master" value="Guild Master" />
-  <key id="$s_guild_info_guild_trophy_count" value="Guild Trophy" />
-  <key id="$s_guild_info_guild_notify" value="Guild Notice" />
-  <key id="$s_guild_info_button_change_mark" value="Guild Mark" />
-  <key id="$s_guild_info_button_change_master" value="Guild Notice" />
-  <key id="$s_guild_info_button_extend_capacity" value="Expand" />
-  <key id="$s_guild_info_button_change_propensity" value="The Guild's action tendencies" />
-  <key id="$s_guild_info_button_leave_guild" value="Leave Guild" />
-  <key id="$s_guild_info_button_break_guild" value="Disband Guild" />
-  <key id="$s_guild_info_button_guild_rank" value="Rank" />
+  <key id="$s_guild_mail_header" value="Guild Mailbox"/>
+  <key id="$s_guild_mail_content_desc" value="Number of Characters {0} / {1}"/>
+  <key id="$s_guild_mail_title" value="Title"/>
+  <key id="$s_guild_mail_content" value="Contents"/>
+  <key id="$s_guild_mail_send" value="Send"/>
+  <key id="$s_guild_header_name" value="Guild"/>
+  <key id="$s_guild_join_doyowant_create" value="Do you want to create a new guild?"/>  
+  <key id="$s_guild_join_create_detail_01" value="Create a guild and interact in activities with others as a guild master!"/>
+  <key id="$s_guild_join_create_detail_02" value="A guild garden can have up to 25 players."/>
+  <key id="$s_guild_join_create_detail_03" value="It cost you 5000 Meso to create a guild."/>
+  <key id="$s_guild_join_create_detail_04" value="You can expand your guild garden later on by paying a small cost."/>  
+  <key id="$s_guild_join_button_see_other_guild" value="View Top-Ranked GUilds"/>
+  <key id="$s_guild_join_button_create_nrew_guild" value="Create New Guild"/>
+  <key id="$s_guild_info_guild_info" value="Guild Information"/>
+  <key id="$s_guild_info_guild_name" value="Guild people"/>
+  <key id="$s_guild_info_guild_create_time" value="Guild Established"/>
+  <key id="$s_guild_info_guild_member_count" value="The Guild and the number of guests"/>
+  <key id="$s_guild_info_guild_master" value="Guild Master"/>
+  <key id="$s_guild_info_guild_trophy_count" value="Guild Trophy"/>
+  <key id="$s_guild_info_guild_notify" value="Guild Notice"/>
+  <key id="$s_guild_info_button_change_mark" value="Guild Mark"/>
+  <key id="$s_guild_info_button_change_master" value="Guild Notice"/>
+  <key id="$s_guild_info_button_extend_capacity" value="Expand"/>
+  <key id="$s_guild_info_button_change_propensity" value="The Guild's action tendencies"/>
+  <key id="$s_guild_info_button_leave_guild" value="Leave Guild"/>
+  <key id="$s_guild_info_button_break_guild" value="Disband Guild"/>
+  <key id="$s_guild_info_button_guild_rank" value="Rank"/>
 
-  <key id="$s_guild_manage_manager_member" value="Guild Management" />
-  <key id="$s_guild_manage_member" value="Guild Member" />
-  <key id="$s_guild_manage_button" value="Make Guild Master" />
-  <key id="$s_guild_manage_change_grade" value="Change Rank" />
-  <key id="$s_guild_manage_expel_member" value="Expel" />
-  <key id="$s_guild_manage_button_grade_auth" value="Ranks and Authority" />
-  <key id="$s_guild_manage_guild_count" value="{0}" />  
-  <key id="$s_guild_member_info" value="Guild Information" />
-  <key id="$s_guild_member_connect_member_count" value="Connected Guild Members" />
-  <key id="$s_guild_member_total_member_count" value="Total Guild Members" /> 
-  <key id="$s_guild_member_guild_count" value="&lt;FONT color='#000000'&gt;{0}&lt;/FONT&gt; / {1}" />
-  <key id="$s_guild_grade_popup_edit_title" value="Ranks and Authority" />
-  <key id="$s_guild_grade_popup_name" value="Name" />
-  <key id="$s_guild_grade_popup_auth" value="Permissions" />
-  <key id="$s_guild_grade_popup_auth_01" value="New Guild Invite" />
-  <key id="$s_guild_grade_popup_auth_02" value="Edit Guild Mark" />
-  <key id="$s_guild_grade_popup_auth_03" value="Edit Guild Notice" />
-  <key id="$s_guild_grade_popup_auth_04" value="Send Guild Mail" />   
-  <key id="$s_guild_grade_popup_auth_05" value="Cancel Championship Signup" />
-  <key id="$s_guild_championship_title" value="Guild Championship" />
-  <key id="$s_guild_championship_period" value="2015. 6. 27" />
-  <key id="$s_guild_championship_view_rank" value="View Rankings" />
-  <key id="$s_guild_championship_notify_matching" value="Match Notification" />
-  <key id="$s_guild_championship_regist_pvp_button" value="Apply" />
-  <key id="$s_guild_championship_unregist_pvp_button" value="Cancel" />
-  <key id="$s_guild_championship_join_pvp_button" value="Enter" />
-  <key id="$s_guild_championship_grade_tooltip" value="Ranks and Reward Guide" />
-  <key id="$s_guild_championship_matching_check_tooltip" value="The Guild receives a notification pops up if a matching transformation." />
-  <key id="$s_guild_championship_regist_guild_tooltip" value="Signed up for Guild Wars" /> 
-  <key id="$s_guild_championship_history_current" value="Recently totally" />
-  <key id="$s_guild_championship_history_previous" value="Previously the sole" />
-  <key id="$s_guild_championship_history_detail_winText" value="Win" />
-  <key id="$s_guild_championship_history_detail_loseText" value="Defeat" />
-  <key id="$s_guild_championship_history_current_tooltip" value="This season's last 10 results." />
-  <key id="$s_guild_championship_history_previous_tooltip" value="Last season's ratings and rankings entirely and." />
-  <key id="$s_guild_championship_tooltip_grade_info" value="Qualification score" />
-  <key id="$s_guild_championship_tooltip_season_reward_title" value="The end of the season rewards" />
-  <key id="$s_guild_championship_tooltip_season_reward_detail" value="Rooting for the characters the player or &lt;FONT color='#FFD200'&gt;A minimum of 20 games or more&lt;/FONT&gt; To participate, you can be rewarded.\nCompensation is obtained, and the Guild will participate unsubscribed: match each record is initialized." />
-  <key id="$s_guild_search_tab_title1" value="Search" />
-  <key id="$s_guild_search_tab_title2" value="Apply Guild" />
-  <key id="$s_guild_search_option" value="Search Options" />
-  <key id="$s_guild_search_search" value="Search" />
-  <key id="$s_guild_search_request_max_desc" value="You can register your guild up to 10 times" /> 
-  <key id="$s_guild_search_request_title" value="Registration received" /> 
-  <key id="$s_guild_search_register_search_check" value="Allows the Guild to join" />
-  <key id="$s_guild_search_request_join_guild" value="Subscription" />
-  <key id="$s_guild_search_request_cancel_join" value="Unsubscribe" />  
-  <key id="$s_guild_search_accept_request_join" value="Accept" />
-  <key id="$s_guild_search_reject_request_join" value="Decline" />
-  <key id="$s_guild_search_accept_join_tooltip" value="&lt;FONT color='#FFD200'&gt;Allows the Guild to join&lt;/FONT&gt;\nGuild information set up in the Guild activity will be exposed to search results, depending on the inclination.\nIf checked, searches for people who sign up application of the Guild.\nIf you turn off the check does not apply to join the Guild." />
-  <key id="$s_guild_search_propensity_type1" value="Fellowship" />
-  <key id="$s_guild_search_propensity_type2" value="Party Hunting" />
-  <key id="$s_guild_search_propensity_type3" value="Trophy" />
-  <key id="$s_guild_search_propensity_type4" value="Dungeon" />
-  <key id="$s_guild_search_propensity_type5" value="Construction" />
-  <key id="$s_guild_search_propensity_type6" value="PvP" />
-  <key id="$s_guild_search_propensity_type7" value="Design" />
-  <key id="$s_guild_search_propensity_type8" value="Guild Wars" />
-  <key id="$s_guild_search_propensity_check_type" value="Search Options" />
-  <key id="$s_guild_search_propensity_check_type1" value="Search Options : {0}" />
-  <key id="$s_guild_search_propensity_check_type2" value="Search Options : {0} Besides {1}" />
-  <key id="$s_guild_main_invite" value="Invite" />
-  <key id="$s_guild_main_guild_mail" value="Guild Mail" />
-  <key id="$s_guild_main_tab_menu00" value="Create Guild" />
-  <key id="$s_guild_main_tab_menu01" value="Find Guilds" />  
-  <key id="$s_guild_main_tab_menu10" value="Guild Information" />
-  <key id="$s_guild_main_tab_menu11" value="Guild Member Information" />
-  <key id="$s_guild_main_tab_menu12" value="Championship" />
-  <key id="$s_guild_main_tab_menu13" value="Record Room" />
-  <key id="$s_guild_main_tab_menu14" value="Entry Signup Management" />
-  <key id="$s_guild_main_tab_menu15" value="Guild Member Management" />
+  <key id="$s_guild_manage_manager_member" value="Guild Management"/>
+  <key id="$s_guild_manage_member" value="Guild Member"/>
+  <key id="$s_guild_manage_button" value="Make Guild Master"/>
+  <key id="$s_guild_manage_change_grade" value="Change Rank"/>
+  <key id="$s_guild_manage_expel_member" value="Expel"/>
+  <key id="$s_guild_manage_button_grade_auth" value="Ranks and Authority"/>
+  <key id="$s_guild_manage_guild_count" value="{0}"/>  
+  <key id="$s_guild_member_info" value="Guild Information"/>
+  <key id="$s_guild_member_connect_member_count" value="Connected Guild Members"/>
+  <key id="$s_guild_member_total_member_count" value="Total Guild Members"/> 
+  <key id="$s_guild_member_guild_count" value="&lt;FONT color='#000000'&gt;{0}&lt;/FONT&gt; / {1}"/>
+  <key id="$s_guild_grade_popup_edit_title" value="Ranks and Authority"/>
+  <key id="$s_guild_grade_popup_name" value="Name"/>
+  <key id="$s_guild_grade_popup_auth" value="Permissions"/>
+  <key id="$s_guild_grade_popup_auth_01" value="New Guild Invite"/>
+  <key id="$s_guild_grade_popup_auth_02" value="Edit Guild Mark"/>
+  <key id="$s_guild_grade_popup_auth_03" value="Edit Guild Notice"/>
+  <key id="$s_guild_grade_popup_auth_04" value="Send Guild Mail"/>   
+  <key id="$s_guild_grade_popup_auth_05" value="Cancel Championship Signup"/>
+  <key id="$s_guild_championship_title" value="Guild Championship"/>
+  <key id="$s_guild_championship_period" value="2015. 6. 27"/>
+  <key id="$s_guild_championship_view_rank" value="View Rankings"/>
+  <key id="$s_guild_championship_notify_matching" value="Match Notification"/>
+  <key id="$s_guild_championship_regist_pvp_button" value="Apply"/>
+  <key id="$s_guild_championship_unregist_pvp_button" value="Cancel"/>
+  <key id="$s_guild_championship_join_pvp_button" value="Enter"/>
+  <key id="$s_guild_championship_grade_tooltip" value="Ranks and Reward Guide"/>
+  <key id="$s_guild_championship_matching_check_tooltip" value="The Guild receives a notification pops up if a matching transformation."/>
+  <key id="$s_guild_championship_regist_guild_tooltip" value="Signed up for Guild Wars"/> 
+  <key id="$s_guild_championship_history_current" value="Recently totally"/>
+  <key id="$s_guild_championship_history_previous" value="Previously the sole"/>
+  <key id="$s_guild_championship_history_detail_winText" value="Win"/>
+  <key id="$s_guild_championship_history_detail_loseText" value="Defeat"/>
+  <key id="$s_guild_championship_history_current_tooltip" value="This season's last 10 results."/>
+  <key id="$s_guild_championship_history_previous_tooltip" value="Last season's ratings and rankings entirely and."/>
+  <key id="$s_guild_championship_tooltip_grade_info" value="Qualification score"/>
+  <key id="$s_guild_championship_tooltip_season_reward_title" value="The end of the season rewards"/>
+  <key id="$s_guild_championship_tooltip_season_reward_detail" value="Rooting for the characters the player or &lt;FONT color='#FFD200'&gt;A minimum of 20 games or more&lt;/FONT&gt; To participate, you can be rewarded.\nCompensation is obtained, and the Guild will participate unsubscribed: match each record is initialized."/>
+  <key id="$s_guild_search_tab_title1" value="Search"/>
+  <key id="$s_guild_search_tab_title2" value="Apply Guild"/>
+  <key id="$s_guild_search_option" value="Search Options"/>
+  <key id="$s_guild_search_search" value="Search"/>
+  <key id="$s_guild_search_request_max_desc" value="You can register your guild up to 10 times"/> 
+  <key id="$s_guild_search_request_title" value="Registration received"/> 
+  <key id="$s_guild_search_register_search_check" value="Allows the Guild to join"/>
+  <key id="$s_guild_search_request_join_guild" value="Subscription"/>
+  <key id="$s_guild_search_request_cancel_join" value="Unsubscribe"/>  
+  <key id="$s_guild_search_accept_request_join" value="Accept"/>
+  <key id="$s_guild_search_reject_request_join" value="Decline"/>
+  <key id="$s_guild_search_accept_join_tooltip" value="&lt;FONT color='#FFD200'&gt;Allows the Guild to join&lt;/FONT&gt;\nGuild information set up in the Guild activity will be exposed to search results, depending on the inclination.\nIf checked, searches for people who sign up application of the Guild.\nIf you turn off the check does not apply to join the Guild."/>
+  <key id="$s_guild_search_propensity_type1" value="Fellowship"/>
+  <key id="$s_guild_search_propensity_type2" value="Party Hunting"/>
+  <key id="$s_guild_search_propensity_type3" value="Trophy"/>
+  <key id="$s_guild_search_propensity_type4" value="Dungeon"/>
+  <key id="$s_guild_search_propensity_type5" value="Construction"/>
+  <key id="$s_guild_search_propensity_type6" value="PvP"/>
+  <key id="$s_guild_search_propensity_type7" value="Design"/>
+  <key id="$s_guild_search_propensity_type8" value="Guild Wars"/>
+  <key id="$s_guild_search_propensity_check_type" value="Search Options"/>
+  <key id="$s_guild_search_propensity_check_type1" value="Search Options : {0}"/>
+  <key id="$s_guild_search_propensity_check_type2" value="Search Options : {0} Besides {1}"/>
+  <key id="$s_guild_main_invite" value="Invite"/>
+  <key id="$s_guild_main_guild_mail" value="Guild Mail"/>
+  <key id="$s_guild_main_tab_menu00" value="Create Guild"/>
+  <key id="$s_guild_main_tab_menu01" value="Find Guilds"/>  
+  <key id="$s_guild_main_tab_menu10" value="Guild Information"/>
+  <key id="$s_guild_main_tab_menu11" value="Guild Member Information"/>
+  <key id="$s_guild_main_tab_menu12" value="Championship"/>
+  <key id="$s_guild_main_tab_menu13" value="Record Room"/>
+  <key id="$s_guild_main_tab_menu14" value="Entry Signup Management"/>
+  <key id="$s_guild_main_tab_menu15" value="Guild Member Management"/>
   
-  <key id="$s_mavier_title" value="Maview  |  BETA" />
+  <key id="$s_mavier_title" value="Maview  |  BETA"/>
   
   <!-- Private battlefield -->
-  <key id="$s_regist_arena_tooltip" value="Chapter position battle." />
+  <key id="$s_regist_arena_tooltip" value="Chapter position battle."/>
   
   <!-- Black market -->
-  <key id="$s_blackmarket_title" value="Black Market  |  BETA" />
-  <key id="$s_blackmarket_tab_search" value="Search" />
-  <key id="$s_blackmarket_tab_register" value="List" />
-  <key id="$s_blackmarket_period" value="" />
-  <key id="$s_blackmarket_remind_time" value="Time Remaining:" />
+  <key id="$s_blackmarket_title" value="Black Market  |  BETA"/>
+  <key id="$s_blackmarket_tab_search" value="Search"/>
+  <key id="$s_blackmarket_tab_register" value="List"/>
+  <key id="$s_blackmarket_period" value=""/>
+  <key id="$s_blackmarket_remind_time" value="Time Remaining:"/>
   <key id="$s_blackmarket_sell_price" value="Unit Price"/>
   <key id="$s_blackmarket_sell_totalprice" value="Total Price:"/>
   <key id="$s_blackmarket_sell_count" value="Sell Count"/>
   <key id="$s_blackmarket_count" value="Count"/>
   <key id="$s_blackmarket_max_sell_price" value="(Max.)"/>
-  <key id="$s_blackmarket_max_sell_price_default" value="Unknown" />
+  <key id="$s_blackmarket_max_sell_price_default" value="Unknown"/>
   <key id="$s_blackmarket_sell_average" value="Average Price (12)"/>
   <key id="$s_blackmarket_notice_fee" value="\n Charging Fee : 15% of the sales price\n (Sale of goods: sales amount automatically deducted)"/>
   <key id="$s_blackmarket_search_job" value="Class"/>
@@ -1537,24 +1535,24 @@
   <key id="$s_tooltip_trophy_life" value="Life"/>
   
   <!-- Enchanting -->
-  <key id="$s_enchant_try" value="Enchant" />
-  <key id="$s_enchant_retry" value="Go Back" />
-  <key id="$s_enchant_fail" value="Enchantment Failed" />
-  <key id="$s_enchant_fail_detail" value="You can no longer enchant this equipment because it is damaged." />
-  <key id="$s_enchant_fail_desc0" value="" /> <!--Failure: only over-->
-  <key id="$s_enchant_fail_desc1" value="&lt;FONT color='#FF5F5F'&gt;Failure (Drop) Chance.&lt;/FONT&gt;" /> <!--Failure to drop-->
-  <key id="$s_enchant_fail_desc2" value="&lt;FONT color='#FF5F5F'&gt;Your equipment has been damaged because your enchant stage dropped to 0.\nDamaged equipment can no longer be enchanted.&lt;/FONT&gt;" /> <!--Failure damage-->
-  <key id="$s_enchant_fail_desc_enchant" value="" /> <!--Notes on the failure of which Chan Tran scroll-->
-  <key id="$s_enchant_fail_desc_restore" value="&lt;FONT color='#FF5F5F'&gt;You can only use the damaged equipment.&lt;/FONT&gt;" /> <!--Notes on the failure of which Chan Tran scroll-->
-  <key id="$s_enchant_success_desc" value="The enchant option changed because you've successfully enchanted." />
+  <key id="$s_enchant_try" value="Enchant"/>
+  <key id="$s_enchant_retry" value="Go Back"/>
+  <key id="$s_enchant_fail" value="Enchantment Failed"/>
+  <key id="$s_enchant_fail_detail" value="You can no longer enchant this equipment because it is damaged."/>
+  <key id="$s_enchant_fail_desc0" value=""/> <!--Failure: only over-->
+  <key id="$s_enchant_fail_desc1" value="&lt;FONT color='#FF5F5F'&gt;Failure (Drop) Chance.&lt;/FONT&gt;"/> <!--Failure to drop-->
+  <key id="$s_enchant_fail_desc2" value="&lt;FONT color='#FF5F5F'&gt;Your equipment has been damaged because your enchant stage dropped to 0.\nDamaged equipment can no longer be enchanted.&lt;/FONT&gt;"/> <!--Failure damage-->
+  <key id="$s_enchant_fail_desc_enchant" value=""/> <!--Notes on the failure of which Chan Tran scroll-->
+  <key id="$s_enchant_fail_desc_restore" value="&lt;FONT color='#FF5F5F'&gt;You can only use the damaged equipment.&lt;/FONT&gt;"/> <!--Notes on the failure of which Chan Tran scroll-->
+  <key id="$s_enchant_success_desc" value="The enchant option changed because you've successfully enchanted."/>
   
   <!-- Smart recommendations -->
-  <key id="$s_smart_recommend_close" value="Next" />
-  <key id="$s_smart_recommend_billing_confirm" value="Confirm" />
-  <key id="$s_smart_recommend_billing_cancel" value="Cancel" />
-  <key id="$s_smart_recommend_billing_title" value="Invoice" />
-  <key id="$s_smart_recommend_billing_price" value="Price :" />
-  <key id="$s_smart_recommend_billing_price_num" value="" />
+  <key id="$s_smart_recommend_close" value="Next"/>
+  <key id="$s_smart_recommend_billing_confirm" value="Confirm"/>
+  <key id="$s_smart_recommend_billing_cancel" value="Cancel"/>
+  <key id="$s_smart_recommend_billing_title" value="Invoice"/>
+  <key id="$s_smart_recommend_billing_price" value="Price :"/>
+  <key id="$s_smart_recommend_billing_price_num" value=""/>
   
   <!-- Guide videos -->
   <key id="$s_guidemovie_title" value="Mouse Control Guide"/>
@@ -1692,46 +1690,46 @@
   <key id="$s_meratmarket_tooltip_tab_home" value="&lt;FONT color='#FFD200' size='15' &gt;Market Home&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can see at a glance the featured items."/>
   <key id="$s_meratmarket_tooltip_tab_premium" value="&lt;FONT color='#FFD200' size='15' &gt;Premium Shop&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo search for and purchase premium items."/>
   <key id="$s_meratmarket_tooltip_tab_designers" value="&lt;FONT color='#FFD200' size='15' &gt;Designer Shop&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesigners created to search for and purchase products."/>
-  <key id="$s_meratmarket_tooltip_tab_myshop" 	value="&lt;FONT color='#FFD200' size='15' &gt;My Shop&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesigner's shop items to register for sale, or\nThe design of the item for sale, you can get a revenue settlement." />
+  <key id="$s_meratmarket_tooltip_tab_myshop" value="&lt;FONT color='#FFD200' size='15' &gt;My Shop&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesigner's shop items to register for sale, or\nThe design of the item for sale, you can get a revenue settlement."/>
   <key id="$s_meratmarket_tooltip_tab_bookmark" value="&lt;FONT color='#FFD200' size='15' &gt;Favorites&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAdd your favorite Designer, you can see at a glance."/>
   <key id="$s_meratmarket_tooltip_tab_basket" value="&lt;FONT color='#FFD200' size='15' &gt;Shopping Cart&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe items in the shopping cart\nYou can buy at a time."/>
   
-  <key id="$s_meratmarket_tooltip_radio_male" value="&lt;FONT color='#FFD200' size='15' &gt;Male&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nFor men, you can see with the item.\nMy character is different from sex mannequin are displayed." />
-  <key id="$s_meratmarket_tooltip_radio_female" value="&lt;FONT color='#FFD200' size='15' &gt;Female&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWomen can be seen with the item.\nMy character is different from sex mannequin are displayed." />
-  <key id="$s_meratmarket_tooltip_check_preview_coloring" value="&lt;FONT color='#FFD200' size='15' &gt;Parts of the dye preview&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nParts of the painted pink." />
-  <key id="$s_meratmarket_tooltip_btn_unequip_all" 	value="&lt;FONT color='#FFD200' size='15' &gt;Unequip All&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDid not wear the item." />
-  <key id="$s_meratmarket_tooltip_btn_show_myequip" 	value="&lt;FONT color='#FFD200' size='15' &gt;My Clothing&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn the preview shows only the items with my character." />
-  <key id="$s_meratmarket_tooltip_btn_buy_equip_all" 	value="&lt;FONT color='#FFD200' size='15' &gt;Current Buy List&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAll items with a purchase in preview." />
-  <key id="$s_meratmarket_tooltip_shop_dropdown_sort" 	value="&lt;FONT color='#FFD200' size='15' &gt;Sort&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSorted in the order you want." /> 
-  <key id="$s_meratmarket_tooltip_shop_input_search" 	value="&lt;FONT color='#FFD200' size='15' &gt;Search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter your search terms, you can find the desired design items." />
-  <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_all" 	value="&lt;FONT color='#FFD200' size='15' &gt;All&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShow all sex wearable clothes." />
-  <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_male" 	value="&lt;FONT color='#FFD200' size='15' &gt;Male&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMale characters are available to wear clothes." />
-  <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_female" 	value="&lt;FONT color='#FFD200' size='15' &gt;Female&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWomen characters are available to wear clothes." />
-  <key id="$s_meratmarket_tooltip_myshop_btn_addnew" 	value="&lt;FONT color='#FFD200' size='15' &gt;New product registration&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nI made the same design as the design items and goods market.\nYou can register up to 20 pieces per design-goods account." />
-  <key id="$s_meratmarket_tooltip_myshop_btn_calculate" 	value="&lt;FONT color='#FFD200' size='15' &gt;Settlement amount and receive&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nRegistered design products sales revenue caused by settlement.\nSale of goods, after seven days, you can get a settled amount." />
-  <key id="$s_meratmarket_tooltip_myshop_btn_history" 	value="&lt;FONT color='#FFD200' size='15' &gt;Settlement history view&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nHas not been settled yet, sales revenue for\nDetails of the slated to amount and settlement." />
-  <key id="$s_meratmarket_tooltip_basket_check_all" 	value="&lt;FONT color='#FFD200' size='15' &gt;Select All&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn the shopping cart, select all of them an article." />
-  <key id="$s_meratmarket_tooltip_basket_btn_buy" 	value="&lt;FONT color='#FFD200' size='15' &gt;Buy&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAll of the selected items to buy." />
-  <key id="$s_meratmarket_tooltip_bookmark_btn_remove_seller" 	value="&lt;FONT color='#FFD200' size='15' &gt;Delete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe seller will be deleted from the Favorites list." />
-  <key id="$s_meratmarket_tooltip_basket_btn_remove_item" 	value="&lt;FONT color='#FFD200' size='15' &gt;Delete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDelete the item from the shopping cart." />
+  <key id="$s_meratmarket_tooltip_radio_male" value="&lt;FONT color='#FFD200' size='15' &gt;Male&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nFor men, you can see with the item.\nMy character is different from sex mannequin are displayed."/>
+  <key id="$s_meratmarket_tooltip_radio_female" value="&lt;FONT color='#FFD200' size='15' &gt;Female&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWomen can be seen with the item.\nMy character is different from sex mannequin are displayed."/>
+  <key id="$s_meratmarket_tooltip_check_preview_coloring" value="&lt;FONT color='#FFD200' size='15' &gt;Parts of the dye preview&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nParts of the painted pink."/>
+  <key id="$s_meratmarket_tooltip_btn_unequip_all" value="&lt;FONT color='#FFD200' size='15' &gt;Unequip All&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDid not wear the item."/>
+  <key id="$s_meratmarket_tooltip_btn_show_myequip" value="&lt;FONT color='#FFD200' size='15' &gt;My Clothing&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn the preview shows only the items with my character."/>
+  <key id="$s_meratmarket_tooltip_btn_buy_equip_all" value="&lt;FONT color='#FFD200' size='15' &gt;Current Buy List&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAll items with a purchase in preview."/>
+  <key id="$s_meratmarket_tooltip_shop_dropdown_sort" value="&lt;FONT color='#FFD200' size='15' &gt;Sort&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSorted in the order you want."/> 
+  <key id="$s_meratmarket_tooltip_shop_input_search" value="&lt;FONT color='#FFD200' size='15' &gt;Search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter your search terms, you can find the desired design items."/>
+  <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_all" value="&lt;FONT color='#FFD200' size='15' &gt;All&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShow all sex wearable clothes."/>
+  <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_male" value="&lt;FONT color='#FFD200' size='15' &gt;Male&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMale characters are available to wear clothes."/>
+  <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_female" value="&lt;FONT color='#FFD200' size='15' &gt;Female&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWomen characters are available to wear clothes."/>
+  <key id="$s_meratmarket_tooltip_myshop_btn_addnew" value="&lt;FONT color='#FFD200' size='15' &gt;New product registration&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nI made the same design as the design items and goods market.\nYou can register up to 20 pieces per design-goods account."/>
+  <key id="$s_meratmarket_tooltip_myshop_btn_calculate" value="&lt;FONT color='#FFD200' size='15' &gt;Settlement amount and receive&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nRegistered design products sales revenue caused by settlement.\nSale of goods, after seven days, you can get a settled amount."/>
+  <key id="$s_meratmarket_tooltip_myshop_btn_history" value="&lt;FONT color='#FFD200' size='15' &gt;Settlement history view&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nHas not been settled yet, sales revenue for\nDetails of the slated to amount and settlement."/>
+  <key id="$s_meratmarket_tooltip_basket_check_all" value="&lt;FONT color='#FFD200' size='15' &gt;Select All&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn the shopping cart, select all of them an article."/>
+  <key id="$s_meratmarket_tooltip_basket_btn_buy" value="&lt;FONT color='#FFD200' size='15' &gt;Buy&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAll of the selected items to buy."/>
+  <key id="$s_meratmarket_tooltip_bookmark_btn_remove_seller" value="&lt;FONT color='#FFD200' size='15' &gt;Delete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe seller will be deleted from the Favorites list."/>
+  <key id="$s_meratmarket_tooltip_basket_btn_remove_item" value="&lt;FONT color='#FFD200' size='15' &gt;Delete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDelete the item from the shopping cart."/>
   
   <key id="$s_meratmarket_tooltip_btn_report" value="&lt;FONT color='#FFD200' size='15' &gt;Report&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSell the item to the designer."/>
   <key id="$s_meratmarket_tooltip_btn_to_basket" value="&lt;FONT color='#FFD200' size='15' &gt;Add to Cart&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe item in the cart."/>
   <key id="$s_meratmarket_tooltip_btn_add_bookmark" value="&lt;FONT color='#FFD200' size='15' &gt;Add to Favorites&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSell the item to the designer\nAdd to Favorites."/>
   <key id="$s_meratmarket_tooltip_btn_recipe" value="&lt;FONT color='#FFD200' size='15' &gt;Recipe view&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nShows a list of items that you can create a maid.\n&lt;FONT color='#909090'&gt;When you place a employment contract made after the House during item creation.\nMade up the familiarity (up to 10 steps), you can create more items.&lt;/font&gt;"/>
   <key id="$s_meratmarket_tooltip_btn_preview" value="&lt;FONT color='#FFD200' size='15' &gt;Component view&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nInterior construction areas, you can see the included components.&lt;/font&gt;"/>
-  <key id="$s_meratmarket_tooltip_btn_refresh" 	value="&lt;FONT color='#FFD200' size='15' &gt;Refresh&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGets a list of items from the server.\nHowever, it reverts to page 1." /> 
-  <key id="$s_meratmarketreg_tooltip_input_price" 	value="&lt;FONT color='#FFD200' size='15' &gt;Priced to sell&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter the selling price per unit of the product design.\nProduct sales: 50% of the selling price as a fee and the cost of producing\nThe remaining 50% of the amount of revenue the sale.\nHowever, if the amount of the fees, the odd amount of days.\nSales revenue can be found in my shop." />
-  <key id="$s_meratmarketreg_tooltip_input_itemdesc" 	value="&lt;FONT color='#FFD200' size='15' &gt;Design description&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesigner's shop looks in the list of items of goods.\nFor more on goods to sell, you can add a description.\nThis information appears only in design products on sale.\nHowever, you can enter the text here." />
-  <key id="$s_meratmarketreg_tooltip_input_itemtag" 	value="&lt;FONT color='#FFD200' size='15' &gt;Tags&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn addition to the item name queries and registrations." />
-  <key id="$s_meratmarketreg_tooltip_check_ad" 	value="&lt;FONT color='#FFD200' size='15' &gt;Random ad space&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nRandom ads advertising selected randomly from the list of the goods applied for in\nMerit market main screen and recommended products tab of the designer's shop in the classifieds.\n\n&lt;FONT color='#C0C0C0'&gt;However, the cumulative revenue exceeds 10 million per month as is everyone else sold out Megan Bobcats merchandise\nCan't buy these costs are non-refundable.&lt;/font&gt;" />
-  <key id="$s_meratmarketreg_tooltip_btn_royalty" 	value="&lt;FONT color='#FFD200' size='15' &gt;Production costs and fees&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe actual item is sold in designer's shop in a registered design as the original\nBecause the same items newly produced and production costs and fees.\n50% of the selling price of an item and use the rest of the amount of the sale fee 50%\nTurn it into revenue. However, if the amount of the fees, the odd amount of days.\nSales revenue can be found in my shop." />
-  <key id="$s_meratmarketreg_tooltip_btn_period" 	value="&lt;FONT color='#FFD200' size='15' &gt;Sales period&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDuring the registration period design product.\nThe registration period will be automatically changes the State to stop the sale.\n\n&lt;FONT color='#C0C0C0'&gt;However, only the cumulative profits 10 per month if you exceed the sales of renal Medan products\nChange all sold out, and cannot be sold by one day next month.\nIn this case, you can stop the sale of the item on sale and no sale end date\nDoes not change.&lt;/font&gt;" />
-  <key id="$s_meratmarketreg_tooltip_btn_show_enable_designs" 	value="&lt;FONT color='#FFD200' size='15' &gt;Is it possible to register the design view only&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIf you already have an account, with the exception of a design\nIs it possible to register designs." />
-  <key id="$s_meratmarketreg_tooltip_btn_resale" 	value="&lt;FONT color='#FFD200' size='15' &gt;Resale&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nStop selling state changes back to design goods sales.\nStop selling State product designer's shop list is invisible.\nPress again the number of the registered sales and resale registration date remains\nNew products even if not in the list of recently sorted and displayed in the existing location." />
-  <key id="$s_meratmarketreg_tooltip_btn_delete" 	value="&lt;FONT color='#FFD200' size='15' &gt;Delete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo delete a registered design product.\nIf you delete it from the list shown in the management, no longer sold\nIf you want to sell the same design again, you must register the new article.\nIf you are registering a registered product is deleted over and over again, all existing sales record." />
-  <key id="$s_meratmarketreg_tooltip_btn_stopsale" 	value="&lt;FONT color='#FFD200' size='15' &gt;End Sale&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nStop selling your design product sale and changes\nStop selling goods which are not exposed in the designer's shop." />
-  <key id="$s_meratmarketreg_tooltip_btn_register" 	value="&lt;FONT color='#FFD200' size='15' &gt;List&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThis is the contents of the designer's shop goods." />
+  <key id="$s_meratmarket_tooltip_btn_refresh" value="&lt;FONT color='#FFD200' size='15' &gt;Refresh&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGets a list of items from the server.\nHowever, it reverts to page 1."/> 
+  <key id="$s_meratmarketreg_tooltip_input_price" value="&lt;FONT color='#FFD200' size='15' &gt;Priced to sell&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter the selling price per unit of the product design.\nProduct sales: 50% of the selling price as a fee and the cost of producing\nThe remaining 50% of the amount of revenue the sale.\nHowever, if the amount of the fees, the odd amount of days.\nSales revenue can be found in my shop."/>
+  <key id="$s_meratmarketreg_tooltip_input_itemdesc" value="&lt;FONT color='#FFD200' size='15' &gt;Design description&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesigner's shop looks in the list of items of goods.\nFor more on goods to sell, you can add a description.\nThis information appears only in design products on sale.\nHowever, you can enter the text here."/>
+  <key id="$s_meratmarketreg_tooltip_input_itemtag" value="&lt;FONT color='#FFD200' size='15' &gt;Tags&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIn addition to the item name queries and registrations."/>
+  <key id="$s_meratmarketreg_tooltip_check_ad" value="&lt;FONT color='#FFD200' size='15' &gt;Random ad space&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nRandom ads advertising selected randomly from the list of the goods applied for in\nMerit market main screen and recommended products tab of the designer's shop in the classifieds.\n\n&lt;FONT color='#C0C0C0'&gt;However, the cumulative revenue exceeds 10 million per month as is everyone else sold out Megan Bobcats merchandise\nCan't buy these costs are non-refundable.&lt;/font&gt;"/>
+  <key id="$s_meratmarketreg_tooltip_btn_royalty" value="&lt;FONT color='#FFD200' size='15' &gt;Production costs and fees&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe actual item is sold in designer's shop in a registered design as the original\nBecause the same items newly produced and production costs and fees.\n50% of the selling price of an item and use the rest of the amount of the sale fee 50%\nTurn it into revenue. However, if the amount of the fees, the odd amount of days.\nSales revenue can be found in my shop."/>
+  <key id="$s_meratmarketreg_tooltip_btn_period" value="&lt;FONT color='#FFD200' size='15' &gt;Sales period&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDuring the registration period design product.\nThe registration period will be automatically changes the State to stop the sale.\n\n&lt;FONT color='#C0C0C0'&gt;However, only the cumulative profits 10 per month if you exceed the sales of renal Medan products\nChange all sold out, and cannot be sold by one day next month.\nIn this case, you can stop the sale of the item on sale and no sale end date\nDoes not change.&lt;/font&gt;"/>
+  <key id="$s_meratmarketreg_tooltip_btn_show_enable_designs" value="&lt;FONT color='#FFD200' size='15' &gt;Is it possible to register the design view only&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIf you already have an account, with the exception of a design\nIs it possible to register designs."/>
+  <key id="$s_meratmarketreg_tooltip_btn_resale" value="&lt;FONT color='#FFD200' size='15' &gt;Resale&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nStop selling state changes back to design goods sales.\nStop selling State product designer's shop list is invisible.\nPress again the number of the registered sales and resale registration date remains\nNew products even if not in the list of recently sorted and displayed in the existing location."/>
+  <key id="$s_meratmarketreg_tooltip_btn_delete" value="&lt;FONT color='#FFD200' size='15' &gt;Delete&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo delete a registered design product.\nIf you delete it from the list shown in the management, no longer sold\nIf you want to sell the same design again, you must register the new article.\nIf you are registering a registered product is deleted over and over again, all existing sales record."/>
+  <key id="$s_meratmarketreg_tooltip_btn_stopsale" value="&lt;FONT color='#FFD200' size='15' &gt;End Sale&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nStop selling your design product sale and changes\nStop selling goods which are not exposed in the designer's shop."/>
+  <key id="$s_meratmarketreg_tooltip_btn_register" value="&lt;FONT color='#FFD200' size='15' &gt;List&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThis is the contents of the designer's shop goods."/>
 
   <!-- Market the ToolTip -->
   <key id="$s_meratmarket_tooltip_seller" value="Seller"/>
@@ -1793,10 +1791,10 @@
   <key id="$s_home_info_visitors_book" value="Guestbook"/>
   <key id="$s_home_info_notice_modify" value="Modify Notice"/>
 
-  <key id="$s_home_info_tooltip_btn_report" 	value="&lt;FONT color='#FFD200' size='15' &gt;Report&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMaster of the House." />
-  <key id="$s_home_info_tooltip_btn_recommend" 	value="&lt;FONT color='#FFD200' size='15' &gt;To recommend&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe owner of this House can be referred to as Star architects.\nRecommendation: the architects of the master of the House score.\nFeatured star architects are per account you can only once a day." />
-  <key id="$s_home_info_tooltip_btn_visitors_book" 	value="&lt;FONT color='#FFD200' size='15' &gt;Guestbook&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGuestbook leave a window open guestbook.\nLeave history." />
-  <key id="$s_home_info_tooltip_btn_notice_modify" 	value="&lt;FONT color='#FFD200' size='15' &gt;Notification of correction&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe people who visit my home can leave notifications to be sent to.\nPress the button to edit the content." />
+  <key id="$s_home_info_tooltip_btn_report" value="&lt;FONT color='#FFD200' size='15' &gt;Report&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMaster of the House."/>
+  <key id="$s_home_info_tooltip_btn_recommend" value="&lt;FONT color='#FFD200' size='15' &gt;To recommend&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe owner of this House can be referred to as Star architects.\nRecommendation: the architects of the master of the House score.\nFeatured star architects are per account you can only once a day."/>
+  <key id="$s_home_info_tooltip_btn_visitors_book" value="&lt;FONT color='#FFD200' size='15' &gt;Guestbook&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGuestbook leave a window open guestbook.\nLeave history."/>
+  <key id="$s_home_info_tooltip_btn_notice_modify" value="&lt;FONT color='#FFD200' size='15' &gt;Notification of correction&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe people who visit my home can leave notifications to be sent to.\nPress the button to edit the content."/>
   
   <!-- Token wallet -->
   <key id="$s_token_pocket_title" value="Wallet"/>
@@ -1869,7 +1867,7 @@
   <key id="$s_systemmail_notify_onTime_button" value="To participate,"/>
   
   <!-- Private battlefield -->
-  <key id="$s_individual_pvp_title" value="Personal battle chapter" />
+  <key id="$s_individual_pvp_title" value="Personal battle chapter"/>
   <!-- GameSystem -->
   <key id="$s_system_msg_revive" value="Shortly after the resurrection."/>
   
@@ -1881,13 +1879,13 @@
   <key id="$s_pvp_result_msg_dead" value="Deaths"/>
   <key id="$s_pvp_result_msg_damage" value="Damage"/>
   <key id="$s_pvp_result_msg_reward" value="Reward"/>
-  <key id="$s_pvp_result_reward_text" value="Obtained {0} Onyx as a reward." />
+  <key id="$s_pvp_result_reward_text" value="Obtained {0} Onyx as a reward."/>
   <key id="$s_pvp_team_result_msg_detail" value="More Info"/>
   <key id="$s_pvp_team_result_msg_pillage" value="Pillage"/>
   
   <!-- Watch -->
-  <key id="$s_observe_observing_target" value="You are currently spectating {0}." />
-  <key id="$s_observe_quit_observe" value="Exit Spectator Mode" />
+  <key id="$s_observe_observing_target" value="You are currently spectating {0}."/>
+  <key id="$s_observe_quit_observe" value="Exit Spectator Mode"/>
   <!-- Login -->
   <key id="$s_login_msg_id" value="ID"/>
   <key id="$s_login_msg_pwd" value="Password"/>
@@ -1909,11 +1907,11 @@
   <key id="$s_interior_preview_detail" value="Detailed view"/>
   
   <!-- Dark stream -->
-  <key id="$s_dark_stream_result_view_rank" value="View Rankings" />
-  <key id="$s_dark_stream_result_out" value="Exit" />
+  <key id="$s_dark_stream_result_view_rank" value="View Rankings"/>
+  <key id="$s_dark_stream_result_out" value="Exit"/>
   
-  <key id="$s_notice_dialog_title" value="Events in Progress" />
-  <key id="$s_notice_dialog_footer" value="※ MapleStory 2's new continent is open! Let's play and go fishing!" />
+  <key id="$s_notice_dialog_title" value="Events in Progress"/>
+  <key id="$s_notice_dialog_footer" value="※ MapleStory 2's new continent is open! Let's play and go fishing!"/>
   
   <!-- Change options for an item (Arial) -->
   <key id="$s_itemremakeoption_title" value="Change options for adding items"/>
@@ -1942,31 +1940,31 @@
   <key id="$s_petsetting_auto_revive" value="&lt;font color='#5c2b00'&gt;Auto Revive | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
   <key id="$s_petsetting_auto_itemuse" value="&lt;font color='#5c2b00'&gt;Auto Potion Recovery | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
   <key id="$s_petsetting_auto_itempick" value="&lt;font color='#5c2b00'&gt;Auto Item Pick-Up | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
-  <key id="$s_petsetting_tooltip_change_name" value="&lt;FONT color='#FFD200' size='15' &gt;Change Name&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nChange Name." />
-  <key id="$s_petsetting_tooltip_auto_itemuse" value="&lt;FONT color='#FFD200' size='15' &gt;Auto Potion Recovery&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto Potion Recovery." />
-  <key id="$s_petsetting_tooltip_auto_itempick" value="&lt;FONT color='#FFD200' size='15' &gt;Auto Item Pick-Up&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto Item Pick-Up." />
-  <key id="$s_petsetting_tooltip_summon_off" value="&lt;FONT color='#FFD200' size='15' &gt;Recall off&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesummon." />
+  <key id="$s_petsetting_tooltip_change_name" value="&lt;FONT color='#FFD200' size='15' &gt;Change Name&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nChange Name."/>
+  <key id="$s_petsetting_tooltip_auto_itemuse" value="&lt;FONT color='#FFD200' size='15' &gt;Auto Potion Recovery&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto Potion Recovery."/>
+  <key id="$s_petsetting_tooltip_auto_itempick" value="&lt;FONT color='#FFD200' size='15' &gt;Auto Item Pick-Up&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto Item Pick-Up."/>
+  <key id="$s_petsetting_tooltip_summon_off" value="&lt;FONT color='#FFD200' size='15' &gt;Recall off&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesummon."/>
 
   <!-- Items automatically -->
   <key id="$s_itemautouse_title" value="Auto potion recovery settings"/>
   
 
   <!-- Playing an instrument -->
-  <key id="$s_playinstrument_main_title" value="Playing Instruments" />
-  <key id="$s_playinstrument_main_play_direct_tab" value="Improvisation" />
-  <key id="$s_playinstrument_main_play_score_tab" value="Musical Score" />
-  <key id="$s_playinstrument_main_play_direct_tab_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Improvisation&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCreate an improvised musical score by playing on the keyboard on your screen .\nYou can close the window by clicking the X button or simply press ESC.\nDuring improvised play, you cannot use keyboard shortcuts for chatting." />
-  <key id="$s_playinstrument_main_play_score_tab_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Musical Score&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPlay pre-written music from a musical score.\nRight-click on the musical score from your inventory to start playing." />
-  <key id="$s_playinstrument_score_play_solo" value="Solo" />
-  <key id="$s_playinstrument_score_play_ensemble" value="Ensemble" />
+  <key id="$s_playinstrument_main_title" value="Playing Instruments"/>
+  <key id="$s_playinstrument_main_play_direct_tab" value="Improvisation"/>
+  <key id="$s_playinstrument_main_play_score_tab" value="Musical Score"/>
+  <key id="$s_playinstrument_main_play_direct_tab_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Improvisation&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCreate an improvised musical score by playing on the keyboard on your screen .\nYou can close the window by clicking the X button or simply press ESC.\nDuring improvised play, you cannot use keyboard shortcuts for chatting."/>
+  <key id="$s_playinstrument_main_play_score_tab_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Musical Score&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPlay pre-written music from a musical score.\nRight-click on the musical score from your inventory to start playing."/>
+  <key id="$s_playinstrument_score_play_solo" value="Solo"/>
+  <key id="$s_playinstrument_score_play_ensemble" value="Ensemble"/>
   <!--
   <key id="$s_playinstrument_score_start_button" value="Play" />
   <key id="$s_playinstrument_score_stop_button" value="Stop" />
   -->
-  <key id="$s_playinstrument_score_mastery_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Playing skills&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYour mastery raises as you play music.\nFamiliarity, then, a lot of time playing way better\nHigher level of proficiency is played by various aspects.\nSheet music can contribute the maximum skill." />
-  <key id="$s_playinstrument_score_play_solo_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Solo&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPlay music alone.\nOther people can hear you playing music." />
-  <key id="$s_playinstrument_score_play_ensemble_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Ensemble&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPlay with others in an ensemble.\nYou can only use this in a party.\nOnce the party leader is ready with the ensemble, the other members are ready as well." />
-  <key id="$s_playinstrument_score_empty_score" value="Place a musical score." />  
+  <key id="$s_playinstrument_score_mastery_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Playing skills&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYour mastery raises as you play music.\nFamiliarity, then, a lot of time playing way better\nHigher level of proficiency is played by various aspects.\nSheet music can contribute the maximum skill."/>
+  <key id="$s_playinstrument_score_play_solo_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Solo&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPlay music alone.\nOther people can hear you playing music."/>
+  <key id="$s_playinstrument_score_play_ensemble_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Ensemble&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPlay with others in an ensemble.\nYou can only use this in a party.\nOnce the party leader is ready with the ensemble, the other members are ready as well."/>
+  <key id="$s_playinstrument_score_empty_score" value="Place a musical score."/>  
   
   <!--Music production-->
   <key id="$s_writemusic_charset" value="0-9ABCDEFGabcdefgSsOoLlTtVvRr&amp;&lt;&gt;.+\r\- "/>

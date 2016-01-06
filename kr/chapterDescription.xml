@@ -1,136 +1,135 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsing this data used do not directly modify the -->
-<ms2>
-	<chapter id="1" name="Al Hyun-Sik, towards the" isTutorial="OK" regionID="" />
-	<chapter id="2" name="Invisible truth" isTutorial="OK" regionID="" />
-	<chapter id="3" name="Behind the shadows" isTutorial="OK" regionID="" />
-	<chapter id="4" name="Special Mission" isTutorial="OK" regionID="" />
-	<chapter id="5" name="The secret of Red Riding Hood" isTutorial="OK" regionID="" />
-	<chapter id="6" name="A ray of hope" isTutorial="OK" regionID="" />
-	<chapter id="7" name="Gone with the wind" isTutorial="OK" regionID="" />
-	<chapter id="8" name="The truth revealed" isTutorial="OK" regionID="" />
-	<chapter id="9" name="Back to its rightful place" isTutorial="OK" regionID="" />
-	<chapter id="10" name="Stopped time" isTutorial="OK" regionID="" />
-	<chapter id="11" name="Light girl" isTutorial="OK" regionID="" />
-	<chapter id="12" name="The fate of the light" isTutorial="OK" regionID="" />
-	<chapter id="101" name="Recalcitrant Luke" isTutorial="OK" regionID="" />
-	<chapter id="102" name="In the midst of dark woods, that is. .." isTutorial="OK" regionID="" />
-	<chapter id="103" name="The honey thief" isTutorial="OK" regionID="" />
-	<chapter id="104" name="OMG not filial" isTutorial="OK" regionID="" />
-	<chapter id="105" name="Bubbly for my brother" isTutorial="OK" regionID="" />
-	<chapter id="106" name="Freeze away people" isTutorial="OK" regionID="" />
-	<chapter id="107" name="Granddaughter to revive herb" isTutorial="OK" regionID="" />
-	<chapter id="108" name="Most of the weight of the" isTutorial="OK" regionID="" />
-	<chapter id="109" name="Woodsman&#8217;s rage" isTutorial="OK" regionID="" />
-	<chapter id="110" name="They live in the law" isTutorial="OK" regionID="" />
-	<chapter id="111" name="Crab conquest" isTutorial="OK" regionID="" />
-	<chapter id="112" name="Pearl CAD girl" isTutorial="OK" regionID="" />
-	<chapter id="113" name="Eaters of" isTutorial="OK" regionID="" />
-	<chapter id="114" name="Fitness soon property" isTutorial="OK" regionID="" />
-	<chapter id="115" name="The secret of bone marrow in pharmaceutical" isTutorial="OK" regionID="" />
-	<chapter id="116" name="Starter made the mistake of" isTutorial="OK" regionID="" />
-	<chapter id="117" name="He also was a benefactor to someone" isTutorial="OK" regionID="" />
-	<chapter id="118" name="Dangerous DNA" isTutorial="OK" regionID="" />
-	<chapter id="119" name="A woman from Venus" isTutorial="OK" regionID="" />
-	<chapter id="120" name="A gift for a friend" isTutorial="OK" regionID="" />
-	<chapter id="121" name="Obtain a new House" isTutorial="OK" regionID="" />
-	<chapter id="122" name="I met friends again" isTutorial="OK" regionID="" />
-	<chapter id="123" name="Cracked Earth" isTutorial="OK" regionID="" />
-	<chapter id="124" name="The only fallout" isTutorial="OK" regionID="" />
-	<chapter id="125" name="Prairie outlaw" isTutorial="OK" regionID="" />
-	<chapter id="126" name="A man loves" isTutorial="OK" regionID="" />
-	<chapter id="127" name="Wings of storm : Griffey, I" isTutorial="OK" regionID="" />
-	<chapter id="128" name="Fairy slipper?" isTutorial="OK" regionID="" />
-	<chapter id="129" name="One love" isTutorial="OK" regionID="" />
-	<chapter id="130" name="The fairies lost a place to go, elbow" isTutorial="OK" regionID="" />
-	<chapter id="131" name="Copper copper evil tyranny of quality" isTutorial="OK" regionID="" />
-	<chapter id="132" name="Leap dreaming" isTutorial="OK" regionID="" />
-	<chapter id="133" name="Finding freedom" isTutorial="OK" regionID="" />
-	<chapter id="134" name="Farming, it&#8217;s difficult." isTutorial="OK" regionID="" />
-	<chapter id="135" name="Merlin wants" isTutorial="OK" regionID="" />
-	<chapter id="136" name="Always difficult for AJAX" isTutorial="OK" regionID="" />
-	<chapter id="137" name="Between love and obsession" isTutorial="OK" regionID="" />
-	<chapter id="138" name="The legendary sorcerer" isTutorial="OK" regionID="" />
-	<chapter id="139" name="The top 1% of taste" isTutorial="OK" regionID="" />
-	<chapter id="140" name="Gone was the Petit Mont Shu shu" isTutorial="OK" regionID="" />
-	<chapter id="141" name="The walls of the heart" isTutorial="OK" regionID="" />
-	<chapter id="142" name="The tragedy of the Unicorn" isTutorial="OK" regionID="" />
-	<chapter id="143" name="The scent of death" isTutorial="OK" regionID="" />
-	<chapter id="144" name="X-bottom of the axe against the" isTutorial="OK" regionID="" />
-	<chapter id="145" name="The cause of the cargo damage" isTutorial="OK" regionID="" />
-	<chapter id="146" name="I noticed a quick blood" isTutorial="OK" regionID="" />
-	<chapter id="147" name="Crisis-Les-see Dick" isTutorial="OK" regionID="" />
-	<chapter id="148" name="Resource recycling" isTutorial="OK" regionID="" />
-	<chapter id="149" name="The Canyon&#8217;s Wolf hunt" isTutorial="OK" regionID="" />
-	<chapter id="150" name="Shhh! Cheon Ki-leakage" isTutorial="OK" regionID="" />
-	<chapter id="151" name="Throat Po taps" isTutorial="OK" regionID="" />
-	<chapter id="152" name="Interchange for riot" isTutorial="OK" regionID="" />
-	<chapter id="153" name="CHOW&#8217;s black history" isTutorial="OK" regionID="" />
-	<chapter id="154" name="With the heart of the neighborhood" isTutorial="OK" regionID="" />
-	<chapter id="155" name="Old forest" isTutorial="OK" regionID="" />
-	<chapter id="156" name="Untimely accident" isTutorial="OK" regionID="" />
-	<chapter id="157" name="The evil spirit of darkness : Wrath of the bar four mat" isTutorial="OK" regionID="" />
-	<chapter id="158" name="Secure part-time jobs" isTutorial="OK" regionID="" />
-	<chapter id="159" name="Turtle&#8217;s rage" isTutorial="OK" regionID="" />
-	<chapter id="160" name="The embodiment of jealousy" isTutorial="OK" regionID="" />
-	<chapter id="161" name="Missing girls : Mad Oh yes hot" isTutorial="OK" regionID="" />
-	<chapter id="162" name="Wings of storm : Griffon" isTutorial="OK" regionID="" />
-	<chapter id="163" name="The grip, the grip is" isTutorial="OK" regionID="" />
-	<chapter id="164" name="Boss Dungeon : Brother threesome looking great" isTutorial="OK" regionID="" />
-	<chapter id="165" name="The dream came true" isTutorial="OK" regionID="" />
-	<chapter id="166" name="Paper flowers on the hidden hearts" isTutorial="OK" regionID="" />
-	<chapter id="167" name="Missing literature history" isTutorial="OK" regionID="" />
-	<chapter id="168" name="Shadow Legion&#8217;s altar" isTutorial="OK" regionID="" />
-	<chapter id="169" name="The cart towards the Ramus" isTutorial="OK" regionID="" />
-	<chapter id="170" name="Blue swirl" isTutorial="OK" regionID="" />
-	<chapter id="171" name="Boss Dungeon : The treasures of the ancients" isTutorial="OK" regionID="" />
-	<chapter id="172" name="Problem" isTutorial="OK" regionID="" />
-	<chapter id="173" name="Shadow world for old wives &#8217; tale" isTutorial="OK" regionID="" />
-	<chapter id="174" name="Looking for paradise" isTutorial="OK" regionID="" />
-	<chapter id="175" name="Gaegwaceonseon is a virtue" isTutorial="OK" regionID="" />
-	<chapter id="176" name="Merlin would need to" isTutorial="OK" regionID="" />
-	<chapter id="177" name="Boss Dungeon : The secret of the clock tower" isTutorial="OK" regionID="" />
-	<chapter id="178" name="Venomous waters" isTutorial="OK" regionID="" />
-	<chapter id="179" name="Reading-scaled treasure" isTutorial="OK" regionID="" />
-	<chapter id="180" name="Wind stopped cranking" isTutorial="OK" regionID="" />
-	<chapter id="181" name="Again met BORO BORO" isTutorial="OK" regionID="" />
-	<chapter id="182" name="Oh! My Princess" isTutorial="OK" regionID="" />
-	<chapter id="183" name="Revenge is mine" isTutorial="OK" regionID="" />
-	<chapter id="184" name="Endless war" isTutorial="OK" regionID="" />
-	<chapter id="185" name="Calm storm" isTutorial="OK" regionID="" />
-	<chapter id="186" name="The unstoppable step" isTutorial="OK" regionID="" />
-	<chapter id="187" name="Lulu&#8217;s wish" isTutorial="OK" regionID="" />
-	<chapter id="188" name="Quest for glory : Stretch" isTutorial="OK" regionID="" />
-	<chapter id="189" name="The threat of the city now" isTutorial="OK" regionID="" />
-	<chapter id="190" name="BAYAR curse of the mountains" isTutorial="OK" regionID="" />
-	<chapter id="191" name="The Devil&#8217;s crony" isTutorial="OK" regionID="" />
-	<chapter id="192" name="The forest Monster" isTutorial="OK" regionID="" />
-	<chapter id="193" name="Captain Moonlight secrets" isTutorial="OK" regionID="" />
-	<chapter id="194" name="Quest for glory : Take the leap" isTutorial="OK" regionID="" />
-	<chapter id="195" name="Forest light" isTutorial="OK" regionID="" />
-	<chapter id="196" name="The force of the Earth" isTutorial="OK" regionID="" />
-	<chapter id="197" name="In the shadow of the sea" isTutorial="OK" regionID="" />
-	<chapter id="198" name="Shadows of time" isTutorial="OK" regionID="" />
-	<chapter id="199" name="Pink lamb?" isTutorial="OK" regionID="" />
-	<chapter id="200" name="Wolf, water alert!" isTutorial="OK" regionID="" />
-	<chapter id="201" name="Towards acceptance" isTutorial="OK" regionID="" />
-	<chapter id="202" name="Across time" isTutorial="OK" regionID="" />
-	<chapter id="203" name="Want to dominate the time now" isTutorial="OK" regionID="" />
-	<chapter id="204" name="Crime and punishment" isTutorial="OK" regionID="" />
-	<chapter id="205" name="Maybe there is" isTutorial="OK" regionID="" />
-	<chapter id="206" name="Cool giant" isTutorial="OK" regionID="" />
-	<chapter id="207" name="Huan&#8217;s residency" isTutorial="OK" regionID="" />
-	<chapter id="208" name="The test of Valor" isTutorial="OK" regionID="" />
-	<chapter id="209" name="Of the mind" isTutorial="OK" regionID="" />
-	<chapter id="210" name="Revolt of swine" isTutorial="OK" regionID="" />
-	<chapter id="211" name="Stranger stranger" isTutorial="OK" regionID="" />
-	<chapter id="212" name="Mayor of Maple adjustment period" isTutorial="OK" regionID="" />
-	<chapter id="213" name="Silent invasion" isTutorial="OK" regionID="" />
-	<chapter id="214" name="The dark flower" isTutorial="OK" regionID="" />
-	<chapter id="215" name="Dark stem" isTutorial="OK" regionID="" />
-	<chapter id="216" name="Endless challenge" isTutorial="OK" regionID="" />
-	<chapter id="217" name="The son of Satan" isTutorial="OK" regionID="" />
-	<chapter id="218" name="Dark roots" isTutorial="OK" regionID="" />
-	<chapter id="219" name="MER Ka&#8217;s treasure" isTutorial="OK" regionID="" />
-	<chapter id="220" name="Bo-Mar is where" isTutorial="OK" regionID="" />
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Parsing this data used do not directly modify the --><ms2>
+	<chapter id="1" name="Al Hyun-Sik, towards the" isTutorial="OK" regionID=""/>
+	<chapter id="2" name="Invisible truth" isTutorial="OK" regionID=""/>
+	<chapter id="3" name="Behind the shadows" isTutorial="OK" regionID=""/>
+	<chapter id="4" name="Special Mission" isTutorial="OK" regionID=""/>
+	<chapter id="5" name="The secret of Red Riding Hood" isTutorial="OK" regionID=""/>
+	<chapter id="6" name="A ray of hope" isTutorial="OK" regionID=""/>
+	<chapter id="7" name="Gone with the wind" isTutorial="OK" regionID=""/>
+	<chapter id="8" name="The truth revealed" isTutorial="OK" regionID=""/>
+	<chapter id="9" name="Back to its rightful place" isTutorial="OK" regionID=""/>
+	<chapter id="10" name="Stopped time" isTutorial="OK" regionID=""/>
+	<chapter id="11" name="Light girl" isTutorial="OK" regionID=""/>
+	<chapter id="12" name="The fate of the light" isTutorial="OK" regionID=""/>
+	<chapter id="101" name="Recalcitrant Luke" isTutorial="OK" regionID=""/>
+	<chapter id="102" name="In the midst of dark woods, that is. .." isTutorial="OK" regionID=""/>
+	<chapter id="103" name="The honey thief" isTutorial="OK" regionID=""/>
+	<chapter id="104" name="OMG not filial" isTutorial="OK" regionID=""/>
+	<chapter id="105" name="Bubbly for my brother" isTutorial="OK" regionID=""/>
+	<chapter id="106" name="Freeze away people" isTutorial="OK" regionID=""/>
+	<chapter id="107" name="Granddaughter to revive herb" isTutorial="OK" regionID=""/>
+	<chapter id="108" name="Most of the weight of the" isTutorial="OK" regionID=""/>
+	<chapter id="109" name="Woodsman's rage" isTutorial="OK" regionID=""/>
+	<chapter id="110" name="They live in the law" isTutorial="OK" regionID=""/>
+	<chapter id="111" name="Crab conquest" isTutorial="OK" regionID=""/>
+	<chapter id="112" name="Pearl CAD girl" isTutorial="OK" regionID=""/>
+	<chapter id="113" name="Eaters of" isTutorial="OK" regionID=""/>
+	<chapter id="114" name="Fitness soon property" isTutorial="OK" regionID=""/>
+	<chapter id="115" name="The secret of bone marrow in pharmaceutical" isTutorial="OK" regionID=""/>
+	<chapter id="116" name="Starter made the mistake of" isTutorial="OK" regionID=""/>
+	<chapter id="117" name="He also was a benefactor to someone" isTutorial="OK" regionID=""/>
+	<chapter id="118" name="Dangerous DNA" isTutorial="OK" regionID=""/>
+	<chapter id="119" name="A woman from Venus" isTutorial="OK" regionID=""/>
+	<chapter id="120" name="A gift for a friend" isTutorial="OK" regionID=""/>
+	<chapter id="121" name="Obtain a new House" isTutorial="OK" regionID=""/>
+	<chapter id="122" name="I met friends again" isTutorial="OK" regionID=""/>
+	<chapter id="123" name="Cracked Earth" isTutorial="OK" regionID=""/>
+	<chapter id="124" name="The only fallout" isTutorial="OK" regionID=""/>
+	<chapter id="125" name="Prairie outlaw" isTutorial="OK" regionID=""/>
+	<chapter id="126" name="A man loves" isTutorial="OK" regionID=""/>
+	<chapter id="127" name="Wings of storm : Griffey, I" isTutorial="OK" regionID=""/>
+	<chapter id="128" name="Fairy slipper?" isTutorial="OK" regionID=""/>
+	<chapter id="129" name="One love" isTutorial="OK" regionID=""/>
+	<chapter id="130" name="The fairies lost a place to go, elbow" isTutorial="OK" regionID=""/>
+	<chapter id="131" name="Copper copper evil tyranny of quality" isTutorial="OK" regionID=""/>
+	<chapter id="132" name="Leap dreaming" isTutorial="OK" regionID=""/>
+	<chapter id="133" name="Finding freedom" isTutorial="OK" regionID=""/>
+	<chapter id="134" name="Farming, it's difficult." isTutorial="OK" regionID=""/>
+	<chapter id="135" name="Merlin wants" isTutorial="OK" regionID=""/>
+	<chapter id="136" name="Always difficult for AJAX" isTutorial="OK" regionID=""/>
+	<chapter id="137" name="Between love and obsession" isTutorial="OK" regionID=""/>
+	<chapter id="138" name="The legendary sorcerer" isTutorial="OK" regionID=""/>
+	<chapter id="139" name="The top 1% of taste" isTutorial="OK" regionID=""/>
+	<chapter id="140" name="Gone was the Petit Mont Shu shu" isTutorial="OK" regionID=""/>
+	<chapter id="141" name="The walls of the heart" isTutorial="OK" regionID=""/>
+	<chapter id="142" name="The tragedy of the Unicorn" isTutorial="OK" regionID=""/>
+	<chapter id="143" name="The scent of death" isTutorial="OK" regionID=""/>
+	<chapter id="144" name="X-bottom of the axe against the" isTutorial="OK" regionID=""/>
+	<chapter id="145" name="The cause of the cargo damage" isTutorial="OK" regionID=""/>
+	<chapter id="146" name="I noticed a quick blood" isTutorial="OK" regionID=""/>
+	<chapter id="147" name="Crisis-Les-see Dick" isTutorial="OK" regionID=""/>
+	<chapter id="148" name="Resource recycling" isTutorial="OK" regionID=""/>
+	<chapter id="149" name="The Canyon's Wolf hunt" isTutorial="OK" regionID=""/>
+	<chapter id="150" name="Shhh! Cheon Ki-leakage" isTutorial="OK" regionID=""/>
+	<chapter id="151" name="Throat Po taps" isTutorial="OK" regionID=""/>
+	<chapter id="152" name="Interchange for riot" isTutorial="OK" regionID=""/>
+	<chapter id="153" name="CHOW's black history" isTutorial="OK" regionID=""/>
+	<chapter id="154" name="With the heart of the neighborhood" isTutorial="OK" regionID=""/>
+	<chapter id="155" name="Old forest" isTutorial="OK" regionID=""/>
+	<chapter id="156" name="Untimely accident" isTutorial="OK" regionID=""/>
+	<chapter id="157" name="The evil spirit of darkness : Wrath of the bar four mat" isTutorial="OK" regionID=""/>
+	<chapter id="158" name="Secure part-time jobs" isTutorial="OK" regionID=""/>
+	<chapter id="159" name="Turtle's rage" isTutorial="OK" regionID=""/>
+	<chapter id="160" name="The embodiment of jealousy" isTutorial="OK" regionID=""/>
+	<chapter id="161" name="Missing girls : Mad Oh yes hot" isTutorial="OK" regionID=""/>
+	<chapter id="162" name="Wings of storm : Griffon" isTutorial="OK" regionID=""/>
+	<chapter id="163" name="The grip, the grip is" isTutorial="OK" regionID=""/>
+	<chapter id="164" name="Boss Dungeon : Brother threesome looking great" isTutorial="OK" regionID=""/>
+	<chapter id="165" name="The dream came true" isTutorial="OK" regionID=""/>
+	<chapter id="166" name="Paper flowers on the hidden hearts" isTutorial="OK" regionID=""/>
+	<chapter id="167" name="Missing literature history" isTutorial="OK" regionID=""/>
+	<chapter id="168" name="Shadow Legion's altar" isTutorial="OK" regionID=""/>
+	<chapter id="169" name="The cart towards the Ramus" isTutorial="OK" regionID=""/>
+	<chapter id="170" name="Blue swirl" isTutorial="OK" regionID=""/>
+	<chapter id="171" name="Boss Dungeon : The treasures of the ancients" isTutorial="OK" regionID=""/>
+	<chapter id="172" name="Problem" isTutorial="OK" regionID=""/>
+	<chapter id="173" name="Shadow world for old wives ' tale" isTutorial="OK" regionID=""/>
+	<chapter id="174" name="Looking for paradise" isTutorial="OK" regionID=""/>
+	<chapter id="175" name="Gaegwaceonseon is a virtue" isTutorial="OK" regionID=""/>
+	<chapter id="176" name="Merlin would need to" isTutorial="OK" regionID=""/>
+	<chapter id="177" name="Boss Dungeon : The secret of the clock tower" isTutorial="OK" regionID=""/>
+	<chapter id="178" name="Venomous waters" isTutorial="OK" regionID=""/>
+	<chapter id="179" name="Reading-scaled treasure" isTutorial="OK" regionID=""/>
+	<chapter id="180" name="Wind stopped cranking" isTutorial="OK" regionID=""/>
+	<chapter id="181" name="Again met BORO BORO" isTutorial="OK" regionID=""/>
+	<chapter id="182" name="Oh! My Princess" isTutorial="OK" regionID=""/>
+	<chapter id="183" name="Revenge is mine" isTutorial="OK" regionID=""/>
+	<chapter id="184" name="Endless war" isTutorial="OK" regionID=""/>
+	<chapter id="185" name="Calm storm" isTutorial="OK" regionID=""/>
+	<chapter id="186" name="The unstoppable step" isTutorial="OK" regionID=""/>
+	<chapter id="187" name="Lulu's wish" isTutorial="OK" regionID=""/>
+	<chapter id="188" name="Quest for glory : Stretch" isTutorial="OK" regionID=""/>
+	<chapter id="189" name="The threat of the city now" isTutorial="OK" regionID=""/>
+	<chapter id="190" name="BAYAR curse of the mountains" isTutorial="OK" regionID=""/>
+	<chapter id="191" name="The Devil's crony" isTutorial="OK" regionID=""/>
+	<chapter id="192" name="The forest Monster" isTutorial="OK" regionID=""/>
+	<chapter id="193" name="Captain Moonlight secrets" isTutorial="OK" regionID=""/>
+	<chapter id="194" name="Quest for glory : Take the leap" isTutorial="OK" regionID=""/>
+	<chapter id="195" name="Forest light" isTutorial="OK" regionID=""/>
+	<chapter id="196" name="The force of the Earth" isTutorial="OK" regionID=""/>
+	<chapter id="197" name="In the shadow of the sea" isTutorial="OK" regionID=""/>
+	<chapter id="198" name="Shadows of time" isTutorial="OK" regionID=""/>
+	<chapter id="199" name="Pink lamb?" isTutorial="OK" regionID=""/>
+	<chapter id="200" name="Wolf, water alert!" isTutorial="OK" regionID=""/>
+	<chapter id="201" name="Towards acceptance" isTutorial="OK" regionID=""/>
+	<chapter id="202" name="Across time" isTutorial="OK" regionID=""/>
+	<chapter id="203" name="Want to dominate the time now" isTutorial="OK" regionID=""/>
+	<chapter id="204" name="Crime and punishment" isTutorial="OK" regionID=""/>
+	<chapter id="205" name="Maybe there is" isTutorial="OK" regionID=""/>
+	<chapter id="206" name="Cool giant" isTutorial="OK" regionID=""/>
+	<chapter id="207" name="Huan's residency" isTutorial="OK" regionID=""/>
+	<chapter id="208" name="The test of Valor" isTutorial="OK" regionID=""/>
+	<chapter id="209" name="Of the mind" isTutorial="OK" regionID=""/>
+	<chapter id="210" name="Revolt of swine" isTutorial="OK" regionID=""/>
+	<chapter id="211" name="Stranger stranger" isTutorial="OK" regionID=""/>
+	<chapter id="212" name="Mayor of Maple adjustment period" isTutorial="OK" regionID=""/>
+	<chapter id="213" name="Silent invasion" isTutorial="OK" regionID=""/>
+	<chapter id="214" name="The dark flower" isTutorial="OK" regionID=""/>
+	<chapter id="215" name="Dark stem" isTutorial="OK" regionID=""/>
+	<chapter id="216" name="Endless challenge" isTutorial="OK" regionID=""/>
+	<chapter id="217" name="The son of Satan" isTutorial="OK" regionID=""/>
+	<chapter id="218" name="Dark roots" isTutorial="OK" regionID=""/>
+	<chapter id="219" name="MER Ka's treasure" isTutorial="OK" regionID=""/>
+	<chapter id="220" name="Bo-Mar is where" isTutorial="OK" regionID=""/>
 </ms2>
