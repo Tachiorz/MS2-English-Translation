@@ -1,15 +1,18 @@
-from xml.etree import ElementTree as et
+import codecs
+from lxml import etree as et
 
 xml_file = ""
-tree = et.parse(xml_file)
-key_iterator = tree.findall('key')
+
+parser = et.XMLParser(ns_clean=False, recover=True, remove_comments=False, remove_blank_text=False, encoding='utf-8')
+tree = et.parse(xml_file, parser=parser)
 
 print("Replacing")
-for i in key_iterator:
-	name = i.get('name')
-	if name: # Need to check we have a name as some item ids don't have names - wtf? 
-		name = name.encode("ascii", 'xmlcharrefreplace').replace('&#8217;','\'')
-		i.set('name', name)
+for i in tree.iter():
+    for k, v in i.attrib.iteritems():
+        v = v.replace(u'\u2019', '\'')
+        i.attrib[k] = v
 
-tree.write(xml_file)
+with codecs.open(xml_file, 'w', 'utf-8') as f:
+    xml_string = et.tostring(tree, encoding='UTF-8', xml_declaration=True)
+    f.write(xml_string.replace('&#10;', '\\n').replace('&#8217;', '\'').decode('utf-8'))
 print("finished")
