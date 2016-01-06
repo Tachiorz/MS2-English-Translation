@@ -2788,8 +2788,8 @@
    <key id="s_msgbox_format_profile_char_detail" value="Level {0} {1}"/>
 
 
-  <key id="s_messenger_comfirm_chat_world" value="Would you like to send a World Talk?\n {0}&lt;Img Src='export_common_icon_merat' vspace='-4'/&gt; will be used.\n"/>
-  <key id="s_messenger_comfirm_chat_channel" value="Would you like to send a Channel Talk?\n {0}&lt;Img Src='export_common_icon_merat' vspace='-4'/&gt; will be used.\n"/>
+  <key id="s_messenger_comfirm_chat_world" value="Would you like to speak in World Chat?\n {0}&lt;Img Src='export_common_icon_merat' vspace='-4'/&gt; will be used.\n"/>
+  <key id="s_messenger_comfirm_chat_channel" value="Would you like to speak in Channel Chat?\n {0}&lt;Img Src='export_common_icon_merat' vspace='-4'/&gt; will be used.\n"/>
   <key id="s_messenger_no_show_messagebox" value="Do Not Show Again"/>
   <key id="s_messenger_whisper" value="/whisper"/>
   <key id="s_messenger_party_chatballoon_prefix" value="&lt;FONT color='#8CAFFF'&gt;[Party]&lt;/font&gt;\n"/>
@@ -2830,8 +2830,8 @@
   <key id="s_debug_instant_death" value="GM's Judgement:{0}"/>
 
   <!-- Use coupon alerts-->
-  <key id="s_worldchat_use_coupon" value="You have used your World Talk coupon."/>
-  <key id="s_channelchat_use_coupon" value="You have used your Channel Talk coupon."/>
+  <key id="s_worldchat_use_coupon" value="You have used your World Chat coupon."/>
+  <key id="s_channelchat_use_coupon" value="You have used your Channel Chat coupon."/>
   <key id="s_revival_use_coupon" value="You have used your Resurrection coupon."/>
 
   <key id="s_alreadyloginuser_request_kick" value="The game is accessed through another computer.\nThis current connection will be shutdown.."/>
