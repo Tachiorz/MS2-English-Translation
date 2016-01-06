@@ -2111,8 +2111,8 @@
   <key id="s_word_level" value="Level {0}"/>
   <key id="s_word_level_max" value="MAX Level {0}"/>
   <key id="s_word_learn_level" value="Learned level {0}."/>
-  <key id="s_word_learn_skillbook" value="Can be learned from a skillbook."/>
-  <key id="s_word_acquire_level" value="Can be learned at level {0}"/>
+  <key id="s_word_learn_skillbook" value="Learned from skillbook."/>
+  <key id="s_word_acquire_level" value="  Learned at level {0}"/>
   <key id="s_word_taxistation" value="Taxi Station"/>
   <key id="s_word_besttaxistation" value="Taxi Station"/>
   <key id="s_word_myhome" value="My Home"/>
@@ -2185,8 +2185,8 @@
   <key id="s_worldmap_tooltip_friend" value="{0}"/>
   <key id="s_worldmap_tooltip_friendhome" value="&lt;FONT color='#00AEEF'&gt;{0}&lt;/FONT&gt;"/>
   <key id="s_worldmap_tooltip_party" value="&lt;FONT color='#8CAFFF'&gt;{0}&lt;/FONT&gt;"/>
-  <key id="s_worldmap_tooltip_level" value="Level {0}"/>
-  <key id="s_worldmap_tooltip_level_upper" value="&lt;FONT color='#909090'&gt;{0}Level&lt;/FONT&gt;"/>
+  <key id="s_worldmap_tooltip_level" value="Lv.{0}"/>
+  <key id="s_worldmap_tooltip_level_upper" value="&lt;FONT color='#909090'&gt;Lv.{0}&lt;/FONT&gt;"/>
   <key id="s_worldmap_tooltip_mapname" value="{0}"/> <!-- The field name -->
   <key id="s_worldmap_tooltip_mapname_low" value="{0} / {1}"/> <!-- The field name / Level -->
   <key id="s_worldmap_tooltip_mapname_high" value="&lt;FONT color='#FF4040'&gt;{0} / {1}&lt;/FONT&gt;"/> <!-- The field name / Level -->
