@@ -1,308 +1,307 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsing this data used do not directly modify the -->
-<ms2>
-	<tip id="1" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Sometimes talking to the dealer.\nMaybe you may find useful items." />
-	<tip id="2" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Newbie gets 10 levels $map:2000001$Of $map:2000188$You can do the former." />
-	<tip id="3" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Have you ever dressed as soon as stores?\nWearing a new products immediately." />
-	<tip id="4" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Try to buy a House for the first time recognize?\n$map:2000002$Of the House of Commons, or the same value the joint housing and Salisbury Livingston homes at once." />
-	<tip id="5" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Are you looking for a House to buy new? Empty the grounds in front of the House, click on an icon, you can buy a House, take a seal in the contract." />
-	<tip id="6" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to buy a home, you can click the icon in the House contract." />
-	<tip id="7" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Houses each account can only have one, I will share all the characters in your account." />
-	<tip id="8" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to rename, click the Home icon in the main screen after a contract,\nChange the name of the House button in the contract." />
-	<tip id="9" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can buy a house in the village, but it is not.\nIn many places in a variety of sizes of house sales." />
-	<tip id="10" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The more expensive the price House in a good location." />
-	<tip id="11" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you lived in a House to terminate the contract, all the items are placed in the House movers storage warehouses." />
-	<tip id="12" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Movers storage warehouses since some items are kept in storage after 90 days or it will disappear." />
-	<tip id="13" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Moved to a different House, you have to terminate the contract of an existing House." />
-	<tip id="14" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="After a period of the contract of the House, you may not use the House anymore." />
-	<tip id="15" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to terminate the contract of the House, who lives at the termination of the agreement, click on the button if you sign a contract." />
-	<tip id="16" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Use your current contract expire thirty (30) days, the grounds of the\nReal estate contracts can extend the term of the agreement to open up." />
-	<tip id="17" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Tri Ah $map:02000123$You can see the real estate price." />
-	<tip id="18" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you recover the Interior the building placed on the item will be moved to the archive all the movers warehouse." />
-	<tip id="19" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Near my house B The construction of the mode key is pressed, you can place items in the home." />
-	<tip id="20" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The construction of their own or you can place the item inside the building." />
-	<tip id="21" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The orientation of an item you have placed in your House when you don&#8217;t like when you rotate an item posted." />
-	<tip id="22" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Barney&#8217;s stores are in this mode, you can use the construction." />
-	<tip id="23" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000036$You can decorate the House and sell a variety of goods." />
-	<tip id="24" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Grab bag merchants are selling stuff people gathering event map." />
-	<tip id="25" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Grab bag trader to buy rare stuff" />
-	<tip id="26" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you return home using the device, you can easily move to the front of the House.\nOf course you can also come back to the original position." />
-	<tip id="27" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Homing devices available from TIs pressed, the House can move forward." />
-	<tip id="28" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you place a souvenir home may receive special effects." />
-	<tip id="29" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Posted in equipment, in a House mannequin clothed or change my clothes and wear it." />
-	<tip id="30" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The House is placed in the TVTo investigate TVYou can turn." />
-	<tip id="31" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Design your own design by entering the item, you can view the created item." />
-	<tip id="32" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can design the outfits, as well as the construction items." />
-	<tip id="33" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Designer&#8217;s shop on my design, you can also purchase other items to players." />
-	<tip id="34" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Wearing a make my name on items." />
-	<tip id="35" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Expressing your own individuality to design items." />
-	<tip id="36" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you sell an item on the designer&#8217;s shop design,\nProduction and sale, except for the amount of the fee." />
-	<tip id="37" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When you want to change into a stylish appearance $map:02000107$Visit to the.\nMegan Barrett consuming services are available." />
-	<tip id="38" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$Looks at hair salons, of plastic surgery.\nHowever, the use of the service requires in order to alert in Medan." />
-	<tip id="39" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$In the hair, face, skin tone, and so my appearance.\nHowever, the use of the service requires in order to alert in Medan." />
-	<tip id="40" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$Of $map:52000010$You can do the molding.\nHowever, the use of the service requires in order to alert in Medan." />
-	<tip id="41" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$Of $map:52000008$You can change the hair.\nHowever, the use of the service requires in order to alert in Medan." />
-	<tip id="42" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$Of $map:52000008$The makeup artist $npc:11000256$Leave it to the makeup look\nHowever, the use of the service requires in order to alert in Medan." />
-	<tip id="43" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:52000009$Of $npc:11000257$ Equipment items have gotten any color to dye.\nHowever, the use of the service requires in order to alert in Medan." />
-	<tip id="44" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right now, $map:02000107$Take a look at the hair, face, color changed!\nHowever, the use of the service requires in order to alert in Medan." />
-	<tip id="45" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="By examining the Billboard around town the image you want, you can contribute." />
-	<tip id="46" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To put the image on the Board for at least 3 hours prior to the reservation." />
-	<tip id="47" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:2000001$, $map:2000100$ All over the world, including major cities such as\nTime available for the Board." />
-	<tip id="48" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can schedule the Board for everyone." />
-	<tip id="49" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Character information in your profile settings by pressing the button image you want, you can register a profile." />
-	<tip id="50" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you arrive at the new village, visit the shop equipment." />
-	<tip id="51" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="F1 ~ F12 You can do dynamic action when a key is pressed." />
-	<tip id="52" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Apartments are usually offered at a reasonable price.\nIf the burden of rain down payment and management apartment." />
-	<tip id="53" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you belong to an arbitrary slicing cute appearance." />
-	<tip id="54" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When shooting a bow and arrow is not required." />
-	<tip id="55" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Table window, you do not need to charge." />
-	<tip id="56" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to use Active skill SPIs required." />
-	<tip id="57" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to use your skills in action EPIs required." />
-	<tip id="58" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="EP If one does not already exist, you cannot use all sorts of action skills." />
-	<tip id="59" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Learning a new skill, use the quick slots by lifting." />
-	<tip id="60" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Map falls out the edge of the monument, you can reel the pallet." />
-	<tip id="61" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When the pallet in the monument, a monument of someone else or if it can happen in the place to beat." />
-	<tip id="62" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Potion after a quick slot got raised." />
-	<tip id="63" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In the shadow of the breakthrough drug that can withstand the miasma was reportedly developed." />
-	<tip id="64" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right hand and left hand, you can wear a different citation." />
-	<tip id="65" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Recognition can be worn both right hand and left hand." />
-	<tip id="66" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right hand and left hand may be worn by each other on the dagger." />
-	<tip id="67" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="On the one hand, you can wear a different one dagger." />
-	<tip id="68" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The former rose from the monument since the wound after recovery takes time." />
-	<tip id="69" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Novice after his resurrection is not dominated by the wounded soul." />
-	<tip id="70" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="After his resurrection until the wounded soul of governance will require some time to escape." />
-	<tip id="71" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="After his resurrection, again while the wounded soul remains HPIs zero, the steel monument to the pallet." />
-	<tip id="72" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Been in place when the monument might be resurrected.\nHowever, it is necessary in order to revive the place Tome Bobcats." />
-	<tip id="73" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In place for a period of time when the rest of the soul, resurrection.\nThe rest of the State, into the soul resurrection impossible." />
-	<tip id="74" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Sometimes I get into the field that appears on the hat, you can find the crack in space." />
-	<tip id="75" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Once a cap found by chance on the field, and you can enjoy a variety of bonus stage." />
-	<tip id="76" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Iron Hog&#8217;s armor is supposed to fit." />
-	<tip id="77" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Ants in an Ant." />
-	<tip id="78" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The rulers of the winding canyons $npc:22000022$ In fact, a woman." />
-	<tip id="79" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:61000005$ The entrance opens up every 10 minutes." />
-	<tip id="80" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Eat the herb HPIs slowly recovering." />
-	<tip id="81" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="HPIf you have a car full of potion is not available." />
-	<tip id="82" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Evil Fairy Inn $npc:22000003$ $npc:22000004$ Sister quite a bit." />
-	<tip id="83" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:23000019$ $npc:23000020$ The couple is over." />
-	<tip id="84" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Preferences you can change the key settings in the keyboard settings." />
-	<tip id="85" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Most of the skills that you can learn the level up automatically." />
-	<tip id="86" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Skill in the North can learn skills by using the item." />
-	<tip id="87" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you have a wall in front of me $skill:20000011$ Let&#8217;s use the skill." />
-	<tip id="88" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Those who ride the wall like high places." />
-	<tip id="89" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Alt Key, or C Press the &lt; enter &gt; key to jump." />
-	<tip id="90" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Ctrl Key, or X As the key." />
-	<tip id="91" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Automatically pick a lot of items, the item might be the week." />
-	<tip id="92" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Z Key is pressed, you can glean the item." />
-	<tip id="93" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Press the direction keys on the near the ladder and ladder can hold." />
-	<tip id="94" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000083$Even the traffic lights swung to pull from\nSin applies to vandalism." />
-	<tip id="95" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Once the Tri Ah 10 levels for beginners $map:2000188$ You will need to go to the former. " />
-	<tip id="96" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The former can be done only once, and once you decide to be careful because you won&#8217;t be able to return." />
-	<tip id="97" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can take advantage of the world map, you can get a lot of information." />
-	<tip id="98" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To make a world map the location of the taxi stand." />
-	<tip id="99" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When you open a map of the world, is it possible to start the quest you can check which map." />
-	<tip id="100" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can see a map of the world map, I." />
-	<tip id="101" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="World map, you can see a map on the boss." />
-	<tip id="102" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Now a lot of people wondering where to gather? \nWorld map, check out the hot place." />
-	<tip id="103" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The doctor mainly in big cities, I can meet in the hospital." />
-	<tip id="104" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The doctor receives a treatment, you can immediately restore condition." />
-	<tip id="105" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Skill, open window, you can upgrade the skills they have learned." />
-	<tip id="106" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Skill needed for the upgrade $item:40100001$ Most grocery trader." />
-	<tip id="107" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Elite monsters or bosses need to upgrade the skill to red, blue, and green Crystal you can get." />
-	<tip id="108" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you need to upgrade the skills of the rumors $item:40100022$\nNestled in the heart of the evil boss." />
-	<tip id="109" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to upgrade a skill requires a special Crystal." />
-	<tip id="110" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can also get the title to achieve the trophy. " />
-	<tip id="111" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can pick up and pick up the trophy again, picking up the item Auto features to achieve the rewards you can get." />
-	<tip id="112" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The taxi stop is found can be used behind the fortification." />
-	<tip id="113" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="By examining the taxi stop, already found another taxi stop." />
-	<tip id="114" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="25You can use the level when the taxi." />
-	<tip id="115" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Taxi will arrive right in the verse." />
-	<tip id="116" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Lotus air taxi you can use either the map or the map has already been found." />
-	<tip id="117" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right clicking a different character to whisper, add friends, party invites, you can do a variety of jobs, such as trade." />
-	<tip id="118" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right click in the passing character, inviting me to the party." />
-	<tip id="119" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Party with up to 10 people can bear." />
-	<tip id="120" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Those who have access to the same map, the community window." />
-	<tip id="121" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right click on the other characters, or you can add friends from the community window." />
-	<tip id="122" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right click on the other characters in the party invitation." />
-	<tip id="123" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Click on the different characters send the character Wu blocking allows you to block various messages." />
-	<tip id="124" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right click on another character 1:1 You can make a deal." />
-	<tip id="125" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="TAB You can see the mini map by pressing loud." />
-	<tip id="126" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Mini map icon when you rest the mouse overs NPCI can see the name of the map." />
-	<tip id="127" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Press the settings button in the upper right corner of the map to the mini in many ways, you can hide the information." />
-	<tip id="128" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="One such map at the top of the minimap and the characters will be displayed." />
-	<tip id="129" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$skill:20000011$ Learning the skills to climb the cliffs." />
-	<tip id="130" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$skill:20000011$ If you have not been able to move into the jump, take advantage of the skills where you can move easily." />
-	<tip id="131" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When I got close to the monster able to catch." />
-	<tip id="132" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$skill:20000021$ If you use, you can fly through the air." />
-	<tip id="133" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Mounts can be used by double clicking on an item." />
-	<tip id="134" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="After you have specified the quick item slots mounted when you use, you can fly." />
-	<tip id="135" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Vehicles ride X Key is pressed you can use the unique skills of mounted." />
-	<tip id="136" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Falls from high places, damage to ibeumyeo, let your guard down, the monument to the pallet." />
-	<tip id="137" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000064$A variety of events. Events once upon a time." />
-	<tip id="138" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="As soon as you click the event icon in the map of the world $map:02000064$ Can be taken." />
-	<tip id="139" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right click on the tab of the chat window you can set listens for." />
-	<tip id="140" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To link to an item in the open items listens for items Shift+Try the click of a mouse." />
-	<tip id="141" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When you enter a chat TabWhen a key is pressed \nYou can change the chat, it&#8217;s easy to target." />
-	<tip id="142" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the world to use the loudspeaker or channel loudspeaker requires renal in Medan." />
-	<tip id="143" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Fights with other people you can kill mobs faster." />
-	<tip id="144" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="People do not know if you are fighting with monsters, just don&#8217;t be too safe!" />
-	<tip id="145" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="A strong monster to fight both with the met." />
-	<tip id="146" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="A strong monster and join forces with the fight all together." />
-	<tip id="147" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Even if you have a party like everyone else when you can get the spoils with the monster attacks." />
-	<tip id="148" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You don&#8217;t need to have a fight with the party, and can get along with the spoils." />
-	<tip id="149" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Megan Barrett still taking action in the market to purchase a new action." />
-	<tip id="150" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The monument was laid when you cannot procure to pay to experience." />
-	<tip id="151" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Monument rose from the status of damage for a while." />
-	<tip id="152" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Get rid of another player to beat Gage monument in place of resurrection." />
-	<tip id="153" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Combat impotence let wounded soul resurrection from the subject in your State HPIs zero, the steel monument." />
-	<tip id="154" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="With the help of others when the steel monument." />
-	<tip id="155" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Walk for health a short distance." />
-	<tip id="156" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you get a special email just check it out." />
-	<tip id="157" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:2000001$Guards of this rumor is not true called twins." />
-	<tip id="158" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000374$Gender is nobody." />
-	<tip id="159" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000106$ My man is warm only to women." />
-	<tip id="160" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you are in front of the lever, pull." />
-	<tip id="161" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to get a better look at their appearance to look good decorating the mouse wheel to zoom the camera using the." />
-	<tip id="162" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you go to a place where untracked treasure box." />
-	<tip id="163" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:2000161$Not find the items of this are being sent somewhere." />
-	<tip id="164" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Fell to the ground after the items and 90 seconds Megan disappears." />
-	<tip id="165" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The usual search well in places. Golden treasure box." />
-	<tip id="166" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you have found a strange pictures from the scoreboard right-click, you can report to." />
-	<tip id="167" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the &apos;/Party invites character names&apos;If you enter a\nThe name has been entered, you can invite them to the party character." />
-	<tip id="168" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the &apos;/Party opt-out&apos;When you enter a\nYou can unsubscribe from the party which joined." />
-	<tip id="169" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To create a Guild GKeys to try." />
-	<tip id="170" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Create a Guild with like-minded friends." />
-	<tip id="171" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="See all my Guild Guild and the Guild trophy trophy is the totality." />
-	<tip id="172" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000001$In the Hall of flags \nThe Guild # 1 rank, personal trophy No. 1 trophy, the Guild # 1 is the battlefield." />
-	<tip id="173" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000100$In the Hall of flags \nTrophy rank 1, 2, and 3 on the Guild&#8217;s Guild mark is engraved." />
-	<tip id="174" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000023$In the Hall of flags \nIndividual trophy rankings 1, 2, and 3 in the above profile photo engraved." />
-	<tip id="175" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000064$In the Hall of flags \nGuild trophy and a personal trophy 1, 2, and 3 above." />
-	<tip id="176" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000051$In the Hall of flags \nGuild Championship carving Guild marks 1, 2, and 3 above." />
-	<tip id="177" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000217$In the Hall of flags \nGuild Championship carving Guild marks 1, 2, and 3 above." />
-	<tip id="178" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Hall of Fame flag rank is updated once a day." />
-	<tip id="179" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you investigate the flag of honor more in the view, you can see a ranking mate." />
-	<tip id="180" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The Guild reward depending on the outcome of the Championship $item:90000006$ You can get." />
-	<tip id="181" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the &apos;/Guild invite character names&apos;If you enter a\nThe name has been entered, you can invite them to the Guild I belong to the character." />
-	<tip id="182" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000620$ $map:02000001$The battle of equipment trader." />
-	<tip id="183" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000626$ $map:02000001$Mounts of the trader." />
-	<tip id="184" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000001$Of $npc:11000620$And $npc:11000626$As to the\nIf you want to purchase the item (s) $item:90000006$ Required." />
-	<tip id="185" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000508$ Popular for several reasons." />
-	<tip id="186" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000203$The blacksmith in $npc:11000508$ The item stronger." />
-	<tip id="187" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The crowd tried to get Chan which fails, the device can be damaged\nDamaged equipment is no longer being Chan cannot update." />
-	<tip id="188" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="At the time of the battle with other players, which is the effect of increased equipment calibration with Chan." />
-	<tip id="189" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$ Iron only sunny." />
-	<tip id="190" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$ Holding for the Shu Avry body mafia daughter." />
-	<tip id="191" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$To $item:40100023$ If you leave \nShe replaced them with precious antiques taken from the House." />
-	<tip id="192" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Today $npc:11000511$Maids of meiling, which is $item:40100023$ Interchangeable equipment package." />
-	<tip id="193" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000001$The level 1 characters:1You can emulate your skills as a." />
-	<tip id="194" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000001$The winners of the new Challenger packs a." />
-	<tip id="195" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000002$A maximum of ten characters, you can emulate your skills." />
-	<tip id="196" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="What&#8217;s happening in the world, check out the new news wonder if Mather views." />
-	<tip id="197" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="NPC, For a detailed description of an item extracted, Monster, \nCheck out the view, mate." />
-	<tip id="198" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="World-wide real estate market wonder if \nCheck out the view, mate." />
-	<tip id="199" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="This inconvenience to the other characters if you have a report." />
-	<tip id="200" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you do not want to see the images come up on the scoreboard \nRight click on the scoreboard." />
-	<tip id="201" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="A nasty thing to say when you report a person&#8217;s chat \nWhere is handled those who chat since the blinds." />
-	<tip id="202" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you report an unpleasant Billboard image, profile images \nSince the image is handled those blinds." />
-	<tip id="203" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000514$ So far, the only one you can also jailbreak did not suffer." />
-	<tip id="204" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000514$Give bail to jail can be released \nRumor has it, but the fact that it wasn&#8217;t OK." />
-	<tip id="205" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Note the strong penalties received a false report." />
-	<tip id="206" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you repeatedly to damage others, Velma&#8217;s judgment." />
-	<tip id="207" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Velma received the judgment of chat, UGC Wi-Fi is limited." />
-	<tip id="208" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you have no reflection in the prison station, Velma&#8217;s judgment in\nYou can escape more quickly." />
-	<tip id="209" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you make a false report of false self, you can go to jail." />
-	<tip id="210" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000062$In the $npc:11000585$ Had a tour of the prison." />
-	<tip id="211" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Shadow world is distorted spacetime breaks the dark world." />
-	<tip id="212" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="A break through the shadow world hidden all over the world is rumored." />
-	<tip id="213" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Shadow, you can investigate the monument distorted spacetime may go through the cracks." />
-	<tip id="214" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Wrath of the gods in the world only to shadow the shields pulryeoseo \nYou can emulate the right skills with other characters." />
-	<tip id="215" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Invite your friends or Guild and group conversations." />
-	<tip id="216" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000216$The new class of items over the deal." />
-	<tip id="217" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The black crusade is $map:02000216$ The fact that it is an open secret that operates." />
-	<tip id="218" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Made in the name of the profile when the Master Maid of the title can be set." />
-	<tip id="219" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Made on behalf of the House, it is not possible to give." />
-	<tip id="220" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000790$, $npc:11000792$Like Alchemy, this specialty is made." />
-	<tip id="221" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000770$, $npc:11000780$There are also cooking skills is like a maid." />
-	<tip id="222" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000787$, $npc:11000779$There are also specialty drinks like manufacturing is made." />
-	<tip id="223" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000789$, $npc:11000512$The specialty necklace production is like a maid." />
-	<tip id="224" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000777$, $npc:11000544$This specialty is made like a ring." />
-	<tip id="225" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Maid $npc:11000770$ Got their best dish is the speciality grilled eel." />
-	<tip id="226" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Maid $npc:11000786$To $npc:11000015$ Tokyo&#8217;s target." />
-	<tip id="227" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Maid $npc:11000777$ $npc:11000075$Pet cat Inn $npc:11000708$It is a descendant of." />
-	<tip id="228" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Butler $npc:11000787$ $map:02000100$Which never worked as a bartender at the bar." />
-	<tip id="229" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Butler $npc:11000791$The thing is full of stories of\nHe picked up all kinds of rumors, and the boy heard the injured." />
-	<tip id="230" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Butler $npc:11000790$ Never to believe fate is the look." />
-	<tip id="231" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Making a maid or Butler in every specialty." />
-	<tip id="232" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Maid or Butler is cooking, beverage manufacturing, Alchemy, necklace ring, making one of the specialty." />
-	<tip id="233" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Dream your dream, dream wise Victoria train educational institutions for young people." />
-	<tip id="234" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Transparent badge allows you to hide the appearance of the equipment with." />
-	<tip id="235" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="At the same time, they can receive only one souvenir buffs." />
-	<tip id="236" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="It is home to the body early ape round shower booth setup." />
-	<tip id="237" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the /? Take a look at the writing. Chat related commands is unknown." />
-	<tip id="238" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The outspoken and say Let&#8217;s use." />
-	<tip id="239" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Onyx-exhausters are steadily being upgraded. The most recent version is NSD-3200." />
-	<tip id="240" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="New or higher rating when you explode the item of $item:40100024$ You can get." />
-	<tip id="241" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Maximum capacity of total guests in 50 of the Guild." />
-	<tip id="242" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000284$ Glass shoes he or she has lost." />
-	<tip id="243" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000145$ In the future." />
-	<tip id="244" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000144$As to the $item:13200028$ You can get." />
-	<tip id="245" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Megan Barrett market premium shop selling special items only." />
-	<tip id="246" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Megan Barrett market designer&#8217;s shop\nOther players can buy items for this design." />
-	<tip id="247" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Designer&#8217;s shop and sell my designs to other players." />
-	<tip id="248" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="1:1 Megan cow deal is limited. Elite rating or less items trading." />
-	<tip id="249" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The weapon can be worn, regardless of the profession\nIf you wear a different profession of weapons XKey to regular attacks." />
-	<tip id="250" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The mail item and cannot be presented to Medan." />
-	<tip id="251" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In the center of the infringement UGC You can also report the relevant damage." />
-	<tip id="252" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text='If you have questions on listens for Monster &quot;/The name of the search monsters&quot; Try searching by.' />
-	<tip id="253" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Rosetta uses a mirror of the beauty salon and turn the CAP." />
-	<tip id="254" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text='In the shop equipment item icon &quot;Shift + Right click on the&quot; The\nWhen wearing the item, you can see a preview of the look.' />
-	<tip id="255" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The other player characters, click the character&#8217;s right, you can see the information." />
-	<tip id="256" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the &apos;/Move the channel channel number&apos;When you enter a\nYou can easily change the channel." />
-	<tip id="257" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Rune Lund, a fusion of the blog radar black tiles crack of the pole through the spells hit." />
-	<tip id="258" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The prophets of witchcraft over the runes, Britt and examine the strongest Pell KIA\n&apos;Te Rune sword LIV&apos;Established with an organization called runes blog radar." />
-	<tip id="259" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Carl Liv 8 black absolute inaction proved to one of the eight\nRune is a glorious title given only to the blog radar." />
-	<tip id="260" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001229$ Getting the straight character and come off looks women\nCarl Liv 8 brought many followers most of the sword." />
-	<tip id="261" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Runes blog stay on the radar of the elders,\nEmphasis is placed on the teaching of so-called baz." />
-	<tip id="262" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Runes in order to hone a new skill blog radar\nYou will need the wisdom of the ancestors left behind baz." />
-	<tip id="263" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Use a sharp sword called the blog radar Rune blade." />
-	<tip id="264" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Runes blog radar blades flame, Frost, lightning\nYou can fight with the given properties." />
-	<tip id="265" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The power of a mysterious runes Rune blog radar\nYou can use a variety of in a combat situation." />
-	<tip id="266" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001229$It is a blunt knife rib of Ireland called of the flap." />
-	<tip id="267" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npcName:11001230$There is no rumor is not true to the belly." />
-	<tip id="268" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000781$ In the past month was the only angler to pretend there are rumors." />
-	<tip id="269" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$item:40100024$ It turned out that the overthrow of the style statement is not true." />
-	<tip id="270" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="High levels of fish are likely to walk away." />
-	<tip id="271" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can swim, fishing can be done everywhere.\nHowever, the water will not be able to throw the fishing rod." />
-	<tip id="272" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can use fishing bait, you can increase your chances of success." />
-	<tip id="273" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="More big fish bait to lure is rumored." />
-	<tip id="274" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to know where the fish live fish are also laid out in a sense." />
-	<tip id="275" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="More fish from the higher stages of fishing\nMany times, you can seize the fishing skill." />
-	<tip id="276" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Fish is the place to buy each and every one is different." />
-	<tip id="277" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Special items, fishing is fishing." />
-	<tip id="278" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Want to catch fish, you can get pay for the experience." />
-	<tip id="279" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The higher the rating of the rare fish." />
-	<tip id="280" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The appearance of the spectacular, as the early steps of the angler." />
-	<tip id="281" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Fishing fish, but fishing is not able to." />
-	<tip id="282" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="World map ToolTip to determine if any steps which map into fishing." />
-	<tip id="283" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000781$ $map:02000002$Fishing supplies to sell." />
-	<tip id="284" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001449$ $map:02010002$Fishing supplies to sell." />
-	<tip id="285" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to be the King of fishing, wherever you look on the water, fishing rods and toss!" />
-	<tip id="286" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Moving in places where fishing is not allowed." />
-	<tip id="287" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The rare fish than to the\nSpecial bait is rumored." />
-	<tip id="288" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Fits on the steps to my anglers catch fish Aya \nFishing skill." />
-	<tip id="289" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The mascot of the Royal Academy of music, the more keys and more keys view." />
-	<tip id="290" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="President of the Royal Academy of music the more key the song Didi Ana reports\nInspired by the music of the two was popularized." />
-	<tip id="291" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The Royal Academy of music, music for the popularization of\nAnyone can play musical instruments and sheet music." />
-	<tip id="292" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The Royal Academy of music executives $npc:11001320$ $npc:11001322$\nA dear friend." />
-	<tip id="293" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Other people bought the sheet music you can play." />
-	<tip id="294" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you have a party at the House near the instrument ensemble." />
-	<tip id="295" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Make your own by using a blank sheet music songs." />
-	<tip id="296" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="A lot of skill in playing increases, the sheet music\nMore spectacular action playing an instrument." />
-	<tip id="297" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Instruments without sheet music using improvisation." />
-	<tip id="298" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="I have used the instrument as a sheet music\nSheet music can be played." />
-	<tip id="299" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you play an instrument, played nearby, you can hear other people." />
-	<tip id="300" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you don&#8217;t want to hear the sound play\nPlaying an instrument in my sound Preferences tab to reduce the sound." />
-	<tip id="301" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Has been blocked by the character&#8217;s can&#8217;t hear the sound playing." />
-	<tip id="302" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000001$Of $npc:11001320$ $map:02010002$Of $npc:11001322$\nPiano and guitar for sale." />
-	<tip id="303" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To purchase playing and related articles $map:02000001$In $npc:11001320$ Meet the." />
-	<tip id="304" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To purchase playing and related articles\n$map:02010002$In the $npc:11001322$ Meet the." />
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Parsing this data used do not directly modify the --><ms2>
+	<tip id="1" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Sometimes talking to the dealer.\nMaybe you may find useful items."/>
+	<tip id="2" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Newbie gets 10 levels $map:2000001$Of $map:2000188$You can do the former."/>
+	<tip id="3" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Have you ever dressed as soon as stores?\nWearing a new products immediately."/>
+	<tip id="4" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Try to buy a House for the first time recognize?\n$map:2000002$Of the House of Commons, or the same value the joint housing and Salisbury Livingston homes at once."/>
+	<tip id="5" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Are you looking for a House to buy new? Empty the grounds in front of the House, click on an icon, you can buy a House, take a seal in the contract."/>
+	<tip id="6" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to buy a home, you can click the icon in the House contract."/>
+	<tip id="7" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Houses each account can only have one, I will share all the characters in your account."/>
+	<tip id="8" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to rename, click the Home icon in the main screen after a contract,\nChange the name of the House button in the contract."/>
+	<tip id="9" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can buy a house in the village, but it is not.\nIn many places in a variety of sizes of house sales."/>
+	<tip id="10" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The more expensive the price House in a good location."/>
+	<tip id="11" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you lived in a House to terminate the contract, all the items are placed in the House movers storage warehouses."/>
+	<tip id="12" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Movers storage warehouses since some items are kept in storage after 90 days or it will disappear."/>
+	<tip id="13" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Moved to a different House, you have to terminate the contract of an existing House."/>
+	<tip id="14" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="After a period of the contract of the House, you may not use the House anymore."/>
+	<tip id="15" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to terminate the contract of the House, who lives at the termination of the agreement, click on the button if you sign a contract."/>
+	<tip id="16" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Use your current contract expire thirty (30) days, the grounds of the\nReal estate contracts can extend the term of the agreement to open up."/>
+	<tip id="17" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Tri Ah $map:02000123$You can see the real estate price."/>
+	<tip id="18" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you recover the Interior the building placed on the item will be moved to the archive all the movers warehouse."/>
+	<tip id="19" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Near my house B The construction of the mode key is pressed, you can place items in the home."/>
+	<tip id="20" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The construction of their own or you can place the item inside the building."/>
+	<tip id="21" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The orientation of an item you have placed in your House when you don't like when you rotate an item posted."/>
+	<tip id="22" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Barney's stores are in this mode, you can use the construction."/>
+	<tip id="23" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000036$You can decorate the House and sell a variety of goods."/>
+	<tip id="24" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Grab bag merchants are selling stuff people gathering event map."/>
+	<tip id="25" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Grab bag trader to buy rare stuff"/>
+	<tip id="26" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you return home using the device, you can easily move to the front of the House.\nOf course you can also come back to the original position."/>
+	<tip id="27" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Homing devices available from TIs pressed, the House can move forward."/>
+	<tip id="28" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you place a souvenir home may receive special effects."/>
+	<tip id="29" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Posted in equipment, in a House mannequin clothed or change my clothes and wear it."/>
+	<tip id="30" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The House is placed in the TVTo investigate TVYou can turn."/>
+	<tip id="31" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Design your own design by entering the item, you can view the created item."/>
+	<tip id="32" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can design the outfits, as well as the construction items."/>
+	<tip id="33" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Designer's shop on my design, you can also purchase other items to players."/>
+	<tip id="34" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Wearing a make my name on items."/>
+	<tip id="35" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Expressing your own individuality to design items."/>
+	<tip id="36" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you sell an item on the designer's shop design,\nProduction and sale, except for the amount of the fee."/>
+	<tip id="37" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When you want to change into a stylish appearance $map:02000107$Visit to the.\nMegan Barrett consuming services are available."/>
+	<tip id="38" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$Looks at hair salons, of plastic surgery.\nHowever, the use of the service requires in order to alert in Medan."/>
+	<tip id="39" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$In the hair, face, skin tone, and so my appearance.\nHowever, the use of the service requires in order to alert in Medan."/>
+	<tip id="40" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$Of $map:52000010$You can do the molding.\nHowever, the use of the service requires in order to alert in Medan."/>
+	<tip id="41" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$Of $map:52000008$You can change the hair.\nHowever, the use of the service requires in order to alert in Medan."/>
+	<tip id="42" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$Of $map:52000008$The makeup artist $npc:11000256$Leave it to the makeup look\nHowever, the use of the service requires in order to alert in Medan."/>
+	<tip id="43" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:52000009$Of $npc:11000257$ Equipment items have gotten any color to dye.\nHowever, the use of the service requires in order to alert in Medan."/>
+	<tip id="44" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right now, $map:02000107$Take a look at the hair, face, color changed!\nHowever, the use of the service requires in order to alert in Medan."/>
+	<tip id="45" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="By examining the Billboard around town the image you want, you can contribute."/>
+	<tip id="46" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To put the image on the Board for at least 3 hours prior to the reservation."/>
+	<tip id="47" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:2000001$, $map:2000100$ All over the world, including major cities such as\nTime available for the Board."/>
+	<tip id="48" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can schedule the Board for everyone."/>
+	<tip id="49" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Character information in your profile settings by pressing the button image you want, you can register a profile."/>
+	<tip id="50" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you arrive at the new village, visit the shop equipment."/>
+	<tip id="51" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="F1 ~ F12 You can do dynamic action when a key is pressed."/>
+	<tip id="52" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Apartments are usually offered at a reasonable price.\nIf the burden of rain down payment and management apartment."/>
+	<tip id="53" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you belong to an arbitrary slicing cute appearance."/>
+	<tip id="54" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When shooting a bow and arrow is not required."/>
+	<tip id="55" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Table window, you do not need to charge."/>
+	<tip id="56" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to use Active skill SPIs required."/>
+	<tip id="57" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to use your skills in action EPIs required."/>
+	<tip id="58" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="EP If one does not already exist, you cannot use all sorts of action skills."/>
+	<tip id="59" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Learning a new skill, use the quick slots by lifting."/>
+	<tip id="60" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Map falls out the edge of the monument, you can reel the pallet."/>
+	<tip id="61" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When the pallet in the monument, a monument of someone else or if it can happen in the place to beat."/>
+	<tip id="62" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Potion after a quick slot got raised."/>
+	<tip id="63" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In the shadow of the breakthrough drug that can withstand the miasma was reportedly developed."/>
+	<tip id="64" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right hand and left hand, you can wear a different citation."/>
+	<tip id="65" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Recognition can be worn both right hand and left hand."/>
+	<tip id="66" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right hand and left hand may be worn by each other on the dagger."/>
+	<tip id="67" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="On the one hand, you can wear a different one dagger."/>
+	<tip id="68" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The former rose from the monument since the wound after recovery takes time."/>
+	<tip id="69" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Novice after his resurrection is not dominated by the wounded soul."/>
+	<tip id="70" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="After his resurrection until the wounded soul of governance will require some time to escape."/>
+	<tip id="71" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="After his resurrection, again while the wounded soul remains HPIs zero, the steel monument to the pallet."/>
+	<tip id="72" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Been in place when the monument might be resurrected.\nHowever, it is necessary in order to revive the place Tome Bobcats."/>
+	<tip id="73" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In place for a period of time when the rest of the soul, resurrection.\nThe rest of the State, into the soul resurrection impossible."/>
+	<tip id="74" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Sometimes I get into the field that appears on the hat, you can find the crack in space."/>
+	<tip id="75" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Once a cap found by chance on the field, and you can enjoy a variety of bonus stage."/>
+	<tip id="76" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Iron Hog's armor is supposed to fit."/>
+	<tip id="77" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Ants in an Ant."/>
+	<tip id="78" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The rulers of the winding canyons $npc:22000022$ In fact, a woman."/>
+	<tip id="79" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:61000005$ The entrance opens up every 10 minutes."/>
+	<tip id="80" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Eat the herb HPIs slowly recovering."/>
+	<tip id="81" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="HPIf you have a car full of potion is not available."/>
+	<tip id="82" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Evil Fairy Inn $npc:22000003$ $npc:22000004$ Sister quite a bit."/>
+	<tip id="83" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:23000019$ $npc:23000020$ The couple is over."/>
+	<tip id="84" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Preferences you can change the key settings in the keyboard settings."/>
+	<tip id="85" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Most of the skills that you can learn the level up automatically."/>
+	<tip id="86" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Skill in the North can learn skills by using the item."/>
+	<tip id="87" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you have a wall in front of me $skill:20000011$ Let's use the skill."/>
+	<tip id="88" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Those who ride the wall like high places."/>
+	<tip id="89" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Alt Key, or C Press the &lt; enter &gt; key to jump."/>
+	<tip id="90" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Ctrl Key, or X As the key."/>
+	<tip id="91" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Automatically pick a lot of items, the item might be the week."/>
+	<tip id="92" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Z Key is pressed, you can glean the item."/>
+	<tip id="93" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Press the direction keys on the near the ladder and ladder can hold."/>
+	<tip id="94" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000083$Even the traffic lights swung to pull from\nSin applies to vandalism."/>
+	<tip id="95" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Once the Tri Ah 10 levels for beginners $map:2000188$ You will need to go to the former. "/>
+	<tip id="96" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The former can be done only once, and once you decide to be careful because you won't be able to return."/>
+	<tip id="97" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can take advantage of the world map, you can get a lot of information."/>
+	<tip id="98" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To make a world map the location of the taxi stand."/>
+	<tip id="99" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When you open a map of the world, is it possible to start the quest you can check which map."/>
+	<tip id="100" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can see a map of the world map, I."/>
+	<tip id="101" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="World map, you can see a map on the boss."/>
+	<tip id="102" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Now a lot of people wondering where to gather? \nWorld map, check out the hot place."/>
+	<tip id="103" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The doctor mainly in big cities, I can meet in the hospital."/>
+	<tip id="104" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The doctor receives a treatment, you can immediately restore condition."/>
+	<tip id="105" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Skill, open window, you can upgrade the skills they have learned."/>
+	<tip id="106" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Skill needed for the upgrade $item:40100001$ Most grocery trader."/>
+	<tip id="107" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Elite monsters or bosses need to upgrade the skill to red, blue, and green Crystal you can get."/>
+	<tip id="108" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you need to upgrade the skills of the rumors $item:40100022$\nNestled in the heart of the evil boss."/>
+	<tip id="109" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to upgrade a skill requires a special Crystal."/>
+	<tip id="110" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can also get the title to achieve the trophy. "/>
+	<tip id="111" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can pick up and pick up the trophy again, picking up the item Auto features to achieve the rewards you can get."/>
+	<tip id="112" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The taxi stop is found can be used behind the fortification."/>
+	<tip id="113" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="By examining the taxi stop, already found another taxi stop."/>
+	<tip id="114" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="25You can use the level when the taxi."/>
+	<tip id="115" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Taxi will arrive right in the verse."/>
+	<tip id="116" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Lotus air taxi you can use either the map or the map has already been found."/>
+	<tip id="117" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right clicking a different character to whisper, add friends, party invites, you can do a variety of jobs, such as trade."/>
+	<tip id="118" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right click in the passing character, inviting me to the party."/>
+	<tip id="119" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Party with up to 10 people can bear."/>
+	<tip id="120" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Those who have access to the same map, the community window."/>
+	<tip id="121" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right click on the other characters, or you can add friends from the community window."/>
+	<tip id="122" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right click on the other characters in the party invitation."/>
+	<tip id="123" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Click on the different characters send the character Wu blocking allows you to block various messages."/>
+	<tip id="124" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right click on another character 1:1 You can make a deal."/>
+	<tip id="125" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="TAB You can see the mini map by pressing loud."/>
+	<tip id="126" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Mini map icon when you rest the mouse overs NPCI can see the name of the map."/>
+	<tip id="127" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Press the settings button in the upper right corner of the map to the mini in many ways, you can hide the information."/>
+	<tip id="128" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="One such map at the top of the minimap and the characters will be displayed."/>
+	<tip id="129" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$skill:20000011$ Learning the skills to climb the cliffs."/>
+	<tip id="130" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$skill:20000011$ If you have not been able to move into the jump, take advantage of the skills where you can move easily."/>
+	<tip id="131" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When I got close to the monster able to catch."/>
+	<tip id="132" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$skill:20000021$ If you use, you can fly through the air."/>
+	<tip id="133" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Mounts can be used by double clicking on an item."/>
+	<tip id="134" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="After you have specified the quick item slots mounted when you use, you can fly."/>
+	<tip id="135" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Vehicles ride X Key is pressed you can use the unique skills of mounted."/>
+	<tip id="136" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Falls from high places, damage to ibeumyeo, let your guard down, the monument to the pallet."/>
+	<tip id="137" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000064$A variety of events. Events once upon a time."/>
+	<tip id="138" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="As soon as you click the event icon in the map of the world $map:02000064$ Can be taken."/>
+	<tip id="139" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Right click on the tab of the chat window you can set listens for."/>
+	<tip id="140" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To link to an item in the open items listens for items Shift+Try the click of a mouse."/>
+	<tip id="141" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When you enter a chat TabWhen a key is pressed \nYou can change the chat, it's easy to target."/>
+	<tip id="142" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the world to use the loudspeaker or channel loudspeaker requires renal in Medan."/>
+	<tip id="143" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Fights with other people you can kill mobs faster."/>
+	<tip id="144" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="People do not know if you are fighting with monsters, just don't be too safe!"/>
+	<tip id="145" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="A strong monster to fight both with the met."/>
+	<tip id="146" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="A strong monster and join forces with the fight all together."/>
+	<tip id="147" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Even if you have a party like everyone else when you can get the spoils with the monster attacks."/>
+	<tip id="148" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You don't need to have a fight with the party, and can get along with the spoils."/>
+	<tip id="149" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Megan Barrett still taking action in the market to purchase a new action."/>
+	<tip id="150" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The monument was laid when you cannot procure to pay to experience."/>
+	<tip id="151" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Monument rose from the status of damage for a while."/>
+	<tip id="152" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Get rid of another player to beat Gage monument in place of resurrection."/>
+	<tip id="153" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Combat impotence let wounded soul resurrection from the subject in your State HPIs zero, the steel monument."/>
+	<tip id="154" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="With the help of others when the steel monument."/>
+	<tip id="155" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Walk for health a short distance."/>
+	<tip id="156" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you get a special email just check it out."/>
+	<tip id="157" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:2000001$Guards of this rumor is not true called twins."/>
+	<tip id="158" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000374$Gender is nobody."/>
+	<tip id="159" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000106$ My man is warm only to women."/>
+	<tip id="160" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you are in front of the lever, pull."/>
+	<tip id="161" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to get a better look at their appearance to look good decorating the mouse wheel to zoom the camera using the."/>
+	<tip id="162" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you go to a place where untracked treasure box."/>
+	<tip id="163" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:2000161$Not find the items of this are being sent somewhere."/>
+	<tip id="164" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Fell to the ground after the items and 90 seconds Megan disappears."/>
+	<tip id="165" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The usual search well in places. Golden treasure box."/>
+	<tip id="166" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you have found a strange pictures from the scoreboard right-click, you can report to."/>
+	<tip id="167" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the '/Party invites character names'If you enter a\nThe name has been entered, you can invite them to the party character."/>
+	<tip id="168" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the '/Party opt-out'When you enter a\nYou can unsubscribe from the party which joined."/>
+	<tip id="169" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To create a Guild GKeys to try."/>
+	<tip id="170" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Create a Guild with like-minded friends."/>
+	<tip id="171" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="See all my Guild Guild and the Guild trophy trophy is the totality."/>
+	<tip id="172" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000001$In the Hall of flags \nThe Guild # 1 rank, personal trophy No. 1 trophy, the Guild # 1 is the battlefield."/>
+	<tip id="173" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000100$In the Hall of flags \nTrophy rank 1, 2, and 3 on the Guild's Guild mark is engraved."/>
+	<tip id="174" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000023$In the Hall of flags \nIndividual trophy rankings 1, 2, and 3 in the above profile photo engraved."/>
+	<tip id="175" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000064$In the Hall of flags \nGuild trophy and a personal trophy 1, 2, and 3 above."/>
+	<tip id="176" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000051$In the Hall of flags \nGuild Championship carving Guild marks 1, 2, and 3 above."/>
+	<tip id="177" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000217$In the Hall of flags \nGuild Championship carving Guild marks 1, 2, and 3 above."/>
+	<tip id="178" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Hall of Fame flag rank is updated once a day."/>
+	<tip id="179" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you investigate the flag of honor more in the view, you can see a ranking mate."/>
+	<tip id="180" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The Guild reward depending on the outcome of the Championship $item:90000006$ You can get."/>
+	<tip id="181" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the '/Guild invite character names'If you enter a\nThe name has been entered, you can invite them to the Guild I belong to the character."/>
+	<tip id="182" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000620$ $map:02000001$The battle of equipment trader."/>
+	<tip id="183" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000626$ $map:02000001$Mounts of the trader."/>
+	<tip id="184" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000001$Of $npc:11000620$And $npc:11000626$As to the\nIf you want to purchase the item (s) $item:90000006$ Required."/>
+	<tip id="185" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000508$ Popular for several reasons."/>
+	<tip id="186" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000203$The blacksmith in $npc:11000508$ The item stronger."/>
+	<tip id="187" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The crowd tried to get Chan which fails, the device can be damaged\nDamaged equipment is no longer being Chan cannot update."/>
+	<tip id="188" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="At the time of the battle with other players, which is the effect of increased equipment calibration with Chan."/>
+	<tip id="189" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$ Iron only sunny."/>
+	<tip id="190" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$ Holding for the Shu Avry body mafia daughter."/>
+	<tip id="191" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$To $item:40100023$ If you leave \nShe replaced them with precious antiques taken from the House."/>
+	<tip id="192" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Today $npc:11000511$Maids of meiling, which is $item:40100023$ Interchangeable equipment package."/>
+	<tip id="193" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000001$The level 1 characters:1You can emulate your skills as a."/>
+	<tip id="194" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000001$The winners of the new Challenger packs a."/>
+	<tip id="195" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000002$A maximum of ten characters, you can emulate your skills."/>
+	<tip id="196" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="What's happening in the world, check out the new news wonder if Mather views."/>
+	<tip id="197" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="NPC, For a detailed description of an item extracted, Monster, \nCheck out the view, mate."/>
+	<tip id="198" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="World-wide real estate market wonder if \nCheck out the view, mate."/>
+	<tip id="199" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="This inconvenience to the other characters if you have a report."/>
+	<tip id="200" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you do not want to see the images come up on the scoreboard \nRight click on the scoreboard."/>
+	<tip id="201" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="A nasty thing to say when you report a person's chat \nWhere is handled those who chat since the blinds."/>
+	<tip id="202" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you report an unpleasant Billboard image, profile images \nSince the image is handled those blinds."/>
+	<tip id="203" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000514$ So far, the only one you can also jailbreak did not suffer."/>
+	<tip id="204" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000514$Give bail to jail can be released \nRumor has it, but the fact that it wasn't OK."/>
+	<tip id="205" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Note the strong penalties received a false report."/>
+	<tip id="206" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you repeatedly to damage others, Velma's judgment."/>
+	<tip id="207" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Velma received the judgment of chat, UGC Wi-Fi is limited."/>
+	<tip id="208" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you have no reflection in the prison station, Velma's judgment in\nYou can escape more quickly."/>
+	<tip id="209" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you make a false report of false self, you can go to jail."/>
+	<tip id="210" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000062$In the $npc:11000585$ Had a tour of the prison."/>
+	<tip id="211" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Shadow world is distorted spacetime breaks the dark world."/>
+	<tip id="212" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="A break through the shadow world hidden all over the world is rumored."/>
+	<tip id="213" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Shadow, you can investigate the monument distorted spacetime may go through the cracks."/>
+	<tip id="214" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Wrath of the gods in the world only to shadow the shields pulryeoseo \nYou can emulate the right skills with other characters."/>
+	<tip id="215" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Invite your friends or Guild and group conversations."/>
+	<tip id="216" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000216$The new class of items over the deal."/>
+	<tip id="217" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The black crusade is $map:02000216$ The fact that it is an open secret that operates."/>
+	<tip id="218" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Made in the name of the profile when the Master Maid of the title can be set."/>
+	<tip id="219" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Made on behalf of the House, it is not possible to give."/>
+	<tip id="220" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000790$, $npc:11000792$Like Alchemy, this specialty is made."/>
+	<tip id="221" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000770$, $npc:11000780$There are also cooking skills is like a maid."/>
+	<tip id="222" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000787$, $npc:11000779$There are also specialty drinks like manufacturing is made."/>
+	<tip id="223" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000789$, $npc:11000512$The specialty necklace production is like a maid."/>
+	<tip id="224" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000777$, $npc:11000544$This specialty is made like a ring."/>
+	<tip id="225" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Maid $npc:11000770$ Got their best dish is the speciality grilled eel."/>
+	<tip id="226" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Maid $npc:11000786$To $npc:11000015$ Tokyo's target."/>
+	<tip id="227" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Maid $npc:11000777$ $npc:11000075$Pet cat Inn $npc:11000708$It is a descendant of."/>
+	<tip id="228" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Butler $npc:11000787$ $map:02000100$Which never worked as a bartender at the bar."/>
+	<tip id="229" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Butler $npc:11000791$The thing is full of stories of\nHe picked up all kinds of rumors, and the boy heard the injured."/>
+	<tip id="230" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Butler $npc:11000790$ Never to believe fate is the look."/>
+	<tip id="231" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Making a maid or Butler in every specialty."/>
+	<tip id="232" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Maid or Butler is cooking, beverage manufacturing, Alchemy, necklace ring, making one of the specialty."/>
+	<tip id="233" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Dream your dream, dream wise Victoria train educational institutions for young people."/>
+	<tip id="234" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Transparent badge allows you to hide the appearance of the equipment with."/>
+	<tip id="235" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="At the same time, they can receive only one souvenir buffs."/>
+	<tip id="236" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="It is home to the body early ape round shower booth setup."/>
+	<tip id="237" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the /? Take a look at the writing. Chat related commands is unknown."/>
+	<tip id="238" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The outspoken and say Let's use."/>
+	<tip id="239" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Onyx-exhausters are steadily being upgraded. The most recent version is NSD-3200."/>
+	<tip id="240" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="New or higher rating when you explode the item of $item:40100024$ You can get."/>
+	<tip id="241" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Maximum capacity of total guests in 50 of the Guild."/>
+	<tip id="242" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000284$ Glass shoes he or she has lost."/>
+	<tip id="243" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000145$ In the future."/>
+	<tip id="244" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000144$As to the $item:13200028$ You can get."/>
+	<tip id="245" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Megan Barrett market premium shop selling special items only."/>
+	<tip id="246" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Megan Barrett market designer's shop\nOther players can buy items for this design."/>
+	<tip id="247" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Designer's shop and sell my designs to other players."/>
+	<tip id="248" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="1:1 Megan cow deal is limited. Elite rating or less items trading."/>
+	<tip id="249" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The weapon can be worn, regardless of the profession\nIf you wear a different profession of weapons XKey to regular attacks."/>
+	<tip id="250" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The mail item and cannot be presented to Medan."/>
+	<tip id="251" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In the center of the infringement UGC You can also report the relevant damage."/>
+	<tip id="252" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you have questions on listens for Monster &quot;/The name of the search monsters&quot; Try searching by."/>
+	<tip id="253" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Rosetta uses a mirror of the beauty salon and turn the CAP."/>
+	<tip id="254" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="In the shop equipment item icon &quot;Shift + Right click on the&quot; The\nWhen wearing the item, you can see a preview of the look."/>
+	<tip id="255" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The other player characters, click the character's right, you can see the information."/>
+	<tip id="256" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Listens for the '/Move the channel channel number'When you enter a\nYou can easily change the channel."/>
+	<tip id="257" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Rune Lund, a fusion of the blog radar black tiles crack of the pole through the spells hit."/>
+	<tip id="258" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The prophets of witchcraft over the runes, Britt and examine the strongest Pell KIA\n'Te Rune sword LIV'Established with an organization called runes blog radar."/>
+	<tip id="259" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Carl Liv 8 black absolute inaction proved to one of the eight\nRune is a glorious title given only to the blog radar."/>
+	<tip id="260" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001229$ Getting the straight character and come off looks women\nCarl Liv 8 brought many followers most of the sword."/>
+	<tip id="261" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Runes blog stay on the radar of the elders,\nEmphasis is placed on the teaching of so-called baz."/>
+	<tip id="262" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Runes in order to hone a new skill blog radar\nYou will need the wisdom of the ancestors left behind baz."/>
+	<tip id="263" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Use a sharp sword called the blog radar Rune blade."/>
+	<tip id="264" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Runes blog radar blades flame, Frost, lightning\nYou can fight with the given properties."/>
+	<tip id="265" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The power of a mysterious runes Rune blog radar\nYou can use a variety of in a combat situation."/>
+	<tip id="266" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001229$It is a blunt knife rib of Ireland called of the flap."/>
+	<tip id="267" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npcName:11001230$There is no rumor is not true to the belly."/>
+	<tip id="268" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000781$ In the past month was the only angler to pretend there are rumors."/>
+	<tip id="269" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$item:40100024$ It turned out that the overthrow of the style statement is not true."/>
+	<tip id="270" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="High levels of fish are likely to walk away."/>
+	<tip id="271" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can swim, fishing can be done everywhere.\nHowever, the water will not be able to throw the fishing rod."/>
+	<tip id="272" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can use fishing bait, you can increase your chances of success."/>
+	<tip id="273" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="More big fish bait to lure is rumored."/>
+	<tip id="274" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to know where the fish live fish are also laid out in a sense."/>
+	<tip id="275" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="More fish from the higher stages of fishing\nMany times, you can seize the fishing skill."/>
+	<tip id="276" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Fish is the place to buy each and every one is different."/>
+	<tip id="277" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Special items, fishing is fishing."/>
+	<tip id="278" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Want to catch fish, you can get pay for the experience."/>
+	<tip id="279" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The higher the rating of the rare fish."/>
+	<tip id="280" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The appearance of the spectacular, as the early steps of the angler."/>
+	<tip id="281" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Fishing fish, but fishing is not able to."/>
+	<tip id="282" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="World map ToolTip to determine if any steps which map into fishing."/>
+	<tip id="283" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000781$ $map:02000002$Fishing supplies to sell."/>
+	<tip id="284" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001449$ $map:02010002$Fishing supplies to sell."/>
+	<tip id="285" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to be the King of fishing, wherever you look on the water, fishing rods and toss!"/>
+	<tip id="286" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Moving in places where fishing is not allowed."/>
+	<tip id="287" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The rare fish than to the\nSpecial bait is rumored."/>
+	<tip id="288" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Fits on the steps to my anglers catch fish Aya \nFishing skill."/>
+	<tip id="289" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The mascot of the Royal Academy of music, the more keys and more keys view."/>
+	<tip id="290" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="President of the Royal Academy of music the more key the song Didi Ana reports\nInspired by the music of the two was popularized."/>
+	<tip id="291" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The Royal Academy of music, music for the popularization of\nAnyone can play musical instruments and sheet music."/>
+	<tip id="292" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The Royal Academy of music executives $npc:11001320$ $npc:11001322$\nA dear friend."/>
+	<tip id="293" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Other people bought the sheet music you can play."/>
+	<tip id="294" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you have a party at the House near the instrument ensemble."/>
+	<tip id="295" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Make your own by using a blank sheet music songs."/>
+	<tip id="296" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="A lot of skill in playing increases, the sheet music\nMore spectacular action playing an instrument."/>
+	<tip id="297" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Instruments without sheet music using improvisation."/>
+	<tip id="298" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="I have used the instrument as a sheet music\nSheet music can be played."/>
+	<tip id="299" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you play an instrument, played nearby, you can hear other people."/>
+	<tip id="300" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you don't want to hear the sound play\nPlaying an instrument in my sound Preferences tab to reduce the sound."/>
+	<tip id="301" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Has been blocked by the character's can't hear the sound playing."/>
+	<tip id="302" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000001$Of $npc:11001320$ $map:02010002$Of $npc:11001322$\nPiano and guitar for sale."/>
+	<tip id="303" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To purchase playing and related articles $map:02000001$In $npc:11001320$ Meet the."/>
+	<tip id="304" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="To purchase playing and related articles\n$map:02010002$In the $npc:11001322$ Meet the."/>
 </ms2>

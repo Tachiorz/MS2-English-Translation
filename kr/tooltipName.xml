@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ms2>	
 	<!-- Construction mode UI -->
-    <key id="0000009" name="&lt;FONT color='#FFD200' size='15' &gt;Select the next item&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;Key is pressed, the currently selected item\nSelect the next item." />
-    <key id="0000010" name="&lt;FONT color='#FFD200' size='15' &gt;Exit&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;Construction mode.&lt;/FONT&gt;" />
-    <key id="0000011" name="&lt;FONT color='#FFD200' size='15' &gt;One comment&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;Cursor up.\nMoves the cursor to the item on the top bunk can be installed by." />
-    <key id="0000012" name="&lt;FONT color='#FFD200' size='15' &gt;To recall&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;The recovered items will be moved to your belongings in. \nThe position of the cursor in the item.\nYou can reclaim the items in my possession.&lt;/FONT&gt;" />
-    <key id="0000013" name="&lt;FONT color='#FFD200' size='15' &gt;To rotate&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;You can turn the direction of the item, which is placed.\nThe item is rotated in the position of the cursor.\nYou can rotate the items after the placement" />
-    <key id="0000015" name="&lt;FONT color='#FFD200' size='15' &gt;One down&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;Moves the cursor to the lower one.\nGets the cursor can be replaced, even the bottom onto the floor." />
-    <key id="0000016" name="&lt;FONT color='#FFD200' size='15' &gt;To be placed&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;Holding the item.\nThe location of the cursor is placed on the item." />
+    <key id="0000009" name="&lt;FONT color='#FFD200' size='15' &gt;Select the next item&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;Key is pressed, the currently selected item\nSelect the next item."/>
+    <key id="0000010" name="&lt;FONT color='#FFD200' size='15' &gt;Exit&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;Construction mode.&lt;/FONT&gt;"/>
+    <key id="0000011" name="&lt;FONT color='#FFD200' size='15' &gt;One comment&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;Cursor up.\nMoves the cursor to the item on the top bunk can be installed by."/>
+    <key id="0000012" name="&lt;FONT color='#FFD200' size='15' &gt;To recall&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;The recovered items will be moved to your belongings in. \nThe position of the cursor in the item.\nYou can reclaim the items in my possession.&lt;/FONT&gt;"/>
+    <key id="0000013" name="&lt;FONT color='#FFD200' size='15' &gt;To rotate&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;You can turn the direction of the item, which is placed.\nThe item is rotated in the position of the cursor.\nYou can rotate the items after the placement"/>
+    <key id="0000015" name="&lt;FONT color='#FFD200' size='15' &gt;One down&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;Moves the cursor to the lower one.\nGets the cursor can be replaced, even the bottom onto the floor."/>
+    <key id="0000016" name="&lt;FONT color='#FFD200' size='15' &gt;To be placed&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;Holding the item.\nThe location of the cursor is placed on the item."/>
 
 	
 

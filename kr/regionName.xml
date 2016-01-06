@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsing this data used do not directly modify the -->
-<ms2>
-	<key id="1" name="Amherst" />
-	<key id="2" name="Lith Harbor" />
-	<key id="3" name="Tria" />
-	<key id="4" name="Kerning City" />
-	<key id="5" name="Henesys" />
-	<key id="6" name="Perion" />
-	<key id="7" name="Ellinia" />
-	<key id="8" name="Talisker" />
-	<key id="9" name="Ludibrium Crack" />
-	<key id="11" name="Ludalli City" />
-	<key id="12" name="Minar" />
-	<key id="13" name="Nazca-Le-Temple entrance" />
-	<key id="14" name="Carl Liv fortress" />
-	<key id="100" name="Pekka Kana 2 d v" />
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Parsing this data used do not directly modify the --><ms2>
+	<key id="1" name="Amherst"/>
+	<key id="2" name="Lith Harbor"/>
+	<key id="3" name="Tria"/>
+	<key id="4" name="Kerning City"/>
+	<key id="5" name="Henesys"/>
+	<key id="6" name="Perion"/>
+	<key id="7" name="Ellinia"/>
+	<key id="8" name="Talisker"/>
+	<key id="9" name="Ludibrium Crack"/>
+	<key id="11" name="Ludalli City"/>
+	<key id="12" name="Minar"/>
+	<key id="13" name="Nazca-Le-Temple entrance"/>
+	<key id="14" name="Carl Liv fortress"/>
+	<key id="100" name="Pekka Kana 2 d v"/>
 </ms2>

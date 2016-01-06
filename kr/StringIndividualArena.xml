@@ -1,24 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- This file is auto-generated files. Do not directly modify the -->
-<ms2>
-	<key id="s_arenaname_1" name="Red gauntlet chapter" />
-	<key id="s_arenadetail_1" name="A maximum of ten warriors in turn 1:1 The last surviving woman to unfold a showdown 
-To win the battle. However, no one knows in what order will the confrontation is unknown.
-
-&lt;font color='#FFD200'&gt;Participation conditions: 50Level
-Involved personnel: Minimum 5 people~Up to 10 people&lt;/font&gt;" />
-	<key id="s_arenaname_2" name="Shedding mine" />
-	<key id="s_arenadetail_2" name="A maximum of ten warriors attacking each other over who is more of a warrior to his knees 
-Compete in a battle that you have created. 
-If you get a score, the other yielded this I could succumb to score. 
-5Minutes going down the opponent held the highest score she should win.
-
-&lt;font color='#FFD200'&gt;Participation conditions: 50Level
-Involved personnel: Minimum 5 people~Up to 10 people&lt;/font&gt;" />
-	<key id="s_arenaname_3" name="Barvaux of treasure island" />
-	<key id="s_arenadetail_3" name="The blue team and red team took over the flag or divided into treasure 
-Pirate treasure your opponents score more points for the team victory.
-
-&lt;font color='#FFD200'&gt;Participation conditions: 50Level
-Involved personnel: 20(Each team 10 persons each)&lt;/font&gt;" />
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This file is auto-generated files. Do not directly modify the --><ms2>
+	<key id="s_arenaname_1" name="Red gauntlet chapter"/>
+	<key id="s_arenadetail_1" name="A maximum of ten warriors in turn 1:1 The last surviving woman to unfold a showdown  To win the battle. However, no one knows in what order will the confrontation is unknown.  &lt;font color='#FFD200'&gt;Participation conditions: 50Level Involved personnel: Minimum 5 people~Up to 10 people&lt;/font&gt;"/>
+	<key id="s_arenaname_2" name="Shedding mine"/>
+	<key id="s_arenadetail_2" name="A maximum of ten warriors attacking each other over who is more of a warrior to his knees  Compete in a battle that you have created.  If you get a score, the other yielded this I could succumb to score.  5Minutes going down the opponent held the highest score she should win.  &lt;font color='#FFD200'&gt;Participation conditions: 50Level Involved personnel: Minimum 5 people~Up to 10 people&lt;/font&gt;"/>
+	<key id="s_arenaname_3" name="Barvaux of treasure island"/>
+	<key id="s_arenadetail_3" name="The blue team and red team took over the flag or divided into treasure  Pirate treasure your opponents score more points for the team victory.  &lt;font color='#FFD200'&gt;Participation conditions: 50Level Involved personnel: 20(Each team 10 persons each)&lt;/font&gt;"/>
 </ms2>

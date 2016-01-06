@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ms2>
   <type id="1" name="itemName"/>  
   <type id="2" name="npcName"/>
@@ -16,10 +16,10 @@
   <type id="14" name="actionName"/>
   <type id="15" name="mapNamePortalTooltip"/>
   <type id="16" name="interactName"/>
-  <type id="17" name="raceName" parser="raceName"  />
-  <type id="18" name="regionName" />
-  <type id="19" name="npcTitle" />
-  <type id="20" name="stringFieldEnterance" />
+  <type id="17" name="raceName" parser="raceName"/>
+  <type id="18" name="regionName"/>
+  <type id="19" name="npcTitle"/>
+  <type id="20" name="stringFieldEnterance"/>
   <type id="21" name="stringFieldEnterance" parser="customValue" parserValue="uiDescription"/>
   <type id="22" name="titleName"/>
   <type id="23" name="channelGroupName"/>

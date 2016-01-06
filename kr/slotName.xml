@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ms2>
   <key id="10" name="Face Decoration"/>
   <key id="11" name="Eye Decoration"/>
@@ -15,17 +15,16 @@
   <key id="22" name="Overall"/>
   
   
-  <key id="30" name="Right-handed Blunt" />
-  <key id="31" name="Two-handed Dagger" />
-  <key id="32" name="Right-handed Long Sword" />
-  <key id="33" name="Right-handed Scepter" />
-  <key id="34" name="Two-handed Throwing Star" />
-  <key id="40" name="Left-handed Spellbook" />
-  <key id="41" name="Left-handed Shield" />
-  <key id="50" name="Two-handed Large Sword" />
-  <key id="51" name="Two-handed Bow" />
-  <key id="52" name="Two-handed Staff" />
-  <key id="53" name="Two-handed Cannon" />
-  <key id="54" name="Two-handed Blade" />
+  <key id="30" name="Right-handed Blunt"/>
+  <key id="31" name="Two-handed Dagger"/>
+  <key id="32" name="Right-handed Long Sword"/>
+  <key id="33" name="Right-handed Scepter"/>
+  <key id="34" name="Two-handed Throwing Star"/>
+  <key id="40" name="Left-handed Spellbook"/>
+  <key id="41" name="Left-handed Shield"/>
+  <key id="50" name="Two-handed Large Sword"/>
+  <key id="51" name="Two-handed Bow"/>
+  <key id="52" name="Two-handed Staff"/>
+  <key id="53" name="Two-handed Cannon"/>
+  <key id="54" name="Two-handed Blade"/>
  </ms2>
-

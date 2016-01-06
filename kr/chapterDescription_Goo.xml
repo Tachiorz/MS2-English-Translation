@@ -1,75 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsing this data used do not directly modify the -->
-<ms2>
-	<chapter id="3000" name="Tell it to Santiago" isTutorial="" regionID="" />
-	<chapter id="3001" name="The sight of a stranger" isTutorial="" regionID="" />
-	<chapter id="3002" name="The owner lost balloon" isTutorial="" regionID="" />
-	<chapter id="3003" name="Ordered drinks came out" isTutorial="" regionID="" />
-	<chapter id="3004" name="Collapsing floats" isTutorial="" regionID="" />
-	<chapter id="3005" name="Earthquake damage recovery" isTutorial="" regionID="" />
-	<chapter id="3006" name="Unfinished panic" isTutorial="" regionID="" />
-	<chapter id="3007" name="Banquet preparation" isTutorial="" regionID="" />
-	<chapter id="3008" name="The book is in place, reading" isTutorial="" regionID="" />
-	<chapter id="3009" name="The legs are not" isTutorial="" regionID="" />
-	<chapter id="3010" name="My feet slow sad snail" isTutorial="" regionID="" />
-	<chapter id="3011" name="Award-winning floral fragrance" isTutorial="" regionID="" />
-	<chapter id="3012" name="The grass is cut left the spot shown" isTutorial="" regionID="" />
-	<chapter id="3013" name="Boy injured in favour of" isTutorial="" regionID="" />
-	<chapter id="3014" name="Insufficient inventory" isTutorial="" regionID="" />
-	<chapter id="3015" name="Thirsty Park caretaker" isTutorial="" regionID="" />
-	<chapter id="3016" name="Paris blowing shop" isTutorial="" regionID="" />
-	<chapter id="3017" name="Anxiety about reality" isTutorial="" regionID="" />
-	<chapter id="3018" name="Around the construction site clean-up" isTutorial="" regionID="" />
-	<chapter id="3019" name="Twinkling" isTutorial="" regionID="" />
-	<chapter id="3020" name="Look for the origin of life" isTutorial="" regionID="" />
-	<chapter id="3021" name="Morning waking sound" isTutorial="" regionID="" />
-	<chapter id="3022" name="Alone in the lonely" isTutorial="" regionID="" />
-	<chapter id="3023" name="How to avoid the rain" isTutorial="" regionID="" />
-	<chapter id="3024" name="The God of the" isTutorial="" regionID="" />
-	<chapter id="3025" name="Keep your crops" isTutorial="" regionID="" />
-	<chapter id="3026" name="Beyond the Rainbow yen (one way) what?" isTutorial="" regionID="" />
-	<chapter id="3027" name="Rumors of betrayal" isTutorial="" regionID="" />
-	<chapter id="3028" name="The expansion of the cache Mart" isTutorial="" regionID="" />
-	<chapter id="3029" name="Beach residence" isTutorial="" regionID="" />
-	<chapter id="3030" name="The dream of immortality" isTutorial="" regionID="" />
-	<chapter id="3031" name="OffBeat asked" isTutorial="" regionID="" />
-	<chapter id="3032" name="Betrayal and exclusion in anger" isTutorial="" regionID="" />
-	<chapter id="3033" name="Pirates rule the roost will now stop" isTutorial="" regionID="" />
-	<chapter id="3034" name="His secret mission" isTutorial="" regionID="" />
-	<chapter id="3035" name="Scapegoat people" isTutorial="" regionID="" />
-	<chapter id="3036" name="The Devil&#8217;s calling" isTutorial="" regionID="" />
-	<chapter id="3037" name="For the safety of a lumberjack" isTutorial="" regionID="" />
-	<chapter id="3038" name="Research on the interference noise" isTutorial="" regionID="" />
-	<chapter id="3039" name="The dream is not a dream garden" isTutorial="" regionID="" />
-	<chapter id="3040" name="An unwelcome gift" isTutorial="" regionID="" />
-	<chapter id="3041" name="Warped spacetime" isTutorial="" regionID="" />
-	<chapter id="3042" name="Ready for the show" isTutorial="" regionID="" />
-	<chapter id="3043" name="Ground-up paradise" isTutorial="" regionID="" />
-	<chapter id="3044" name="The dream is reality, whether" isTutorial="" regionID="" />
-	<chapter id="3045" name="Accompanied by dangerous" isTutorial="" regionID="" />
-	<chapter id="3046" name="In the shadow of the development" isTutorial="" regionID="" />
-	<chapter id="3047" name="Kaka tribal hero" isTutorial="" regionID="" />
-	<chapter id="3048" name="Heroes Remember" isTutorial="" regionID="" />
-	<chapter id="3049" name="Incognito-House" isTutorial="" regionID="" />
-	<chapter id="3050" name="Shu Chang" isTutorial="" regionID="" />
-	<chapter id="3051" name="Present to bother" isTutorial="" regionID="" />
-	<chapter id="3052" name="Not easy making money" isTutorial="" regionID="" />
-	<chapter id="3053" name="Fidgety reason" isTutorial="" regionID="" />
-	<chapter id="3054" name="The culmination of the pushy" isTutorial="" regionID="" />
-	<chapter id="3055" name="Crisis, foot hen s" isTutorial="" regionID="" />
-	<chapter id="3056" name="The number of hens I" isTutorial="" regionID="" />
-	<chapter id="3057" name="Hi, my friend" isTutorial="" regionID="" />
-	<chapter id="3058" name="The remaining parties are struggling" isTutorial="" regionID="" />
-	<chapter id="3059" name="Precious cultural heritage" isTutorial="" regionID="" />
-	<chapter id="3060" name="Believe it or not" isTutorial="" regionID="" />
-	<chapter id="3061" name="Weapons collector&#8217;s philosophy" isTutorial="" regionID="" />
-	<chapter id="3062" name="$npc:11001181$In favor of" isTutorial="" regionID="" />
-	<chapter id="3063" name="Challenge! Fishing King" isTutorial="" regionID="" />
-	<chapter id="3064" name="How to keep your village" isTutorial="" regionID="" />
-	<chapter id="3065" name="A new beginning in the fight against bugs" isTutorial="" regionID="" />
-	<chapter id="3066" name="$map:02010022$New family" isTutorial="" regionID="" />
-	<chapter id="3067" name="Racing Stadium in their stories" isTutorial="" regionID="" />
-	<chapter id="3068" name="The legs are shaky because?" isTutorial="" regionID="" />
-	<chapter id="3069" name="High income, high risk" isTutorial="" regionID="" />
-	<chapter id="3070" name="Radiant dream of desert development" isTutorial="" regionID="" />
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Parsing this data used do not directly modify the --><ms2>
+	<chapter id="3000" name="Tell it to Santiago" isTutorial="" regionID=""/>
+	<chapter id="3001" name="The sight of a stranger" isTutorial="" regionID=""/>
+	<chapter id="3002" name="The owner lost balloon" isTutorial="" regionID=""/>
+	<chapter id="3003" name="Ordered drinks came out" isTutorial="" regionID=""/>
+	<chapter id="3004" name="Collapsing floats" isTutorial="" regionID=""/>
+	<chapter id="3005" name="Earthquake damage recovery" isTutorial="" regionID=""/>
+	<chapter id="3006" name="Unfinished panic" isTutorial="" regionID=""/>
+	<chapter id="3007" name="Banquet preparation" isTutorial="" regionID=""/>
+	<chapter id="3008" name="The book is in place, reading" isTutorial="" regionID=""/>
+	<chapter id="3009" name="The legs are not" isTutorial="" regionID=""/>
+	<chapter id="3010" name="My feet slow sad snail" isTutorial="" regionID=""/>
+	<chapter id="3011" name="Award-winning floral fragrance" isTutorial="" regionID=""/>
+	<chapter id="3012" name="The grass is cut left the spot shown" isTutorial="" regionID=""/>
+	<chapter id="3013" name="Boy injured in favour of" isTutorial="" regionID=""/>
+	<chapter id="3014" name="Insufficient inventory" isTutorial="" regionID=""/>
+	<chapter id="3015" name="Thirsty Park caretaker" isTutorial="" regionID=""/>
+	<chapter id="3016" name="Paris blowing shop" isTutorial="" regionID=""/>
+	<chapter id="3017" name="Anxiety about reality" isTutorial="" regionID=""/>
+	<chapter id="3018" name="Around the construction site clean-up" isTutorial="" regionID=""/>
+	<chapter id="3019" name="Twinkling" isTutorial="" regionID=""/>
+	<chapter id="3020" name="Look for the origin of life" isTutorial="" regionID=""/>
+	<chapter id="3021" name="Morning waking sound" isTutorial="" regionID=""/>
+	<chapter id="3022" name="Alone in the lonely" isTutorial="" regionID=""/>
+	<chapter id="3023" name="How to avoid the rain" isTutorial="" regionID=""/>
+	<chapter id="3024" name="The God of the" isTutorial="" regionID=""/>
+	<chapter id="3025" name="Keep your crops" isTutorial="" regionID=""/>
+	<chapter id="3026" name="Beyond the Rainbow yen (one way) what?" isTutorial="" regionID=""/>
+	<chapter id="3027" name="Rumors of betrayal" isTutorial="" regionID=""/>
+	<chapter id="3028" name="The expansion of the cache Mart" isTutorial="" regionID=""/>
+	<chapter id="3029" name="Beach residence" isTutorial="" regionID=""/>
+	<chapter id="3030" name="The dream of immortality" isTutorial="" regionID=""/>
+	<chapter id="3031" name="OffBeat asked" isTutorial="" regionID=""/>
+	<chapter id="3032" name="Betrayal and exclusion in anger" isTutorial="" regionID=""/>
+	<chapter id="3033" name="Pirates rule the roost will now stop" isTutorial="" regionID=""/>
+	<chapter id="3034" name="His secret mission" isTutorial="" regionID=""/>
+	<chapter id="3035" name="Scapegoat people" isTutorial="" regionID=""/>
+	<chapter id="3036" name="The Devil's calling" isTutorial="" regionID=""/>
+	<chapter id="3037" name="For the safety of a lumberjack" isTutorial="" regionID=""/>
+	<chapter id="3038" name="Research on the interference noise" isTutorial="" regionID=""/>
+	<chapter id="3039" name="The dream is not a dream garden" isTutorial="" regionID=""/>
+	<chapter id="3040" name="An unwelcome gift" isTutorial="" regionID=""/>
+	<chapter id="3041" name="Warped spacetime" isTutorial="" regionID=""/>
+	<chapter id="3042" name="Ready for the show" isTutorial="" regionID=""/>
+	<chapter id="3043" name="Ground-up paradise" isTutorial="" regionID=""/>
+	<chapter id="3044" name="The dream is reality, whether" isTutorial="" regionID=""/>
+	<chapter id="3045" name="Accompanied by dangerous" isTutorial="" regionID=""/>
+	<chapter id="3046" name="In the shadow of the development" isTutorial="" regionID=""/>
+	<chapter id="3047" name="Kaka tribal hero" isTutorial="" regionID=""/>
+	<chapter id="3048" name="Heroes Remember" isTutorial="" regionID=""/>
+	<chapter id="3049" name="Incognito-House" isTutorial="" regionID=""/>
+	<chapter id="3050" name="Shu Chang" isTutorial="" regionID=""/>
+	<chapter id="3051" name="Present to bother" isTutorial="" regionID=""/>
+	<chapter id="3052" name="Not easy making money" isTutorial="" regionID=""/>
+	<chapter id="3053" name="Fidgety reason" isTutorial="" regionID=""/>
+	<chapter id="3054" name="The culmination of the pushy" isTutorial="" regionID=""/>
+	<chapter id="3055" name="Crisis, foot hen s" isTutorial="" regionID=""/>
+	<chapter id="3056" name="The number of hens I" isTutorial="" regionID=""/>
+	<chapter id="3057" name="Hi, my friend" isTutorial="" regionID=""/>
+	<chapter id="3058" name="The remaining parties are struggling" isTutorial="" regionID=""/>
+	<chapter id="3059" name="Precious cultural heritage" isTutorial="" regionID=""/>
+	<chapter id="3060" name="Believe it or not" isTutorial="" regionID=""/>
+	<chapter id="3061" name="Weapons collector's philosophy" isTutorial="" regionID=""/>
+	<chapter id="3062" name="$npc:11001181$In favor of" isTutorial="" regionID=""/>
+	<chapter id="3063" name="Challenge! Fishing King" isTutorial="" regionID=""/>
+	<chapter id="3064" name="How to keep your village" isTutorial="" regionID=""/>
+	<chapter id="3065" name="A new beginning in the fight against bugs" isTutorial="" regionID=""/>
+	<chapter id="3066" name="$map:02010022$New family" isTutorial="" regionID=""/>
+	<chapter id="3067" name="Racing Stadium in their stories" isTutorial="" regionID=""/>
+	<chapter id="3068" name="The legs are shaky because?" isTutorial="" regionID=""/>
+	<chapter id="3069" name="High income, high risk" isTutorial="" regionID=""/>
+	<chapter id="3070" name="Radiant dream of desert development" isTutorial="" regionID=""/>
 </ms2>
