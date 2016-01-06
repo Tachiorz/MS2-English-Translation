@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ms2>
-	<key id="1216172113000001" npc="Mint" name="This is the default Ambassador 1" />
-	<key id="1216172113000002" npc="Mint" name="This is the default Ambassador 2" />
-	<key id="1216172113000003" npc="Mint" name="This is the default Ambassador 3" />
-	<key id="1216172113000004" npc="Mint" name="This is the default Ambassador 4" />
-	<key id="1216172113000005" npc="Mint" name="This is a basic metabolism five" />
-	<key id="1216172113000006" npc="Mint" name="Hungry Bob give me 1" />
-	<key id="1216172113000007" npc="Mint" name="Hungry Bob give me 2" />
-	<key id="1216172113000008" npc="Mint" name="I pulled out and lay&#8217;s 1" />
-	<key id="1216172113000009" npc="Mint" name="I pulled out and lay&#8217;s 2" />
-	<key id="1216172113000010" npc="Mint" name="I&#8217;m happy for Bob 1" />
-	<key id="1216172113000011" npc="Mint" name="I&#8217;m happy for Bob 2" />
-	<key id="1216172113000012" npc="Mint" name="Skill write! 1" />
-	<key id="1216172113000013" npc="Mint" name="Skill write! 2" />
-	<key id="1216172113000014" npc="Mint" name="Potion was all set. 1" />
-	<key id="1216172113000015" npc="Mint" name="Potion was all set. 2" />
-	<key id="1216172113000016" npc="Mint" name="Master I. 1" />
-	<key id="1216172113000017" npc="Mint" name="Master I. 2" />
+	<key id="1216172113000001" npc="Mint" name="This is the default Ambassador 1"/>
+	<key id="1216172113000002" npc="Mint" name="This is the default Ambassador 2"/>
+	<key id="1216172113000003" npc="Mint" name="This is the default Ambassador 3"/>
+	<key id="1216172113000004" npc="Mint" name="This is the default Ambassador 4"/>
+	<key id="1216172113000005" npc="Mint" name="This is a basic metabolism five"/>
+	<key id="1216172113000006" npc="Mint" name="Hungry Bob give me 1"/>
+	<key id="1216172113000007" npc="Mint" name="Hungry Bob give me 2"/>
+	<key id="1216172113000008" npc="Mint" name="I pulled out and lay's 1"/>
+	<key id="1216172113000009" npc="Mint" name="I pulled out and lay's 2"/>
+	<key id="1216172113000010" npc="Mint" name="I'm happy for Bob 1"/>
+	<key id="1216172113000011" npc="Mint" name="I'm happy for Bob 2"/>
+	<key id="1216172113000012" npc="Mint" name="Skill write! 1"/>
+	<key id="1216172113000013" npc="Mint" name="Skill write! 2"/>
+	<key id="1216172113000014" npc="Mint" name="Potion was all set. 1"/>
+	<key id="1216172113000015" npc="Mint" name="Potion was all set. 2"/>
+	<key id="1216172113000016" npc="Mint" name="Master I. 1"/>
+	<key id="1216172113000017" npc="Mint" name="Master I. 2"/>
 </ms2>

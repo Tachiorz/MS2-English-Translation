@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsing this data used do not directly modify the -->
-<ms2>
-	<chapter id="2000" name="Looking for the new world" isTutorial="" regionID="" />
-	<chapter id="2001" name="Chill the right fairy Ting" isTutorial="" regionID="" />
-	<chapter id="2002" name="Find your glasses!" isTutorial="" regionID="" />
-	<chapter id="2003" name="Missing Hyperion residents" isTutorial="" regionID="" />
-	<chapter id="2004" name="Toad is a Prince!?" isTutorial="" regionID="" />
-	<chapter id="2005" name="Three bottles of premium tea" isTutorial="" regionID="" />
-	<chapter id="2006" name="Boss Dungeon : Mark 52 project" isTutorial="" regionID="" />
-	<chapter id="2007" name="Boss Dungeon : Wisdom stone" isTutorial="" regionID="" />
-	<chapter id="2008" name="Boss Dungeon : Tristan&#8217;s fate" isTutorial="" regionID="" />
-	<chapter id="2009" name="Cherry Coco candy like to eat!" isTutorial="" regionID="" />
-	<chapter id="2010" name="$npcName:11001179$Business items" isTutorial="" regionID="" />
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Parsing this data used do not directly modify the --><ms2>
+	<chapter id="2000" name="Looking for the new world" isTutorial="" regionID=""/>
+	<chapter id="2001" name="Chill the right fairy Ting" isTutorial="" regionID=""/>
+	<chapter id="2002" name="Find your glasses!" isTutorial="" regionID=""/>
+	<chapter id="2003" name="Missing Hyperion residents" isTutorial="" regionID=""/>
+	<chapter id="2004" name="Toad is a Prince!?" isTutorial="" regionID=""/>
+	<chapter id="2005" name="Three bottles of premium tea" isTutorial="" regionID=""/>
+	<chapter id="2006" name="Boss Dungeon : Mark 52 project" isTutorial="" regionID=""/>
+	<chapter id="2007" name="Boss Dungeon : Wisdom stone" isTutorial="" regionID=""/>
+	<chapter id="2008" name="Boss Dungeon : Tristan's fate" isTutorial="" regionID=""/>
+	<chapter id="2009" name="Cherry Coco candy like to eat!" isTutorial="" regionID=""/>
+	<chapter id="2010" name="$npcName:11001179$Business items" isTutorial="" regionID=""/>
 </ms2>

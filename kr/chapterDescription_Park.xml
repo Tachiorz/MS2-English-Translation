@@ -1,37 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsing this data used do not directly modify the -->
-<ms2>
-	<chapter id="4000" name="Please find my brother" isTutorial="" regionID="" />
-	<chapter id="4001" name="Children in crisis" isTutorial="" regionID="" />
-	<chapter id="4002" name="Maple TV See history of the bilateral crisis" isTutorial="" regionID="" />
-	<chapter id="4003" name="How the infinite power of the seal pool" isTutorial="" regionID="" />
-	<chapter id="4004" name="The powers of darkness : A solution to the wave of beginners" isTutorial="" regionID="" />
-	<chapter id="4005" name="The powers of darkness : Knight&#8217;s wave solutions" isTutorial="" regionID="" />
-	<chapter id="4006" name="The powers of darkness : University of wave solutions" isTutorial="" regionID="" />
-	<chapter id="4007" name="The powers of darkness : Jadeuyi on the wave solution" isTutorial="" regionID="" />
-	<chapter id="4008" name="The powers of darkness : Frist&#8217;s wave solutions" isTutorial="" regionID="" />
-	<chapter id="4009" name="The powers of darkness : Ranger&#8217;s wave solutions" isTutorial="" regionID="" />
-	<chapter id="4010" name="The powers of darkness : Heavy gunner&#8217;s wave solutions" isTutorial="" regionID="" />
-	<chapter id="4011" name="The powers of darkness : Sifu wave solutions" isTutorial="" regionID="" />
-	<chapter id="4012" name="The powers of darkness : Assassin&#8217;s wave solutions" isTutorial="" regionID="" />
-	<chapter id="4013" name="Cursed weapons : Beginner&#8217;s wait " isTutorial="" regionID="" />
-	<chapter id="4014" name="Cursed weapons : Knight wait " isTutorial="" regionID="" />
-	<chapter id="4015" name="Cursed weapons : University of the wait " isTutorial="" regionID="" />
-	<chapter id="4016" name="Cursed weapons : Jadeuyi on wait " isTutorial="" regionID="" />
-	<chapter id="4017" name="Cursed weapons : Frist&#8217;s wait " isTutorial="" regionID="" />
-	<chapter id="4018" name="Cursed weapons : Ranger&#8217;s wait " isTutorial="" regionID="" />
-	<chapter id="4019" name="Cursed weapons : Heavy gunner&#8217;s wait " isTutorial="" regionID="" />
-	<chapter id="4020" name="Cursed weapons : Sifu wait " isTutorial="" regionID="" />
-	<chapter id="4021" name="Cursed weapons : Assassin&#8217;s wait " isTutorial="" regionID="" />
-	<chapter id="4022" name="The powers of darkness : Runes blog radar wave solutions" isTutorial="" regionID="" />
-	<chapter id="4023" name="Cursed weapons : Runes blog radar wait " isTutorial="" regionID="" />
-	<chapter id="4024" name="Find a girl" isTutorial="" regionID="" />
-	<chapter id="4025" name="The girl&#8217;s secret" isTutorial="" regionID="" />
-	<chapter id="4026" name="A prudent captain" isTutorial="" regionID="" />
-	<chapter id="4027" name="Looking for the moon shadow" isTutorial="" regionID="" />
-	<chapter id="4028" name="Cute and do not undermining" isTutorial="" regionID="" />
-	<chapter id="4029" name="Meerkats Scouts exam" isTutorial="" regionID="" />
-	<chapter id="4030" name="Fell in the desert, blue light" isTutorial="" regionID="" />
-	<chapter id="4031" name="Over the light dimension" isTutorial="" regionID="" />
-	<chapter id="4032" name="Once the live flowers stars" isTutorial="" regionID="" />
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Parsing this data used do not directly modify the --><ms2>
+	<chapter id="4000" name="Please find my brother" isTutorial="" regionID=""/>
+	<chapter id="4001" name="Children in crisis" isTutorial="" regionID=""/>
+	<chapter id="4002" name="Maple TV See history of the bilateral crisis" isTutorial="" regionID=""/>
+	<chapter id="4003" name="How the infinite power of the seal pool" isTutorial="" regionID=""/>
+	<chapter id="4004" name="The powers of darkness : A solution to the wave of beginners" isTutorial="" regionID=""/>
+	<chapter id="4005" name="The powers of darkness : Knight's wave solutions" isTutorial="" regionID=""/>
+	<chapter id="4006" name="The powers of darkness : University of wave solutions" isTutorial="" regionID=""/>
+	<chapter id="4007" name="The powers of darkness : Jadeuyi on the wave solution" isTutorial="" regionID=""/>
+	<chapter id="4008" name="The powers of darkness : Frist's wave solutions" isTutorial="" regionID=""/>
+	<chapter id="4009" name="The powers of darkness : Ranger's wave solutions" isTutorial="" regionID=""/>
+	<chapter id="4010" name="The powers of darkness : Heavy gunner's wave solutions" isTutorial="" regionID=""/>
+	<chapter id="4011" name="The powers of darkness : Sifu wave solutions" isTutorial="" regionID=""/>
+	<chapter id="4012" name="The powers of darkness : Assassin's wave solutions" isTutorial="" regionID=""/>
+	<chapter id="4013" name="Cursed weapons : Beginner's wait " isTutorial="" regionID=""/>
+	<chapter id="4014" name="Cursed weapons : Knight wait " isTutorial="" regionID=""/>
+	<chapter id="4015" name="Cursed weapons : University of the wait " isTutorial="" regionID=""/>
+	<chapter id="4016" name="Cursed weapons : Jadeuyi on wait " isTutorial="" regionID=""/>
+	<chapter id="4017" name="Cursed weapons : Frist's wait " isTutorial="" regionID=""/>
+	<chapter id="4018" name="Cursed weapons : Ranger's wait " isTutorial="" regionID=""/>
+	<chapter id="4019" name="Cursed weapons : Heavy gunner's wait " isTutorial="" regionID=""/>
+	<chapter id="4020" name="Cursed weapons : Sifu wait " isTutorial="" regionID=""/>
+	<chapter id="4021" name="Cursed weapons : Assassin's wait " isTutorial="" regionID=""/>
+	<chapter id="4022" name="The powers of darkness : Runes blog radar wave solutions" isTutorial="" regionID=""/>
+	<chapter id="4023" name="Cursed weapons : Runes blog radar wait " isTutorial="" regionID=""/>
+	<chapter id="4024" name="Find a girl" isTutorial="" regionID=""/>
+	<chapter id="4025" name="The girl's secret" isTutorial="" regionID=""/>
+	<chapter id="4026" name="A prudent captain" isTutorial="" regionID=""/>
+	<chapter id="4027" name="Looking for the moon shadow" isTutorial="" regionID=""/>
+	<chapter id="4028" name="Cute and do not undermining" isTutorial="" regionID=""/>
+	<chapter id="4029" name="Meerkats Scouts exam" isTutorial="" regionID=""/>
+	<chapter id="4030" name="Fell in the desert, blue light" isTutorial="" regionID=""/>
+	<chapter id="4031" name="Over the light dimension" isTutorial="" regionID=""/>
+	<chapter id="4032" name="Once the live flowers stars" isTutorial="" regionID=""/>
 </ms2>

@@ -1,210 +1,209 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsing this data used do not directly modify the -->
-<ms2>
-	<key id="0" name="No Title" />
-	<key id="10000001" name="Apprentice Knight" />
-	<key id="10000002" name="Apprentice Berserker" />
-	<key id="10000003" name="Apprentice Wizard" />
-	<key id="10000004" name="Apprentice Priest" />
-	<key id="10000005" name="Apprentice Ranger" />
-	<key id="10000006" name="Apprentice Heavy Gunner" />
-	<key id="10000007" name="Apprentice Thief" />
-	<key id="10000008" name="Apprentice Assassin" />
-	<key id="10000009" name="Knight Master" />
-	<key id="10000010" name="Berserker Master" />
-	<key id="10000011" name="Wizard Master" />
-	<key id="10000012" name="Priest Master" />
-	<key id="10000013" name="Ranger Master" />
-	<key id="10000014" name="Heavy Gunner Master" />
-	<key id="10000015" name="Thief Master" />
-	<key id="10000016" name="Assassin Master" />
-	<key id="10000017" name="Iron Will" />
-	<key id="10000018" name="Killer" />
-	<key id="10000019" name="Refresh ridges of the bear" />
-	<key id="10000020" name="Butcher" />
-	<key id="10000021" name="Ruler of $map:65000001$" />
-	<key id="10000022" name="Ruler of $map:65000002$" />
-	<key id="10000023" name="Crazy in this Section" />
-	<key id="10000024" name="Baegjeon 100 w" />
-	<key id="10000025" name="Marathoner" />
-	<key id="10000026" name="Seals" />
-	<key id="10000027" name="Spiderman" />
-	<key id="10000028" name="Turtle" />
-	<key id="10000029" name="Fallen Angel" />
-	<key id="10000030" name="Tramps" />
-	<key id="10000031" name="The Aviator" />
-	<key id="10000032" name="Sweat cold on the feet" />
-	<key id="10000033" name="Air foor Fu" />
-	<key id="10000034" name="Diving-pending" />
-	<key id="10000035" name="Hand sweating cold" />
-	<key id="10000036" name="Climbers" />
-	<key id="10000037" name="Frustrated with ban" />
-	<key id="10000038" name="Knee so far" />
-	<key id="10000039" name="Jumper" />
-	<key id="10000040" name="Sigh off" />
-	<key id="10000041" name="Motion sickness is" />
-	<key id="10000042" name="A stunning birds" />
-	<key id="10000043" name="Loath to walk" />
-	<key id="10000044" name="No clogging" />
-	<key id="10000045" name="Muscle-Chan-Chan" />
-	<key id="10000046" name="Explorer" />
-	<key id="10000047" name="Observer" />
-	<key id="10000048" name="Treasure Hunter" />
-	<key id="10000049" name="Golden Treasure Hunter" />
-	<key id="10000050" name="Uninvited guests" />
-	<key id="10000051" name="Al Ricardo travelers" />
-	<key id="10000052" name="Maple guardian" />
-	<key id="10000053" name="Breakout" />
-	<key id="10000054" name="The first step is" />
-	<key id="10000055" name="Street light Manager" />
-	<key id="10000056" name="Cool city" />
-	<key id="10000057" name="A low stone" />
-	<key id="10000058" name="Foot lit" />
-	<key id="10000059" name="Than strong venom" />
-	<key id="10000060" name="Shadow" />
-	<key id="10000061" name="Sage" />
-	<key id="10000062" name="Love Wale" />
-	<key id="10000063" name="Kumba, King of Castile and the Conqueror" />
-	<key id="10000064" name="Meteorite-cleaner" />
-	<key id="10000065" name="Wall ride now" />
-	<key id="10000066" name="Maple holic" />
-	<key id="10000067" name="Due to the lungs" />
-	<key id="10000068" name="Elegant gourmet" />
-	<key id="10000069" name="Destroyer" />
-	<key id="10000070" name="Vacuum cleaner" />
-	<key id="10000071" name="PRIM" />
-	<key id="10000072" name="Immortality now" />
-	<key id="10000073" name="White Angel" />
-	<key id="10000074" name="Leech" />
-	<key id="10000075" name="Bungy jumping-holic" />
-	<key id="10000076" name="Wingless" />
-	<key id="10000077" name="A proud Guild" />
-	<key id="10000078" name="Diameter accepted God" />
-	<key id="10000079" name="Shopaholic" />
-	<key id="10000080" name="The richest" />
-	<key id="10000081" name="Blacksmith" />
-	<key id="10000082" name="Souvenir collectors" />
-	<key id="10000083" name="Vehicles, collector" />
-	<key id="10000084" name="Trend Setter" />
-	<key id="10000085" name="Trap Master King" />
-	<key id="10000086" name="The final survivor of the King" />
-	<key id="10000087" name="Spring King of the beach" />
-	<key id="10000088" name="The King of control" />
-	<key id="10000089" name="Track and field athletes" />
-	<key id="10000090" name="Starter drive" />
-	<key id="10000091" name="Hamster wheel turning" />
-	<key id="10000092" name="Speed Racer" />
-	<key id="10000093" name="Pioneer" />
-	<key id="10000094" name="O two bonding" />
-	<key id="10000095" name="Big in inspiration" />
-	<key id="10000096" name="Saturation of the" />
-	<key id="10000097" name="a Futile" />
-	<key id="10000098" name="Lavish" />
-	<key id="10000099" name="Newbies" />
-	<key id="10000100" name="the Unstoppable" />
-	<key id="10000101" name="White night in San" />
-	<key id="10000102" name="Fearless" />
-	<key id="10000103" name="Public enemy" />
-	<key id="10000104" name="Cry out feeding" />
-	<key id="10000105" name="Want a truce" />
-	<key id="10000106" name="Chasing the stars" />
-	<key id="10000107" name="Vengeful" />
-	<key id="10000108" name="Bow is" />
-	<key id="10000109" name="Absolute invincibility" />
-	<key id="10000110" name="Was lost" />
-	<key id="10000111" name="The scarecrow" />
-	<key id="10000112" name="Recall Corp" />
-	<key id="10000113" name="Mechanic" />
-	<key id="10000114" name="Lover wanted" />
-	<key id="10000115" name="Two face" />
-	<key id="10000116" name="Flowers blooming in the spring" />
-	<key id="10000117" name="Detective" />
-	<key id="10000118" name="Light as a feather light" />
-	<key id="10000119" name="Action learning" />
-	<key id="10000120" name="Cool" />
-	<key id="10000121" name="Big spenders" />
-	<key id="10000122" name="Want to take a break" />
-	<key id="10000123" name="Championship Season 1 contestants" />
-	<key id="10000124" name="Dreaming of miracles" />
-	<key id="10000125" name="Health Keeper" />
-	<key id="10000126" name="Devilish" />
-	<key id="10000127" name="Aromatic" />
-	<key id="10000128" name="Candidate" />
-	<key id="10000129" name="Cheering chapter" />
-	<key id="10000130" name="The rewards of the" />
-	<key id="10000131" name="A non-" />
-	<key id="10000132" name="The ground rated" />
-	<key id="10000133" name="The lone" />
-	<key id="10000134" name="The big hero" />
-	<key id="10000135" name="Ride the rhythm" />
-	<key id="10000136" name="Mom sent me" />
-	<key id="10000137" name="Feel-good" />
-	<key id="10000138" name="Grabber" />
-	<key id="10000139" name="Backseat passengers" />
-	<key id="10000140" name="Helper" />
-	<key id="10000141" name="a Good Friend" />
-	<key id="10000142" name="Thoughtful" />
-	<key id="10000143" name="Searcher" />
-	<key id="10000144" name="Dreamer" />
-	<key id="10000145" name="Gaucho" />
-	<key id="10000146" name="Horn I" />
-	<key id="10000147" name="Moonlight shadow" />
-	<key id="10000148" name="Keepers" />
-	<key id="10000149" name="Experience is" />
-	<key id="10000150" name="Sanjeungin" />
-	<key id="10000151" name="My RadioShack Yen hero" />
-	<key id="10000152" name="True Champion" />
-	<key id="10000153" name="Top Designer" />
-	<key id="10000154" name="Now the hero" />
-	<key id="10000155" name="The battle of Miner" />
-	<key id="10000156" name="Meds" />
-	<key id="10000157" name="Alphonse Dal Pont-Gaucho" />
-	<key id="10000158" name="Star architects" />
-	<key id="10000159" name="This is good" />
-	<key id="10000160" name="Time Traveler" />
-	<key id="10000161" name="Ask for your" />
-	<key id="10000162" name="Fighter" />
-	<key id="10000163" name="Gardener" />
-	<key id="10000164" name="Intrepid" />
-	<key id="10000165" name="the Ruler of Treasure Island" />
-	<key id="10000166" name="Persistent predators" />
-	<key id="10000167" name="the Master of Surprise" />
-	<key id="10000168" name="On the way back" />
-	<key id="10000169" name="100 Days Together" />
-	<key id="10000170" name="Trophyholic" />
-	<key id="10000171" name="Trophy Maniac" />
-	<key id="10000172" name="True Trophy Maniac" />
-	<key id="10000173" name="Sincere" />
-	<key id="10000174" name="Restless" />
-	<key id="10000175" name="Strong" />
-	<key id="10000176" name="Keep the walls" />
-	<key id="10000177" name="Guardian Angel" />
-	<key id="10000178" name="Curious" />
-	<key id="10000179" name="Knowledge Seeker" />
-	<key id="10000180" name="Head rat I" />
-	<key id="10000181" name="Erudition erudite" />
-	<key id="10000182" name="a Smart one" />
-	<key id="10000183" name="But water Dr" />
-	<key id="10000184" name="Quiz King" />
-	<key id="10000185" name="Maple2 Honorable Reporter" />
-	<key id="10000186" name="Experience" />
-	<key id="10000187" name="Ooh Whoa UH Whoa" />
-	<key id="10000188" name="Hold the bout now" />
-	<key id="10000189" name="Banished from Darkness" />
-	<key id="10000190" name="Warrior of Light" />
-	<key id="10000191" name="Novice anglers" />
-	<key id="10000192" name="Intermediate angler" />
-	<key id="10000193" name="Senior anglers" />
-	<key id="10000194" name="Professional angler" />
-	<key id="10000195" name="AXA" />
-	<key id="10000196" name="Fishing King" />
-	<key id="10000197" name="Stealing the hearts" />
-	<key id="10000198" name="Maestro" />
-	<key id="10000199" name="Dding a dding that" />
-	<key id="10000200" name="Guitarist" />
-	<key id="10000201" name="Sweet" />
-	<key id="10000202" name="Pianist" />
-	<key id="10000203" name="Padagpadag" />
-	<key id="10000204" name="Kang Tae Gong" />
-	<key id="10000205" name="Fishing light" />
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Parsing this data used do not directly modify the --><ms2>
+	<key id="0" name="No Title"/>
+	<key id="10000001" name="Apprentice Knight"/>
+	<key id="10000002" name="Apprentice Berserker"/>
+	<key id="10000003" name="Apprentice Wizard"/>
+	<key id="10000004" name="Apprentice Priest"/>
+	<key id="10000005" name="Apprentice Ranger"/>
+	<key id="10000006" name="Apprentice Heavy Gunner"/>
+	<key id="10000007" name="Apprentice Thief"/>
+	<key id="10000008" name="Apprentice Assassin"/>
+	<key id="10000009" name="Knight Master"/>
+	<key id="10000010" name="Berserker Master"/>
+	<key id="10000011" name="Wizard Master"/>
+	<key id="10000012" name="Priest Master"/>
+	<key id="10000013" name="Ranger Master"/>
+	<key id="10000014" name="Heavy Gunner Master"/>
+	<key id="10000015" name="Thief Master"/>
+	<key id="10000016" name="Assassin Master"/>
+	<key id="10000017" name="Iron Will"/>
+	<key id="10000018" name="Killer"/>
+	<key id="10000019" name="Refresh ridges of the bear"/>
+	<key id="10000020" name="Butcher"/>
+	<key id="10000021" name="Ruler of $map:65000001$"/>
+	<key id="10000022" name="Ruler of $map:65000002$"/>
+	<key id="10000023" name="Crazy in this Section"/>
+	<key id="10000024" name="Baegjeon 100 w"/>
+	<key id="10000025" name="Marathoner"/>
+	<key id="10000026" name="Seals"/>
+	<key id="10000027" name="Spiderman"/>
+	<key id="10000028" name="Turtle"/>
+	<key id="10000029" name="Fallen Angel"/>
+	<key id="10000030" name="Tramps"/>
+	<key id="10000031" name="The Aviator"/>
+	<key id="10000032" name="Sweat cold on the feet"/>
+	<key id="10000033" name="Air foor Fu"/>
+	<key id="10000034" name="Diving-pending"/>
+	<key id="10000035" name="Hand sweating cold"/>
+	<key id="10000036" name="Climbers"/>
+	<key id="10000037" name="Frustrated with ban"/>
+	<key id="10000038" name="Knee so far"/>
+	<key id="10000039" name="Jumper"/>
+	<key id="10000040" name="Sigh off"/>
+	<key id="10000041" name="Motion sickness is"/>
+	<key id="10000042" name="A stunning birds"/>
+	<key id="10000043" name="Loath to walk"/>
+	<key id="10000044" name="No clogging"/>
+	<key id="10000045" name="Muscle-Chan-Chan"/>
+	<key id="10000046" name="Explorer"/>
+	<key id="10000047" name="Observer"/>
+	<key id="10000048" name="Treasure Hunter"/>
+	<key id="10000049" name="Golden Treasure Hunter"/>
+	<key id="10000050" name="Uninvited guests"/>
+	<key id="10000051" name="Al Ricardo travelers"/>
+	<key id="10000052" name="Maple guardian"/>
+	<key id="10000053" name="Breakout"/>
+	<key id="10000054" name="The first step is"/>
+	<key id="10000055" name="Street light Manager"/>
+	<key id="10000056" name="Cool city"/>
+	<key id="10000057" name="A low stone"/>
+	<key id="10000058" name="Foot lit"/>
+	<key id="10000059" name="Than strong venom"/>
+	<key id="10000060" name="Shadow"/>
+	<key id="10000061" name="Sage"/>
+	<key id="10000062" name="Love Wale"/>
+	<key id="10000063" name="Kumba, King of Castile and the Conqueror"/>
+	<key id="10000064" name="Meteorite-cleaner"/>
+	<key id="10000065" name="Wall ride now"/>
+	<key id="10000066" name="Maple holic"/>
+	<key id="10000067" name="Due to the lungs"/>
+	<key id="10000068" name="Elegant gourmet"/>
+	<key id="10000069" name="Destroyer"/>
+	<key id="10000070" name="Vacuum cleaner"/>
+	<key id="10000071" name="PRIM"/>
+	<key id="10000072" name="Immortality now"/>
+	<key id="10000073" name="White Angel"/>
+	<key id="10000074" name="Leech"/>
+	<key id="10000075" name="Bungy jumping-holic"/>
+	<key id="10000076" name="Wingless"/>
+	<key id="10000077" name="A proud Guild"/>
+	<key id="10000078" name="Diameter accepted God"/>
+	<key id="10000079" name="Shopaholic"/>
+	<key id="10000080" name="The richest"/>
+	<key id="10000081" name="Blacksmith"/>
+	<key id="10000082" name="Souvenir collectors"/>
+	<key id="10000083" name="Vehicles, collector"/>
+	<key id="10000084" name="Trend Setter"/>
+	<key id="10000085" name="Trap Master King"/>
+	<key id="10000086" name="The final survivor of the King"/>
+	<key id="10000087" name="Spring King of the beach"/>
+	<key id="10000088" name="The King of control"/>
+	<key id="10000089" name="Track and field athletes"/>
+	<key id="10000090" name="Starter drive"/>
+	<key id="10000091" name="Hamster wheel turning"/>
+	<key id="10000092" name="Speed Racer"/>
+	<key id="10000093" name="Pioneer"/>
+	<key id="10000094" name="O two bonding"/>
+	<key id="10000095" name="Big in inspiration"/>
+	<key id="10000096" name="Saturation of the"/>
+	<key id="10000097" name="a Futile"/>
+	<key id="10000098" name="Lavish"/>
+	<key id="10000099" name="Newbies"/>
+	<key id="10000100" name="the Unstoppable"/>
+	<key id="10000101" name="White night in San"/>
+	<key id="10000102" name="Fearless"/>
+	<key id="10000103" name="Public enemy"/>
+	<key id="10000104" name="Cry out feeding"/>
+	<key id="10000105" name="Want a truce"/>
+	<key id="10000106" name="Chasing the stars"/>
+	<key id="10000107" name="Vengeful"/>
+	<key id="10000108" name="Bow is"/>
+	<key id="10000109" name="Absolute invincibility"/>
+	<key id="10000110" name="Was lost"/>
+	<key id="10000111" name="The scarecrow"/>
+	<key id="10000112" name="Recall Corp"/>
+	<key id="10000113" name="Mechanic"/>
+	<key id="10000114" name="Lover wanted"/>
+	<key id="10000115" name="Two face"/>
+	<key id="10000116" name="Flowers blooming in the spring"/>
+	<key id="10000117" name="Detective"/>
+	<key id="10000118" name="Light as a feather light"/>
+	<key id="10000119" name="Action learning"/>
+	<key id="10000120" name="Cool"/>
+	<key id="10000121" name="Big spenders"/>
+	<key id="10000122" name="Want to take a break"/>
+	<key id="10000123" name="Championship Season 1 contestants"/>
+	<key id="10000124" name="Dreaming of miracles"/>
+	<key id="10000125" name="Health Keeper"/>
+	<key id="10000126" name="Devilish"/>
+	<key id="10000127" name="Aromatic"/>
+	<key id="10000128" name="Candidate"/>
+	<key id="10000129" name="Cheering chapter"/>
+	<key id="10000130" name="The rewards of the"/>
+	<key id="10000131" name="A non-"/>
+	<key id="10000132" name="The ground rated"/>
+	<key id="10000133" name="The lone"/>
+	<key id="10000134" name="The big hero"/>
+	<key id="10000135" name="Ride the rhythm"/>
+	<key id="10000136" name="Mom sent me"/>
+	<key id="10000137" name="Feel-good"/>
+	<key id="10000138" name="Grabber"/>
+	<key id="10000139" name="Backseat passengers"/>
+	<key id="10000140" name="Helper"/>
+	<key id="10000141" name="a Good Friend"/>
+	<key id="10000142" name="Thoughtful"/>
+	<key id="10000143" name="Searcher"/>
+	<key id="10000144" name="Dreamer"/>
+	<key id="10000145" name="Gaucho"/>
+	<key id="10000146" name="Horn I"/>
+	<key id="10000147" name="Moonlight shadow"/>
+	<key id="10000148" name="Keepers"/>
+	<key id="10000149" name="Experience is"/>
+	<key id="10000150" name="Sanjeungin"/>
+	<key id="10000151" name="My RadioShack Yen hero"/>
+	<key id="10000152" name="True Champion"/>
+	<key id="10000153" name="Top Designer"/>
+	<key id="10000154" name="Now the hero"/>
+	<key id="10000155" name="The battle of Miner"/>
+	<key id="10000156" name="Meds"/>
+	<key id="10000157" name="Alphonse Dal Pont-Gaucho"/>
+	<key id="10000158" name="Star architects"/>
+	<key id="10000159" name="This is good"/>
+	<key id="10000160" name="Time Traveler"/>
+	<key id="10000161" name="Ask for your"/>
+	<key id="10000162" name="Fighter"/>
+	<key id="10000163" name="Gardener"/>
+	<key id="10000164" name="Intrepid"/>
+	<key id="10000165" name="the Ruler of Treasure Island"/>
+	<key id="10000166" name="Persistent predators"/>
+	<key id="10000167" name="the Master of Surprise"/>
+	<key id="10000168" name="On the way back"/>
+	<key id="10000169" name="100 Days Together"/>
+	<key id="10000170" name="Trophyholic"/>
+	<key id="10000171" name="Trophy Maniac"/>
+	<key id="10000172" name="True Trophy Maniac"/>
+	<key id="10000173" name="Sincere"/>
+	<key id="10000174" name="Restless"/>
+	<key id="10000175" name="Strong"/>
+	<key id="10000176" name="Keep the walls"/>
+	<key id="10000177" name="Guardian Angel"/>
+	<key id="10000178" name="Curious"/>
+	<key id="10000179" name="Knowledge Seeker"/>
+	<key id="10000180" name="Head rat I"/>
+	<key id="10000181" name="Erudition erudite"/>
+	<key id="10000182" name="a Smart one"/>
+	<key id="10000183" name="But water Dr"/>
+	<key id="10000184" name="Quiz King"/>
+	<key id="10000185" name="Maple2 Honorable Reporter"/>
+	<key id="10000186" name="Experience"/>
+	<key id="10000187" name="Ooh Whoa UH Whoa"/>
+	<key id="10000188" name="Hold the bout now"/>
+	<key id="10000189" name="Banished from Darkness"/>
+	<key id="10000190" name="Warrior of Light"/>
+	<key id="10000191" name="Novice anglers"/>
+	<key id="10000192" name="Intermediate angler"/>
+	<key id="10000193" name="Senior anglers"/>
+	<key id="10000194" name="Professional angler"/>
+	<key id="10000195" name="AXA"/>
+	<key id="10000196" name="Fishing King"/>
+	<key id="10000197" name="Stealing the hearts"/>
+	<key id="10000198" name="Maestro"/>
+	<key id="10000199" name="Dding a dding that"/>
+	<key id="10000200" name="Guitarist"/>
+	<key id="10000201" name="Sweet"/>
+	<key id="10000202" name="Pianist"/>
+	<key id="10000203" name="Padagpadag"/>
+	<key id="10000204" name="Kang Tae Gong"/>
+	<key id="10000205" name="Fishing light"/>
 </ms2>

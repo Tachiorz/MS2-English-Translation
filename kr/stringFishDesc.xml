@@ -1,159 +1,158 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsing this data used do not directly modify the -->
-<ms2>
-	<key id="10000001" name="The main Habitat: Queenstown, beauty Street, tranquil forests, etc.&#x0A;Clear from the river." />
-	<key id="10000002" name="The main Habitat: Fairy tree, see Dick Lake dam, etc.&#x0A;Clear from the river." />
-	<key id="10000003" name="The main Habitat: Lost in the forest, Corona Lake, El Luau memories of forests, etc.&#x0A;Clear from the river." />
-	<key id="10000004" name="The main Habitat: New kerning Dome, red whistle cliff, etc.&#x0A;Clear from the river." />
-	<key id="10000005" name="The main Habitat: Queenstown, beauty Street, tranquil forests, etc.&#x0A;Clear from the river." />
-	<key id="10000006" name="The main Habitat: Fairy tree, see Dick Lake dam, etc.&#x0A;Clear from the river." />
-	<key id="10000007" name="The main Habitat: Castle rivers, including the River, El El Rua Silva&#x0A;Clear from the river." />
-	<key id="10000008" name="The main Habitat: Evansville, etc.&#x0A;Clear from the river." />
-	<key id="10000009" name="The main Habitat: Evansville, etc.&#x0A;Clear from the river." />
-	<key id="10000010" name="The main Habitat: Lew Daly City, Edith waterpia, red sand rock, etc.&#x0A;Clear from the river." />
-	<key id="10000011" name="The main Habitat: Mount Hill, Rockefeller Tower construction site, etc.&#x0A;Clear from the river." />
-	<key id="10000012" name="The main Habitat: -Only smithy Street, the Woodcutter&#8217;s Hill, Yes, Cisco, etc.&#x0A;Clear from the river." />
-	<key id="10000013" name="The main Habitat: Mount Hill, Rockefeller Tower construction site, etc.&#x0A;Clear from the river." />
-	<key id="10000014" name="The main Habitat: New kerning Dome, red whistle cliff, etc.&#x0A;Clear from the river." />
-	<key id="10000015" name="The main Habitat: Lew Daly City, Edith waterpia, red sand rock, etc.&#x0A;Clear from the river." />
-	<key id="10000016" name="The main Habitat: Eli, the Interior of the square, Orne town, etc.&#x0A;Clear from the river." />
-	<key id="10000017" name="The main Habitat: Ant cave entrance, forgotten Citadel, Prism falls, etc.&#x0A;Clear from the river." />
-	<key id="10000018" name="The main Habitat: -Only smithy Street, the Woodcutter&#8217;s Hill, Yes, Cisco, etc.&#x0A;Clear from the river." />
-	<key id="10000019" name="The main Habitat: Lew Daly City, Edith waterpia, red sand rock, etc.&#x0A;Clear from the river." />
-	<key id="10000020" name="The main Habitat: Castle rivers, including the River, El El Rua Silva&#x0A;Clear from the river." />
-	<key id="10000021" name="The main Habitat: White Rock mountain, etc.&#x0A;Clear from the river." />
-	<key id="10000022" name="The main Habitat: Lost in the forest, Corona Lake, El Luau memories of forests, etc.&#x0A;Clear from the river." />
-	<key id="10000023" name="The main Habitat: Eli, the Interior of the square, Orne town, etc.&#x0A;Clear from the river." />
-	<key id="10000024" name="The main Habitat: Ant cave entrance, forgotten Citadel, Prism falls, etc.&#x0A;Clear from the river." />
-	<key id="10000025" name="The main Habitat: New kerning Dome, red whistle cliff, etc.&#x0A;Clear from the river." />
-	<key id="10000026" name="The main Habitat: White Rock mountain, etc.&#x0A;Clear from the river." />
-	<key id="10000027" name="The main Habitat: -Only smithy Street, the Woodcutter&#8217;s Hill, Yes, Cisco, etc.&#x0A;Clear from the river." />
-	<key id="10000028" name="The main Habitat: Lew Daly City, Edith waterpia, red sand rock, etc.&#x0A;Clear from the river." />
-	<key id="10000029" name="The main Habitat: New kerning Dome, red whistle cliff, etc.&#x0A;Clear from the river." />
-	<key id="10000030" name="The main Habitat: None known.&#x0A;Clear from the river." />
-	<key id="10000031" name="The main Habitat: Castle rivers, including the River, El El Rua Silva&#x0A;Clear from the river." />
-	<key id="10000032" name="The main Habitat: Castle rivers, including the River, El El Rua Silva&#x0A;Clear from the river." />
-	<key id="10000033" name="The main Habitat: Lost in the forest, Corona Lake, El Luau memories of forests, etc.&#x0A;Clear from the river." />
-	<key id="10000034" name="The main Habitat: Mount Hill, Rockefeller Tower construction site, etc.&#x0A;Clear from the river." />
-	<key id="10000035" name="The main Habitat: Eli, the Interior of the square, Orne town, etc.&#x0A;Clear from the river." />
-	<key id="10000036" name="The main Habitat: Ant cave entrance, forgotten Citadel, Prism falls, etc.&#x0A;Clear from the river." />
-	<key id="10000037" name="The main Habitat: Tri Ah, etc.&#x0A;Clear from the river." />
-	<key id="10000038" name="The main Habitat: None known.&#x0A;Clear from the river." />
-	<key id="10000039" name="The main Habitat: None known.&#x0A;Clear from the river." />
-	<key id="10000040" name="The main Habitat: -Only smithy Street, etc.&#x0A;Clear from the river." />
-	<key id="11000001" name="The main Habitat: The goal in pharmaceutical factory, etc.&#x0A;From sea water." />
-	<key id="11000002" name="The main Habitat: The goal in pharmaceutical factory, etc.&#x0A;From sea water." />
-	<key id="11000003" name="The main Habitat: Re Yes SIS I Luther, etc.&#x0A;From sea water." />
-	<key id="11000004" name="The main Habitat: Eddy cliff, Barbosa waterfront, Rainbow mountain, etc.&#x0A;From sea water." />
-	<key id="11000005" name="The main Habitat: Ice Crown, eternity&#8217;s Cave, Lou del Ritz Ocean town, etc.&#x0A;From sea water." />
-	<key id="11000006" name="The main Habitat: None known.&#x0A;From sea water." />
-	<key id="11000007" name="The main Habitat: Dicey Vulture, snow park, Mu Los media niwy Park bar, etc.&#x0A;From sea water." />
-	<key id="11000008" name="The main Habitat: Elbow&#8217;s excavation log, etc.&#x0A;From sea water." />
-	<key id="11000009" name="The main Habitat: Carved Cliff Fort, rough sand dunes, etc.&#x0A;From sea water." />
-	<key id="11000010" name="The main Habitat: Silver stone bridge, a resort in the Bill, such as Newtown&#x0A;From sea water." />
-	<key id="11000011" name="The main Habitat: Re Yes SIS I Luther, etc.&#x0A;From sea water." />
-	<key id="11000012" name="The main Habitat: Eddy cliff, Barbosa waterfront, Rainbow mountain, etc.&#x0A;From sea water." />
-	<key id="11000013" name="The main Habitat: Ice Crown, eternity&#8217;s Cave, Lou del Ritz Ocean town, etc.&#x0A;From sea water." />
-	<key id="11000014" name="The main Habitat: Eddy cliff, Barbosa waterfront, Rainbow mountain, etc.&#x0A;From sea water." />
-	<key id="11000017" name="The main Habitat: Re Yes SIS I Luther, etc.&#x0A;From sea water." />
-	<key id="11000018" name="The main Habitat: Eddy cliff, Barbosa waterfront, Rainbow mountain, etc.&#x0A;From sea water." />
-	<key id="11000019" name="The main Habitat: None known.&#x0A;From sea water." />
-	<key id="11000020" name='The main Habitat: Beach way &quot;111&quot;, Get the right port, etc.&#x0A;From sea water.' />
-	<key id="11000021" name='The main Habitat: Beach way &quot;111&quot;, Get the right port, etc.&#x0A;From sea water.' />
-	<key id="11000022" name="The main Habitat: Dicey Vulture, snow park, Mu Los media niwy Park bar, etc.&#x0A;From sea water." />
-	<key id="11000023" name="The main Habitat: Carved Cliff Fort, rough sand dunes, etc.&#x0A;From sea water." />
-	<key id="11000025" name="The main Habitat: Eddy cliff, Barbosa waterfront, Rainbow mountain, etc.&#x0A;From sea water." />
-	<key id="11000026" name="The main Habitat: None known.&#x0A;From sea water." />
-	<key id="11000027" name="The main Habitat: The goal in pharmaceutical factory, etc.&#x0A;From sea water." />
-	<key id="11000028" name="The main Habitat: Carved Cliff Fort, rough sand dunes, etc.&#x0A;From sea water." />
-	<key id="11000029" name="The main Habitat: Amherst, Boogie Collie waterfront, Carl Liv coast, etc.&#x0A;From sea water." />
-	<key id="11000030" name="The main Habitat: Silver stone bridge, a resort in the Bill, such as Newtown&#x0A;From sea water." />
-	<key id="11000031" name="The main Habitat: Re Yes SIS I Luther, etc.&#x0A;From sea water." />
-	<key id="11000032" name="The main Habitat: Elbow&#8217;s excavation log, etc.&#x0A;From sea water." />
-	<key id="11000033" name="The main Habitat: Carved Cliff Fort, rough sand dunes, etc.&#x0A;From sea water." />
-	<key id="11000034" name="The main Habitat: None known.&#x0A;From sea water." />
-	<key id="11000035" name='The main Habitat: Beach way &quot;111&quot;, Get the right port, etc.&#x0A;From sea water.' />
-	<key id="11000036" name="The main Habitat: Ice Crown, eternity&#8217;s Cave, Lou del Ritz Ocean town, etc.&#x0A;From sea water." />
-	<key id="11000037" name="The main Habitat: Carved Cliff Fort, rough sand dunes, etc.&#x0A;From sea water." />
-	<key id="11000038" name="The main Habitat: Dicey Vulture, snow park, Mu Los media niwy Park bar, etc.&#x0A;From sea water." />
-	<key id="11000039" name="The main Habitat: Green forest trail, etc.&#x0A;From sea water." />
-	<key id="11000040" name="The main Habitat: Re Yes SIS I Luther, etc.&#x0A;From sea water." />
-	<key id="11000041" name="The main Habitat: The goal in pharmaceutical factory, etc.&#x0A;From sea water." />
-	<key id="11000042" name="The main Habitat: Carved Cliff Fort, rough sand dunes, etc.&#x0A;From sea water." />
-	<key id="11000043" name="The main Habitat: None known.&#x0A;From sea water." />
-	<key id="11000044" name='The main Habitat: Beach way &quot;111&quot;, Get the right port, etc.&#x0A;From sea water.' />
-	<key id="11000045" name="The main Habitat: Ice Crown, eternity&#8217;s Cave, Lou del Ritz Ocean town, etc.&#x0A;From sea water." />
-	<key id="11000046" name="The main Habitat: Dicey Vulture, snow park, Mu Los media niwy Park bar, etc.&#x0A;From sea water." />
-	<key id="11000047" name="The main Habitat: Elbow&#8217;s excavation log, etc.&#x0A;From sea water." />
-	<key id="11000048" name="The main Habitat: Green forest trail, etc.&#x0A;From sea water." />
-	<key id="11000049" name="The main Habitat: Elbow&#8217;s excavation log, etc.&#x0A;From sea water." />
-	<key id="11000050" name="The main Habitat: Eddy cliff, Barbosa waterfront, Rainbow mountain, etc.&#x0A;From sea water." />
-	<key id="11000051" name="The main Habitat: Ice Crown, eternity&#8217;s Cave, Lou del Ritz Ocean town, etc.&#x0A;From sea water." />
-	<key id="11000052" name="The main Habitat: Eddy cliff, Barbosa waterfront, Rainbow mountain, etc.&#x0A;From sea water." />
-	<key id="11000053" name="The main Habitat: The goal in pharmaceutical factory, etc.&#x0A;From sea water." />
-	<key id="11000054" name="The main Habitat: Green forest trail, etc.&#x0A;From sea water." />
-	<key id="11000055" name="The main Habitat: Silver stone bridge, a resort in the Bill, such as Newtown&#x0A;From sea water." />
-	<key id="11000056" name="The main Habitat: Elbow&#8217;s excavation log, etc.&#x0A;From sea water." />
-	<key id="11000057" name="The main Habitat: Silver stone bridge, a resort in the Bill, such as Newtown&#x0A;From sea water." />
-	<key id="11000058" name="The main Habitat: Amherst, Boogie Collie waterfront, Carl Liv coast, etc.&#x0A;From sea water." />
-	<key id="11000059" name="The main Habitat: Re Yes SIS I Luther, etc.&#x0A;From sea water." />
-	<key id="11000060" name="The main Habitat: Dicey Vulture, snow park, Mu Los media niwy Park bar, etc.&#x0A;From sea water." />
-	<key id="11000061" name="The main Habitat: Dicey Vulture, snow park, Mu Los media niwy Park bar, etc.&#x0A;From sea water." />
-	<key id="11000062" name="The main Habitat: Elbow&#8217;s excavation log, etc.&#x0A;From sea water." />
-	<key id="11000063" name="The main Habitat: Green forest trail, etc.&#x0A;From sea water." />
-	<key id="11000064" name="The main Habitat: Silver stone bridge, a resort in the Bill, such as Newtown&#x0A;From sea water." />
-	<key id="11000065" name="The main Habitat: Ice Crown, eternity&#8217;s Cave, Lou del Ritz Ocean town, etc.&#x0A;From sea water." />
-	<key id="11000066" name="The main Habitat: None known.&#x0A;From sea water." />
-	<key id="11000067" name="The main Habitat: None known.&#x0A;From sea water." />
-	<key id="11000068" name="The main Habitat: Reese havens, etc.&#x0A;From sea water." />
-	<key id="11000069" name="The main Habitat: Al Ricardo prison, etc.&#x0A;From sea water." />
-	<key id="11000070" name="The main Habitat: None known.&#x0A;From sea water." />
-	<key id="12000001" name="The main Habitat: Lava crowns, black fog, lava caves, such as Luna&#x0A;From the hot lava." />
-	<key id="12000002" name="The main Habitat: Wounded in the Gorge, Tallis, lava and Energy Laboratory, etc.&#x0A;From the hot lava." />
-	<key id="12000003" name="The main Habitat: Lava crowns, black fog, lava caves, such as Luna&#x0A;From the hot lava." />
-	<key id="12000004" name="The main Habitat: Peru Peru Highlands, such as the floating down the River, it is an integral part of the hot example&#x0A;From the hot lava." />
-	<key id="12000005" name="The main Habitat: Lava crowns, black fog, lava caves, such as Luna&#x0A;From the hot lava." />
-	<key id="12000006" name="The main Habitat: El Luau lamented the bus, well, brainstorm Rita, etc.&#x0A;From the hot lava." />
-	<key id="12000007" name="The main Habitat: Wounded in the Gorge, Tallis, lava and Energy Laboratory, etc.&#x0A;From the hot lava." />
-	<key id="12000008" name="The main Habitat: El Luau lamented the bus, well, brainstorm Rita, etc.&#x0A;From the hot lava." />
-	<key id="12000009" name="The main Habitat: Hot hot lava hot springs, blood River, such as boiling lava Valley&#x0A;From the hot lava." />
-	<key id="12000010" name="The main Habitat: Lava development, etc.&#x0A;From the hot lava." />
-	<key id="12000011" name="The main Habitat: Hot hot lava hot springs, blood River, such as boiling lava Valley&#x0A;From the hot lava." />
-	<key id="12000012" name="The main Habitat: Peru Peru Highlands, such as the floating down the River, it is an integral part of the hot example&#x0A;From the hot lava." />
-	<key id="12000013" name="The main Habitat: Lava development, etc.&#x0A;From the hot lava." />
-	<key id="12000014" name="The main Habitat: Wounded in the Gorge, Tallis, lava and Energy Laboratory, etc.&#x0A;From the hot lava." />
-	<key id="12000015" name="The main Habitat: El Luau lamented the bus, well, brainstorm Rita, etc.&#x0A;From the hot lava." />
-	<key id="12000016" name="The main Habitat: None known.&#x0A;From the hot lava." />
-	<key id="12000017" name="The main Habitat: None known.&#x0A;From the hot lava." />
-	<key id="12000018" name="The main Habitat: None known.&#x0A;From the hot lava." />
-	<key id="12000019" name="The main Habitat: None known.&#x0A;From the hot lava." />
-	<key id="13000003" name="The main Habitat: None known.&#x0A;Evil in the polluted water." />
-	<key id="13000005" name="The main Habitat: None known.&#x0A;Evil in the polluted water." />
-	<key id="13000007" name="The main Habitat: None known.&#x0A;Evil in the polluted water." />
-	<key id="13000009" name="The main Habitat: None known.&#x0A;Evil in the polluted water." />
-	<key id="14000001" name="The main Habitat: Body Cartagena chemical factory, Cobb Liam basin, etc.&#x0A;Awful smells in the venom." />
-	<key id="14000002" name="The main Habitat: Croydon railway station, Red Cliff, ghostly whistling of Smirnoff falls, etc.&#x0A;Awful smells in the venom." />
-	<key id="14000003" name="The main Habitat: MSI Robot development center, hell I Luther, bellow the cliff fortress, etc.&#x0A;Awful smells in the venom." />
-	<key id="14000004" name="The main Habitat: Dark turning waste treatment plant, such as the ruins of lost&#x0A;Awful smells in the venom." />
-	<key id="14000005" name="The main Habitat: MSI Robot development center, hell I Luther, bellow the cliff fortress, etc.&#x0A;Awful smells in the venom." />
-	<key id="14000006" name="The main Habitat: Kerning city, etc.&#x0A;Awful smells in the venom." />
-	<key id="14000007" name="The main Habitat: None known.&#x0A;Awful smells in the venom." />
-	<key id="14000008" name="The main Habitat: D waste treatment plant, see Dick, dam, etc.&#x0A;Awful smells in the venom." />
-	<key id="14000009" name="The main Habitat: Body Cartagena chemical factory, Cobb Liam basin, etc.&#x0A;Awful smells in the venom." />
-	<key id="14000010" name="The main Habitat: Mel Ta dam, Rockefeller occupied, such as bog Maggiore&#x0A;Awful smells in the venom." />
-	<key id="14000011" name="The main Habitat: None known.&#x0A;Awful smells in the venom." />
-	<key id="14000012" name="The main Habitat: Ghost forest trail, Black Rock mountain, in the dark of your Cisco, etc.&#x0A;Awful smells in the venom." />
-	<key id="14000013" name="The main Habitat: Croydon railway station, Red Cliff, ghostly whistling of Smirnoff falls, etc.&#x0A;Awful smells in the venom." />
-	<key id="14000014" name="The main Habitat: Ghost forest trail, Black Rock mountain, in the dark of your Cisco, etc.&#x0A;Awful smells in the venom." />
-	<key id="14000015" name="The main Habitat: Mel Ta dam, Rockefeller occupied, such as bog Maggiore&#x0A;Awful smells in the venom." />
-	<key id="14000016" name="The main Habitat: None known.&#x0A;Awful smells in the venom." />
-	<key id="14000017" name="The main Habitat: Dark turning waste treatment plant, such as the ruins of lost&#x0A;Awful smells in the venom." />
-	<key id="14000018" name="The main Habitat: White Rock mountain, etc.&#x0A;Awful smells in the venom." />
-	<key id="14000019" name="The main Habitat: None known.&#x0A;Awful smells in the venom." />
-	<key id="14000020" name="The main Habitat: None known.&#x0A;Awful smells in the venom." />
-	<key id="15000001" name="The main Habitat: Suffering from the Badlands, etc.&#x0A;Gene filled in the oil." />
-	<key id="15000002" name="The main Habitat: Black-out land, etc.&#x0A;Gene filled in the oil." />
-	<key id="15000003" name="The main Habitat: Black Rock mountain, outlaw Hill, etc.&#x0A;Gene filled in the oil." />
-	<key id="15000004" name="The main Habitat: Cursed hourglass, hell, Bill wood, etc.&#x0A;Gene filled in the oil." />
-	<key id="15000005" name="The main Habitat: Dark Road North, etc.&#x0A;Gene filled in the oil." />
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Parsing this data used do not directly modify the --><ms2>
+	<key id="10000001" name="The main Habitat: Queenstown, beauty Street, tranquil forests, etc.\nClear from the river."/>
+	<key id="10000002" name="The main Habitat: Fairy tree, see Dick Lake dam, etc.\nClear from the river."/>
+	<key id="10000003" name="The main Habitat: Lost in the forest, Corona Lake, El Luau memories of forests, etc.\nClear from the river."/>
+	<key id="10000004" name="The main Habitat: New kerning Dome, red whistle cliff, etc.\nClear from the river."/>
+	<key id="10000005" name="The main Habitat: Queenstown, beauty Street, tranquil forests, etc.\nClear from the river."/>
+	<key id="10000006" name="The main Habitat: Fairy tree, see Dick Lake dam, etc.\nClear from the river."/>
+	<key id="10000007" name="The main Habitat: Castle rivers, including the River, El El Rua Silva\nClear from the river."/>
+	<key id="10000008" name="The main Habitat: Evansville, etc.\nClear from the river."/>
+	<key id="10000009" name="The main Habitat: Evansville, etc.\nClear from the river."/>
+	<key id="10000010" name="The main Habitat: Lew Daly City, Edith waterpia, red sand rock, etc.\nClear from the river."/>
+	<key id="10000011" name="The main Habitat: Mount Hill, Rockefeller Tower construction site, etc.\nClear from the river."/>
+	<key id="10000012" name="The main Habitat: -Only smithy Street, the Woodcutter's Hill, Yes, Cisco, etc.\nClear from the river."/>
+	<key id="10000013" name="The main Habitat: Mount Hill, Rockefeller Tower construction site, etc.\nClear from the river."/>
+	<key id="10000014" name="The main Habitat: New kerning Dome, red whistle cliff, etc.\nClear from the river."/>
+	<key id="10000015" name="The main Habitat: Lew Daly City, Edith waterpia, red sand rock, etc.\nClear from the river."/>
+	<key id="10000016" name="The main Habitat: Eli, the Interior of the square, Orne town, etc.\nClear from the river."/>
+	<key id="10000017" name="The main Habitat: Ant cave entrance, forgotten Citadel, Prism falls, etc.\nClear from the river."/>
+	<key id="10000018" name="The main Habitat: -Only smithy Street, the Woodcutter's Hill, Yes, Cisco, etc.\nClear from the river."/>
+	<key id="10000019" name="The main Habitat: Lew Daly City, Edith waterpia, red sand rock, etc.\nClear from the river."/>
+	<key id="10000020" name="The main Habitat: Castle rivers, including the River, El El Rua Silva\nClear from the river."/>
+	<key id="10000021" name="The main Habitat: White Rock mountain, etc.\nClear from the river."/>
+	<key id="10000022" name="The main Habitat: Lost in the forest, Corona Lake, El Luau memories of forests, etc.\nClear from the river."/>
+	<key id="10000023" name="The main Habitat: Eli, the Interior of the square, Orne town, etc.\nClear from the river."/>
+	<key id="10000024" name="The main Habitat: Ant cave entrance, forgotten Citadel, Prism falls, etc.\nClear from the river."/>
+	<key id="10000025" name="The main Habitat: New kerning Dome, red whistle cliff, etc.\nClear from the river."/>
+	<key id="10000026" name="The main Habitat: White Rock mountain, etc.\nClear from the river."/>
+	<key id="10000027" name="The main Habitat: -Only smithy Street, the Woodcutter's Hill, Yes, Cisco, etc.\nClear from the river."/>
+	<key id="10000028" name="The main Habitat: Lew Daly City, Edith waterpia, red sand rock, etc.\nClear from the river."/>
+	<key id="10000029" name="The main Habitat: New kerning Dome, red whistle cliff, etc.\nClear from the river."/>
+	<key id="10000030" name="The main Habitat: None known.\nClear from the river."/>
+	<key id="10000031" name="The main Habitat: Castle rivers, including the River, El El Rua Silva\nClear from the river."/>
+	<key id="10000032" name="The main Habitat: Castle rivers, including the River, El El Rua Silva\nClear from the river."/>
+	<key id="10000033" name="The main Habitat: Lost in the forest, Corona Lake, El Luau memories of forests, etc.\nClear from the river."/>
+	<key id="10000034" name="The main Habitat: Mount Hill, Rockefeller Tower construction site, etc.\nClear from the river."/>
+	<key id="10000035" name="The main Habitat: Eli, the Interior of the square, Orne town, etc.\nClear from the river."/>
+	<key id="10000036" name="The main Habitat: Ant cave entrance, forgotten Citadel, Prism falls, etc.\nClear from the river."/>
+	<key id="10000037" name="The main Habitat: Tri Ah, etc.\nClear from the river."/>
+	<key id="10000038" name="The main Habitat: None known.\nClear from the river."/>
+	<key id="10000039" name="The main Habitat: None known.\nClear from the river."/>
+	<key id="10000040" name="The main Habitat: -Only smithy Street, etc.\nClear from the river."/>
+	<key id="11000001" name="The main Habitat: The goal in pharmaceutical factory, etc.\nFrom sea water."/>
+	<key id="11000002" name="The main Habitat: The goal in pharmaceutical factory, etc.\nFrom sea water."/>
+	<key id="11000003" name="The main Habitat: Re Yes SIS I Luther, etc.\nFrom sea water."/>
+	<key id="11000004" name="The main Habitat: Eddy cliff, Barbosa waterfront, Rainbow mountain, etc.\nFrom sea water."/>
+	<key id="11000005" name="The main Habitat: Ice Crown, eternity's Cave, Lou del Ritz Ocean town, etc.\nFrom sea water."/>
+	<key id="11000006" name="The main Habitat: None known.\nFrom sea water."/>
+	<key id="11000007" name="The main Habitat: Dicey Vulture, snow park, Mu Los media niwy Park bar, etc.\nFrom sea water."/>
+	<key id="11000008" name="The main Habitat: Elbow's excavation log, etc.\nFrom sea water."/>
+	<key id="11000009" name="The main Habitat: Carved Cliff Fort, rough sand dunes, etc.\nFrom sea water."/>
+	<key id="11000010" name="The main Habitat: Silver stone bridge, a resort in the Bill, such as Newtown\nFrom sea water."/>
+	<key id="11000011" name="The main Habitat: Re Yes SIS I Luther, etc.\nFrom sea water."/>
+	<key id="11000012" name="The main Habitat: Eddy cliff, Barbosa waterfront, Rainbow mountain, etc.\nFrom sea water."/>
+	<key id="11000013" name="The main Habitat: Ice Crown, eternity's Cave, Lou del Ritz Ocean town, etc.\nFrom sea water."/>
+	<key id="11000014" name="The main Habitat: Eddy cliff, Barbosa waterfront, Rainbow mountain, etc.\nFrom sea water."/>
+	<key id="11000017" name="The main Habitat: Re Yes SIS I Luther, etc.\nFrom sea water."/>
+	<key id="11000018" name="The main Habitat: Eddy cliff, Barbosa waterfront, Rainbow mountain, etc.\nFrom sea water."/>
+	<key id="11000019" name="The main Habitat: None known.\nFrom sea water."/>
+	<key id="11000020" name="The main Habitat: Beach way &quot;111&quot;, Get the right port, etc.\nFrom sea water."/>
+	<key id="11000021" name="The main Habitat: Beach way &quot;111&quot;, Get the right port, etc.\nFrom sea water."/>
+	<key id="11000022" name="The main Habitat: Dicey Vulture, snow park, Mu Los media niwy Park bar, etc.\nFrom sea water."/>
+	<key id="11000023" name="The main Habitat: Carved Cliff Fort, rough sand dunes, etc.\nFrom sea water."/>
+	<key id="11000025" name="The main Habitat: Eddy cliff, Barbosa waterfront, Rainbow mountain, etc.\nFrom sea water."/>
+	<key id="11000026" name="The main Habitat: None known.\nFrom sea water."/>
+	<key id="11000027" name="The main Habitat: The goal in pharmaceutical factory, etc.\nFrom sea water."/>
+	<key id="11000028" name="The main Habitat: Carved Cliff Fort, rough sand dunes, etc.\nFrom sea water."/>
+	<key id="11000029" name="The main Habitat: Amherst, Boogie Collie waterfront, Carl Liv coast, etc.\nFrom sea water."/>
+	<key id="11000030" name="The main Habitat: Silver stone bridge, a resort in the Bill, such as Newtown\nFrom sea water."/>
+	<key id="11000031" name="The main Habitat: Re Yes SIS I Luther, etc.\nFrom sea water."/>
+	<key id="11000032" name="The main Habitat: Elbow's excavation log, etc.\nFrom sea water."/>
+	<key id="11000033" name="The main Habitat: Carved Cliff Fort, rough sand dunes, etc.\nFrom sea water."/>
+	<key id="11000034" name="The main Habitat: None known.\nFrom sea water."/>
+	<key id="11000035" name="The main Habitat: Beach way &quot;111&quot;, Get the right port, etc.\nFrom sea water."/>
+	<key id="11000036" name="The main Habitat: Ice Crown, eternity's Cave, Lou del Ritz Ocean town, etc.\nFrom sea water."/>
+	<key id="11000037" name="The main Habitat: Carved Cliff Fort, rough sand dunes, etc.\nFrom sea water."/>
+	<key id="11000038" name="The main Habitat: Dicey Vulture, snow park, Mu Los media niwy Park bar, etc.\nFrom sea water."/>
+	<key id="11000039" name="The main Habitat: Green forest trail, etc.\nFrom sea water."/>
+	<key id="11000040" name="The main Habitat: Re Yes SIS I Luther, etc.\nFrom sea water."/>
+	<key id="11000041" name="The main Habitat: The goal in pharmaceutical factory, etc.\nFrom sea water."/>
+	<key id="11000042" name="The main Habitat: Carved Cliff Fort, rough sand dunes, etc.\nFrom sea water."/>
+	<key id="11000043" name="The main Habitat: None known.\nFrom sea water."/>
+	<key id="11000044" name="The main Habitat: Beach way &quot;111&quot;, Get the right port, etc.\nFrom sea water."/>
+	<key id="11000045" name="The main Habitat: Ice Crown, eternity's Cave, Lou del Ritz Ocean town, etc.\nFrom sea water."/>
+	<key id="11000046" name="The main Habitat: Dicey Vulture, snow park, Mu Los media niwy Park bar, etc.\nFrom sea water."/>
+	<key id="11000047" name="The main Habitat: Elbow's excavation log, etc.\nFrom sea water."/>
+	<key id="11000048" name="The main Habitat: Green forest trail, etc.\nFrom sea water."/>
+	<key id="11000049" name="The main Habitat: Elbow's excavation log, etc.\nFrom sea water."/>
+	<key id="11000050" name="The main Habitat: Eddy cliff, Barbosa waterfront, Rainbow mountain, etc.\nFrom sea water."/>
+	<key id="11000051" name="The main Habitat: Ice Crown, eternity's Cave, Lou del Ritz Ocean town, etc.\nFrom sea water."/>
+	<key id="11000052" name="The main Habitat: Eddy cliff, Barbosa waterfront, Rainbow mountain, etc.\nFrom sea water."/>
+	<key id="11000053" name="The main Habitat: The goal in pharmaceutical factory, etc.\nFrom sea water."/>
+	<key id="11000054" name="The main Habitat: Green forest trail, etc.\nFrom sea water."/>
+	<key id="11000055" name="The main Habitat: Silver stone bridge, a resort in the Bill, such as Newtown\nFrom sea water."/>
+	<key id="11000056" name="The main Habitat: Elbow's excavation log, etc.\nFrom sea water."/>
+	<key id="11000057" name="The main Habitat: Silver stone bridge, a resort in the Bill, such as Newtown\nFrom sea water."/>
+	<key id="11000058" name="The main Habitat: Amherst, Boogie Collie waterfront, Carl Liv coast, etc.\nFrom sea water."/>
+	<key id="11000059" name="The main Habitat: Re Yes SIS I Luther, etc.\nFrom sea water."/>
+	<key id="11000060" name="The main Habitat: Dicey Vulture, snow park, Mu Los media niwy Park bar, etc.\nFrom sea water."/>
+	<key id="11000061" name="The main Habitat: Dicey Vulture, snow park, Mu Los media niwy Park bar, etc.\nFrom sea water."/>
+	<key id="11000062" name="The main Habitat: Elbow's excavation log, etc.\nFrom sea water."/>
+	<key id="11000063" name="The main Habitat: Green forest trail, etc.\nFrom sea water."/>
+	<key id="11000064" name="The main Habitat: Silver stone bridge, a resort in the Bill, such as Newtown\nFrom sea water."/>
+	<key id="11000065" name="The main Habitat: Ice Crown, eternity's Cave, Lou del Ritz Ocean town, etc.\nFrom sea water."/>
+	<key id="11000066" name="The main Habitat: None known.\nFrom sea water."/>
+	<key id="11000067" name="The main Habitat: None known.\nFrom sea water."/>
+	<key id="11000068" name="The main Habitat: Reese havens, etc.\nFrom sea water."/>
+	<key id="11000069" name="The main Habitat: Al Ricardo prison, etc.\nFrom sea water."/>
+	<key id="11000070" name="The main Habitat: None known.\nFrom sea water."/>
+	<key id="12000001" name="The main Habitat: Lava crowns, black fog, lava caves, such as Luna\nFrom the hot lava."/>
+	<key id="12000002" name="The main Habitat: Wounded in the Gorge, Tallis, lava and Energy Laboratory, etc.\nFrom the hot lava."/>
+	<key id="12000003" name="The main Habitat: Lava crowns, black fog, lava caves, such as Luna\nFrom the hot lava."/>
+	<key id="12000004" name="The main Habitat: Peru Peru Highlands, such as the floating down the River, it is an integral part of the hot example\nFrom the hot lava."/>
+	<key id="12000005" name="The main Habitat: Lava crowns, black fog, lava caves, such as Luna\nFrom the hot lava."/>
+	<key id="12000006" name="The main Habitat: El Luau lamented the bus, well, brainstorm Rita, etc.\nFrom the hot lava."/>
+	<key id="12000007" name="The main Habitat: Wounded in the Gorge, Tallis, lava and Energy Laboratory, etc.\nFrom the hot lava."/>
+	<key id="12000008" name="The main Habitat: El Luau lamented the bus, well, brainstorm Rita, etc.\nFrom the hot lava."/>
+	<key id="12000009" name="The main Habitat: Hot hot lava hot springs, blood River, such as boiling lava Valley\nFrom the hot lava."/>
+	<key id="12000010" name="The main Habitat: Lava development, etc.\nFrom the hot lava."/>
+	<key id="12000011" name="The main Habitat: Hot hot lava hot springs, blood River, such as boiling lava Valley\nFrom the hot lava."/>
+	<key id="12000012" name="The main Habitat: Peru Peru Highlands, such as the floating down the River, it is an integral part of the hot example\nFrom the hot lava."/>
+	<key id="12000013" name="The main Habitat: Lava development, etc.\nFrom the hot lava."/>
+	<key id="12000014" name="The main Habitat: Wounded in the Gorge, Tallis, lava and Energy Laboratory, etc.\nFrom the hot lava."/>
+	<key id="12000015" name="The main Habitat: El Luau lamented the bus, well, brainstorm Rita, etc.\nFrom the hot lava."/>
+	<key id="12000016" name="The main Habitat: None known.\nFrom the hot lava."/>
+	<key id="12000017" name="The main Habitat: None known.\nFrom the hot lava."/>
+	<key id="12000018" name="The main Habitat: None known.\nFrom the hot lava."/>
+	<key id="12000019" name="The main Habitat: None known.\nFrom the hot lava."/>
+	<key id="13000003" name="The main Habitat: None known.\nEvil in the polluted water."/>
+	<key id="13000005" name="The main Habitat: None known.\nEvil in the polluted water."/>
+	<key id="13000007" name="The main Habitat: None known.\nEvil in the polluted water."/>
+	<key id="13000009" name="The main Habitat: None known.\nEvil in the polluted water."/>
+	<key id="14000001" name="The main Habitat: Body Cartagena chemical factory, Cobb Liam basin, etc.\nAwful smells in the venom."/>
+	<key id="14000002" name="The main Habitat: Croydon railway station, Red Cliff, ghostly whistling of Smirnoff falls, etc.\nAwful smells in the venom."/>
+	<key id="14000003" name="The main Habitat: MSI Robot development center, hell I Luther, bellow the cliff fortress, etc.\nAwful smells in the venom."/>
+	<key id="14000004" name="The main Habitat: Dark turning waste treatment plant, such as the ruins of lost\nAwful smells in the venom."/>
+	<key id="14000005" name="The main Habitat: MSI Robot development center, hell I Luther, bellow the cliff fortress, etc.\nAwful smells in the venom."/>
+	<key id="14000006" name="The main Habitat: Kerning city, etc.\nAwful smells in the venom."/>
+	<key id="14000007" name="The main Habitat: None known.\nAwful smells in the venom."/>
+	<key id="14000008" name="The main Habitat: D waste treatment plant, see Dick, dam, etc.\nAwful smells in the venom."/>
+	<key id="14000009" name="The main Habitat: Body Cartagena chemical factory, Cobb Liam basin, etc.\nAwful smells in the venom."/>
+	<key id="14000010" name="The main Habitat: Mel Ta dam, Rockefeller occupied, such as bog Maggiore\nAwful smells in the venom."/>
+	<key id="14000011" name="The main Habitat: None known.\nAwful smells in the venom."/>
+	<key id="14000012" name="The main Habitat: Ghost forest trail, Black Rock mountain, in the dark of your Cisco, etc.\nAwful smells in the venom."/>
+	<key id="14000013" name="The main Habitat: Croydon railway station, Red Cliff, ghostly whistling of Smirnoff falls, etc.\nAwful smells in the venom."/>
+	<key id="14000014" name="The main Habitat: Ghost forest trail, Black Rock mountain, in the dark of your Cisco, etc.\nAwful smells in the venom."/>
+	<key id="14000015" name="The main Habitat: Mel Ta dam, Rockefeller occupied, such as bog Maggiore\nAwful smells in the venom."/>
+	<key id="14000016" name="The main Habitat: None known.\nAwful smells in the venom."/>
+	<key id="14000017" name="The main Habitat: Dark turning waste treatment plant, such as the ruins of lost\nAwful smells in the venom."/>
+	<key id="14000018" name="The main Habitat: White Rock mountain, etc.\nAwful smells in the venom."/>
+	<key id="14000019" name="The main Habitat: None known.\nAwful smells in the venom."/>
+	<key id="14000020" name="The main Habitat: None known.\nAwful smells in the venom."/>
+	<key id="15000001" name="The main Habitat: Suffering from the Badlands, etc.\nGene filled in the oil."/>
+	<key id="15000002" name="The main Habitat: Black-out land, etc.\nGene filled in the oil."/>
+	<key id="15000003" name="The main Habitat: Black Rock mountain, outlaw Hill, etc.\nGene filled in the oil."/>
+	<key id="15000004" name="The main Habitat: Cursed hourglass, hell, Bill wood, etc.\nGene filled in the oil."/>
+	<key id="15000005" name="The main Habitat: Dark Road North, etc.\nGene filled in the oil."/>
 </ms2>

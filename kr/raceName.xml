@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ms2>
-    <key id="unknown" name="Unknown" />
-    <key id="plant" name="Plant-type" />
-    <key id="animal" name="Animal-type" />
-    <key id="bug" name="Bug-type" />
-    <key id="mystic" name="Divine-type" />
-    <key id="spirit" name="Spirit-type" />
-    <key id="fairy" name="Fairy-type" />
-    <key id="combine" name="Human-type" />
-    <key id="undead" name="Undead-type" />
-    <key id="devil" name="Devil-type" />
-    <key id="machine" name="Machine-type" />
-    <key id="creature" name="Creature-type" />
+    <key id="unknown" name="Unknown"/>
+    <key id="plant" name="Plant-type"/>
+    <key id="animal" name="Animal-type"/>
+    <key id="bug" name="Bug-type"/>
+    <key id="mystic" name="Divine-type"/>
+    <key id="spirit" name="Spirit-type"/>
+    <key id="fairy" name="Fairy-type"/>
+    <key id="combine" name="Human-type"/>
+    <key id="undead" name="Undead-type"/>
+    <key id="devil" name="Devil-type"/>
+    <key id="machine" name="Machine-type"/>
+    <key id="creature" name="Creature-type"/>
 </ms2>

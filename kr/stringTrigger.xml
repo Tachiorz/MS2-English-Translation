@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <ms2>
 	<key id="02000013_BF__IM_542__0" name="Later, the better off" npc="The wounded man 11"/>
 	<key id="02000013_BF__IM_542__1" name="Thank you!" npc="The wounded man 11"/>
-	<key id="02000013_BF__IM_543__0" name="Now let&#8217;s move on to ..." npc="The wounded man 11"/>
-	<key id="02000013_BF__IM_544__0" name="Thanks I&#8217;ve lived!" npc="12 people are injured"/>
+	<key id="02000013_BF__IM_543__0" name="Now let's move on to ..." npc="The wounded man 11"/>
+	<key id="02000013_BF__IM_544__0" name="Thanks I've lived!" npc="12 people are injured"/>
 	<key id="02000013_BF__IM_545__0" name="Lived, and" npc="The wounded man 13"/>
-	<key id="02000013_BF__IM_546__0" name="Uhh, it&#8217;s head" npc="The wounded man 14"/>
-	<key id="02000013_BF__IM_546__1" name="I don&#8217;t remember anything" npc="The wounded man 14"/>
+	<key id="02000013_BF__IM_546__0" name="Uhh, it's head" npc="The wounded man 14"/>
+	<key id="02000013_BF__IM_546__1" name="I don't remember anything" npc="The wounded man 14"/>
 	<key id="02000013_BF__IM_547__0" name="Barely lived in!" npc="12 people are injured"/>
 	<key id="02000013_BF__IM_548__0" name="Thank you!" npc="The wounded man 13"/>
 	<key id="02000014_AD__IA_113__0" name="Now I have lived!" npc="-Bo"/>
 	<key id="02000014_AD__IA_114__0" name="Thank you!" npc="-Bo"/>
-	<key id="02000014_AD__IA_115__0" name="Thought I&#8217;d die heavy bruises!" npc="-Bo"/>
+	<key id="02000014_AD__IA_115__0" name="Thought I'd die heavy bruises!" npc="-Bo"/>
 	<key id="02000014_AD__IA_116__0" name="Thank you!" npc="-Bo"/>
 	<key id="02000014_AD__IA_117__0" name="Now I have lived!" npc="-Bo"/>
 	<key id="02000014_AD__IA_118__0" name="I just paid this favor!" npc="-Bo"/>
 	<key id="02000014_AD__IA_119__0" name="Thank you!" npc="-Bo"/>
-	<key id="02000037_BF__BOSSSPAWN__0" name="… Well?! That&#8217;s clotted blood of immortality? Come on bring me the blood.\nI&#8217;ll go back to the entrance of the cave where the first Ant to talk again."/>
+	<key id="02000037_BF__BOSSSPAWN__0" name="… Well?! That's clotted blood of immortality? Come on bring me the blood.\nI'll go back to the entrance of the cave where the first Ant to talk again."/>
 	<key id="02000040_BF__IM_686__0" name="Got it! If you work!" npc="Play blooming con 11"/>
 	<key id="02000040_BF__IM_687__0" name="No, touch wherever you go!" npc="Play the prisoners 12"/>
 	<key id="02000040_BF__IM_688__0" name="Do not bugging me~ Go now!" npc="Play blooming con 11"/>
-	<key id="02000040_BF__IM_689__0" name="Huh, I&#8217;m tired~" npc="Play the prisoners 12"/>
+	<key id="02000040_BF__IM_689__0" name="Huh, I'm tired~" npc="Play the prisoners 12"/>
 	<key id="02000040_BF__IM_690__0" name="EW, annoyance~" npc="Play blooming con 11"/>
-	<key id="02000040_BF__IM_691__0" name="Didn&#8217;t~ Do not work?!" npc="Play the prisoners 12"/>
+	<key id="02000040_BF__IM_691__0" name="Didn't~ Do not work?!" npc="Play the prisoners 12"/>
 	<key id="02000040_BF__IM_692__0" name="Giant~True live four to FAK FAK" npc="Play blooming con 11"/>
 	<key id="02000040_BF__IM_693__0" name="To Hur, King sucks!" npc="Play the prisoners 12"/>
 	<key id="02000046_AD__01_MOB__0" name="On the altar call me up you inflamed?" npc="Kadan"/>
@@ -83,8 +83,8 @@
 	<key id="02000066_BF__MAIN__16" name="I watched the door of dimensions from the powers of darkness was!"/>
 	<key id="02000066_BF__MAIN__17" name="Let us leave ..."/>
 	<key id="02000066_BF__MAIN__18" name="Blimey ..."/>
-	<key id="02000066_BF__MAIN__19" name="I don&#8217;t think I gave up."/>
-	<key id="02000066_BF__MAIN__20" name="Green la pen&#8217;s position known to reassure more than long milestone."/>
+	<key id="02000066_BF__MAIN__19" name="I don't think I gave up."/>
+	<key id="02000066_BF__MAIN__20" name="Green la pen's position known to reassure more than long milestone."/>
 	<key id="02000066_BF__MAIN__21" name="Oh North ... You are the one I do not disappear ..."/>
 	<key id="02000066_BF__MAIN__22" name="Again, the monster coming.\nDimension through the door and go to the forest of life, or\nPlease keep an eye on the wards remained in place."/>
 	<key id="02000066_BF__MAIN__23" name="Prevent mobbing Monster!"/>
@@ -100,16 +100,16 @@
 	<key id="02000066_BF__MAIN__33" name="I watched the door of dimensions from the powers of darkness was!"/>
 	<key id="02000066_BF__MAIN__34" name="Let us leave ..."/>
 	<key id="02000066_BF__MAIN__35" name="Blimey ..."/>
-	<key id="02000066_BF__MAIN__36" name="I don&#8217;t think I gave up."/>
-	<key id="02000066_BF__MAIN__37" name="Green la pen&#8217;s position known to reassure more than long milestone."/>
+	<key id="02000066_BF__MAIN__36" name="I don't think I gave up."/>
+	<key id="02000066_BF__MAIN__37" name="Green la pen's position known to reassure more than long milestone."/>
 	<key id="02000066_BF__MAIN__38" name="Oh North ... You are the one I do not disappear ..."/>
 	<key id="02000066_BF__MAIN__39" name="The powers of darkness are completely defeated.\nShortly after moving into the forest of life."/>
 	<key id="02000066_BF__MAIN__40" name="Ye have been found wanting."/>
-	<key id="02000066_BF__MAIN__41" name="So you don&#8217;t have to be disappointed."/>
-	<key id="02000066_BF__MAIN__42" name="Even those who do not have ye&#8217;ll have been found wanting."/>
+	<key id="02000066_BF__MAIN__41" name="So you don't have to be disappointed."/>
+	<key id="02000066_BF__MAIN__42" name="Even those who do not have ye'll have been found wanting."/>
 	<key id="02000066_BF__MAIN__43" name="Now green la pen is the end of the world peace of the overthrow of the Maple."/>
 	<key id="02000066_BF__MAIN__44" name="Then press down and your guys by himself."/>
-	<key id="02000066_BF__MAIN__45" name="Oh North ... Here&#8217;s a far think not."/>
+	<key id="02000066_BF__MAIN__45" name="Oh North ... Here's a far think not."/>
 	<key id="02000066_BF__MAIN__46" name="Is your defeat."/>
 	<key id="02000066_BF__NPC01__0" name="Guards this down."/>
 	<key id="02000066_BF__NPC01__1" name="I will fight with you!" npc="Carabinieri Spearman"/>
@@ -131,7 +131,7 @@
 	<key id="02000076_TW_HenesysVillage__01_NPCBACKUP04__0" name="Seodureuja!" npc="Vigilante reinforcements"/>
 	<key id="02000076_TW_HenesysVillage__01_NPCBACKUP07__0" name="The city is in a hurry!" npc="Vigilante reinforcements"/>
 	<key id="02000076_TW_HenesysVillage__02_NPCBACKUP01__0" name="Hurry up!" npc="Vigilante reinforcements"/>
-	<key id="02000076_TW_HenesysVillage__02_NPCBACKUP04__0" name="Let&#8217;s go!" npc="Vigilante reinforcements"/>
+	<key id="02000076_TW_HenesysVillage__02_NPCBACKUP04__0" name="Let's go!" npc="Vigilante reinforcements"/>
 	<key id="02000081_IN__TRIGGER_01__0" name="... What are you doing here!" npc="Sat cast"/>
 	<key id="02000081_IN__TRIGGER_01__1" name="... It wont come out right there?!" npc="Sat cast"/>
 	<key id="02000081_IN__TRIGGER_01__2" name="Nevermind ... Aaaagh!" npc="Sat cast"/>
@@ -145,11 +145,11 @@
 	<key id="02000085_BF__IA_10000035__0" name="Dizzy ..." npc="Ice sword bottle"/>
 	<key id="02000086_BF__03_WAVE__0" name="Knocking in the furnace woke them wing-Ku."/>
 	<key id="02000086_BF__03_WAVE__1" name="Trail wing Walker added reinforcements arrive"/>
-	<key id="02000087_BF__CANDLE1__0" name="Timmy after fire this stupid guy who doesn&#8217;t!" npc="Monty"/>
+	<key id="02000087_BF__CANDLE1__0" name="Timmy after fire this stupid guy who doesn't!" npc="Monty"/>
 	<key id="02000087_BF__CANDLE2__0" name="What is an alien! In Hugh ..."/>
-	<key id="02000087_BF__CANDLE3__0" name="Timmy after fire this stupid guy who doesn&#8217;t!"/>
+	<key id="02000087_BF__CANDLE3__0" name="Timmy after fire this stupid guy who doesn't!"/>
 	<key id="02000087_BF__CANDLE4__0" name="What is an alien! In Hugh ..." npc="Penny"/>
-	<key id="02000087_BF__CANDLE5__0" name="Timmy after fire this stupid guy who doesn&#8217;t!" npc="Monty"/>
+	<key id="02000087_BF__CANDLE5__0" name="Timmy after fire this stupid guy who doesn't!" npc="Monty"/>
 	<key id="02000087_BF__CANDLE6__0" name="What is an alien! In Hugh ..."/>
 	<key id="02000095_BF__QUEST_MUSIC__0" name="After the arm~ Slept well~" npc="Yes or"/>
 	<key id="02000095_BF__QUEST_MUSIC__1" name="Huh? What happened?!" npc="Shah or"/>
@@ -169,13 +169,13 @@
 	<key id="02000116_BF__IA_108__0" name="Scared to die" npc="Royal porters"/>
 	<key id="02000116_BF__IA_108__1" name="Thank you my love!" npc="Royal porters"/>
 	<key id="02000116_BF__IA_109__0" name="Thank you my love!" npc="Royal porters"/>
-	<key id="02000116_BF__IA_109__1" name="Blood in the eye and I&#8217;ll wait for this chip" npc="Royal porters"/>
+	<key id="02000116_BF__IA_109__1" name="Blood in the eye and I'll wait for this chip" npc="Royal porters"/>
 	<key id="02000116_BF__IA_110__0" name="Zhang is also not scared to die" npc="Royal porters"/>
 	<key id="02000116_BF__IA_110__1" name="Continue to live in one?" npc="Royal porters"/>
 	<key id="02000116_BF__IA_111__0" name="Thank you my love!" npc="Royal porters"/>
-	<key id="02000116_BF__IA_111__1" name="I&#8217;m not even Golden hammock porters" npc="Royal porters"/>
+	<key id="02000116_BF__IA_111__1" name="I'm not even Golden hammock porters" npc="Royal porters"/>
 	<key id="02000116_BF__IA_112__0" name="And on the~ Lived" npc="Royal porters"/>
-	<key id="02000116_BF__IA_112__1" name="I&#8217;ll just pay this favor~" npc="Royal porters"/>
+	<key id="02000116_BF__IA_112__1" name="I'll just pay this favor~" npc="Royal porters"/>
 	<key id="02000133_AD__BOARD__0" name="'Courageous characters, will get saved.'"/>
 	<key id="02000137_BF__IA_47__0" name="Signa~Ong" npc="Butterfly"/>
 	<key id="02000146_BF__IA_101__0" name="Stilton, 1961" npc="Battle the dark wind"/>
@@ -197,13 +197,13 @@
 	<key id="02000149_IN__IA_102__0" name="Garters!" npc="Arcade directed by m 2"/>
 	<key id="02000149_IN__IA_102__1" name="What is something like this!" npc="Arcade directed by m 2"/>
 	<key id="02000149_IN__IA_103__0" name="Lose the Chair?!" npc="Arcade directed by m 3"/>
-	<key id="02000149_IN__IA_103__1" name="I&#8217;m not going to be a go!" npc="Arcade directed by m 3"/>
+	<key id="02000149_IN__IA_103__1" name="I'm not going to be a go!" npc="Arcade directed by m 3"/>
 	<key id="02000149_IN__IA_104__0" name="Ah ... What the fuck!" npc="Arcade directed by m 4"/>
 	<key id="02000149_IN__IA_104__1" name="Got it! I go!!" npc="Arcade directed by m 4"/>
 	<key id="02000149_IN__IA_105__0" name="Garters!" npc="Arcade directed by Lady 1"/>
 	<key id="02000149_IN__IA_105__1" name="What is something like this!" npc="Arcade directed by Lady 1"/>
 	<key id="02000163_BF__01_TRIGGER__0" name="Thank you for saving~!" npc="McIntyre, Ph.d."/>
-	<key id="02000197_BF__IM_562__0" name="It&#8217;s like this time I was already in vain!" npc="AB worowo 1"/>
+	<key id="02000197_BF__IM_562__0" name="It's like this time I was already in vain!" npc="AB worowo 1"/>
 	<key id="02000197_BF__IM_563__0" name="Belle was originally a Sleepyhead!" npc="AB BORO BORO 2"/>
 	<key id="02000197_BF__IM_564__0" name="Now ... Think for a minute!" npc="AB worowo 1"/>
 	<key id="02000197_BF__IM_565__0" name="After the arm~ Slept well~" npc="AB BORO BORO 2"/>
@@ -211,7 +211,7 @@
 	<key id="02000197_BF__IM_567__0" name="I am going~ Go now!" npc="AB BORO BORO 2"/>
 	<key id="02000213_BF__SCENE01__0" name="Uhh ..."/>
 	<key id="02000213_BF__SCENE01__1" name="Ah ... No ...!!!"/>
-	<key id="02000213_BF__SCENE01__2" name="Stupid guy!!! It&#8217;s no big deal to put these guys ..."/>
+	<key id="02000213_BF__SCENE01__2" name="Stupid guy!!! It's no big deal to put these guys ..."/>
 	<key id="02000213_BF__SCENE01__3" name="Only this kind of thing I expect?"/>
 	<key id="02000213_BF__SCENE01__4" name="Lennon ... Bella!! Stop it!!"/>
 	<key id="02000213_BF__SCENE01__5" name="Spivey? Things bother you."/>
@@ -225,54 +225,54 @@
 	<key id="02000217_BF__PORTAL_2__1" name="The portal is gone."/>
 	<key id="02000229_BF__FIRE_01__0" name="Yama-Le-tea~!!!"/>
 	<key id="02000230_BF__SAVE_01__0" name="AW! The door ...!" npc="Hyperion residents suffering from"/>
-	<key id="02000230_BF__SAVE_01__1" name="The intruder!" npc="Toto&#8217;s alter ego"/>
-	<key id="02000230_BF__SAVE_01__2" name="Pics attack!" npc="Toto&#8217;s alter ego"/>
+	<key id="02000230_BF__SAVE_01__1" name="The intruder!" npc="Toto's alter ego"/>
+	<key id="02000230_BF__SAVE_01__2" name="Pics attack!" npc="Toto's alter ego"/>
 	<key id="02000230_BF__SAVE_01__3" name="Other residents got stuck more inside!" npc="Hyperion residents suffering from"/>
 	<key id="02000230_BF__SAVE_01__4" name="Thanks for saving!" npc="Hyperion residents suffering from"/>
 	<key id="02000230_BF__SAVE_02__0" name="Come to rescue?" npc="Hyperion residents suffering from"/>
-	<key id="02000230_BF__SAVE_02__1" name="Who are you!" npc="Toto&#8217;s alter ego"/>
-	<key id="02000230_BF__SAVE_02__2" name="Pics!" npc="Toto&#8217;s alter ego"/>
+	<key id="02000230_BF__SAVE_02__1" name="Who are you!" npc="Toto's alter ego"/>
+	<key id="02000230_BF__SAVE_02__2" name="Pics!" npc="Toto's alter ego"/>
 	<key id="02000230_BF__SAVE_02__3" name="They lived ..." npc="Hyperion residents suffering from"/>
 	<key id="02000230_BF__SAVE_02__4" name="Thank you ...!" npc="Hyperion residents suffering from"/>
 	<key id="02000230_BF__SAVE_03__0" name="Come to rescue?" npc="Hyperion residents suffering from"/>
-	<key id="02000230_BF__SAVE_03__1" name="Who are you!" npc="Toto&#8217;s alter ego"/>
-	<key id="02000230_BF__SAVE_03__2" name="Pics!" npc="Toto&#8217;s alter ego"/>
+	<key id="02000230_BF__SAVE_03__1" name="Who are you!" npc="Toto's alter ego"/>
+	<key id="02000230_BF__SAVE_03__2" name="Pics!" npc="Toto's alter ego"/>
 	<key id="02000230_BF__SAVE_03__3" name="They lived ..." npc="Hyperion residents suffering from"/>
 	<key id="02000230_BF__SAVE_03__4" name="Thank you ...!" npc="Hyperion residents suffering from"/>
 	<key id="02000230_BF__SAVE_04__0" name="You ...!" npc="Hyperion residents suffering from"/>
-	<key id="02000230_BF__SAVE_04__1" name="Who are you!" npc="Toto&#8217;s alter ego"/>
-	<key id="02000230_BF__SAVE_04__2" name="Pics attack!" npc="Toto&#8217;s alter ego"/>
+	<key id="02000230_BF__SAVE_04__1" name="Who are you!" npc="Toto's alter ego"/>
+	<key id="02000230_BF__SAVE_04__2" name="Pics attack!" npc="Toto's alter ego"/>
 	<key id="02000230_BF__SAVE_04__3" name="Thank you my love!" npc="Hyperion residents suffering from"/>
 	<key id="02000230_BF__SAVE_04__4" name="Man alive~" npc="Hyperion residents suffering from"/>
 	<key id="02000230_BF__SAVE_05__0" name="The how to ..." npc="Hyperion residents suffering from"/>
-	<key id="02000230_BF__SAVE_05__1" name="The intruder!" npc="Toto&#8217;s alter ego"/>
-	<key id="02000230_BF__SAVE_05__2" name="Pics!" npc="Toto&#8217;s alter ego"/>
+	<key id="02000230_BF__SAVE_05__1" name="The intruder!" npc="Toto's alter ego"/>
+	<key id="02000230_BF__SAVE_05__2" name="Pics!" npc="Toto's alter ego"/>
 	<key id="02000230_BF__SAVE_05__3" name="Thank you very much ..." npc="Hyperion residents suffering from"/>
-	<key id="02000230_BF__SAVE_05__4" name="You&#8217;ve got to go home ..." npc="Hyperion residents suffering from"/>
+	<key id="02000230_BF__SAVE_05__4" name="You've got to go home ..." npc="Hyperion residents suffering from"/>
 	<key id="02000230_BF__SAVE_06__0" name="AW! The door ...!" npc="Hyperion residents suffering from"/>
-	<key id="02000230_BF__SAVE_06__1" name="Who are you!" npc="Toto&#8217;s alter ego"/>
-	<key id="02000230_BF__SAVE_06__2" name="Pics!" npc="Toto&#8217;s alter ego"/>
+	<key id="02000230_BF__SAVE_06__1" name="Who are you!" npc="Toto's alter ego"/>
+	<key id="02000230_BF__SAVE_06__2" name="Pics!" npc="Toto's alter ego"/>
 	<key id="02000230_BF__SAVE_06__3" name="I lived!" npc="Hyperion residents suffering from"/>
 	<key id="02000230_BF__SAVE_06__4" name="Thank you!" npc="Hyperion residents suffering from"/>
 	<key id="02000230_BF__SAVE_07__0" name="AW ...?" npc="Hyperion residents suffering from"/>
-	<key id="02000230_BF__SAVE_07__1" name="The intruder!" npc="Toto&#8217;s alter ego"/>
-	<key id="02000230_BF__SAVE_07__2" name="That guy!" npc="Toto&#8217;s alter ego"/>
+	<key id="02000230_BF__SAVE_07__1" name="The intruder!" npc="Toto's alter ego"/>
+	<key id="02000230_BF__SAVE_07__2" name="That guy!" npc="Toto's alter ego"/>
 	<key id="02000230_BF__SAVE_07__3" name="Thank you my love!" npc="Hyperion residents suffering from"/>
 	<key id="02000230_BF__SAVE_07__4" name="Mom~" npc="Hyperion residents suffering from"/>
 	<key id="02000241_BF__TIMER__0" name="What the fuck ... These suckers I pendejo these!"/>
 	<key id="02000241_BF__TIMER__1" name="One floor down was never blossomed like die ate!"/>
 	<key id="02000241_BF__TIMER__2" name="4People have gotten a taste of me to give your opponent ... Funny."/>
 	<key id="02000241_BF__TIMER__3" name="Dungeon goal: Conquer the Golden Tower"/>
-	<key id="02000241_BF__TIMER__4" name="If you are behind one or more&#8217;s not going to be taken down until the end!"/>
+	<key id="02000241_BF__TIMER__4" name="If you are behind one or more's not going to be taken down until the end!"/>
 	<key id="02000241_BF__TRIGGER_01__0" name="Get a foothold."/>
 	<key id="02000241_BF__TRIGGER_04__0" name="Get a foothold."/>
 	<key id="02000242_BF__TIMER__0" name="Heh, indeed clogged too impenetrable to tire?"/>
 	<key id="02000242_BF__TRIGGER_02__0" name="Thai hidden between opens the door to gain a foothold.\nBy transferring road tires."/>
 	<key id="02000242_BF__TRIGGER_04__0" name="Thai hidden between opens the door to gain a foothold.\nBy transferring road tires."/>
 	<key id="02000243_BF__TIMER__0" name="Fortunately, so far, come down!"/>
-	<key id="02000243_BF__TIMER__1" name="But it&#8217;s no longer a good luck is never work?"/>
+	<key id="02000243_BF__TIMER__1" name="But it's no longer a good luck is never work?"/>
 	<key id="02000243_BF__TIMER__2" name="You guys are welcome to buy for the start of the brutal of sulfur Elixir!"/>
-	<key id="02000244_BF__TIMER__0" name="Invisible way Let&#8217;s leave see if I can find the~"/>
+	<key id="02000244_BF__TIMER__0" name="Invisible way Let's leave see if I can find the~"/>
 	<key id="02000244_BF__TRIGGER_01__0" name="Are you pulling the lever."/>
 	<key id="02000244_BF__TRIGGER_02__0" name="Are you pulling the lever."/>
 	<key id="02000244_BF__TRIGGER_04__0" name="Are you pulling the lever."/>
@@ -284,15 +284,15 @@
 	<key id="02000246_BF__TRIGGER_02__0" name="Find the hidden way down the ladder."/>
 	<key id="02000246_BF__TRIGGER_03__0" name="Find the hidden way down the ladder."/>
 	<key id="02000247_BF__TIMER__0" name="My ... Freaking awesome!"/>
-	<key id="02000247_BF__TIMER__1" name="But here&#8217;s a tip you guys footprint!"/>
+	<key id="02000247_BF__TIMER__1" name="But here's a tip you guys footprint!"/>
 	<key id="02000247_BF__TIMER__2" name="Yes, these guys are waiting for the anger to the vengeance of a Corp because Huang!"/>
 	<key id="02000248_BF__TRIGGER_01__0" name="Hedging! Stop these guys! This stupid guy!"/>
 	<key id="02000251_BF__END__0" name="Jean ... Real down here ..."/>
 	<key id="02000251_BF__END__1" name="Stop!"/>
 	<key id="02000251_BF__END__2" name="In front of your eyes have visible things or go away!"/>
 	<key id="02000251_BF__TIMER__0" name="My ... Freaking awesome!"/>
-	<key id="02000251_BF__TIMER__1" name="But here&#8217;s a tip you guys footprint!"/>
-	<key id="02000251_BF__TIMER__2" name="All four yellow block four guys&#8217;ll stand!"/>
+	<key id="02000251_BF__TIMER__1" name="But here's a tip you guys footprint!"/>
+	<key id="02000251_BF__TIMER__2" name="All four yellow block four guys'll stand!"/>
 	<key id="02000251_BF__TRIGGER_01_01__0" name="Mission success!"/>
 	<key id="02000252_BF__DOOR_01__0" name="Thank you sucks!" npc="Cyom es"/>
 	<key id="02000252_BF__DOOR_02__0" name="Thank you my love!" npc="Yolanda"/>
@@ -308,7 +308,7 @@
 	<key id="02000252_BF__START__3" name="Dungeon goal: Royal underground to sweep the intruders"/>
 	<key id="02000252_BF__START__4" name="This guys what else?"/>
 	<key id="02000252_BF__START__5" name="Me is the shape of clog. There is no way."/>
-	<key id="02000252_BF__START__6" name="I&#8217;ll give it all to burn in the fire of hell!"/>
+	<key id="02000252_BF__START__6" name="I'll give it all to burn in the fire of hell!"/>
 	<key id="02000253_BF__GROUND__0" name="IKE has been up here for but no further!" npc="Bella"/>
 	<key id="02000253_BF__GROUND__1" name="Drag the time as a pillar!" npc="Bella"/>
 	<key id="02000253_BF__MOB__0" name="Go to the underground Ballroom."/>
@@ -319,22 +319,22 @@
 	<key id="02000254_BF__ELITE__0" name="Sheesh, luck giving up here!"/>
 	<key id="02000254_BF__ELITE__1" name="Mission success!"/>
 	<key id="02000254_BF__KARL__0" name="Uhh ... Bella ... Bella ..." npc="Carl"/>
-	<key id="02000254_BF__SCENE01__0" name="Uhh ... Bella ... So you shouldn&#8217;t miss ..." />
+	<key id="02000254_BF__SCENE01__0" name="Uhh ... Bella ... So you shouldn't miss ..."/>
 	<key id="02000254_BF__SCENE01__1" name="What the heck is a garrulous chap?"/>
 	<key id="02000254_BF__SCENE01__2" name="When I come to die unto the spirit comes form intact?"/>
 	<key id="02000254_BF__SCENE01__3" name="There is nothing ... There is nothing you are going to do ... Bella ..."/>
-	<key id="02000254_BF__SCENE01__4" name="You are who you are ... And I don&#8217;t know who ..."/>
-	<key id="02000254_BF__SCENE01__5" name="What do you remember? I don&#8217;t have time to waste on that crap."/>
+	<key id="02000254_BF__SCENE01__4" name="You are who you are ... And I don't know who ..."/>
+	<key id="02000254_BF__SCENE01__5" name="What do you remember? I don't have time to waste on that crap."/>
 	<key id="02000254_BF__SCENE01__6" name="Get my hands on that glory to die directly here!"/>
 	<key id="02000254_BF__SCENE01__7" name="A who!"/>
 	<key id="02000254_BF__SCENE01__8" name="So persistent!"/>
 	<key id="02000269_BF__IM_101__0" name="Cole rock~ Cole rock~" npc="Wake up ugly fellow 1"/>
 	<key id="02000269_BF__IM_102__0" name="Oh, I forgot I was upset!" npc="Wake up ugly fellow 2"/>
-	<key id="02000269_BF__IM_103__0" name="MU ... There&#8217;s no water!" npc="Wake up ugly fellow 3"/>
+	<key id="02000269_BF__IM_103__0" name="MU ... There's no water!" npc="Wake up ugly fellow 3"/>
 	<key id="02000269_BF__IM_104__0" name="Ouch, it hurts your neck too" npc="Wake up ugly fellow 1"/>
 	<key id="02000269_BF__IM_105__0" name="... Research journal?!" npc="Wake up ugly fellow 2"/>
 	<key id="02000269_BF__IM_106__0" name="What the hell is happening" npc="Wake up ugly fellow 3"/>
-	<key id="02000269_BF__IM_107__0" name="Gosh, it&#8217;s the head~" npc="Wake up ugly fellow 1"/>
+	<key id="02000269_BF__IM_107__0" name="Gosh, it's the head~" npc="Wake up ugly fellow 1"/>
 	<key id="02000281_BF__MAIN__0" name="After a while, you can go into the cave."/>
 	<key id="02000281_BF__MAIN__1" name="After a while, you can go into the cave."/>
 	<key id="02000281_BF__MAIN__2" name="After a while, you can go into the cave."/>
@@ -362,12 +362,12 @@
 	<key id="02000282_BF__TIMER__0" name="The venom leads to find them adrift on horseback!"/>
 	<key id="02000282_BF__TIMER__1" name="Mission failed"/>
 	<key id="02000283_BF__MAIN__0" name="MOSS-addicted Magnus appeared!"/>
-	<key id="02000283_BF__MAIN__1" name="Let&#8217;s get on the portal!"/>
+	<key id="02000283_BF__MAIN__1" name="Let's get on the portal!"/>
 	<key id="02000283_BF__TIMER__0" name="The venom leads to find them adrift on horseback!"/>
 	<key id="02000283_BF__TIMER__1" name="Mission failed"/>
 	<key id="02000284_BF__MAIN__0" name="The venom can sentence of peer de Carlo appeared!"/>
 	<key id="02000284_BF__MAIN__1" name="Mission success!"/>
-	<key id="02000284_BF__MAIN__2" name="Let&#8217;s get on the portal!"/>
+	<key id="02000284_BF__MAIN__2" name="Let's get on the portal!"/>
 	<key id="02000284_BF__TIMER__0" name="Find the last clue to kill Carlo!"/>
 	<key id="02000284_BF__TIMER__1" name="Mission failed"/>
 	<key id="02000290_BF__MAIN__0" name="After a while, you can go into the Woods and cherry blossoms."/>
@@ -378,8 +378,8 @@
 	<key id="02000290_BF__MAIN_2__1" name="Thorn bushes help save Princess trapped in a Yomi."/>
 	<key id="02000290_BF__MAIN_2__2" name="Mission success!"/>
 	<key id="02000290_BF__MAIN_2__3" name="Cherry Blossom forest out of the portal."/>
-	<key id="02000290_BF__MAIN_2__4" name="Princess! That&#8217;s ok? To en en en ..." npc="BORO BORO youth"/>
-	<key id="02000290_BF__MAIN_2__5" name="Ah ... I&#8217;m so glad I&#8217;m ...!!" npc="BORO BORO Auntie"/>
+	<key id="02000290_BF__MAIN_2__4" name="Princess! That's ok? To en en en ..." npc="BORO BORO youth"/>
+	<key id="02000290_BF__MAIN_2__5" name="Ah ... I'm so glad I'm ...!!" npc="BORO BORO Auntie"/>
 	<key id="02000290_BF__MAIN_2__6" name="This grace will not forget!" npc="BORO BORO Auntie"/>
 	<key id="02000290_BF__MAIN_2__7" name="Thank you my love! Thanks a lot!" npc="BORO BORO Auntie"/>
 	<key id="02000290_BF__NPC_01__0" name="Thank you my love!" npc="BORO BORO Auntie"/>
@@ -395,7 +395,7 @@
 	<key id="02000290_BF__NPC_06__0" name="Thank you my love!" npc="BORO BORO Auntie"/>
 	<key id="02000290_BF__NPC_06__1" name="We help save the Princess!" npc="BORO BORO Auntie"/>
 	<key id="02000290_BF__NPC_07__0" name="Ah ... Given save me?" npc="Yomi Princess"/>
-	<key id="02000290_BF__NPC_07__1" name="Thank you very much. Thanks I&#8217;ve lived!" npc="Yomi Princess"/>
+	<key id="02000290_BF__NPC_07__1" name="Thank you very much. Thanks I've lived!" npc="Yomi Princess"/>
 	<key id="02000290_BF__WIND__0" name="Lazy stumm blood \nA deep breath."/>
 	<key id="02000290_BF__WIND__1" name="Lazy stumm blood \nA deep breath."/>
 	<key id="02000290_BF__WIND__2" name="Lazy stumm blood \nA deep breath."/>
@@ -410,7 +410,7 @@
 	<key id="02000292_BF__NPC2__0" name="I lived!" npc="Cart Ramus slave women"/>
 	<key id="02000292_BF__NPC2__1" name="Oh black ... You can go home ..." npc="Cart Ramus slave women"/>
 	<key id="02000292_BF__NPC3__0" name="Thanks a lot!" npc="Cart Ramus slave girl"/>
-	<key id="02000292_BF__NPC3__1" name="Thanks I&#8217;ve lived!" npc="Cart Ramus slave girl"/>
+	<key id="02000292_BF__NPC3__1" name="Thanks I've lived!" npc="Cart Ramus slave girl"/>
 	<key id="02000292_BF__NPC4__0" name="Have lived, lived!!!!" npc="Cart Ramus slave women"/>
 	<key id="02000292_BF__NPC4__1" name="Thought I would die of rusting ..." npc="Cart Ramus slave women"/>
 	<key id="02000292_BF__NPC5__0" name="Here is a really awful!!" npc="Cart Ramus slave man"/>
@@ -418,37 +418,37 @@
 	<key id="02000292_BF__NPC6__0" name="Hua ...!!" npc="Cart Ramus slave girl"/>
 	<key id="02000292_BF__NPC6__1" name="Mom Ah~~!!!!" npc="Cart Ramus slave girl"/>
 	<key id="02000292_BF__NPC7__0" name="Thanks a lot!" npc="Cart Ramus slave man"/>
-	<key id="02000292_BF__NPC7__1" name="Don&#8217;t want to be here for a while!" npc="Cart Ramus slave man"/>
+	<key id="02000292_BF__NPC7__1" name="Don't want to be here for a while!" npc="Cart Ramus slave man"/>
 	<key id="02000292_BF__NPC8__0" name="Thanks to messes!" npc="Cart Ramus slave women"/>
 	<key id="02000292_BF__NPC8__1" name="I also caught quickly before ...!!" npc="Cart Ramus slave women"/>
-	<key id="02000292_BF__NPC9__0" name="NOU ... Who ... Ah ... You&#8217;re here to save you ..." npc="Cart Ramus slave girl"/>
+	<key id="02000292_BF__NPC9__0" name="NOU ... Who ... Ah ... You're here to save you ..." npc="Cart Ramus slave girl"/>
 	<key id="02000292_BF__NPC9__1" name="Thanks a lot!" npc="Cart Ramus slave girl"/>
 	<key id="02000293_BF__MAIN__0" name="The key to open the door to blacksmithing in the greenhouse."/>
-	<key id="02000293_BF__MAIN__1" name="Thank you so much! I&#8217;ll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
+	<key id="02000293_BF__MAIN__1" name="Thank you so much! I'll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
 	<key id="02000293_BF__MAIN__2" name="I picked up the keys to open the closed door."/>
-	<key id="02000293_BF__MAIN__3" name="Thank you so much! I&#8217;ll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
+	<key id="02000293_BF__MAIN__3" name="Thank you so much! I'll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
 	<key id="02000293_BF__MAIN__4" name="I picked up the keys to open the closed door."/>
-	<key id="02000293_BF__MAIN__5" name="Thank you so much! I&#8217;ll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
+	<key id="02000293_BF__MAIN__5" name="Thank you so much! I'll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
 	<key id="02000293_BF__MAIN__6" name="I picked up the keys to open the closed door."/>
-	<key id="02000293_BF__MAIN__7" name="Thank you so much! I&#8217;ll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
+	<key id="02000293_BF__MAIN__7" name="Thank you so much! I'll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
 	<key id="02000293_BF__MAIN__8" name="I picked up the keys to open the closed door."/>
-	<key id="02000293_BF__MAIN__9" name="Thank you so much! I&#8217;ll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
+	<key id="02000293_BF__MAIN__9" name="Thank you so much! I'll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
 	<key id="02000293_BF__MAIN__10" name="I picked up the keys to open the closed door."/>
-	<key id="02000293_BF__MAIN__11" name="Thank you so much! I&#8217;ll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
+	<key id="02000293_BF__MAIN__11" name="Thank you so much! I'll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
 	<key id="02000293_BF__MAIN__12" name="I picked up the keys to open the closed door."/>
-	<key id="02000293_BF__MAIN__13" name="Thank you so much! I&#8217;ll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
+	<key id="02000293_BF__MAIN__13" name="Thank you so much! I'll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
 	<key id="02000293_BF__MAIN__14" name="I picked up the keys to open the closed door."/>
-	<key id="02000293_BF__MAIN__15" name="Thank you so much! I&#8217;ll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
+	<key id="02000293_BF__MAIN__15" name="Thank you so much! I'll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
 	<key id="02000293_BF__MAIN__16" name="I picked up the keys to open the closed door."/>
-	<key id="02000293_BF__MAIN__17" name="Thank you so much! I&#8217;ll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
+	<key id="02000293_BF__MAIN__17" name="Thank you so much! I'll give you the keys to the other residents of blacksmithing Please save!" npc="Cart Ramus slave man"/>
 	<key id="02000293_BF__MAIN__18" name="I picked up the keys to open the closed door."/>
 	<key id="02000294_BF__MAIN__0" name="Furnace troublemaker, Carl Kita to church!"/>
 	<key id="02000294_BF__MAIN__1" name="Climb up the ladder."/>
 	<key id="02000295_BF__MAIN__0" name="Steeped in madness, Pekka ourea"/>
 	<key id="02000295_BF__MAIN__1" name="Speculation of this outrageous attracts the beast. \nAll attention now!"/>
 	<key id="02000295_BF__MAIN__2" name="Climb up the ladder."/>
-	<key id="02000296_BF__MAIN__0" name="The soul&#8217;s beads remain painful bondage on the residents to save!"/>
-	<key id="02000296_BF__MAIN2__0" name="You&#8217;ll be surprised! Description at a later date, once the processes like this guy from?" npc="Black kids"/>
+	<key id="02000296_BF__MAIN__0" name="The soul's beads remain painful bondage on the residents to save!"/>
+	<key id="02000296_BF__MAIN2__0" name="You'll be surprised! Description at a later date, once the processes like this guy from?" npc="Black kids"/>
 	<key id="02000296_BF__MAIN2__1" name="Lennon could go upstairs here!!" npc="Black kids"/>
 	<key id="02000296_BF__MAIN2__2" name="Love it!!" npc="Lennon"/>
 	<key id="02000296_BF__MAIN2__3" name="Climb up the ladder."/>
@@ -466,15 +466,15 @@
 	<key id="02000296_BF__NPC9__0" name="Come on, I want to get out of the" npc="Cart Ramus slave man"/>
 	<key id="02000297_BF__MAIN__0" name="Sabrina, the executioner, the puppet slaves heart Church!"/>
 	<key id="02000297_BF__MAIN2__0" name="Eve!!!!"/>
-	<key id="02000297_BF__MAIN2__1" name="Told what&#8217;s going on ... O synthetic paper attracts a crowd at the outset a bunch of rubbish!"/>
+	<key id="02000297_BF__MAIN2__1" name="Told what's going on ... O synthetic paper attracts a crowd at the outset a bunch of rubbish!"/>
 	<key id="02000297_BF__MAIN2__2" name="Eve ... Good luck spiked. So many people died in front of Dani ..."/>
 	<key id="02000297_BF__MAIN2__3" name="No!!!!"/>
 	<key id="02000297_BF__MAIN2__4" name="Les ... Lennon ...!!"/>
 	<key id="02000297_BF__MAIN2__5" name="Will let it go!!!"/>
 	<key id="02000297_BF__MAIN2__6" name="Bah!"/>
 	<key id="02000297_BF__MAIN2__7" name="Lennon! Wake up!!"/>
-	<key id="02000297_BF__MAIN2__8" name="It&#8217;s OK ... It&#8217;s OK ... Eve ... I ... Musa ..."/>
-	<key id="02000297_BF__MAIN2__9" name="I&#8217;m glad. Now let&#8217;s go back, Lennon!"/>
+	<key id="02000297_BF__MAIN2__8" name="It's OK ... It's OK ... Eve ... I ... Musa ..."/>
+	<key id="02000297_BF__MAIN2__9" name="I'm glad. Now let's go back, Lennon!"/>
 	<key id="02000297_BF__MAIN2__10" name="Mission success!"/>
 	<key id="02000297_BF__MAIN2__11" name="Take the portal!"/>
 	<key id="02000298_BF__HACK_01__0" name="Pass code = 2"/>
@@ -593,7 +593,7 @@
 	<key id="02000300_BF__MAIN__2" name="Use the homing device."/>
 	<key id="02000300_BF__MAIN__3" name="The time machine to return to the Chamber."/>
 	<key id="02000300_BF__MOBSPAWN__0" name="The powers of darkness! The evil sorcerer!" npc="Ancient Pekka North"/>
-	<key id="02000300_BF__MOBSPAWN__1" name="Me ... That&#8217;s ... Pekka North sorcerer!!\nBe the first to get rid of me guys!" npc="Tristan"/>
+	<key id="02000300_BF__MOBSPAWN__1" name="Me ... That's ... Pekka North sorcerer!!\nBe the first to get rid of me guys!" npc="Tristan"/>
 	<key id="02000300_BF__TEXTBALLOON__0" name="The left hand is a girdle as well ..." npc="Black barnacles swordsman Chang Chun"/>
 	<key id="02000300_BF__TEXTBALLOON__1" name="An empty break! His side!!" npc="Black swordsman limitless barnacles"/>
 	<key id="02000300_BF__TEXTBALLOON__2" name="Yet in. .." npc="Black swordsman limitless barnacles"/>
@@ -602,7 +602,7 @@
 	<key id="02000300_BF__TEXTBALLOON__5" name="A pretty good military skills" npc="Black swordsman limitless barnacles"/>
 	<key id="02000300_BF__TEXTBALLOON__6" name="WH. .. It did not interfere with the" npc="Black barnacles swordsman Chang Chun"/>
 	<key id="02000301_BF__MAIN__0" name="Has no one yet? \nWho saved me me!! Saves you ... Please ... "/>
-	<key id="02000301_BF__MAIN__1" name="Here&#8217;s the~ Here!!" npc="The goal of the two Smith"/>
+	<key id="02000301_BF__MAIN__1" name="Here's the~ Here!!" npc="The goal of the two Smith"/>
 	<key id="02000301_BF__MAIN__2" name="And then ... Lived, lived! Thank you, really!!"/>
 	<key id="02000301_BF__MAIN__3" name="Use the homing device."/>
 	<key id="02000301_BF__MAIN__4" name="The time machine to return to the Chamber."/>
@@ -621,21 +621,21 @@
 	<key id="02000301_BF__TRAP_09__0" name="System : Intruder detection"/>
 	<key id="02000302_BF__MAIN__0" name="Patos!! It is the end of today!!"/>
 	<key id="02000302_BF__MAIN__1" name="Heh. put an end to me?"/>
-	<key id="02000302_BF__MAIN__2" name="Your hand hath given la Penta ...\nI&#8217;d rather die like better!"/>
+	<key id="02000302_BF__MAIN__2" name="Your hand hath given la Penta ...\nI'd rather die like better!"/>
 	<key id="02000302_BF__MAIN__3" name="Those lost souls ... " npc="Oh North"/>
-	<key id="02000302_BF__MAIN__4" name="Be alert! And they&#8217;re coming!" npc="Oh North"/>
+	<key id="02000302_BF__MAIN__4" name="Be alert! And they're coming!" npc="Oh North"/>
 	<key id="02000302_BF__MAIN__5" name="The shadow of death is getting stronger!" npc="Oh North"/>
 	<key id="02000302_BF__MAIN__6" name="Heh, I was a bit harsh, a welcome greeting?" npc="Patos"/>
-	<key id="02000302_BF__MAIN__7" name="I think this is not the end! I&#8217;ll be meeting again soon ...!"/>
+	<key id="02000302_BF__MAIN__7" name="I think this is not the end! I'll be meeting again soon ...!"/>
 	<key id="02000302_BF__MAIN__8" name="Patos ... Please get rid of this as gone forever ..."/>
 	<key id="02000302_BF__MAIN__9" name="Use the homing device."/>
 	<key id="02000302_BF__MAIN__10" name="The time machine to return to the Chamber."/>
 	<key id="02000303_BF__MAIN__0" name="All of a sudden the wind, crash landing ... Time machine kaput!\nFind out the scattered parts? Follow the special sound!"/>
-	<key id="02000303_BF__MAIN__1" name="Hua ...! Thank you so much! When out of nowhere I see again and again, it&#8217;ll be me!"/>
+	<key id="02000303_BF__MAIN__1" name="Hua ...! Thank you so much! When out of nowhere I see again and again, it'll be me!"/>
 	<key id="02000303_BF__MAIN__2" name="Use the homing device."/>
 	<key id="02000303_BF__MAIN__3" name="The time machine to return to the Chamber."/>
 	<key id="02000304_BF__MAIN__0" name="Dr. p and the blood\nYou must turn off timed floor!"/>
-	<key id="02000304_BF__MAIN__1" name="Eight, c&#8217;est ... Again!!" npc="Dr. Phi Phi"/>
+	<key id="02000304_BF__MAIN__1" name="Eight, c'est ... Again!!" npc="Dr. Phi Phi"/>
 	<key id="02000304_BF__MAIN__2" name="I almost picked [...] I ... Ugh!" npc="Dr. Phi Phi"/>
 	<key id="02000304_BF__MAIN__3" name="Time turn off the floor!"/>
 	<key id="02000304_BF__MAIN__4" name="Mission success!"/>
@@ -645,114 +645,114 @@
 	<key id="02000304_BF__MOVE__2" name="Asses!!" npc="Dr. Phi Phi"/>
 	<key id="02000304_BF__MOVE__3" name="Asses!!" npc="Dr. Phi Phi"/>
 	<key id="02000304_BF__MOVE__4" name="Asses!!" npc="Dr. Phi Phi"/>
-	<key id="02000320_BF__WAKEUP_01__0" name="I&#8217;m a thief~" npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_01__0" name="I'm a thief~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_01__1" name="Who is the~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_01__2" name="We treasure day~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_01__3" name="Zzz ..." npc="In the rough"/>
-	<key id="02000320_BF__WAKEUP_01__4" name="Wu Hung ...? What&#8217;s the big deal?" npc="In the rough"/>
+	<key id="02000320_BF__WAKEUP_01__4" name="Wu Hung ...? What's the big deal?" npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_01__5" name="I do not know ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_01__6" name="Just go to sleep ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_01__7" name="… Zzz ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_01__8" name="Just go to sleep ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_01__9" name="I&#8217;m not in the sleepy ..." npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_01__9" name="I'm not in the sleepy ..." npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_01__10" name="Wake up sleeping ... Back to save what ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_02__0" name="I&#8217;m a thief~" npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_02__0" name="I'm a thief~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_02__1" name="Who is the~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_02__2" name="We treasure day~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_02__3" name="Zzz ..." npc="In the rough"/>
-	<key id="02000320_BF__WAKEUP_02__4" name="Wu Hung ...? What&#8217;s the big deal?" npc="In the rough"/>
+	<key id="02000320_BF__WAKEUP_02__4" name="Wu Hung ...? What's the big deal?" npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_02__5" name="I do not know ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_02__6" name="Just go to sleep ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_02__7" name="… Zzz ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_02__8" name="Just go to sleep ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_02__9" name="I&#8217;m not in the sleepy ..." npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_02__9" name="I'm not in the sleepy ..." npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_02__10" name="Wake up sleeping ... Back to save what ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_03__0" name="I&#8217;m a thief~" npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_03__0" name="I'm a thief~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_03__1" name="Who is the~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_03__2" name="We treasure day~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_03__3" name="Zzz ..." npc="In the rough"/>
-	<key id="02000320_BF__WAKEUP_03__4" name="Wu Hung ...? What&#8217;s the big deal?" npc="In the rough"/>
+	<key id="02000320_BF__WAKEUP_03__4" name="Wu Hung ...? What's the big deal?" npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_03__5" name="I do not know ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_03__6" name="Just go to sleep ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_03__7" name="… Zzz ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_03__8" name="Just go to sleep ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_03__9" name="I&#8217;m not in the sleepy ..." npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_03__9" name="I'm not in the sleepy ..." npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_03__10" name="Wake up sleeping ... Back to save what ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_04__0" name="I&#8217;m a thief~" npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_04__0" name="I'm a thief~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_04__1" name="Who is the~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_04__2" name="We treasure day~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_04__3" name="Zzz ..." npc="In the rough"/>
-	<key id="02000320_BF__WAKEUP_04__4" name="Wu Hung ...? What&#8217;s the big deal?" npc="In the rough"/>
+	<key id="02000320_BF__WAKEUP_04__4" name="Wu Hung ...? What's the big deal?" npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_04__5" name="I do not know ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_04__6" name="Just go to sleep ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_04__7" name="… Zzz ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_04__8" name="Just go to sleep ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_04__9" name="I&#8217;m not in the sleepy ..." npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_04__9" name="I'm not in the sleepy ..." npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_04__10" name="Wake up sleeping ... Back to save what ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_05__0" name="I&#8217;m a thief~" npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_05__0" name="I'm a thief~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_05__1" name="Who is the~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_05__2" name="We treasure day~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_05__3" name="Zzz ..." npc="In the rough"/>
-	<key id="02000320_BF__WAKEUP_05__4" name="Wu Hung ...? What&#8217;s the big deal?" npc="In the rough"/>
+	<key id="02000320_BF__WAKEUP_05__4" name="Wu Hung ...? What's the big deal?" npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_05__5" name="I do not know ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_05__6" name="Just go to sleep ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_05__7" name="… Zzz ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_05__8" name="Just go to sleep ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_05__9" name="I&#8217;m not in the sleepy ..." npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_05__9" name="I'm not in the sleepy ..." npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_05__10" name="Wake up sleeping ... Back to save what ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_06__0" name="I&#8217;m a thief~" npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_06__0" name="I'm a thief~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_06__1" name="Who is the~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_06__2" name="We treasure day~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_06__3" name="Zzz ..." npc="In the rough"/>
-	<key id="02000320_BF__WAKEUP_06__4" name="Wu Hung ...? What&#8217;s the big deal?" npc="In the rough"/>
+	<key id="02000320_BF__WAKEUP_06__4" name="Wu Hung ...? What's the big deal?" npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_06__5" name="I do not know ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_06__6" name="Just go to sleep ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_06__7" name="… Zzz ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_06__8" name="Just go to sleep ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_06__9" name="I&#8217;m not in the sleepy ..." npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_06__9" name="I'm not in the sleepy ..." npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_06__10" name="Wake up sleeping ... Back to save what ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_07__0" name="I&#8217;m a thief~" npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_07__0" name="I'm a thief~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_07__1" name="Who is the~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_07__2" name="We treasure day~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_07__3" name="Zzz ..." npc="In the rough"/>
-	<key id="02000320_BF__WAKEUP_07__4" name="Wu Hung ...? What&#8217;s the big deal?" npc="In the rough"/>
+	<key id="02000320_BF__WAKEUP_07__4" name="Wu Hung ...? What's the big deal?" npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_07__5" name="I do not know ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_07__6" name="Just go to sleep ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_07__7" name="… Zzz ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_07__8" name="Just go to sleep ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_07__9" name="I&#8217;m not in the sleepy ..." npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_07__9" name="I'm not in the sleepy ..." npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_07__10" name="Wake up sleeping ... Back to save what ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_08__0" name="I&#8217;m a thief~" npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_08__0" name="I'm a thief~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_08__1" name="Who is the~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_08__2" name="We treasure day~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_08__3" name="Zzz ..." npc="In the rough"/>
-	<key id="02000320_BF__WAKEUP_08__4" name="Wu Hung ...? What&#8217;s the big deal?" npc="In the rough"/>
+	<key id="02000320_BF__WAKEUP_08__4" name="Wu Hung ...? What's the big deal?" npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_08__5" name="I do not know ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_08__6" name="Just go to sleep ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_08__7" name="… Zzz ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_08__8" name="Just go to sleep ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_08__9" name="I&#8217;m not in the sleepy ..." npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_08__9" name="I'm not in the sleepy ..." npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_08__10" name="Wake up sleeping ... Back to save what ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_09__0" name="I&#8217;m a thief~" npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_09__0" name="I'm a thief~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_09__1" name="Who is the~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_09__2" name="We treasure day~" npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_09__3" name="Zzz ..." npc="In the rough"/>
-	<key id="02000320_BF__WAKEUP_09__4" name="Wu Hung ...? What&#8217;s the big deal?" npc="In the rough"/>
+	<key id="02000320_BF__WAKEUP_09__4" name="Wu Hung ...? What's the big deal?" npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_09__5" name="I do not know ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_09__6" name="Just go to sleep ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_09__7" name="… Zzz ..." npc="In the rough"/>
 	<key id="02000320_BF__WAKEUP_09__8" name="Just go to sleep ..." npc="Fairy in the rough"/>
-	<key id="02000320_BF__WAKEUP_09__9" name="I&#8217;m not in the sleepy ..." npc="Fairy in the rough"/>
+	<key id="02000320_BF__WAKEUP_09__9" name="I'm not in the sleepy ..." npc="Fairy in the rough"/>
 	<key id="02000320_BF__WAKEUP_09__10" name="Wake up sleeping ... Back to save what ..." npc="Fairy in the rough"/>
-	<key id="02000325_BF__MAIN__0" name="This is a powerful beast &#8217; order by dealing with the Holocaust\nHis intrepid spirit to prove that."/>
+	<key id="02000325_BF__MAIN__0" name="This is a powerful beast ' order by dealing with the Holocaust\nHis intrepid spirit to prove that."/>
 	<key id="02000325_BF__MAIN__1" name="A total of three times, you need to pass the test of can be!"/>
 	<key id="02000325_BF__MAIN__2" name="Test said the fire on the altar of the first pill is going to receive the spirit."/>
 	<key id="02000325_BF__MAIN__3" name="The first test! Firmly prepared!"/>
 	<key id="02000325_BF__MAIN__4" name="It said the fire on the altar of the test and the second pill is going to receive the spirit."/>
-	<key id="02000325_BF__MAIN__5" name="From now on I&#8217;ll disappear one-by-one of the recovery\nYou&#8217;re going to have good health care."/>
+	<key id="02000325_BF__MAIN__5" name="From now on I'll disappear one-by-one of the recovery\nYou're going to have good health care."/>
 	<key id="02000325_BF__MAIN__6" name="The second test! Keep in mind that taker planted in the room!"/>
-	<key id="02000325_BF__MAIN__7" name="It said the fire on the altar of the exam the third Whan he&#8217;ll receive."/>
-	<key id="02000325_BF__MAIN__8" name="You have crossed the bridge, you&#8217;ll fall.\nNow dead or live or one of the two!"/>
+	<key id="02000325_BF__MAIN__7" name="It said the fire on the altar of the exam the third Whan he'll receive."/>
+	<key id="02000325_BF__MAIN__8" name="You have crossed the bridge, you'll fall.\nNow dead or live or one of the two!"/>
 	<key id="02000325_BF__MAIN__9" name="Final exam! We look forward to the end!"/>
 	<key id="02000325_BF__MAIN__10" name="Congratulations! Your intrepid gigaega to fix this world power!"/>
 	<key id="02000328_BF__EVENT1__0" name="Contaminated land is gradually being cleansed."/>
@@ -781,79 +781,79 @@
 	<key id="02000331_BF__Seeker01__1" name="Ugh! Monster!" npc="Marin"/>	
 	<key id="02000331_BF__Seeker01__2" name="Phew ...\nDid the risk ...!" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__3" name="Length is not ..." npc="Marin"/>
-	<key id="02000331_BF__Seeker01__4" name="Obviously it&#8217;s going to be a different length ...!" npc="Marin"/>
-	<key id="02000331_BF__Seeker01__5" name="Once I&#8217;m look for friends\nCome on go~!" npc="Marin"/>
+	<key id="02000331_BF__Seeker01__4" name="Obviously it's going to be a different length ...!" npc="Marin"/>
+	<key id="02000331_BF__Seeker01__5" name="Once I'm look for friends\nCome on go~!" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__6" name="Now you can pass!" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__10" name="A friend cowered in the neighborhood!" npc="Marin"/>	
 	<key id="02000331_BF__Seeker01__11" name="AW! Turned on them!" npc="EZ"/>
-	<key id="02000331_BF__Seeker01__12" name="It&#8217;s a good thing as the Samurai\nFind other friends come on give me a break~" npc="Marin"/>
+	<key id="02000331_BF__Seeker01__12" name="It's a good thing as the Samurai\nFind other friends come on give me a break~" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__13" name="Why you write the cheat?\nTagger let me once more~" npc="EZ"/>
-	<key id="02000331_BF__Seeker01__14" name="Now that it&#8217;s not time to talk" npc="Marin"/>
+	<key id="02000331_BF__Seeker01__14" name="Now that it's not time to talk" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__15" name="AW ...\nTurned on them ...!" npc="EZ"/>
 	<key id="02000331_BF__Seeker01__16" name="EH?\nWho are you?" npc="EZ"/>
 	<key id="02000331_BF__Seeker01__17" name="AW!\nGarters!" npc="EZ"/>	
 	<key id="02000331_BF__Seeker01__18" name="Why you write the cheat?\nTagger let me once more~" npc="EZ"/>
-	<key id="02000331_BF__Seeker01__19" name="Now that it&#8217;s not time to talk" npc="Marin"/>
+	<key id="02000331_BF__Seeker01__19" name="Now that it's not time to talk" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__20" name="Why you write the cheat?\nTagger let me once more~" npc="EZ"/>
-	<key id="02000331_BF__Seeker01__21" name="Now that it&#8217;s not time to talk" npc="Marin"/>
+	<key id="02000331_BF__Seeker01__21" name="Now that it's not time to talk" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__22" name="Why you write the cheat?\nTagger let me once more~" npc="EZ"/>
-	<key id="02000331_BF__Seeker01__23" name="Now that it&#8217;s not time to talk" npc="Marin"/>
-	<key id="02000331_BF__Seeker01__24" name="I&#8217;m blocking the way the bushes!" npc="Marin"/>	
+	<key id="02000331_BF__Seeker01__23" name="Now that it's not time to talk" npc="Marin"/>
+	<key id="02000331_BF__Seeker01__24" name="I'm blocking the way the bushes!" npc="Marin"/>	
 	<key id="02000331_BF__Seeker01__25" name="! Now that is~!" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__30" name="Monster communicable!" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__31" name="Ugh~ What!?" npc="EZ"/>
 	<key id="02000331_BF__Seeker01__32" name="A friend cowered in the neighborhood!" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__33" name="Is the man! Help me~!" npc="Flynn"/>
 	<key id="02000331_BF__Seeker01__34" name="Here~ Help me~!" npc="Flynn"/>
-	<key id="02000331_BF__Seeker01__35" name="Spare me~! It&#8217;s here~!" npc="Flynn"/>	
+	<key id="02000331_BF__Seeker01__35" name="Spare me~! It's here~!" npc="Flynn"/>	
 	<key id="02000331_BF__Seeker01__36" name="Help~ Stuck in the bushes!" npc="Flynn"/>
 	<key id="02000331_BF__Seeker01__37" name="Please release me!" npc="Flynn"/>	
 	<key id="02000331_BF__Seeker01__38" name="Phew ... Thought I would die, Yes\nThank you my love" npc="Flynn"/>
 	<key id="02000331_BF__Seeker01__39" name="Thank goodness you guys alright!\nOther kids?" npc="Flynn"/>
-	<key id="02000331_BF__Seeker01__40" name="Well, I don&#8217;t know" npc="EZ"/>
+	<key id="02000331_BF__Seeker01__40" name="Well, I don't know" npc="EZ"/>
 	<key id="02000331_BF__Seeker01__41" name="Far from falling\nNext to stay close" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__42" name="We ... You can go home safely?" npc="Flynn"/>
 	<key id="02000331_BF__Seeker01__43" name="Phew ... Lived" npc="Flynn"/>
 	<key id="02000331_BF__Seeker01__44" name="Thank goodness you guys alright!\nOther kids?" npc="Flynn"/>
-	<key id="02000331_BF__Seeker01__45" name="Well, I don&#8217;t know" npc="EZ"/>
+	<key id="02000331_BF__Seeker01__45" name="Well, I don't know" npc="EZ"/>
 	<key id="02000331_BF__Seeker01__46" name="Far from falling\nNext to stay close" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__47" name="We ... You can go home safely?" npc="Flynn"/>
 	<key id="02000331_BF__Seeker01__48" name="Thank you my love\nBy the way, who are you?" npc="Flynn"/>
 	<key id="02000331_BF__Seeker01__49" name="Thank goodness you guys alright!\nOther kids?" npc="Flynn"/>
-	<key id="02000331_BF__Seeker01__50" name="Well, I don&#8217;t know" npc="EZ"/>
+	<key id="02000331_BF__Seeker01__50" name="Well, I don't know" npc="EZ"/>
 	<key id="02000331_BF__Seeker01__51" name="Far from falling\nNext to stay close" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__52" name="We ... You can go home safely?" npc="Flynn"/>
-	<key id="02000331_BF__Seeker01__53" name="I am getting scared soul ...\nHere&#8217;s a puffy ..." npc="Flynn"/>
+	<key id="02000331_BF__Seeker01__53" name="I am getting scared soul ...\nHere's a puffy ..." npc="Flynn"/>
 	<key id="02000331_BF__Seeker01__54" name="Thank goodness you guys alright!\nOther kids?" npc="Flynn"/>
-	<key id="02000331_BF__Seeker01__55" name="Well, I don&#8217;t know" npc="EZ"/>
+	<key id="02000331_BF__Seeker01__55" name="Well, I don't know" npc="EZ"/>
 	<key id="02000331_BF__Seeker01__56" name="Far from falling\nNext to stay close" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__57" name="We ... You can go home safely?" npc="Flynn"/>
 	<key id="02000331_BF__Seeker01__58" name="Phew ... Getting hassle from stings" npc="Flynn"/>
 	<key id="02000331_BF__Seeker01__59" name="Thank goodness you guys alright!\nOther kids?" npc="Flynn"/>
-	<key id="02000331_BF__Seeker01__60" name="Well, I don&#8217;t know" npc="EZ"/>
+	<key id="02000331_BF__Seeker01__60" name="Well, I don't know" npc="EZ"/>
 	<key id="02000331_BF__Seeker01__61" name="Far from falling\nNext to stay close" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__62" name="We ... You can go home safely?" npc="Flynn"/>
 	<key id="02000331_BF__Seeker01__70" name="Please get rid of the bushes" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__71" name="Bush also got" npc="Flynn"/>	
 	<key id="02000331_BF__Seeker01__72" name="But this guy?" npc="EZ"/>
 	<key id="02000331_BF__Seeker01__73" name="So ...\nWho are you?" npc="Flynn"/>
-	<key id="02000331_BF__Seeker01__74" name="It&#8217;s a good minute\nBut other kids?" npc="Marin"/>	
+	<key id="02000331_BF__Seeker01__74" name="It's a good minute\nBut other kids?" npc="Marin"/>	
 	<key id="02000331_BF__Seeker01__80" name="? Steen!\nPregnancy fell into the trap!" npc="Flynn"/>
 	<key id="02000331_BF__Seeker01__81" name="Olivia is there how?" npc="EZ"/>
-	<key id="02000331_BF__Seeker01__82" name="I&#8217;m get Steen\nHelp me" npc="Marin"/>
+	<key id="02000331_BF__Seeker01__82" name="I'm get Steen\nHelp me" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__83" name="Wo~ The bridge came down~!" npc="Steen"/>
-	<key id="02000331_BF__Seeker01__84" name="I don&#8217;t have to hurt?" npc="Marin"/>
-	<key id="02000331_BF__Seeker01__85" name="Huh ...\nI&#8217;m OK ..." npc="Steen"/>
-	<key id="02000331_BF__Seeker01__86" name="It&#8217;s a good thing really safe and sound" npc="Marin"/>
-	<key id="02000331_BF__Seeker01__87" name="Need to find other friends, too!\nCome on, let&#8217;s go!" npc="Marin"/>
+	<key id="02000331_BF__Seeker01__84" name="I don't have to hurt?" npc="Marin"/>
+	<key id="02000331_BF__Seeker01__85" name="Huh ...\nI'm OK ..." npc="Steen"/>
+	<key id="02000331_BF__Seeker01__86" name="It's a good thing really safe and sound" npc="Marin"/>
+	<key id="02000331_BF__Seeker01__87" name="Need to find other friends, too!\nCome on, let's go!" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__88" name="Please get rid of the bushes" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__89" name="Now go!" npc="Marin"/>
-	<key id="02000331_BF__Seeker01__90" name="That&#8217;s ... Tori?" npc="EZ"/>
+	<key id="02000331_BF__Seeker01__90" name="That's ... Tori?" npc="EZ"/>
 	<key id="02000331_BF__Seeker01__91" name="Over here! Here!" npc="Flynn"/>
 	<key id="02000331_BF__Seeker01__92" name="Aaaagh~! Help me~!" npc="Tori"/>
 	<key id="02000331_BF__Seeker01__93" name="Phew ... They lived ..." npc="Tori"/>
-	<key id="02000331_BF__Seeker01__94" name="You&#8217;ll come to take why Monster" npc="EZ"/>
-	<key id="02000331_BF__Seeker01__95" name="It&#8217;s a good thing as the Samurai" npc="Marin"/>
+	<key id="02000331_BF__Seeker01__94" name="You'll come to take why Monster" npc="EZ"/>
+	<key id="02000331_BF__Seeker01__95" name="It's a good thing as the Samurai" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__96" name="I ... Wanted to go home" npc="Steen"/>
 	<key id="02000331_BF__Seeker01__97" name="Hang in there\nNow I gotta look for Rihanna" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__100" name="Length is not ..." npc="Marin"/>
@@ -866,34 +866,34 @@
 	<key id="02000331_BF__Seeker01__111" name="Be careful not to fall~Watch~" npc="Marin"/>	
 	<key id="02000331_BF__Seeker01__112" name="I here you! Hey guys!" npc="Rihanna"/>
 	<key id="02000331_BF__Seeker01__120" name="This open the door to~" npc="Rihanna"/>
-	<key id="02000331_BF__Seeker01__130" name="I&#8217;ll treat\nNow you&#8217;ll be fine" npc="Rihanna"/>
-	<key id="02000331_BF__Seeker01__131" name="It&#8217;s a good thing as the Samurai" npc="Marin"/>
+	<key id="02000331_BF__Seeker01__130" name="I'll treat\nNow you'll be fine" npc="Rihanna"/>
+	<key id="02000331_BF__Seeker01__131" name="It's a good thing as the Samurai" npc="Marin"/>
 	<key id="02000331_BF__Seeker01__132" name="Thank you, Rihanna!" npc="Flynn"/>
 	<key id="02000331_BF__Seeker01__133" name="Really scared ..." npc="Steen"/>
 	<key id="02000331_BF__Seeker01__134" name="I had fun ..." npc="EZ"/>
 	<key id="02000331_BF__Seeker01__135" name="We will come again next time?" npc="Tori"/>
-	<key id="02000331_BF__Seeker01__136" name="Come on, let&#8217;s go back home!" npc="Rihanna"/>
-	<key id="02000331_BF__Seeker01__137" name="It&#8217;s really~Dries nail kicks~" npc="Marin"/>
-	<key id="02000331_BF__Seeker01__800" name="I&#8217;ve found a friend&#8217;s footprint!\nGo find friends hiding along the footprints?"/>
+	<key id="02000331_BF__Seeker01__136" name="Come on, let's go back home!" npc="Rihanna"/>
+	<key id="02000331_BF__Seeker01__137" name="It's really~Dries nail kicks~" npc="Marin"/>
+	<key id="02000331_BF__Seeker01__800" name="I've found a friend's footprint!\nGo find friends hiding along the footprints?"/>
 	<key id="02000331_BF__Seeker01__801" name="Monster communicable!\nThe upcoming Monster slaying them."/>
 	<key id="02000331_BF__Seeker01__802" name="A friend got stuck at the trap!\nLook well can make a foothold around the lever will be.\nGo rock climbing closer to the levers you need skills."/>
-	<key id="02000331_BF__Seeker01__803" name="I&#8217;m being chased to a friend creature!\nHelp me!"/>
+	<key id="02000331_BF__Seeker01__803" name="I'm being chased to a friend creature!\nHelp me!"/>
 	<key id="02000331_BF__Seeker01__804" name="Length was gone.\nFind different lengths?"/>
-	<key id="02000331_BF__Seeker01__805" name="I&#8217;ve found another way!\nCrossing your legs?"/>
+	<key id="02000331_BF__Seeker01__805" name="I've found another way!\nCrossing your legs?"/>
 	<key id="02000331_BF__Seeker01__806" name="Staying friends with children from monsters!"/>	
 	<key id="02000331_BF__Seeker01__807" name="Petulant Wizard insult!"/>
 	<key id="02000331_BF__Seeker01__808" name="Petulant wizard without further ADO.\nGet the Rihanna stuck to overhear."/>
-	<key id="02000331_BF__Seeker01__809" name="Saved all the children&#8217;s friends! Now back to the village with the kids?"/>	
+	<key id="02000331_BF__Seeker01__809" name="Saved all the children's friends! Now back to the village with the kids?"/>	
 	<key id="02000331_BF__Seeker01__810" name="Pull the lever on the back near the are going to be able to make your way!"/>	
 	<key id="02000331_BF__Seeker01__811" name="Still not too late!\nMonsters have!"/>	
 	<key id="02000331_BF__Seeker01__812" name="Pull the lever on the back near the are going to be able to make your way!"/>	
 	<key id="02000331_BF__Seeker01__813" name="You can return back to your friends!"/>	
 	<key id="02000331_BF__Seeker01__900" name="AW ...! Length ...!"/>	
 	<key id="02000331_BF__Seeker01__901" name="A friend got stuck at the trap!"/>
-	<key id="02000331_BF__Seeker01__902" name="I&#8217;m being chased to a friend creature!"/>	
+	<key id="02000331_BF__Seeker01__902" name="I'm being chased to a friend creature!"/>	
 	<key id="02000331_BF__Seeker01__903" name="AW ...! Legs ...!"/>	
 	<key id="02000331_BF__Seeker01__904" name="Well here at the outset, the noisy kid!"/>
-	<key id="02000331_BF__Seeker01__905" name="Don&#8217;t walk into the Woods left malran!"/>
+	<key id="02000331_BF__Seeker01__905" name="Don't walk into the Woods left malran!"/>
 	<key id="02000331_BF__Seeker01__906" name="When you come in but when you get out of the way!"/>
 	<key id="02000331_BF__Seeker01__907" name="Hey guys! It came out that fearless kid these insult!"/>
 	<key id="02000331_BF__Seeker01__908" name="I guess that should not be. I personally I give in!"/>
@@ -902,9 +902,9 @@
 	<key id="02000334_BF__MAIN__0" name="Watch the Tower walls : A herd of pigs RAID"/>
 	<key id="02000334_BF__MAIN__1" name="It must walls of the shooter! All combat positions!"/>
 	<key id="02000334_BF__MAIN__2" name="Protect the walls from a pig!"/>
-	<key id="02000334_BF__MAIN__3" name="The vigilante!! In the future!!"  npc="OSU CAL"/>
+	<key id="02000334_BF__MAIN__3" name="The vigilante!! In the future!!" npc="OSU CAL"/>
 	<key id="02000334_BF__MAIN__4" name="In the future!!" npc="The vigilante"/>
-	<key id="02000334_BF__MAIN__5" name="Let&#8217;s show this time!!" npc="The vigilante"/>
+	<key id="02000334_BF__MAIN__5" name="Let's show this time!!" npc="The vigilante"/>
 	<key id="02000334_BF__MAIN__6" name="The walls give a surprise to the eyes staring between something" npc="Thabo"/>
 	<key id="02000334_BF__MAIN__7" name="Not over yet! Be prepared to open your arsenal!!"/>
 	<key id="02000334_BF__MAIN__8" name="Opening up your arsenal!!!!" npc="OSU CAL"/>
@@ -924,12 +924,12 @@
 	<key id="02000334_BF__WAVE__0" name="Go! Show me the power of the pig!!" npc="Thabo"/>
 	<key id="02000334_BF__WAVE__1" name="Must ask! The wall is, of course, green hood pride!!" npc="OSU CAL"/>
 	<key id="02000334_BF__WAVE__2" name="Ride! That tears the walls!" npc="Thabo"/>
-	<key id="02000334_BF__WAVE__3" name="Pig herd surveillance Tower can&#8217;t lose!" npc="OSU CAL"/>
+	<key id="02000334_BF__WAVE__3" name="Pig herd surveillance Tower can't lose!" npc="OSU CAL"/>
 	<key id="02000334_BF__WAVE__4" name="Intrepid show what a pig!" npc="Thabo"/>
 	<key id="02000334_BF__WAVE__5" name="A die-hard guys ... Moreover, mobbing ...!!" npc="OSU CAL"/>
 	<key id="02000334_BF__WAVE__6" name="If you do not have a very smashed alone!!" npc="Thabo"/>
 	<key id="02000334_BF__WAVE__7" name="Green hood! Strong, a bit more!" npc="OSU CAL"/>
-	<key id="02000334_BF__WAVE__8" name="Don&#8217;t be scared, humans ply for TE!" npc="Thabo"/>
+	<key id="02000334_BF__WAVE__8" name="Don't be scared, humans ply for TE!" npc="Thabo"/>
 	<key id="02000334_BF__WAVE__9" name="Pigs cannot be pushed to something!" npc="OSU CAL"/>
 	<key id="02000334_BF__WAVE__10" name="Ride! Breaking down! All underfoot!" npc="Thabo"/>
 	<key id="02000334_BF__WAVE__11" name="Get moving, faster! Faster!" npc="OSU CAL"/>
@@ -939,11 +939,11 @@
 	<key id="02000336_BF__BOSS__1" name="The Agency went beyond that, indeed, does not stop the train would be difficult to deal with. \nWhat idiots only to see Higgins? Come on go trains rowing institutions are indeed!" npc="Wei Hong"/>
 	<key id="02000337_BF__BOSS__0" name="Runaway train was now some truly doeeossgun." npc="Wei Hong"/>
 	<key id="02000337_BF__BOSS__1" name="Dare ... I Wei Hong thing braid ... He will surely regret, no matter who!" npc="Wei Hong"/>
-	<key id="02000337_BF__BOSS__2" name="Today you&#8217;ll pay off the debt to be sure one day. I promise in the name of Hong-Wei!" npc="Wei Hong"/>
-	<key id="02000337_BF__BOSS__3" name="Today you&#8217;ll pay off the debt to be sure one day. I promise in the name of Hong-Wei!" npc="Wei Hong"/>
+	<key id="02000337_BF__BOSS__2" name="Today you'll pay off the debt to be sure one day. I promise in the name of Hong-Wei!" npc="Wei Hong"/>
+	<key id="02000337_BF__BOSS__3" name="Today you'll pay off the debt to be sure one day. I promise in the name of Hong-Wei!" npc="Wei Hong"/>
 	<key id="02000338_BF__MAIN1__0" name="Earth aura."/>
 	<key id="02000338_BF__MAIN1__1" name="Hydro ball cake night"/>
-	<key id="02000338_BF__MAIN1__2" name="Goal: Take the Pro&#8217;s teeth care"/>
+	<key id="02000338_BF__MAIN1__2" name="Goal: Take the Pro's teeth care"/>
 	<key id="02000338_BF__MAIN2__0" name="Mission success!"/>
 	<key id="02000338_BF__MAIN2__1" name="Take the portal!"/>
 	<key id="02000338_BF__MAIN3__0" name="High and open the way for a lot of people"/>
@@ -983,7 +983,7 @@
 	<key id="02000349_BF__MAIN__10" name="The pain your body a lifetime into the huge dark OT tastings!"/>
 	<key id="02000349_BF__MAIN__11" name="And then ... Cart ... Now I really am going over ..."/>
 	<key id="02000349_BF__MAIN__12" name="Mission success!!"/>
-	<key id="02000349_BF__MAIN__13" name="The roots of the way let&#8217;s get out before dark!"/>
+	<key id="02000349_BF__MAIN__13" name="The roots of the way let's get out before dark!"/>
 	<key id="02000349_BF__MAIN__14" name="Take a portal."/>
 	<key id="02000349_BF__NPC_01__0" name="They lived ... Thanks a lot!"/>
 	<key id="02000349_BF__NPC_02__0" name="They lived ... Thanks a lot!"/>
@@ -1015,13 +1015,13 @@
 	<key id="02010052_BF__BOSS__1" name="Come to the crossroads fire ice melt."/>
 	<key id="02010052_BF__BOSS__2" name="Ah, confused. No longer ... Do not ...!"/>
 	<key id="02010052_BF__BOSS__3" name="Come to the crossroads fire ice melt."/>
-	<key id="02010052_BF__BOSS__4" name="Everyone froze. Can&#8217;t go back again."/>
+	<key id="02010052_BF__BOSS__4" name="Everyone froze. Can't go back again."/>
 	<key id="02010052_BF__BOSS__5" name="Come to the crossroads fire ice melt."/>
-	<key id="02010052_BF__BOSS__6" name="In the end, here at the outset. Yes, a human being. I&#8217;m going to let an opponent."/>
+	<key id="02010052_BF__BOSS__6" name="In the end, here at the outset. Yes, a human being. I'm going to let an opponent."/>
 	<key id="02010052_BF__BOSS__7" name="Come to the crossroads fire ice melt."/>
 	<key id="02010052_BF__MAIN__0" name="The frozen garden : The Holy girl"/>
 	<key id="02010052_BF__MAIN__1" name="A human being ...? How long ...?"/>
-	<key id="02010052_BF__MAIN__2" name="Go back to the ... You&#8217;re not a place to come ..!"/>
+	<key id="02010052_BF__MAIN__2" name="Go back to the ... You're not a place to come ..!"/>
 	<key id="02010052_BF__MAIN__3" name="How do I find, but would do everything to stop outgoing."/>
 	<key id="02010052_BF__MAIN__4" name="If you could be in danger of no longer comes in."/>
 	<key id="02010052_BF__MAIN__5" name="The demon and the one pane? This freezing?"/>
@@ -1038,18 +1038,18 @@
 	<key id="02010052_BF__TORCHLIGHT_05__1" name="Come to the crossroads fire ice melt."/>
 	<key id="02010052_BF__TORCHLIGHT_05__2" name="Come malran! do not come."/>
 	<key id="02010052_BF__TORCHLIGHT_06__0" name="Come to the crossroads fire ice melt."/>
-	<key id="02010052_BF__BOSS__8" name="I rock da ... Can&#8217;t.\nWere brought to mind can&#8217;t walk like this anymore ...!"/>
-	<key id="02010069_BF__MAIN__1" name="You&#8217;re really stupid. Not so easily deceived ..."/>
-	<key id="02010069_BF__MAIN__2" name="So, I say. I really didn&#8217;t know through the ..."/>
+	<key id="02010052_BF__BOSS__8" name="I rock da ... Can't.\nWere brought to mind can't walk like this anymore ...!"/>
+	<key id="02010069_BF__MAIN__1" name="You're really stupid. Not so easily deceived ..."/>
+	<key id="02010069_BF__MAIN__2" name="So, I say. I really didn't know through the ..."/>
 	<key id="02010069_BF__MAIN__3" name="Anyway, dedicated to offering a quiet for a while ..."/>
-	<key id="02010070_BF__MAIN__1" name="Come along with me. I&#8217;ll guide you to where the gold coins."/>
+	<key id="02010070_BF__MAIN__1" name="Come along with me. I'll guide you to where the gold coins."/>
 	<key id="02010070_BF__MAIN__2" name="Do not look at the truth.\nThen, you can have everything you want."/>
-	<key id="02010070_BF__MAIN__3" name="The eerie laughter can be heard coming out of nowhere ...\nIt&#8217;s a dream, reality."/>
-	<key id="02010070_BF__MAIN__4" name="It does not feel the warmth.\nIt&#8217;s like a fantasy world that exists in the ..."/>
+	<key id="02010070_BF__MAIN__3" name="The eerie laughter can be heard coming out of nowhere ...\nIt's a dream, reality."/>
+	<key id="02010070_BF__MAIN__4" name="It does not feel the warmth.\nIt's like a fantasy world that exists in the ..."/>
 	<key id="02010070_BF__MAIN__5" name="At the end of a pipe greedy Yen in reality shabby ...\nThe end of calw and obsessive car lust."/>
 	<key id="03000014_AD__IA_113__0" name="Now I have lived!"/>
 	<key id="03000014_AD__IA_114__0" name="Thank you!"/>
-	<key id="03000014_AD__IA_115__0" name="Thought I&#8217;d die heavy bruises!"/>
+	<key id="03000014_AD__IA_115__0" name="Thought I'd die heavy bruises!"/>
 	<key id="03000014_AD__IA_116__0" name="Thank you!"/>
 	<key id="03000014_AD__IA_117__0" name="Now I have lived!"/>
 	<key id="03000014_AD__IA_118__0" name="I just paid this favor!"/>
@@ -1058,13 +1058,13 @@
 	<key id="03000049_BF__TRIGGER_03__0" name="Put this ..."/>
 	<key id="03000145_BF__SAVE_01__0" name="...?" npc="Brainwashed slave 11"/>
 	<key id="03000145_BF__SAVE_01__1" name="No ... Blimey ..." npc="Brainwashed slave 15"/>
-	<key id="03000145_BF__SAVE_01__2" name="Let&#8217;s go away!" npc="Brainwashed slave 14"/>
+	<key id="03000145_BF__SAVE_01__2" name="Let's go away!" npc="Brainwashed slave 14"/>
 	<key id="03000145_BF__SAVE_01__3" name="Thank you my love!" npc="Brainwashed slave 11"/>
 	<key id="03000145_BF__SAVE_01__4" name="Thank you my love!" npc="Brainwashed slave 15"/>
 	<key id="03000145_BF__SAVE_01__5" name="Thank you my love!" npc="Brainwashed slave 14"/>
 	<key id="03000145_BF__SAVE_02__0" name="...?" npc="Brainwashed slave 12"/>
 	<key id="03000145_BF__SAVE_02__1" name="No ... Blimey ..." npc="Brainwashed slave 16"/>
-	<key id="03000145_BF__SAVE_02__2" name="Let&#8217;s go away!" npc="Brainwashed slave 13"/>
+	<key id="03000145_BF__SAVE_02__2" name="Let's go away!" npc="Brainwashed slave 13"/>
 	<key id="03000145_BF__SAVE_02__3" name="Thank you my love!" npc="Brainwashed slave 16"/>
 	<key id="03000145_BF__SAVE_02__4" name="Thank you my love!" npc="Brainwashed slave 12"/>
 	<key id="03000145_BF__SAVE_02__5" name="Thank you my love!" npc="Brainwashed slave 13"/>
@@ -1086,7 +1086,7 @@
 	<key id="03000145_BF__SAVE_06__3" name="Thank you my love!" npc="Brainwashed slave 15"/>
 	<key id="03009023_IN__01__0" name="... They lived ..." npc="Non-Atta"/>
 	<key id="03009023_IN__02__0" name="And ... Thank you my love!" npc="Amy"/>
-	<key id="03009023_IN__03__0" name="This is a ... It&#8217;s a miracle!" npc="Night"/>
+	<key id="03009023_IN__03__0" name="This is a ... It's a miracle!" npc="Night"/>
 	<key id="03009023_IN__04__0" name="Also ... Go away ...!" npc="Motor"/>
 	<key id="03009023_IN__05__0" name="Ah ... After you are going ..." npc="Pake"/>
 	<key id="03009023_IN__06__0" name="Scared ... Sobbing ..." npc="-No"/>
@@ -1114,13 +1114,13 @@
 	
 	<key id="52000003_QD__KATVAN_01__0" name="Cart and a half!! Now all done!"/>
 	<key id="52000003_QD__KATVAN_01__1" name="Lennon ...!! Do not think that this is the end!"/>
-	<key id="52000003_QD__KATVAN_01__2" name="Not necessarily back to Board ... I&#8217;ll say extract!"/>
+	<key id="52000003_QD__KATVAN_01__2" name="Not necessarily back to Board ... I'll say extract!"/>
 	<key id="52000003_QD__KATVAN_01__3" name="AW AW!!"/>
 	<key id="52000004_QD__MAIN__0" name="Goal : Please deliver a pizza to the destination"/>
 	<key id="52000004_QD__MAIN__1" name="Look on the right holding a pizza."/>
 	<key id="52000004_QD__MAIN__2" name="Bad honey honey this aid."/>
 	<key id="52000004_QD__MAIN__3" name="A delicious odor [...] Honey honey ..." npc="Bad honey honey"/>
-	<key id="52000004_QD__MAIN__4" name="Bring it up here, I&#8217;ve had to suffer" npc="San Sacco bar"/>
+	<key id="52000004_QD__MAIN__4" name="Bring it up here, I've had to suffer" npc="San Sacco bar"/>
 	<key id="52000004_QD__MAIN__5" name="Mission success!"/>
 	<key id="52000004_QD__MAIN__6" name="Mission success!"/>
 	<key id="52000004_QD__MAIN__7" name="Take a portal."/>
@@ -1129,7 +1129,7 @@
 	<key id="52000004_QD__MASSEGE__2" name="Fie ...\nDirty big comb sewer bugs appear."/>
 	<key id="52000004_QD__MASSEGE__3" name="Elevator ride\n2Went up to the ground floor."/>
 	<key id="52000004_QD__MASSEGE__4" name="If you step on a brick floor\nBroken, please be careful."/>
-	<key id="52000004_QD__MASSEGE__5" name="Be careful with these hungry honey honey.\nLet&#8217;s briefly put down the pizza, Christchurch, New Zealand."/>
+	<key id="52000004_QD__MASSEGE__5" name="Be careful with these hungry honey honey.\nLet's briefly put down the pizza, Christchurch, New Zealand."/>
 	<key id="52000005_QD__01_MAIN__0" name="Goal : Chickens to the rescue!!"/>
 	<key id="52000005_QD__03_OBJECT__0" name="[Flying balloons]Using the crossing."/>
 	<key id="52000005_QD__04_OBJECT__0" name="[Flying balloons]Using the crossing."/>
@@ -1144,8 +1144,8 @@
 	<key id="52000006_QD__CONGRATULATION__0" name="Congrats~!!"/>
 	<key id="52000006_QD__CONGRATULATION__1" name="Whoa! I guess the jackpot!!"/>
 	<key id="52000006_QD__EXIT__0" name="Congratulations.\nThe prize is offered by the Rev blessed with."/>
-	<key id="52000006_QD__TUTORIAL_06_1__0" name="Where I&#8217;m going, aiming to get away with it!"/>
-	<key id="52000006_QD__TUTORIAL_06_1__1" name="응??!!?!? There&#8217;s obviously ..."/>
+	<key id="52000006_QD__TUTORIAL_06_1__0" name="Where I'm going, aiming to get away with it!"/>
+	<key id="52000006_QD__TUTORIAL_06_1__1" name="응??!!?!? There's obviously ..."/>
 	<key id="52000006_QD__TUTORIAL_06_1__2" name="Bo! Treasure chest!!!"/>
 	<key id="52000006_QD__TUTORIAL_06_2__0" name="! ! This is what the fuck!!!"/>
 	<key id="52000007_QD__CONGRATULATION__0" name="Congrats~!!"/>
@@ -1174,48 +1174,48 @@
 	<key id="52000015_QD__TUTORIAL03__3" name="Even an excuse not willing to do this?\nIn the end ... You guys are really ..."/>
 	<key id="52000015_QD__TUTORIAL03__4" name="Be careful!"/>
 	<key id="52000016_QD__TUTORIAL04__0" name="Ah ... Now I know what that sound was.\nSome of the Tomb seemed sound in bursts."/>
-	<key id="52000016_QD__TUTORIAL04__1" name="Maybe it&#8217;s a plot to get rid of the rock could go forward?"/>
+	<key id="52000016_QD__TUTORIAL04__1" name="Maybe it's a plot to get rid of the rock could go forward?"/>
 	<key id="52000016_QD__TUTORIAL04__2" name="Come on go!"/>
 	<key id="52000016_QD__TUTORIAL04__3" name="... EW ..."/>
 	<key id="52000016_QD__TUTORIAL04__4" name="At the peak of my form has not been quite as guys were ..."/>
 	<key id="52000016_QD__TUTORIAL04__5" name="And then ... Thank you ... Thanks to the crisis got you over the"/>
-	<key id="52000016_QD__TUTORIAL04__6" name="Nevertheless, the issue grew up in La&#8217;s my grunge m dargun"/>
+	<key id="52000016_QD__TUTORIAL04__6" name="Nevertheless, the issue grew up in La's my grunge m dargun"/>
 	<key id="52000016_QD__TUTORIAL04__7" name="This ... Poor baby! Beats in length!"/>
 	<key id="52000016_QD__TUTORIAL04__8" name="Well?! Me ... Look at that!"/>
 	<key id="52000016_QD__TUTORIAL04__9" name="Horseshoe tart!\nI finally found ..."/>
 	<key id="52000016_QD__TUTORIAL04__10" name="Issue La ... Here you have the knowledge of how antiquated of Baz, as well the yen, was what I wanted."/>
 	<key id="52000016_QD__TUTORIAL04__11" name="Did the absurd per away!!!\nFallen asleep in this tomb Baz after he watching your words and actions!"/>
 	<key id="52000016_QD__TUTORIAL04__12" name="This was the old days our conversations all seem to know that the fanciful.\nLet me shift rib Rune knife dung ... All the wishful thinking was done."/>
-	<key id="52000016_QD__TUTORIAL04__13" name="What&#8217;s up with that?!"/>
+	<key id="52000016_QD__TUTORIAL04__13" name="What's up with that?!"/>
 	<key id="52000016_QD__TUTORIAL04__14" name="Remember, the issue ... \nTe Rune sword and no crap to achieve unity of the rib."/>
 	<key id="52000016_QD__TUTORIAL04__15" name="Hole... Trois!!"/>
 	<key id="52000016_QD__TUTORIAL04__16" name="Well? Just what the sound from the organ works, switch ...\nHey, check out the switch to operate the Agency!"/>
 	<key id="52000016_QD__TUTORIAL04__17" name="Looks like he already had fled.\n… Issue, you okay?"/>
 	<key id="52000016_QD__TUTORIAL04__18" name="Peg to nourish ...\nThe wisdom of life looking for Horseshoe tart baz."/>
-	<key id="52000016_QD__TUTORIAL04__19" name="Baz&#8217;s wisdom ...\nThe guy is a true Legend of the same power whether or not it might be to find"/>
+	<key id="52000016_QD__TUTORIAL04__19" name="Baz's wisdom ...\nThe guy is a true Legend of the same power whether or not it might be to find"/>
 	<key id="52000016_QD__TUTORIAL04__20" name="Karen edu Bianca! I have to go with the Victorian Ireland right now.\nTo inform the situation here there mannabwaya to do!"/>
 	<key id="52000016_QD__TUTORIAL04__21" name="Then I go back to the 2 car chase into a fortress and right now Joe is not to organize.\nIssue [...] Please take care of yourself!"/>
 	<key id="52000016_QD__TUTORIAL04__22" name="You return to the Citadel Karen Bianchi, you can configure this Chase, DuPont\nCome along with them. "/>
 	<key id="52000019_QD__MAIN__0" name="All you need is glued next to me is a simple thing."/>
-	<key id="52000019_QD__MAIN__1" name="Now, let&#8217;s see ... Yogi ... So ..."/>
+	<key id="52000019_QD__MAIN__1" name="Now, let's see ... Yogi ... So ..."/>
 	<key id="52000019_QD__MAIN__2" name="This week! Unleashed a bunch of angry guys, I am guessing!"/>
-	<key id="52000019_QD__MAIN__3" name="Guys you&#8217;ll ask!"/>
+	<key id="52000019_QD__MAIN__3" name="Guys you'll ask!"/>
 	<key id="52000019_QD__MAIN__4" name="Nice Yes!"/>
-	<key id="52000019_QD__MAIN__5" name="Second, I&#8217;ll show a bit of a pit?"/>
-	<key id="52000019_QD__MAIN__6" name="Now, let&#8217;s see ... Yogi ... So ..."/>
+	<key id="52000019_QD__MAIN__5" name="Second, I'll show a bit of a pit?"/>
+	<key id="52000019_QD__MAIN__6" name="Now, let's see ... Yogi ... So ..."/>
 	<key id="52000019_QD__MAIN__7" name="This week! Unleashed on these guys, and I am back!"/>
 	<key id="52000019_QD__MAIN__8" name="Come on, guys make some processing!"/>
 	<key id="52000019_QD__MAIN__9" name="You do not have many true guys ..."/>
 	<key id="52000019_QD__MAIN__10" name="Finally, just one more look at the pits?"/>
-	<key id="52000019_QD__MAIN__11" name="This time I&#8217;ll do a little careful when Yogi does! ..."/>
+	<key id="52000019_QD__MAIN__11" name="This time I'll do a little careful when Yogi does! ..."/>
 	<key id="52000019_QD__MAIN__12" name="Again? At night!"/>
 	<key id="52000019_QD__MAIN__13" name="Woo Hoo~ This, to me, sounds like you care ... Had a lot of trouble!"/>
 	<key id="52000020_QD__MAIN__1" name="We dare to disturb ... Crushed fucked!"/>
 	<key id="52000020_QD__MAIN__2" name="We have seen the face of more ... Finely never let go!"/>
 	<key id="52000020_QD__MAIN__3" name="Damn ... This guy is a ripper!"/>
-	<key id="52000020_QD__MAIN__4" name="It is a moderately ... I&#8217;m not dealing with all of us!"/>
+	<key id="52000020_QD__MAIN__4" name="It is a moderately ... I'm not dealing with all of us!"/>
 	<key id="52000020_QD__MAIN__5" name="It is not at all against this personnel pushed ... Where these guy. ..!"/>
-	<key id="52000021_QD__MAIN01__0" name="Yu had the power of superior!\nI&#8217;ll be blocking Horseshoe tart you&#8217;d protect her!"/>
+	<key id="52000021_QD__MAIN01__0" name="Yu had the power of superior!\nI'll be blocking Horseshoe tart you'd protect her!"/>
 	<key id="52000021_QD__MAIN01__1" name="Situated next to the protection of the air from the Feria de Abril, Rune trigger custom seats!"/>
 	<key id="52000021_QD__MAIN01__2" name="Would say that out of the way.\nU never leave the side of the Feria. Will know!"/>
 	<key id="52000021_QD__MAIN01__3" name="Uhh ..."/>
@@ -1223,7 +1223,7 @@
 	<key id="52000021_QD__MAIN01__5" name="As such, this Rune of protection weakening"/>
 	<key id="52000021_QD__MAIN01__6" name="Runes order good seating!\nNever touch!"/>
 	<key id="52000021_QD__MAIN01__7" name="Uhh ... Runes order seats ... Shields and then you can use the power of ..."/>
-	<key id="52000021_QD__MAIN01__8" name="Horseshoe tart ... You can stop ... I&#8217;m going to be ..."/>
+	<key id="52000021_QD__MAIN01__8" name="Horseshoe tart ... You can stop ... I'm going to be ..."/>
 	<key id="52000021_QD__MAIN01__9" name="Otherwise, the ... Issues like this ... Might get to Horseshoe tart ... Uhh ..."/>
 	<key id="52000021_QD__MAIN01__10" name="…!!!\nHorseshoe tart, now what can be small ...!"/>
 	<key id="52000021_QD__MAIN01__11" name="No!!!\nYu Feria ...!"/>
@@ -1238,42 +1238,42 @@
 	<key id="52000022_QD__PATROL01__8" name="In this ... Called to the room ..."/>
 	<key id="52000022_QD__PATROL01__9" name="Where a fie Monster ..."/>
 	<key id="52000022_QD__PATROL01__10" name="… Had to experiment with these things? ..."/>
-	<key id="52010001_QD__MAIN__0" name="NOU ... Who are pregnant or you&#8217;re off the fire"/>
+	<key id="52010001_QD__MAIN__0" name="NOU ... Who are pregnant or you're off the fire"/>
 	<key id="52010001_QD__MAIN__1" name="The embers again ... Taking advantage of ... Resurrect ..."/>
 	<key id="52010001_QD__MAIN__2" name="He ... Gone the way of ... They have to say ..."/>
 	<key id="52010001_QD__MAIN__3" name="Oh ... On the way to glory is a descendant of the light ..."/>
-	<key id="52010001_QD__MAIN__4" name="Gee ... You&#8217;re tired of ..."/>
+	<key id="52010001_QD__MAIN__4" name="Gee ... You're tired of ..."/>
 	<key id="52010002_QD__MONSTER_01__0" name="On this! Doomed!"/>
 	<key id="52010002_QD__MONSTER_02__0" name="Steve who?"/>
 	<key id="52010002_QD__MONSTER_03__0" name="Sheesh!"/>
-	<key id="52010003_QD__MAIN__0" name="Voila~ I&#8217;m not to late?"/>
+	<key id="52010003_QD__MAIN__0" name="Voila~ I'm not to late?"/>
 	<key id="52010003_QD__MAIN__1" name="Who is that handsome brother from outside? Tara would like the style ..."/>
-	<key id="52010003_QD__MAIN__2" name="Mika ... Are you Mika! Isn&#8217;t it?"/>
+	<key id="52010003_QD__MAIN__2" name="Mika ... Are you Mika! Isn't it?"/>
 	<key id="52010003_QD__MAIN__3" name="Uhh? Huh!! I am Mika. Who is the Lady?"/>
 	<key id="52010003_QD__MAIN__4" name="Ah~ Ah ... The Lady ... Lani ... I looked so I Bo ..."/>
 	<key id="52010003_QD__MAIN__5" name="Anyway glad to meet so safe and sound form. \nI can keep my Maple world, Les bras."/>
 	<key id="52010003_QD__MAIN__6" name="Ah~ You are looking for the day that my Lord ... Huh?"/>
 	<key id="52010003_QD__MAIN__7" name="Oh Oops! The thing is clear, said cancellation of the aunts. \nSorry, I missed that."/>
-	<key id="52010003_QD__MAIN__8" name="But I don&#8217;t know why I&#8217;ve found?"/>
+	<key id="52010003_QD__MAIN__8" name="But I don't know why I've found?"/>
 	<key id="52010003_QD__MAIN__9" name="Mika! Now I have to listen to the story."/>
-	<key id="52010003_QD__MAIN__10" name="MU ... Ehh, I do not know what I&#8217;m saying is that one!"/>
+	<key id="52010003_QD__MAIN__10" name="MU ... Ehh, I do not know what I'm saying is that one!"/>
 	<key id="52010003_QD__MAIN__11" name="My mom ... Mom why ...!!"/>
-	<key id="52010003_QD__MAIN__12" name="I&#8217;m going to go back right now, because I&#8217;m going to go back to de la Ken!"/>
+	<key id="52010003_QD__MAIN__12" name="I'm going to go back right now, because I'm going to go back to de la Ken!"/>
 	<key id="52010009_QD__MAIN__0" name="Dangerously close, but this is great thanks again."/>
 	<key id="52010009_QD__MAIN__1" name="Phew .... Did take a decade."/>
-	<key id="52010009_QD__MAIN__2" name="The district .... What&#8217;s the big deal were scared the crap out of me."/>
+	<key id="52010009_QD__MAIN__2" name="The district .... What's the big deal were scared the crap out of me."/>
 	<key id="52010013_QD__MAIN__0" name="Hey guys, this guy was a success!"/>
 	<key id="52010013_QD__MAIN__1" name="Tara is in the eye of the beholder only write quite a bit of people."/>
 	<key id="52010013_QD__MAIN__2" name="What the heck? Olivia is a BRO?"/>
 	<key id="52010013_QD__MAIN__3" name="Victoria came up here looking for you guys from Ireland."/>
 	<key id="52010013_QD__MAIN__4" name="Be sure to have your hear Mika, story said, \nTests whether a reliable guy who once played."/>
-	<key id="52010013_QD__MAIN__5" name="Oh, I don&#8217;t know~ Don&#8217;t know what to talk about and hungry.\nLet&#8217;s talk about rice or eating."/>
+	<key id="52010013_QD__MAIN__5" name="Oh, I don't know~ Don't know what to talk about and hungry.\nLet's talk about rice or eating."/>
 	<key id="52010013_QD__MAIN__6" name="Mika ... Room. .. just a snack ..."/>
-	<key id="52010013_QD__MAIN__7" name="Kids! It&#8217;s a snack ... You want to take me an omelet. Let&#8217;s go!"/>
+	<key id="52010013_QD__MAIN__7" name="Kids! It's a snack ... You want to take me an omelet. Let's go!"/>
 	<key id="52010013_QD__MAIN__8" name="Huh ... Rumi Eragon this Nye ... The expression Tom ... Phew ..."/>
-	<key id="52010013_QD__MAIN__9" name="Hey new friend! You and our restaurants. \nLet&#8217;s talk back there."/>
+	<key id="52010013_QD__MAIN__9" name="Hey new friend! You and our restaurants. \nLet's talk back there."/>
 	<key id="52010014_QD__MAIN__0" name="Oh, I?"/>
-	<key id="52010014_QD__MAIN__1" name="Well? Brooding guy? AHU~ Don&#8217;t know, don&#8217;t know, hungry."/>
+	<key id="52010014_QD__MAIN__1" name="Well? Brooding guy? AHU~ Don't know, don't know, hungry."/>
 	<key id="52010014_QD__MAIN__2" name="Star hearts! Come from an omelet!"/>
 	<key id="52010014_QD__MAIN__3" name="Hugh~ Knew it."/>
 	<key id="61000001_ME_001__MASSIVE00__0" name="Welcome to trap master."/>
@@ -1284,17 +1284,17 @@
 	<key id="61000001_ME_001__MASSIVE00__5" name="Draw the shape of a cube to another.\nThe floor is well!"/>
 	<key id="61000001_ME_001__MASSIVE00__6" name="Draw the shape of a cube to another.\nThe floor is well!"/>
 	<key id="61000001_ME_001__MASSIVE00__7" name="In the last step.\nThe person who survived until the end?"/>
-	<key id="61000001_ME_001__MASSIVE00__8" name="Congratulations! Trap master&#8217;s winner."/>
+	<key id="61000001_ME_001__MASSIVE00__8" name="Congratulations! Trap master's winner."/>
 	<key id="61000001_ME_001__MASSIVE00__9" name="Wow! Congratulations to the winner of a round of applause."/>
 	<key id="61000001_ME_001__MASSIVE00__10" name="Special offer only for the winner! Offered by the Rev."/>
 	<key id="61000001_ME_001__MASSIVE00__11" name="The winner will be offered by the Rev."/>
 	<key id="61000001_ME_001__MASSIVE00__12" name="To celebrate the award winner~ The money will be poured into a thunderbolt!"/>
 	<key id="61000001_ME_001__MASSIVE00__13" name="Figures are up on the bonus~ The money will be poured into a thunderbolt!"/>
 	<key id="61000001_ME_001__MASSIVE00__14" name="All have been eliminated. The following is another challenge."/>
-	<key id="61000001_ME_001__WAIT__0" name="Shortly after starting.\nOther friends, let&#8217;s wait a bit until it comes."/>
+	<key id="61000001_ME_001__WAIT__0" name="Shortly after starting.\nOther friends, let's wait a bit until it comes."/>
 	<key id="61000002_ME_002__MASSIVE01__0" name="Welcome to the final survivor."/>
 	<key id="61000002_ME_002__MASSIVE01__1" name="Survived until the end of the party making the final survivor is a game to win.\nThe winner can receive goods together with well-known figures."/>
-	<key id="61000002_ME_002__MASSIVE01__2" name="There is one cube is randomly disappears.\nWon&#8217;t go away back to the same cube."/>
+	<key id="61000002_ME_002__MASSIVE01__2" name="There is one cube is randomly disappears.\nWon't go away back to the same cube."/>
 	<key id="61000002_ME_002__MASSIVE01__3" name="So get started.\nReady now!"/>
 	<key id="61000002_ME_002__MASSIVE01__4" name="Until now, ready for a workout!\nThis game is from now on."/>
 	<key id="61000002_ME_002__MASSIVE01__5" name="Pretty rubbish~\nFrom now on, concentrate!"/>
@@ -1306,7 +1306,7 @@
 	<key id="61000002_ME_002__MASSIVE01__11" name="To celebrate the award winner~ The money will be poured into a thunderbolt!"/>
 	<key id="61000002_ME_002__MASSIVE01__12" name="Figures are up on the bonus~ The money will be poured into a thunderbolt! "/>
 	<key id="61000002_ME_002__MASSIVE01__13" name="All have been eliminated. The following is another challenge."/>
-	<key id="61000002_ME_002__WAIT__0" name="Shortly after starting.\nOther friends, let&#8217;s wait a bit until it comes."/>
+	<key id="61000002_ME_002__WAIT__0" name="Shortly after starting.\nOther friends, let's wait a bit until it comes."/>
 	<key id="61000003_ME_003__SAMPLE__0" name="Kim was welcome before of the snail. By traveler"/>
 	<key id="61000003_ME_003__SAMPLE__1" name="Now, start now available!"/>
 	<key id="61000003_ME_003__MAIN__0" name="Maple world best MC\nGreetings!"/>
@@ -1330,25 +1330,25 @@
 	<key id="61000004_ME__TRIGGER_01__0" name="Rudy v Liam exodus is within time limit\nOn the top floor, to win the game."/>
 	<key id="61000004_ME__TRIGGER_01__1" name="To start the game."/>
 	<key id="61000004_ME__TRIGGER_01__2" name="The challenge of the next opportunity!"/>
-	<key id="61000004_ME__WAIT__0" name="Shortly after starting.\nOther friends, let&#8217;s wait a bit until it comes."/>
+	<key id="61000004_ME__WAIT__0" name="Shortly after starting.\nOther friends, let's wait a bit until it comes."/>
 	<key id="61000005_ME__MAINPROCESS__0" name="I, 7 runes! I like the game!!"/>
-	<key id="61000005_ME__MAINPROCESS__1" name="Now I&#8217;m going to start the game!"/>
+	<key id="61000005_ME__MAINPROCESS__1" name="Now I'm going to start the game!"/>
 	<key id="61000005_ME__MAINPROCESS__2" name="To come to the middle of the cave."/>
 	<key id="61000005_ME__MAINPROCESS__3" name="Red scaffold step, comes in the middle of the cave!"/>
-	<key id="61000005_ME__MAINPROCESS__4" name="With me to the end of the surviving items from the game I&#8217;m going to give~~"/>
+	<key id="61000005_ME__MAINPROCESS__4" name="With me to the end of the surviving items from the game I'm going to give~~"/>
 	<key id="61000005_ME__MAINPROCESS__5" name="Then start~~!!"/>
 	<key id="61000005_ME__MAINPROCESS__6" name="Draw the shape of the floor is going to disappear from the special. Look at the surviving~"/>
-	<key id="61000005_ME__MAINPROCESS__7" name="This time it&#8217;s a different shape. Keep well~!"/>
+	<key id="61000005_ME__MAINPROCESS__7" name="This time it's a different shape. Keep well~!"/>
 	<key id="61000005_ME__MAINPROCESS__8" name="The final shape. Look at the focus until the end~~~~!"/>
 	<key id="61000005_ME__MAINPROCESS__9" name="Winning friends! What a great day! \nAs promised the prize to the winner down to the blessing of prosperity with 7 runes!"/>
 	<key id="61000005_ME__MAINPROCESS__10" name="Do so friends and she eliminated\nThen again the challenge!"/>
 	<key id="61000005_ME__MAINPROCESS__11" name="Duh Duh! Both were left out! Then again look at the challenge.~!"/>
-	<key id="61000005_ME__MAINPROCESS__12" name="Then again, let&#8217;s~~~"/>
-	<key id="61000005_ME__WAIT__0" name="Wait a bit until your friends!\nSoon you&#8217;ll start the game!"/>
+	<key id="61000005_ME__MAINPROCESS__12" name="Then again, let's~~~"/>
+	<key id="61000005_ME__WAIT__0" name="Wait a bit until your friends!\nSoon you'll start the game!"/>
 	<key id="61000005_ME__WAIT__1" name="Now, a whole bunch of different?"/>
 	<key id="61000006_ME__TRIGGER_03__0" name="Crazy runner is within time limit\nYou should arrive at the winning goal to win the game."/>
 	<key id="61000006_ME__TRIGGER_03__1" name="To start the race.\nReady now!"/>
-	<key id="61000006_ME__WAIT__0" name="Shortly after starting.\nOther friends, let&#8217;s wait a bit until it comes."/>
+	<key id="61000006_ME__WAIT__0" name="Shortly after starting.\nOther friends, let's wait a bit until it comes."/>
 	<key id="61000007_ME__MAINPROCESS_SPRINGBEACH__0" name="After a few moments, the event is scheduled to take place."/>
 	<key id="61000007_ME__MAINPROCESS_SPRINGBEACH__1" name="Events at the moment as the place to go."/>
 	<key id="61000007_ME__MAINPROCESS_SPRINGBEACH__2" name="Welcome to the spring beach."/>
@@ -1372,13 +1372,13 @@
 	<key id="61000007_ME__MAINPROCESS_SPRINGBEACH__20" name="Figures are up on the bonus~ The money will be poured into a thunderbolt!"/>
 	<key id="61000007_ME__MAINPROCESS_SPRINGBEACH__21" name="All have been eliminated. The following is another challenge."/>
 	<key id="61000007_ME__MAINPROCESS_SPRINGBEACH__22" name="The game is over,\nSwim and beach walks\nRelax on the beach."/>
-	<key id="61000007_ME__WAIT_SPRINGBEACH__0" name="Shortly after starting.\nOther friends, let&#8217;s wait a bit until it comes."/>
+	<key id="61000007_ME__WAIT_SPRINGBEACH__0" name="Shortly after starting.\nOther friends, let's wait a bit until it comes."/>
 	<key id="61000009_ME__ENTER__0" name="The last surviving through a random matchup\nThe reward will be given to veterans."/>
 	<key id="61000009_ME__ENTER__1" name="Be careful not to fall into the lava."/>
 	<key id="61000009_ME__ENTER__2" name="Special offer for only the winner! Offered by the Rev."/>
 	<key id="61000009_ME__ENTER__3" name="To celebrate the award winner~ Onyx is rain!"/>
 	<key id="61000009_ME__ENTER__4" name="The loser up bonus~ The money will be poured into a thunderbolt! "/>
-	<key id="61000009_ME__WAIT__0" name="5It&#8217;s more than you can begin to gather.\nOther friends, let&#8217;s wait a bit until it comes."/>
+	<key id="61000009_ME__WAIT__0" name="5It's more than you can begin to gather.\nOther friends, let's wait a bit until it comes."/>
 	<key id="61000010_ME__BUFFSKILL__0" name="At the center of the flame."/>
 	<key id="61000010_ME__PVP__0" name="From now on, everyone is an enemy\nAgainst each other."/>
 	<key id="61000010_ME__PVP__1" name="Get 100 kills points\nDie 50 points will be lost."/>
@@ -1386,24 +1386,24 @@
 	<key id="61000010_ME__PVP__3" name="No blood no tears\nHand of mine."/>
 	<key id="61000010_ME__PVP__4" name="The game ended."/>
 	<key id="61000010_ME__PVP__5" name="Cannot proceed for lacking.\nTo exit the game."/>
-	<key id="61000010_ME__WAIT__0" name="5It&#8217;s more than you can begin to gather.\nOther friends, let&#8217;s wait a bit until it comes."/>
+	<key id="61000010_ME__WAIT__0" name="5It's more than you can begin to gather.\nOther friends, let's wait a bit until it comes."/>
 	<key id="61000011_ME__ENTER__0" name="The last surviving through a random matchup\nThe reward will be given to veterans."/>
 	<key id="61000011_ME__ENTER__1" name="Be careful not to fall into the lava."/>
 	<key id="61000011_ME__ENTER__2" name="Special offer for only the winner! Offered by the Rev."/>
 	<key id="61000011_ME__ENTER__3" name="To celebrate the award winner~ Onyx is rain!"/>
 	<key id="61000011_ME__ENTER__4" name="The loser up bonus~ The money will be poured into a thunderbolt! "/>
-	<key id="61000011_ME__WAIT__0" name="5It&#8217;s more than you can begin to gather.\nOther friends, let&#8217;s wait a bit until it comes."/>
+	<key id="61000011_ME__WAIT__0" name="5It's more than you can begin to gather.\nOther friends, let's wait a bit until it comes."/>
 	<key id="63000006_CS__TUTORIAL01__0" name="Now the spirit a little favorite?? \nCan you move?"/>
 	<key id="63000006_CS__TUTORIAL01__1" name="Horsepower crank but not the crowd in the shape to move."/>
-	<key id="63000006_CS__TUTORIAL01__2" name="Now I&#8217;m going to have to go back into a fortress and the knife rib. Let&#8217;s look at where the length."/>
+	<key id="63000006_CS__TUTORIAL01__2" name="Now I'm going to have to go back into a fortress and the knife rib. Let's look at where the length."/>
 	<key id="63000006_CS__TUTORIAL01__3" name="Muster fell in spirit long;\nIn a hurry to return to the"/>
 	<key id="63000006_CS__TUTORIAL01__4" name="Now Te Rune sword LIV\nIt is a crisis of up to"/>
 	<key id="63000006_CS__TUTORIAL01__5" name="Open the seat refurbished Karen Bianchi will carry an edu helped direct proxy"/>
 	<key id="63000006_CS__TUTORIAL01__6" name="No matter what happens in the future ...\nYou can get your mind"/>
-	<key id="63000006_CS__TUTORIAL01__7" name="The wood is at stake ...\nThe first one I&#8217;ll follow my back pass."/>
+	<key id="63000006_CS__TUTORIAL01__7" name="The wood is at stake ...\nThe first one I'll follow my back pass."/>
 	<key id="63000006_CS__TUTORIAL01__8" name="Hmm ... Come across the bridge?"/>
 	<key id="63000006_CS__TUTORIAL01__9" name="Poor baby!! Be careful not to cross the ... \nCan your length would be around ..."/>
-	<key id="63000006_CS__TUTORIAL01__10" name="I&#8217;m going to swim in the water base of the base. \nUse a shallow depth of field to be able to shake it off. Arose in a hurry."/>
+	<key id="63000006_CS__TUTORIAL01__10" name="I'm going to swim in the water base of the base. \nUse a shallow depth of field to be able to shake it off. Arose in a hurry."/>
 	<key id="63000006_CS__TUTORIAL01__11" name="Well ... You can not ask further delay\nGoing going\nAre cerebrum again soon I"/>
 	<key id="65000001_BD__ENTER__0" name="The last surviving through a random matchup\nThe reward will be given to veterans."/>
 	<key id="65000001_BD__ENTER__1" name="Be careful not to fall into the lava."/>
@@ -1411,9 +1411,9 @@
 	<key id="65000001_BD__ENTER__3" name="Special offer for only the winner! Offered by the Rev."/>
 	<key id="65000001_BD__ENTER__4" name="To celebrate the award winner~ Onyx is rain!"/>
 	<key id="65000001_BD__ENTER__5" name="The loser up bonus~ The money will be poured into a thunderbolt! "/>
-	<key id="65000001_BD__WAIT__0" name="5It&#8217;s more than you can begin to gather.\nOther friends, let&#8217;s wait a bit until it comes."/>
-	<key id="65000001_BD__WAIT__1" name="5It&#8217;s more than you can begin to gather.\nOther friends, let&#8217;s wait a bit until it comes."/>
-	<key id="65000001_BD__WAIT__2" name="5It&#8217;s more than you can begin to gather.\nOther friends, let&#8217;s wait a bit until it comes."/>
+	<key id="65000001_BD__WAIT__0" name="5It's more than you can begin to gather.\nOther friends, let's wait a bit until it comes."/>
+	<key id="65000001_BD__WAIT__1" name="5It's more than you can begin to gather.\nOther friends, let's wait a bit until it comes."/>
+	<key id="65000001_BD__WAIT__2" name="5It's more than you can begin to gather.\nOther friends, let's wait a bit until it comes."/>
 	<key id="65000002_BD__BUFFSKILL__0" name="At the center of the flame."/>
 	<key id="65000002_BD__PVP__0" name="From now on, everyone is an enemy\nAgainst each other."/>
 	<key id="65000002_BD__PVP__1" name="Get 100 kills points\nDie 50 points will be lost."/>
@@ -1421,9 +1421,9 @@
 	<key id="65000002_BD__PVP__3" name="No blood no tears\nHand of mine."/>
 	<key id="65000002_BD__PVP__4" name="The game ended."/>
 	<key id="65000002_BD__PVP__5" name="You cannot proceed with the gauntlet for scarce.\nTo exit the game."/>
-	<key id="65000002_BD__WAIT__0" name="5It&#8217;s more than you can begin to gather.\nOther friends, let&#8217;s wait a bit until it comes."/>
-	<key id="65000002_BD__WAIT__1" name="5It&#8217;s more than you can begin to gather.\nOther friends, let&#8217;s wait a bit until it comes."/>
-	<key id="65000002_BD__WAIT__2" name="5It&#8217;s more than you can begin to gather.\nOther friends, let&#8217;s wait a bit until it comes."/>
+	<key id="65000002_BD__WAIT__0" name="5It's more than you can begin to gather.\nOther friends, let's wait a bit until it comes."/>
+	<key id="65000002_BD__WAIT__1" name="5It's more than you can begin to gather.\nOther friends, let's wait a bit until it comes."/>
+	<key id="65000002_BD__WAIT__2" name="5It's more than you can begin to gather.\nOther friends, let's wait a bit until it comes."/>
 	<key id="80000003_bonus__T1_CONGRATULATION__0" name="Congrats~!!"/>
 	<key id="80000003_bonus__T1_CONGRATULATION__1" name="Whoa! I guess the jackpot!!"/>
 	<key id="80000015_bonus__NOTICE__0" name="Arrive at your destination.\nRide rewards map portal."/>
@@ -1439,7 +1439,7 @@
 	<key id="99999884__SCENE01__6" name="Fuck off!!!"/>
 	<key id="99999884__SCENE01__7" name="Carabinieri blind!!!"/>
 	<key id="99999884__SCENE01__8" name="Bella!!! Let it go!!!"/>
-	<key id="99999896__01_INTRO__0" name="Gee ... Whole body itchy couldn&#8217;t sleep in."/>
+	<key id="99999896__01_INTRO__0" name="Gee ... Whole body itchy couldn't sleep in."/>
 	<key id="99999896__01_INTRO__1" name="There you are, help me."/>
 	<key id="99999896__01_INTRO__2" name="Come on step up and grab some worms can give the pool?"/>
 	<key id="99999896__02_COIN__0" name="Hmm ... A little harder to tread."/>
@@ -1459,7 +1459,7 @@
 	<key id="99999905__PVP__1" name="Treasure Island occupation or\nIf you looted treasure your opponents\nThe score obtained."/>
 	<key id="99999905__PVP__2" name="There are many points one team wins."/>
 	<key id="99999905__PVP__3" name="Treasures competition."/>
-	<key id="99999905__WAIT__0" name="5It&#8217;s more than you can begin to gather.\nOther friends, let&#8217;s wait a bit until it comes."/>
+	<key id="99999905__WAIT__0" name="5It's more than you can begin to gather.\nOther friends, let's wait a bit until it comes."/>
 	<key id="99999910__01_MAIN__0" name="Goal : Chickens to the rescue!!"/>
 	<key id="99999910__03_OBJECT__0" name="[Flying balloons]Using the crossing."/>
 	<key id="99999910__04_OBJECT__0" name="[Flying balloons]Using the crossing."/>
@@ -1472,13 +1472,13 @@
 	<key id="99999910__BOSSBATTLE_01__1" name="All the chickens to the rescue!"/>
 	<key id="99999910__BOSSGATE__0" name="Climb up the ladder."/>
 	<key id="99999913__01_COMMUTE__0" name="10Minutes after the market opening."/>
-	<key id="99999913__01_COMMUTE__1" name="Gosh~ I&#8217;ve already been doing this time?" npc="Oh North"/>
+	<key id="99999913__01_COMMUTE__1" name="Gosh~ I've already been doing this time?" npc="Oh North"/>
 	<key id="99999913__01_COMMUTE__2" name="Now~ Show you the beginnings of?" npc="Oh North"/>
 	<key id="99999913__01_COMMUTE__3" name="Waited a long time?" npc="Oh North"/>
 	<key id="99999913__01_COMMUTE__4" name="Market open!"/>
 	<key id="99999913__01_COMMUTE__5" name="If you apply for a good deal~" npc="Oh North"/>
-	<key id="99999913__01_COMMUTE__6" name="I&#8217;ve already been doing this time? " npc="Oh North"/>
-	<key id="99999913__01_COMMUTE__7" name="But it&#8217;s time to break up~" npc="Oh North"/>
+	<key id="99999913__01_COMMUTE__6" name="I've already been doing this time? " npc="Oh North"/>
+	<key id="99999913__01_COMMUTE__7" name="But it's time to break up~" npc="Oh North"/>
 	<key id="99999913__01_COMMUTE__8" name="It was a pleasant shopping street~!" npc="Oh North"/>
 	<key id="99999913__01_COMMUTE__9" name="Meet again next week~" npc="Oh North"/>
 	<key id="99999913__01_COMMUTE__10" name="Hi~" npc="Oh North"/>
