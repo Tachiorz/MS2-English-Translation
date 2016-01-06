@@ -2513,7 +2513,7 @@
   <key id="s_room_increase_time_type2" value="Boss defeat completed! The dungeon time limit was extended." />
   <key id="s_room_decrease_time" value="The time has been reduced by {0} seconds." />
   <key id="s_room_party_err_no_party" value="After a party." />
-  <key id="s_room_party_err_not_chief" value="Patijangi must be the first entry." />
+  <key id="s_room_party_err_not_chief" value="The party leader must enter first." />
   <key id="s_room_party_err_full_room" value="You have exceeded the maximum number that can be admitted." />
   <key id="s_room_party_err_is_in_user" value="Cannot initialize the Dungeon remained in party circles." />
   <key id="s_room_party_err_no_room" value="Yet this does not generate a Dungeon cannot be initialized." />
