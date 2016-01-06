@@ -438,19 +438,19 @@
   <key id="$s_worldmap_radio_hotplace" value="Hot Place"/>
   <key id="$s_worldmap_radio_quest_progress" value="Quest In Progress Area"/>
   <key id="$s_worldmap_radio_default" value="Default"/>
-  <key id="$s_worldmap_tooltip_hotplace" value="Check out the map where players gathered in the lot."/>
-  <key id="$s_worldmap_tooltip_quest_progress" value="Check out the map where you can proceed with quests."/>
+  <key id="$s_worldmap_tooltip_hotplace" value="Check out popular maps where a lot of players are gathered."/>
+  <key id="$s_worldmap_tooltip_quest_progress" value="Check your quests in progress on the map."/>
   <key id="$s_worldmap_tooltip_radio_default" value="Return to the default state of the world map."/>
   <key id="$s_worldmap_airtaxi_ticket" value="Lotus Air Taxi"/>
   <key id="$s_worldmap_tooltip_airtaxi_icon" value="&lt;FONT color='#FFD200' size='15' &gt;Lotus air taxi&lt;/FONT&gt;\nYou want to move the map by clicking on the icon in the air taxi\nYou can move the helicopter to the right."/>
   <key id="$s_worldmap_tooltip_airtaxi_ticket" value="&lt;FONT color='#FFD200' size='15' &gt;Lotus air taxi&lt;/FONT&gt;\nIn order to use Lotus the Lotus air taxi radio and\n1Times when radio one will be deducted."/>
   <key id="$s_worldmap_search_field" value="Enter the name of the map."/>
-  <key id="$s_worldmap_setting" value="World Map Settings"/>
-  <key id="$s_worldmap_setting_check0" value="&lt;FONT color='#00a2ed'&gt;Epic quest show&lt;/FONT&gt;"/>
-  <key id="$s_worldmap_setting_check1" value="&lt;FONT color='#ffcc00'&gt;World quest show&lt;/FONT&gt;"/>
-  <key id="$s_worldmap_setting_check2" value="&lt;FONT color='#51d600'&gt;Repeat the quest display&lt;/FONT&gt;"/>
-  <key id="$s_worldmap_setting_check3" value="Only show a similar level quests"/>
-  <key id="$s_worldmap_setting_check4" value="Only show a similar level Dungeon"/>
+  <key id="$s_worldmap_setting" value="Settings"/>
+  <key id="$s_worldmap_setting_check0" value="&lt;FONT color='#00a2ed'&gt;Display Epic Quests&lt;/FONT&gt;"/>
+  <key id="$s_worldmap_setting_check1" value="&lt;FONT color='#ffcc00'&gt;Display World Quests&lt;/FONT&gt;"/>
+  <key id="$s_worldmap_setting_check2" value="&lt;FONT color='#51d600'&gt;Display Repeatable Quests&lt;/FONT&gt;"/>
+  <key id="$s_worldmap_setting_check3" value="Display Similar Lv Quests"/>
+  <key id="$s_worldmap_setting_check4" value="Display Similar Dungeons"/>
   <key id="$s_worldmap_rank_1" value="Normal"/>
   <key id="$s_worldmap_rank_2" value="Challenge"/>
   <key id="$s_worldmap_rank_3" value="Chaos"/>
@@ -461,7 +461,7 @@
   <key id="$s_worldmap_island_victoria" value="Victoria Island"/>
   <key id="$s_worldmap_island_karkar" value="Karkar Island"/>
   <key id="$s_worldmap_island_darkness" value="Darkness Island"/>
-  <key id="$s_worldmap_island_runeblader" value="Carl Liv Island"/>
+  <key id="$s_worldmap_island_runeblader" value="Kalev Island"/>
   <key id="$s_worldmap_unknown_area"  value="Has not been found yet."/>
 
   <!--minimap-->
@@ -1354,22 +1354,22 @@
     <key id="$s_invitegroup_button_invite" value="Invite" />
 	
 	<!-- item break -->
-	<key id="$s_itembreak_title" value="Onyx-exhausters NSD-3200" />
-	<key id="$s_itembreak_break" value="To extract the" />
-	<key id="$s_itembreak_retry" value="Back to top" />
-	<key id="$s_itembreak_desc" value="Equipment parts in the Onyx decision items.\nDegradable equipment (Please put at least 20Lv item)." />
+	<key id="$s_itembreak_title" value="Onyx Extraction Device NSD-3200" />
+	<key id="$s_itembreak_break" value="Dismantle" />
+	<key id="$s_itembreak_retry" value="Go Back" />
+	<key id="$s_itembreak_desc" value="Dismantle equipment to extract Onyx Crystals from it.\nPlace a dismantleable equipment (Lv. 20Lv or higher)." />
   
   <!-- messagebox-->
-  <key id="$s_messagebox_group_name" value="Chat room name" />
+  <key id="$s_messagebox_group_name" value="Chat Room Name" />
   <key id="$s_messagebox_group_alpha" value="Transparency" />
   
   <!-- groupmessenger-->
-  <key id="$s_groupmessenger_start_groupchat" value="&lt;FONT color='#FFD200' size='15' &gt;The new Group dialog&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nClick on the button to start a new Group dialog."/>
+  <key id="$s_groupmessenger_start_groupchat" value="&lt;FONT color='#FFD200' size='15' &gt;New Group Talk&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nClick on the button to start a new Group Talk."/>
   <key id="$s_groupmessenger_minimize" value="&lt;FONT color='#FFD200' size='15' &gt;Minimize&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGroup chat room invisible."/>
   <key id="$s_groupmessenger_show_userlist" value="&lt;FONT color='#FFD200' size='15' &gt;Buddy list&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGet involved in the conversation, and you can see a list of the characters.\nYou can also invite new contacts."/>
   <key id="$s_groupmessenger_exit" value="&lt;FONT color='#FFD200' size='15' &gt;Exit&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThis group in a chat room."/>
   <key id="$s_groupmessenger_config" value="&lt;FONT color='#FFD200' size='15' &gt;Set&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can set the transparency of the group chat room name."/>
-  <key id="$s_groupmessenger_addbutton" value="Group dialog"/>
+  <key id="$s_groupmessenger_addbutton" value="Group Talk"/>
   
   <!-- guild -->
   <key id="$s_guild_mail_header" value="Guild Mailbox" />
@@ -1858,11 +1858,11 @@
   <key id="$s_partysearchregister_check_allow_join" value="Join the party without permission from the parties accepted"/>
 
   <!-- Guestbook -->
-  <key id="$s_visitorsbook_title" value="Guestbook"/>
-  <key id="$s_visitorsbook_comment" value="Please leave comments in my guestbook!"/>
+  <key id="$s_visitorsbook_title" value="Guest Book"/>
+  <key id="$s_visitorsbook_comment" value="Please leave a comment in my guest book!"/>
   
   <!-- Event -->
-  <key id="$s_systemmail_notify_detail" value="See more events"/>
+  <key id="$s_systemmail_notify_detail" value="View More Events"/>
   <key id="$s_systemmail_notify_close" value="Close"/>
   <key id="$s_systemmail_notify_onTime_Title" value="Supersecret at 3:00 pm on-time!"/>
   <key id="$s_systemmail_notify_onTime_Desc" value="The first 5 people to 5,000 yuan, NEXON to cache.\nNow 'To participate,' Button is pressed, the auto will be involved,\nAs a result of winning in the mail immediately.\nFor those of you that did not receive NEXON cache after 300 Medley Barrett."/>
@@ -1886,8 +1886,8 @@
   <key id="$s_pvp_team_result_msg_pillage" value="Pillage"/>
   
   <!-- Watch -->
-  <key id="$s_observe_observing_target" value="Currently {0}One of the views submitted by." />
-  <key id="$s_observe_quit_observe" value="Watch mode to exit" />
+  <key id="$s_observe_observing_target" value="You are currently spectating {0}." />
+  <key id="$s_observe_quit_observe" value="Exit Spectator Mode" />
   <!-- Login -->
   <key id="$s_login_msg_id" value="ID"/>
   <key id="$s_login_msg_pwd" value="Password"/>
@@ -1895,7 +1895,7 @@
 
   <key id="$s_enchantscroll_title_enchant" value="Enchant Scroll"/>
   <key id="$s_enchantscroll_title_restore" value="Damage to equipment repair order, which Chan Tran"/>
-  <key id="$s_enchantscroll_ready" value="Place the item to enchant"/>
+  <key id="$s_enchantscroll_ready" value="Place an item to enchant"/>
   <key id="$s_enchantscroll_ok" value="Enchant"/>
   
   <key id="$s_global_portal_enter" value="Enter"/>
