@@ -1012,7 +1012,7 @@
   <key id="s_item_end_time_pcbang" value="{0}Years {1}- {2}Days {3:02d}: {4:02d}P.m.\n&lt;FONT color='#707070'&gt;PCCan only be used in the room.&lt;/FONT&gt;"/>
   <key id="s_item_end_time_pcbang_expired" value="&lt;FONT color='#FF5F5F'&gt;(Use the term expiration)&lt;/FONT&gt; {0}Years {1}- {2}Days {3:02d}: {4:02d}P.m.\n&lt;FONT color='#707070'&gt;PCThe only effect of the room.&lt;/FONT&gt;"/>
   <key id="s_item_end_time_tooltip" value="Term items. ({0})"/>
-  <key id="s_item_end_time_tooltip_expiration" value="Term items.\n({0})"/> <!--expirationPeriod If you set the -->
+  <key id="s_item_end_time_tooltip_expiration" value="Time Limited Item.\n({0})"/> <!--expirationPeriod If you set the -->
   <key id="s_item_end_time_tooltip_pcbang" value="Term items. ({0})\n&lt;FONT color='#707070'&gt;PCCan only be used in the room.&lt;/FONT&gt;"/>
   <key id="s_item_end_time_tooltip_maid" value="The employment. ({0})\n&lt;FONT color='#707070'&gt;Maid gets paid to walk if you speak to will be extended to employment.\n7 days before expiration of the period of the employment salary.&lt;/FONT&gt;"/>
 
@@ -2002,18 +2002,18 @@
   <key id="s_html_chat_system_notice" value="&lt;P&gt;&lt;FONT color='#{0:x}' size='{1:d}'&gt;{2:s}&lt;/FONT&gt;&lt;/P&gt;"/>
   
   <!-- Taxi -->
-  <key id="s_err_near_taxi_station" value="You can take a taxi to nearby taxi station only."/>
-  <key id="s_err_taxi_same_field" value="You cannot move the same map."/>
-  <key id="s_taxi_transfer" value="&lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt;Taxi charge \n&lt;FONT color='#FFA200'&gt;{1}&lt;/FONT&gt; Merle.\n Are you sure you want to go by taxi?"/>
-  <key id="s_cash_taxi_transfer" value="Lotus radio, you can call the helicopter by consuming.\n&lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt;Are you sure you want to move by helicopter up to?\n&lt;FONT color='#FFA200'&gt;The channel will be moved to a different channel if filled.&lt;/FONT&gt;"/>
-  <key id="s_event_free_taxi_transfer" value="&lt;FONT color='#FFA200'&gt;Lotus air special events.\nDuring the event free of charge, even if the radio air taxi is available.&lt;/FONT&gt;\n\n&lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt;Are you sure you want to move by helicopter up to?\n&lt;FONT color='#FFA200'&gt;The channel will be moved to a different channel if filled.&lt;/FONT&gt;"/>
+  <key id="s_err_near_taxi_station" value="You can only take a taxi nearby a taxi station."/>
+  <key id="s_err_taxi_same_field" value="You cannot move to the map you are already in."/>
+  <key id="s_taxi_transfer" value="&lt;FONT color='Taxi Fare for #FFA200'&gt;{0}&lt;/FONT&gt; \n&lt;FONT color='#FFA200'&gt;{1}&lt;/FONT&gt; Meso.\n Would you like to go by taxi?"/>
+  <key id="s_cash_taxi_transfer" value="A Lotus Walkie-Talkie is used to call a helicopter.\n Would you like to go to &lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt; by helicopter?\n&lt;FONT color='#FFA200'&gt;The channel will be moved to a different channel if filled.&lt;/FONT&gt;"/>
+  <key id="s_event_free_taxi_transfer" value="&lt;FONT color='#FFA200'&gt;Lotus air special events.\nDuring the event free of charge, even if the radio air taxi is available.&lt;/FONT&gt;\n\n&lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt;Are you sure you want to move by helicopter up to?\n&lt;FONT color='#FFA200'&gt;You will be moved to a different channel if the current channel is full.&lt;/FONT&gt;"/>
   <key id="s_err_cash_taxi_continent" value="You cannot move to another continent."/>
-  <key id="s_err_cash_taxi_cannot_departure" value="In the current field, you cannot call a helicopter."/>
-  <key id="s_err_cash_taxi_cannot_destination" value="&lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt;You can&#8217;t go into the helicopter."/>
-  <key id="s_err_cash_taxi_need_ticket" value="Lotus radio is required."/>
-  <key id="s_err_cash_taxi_cannot_now" value="It is now not available."/>
-  <key id="s_err_cash_taxi_cannot_craft_mode" value="Among the construction mode is not available."/>
-  <key id="s_err_cash_taxi_cannot_place" value="The current status is not able to call a taxi.\nPlease call to stand in a secure location."/>
+  <key id="s_err_cash_taxi_cannot_departure" value="You cannot call for a helicopter in this field."/>
+  <key id="s_err_cash_taxi_cannot_destination" value="You cannot go to &lt;FONT color='#FFA200'&gt;{0}&lt;/FONT&gt; with a helicopter."/>
+  <key id="s_err_cash_taxi_need_ticket" value="A Lotus Walkie-Talkie is required."/>
+  <key id="s_err_cash_taxi_cannot_now" value="Unavailable."/>
+  <key id="s_err_cash_taxi_cannot_craft_mode" value="Unavailable during Construction Mode."/>
+  <key id="s_err_cash_taxi_cannot_place" value="You are unable to call a taxi.\nTry again in a safer place."/>
 
   <!-- Cathy Cole -->
   <key id="s_err_cash_call_medic_prohibit_map" value="This area is a first-aid helicopter cannot come."/>
@@ -2132,17 +2132,17 @@
   <key id="s_word_saturday" value="Saturday"/>
 
   <key id="s_word_unknown" value="Unknown"/>
-  <key id="s_word_welcome" value="Thank you for visiting.\nOften come to play.\nDo not forget to leave your comments in my guestbook work!"/>
+  <key id="s_word_welcome" value="Thank you for visiting.\nCome see us often.\nDon't forget to leave a comment the guest book, please!"/>
   <key id="s_word_construct_score" value="Architect Score"/>
   
   <key id="s_format_meso" value="{0} Meso"/>
   <key id="s_format_exp" value="{0} EXP"/>
   <key id="s_format_item" value="{0}"/> <!--Item drop: to appear on messages that use angle-->
-  <key id="s_msg_worldmap_title" value="Move the map"/>
-  <key id="s_take_boat_accept" value="Coming:SPACE, Not coming:ESC"/>
+  <key id="s_msg_worldmap_title" value="Move Map"/>
+  <key id="s_take_boat_accept" value="I'll Go:SPACE, I'll Pass:ESC"/>
   <key id="s_sell_ugc_map_accept" value="Cheat:SPACE, Do not cheat:ESC"/>
-  <key id="s_roulette_accept" value="I&#8217;ll turn:SPACE"/>
-  <key id="s_change_ch_err_battle" value="You cannot move the channel during the battle."/>
+  <key id="s_roulette_accept" value="Spin:SPACE"/>
+  <key id="s_change_ch_err_battle" value="You cannot move channels during a battle."/>
   <key id="s_change_ch_err_dead" value="When the channel move the monument cannot be laid down."/>
   <key id="s_system_quest_reward_exp" value="&lt;FONT color='#8dd502'&gt;{0} EXP Acquisition&lt;/FONT&gt;"/>
   <key id="s_system_quest_reward_exp_with_hottimebonus" value="&lt;FONT color='#8dd502'&gt;{0} EXP + Hot-time bonus {1} EXP Acquisition&lt;/FONT&gt;"/>
