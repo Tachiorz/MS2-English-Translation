@@ -155,33 +155,33 @@
   <key id="$s_gameoption_resolution" value="Resolution"/>
   <key id="$s_gameoption_screenmode" value="Screen Mode"/>
   <key id="$s_gameoption_sm_window" value="Windowed"/>
-  <key id="$s_gameoption_sm_full_screen" value="Full Screen"/>
-  <key id="$s_gameoption_sm_full_window" value="Full Screen Windowed"/>  
-  <key id="$s_gameoption_smoothCamera" 	value="Smooth Camera Rendering"/>  
-  <key id="$s_gameoption_effectStep"		value="Effect Quality"/>
-  <key id="$s_gameoption_brightness"		value="Screen Brightness"/>
+  <key id="$s_gameoption_sm_full_screen" value="Full screen"/>
+  <key id="$s_gameoption_sm_full_window" value="Full screen windowed"/>  
+  <key id="$s_gameoption_smoothCamera" 	value="Smooth camera rendering"/>  
+  <key id="$s_gameoption_effectStep"		value="Effect quality"/>
+  <key id="$s_gameoption_brightness"		value="Screen brightness"/>
   <key id="$s_gameoption_showFrameRate" 	value="Display FPS"/>  
   <key id="$s_gameoption_advance_effect"	value="Advanced Screen Effect"/>
-  <key id="$s_gameoption_max_fov"			value="Maximum Camera POV Range Setting"/>
+  <key id="$s_gameoption_max_fov"			value="Maximum camera FOV"/>
   <key id="$s_gameoption_close_all_dlg"		value="Close all windows at once with ESC"/>
-  <key id="$s_gameoption_auto_desc"			value="Display Tooltips"/>
-  <key id="$s_gameoption_show_tip_text"		value="View Help"/>
-  <key id="$s_gameoption_show_damagemeter"	value="Display Damage Meter" />
-  <key id="$s_gameoption_show_nametag_mark"	value="Display Enchant Mark" />
-  <key id="$s_gameoption_set_ui"			value="Control Size Interface"/>
+  <key id="$s_gameoption_auto_desc"			value="Display tooltips"/>
+  <key id="$s_gameoption_show_tip_text"		value="View help"/>
+  <key id="$s_gameoption_show_damagemeter"	value="Display damage meter" />
+  <key id="$s_gameoption_show_nametag_mark"	value="Display enchant mark" />
+  <key id="$s_gameoption_set_ui"			value="Control interface size"/>
   <key id="$s_gameoption_set_quality"		value="Easy Setup"/>
   <key id="$s_gameoption_hdr"				value="HDR"/>
-  <key id="$s_gameoption_shimmer"			value="Distortion Effect"/>
-  <key id="$s_gameoption_vsync"				value="Vertical Sync"/>
+  <key id="$s_gameoption_shimmer"			value="Distortion effect"/>
+  <key id="$s_gameoption_vsync"				value="Vertical sync"/>
   <key id="$s_gameoption_boss_notify_0"		value="Similar levels or quest objectives only"/>
-  <key id="$s_gameoption_boss_notify_1"		value="Quests Only"/>
+  <key id="$s_gameoption_boss_notify_1"		value="Quests only"/>
   <key id="$s_gameoption_boss_notify_2"		value="Disabled"/>
-  <key id="$s_gameoption_set_boss_notify"	value="Elite/Boss Monster Spawn Notification"/>
+  <key id="$s_gameoption_set_boss_notify"	value="Elite/Boss monster spawn notification"/>
   <key id="$s_gameoption_shadow"			value="Real-time Shadow"/>
   <key id="$s_gameoption_multisampling"		value="Multisampling"/>
-  <key id="$s_gameoption_shadow_none"		value="No Shadows"/>
-  <key id="$s_gameoption_shadow_simple"		value="Partial Shadows"/>
-  <key id="$s_gameoption_shadow_realtime"	value="Real-time Shadows"/>
+  <key id="$s_gameoption_shadow_none"		value="No shadows"/>
+  <key id="$s_gameoption_shadow_simple"		value="Partial shadows"/>
+  <key id="$s_gameoption_shadow_realtime"	value="Real-time shadows"/>
   <key id="$s_gameoption_device"			value="Video Card"/>
   <key id="$s_gameoption_multisampling_0x"	value="0x Multisampling"/>
   <key id="$s_gameoption_multisampling_2x"	value="2x Multisampling"/>
@@ -199,62 +199,62 @@
   <key id="$s_gameoption_tooltip_shimmer_on"	value="Distortion Effect &lt;FONT color='#FFD200' &gt;On&lt;/FONT&gt;"/>
   <key id="$s_gameoption_tooltip_shimmer_off"	value="Distortion Effect &lt;FONT color='#FFD200' &gt;Off&lt;/FONT&gt;"/>
   <key id="$s_gameoption_tooltip_fps"		value="Displays a frames per second (FPS) counter on your screen.\n\n&lt;FONT color='#FFD200' &gt;60 FPS indicates smooth gameplay.\nAdjust your settings if your FPS is 30 or less.&lt;/FONT&gt;"/>
-  <key id="$s_gameoption_tooltip_vsync"		value="Synchronizes your FPS with the monitor's refresh rate.\n\n&lt;FONT color='#FFD200' &gt;Consider using this option when your screen is shakes. \nHowever, there can be a decrease in FPS.&lt;/FONT&gt;"/>
+  <key id="$s_gameoption_tooltip_vsync"		value="Synchronizes your FPS with the monitor's refresh rate.\n\n&lt;FONT color='#FFD200' &gt;Consider using this option if you are experiencing screen tearing. \nHowever, this may result in a lower FPS.&lt;/FONT&gt;"/>
   <key id="$s_gameoption_tooltip_effect"	value="Adjust the quality of effects.\n\n&lt;FONT color='#FFD200' &gt;The higher the stage, the better your PC needs to be to run the game smoothly.&lt;/FONT&gt;"/>
   
-  <key id="$s_gameoption_MyName"			value="Display My Name"/>
-  <key id="$s_gameoption_FriendlyName"		value="Display Friendly Players' Name"/>
-  <key id="$s_gameoption_EnemyName"			value="Displays Hostile Players' Name"/>
-  <key id="$s_gameoption_NpcName"			value="Display NPC Name"/>
-  <key id="$s_gameoption_MonsterName"		value="Display Monster Name"/>
+  <key id="$s_gameoption_MyName"			value="Display my name"/>
+  <key id="$s_gameoption_FriendlyName"		value="Display names of friendly players"/>
+  <key id="$s_gameoption_EnemyName"			value="Display names of hostile players"/>
+  <key id="$s_gameoption_NpcName"			value="Display NPC names"/>
+  <key id="$s_gameoption_MonsterName"		value="Display monster names"/>
   <key id="$s_gameoption_MonsterGaugeValue"	value="Display monsters' remaining HP gauge"/>
   <key id="$s_gameoption_ExpValue"			value="Display current EXP gauge"/>
-  <key id="$s_gameoption_MyHpGauge"			value="Display HP gauge above my head"/>
-  <key id="$s_gameoption_PartyHpGauge"		value="Display party member, friendly NPC's HP gauge"/>
-  <key id="$s_gameoption_MonsterHpGauge"	value="Display HP gauge above a monster's head"/>
-  <key id="$s_gameoption_NormalChatBalloon"	value="Display Talk Speech Bubble"/>
-  <key id="$s_gameoption_PartyChatBalloon"	value="Display Party Talk Speech Bubble"/>
-  <key id="$s_gameoption_GuildChatBalloon"	value="Display Guild Talk Speech Bubble"/>
+  <key id="$s_gameoption_MyHpGauge"			value="Display HP gauge above my character"/>
+  <key id="$s_gameoption_PartyHpGauge"		value="Display HP gauge above party members and friendly NPCs"/>
+  <key id="$s_gameoption_MonsterHpGauge"	value="Display HP gauge above monsters"/>
+  <key id="$s_gameoption_NormalChatBalloon"	value="Display area chat speech bubble"/>
+  <key id="$s_gameoption_PartyChatBalloon"	value="Display party chat speech bubble"/>
+  <key id="$s_gameoption_GuildChatBalloon"	value="Display guild chat speech bubble"/>
   
-  <key id="$s_gameoption_MyGiveDamage"	value="Display Damage Inflicted"/>
-  <key id="$s_gameoption_MyTakeDamage"	value="Display Damage Received"/>
-  <key id="$s_gameoption_MyGiveRecovery"	value="Display Heal Inflicted"/>
-  <key id="$s_gameoption_MyTakeRecovery"	value="Display Heal Taken"/>
-  <key id="$s_gameoption_PartyGiveDamage"	value="Display Party Member's Damage Inflicted"/>
-  <key id="$s_gameoption_PartyTageDamage"	value="Display Party Member's Damage Received"/>
-  <key id="$s_gameoption_PartyRecovery"	value="Display Party Member's Heal"/>
-  <key id="$s_gameoption_DropIcon"		value="Display Item Drop Cube"/>
-  <key id="$s_gameoption_GetMeso"		value="Display Gained Meso"/>
-  <key id="$s_gameoption_GetExp"		value="Display Gained EXP"/>
-  <key id="$s_gameoption_EpGauge"		value="Display EP Gauge"/>
-  <key id="$s_gameoption_Mode"			value="How to display other players' damage"/>
-  <key id="$s_gameoption_Color"			value="Different Colors"/>
-  <key id="$s_gameoption_Size"			value="Different Sizes"/>
-  <key id="$s_gameoption_Alpha"			value="Different Transparency"/>
+  <key id="$s_gameoption_MyGiveDamage"	value="Display damage inflicted"/>
+  <key id="$s_gameoption_MyTakeDamage"	value="Display damage received"/>
+  <key id="$s_gameoption_MyGiveRecovery"	value="Display heal inflicted"/>
+  <key id="$s_gameoption_MyTakeRecovery"	value="Display heal received"/>
+  <key id="$s_gameoption_PartyGiveDamage"	value="Display damage inflicted by party members"/>
+  <key id="$s_gameoption_PartyTageDamage"	value="Display damage received by party members"/>
+  <key id="$s_gameoption_PartyRecovery"	value="Display heal received by party members"/>
+  <key id="$s_gameoption_DropIcon"		value="Display item drop cube"/>
+  <key id="$s_gameoption_GetMeso"		value="Display Mesos obtained"/>
+  <key id="$s_gameoption_GetExp"		value="Display EXP obtained"/>
+  <key id="$s_gameoption_EpGauge"		value="Display EP gauge"/>
+  <key id="$s_gameoption_Mode"			value="Display other players' damage with:"/>
+  <key id="$s_gameoption_Color"			value="Different colors"/>
+  <key id="$s_gameoption_Size"			value="Different sizes"/>
+  <key id="$s_gameoption_Alpha"			value="Different transparency"/>
   <key id="$s_gameoption_damageSize"	value="Damage Size"/>
   <key id="$s_gameoption_reset_interface"	value="Reset Interface"/>
   
-  <key id="$s_gameoption_BgTransparency"	value="Show Object Transparency"/>
-  <key id="$s_gameoption_CameraLooseFall"	value="Camera Effect when Falling"/>
-  <key id="$s_gameoption_VibrateEffect"		value="Screen Shake Effect"/>
-  <key id="$s_gameoption_damageEffectAlphaStep"	value="Hit Effect Transparency"/>
-  <key id="$s_gameoption_cameraLooseStep"	value="Smooth Camera Rendering"/>
-  <key id="$s_gameoption_cameraFovStep"		value="Maximum Camera FOV Range Setting"/>
+  <key id="$s_gameoption_BgTransparency"	value="Make nearby objects transparent"/>
+  <key id="$s_gameoption_CameraLooseFall"	value="Camera effect when falling"/>
+  <key id="$s_gameoption_VibrateEffect"		value="Screen shake effect"/>
+  <key id="$s_gameoption_damageEffectAlphaStep"	value="Hit effect transparency"/>
+  <key id="$s_gameoption_cameraLooseStep"	value="Smooth camera rendering"/>
+  <key id="$s_gameoption_cameraFovStep"		value="Maximum camera FOV"/>
   
   
-  <key id="$s_gameoption_myChatBalloon" 	value="Display My Speech Bubble"/>
-  <key id="$s_gameoption_otherChatBalloon" 	value="Display Other's Speech Bubble"/>
-  <key id="$s_gameoption_ChatWorld" 		value="Confirm Merit when using World Talk"/>
-  <key id="$s_gameoption_ChatChannel" 		value="Confirm Merit when using Channel Talk"/>
-  <key id="$s_gameoption_partyRequest" 		value="Decline Party Requests"/>
-  <key id="$s_gameoption_buddyRequest" 		value="Decline Friend Requests"/>
-  <key id="$s_gameoption_guildRequest" 		value="Decline Guild Invites"/>
-  <key id="$s_gameoption_tradeRequest" 		value="Decline Trade Requests"/>
-  <key id="$s_gameoption_groupRequest" 		value="Decline Group Talk Invites"/>
-  <key id="$s_gameoption_whisperNotify" 	value="Decline Whispers"/>
+  <key id="$s_gameoption_myChatBalloon" 	value="Display my speech bubbles"/>
+  <key id="$s_gameoption_otherChatBalloon" 	value="Display other players' speech bubbles"/>
+  <key id="$s_gameoption_ChatWorld" 		value="Confirm Merit expenditure when using world chat"/>
+  <key id="$s_gameoption_ChatChannel" 		value="Confirm Merit expenditure when using channel chat"/>
+  <key id="$s_gameoption_partyRequest" 		value="Decline party requests"/>
+  <key id="$s_gameoption_buddyRequest" 		value="Decline friend requests"/>
+  <key id="$s_gameoption_guildRequest" 		value="Decline guild invites"/>
+  <key id="$s_gameoption_tradeRequest" 		value="Decline trade requests"/>
+  <key id="$s_gameoption_groupRequest" 		value="Decline group chat invites"/>
+  <key id="$s_gameoption_whisperNotify" 	value="Decline whispers"/>
   
   <key id="$s_gameoption_muteAll" 			value="Mute"/>
-  <key id="$s_gameoption_playAll" 			value="Always Sound Output"/>
+  <key id="$s_gameoption_playAll" 			value="Play sound when minimized"/>
   
   <key id="$s_gameoption_mainSoundStep" 	value="Master Volume"/>
 
@@ -268,7 +268,7 @@
   <key id="$s_gameoption_bossSoundStep" 	value="Boss Monster Voice"/>
   <key id="$s_gameoption_systemSoundStep" 	value="System Voice"/>
   <key id="$s_gameoption_instrumentStep" 	value="Playing Instruments" />
-  <key id="$s_gameoption_instrumentStep_isOffBgm" value="Disable BGM when Playing Instruments" />
+  <key id="$s_gameoption_instrumentStep_isOffBgm" value="Disable BGM when playing instruments" />
 
 
   
@@ -295,20 +295,20 @@
   <key id="$s_gameoption_option_set_ui" value="UI Settings"/>
   <key id="$s_gameoption_option_ui_scale" value="Size"/>
   <key id="$s_gameoption_option_ui" value="UI"/>
-  <key id="$s_gameoption_option_ui_mydamage" value="Display My Damage"/>
-  <key id="$s_gameoption_option_ui_otherdamage" value="Displays Other Player's Damage"/>
-  <key id="$s_gameoption_option_ui_getmeso" value="Display Gained Meso"/>
-  <key id="$s_gameoption_option_ui_getexp" value="Display Gained EXP"/>
+  <key id="$s_gameoption_option_ui_mydamage" value="Display my damage"/>
+  <key id="$s_gameoption_option_ui_otherdamage" value="Display damage of other players"/>
+  <key id="$s_gameoption_option_ui_getmeso" value="Display Mesos obtained"/>
+  <key id="$s_gameoption_option_ui_getexp" value="Display EXP obtained"/>
 	
   <key id="$s_gameoption_optimizer_not_use" value="Disabled"/>
-  <key id="$s_gameoption_optimizer_effect" value="Hide Other Character's Effects"/>
-  <key id="$s_gameoption_optimizer_hide_always" value="Always Hide"/>
-  <key id="$s_gameoption_optimizer_hide_bossbattle" value="Only Hide nearby Elite/Boss Monsters"/>
-  <key id="$s_gameoption_optimizer_show_party" value="Always Show Party Members"/>
-  <key id="$s_gameoption_optimizer_show_guild" value="Always Show Guild Members"/>
-  <key id="$s_gameoption_optimizer_show_custom" value="Display Max. Characters"/>
+  <key id="$s_gameoption_optimizer_effect" value="Hide effects from other players"/>
+  <key id="$s_gameoption_optimizer_hide_always" value="Always hide"/>
+  <key id="$s_gameoption_optimizer_hide_bossbattle" value="Only hide near Elite/Boss monsters"/>
+  <key id="$s_gameoption_optimizer_show_party" value="Always show effects from party members"/>
+  <key id="$s_gameoption_optimizer_show_guild" value="Always show effects from guild members"/>
+  <key id="$s_gameoption_optimizer_show_custom" value="Maximum number of players from which to display effects"/>
   <key id="$s_gameoption_optimizer_count" value=""/>
-  <key id="$s_gameoption_optimizer_useOptimizer" value="Use Automatic Optimization"/>
+  <key id="$s_gameoption_optimizer_useOptimizer" value="Use automatic optimization"/>
   <key id="$s_gameoption_optimizer_warning" value="This performs optimization in the game. \nDisable this option when the game becomes unstable,\nand doesn't run smooth anymore."/>
   
   <!--skill-->
