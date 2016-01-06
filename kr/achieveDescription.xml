@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsing this data used do not directly modify the -->
 <ms2>
-	<achieve id="21100001" desc="" complete="" manualDesc="Night of the former to" manualComplete="Knight is a former" />
-	<achieve id="21100002" desc="" complete="" manualDesc="University communications to former" manualComplete="University by a former" />
-	<achieve id="21100003" desc="" complete="" manualDesc="Former wizards to" manualComplete="Ex-wizards" />
-	<achieve id="21100004" desc="" complete="" manualDesc="By former priest to" manualComplete="By former priest" />
-	<achieve id="21100005" desc="" complete="" manualDesc="Ranger ex to" manualComplete="Ranger ex" />
-	<achieve id="21100006" desc="" complete="" manualDesc="Heavy gunner to former" manualComplete="Heavy gunner by former" />
-	<achieve id="21100007" desc="" complete="" manualDesc="Sifu ex to" manualComplete=": Pro ex" />
-	<achieve id="21100009" desc="" complete="" manualDesc="Former assassin to" manualComplete="As an ex-Assassin" />
-	<achieve id="21100010" desc="" complete="" manualDesc="After growing up to level 50 ex Knight" manualComplete="After growing up an ex-Knight level 50" />
-	<achieve id="21100011" desc="" complete="" manualDesc="University communications after growing up to 50 levels by former" manualComplete="University after growing up as an ex-level 50" />
-	<achieve id="21100012" desc="" complete="" manualDesc="After growing up an ex-wizards to level 50" manualComplete="After growing up to 50 levels of former wizards" />
-	<achieve id="21100013" desc="" complete="" manualDesc="By former priest after growing up to level 50" manualComplete="By former priest and then grow up to level 50" />
-	<achieve id="21100014" desc="" complete="" manualDesc="After growing up to level 50 Ranger ex" manualComplete="After growing up an ex-Ranger level 50" />
-	<achieve id="21100015" desc="" complete="" manualDesc="Heavy gunner after growing up to 50 levels by former" manualComplete="Heavy gunner after growing up with ex-level 50" />
-	<achieve id="21100016" desc="" complete="" manualDesc="After growing up to 50 levels at Pro ex" manualComplete="After growing up an ex-pro at level 50" />
-	<achieve id="21100017" desc="" complete="" manualDesc="After growing up to level 50 with an ex-Assassin" manualComplete="After growing up to level 50 with an ex-Assassin" />
-	<achieve id="21100018" desc="" complete="" manualDesc="As a beginner to grow up to level 50 with no ex" manualComplete="The former as a beginner without growing up to 50 levels" />
+	<achieve id="21100001" desc="" complete="" manualDesc="Job advance to Knight" manualComplete="Advanced to Knight" />
+	<achieve id="21100002" desc="" complete="" manualDesc="Job advance to Berserker" manualComplete="Advanced to Berserker" />
+	<achieve id="21100003" desc="" complete="" manualDesc="Job advance to Wizard" manualComplete="Advanced to Wizard" />
+	<achieve id="21100004" desc="" complete="" manualDesc="Job advance to Priest" manualComplete="Advanced to Priest" />
+	<achieve id="21100005" desc="" complete="" manualDesc="Job advance to Ranger" manualComplete="Advanced to Ranger" />
+	<achieve id="21100006" desc="" complete="" manualDesc="Job advance to Heavy Gunner" manualComplete="Advanced to Heavy Gunner" />
+	<achieve id="21100007" desc="" complete="" manualDesc="Job advance to Thief" manualComplete="Advanced to Thief" />
+	<achieve id="21100009" desc="" complete="" manualDesc="Job advance to Assassin" manualComplete="Advanced to Assassin" />
+	<achieve id="21100010" desc="" complete="" manualDesc="Reach level 50 as a Knight" manualComplete="Reached level 50 as a Knight" />
+	<achieve id="21100011" desc="" complete="" manualDesc="Reach level 50 as a Berserker" manualComplete="Reached level 50 as a Berserker" />
+	<achieve id="21100012" desc="" complete="" manualDesc="Reach level 50 as a Wizard" manualComplete="Reached level 50 as a Wizard" />
+	<achieve id="21100013" desc="" complete="" manualDesc="Reach level 50 as a Priest" manualComplete="Reached level 50 as a Priest" />
+	<achieve id="21100014" desc="" complete="" manualDesc="Reach level 50 as a Ranger" manualComplete="Reached level 50 as a Ranger" />
+	<achieve id="21100015" desc="" complete="" manualDesc="Reach level 50 as a Heavy Gunner" manualComplete="Reached level 50 as a Heavy Gunner" />
+	<achieve id="21100016" desc="" complete="" manualDesc="Reach level 50 as a Thief" manualComplete="Reached level 50 as a Thief" />
+	<achieve id="21100017" desc="" complete="" manualDesc="Reach level 50 as a Assassin" manualComplete="Reached level 50 as an Assassin" />
+	<achieve id="21100018" desc="" complete="" manualDesc="Reach level 50 as a Beginner" manualComplete="Reached level 50 as a Beginner" />
 	<achieve id="21100019" desc="Job-specific resumes master trophy {0}To obtain a dog" complete="So far the master trophy {0}Dog acquisition" manualDesc="" manualComplete="">
 		<reward grade="5" uiDesc="$item:50600046$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600046$ Purchase permission obtained" />
 	</achieve>
