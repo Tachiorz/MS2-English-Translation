@@ -2144,7 +2144,7 @@
   <key id="s_roulette_accept" value="Spin:SPACE"/>
   <key id="s_change_ch_err_battle" value="You cannot move channels during a battle."/>
   <key id="s_change_ch_err_dead" value="When the channel move the monument cannot be laid down."/>
-  <key id="s_system_quest_reward_exp" value="&lt;FONT color='#8dd502'&gt;{0} EXP Acquisition&lt;/FONT&gt;"/>
+  <key id="s_system_quest_reward_exp" value="&lt;FONT color='#8dd502'&gt;{0} EXP Acquired&lt;/FONT&gt;"/>
   <key id="s_system_quest_reward_exp_with_hottimebonus" value="&lt;FONT color='#8dd502'&gt;{0} EXP + Hot-time bonus {1} EXP Acquisition&lt;/FONT&gt;"/>
   <key id="s_system_quest_reward_meso" value="&lt;FONT color='#'FFB400&gt;{0} Meredith acquired the cow&lt;/FONT&gt;"/>
   <key id="s_system_quest_reward_meso_with_hottimebonus" value="&lt;FONT color='#'FFB400&gt;{0} Meso + Hot-time bonus {1} Meredith acquired the cow&lt;/FONT&gt;"/>
