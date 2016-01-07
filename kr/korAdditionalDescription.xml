@@ -1353,11 +1353,11 @@
 	<key id="90050316" level="1" name="Holly strike damage increased 19%"/>
 	<key id="90050321" level="1" name="Light Warrior's spirit cooldown 45 seconds, attack speed, movement speed reduced to 18"/>
 	<key id="90050323" level="1" name="Light Warrior's spirit is defeated while it lasted/Magic damage increased by 5%"/>
-	<key id="90050331" level="1" name="Lightning whip cooldown reduced to 10 seconds"/>
-	<key id="90050332" level="1" name="Whipped lightning damage 40% y/y increase"/>
-	<key id="90050333" level="1" name="Whipped lightning damage 20% y/y increase"/>
-	<key id="90050334" level="1" name="Whipped lightning damage 20% y/y increase"/>
-	<key id="90050335" level="1" name="Whipped lightning damage 20% y/y increase"/>
+	<key id="90050331" level="1" name="Lightning whip cooldown reduced to 10 seconds, 4% reduction in property damage and the flames"/>
+	<key id="90050332" level="1" name="Whipped lightning damage 40% y/y increase, 4% reduction in property damage and the flames"/>
+	<key id="90050333" level="1" name="Whipped lightning damage 20% y/y increase, a 2% reduction in property damage and the flames"/>
+	<key id="90050334" level="1" name="Whipped lightning damage 20% y/y increase, a 2% reduction in property damage and the flames"/>
+	<key id="90050335" level="1" name="Whipped lightning damage 20% y/y increase, a 2% reduction in property damage and the flames"/>
 	<key id="90050341" level="1" name="Angel Ray cool time, SP Consumption, 50% reduction in the amount of the recovery"/>
 	<key id="90050343" level="1" name="Angel Ray damage increased 38%"/>
 	<key id="90050344" level="1" name="Angel Ray damage increased 19%"/>
