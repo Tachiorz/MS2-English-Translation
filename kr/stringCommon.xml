@@ -2142,20 +2142,20 @@
   <key id="s_take_boat_accept" value="I'll Go:SPACE, I'll Pass:ESC"/>
   <key id="s_sell_ugc_map_accept" value="Cheat:SPACE, Do not cheat:ESC"/>
   <key id="s_roulette_accept" value="Spin:SPACE"/>
-  <key id="s_change_ch_err_battle" value="You cannot move channels during a battle."/>
-  <key id="s_change_ch_err_dead" value="When the channel move the monument cannot be laid down."/>
-  <key id="s_system_quest_reward_exp" value="&lt;FONT color='#8dd502'&gt;{0} EXP Acquired&lt;/FONT&gt;"/>
-  <key id="s_system_quest_reward_exp_with_hottimebonus" value="&lt;FONT color='#8dd502'&gt;{0} EXP + Hot-time bonus {1} EXP Acquisition&lt;/FONT&gt;"/>
-  <key id="s_system_quest_reward_meso" value="&lt;FONT color='#'FFB400&gt;{0} Meredith acquired the cow&lt;/FONT&gt;"/>
-  <key id="s_system_quest_reward_meso_with_hottimebonus" value="&lt;FONT color='#'FFB400&gt;{0} Meso + Hot-time bonus {1} Meredith acquired the cow&lt;/FONT&gt;"/>
+  <key id="s_change_ch_err_battle" value="You cannot change channels during battle."/>
+  <key id="s_change_ch_err_dead" value="You cannot change channels when tombstone laid down."/>
+  <key id="s_system_quest_reward_exp" value="&lt;FONT color='#8dd502'&gt;{0} EXP acquired&lt;/FONT&gt;"/>
+  <key id="s_system_quest_reward_exp_with_hottimebonus" value="&lt;FONT color='#8dd502'&gt;{0} EXP + {1} Hot-time bonus EXP acquired&lt;/FONT&gt;"/>
+  <key id="s_system_quest_reward_meso" value="&lt;FONT color='#'FFB400&gt;{0} Meso obtained&lt;/FONT&gt;"/>
+  <key id="s_system_quest_reward_meso_with_hottimebonus" value="&lt;FONT color='#'FFB400&gt;{0} Meso + {1} Hot-time bonus Meso obtained&lt;/FONT&gt;"/>
   <key id="s_system_quest_reward_merat" value="&lt;FONT color='#'FFB400&gt;{0} Merit obtained&lt;/FONT&gt;"/>
-  <key id="s_system_achieve_reward_title" value="&lt;FONT color='#'FFB400&gt;{0} Entitlement acquired&lt;/FONT&gt;"/>
-  <key id="s_system_achieve_reward_field_enterance" value="&lt;FONT color='#'FFB400&gt;{0} Entry rights acquisition&lt;/FONT&gt;"/>
-  <key id="s_system_achieve_reward_karma" value="&lt;FONT color='#'FFB400&gt;{0} Karma acquisition&lt;/FONT&gt;"/>
-  <key id="s_system_achieve_reward_honor" value="&lt;FONT color='#'FFB400&gt;Token of Valor {0}Dog acquisition&lt;/FONT&gt;"/>
-  <key id="s_system_achieve_reward_lu" value="&lt;FONT color='#'FFB400&gt;Lu {0}Dog acquisition&lt;/FONT&gt;"/> 
-  <key id="s_system_achieve_reward_habi" value="&lt;FONT color='#'FFB400&gt;Habi {0}Dog acquisition&lt;/FONT&gt;"/> 
-  <key id="s_system_achieve_reward_shop_unlock" value="&lt;FONT color='#'FFB400&gt;{0} Purchase permission obtained&lt;/FONT&gt;"/>
+  <key id="s_system_achieve_reward_title" value="&lt;FONT color='#'FFB400&gt;{0} Title acquired&lt;/FONT&gt;"/>
+  <key id="s_system_achieve_reward_field_enterance" value="&lt;FONT color='#'FFB400&gt;{0} Entry rights acquired&lt;/FONT&gt;"/>
+  <key id="s_system_achieve_reward_karma" value="&lt;FONT color='#'FFB400&gt;{0} Karma obtained&lt;/FONT&gt;"/>
+  <key id="s_system_achieve_reward_honor" value="&lt;FONT color='#'FFB400&gt;{0} Tokens of Valor obtained&lt;/FONT&gt;"/>
+  <key id="s_system_achieve_reward_lu" value="&lt;FONT color='#'FFB400&gt;{0} Lu obtained&lt;/FONT&gt;"/>
+  <key id="s_system_achieve_reward_habi" value="&lt;FONT color='#'FFB400&gt;{0} Habi obtained&lt;/FONT&gt;"/>
+  <key id="s_system_achieve_reward_shop_unlock" value="&lt;FONT color='#'FFB400&gt;{0} Purchase permission acquired&lt;/FONT&gt;"/>
   <key id="s_system_quest_condition" value="{0}"/>
   <key id="s_html_quest_reward" value="\t&lt;Img Src='{0}' vspace='-3'&gt;&lt;/Img&gt;&lt;FONT color='#{1:x}' size='14'&gt;{2}&lt;/FONT&gt;\n"/>
   <key id="s_system_get_item" value="&lt;FONT color='#{0:x}'&gt;{1} Item drop&lt;/FONT&gt;"/>
