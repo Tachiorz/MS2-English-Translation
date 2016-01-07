@@ -1803,7 +1803,7 @@
   <key id="s_quest_talk_end" value="Close:SPACE"/>
   <key id="s_quest_talk_reward_title" value="Quest Reward"/>
   <key id="s_quest_state_init" value=""/>
-  <key id="s_quest_state_beginAble" value="Startable"/>
+  <key id="s_quest_state_beginAble" value="Available"/>
   <key id="s_quest_state_progress" value="In Progress"/>
   <key id="s_quest_state_completeAble" value="Completable"/>
   <key id="s_quest_state_complete" value="Complete"/>
