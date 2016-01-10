@@ -8,8 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("exitbtn.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("minimizebtn.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("refreshbtn.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("savebtn.png")]
 
 

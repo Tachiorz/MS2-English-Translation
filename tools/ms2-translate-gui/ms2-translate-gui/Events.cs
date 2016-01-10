@@ -16,13 +16,43 @@ namespace ms2_translate_gui
         {
             ExitButtonImage.Click += ExitButtonImage_Click;
             MinimizeButtonImage.Click += MinimizeButtonImage_Click;
-            RefreshButtonImage.Click += RefreshButtonImage_Click;
+            SaveButtonImage.Click += SaveButtonImage_Click;
+            StringsListView.SelectionChanged += StringsListView_SelectionChanged;
+            FilesListView.SelectionChanged += FilesListView_SelectionChanged;
+            EnglishString.TextChanged += EnglishString_TextChanged;
+        }
 
+        bool byUser = true;
+        void EnglishString_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            if (byUser) {
+                xmlDirtyFlag[FilesListView.SelectedIndex] = true;
+                SaveString();
+            }
         }
 
 
-        void RefreshButtonImage_Click(object sender, System.Windows.RoutedEventArgs e)
+
+        void StringsListView_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
+            UpdateData();
+        }
+
+        void FilesListView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            
+            int newFileIdx = FilesListView.SelectedIndex;
+            if (previousFileIdx != newFileIdx && newFileIdx >= 0) {
+                SaveData();
+                previousFileIdx = newFileIdx;
+                UpdateStringData();
+            }
+        }
+
+
+        void SaveButtonImage_Click(object sender, System.Windows.RoutedEventArgs e)
+        {
+            SaveData();
         }
 
         void MinimizeButtonImage_Click(object sender, System.Windows.RoutedEventArgs e)
@@ -35,6 +65,9 @@ namespace ms2_translate_gui
             this.Close();
         }
 
-
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            SaveData();
+        }
     }
 }

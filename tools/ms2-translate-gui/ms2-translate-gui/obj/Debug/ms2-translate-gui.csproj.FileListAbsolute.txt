@@ -12,3 +12,16 @@ C:\GitHub\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\obj\
 C:\GitHub\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\obj\Debug\ms2-translate-gui.csproj.GenerateResource.Cache
 C:\GitHub\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\obj\Debug\ms2-translate-gui.exe
 C:\GitHub\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\obj\Debug\ms2-translate-gui.pdb
+C:\GitHub\MS2-English-Translation-MOCHI\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\bin\Debug\ms2-translate-gui.exe.config
+C:\GitHub\MS2-English-Translation-MOCHI\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\obj\Debug\ms2-translate-gui.exe
+C:\GitHub\MS2-English-Translation-MOCHI\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\obj\Debug\ms2-translate-gui.pdb
+C:\GitHub\MS2-English-Translation-MOCHI\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\bin\Debug\ms2-translate-gui.exe
+C:\GitHub\MS2-English-Translation-MOCHI\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\bin\Debug\ms2-translate-gui.pdb
+C:\GitHub\MS2-English-Translation-MOCHI\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\obj\Debug\ms2-translate-gui.csprojResolveAssemblyReference.cache
+C:\GitHub\MS2-English-Translation-MOCHI\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\obj\Debug\MainWindow.baml
+C:\GitHub\MS2-English-Translation-MOCHI\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\obj\Debug\MainWindow.g.cs
+C:\GitHub\MS2-English-Translation-MOCHI\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\obj\Debug\App.g.cs
+C:\GitHub\MS2-English-Translation-MOCHI\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\obj\Debug\ms2-translate-gui_MarkupCompile.cache
+C:\GitHub\MS2-English-Translation-MOCHI\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\obj\Debug\ms2-translate-gui.g.resources
+C:\GitHub\MS2-English-Translation-MOCHI\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\obj\Debug\ms2_translate_gui.Properties.Resources.resources
+C:\GitHub\MS2-English-Translation-MOCHI\MS2-English-Translation\tools\ms2-translate-gui\ms2-translate-gui\obj\Debug\ms2-translate-gui.csproj.GenerateResource.Cache
