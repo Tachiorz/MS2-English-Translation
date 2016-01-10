@@ -931,7 +931,7 @@
   <key id="s_word_stat_mar" value="Magic Defense"/>
   <key id="s_word_stat_cad" value="Critical Damage"/>
   <key id="s_word_stat_car" value="Critical Avoidability"/>
-  <key id="s_word_stat_wap" value="Weapon Damage"/>
+  <key id="s_word_stat_wap" value="Weapon Attack"/>
   <key id="s_word_stat_dmg" value="Damage"/>
   <key id="s_word_stat_pen" value="Defense Penetration"/>
   <key id="s_word_stat_rmsp" value="Mount Movement Speed"/>
