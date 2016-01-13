@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="0106185114000004" npc="이벤트 도우미 릴리아" name='안녕하세요~$MyPCName$님!&#x0A;접속 보상으로 지급된 $item:20300133$$pp:와,과$ $item:30000512$$pp:는,은$ 잘 받으셨나요?&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$item:30000512$&lt;/font&gt;$pp:가,이$ 있다면 &lt;font color=&quot;#ffd200&quot;&gt;$item:20300133$&lt;/font&gt;$pp:를,을$ 열어볼 수 있답니다.' />
+	<key id="0106185114000005" npc="이벤트 도우미 릴리아" name='&lt;font color=&quot;#ffd200&quot;&gt;$item:30000512$&lt;/font&gt;$pp:가,이$ 부족하다고요?&#x0A;그렇다면 필드에 등장하는 &lt;font color=&quot;#ffd200&quot;&gt;엘리트 몬스터&lt;/font&gt;를 처치해 보세요!&#x0A;엘리트 몬스터에게서 틀림없이 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000512$&lt;/font&gt;$pp:를,을$ 구할 수 있을 거예요.&#x0A;당신이 바로 행운의 주인공이 될 지도 모른다고요!' />
+	<key id="0106185114000007" npc="이벤트 도우미 릴리아" name='접속 보상으로 지급된 $item:20300133$$pp:와,과$ $item:30000512$$pp:는,은$ 잘 받으셨나요?&#x0A;&lt;font color=&quot;#ffd200&quot;&gt;$item:30000512$&lt;/font&gt;$pp:가,이$ 있다면 &lt;font color=&quot;#ffd200&quot;&gt;$item:20300133$&lt;/font&gt;$pp:를,을$ 열어볼 수 있답니다.' />
+	<key id="0106185114000008" npc="이벤트 도우미 릴리아" name='필드에서 &lt;font color=&quot;#ffd200&quot;&gt;엘리트 몬스터&lt;/font&gt;를 처치하면 &lt;font color=&quot;#ffd200&quot;&gt;$item:30000512$&lt;/font&gt;$pp:를,을$ 구할 수 있을 거예요&#x0A;그것으로 &lt;font color=&quot;#ffd200&quot;&gt;$item:20300133$&lt;/font&gt;$pp:를,을$ 열어보세요~!' />
+	<key id="0106185114000009" npc="이벤트 도우미 릴리아" name='어머, 벌써 &lt;font color=&quot;#ffd200&quot;&gt;$item:20300133$&lt;/font&gt;$pp:를,을$ 다 열어보셨나요?&#x0A;정말 부지런하시네요!! 제가 보상으로 &lt;font color=&quot;#ffd200&quot;&gt;특별한 선물&lt;/font&gt;을 드릴게요!' />
+</ms2>

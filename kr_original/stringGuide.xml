@@ -218,7 +218,7 @@
 	<key id="10100" name='카메라를 줌인, 줌아웃해 보세요.\n&lt;font color=&quot;#00a2ed&quot;&gt;마우스 휠&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 이용하면 카메라를&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;줌인&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;,&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;줌아웃&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있습니다. 예쁘게 꾸민 자신의 모습을 더 잘 살펴보고 싶거나, 멀리 있는 하늘이 보고 싶을 때 줌인해서 살펴보면 좋겠네요.&lt;/font&gt;' voiceID="" />
 	<key id="10110" name="소지품 창 열어 탈것 확인하기" voiceID="" />
 	<key id="10112" name="더블클릭으로 탈것 소환/해제" voiceID="" />
-	<key id="10113" name="탈것 탭 클릭" voiceID="" />
+	<key id="10113" name="탈것/펫 탭 클릭" voiceID="" />
 	<key id="10120" name='대미지를 측정합니다.\n&lt;font color=&quot;#909090&quot;&gt;대미지 미터 창에서는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;누적 시간 동안 내 캐릭터가 적에게 입힌 대미지량&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 확인할 수 있습니다. 또한 대미지 미터 창 상단의 초기화 버튼을 클릭하면 누적 시간과 대미지 기록을 초기화할 수 있습니다.&lt;/font&gt;' voiceID="" />
 	<key id="10121" name="마우스 올려 메뉴 확인하기" voiceID="" />
 	<key id="10130" name='다른 파티원의 전투를 관전할 수 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;비석에 깔린 상태에서는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;다른 파티원의 시점으로 전투를 관전&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;할 수 있습니다. 파티 UI에 표시되어 있는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;카메라 버튼&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 클릭해 보세요.&lt;/font&gt;' voiceID="" />
@@ -228,7 +228,7 @@
 	<key id="10160" name='상점에 진열된 아이템을 교체할 수 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;상점에 마음에 드는 아이템이 없거나 배송 트럭을 기다리기 지루하다면,&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;&apos;즉시 입고&apos; 버튼을 눌러보세요.&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;단, &apos;즉시 입고&apos; 기능을 사용하면 수수료가 부과됩니다.&lt;/font&gt;' voiceID="" />
 	<key id="10161" name="판매 목록을 즉시 교체하기" voiceID="" />
 	<key id="10170" name='이삿짐 보관 창고에 보관 중인 아이템이 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;집을 판매하거나 계약 기간이 만료되면 집에 설치, 보관했던 아이템은 이삿짐 보관 창고에 보관됩니다.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;보관 기간은 90일(메럿 및 캐시로 구입한 아이템은 365일)&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이며, 기간 내에 찾아가지 않은 아이템은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;자동 폐기&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;됩니다.&lt;/font&gt;' voiceID="" />
-	<key id="10180" name='블랙마켓에서는 아이템을 판매 혹은 구매할 수 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;블랙마켓에서의 모든 거래는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;트레이더를 통해&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;은밀하게 이뤄집니다. 판매자와 구매자의 신원은 비밀이 보장되며, 엑설런트 이상 등급의 아이템도 거래가 가능합니다.&lt;/font&gt;' voiceID="" />
+	<key id="10180" name='블랙마켓에서는 아이템을 판매 혹은 구매할 수 있습니다.\n&lt;font color=&quot;#909090&quot;&gt;블랙마켓에서의 모든 거래는 은밀하게 이뤄집니다. 판매자와 구매자의 신원은 비밀이 보장되며, 엑설런트 이상 등급의 아이템도 거래가 가능합니다.&lt;/font&gt;' voiceID="" />
 	<key id="10190" name='잘못을 저지르면 벨마의 심판을 받게 됩니다.\n&lt;font color=&quot;#909090&quot;&gt;다른 친구들의 플레이를 방해하는 잘못을 반복해서 저지르면,&lt;/font&gt;\n&lt;font color=&quot;#00a2ed&quot;&gt;일정 시간 동안 채팅, UGC 이용 등이 제한&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;됩니다.\n이때&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;감옥에서 반성의 노역&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 하면 제재 시간이 단축됩니다.&lt;/font&gt;' voiceID="" />
 	<key id="10200" name='쉐도우 월드의 무법지대에서는 사방을 주시해야 합니다.\n&lt;font color=&quot;#909090&quot;&gt;쉐도우 월드는 사악한 악마 투르카가 지배하는 세상으로, 안전지대와 무법지대로 나눠져 있습니다.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;라펜타의 보호 없이 무법지대에 들어서면 다른 친구들의 사냥감&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;이 될 수 있으니 주의가 필요합니다.&lt;/font&gt;' voiceID="" />
 	<key id="10201" name='쉐도우 월드에 입장하면 그림자의 기운이 스며듭니다.\n&lt;font color=&quot;#909090&quot;&gt;그림자의 기운은 체력을 비약적으로 증가시키나, 영혼을 더럽혀 동료를 적으로 돌리게 만듭니다.\n그림자의 기운으로 끌어올려진 체력은&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;엘릭서&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;로도 보충할 수 있습니다.&lt;/font&gt;' voiceID="" />
@@ -263,7 +263,7 @@
 	<key id="10440" name='EP 구슬을 주웠습니다.\n&lt;font color=&quot;#909090&quot;&gt;EP 구슬은 부서지는 사물을 부서트리거나, 필드의 엘리트 및 보스 몬스터를 때리면 등장합니다. EP 구슬을 주우면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;EP 회복 시간을 기다릴 필요 없이 일정량의 EP를 즉시 회복&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;시킬 수 있습니다.&lt;/font&gt;' voiceID="" />
 	<key id="10470" name='미니맵에서 물음표를 찾아보세요.\n&lt;font color=&quot;#909090&quot;&gt;Tab키를 눌러 미니맵을 확장해 보세요.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;퀘스트를 완료할 수 있는 NPC의 위치&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 쉽게 확인할 수 있습니다. 또한&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;느낌표가 표시된 위치에는 시작 가능한 퀘스트를 지닌 NPC&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;가 있다는 것도 함께 알아두세요.&lt;/font&gt;' voiceID="" />
 	<key id="10480" name='물고기를 낚아보세요\n&lt;font color=&quot;#909090&quot;&gt;물고기를 낚으면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;낚시 숙련도&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;와&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;경험치&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 획득합니다.\n단, 높은 단계의 낚시터에서 잡히는 물고기일수록 여러 번 잡아야 숙련도를 올릴 수 있습니다.&lt;/font&gt;' voiceID="" />
-	<key id="10481" name="낚시 도감 보기" voiceID="" />
+	<key id="10481" name="물고기 도감 보기" voiceID="" />
 	<key id="10490" name='새로운 음악을 작곡해 보세요.\n&lt;font color=&quot;#00a2ed&quot;&gt;메이플스토리2의 음악 코드&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;를 이용해서 작곡할 수 있습니다.\n작곡 방법에 대한 자세한 내용을 확인하려면&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;화살표 위치의 도움말&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 클릭해 보세요.&lt;/font&gt;' voiceID="" />
 	<key id="10491" name="작곡 방법 자세히 보기" voiceID="" />
 	<key id="10501" name="소지품 창 열어 악기 확인하기" voiceID="" />
@@ -273,6 +273,9 @@
 	<key id="10520" name="소지품 창 열어 낚싯대 확인하기" voiceID="" />
 	<key id="10521" name="기타 탭 클릭" voiceID="" />
 	<key id="10522" name="물가에서 더블클릭하거나\n퀵슬롯에 올려 사용할 수 있습니다." voiceID="" />
+	<key id="10530" name="소지품 창 열어 펫 확인하기" voiceID="" />
+	<key id="10532" name="더블클릭으로 펫 소환/해제" voiceID="" />
+	<key id="10540" name="펫 정보 확인하기" voiceID="" />
 	<key id="20000" name='모두 함께 볼 수 있는 전광판입니다.\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드 곳곳에 배치되어 있는 전광판에서는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;원하는 날짜와 시간을 예약&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;해&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;자신이 등록한 사진&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 모두 함께 볼 수 있습니다. 하지만 다른 사람이 먼저 예약한 시간에는 자신의 사진을 예약할 수 없습니다.&lt;/font&gt;' voiceID="" />
 	<key id="20001" name='모두 함께 볼 수 있는 벽보입니다.\n&lt;font color=&quot;#909090&quot;&gt;메이플 월드 곳곳에 배치되어 있는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;벽보&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;에는 저렴한 비용으로&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;누구나 자유롭게&lt;/font&gt; &lt;font color=&quot;#909090&quot;&gt;사진을 붙일 수 있습니다. 하지만&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;새로운 사진이 등록되면 이전의 사진은 사라진다&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;는 점을 명심하세요.&lt;/font&gt;' voiceID="" />
 	<key id="20010" name='프로필을 등록하세요.\n&lt;font color=&quot;#909090&quot;&gt;자신의 개성을 뽐낼 수 있는&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;프로필&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;을 등록할 수 있습니다.&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;PC에 보관하고 있던 사진&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;도 좋고&lt;/font&gt; &lt;font color=&quot;#00a2ed&quot;&gt;프로필 카메라로 촬영한 사진&lt;/font&gt;&lt;font color=&quot;#909090&quot;&gt;도 좋습니다. 남들과 다른 자신을 표현해 보세요.&lt;/font&gt;' voiceID="" />
@@ -468,6 +471,7 @@
 	<key id="20003493" name='[[icon:portal]]&lt;font color=&quot;#00a2ed&quot;&gt;포털&lt;/font&gt;을 타고 이동하세요.' voiceID="" />
 	<key id="20003494" name="칠흑 속에 숨겨진 &lt;font color=&apos;#e91945&apos;&gt;어둠의 씨앗&lt;/font&gt;을 모두 제거하세요." voiceID="" />
 	<key id="20003495" name='검은 뿌리 덩굴 속에 갇힌 &lt;font color=&quot;#00a2ed&quot;&gt;레논&lt;/font&gt;을 구해주세요.' voiceID="" />
+	<key id="20003551" name="어둠의 뿌리가 다시 뒤엉키고 있습니다." voiceID="" />
 	<key id="20100691" name="바위를 조사해 보세요." voiceID="" />
 	<key id="20100701" name="화살표를 따라 이동하세요." voiceID="" />
 	<key id="20100702" name="욕망이 불러낸 몬스터를 모두 처치해야 합니다." voiceID="" />

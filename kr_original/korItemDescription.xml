@@ -52,6 +52,7 @@
 	<key id="11150019" tooltipDescription="깔끔하게 디자인된 클래식 반무테 안경이다." guideDescription="착용 시 캐릭터 정보창의 스킨 탭에서 확인할 수 있다." />
 	<key id="11150020" tooltipDescription="모험가 신청자 전원에게 지급하는 선글라스이다." guideDescription="착용 시 캐릭터 정보창의 스킨 탭에서 확인할 수 있다." />
 	<key id="11150021" tooltipDescription="귀여운 해골이 그려진 안대이다." guideDescription="착용 시 캐릭터 정보창의 스킨 탭에서 확인할 수 있다." />
+	<key id="11150024" tooltipDescription="자잘한 부품들로 만들어진 정교한 고글이다." guideDescription="착용 시 캐릭터 정보창의 스킨 탭에서 확인할 수 있다." />
 	<key id="11150025" tooltipDescription="코가 달린 장난감 안경이다." guideDescription="착용 시 캐릭터 정보창의 스킨 탭에서 확인할 수 있다." />
 	<key id="11150026" tooltipDescription="어지러움을 표현한 장난감 안경이다." guideDescription="착용 시 캐릭터 정보창의 스킨 탭에서 확인할 수 있다." />
 	<key id="11200006" tooltipDescription="불멸의 존재, $npc:23090005$의 빈티지 패션 아이템이다." />
@@ -72,6 +73,7 @@
 	<key id="11250006" tooltipDescription="높은음 자리표 모양의 귀고리이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11250007" tooltipDescription="모험의 시작을 기념하기 위해 제작된 귀고리이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11250008" tooltipDescription="작은 드래곤 모양의 귀고리이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11250010" tooltipDescription="커다란 옷핀 모양의 귀고리이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11250012" tooltipDescription="여러 개의 반짝이는 별이 달린 귀고리이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11250013" tooltipDescription="작은 별 모양의 귀고리이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11250014" tooltipDescription="도톰한 느낌의 하트 모양 귀고리이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
@@ -103,8 +105,8 @@
 	<key id="11300056" tooltipDescription="내가 누군지 모르겠지? 얼굴을 숨기고 싶을 때 사용하는 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300057" tooltipDescription="50메소도 애용한다는 m모사에서 제작한 힙합 비니이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300058" tooltipDescription="신선한 딸기를 본떠 만든 모자이다. 누군가 베어먹은 흔적은 기분탓이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
-	<key id="11300059" tooltipDescription="남자 승무원이 착용하는 각진 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
-	<key id="11300060" tooltipDescription="여자 승무원들이 착용하는 둥근 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11300059" tooltipDescription="승무원이 착용하는 각진 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11300060" tooltipDescription="승무원이 착용하는 작은 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300061" tooltipDescription="길쭉한 악마의 뿔이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300062" tooltipDescription="악마의 날개를 사용해 만든 머리장식이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300063" tooltipDescription="단정하고 귀여운 마린 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
@@ -240,6 +242,9 @@
 	<key id="11300376" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 어둠 : 난폭한 어둠의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 모자이다. 어둠의 기운을 가득 담고 있어 암흑의 힘을 강화시켜 준다.&lt;/font&gt;" />
 	<key id="11300377" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 불길 : 난폭한 불길의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 모자이다. 열화의 기운을 가득 담고 있어 화염의 힘을 강화시켜 준다.&lt;/font&gt;" />
 	<key id="11300378" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 빙하 : 난폭한 빙하의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 모자이다. 얼음의 기운을 가득 담고 있어 냉기의 힘을 강화시켜 준다.&lt;/font&gt;" />
+	<key id="11300381" tooltipDescription="길쭉한 여우의 귀를 본떠 제작한 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11300382" tooltipDescription="귀여운 너구리 귀를 본떠 제작한 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11300383" tooltipDescription="작은 다람쥐 귀를 본떠 제작한 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300384" tooltipDescription="우아한 깃털로 장식한 머리 장식이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300387" tooltipDescription="날렵한 깃털 모양의 머리 장식이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300388" tooltipDescription="할로윈을 기념하기 위해 제작된 호박 요정의 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
@@ -259,6 +264,7 @@
 	<key id="11300427" tooltipDescription="귀여운 음표가 달린 머리띠이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300428" tooltipDescription="쓰고 있으면 연주를 잘 할 것만 같은 가발이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300429" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 파멸 : 난폭한 파멸의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 아펙스이다. 파멸의 기운을 가득 담고 있어 암흑의 힘을 강화시켜 준다.&lt;/font&gt;" />
+	<key id="11300435" tooltipDescription="하얀 여우의 귀를 본떠 제작한 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300436" tooltipDescription="단단하고 날카로운 바포메트의 뿔. 감당할 수 없을 정도로 치밀어 오르는 분노가 배어있다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300437" tooltipDescription="단단하고 날카로운 바포메트의 뿔. 헤어나올 수 없는 어둠의 나락으로 끌어 당기는 혼돈의 기운이 서려있다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300438" tooltipDescription="강력한 힘과 의지가 느껴지는 두툼한 뿔이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
@@ -273,6 +279,15 @@
 	<key id="11300447" tooltipDescription="탄력을 잃어 스타일링하기 힘든 버섯 모자다. 하지만 앞에 붙은 부적이 어쩐지 행운을 가져다 줄 것만 같다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300448" tooltipDescription="$npc:23000034$의 느낌이 물씬 풍기는 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300449" tooltipDescription="$npc:23000035$의 느낌이 물씬 풍기는 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11300451" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11300452" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11300453" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11300454" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11300455" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11300456" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11300457" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11300458" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11300459" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
 	<key id="11300460" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 모자이다. 나이트의 &apos;홀리 스트라이크&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="11300461" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 모자이다. 버서커의 &apos;광전사의 혼&apos; 스킬에 효과가 추가된다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="11300462" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 모자이다. 위자드의 &apos;번개 채찍&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
@@ -421,6 +436,15 @@
 	<key id="11400382" tooltipDescription="룬 블레이더 선조들의 지식과 지혜가 깃들어있다." />
 	<key id="11400383" tooltipDescription="방수 재질로 만들어진 낚시꾼 의상이다. 가볍지만 구김이 가지 않아 멋스럽다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11400384" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 파멸 : 난폭한 파멸의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 상의이다. 파멸의 기운을 가득 담고 있어 암흑의 힘을 강화시켜 준다.&lt;/font&gt;" />
+	<key id="11400397" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11400398" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11400399" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11400400" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11400401" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11400402" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11400403" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11400404" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11400405" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
 	<key id="11400406" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 상의이다. 나이트의 &apos;홀리 스트라이크&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="11400407" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 상의이다. 버서커의 &apos;광전사의 혼&apos; 스킬에 효과가 추가된다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="11400408" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 상의이다. 시프의 &apos;발칸 엣지&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
@@ -541,6 +565,15 @@
 	<key id="11500310" tooltipDescription="룬 블레이더 선조들의 지식과 지혜가 깃들어있다." />
 	<key id="11500311" tooltipDescription="방수 재질로 만들어진 낚시꾼 의상이다. 가볍지만 구김이 가지 않아 멋스럽다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11500312" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 파멸 : 난폭한 파멸의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 하의이다. 파멸의 기운을 가득 담고 있어 암흑의 힘을 강화시켜 준다.&lt;/font&gt;" />
+	<key id="11500317" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11500318" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11500319" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11500320" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11500321" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11500322" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11500323" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11500324" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11500325" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
 	<key id="11500326" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 하의이다. 나이트의 &apos;홀리 스트라이크&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="11500327" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 하의이다. 버서커의 &apos;광전사의 혼&apos; 스킬에 효과가 추가된다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="11500328" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 하의이다. 시프의 &apos;발칸 엣지&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
@@ -691,6 +724,15 @@
 	<key id="11600377" tooltipDescription="테룬칼리브에 소속된 룬 블레이더들 중 룬 주술과 검술을 다루는 능력이 상급에 달하는 이들에게 지급하는 장비다." />
 	<key id="11600378" tooltipDescription="룬 블레이더 선조들의 지식과 지혜가 깃들어있다." />
 	<key id="11600387" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 파멸 : 난폭한 파멸의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 장갑이다. 파멸의 기운을 가득 담고 있어 암흑의 힘을 강화시켜 준다.&lt;/font&gt;" />
+	<key id="11600392" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11600393" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11600394" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11600395" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11600396" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11600397" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11600398" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11600399" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11600400" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
 	<key id="11600401" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 장갑이다. 나이트의 &apos;홀리 스트라이크&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="11600402" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 장갑이다. 버서커의 &apos;광전사의 혼&apos; 스킬에 효과가 추가된다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="11600403" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 장갑이다. 위자드의 &apos;번개 채찍&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
@@ -762,18 +804,26 @@
 	<key id="11700187" tooltipDescription="명예로운 길드 간 결투에서 화려한 승리를 장식한 용사들에게 사용이 허락된 장비이다. 용사의 승리를 축복하는 $map:02000051$의 기상이 서려있다." />
 	<key id="11700188" tooltipDescription="명예로운 길드 간 결투에서 화려한 승리를 장식한 용사들에게 사용이 허락된 장비이다. 용사의 승리를 축복하는 $map:02000051$의 기상이 서려있다." />
 	<key id="11700189" tooltipDescription="명예로운 길드 간 결투에서 화려한 승리를 장식한 용사들에게 사용이 허락된 장비이다. 용사의 승리를 축복하는 $map:02000051$의 기상이 서려있다." />
-	<key id="11700219" tooltipDescription="아직 새것 같은 스니커즈이다. 누군가 잘못 버린 것 같다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
-	<key id="11700220" tooltipDescription="아직 새것 같은 스니커즈이다. 누군가 잘못 버린 것 같다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700219" tooltipDescription="카무플라주 무늬가 그려진 양말과 스니커즈이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700220" tooltipDescription="카무플라주 무늬가 그려진 양말과 스니커즈이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700225" tooltipDescription="빨간 스트라이프 양말과 세트로 제작된 스니커즈이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700226" tooltipDescription="빨간 스트라이프 양말과 세트로 제작된 스니커즈이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700227" tooltipDescription="별무늬 양말과 세트로 제작된 스니커즈이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700228" tooltipDescription="별무늬 양말과 세트로 제작된 스니커즈이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700229" tooltipDescription="망사 양말과 세트로 제작된 워커이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700230" tooltipDescription="망사 양말과 세트로 제작된 워커이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
-	<key id="11700231" tooltipDescription="파란 스트라이프 양말과 세트로 제작된 스니커즈이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
-	<key id="11700232" tooltipDescription="파란 스트라이프 양말과 세트로 제작된 스니커즈이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700231" tooltipDescription="파란 스트라이프 양말과 세트로 제작된 워커이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700232" tooltipDescription="파란 스트라이프 양말과 세트로 제작된 워커이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700233" tooltipDescription="회색 호피 양말과 세트로 제작된 워커이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700234" tooltipDescription="회색 호피 양말과 세트로 제작된 워커이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700235" tooltipDescription="노란 해골 양말과 세트로 제작된 워커이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700236" tooltipDescription="노란 해골 양말과 세트로 제작된 워커이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700239" tooltipDescription="얇은 스트라이프 무늬가 그려진 양말과 단정한 구두 상품이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700240" tooltipDescription="얇은 스트라이프 무늬가 그려진 양말과 단정한 구두 상품이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700243" tooltipDescription="학생들을 위해 제작된 검은 양말과 단정한 구두 상품이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700244" tooltipDescription="학생들을 위해 제작된 검은 양말과 단정한 구두 상품이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700245" tooltipDescription="작은 레인드랍 무늬가 그려진 양말과 단정한 구두 상품이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700246" tooltipDescription="작은 레인드랍 무늬가 그려진 양말과 단정한 구두 상품이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700267" tooltipDescription="거친 지역을 탐험하는 모험가들을 위해 제작된 탐험가 부츠이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700271" tooltipDescription="어디서든 편하게 움직일 수 있도록 만들어진 부드러운 로퍼이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700272" tooltipDescription="붉은 보석 장식이 달린 하이힐이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
@@ -781,6 +831,8 @@
 	<key id="11700274" tooltipDescription="화려한 꽃 문양이 그려진 꽃신이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700281" tooltipDescription="레오파드 무늬의 단정한 슬립온이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700282" tooltipDescription="레오파드 무늬의 단정한 슬립온이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700283" tooltipDescription="화려한 블루 레오파드 슬립온이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700284" tooltipDescription="화려한 블루 레오파드 슬립온이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700285" tooltipDescription="두꺼운 버클 라인이 달린 샌들이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700286" tooltipDescription="두꺼운 버클 라인이 달린 샌들이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700287" tooltipDescription="작은 더키 모양이 앙증맞은 샌들이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
@@ -857,6 +909,15 @@
 	<key id="11700412" tooltipDescription="방수 처리된 부츠이다. 열에도 강하다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700413" tooltipDescription="방수 처리된 부츠이다. 열에도 강하다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700414" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 파멸 : 난폭한 파멸의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 신발이다. 파멸의 기운을 가득 담고 있어 암흑의 힘을 강화시켜 준다.&lt;/font&gt;" />
+	<key id="11700419" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11700420" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11700421" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11700422" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11700423" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11700424" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11700425" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11700426" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
+	<key id="11700427" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
 	<key id="11700428" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 신발이다. 나이트의 &apos;홀리 스트라이크&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="11700429" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 신발이다. 버서커의 &apos;광전사의 혼&apos; 스킬에 효과가 추가된다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="11700430" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 신발이다. 위자드의 &apos;번개 채찍&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
@@ -925,6 +986,8 @@
 	<key id="11850032" tooltipDescription="MAPLESTORE 오픈을 기념하기 위해 제작된 망토이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11850033" tooltipDescription="MAPLESTORE 오픈을 기념하기 위해 제작된 망토이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11850034" tooltipDescription="커다란 별이 그려진 단단한 기타 하드 케이스이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11850037" tooltipDescription="세 개의 하얀 여우 꼬리로 만든 장식이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11850038" tooltipDescription="세 개의 풍성한 여우 꼬리로 만든 장식이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11850039" tooltipDescription="이 날개를 달면 $npc:23000019$처럼 하늘을 날 수 있을까?" guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11850040" tooltipDescription="폭풍같은 바람을 일으키던 $npc:23000020$. 그 힘의 원천이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11850041" tooltipDescription="$npc:23000021$$pp:가,이$ 달고 있던 날개. 그 외에 이 날개에 대해 아직 밝혀진 바가 없다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
@@ -1127,6 +1190,7 @@
 	<key id="13100149" tooltipDescription="스핑거가 사용하던 단검. 때때로 용맹한 스핑거의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
 	<key id="13100151" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 단검이다. 시프의 &apos;발칸 엣지&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="13100152" tooltipDescription="사막 한 가운데에서 극한을 시험하는 전사들을 위해 만들어진 단검이다. 시프의 &apos;맹독 유리병&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
+	<key id="13100153" tooltipDescription="불멸의 존재, $npc:23090005$의 힘이 담긴 대거. $item:13100028$$pp:를,을$ 불멸의 불꽃에 던지자 $npc:23090005$의 저주가 완전히 풀렸고, 무기에 깃든 힘도 해방되었다. 타오르는 불꽃이 깃들어 보다 강력하고 화려한 위용을 자랑한다." />
 	<key id="13200020" guideDescription="롱소드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13200021" guideDescription="롱소드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13200023" guideDescription="롱소드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
@@ -1160,8 +1224,10 @@
 	<key id="13200137" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;난폭한 불길의 힘 : 타격 시 8%의 확률로 발동하여 310%의 화염 대미지를 입힌다. 난폭한 불길의 힘은 한 번 발동하면 8초 동안은 다시 발동하지 않는다. PVP 지역에서 효과가 반감된다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 무기이다. 모든 것을 불태우는 화염의 기둥으로 적을 불태운다.&lt;/font&gt;" />
 	<key id="13200140" guideDescription="롱소드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13200144" guideDescription="롱소드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
+	<key id="13200145" tooltipDescription="바르칸트가 사용하던 롱소드. 강력한 바르칸트의 기운이 스며들어 있어 검을 사용하는 자에게 짧은 시간동안 힘을 빌려준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
 	<key id="13200147" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 롱소드이다. 나이트의 &apos;홀리 스트라이크&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="13200148" tooltipDescription="사막 한 가운데에서 극한을 시험하는 전사들을 위해 만들어진 롱소드이다. 나이트의 &apos;스로잉 실드&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
+	<key id="13200149" tooltipDescription="불멸의 존재, $npc:23090005$의 힘이 담긴 롱소드. $item:13200043$$pp:를,을$ 불멸의 불꽃에 던지자 $npc:23090005$의 저주가 완전히 풀렸고, 무기에 깃든 힘도 해방되었다. 타오르는 불꽃이 깃들어 보다 강력하고 화려한 위용을 자랑한다." />
 	<key id="13300024" guideDescription="홀과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13300025" />
 	<key id="13300026" tooltipDescription="처음 프리스트가 된 모험가에게 주어지는 홀이다. 무기에 달린 보석에는 치유의 빛이 희미하게 남아있다." />
@@ -1198,6 +1264,7 @@
 	<key id="13300144" tooltipDescription="아마돈이 사용하던 홀. 때때로 흉폭한 아마돈의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
 	<key id="13300146" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 홀이다. 프리스트의 &apos;엔젤 레이&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="13300147" tooltipDescription="사막 한 가운데에서 극한을 시험하는 전사들을 위해 만들어진 홀이다. 프리스트의 &apos;홀리 익스플로전&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
+	<key id="13300148" tooltipDescription="불멸의 존재, $npc:23090005$의 힘이 담긴 홀. $item:13300138$$pp:를,을$ 불멸의 불꽃에 던지자 $npc:23090005$의 저주가 완전히 풀렸고, 무기에 깃든 힘도 해방되었다. 타오르는 불꽃이 깃들어 보다 강력하고 화려한 위용을 자랑한다." />
 	<key id="13400021" tooltipDescription="잔인하기로 악명높은 바포메트가 지니고 있었다는 것을 증명이라도 하듯, 뜨거운 불길도 잠재울 정도의 냉기가 서려있는 표창이다." />
 	<key id="13400024" tooltipDescription="처음 어쌔신이 된 모험가에게 주어지는 수리검이다. 수많은 볏짚을 노려온 흔적으로 헝겊이 느슨해져 있다." />
 	<key id="13400025" tooltipDescription="강철로 만든 표창이다. 영구적으로 사용 가능하다." />
@@ -1233,6 +1300,7 @@
 	<key id="13400142" tooltipDescription="윌리 원카드가 사용하던 표창. 때때로 야비한 윌리 원카드의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
 	<key id="13400144" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 표창이다. 어쌔신의 &apos;그라인드 스타&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="13400145" tooltipDescription="사막 한 가운데에서 극한을 시험하는 전사들을 위해 만들어진 표창이다. 어쌔신의 &apos;서클 오브 스타&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
+	<key id="13400146" tooltipDescription="불멸의 존재, $npc:23090005$의 힘이 담긴 표창. $item:13400136$$pp:를,을$ 불멸의 불꽃에 던지자 $npc:23090005$의 저주가 완전히 풀렸고, 무기에 깃든 힘도 해방되었다. 타오르는 불꽃이 깃들어 보다 강력하고 화려한 위용을 자랑한다." />
 	<key id="14000020" tooltipDescription="지금은 사라진 바야르 산맥의 고대 종족들의 놀랄만한 지식이 기록된 것으로, 고대인의 지혜가 오롯이 담겨져있다." />
 	<key id="14000021" tooltipDescription="처음 프리스트가 된 모험가에게 주어지는 법전이다. 프리스트의 길을 가고자 하는 입문자에게 꼭 필요한 지식으로 채워져 있다." />
 	<key id="14000060" guideDescription="법전과 함께 사용할 수 있는 스킨 무기 아이템이다." />
@@ -1255,6 +1323,7 @@
 	<key id="14000120" guideDescription="법전과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="14000123" guideDescription="법전과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="14000124" tooltipDescription="끝없이 부활을 꿈꾸는 우레우스가 사용하던 기묘한 부적이다." />
+	<key id="14000125" tooltipDescription="불멸의 존재, $npc:23090005$의 힘이 담긴 법전. $item:14000118$$pp:를,을$ 불멸의 불꽃에 던지자 $npc:23090005$의 저주가 완전히 풀렸고, 무기에 깃든 힘도 해방되었다. 타오르는 불꽃이 깃들어 보다 강력하고 화려한 위용을 자랑한다." />
 	<key id="14100022" tooltipDescription="$npc:23000100$ 암석으로 만든 방패이다. $npc:23000100$$pp:를,을$ 처치한 이름 모를 용사가 $npc:23000006$$pp:와,과$ 전투 중 잃어버린 것으로 추측된다." />
 	<key id="14100023" tooltipDescription="처음 나이트가 된 모험가에게 주어지는 방패이다. 상대의 칼날을 막아낸 수많은 흔적이 표면에 남아 있다." />
 	<key id="14100066" guideDescription="방패와 함께 사용할 수 있는 스킨 무기 아이템이다." />
@@ -1276,6 +1345,7 @@
 	<key id="14100128" guideDescription="방패와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="14100132" guideDescription="방패와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="14100133" tooltipDescription="찬바람 동굴을 지배하고 있던 사나운 프로투스의 기운이 서린 커다란 방패이다." />
+	<key id="14100134" tooltipDescription="불멸의 존재, $npc:23090005$의 힘이 담긴 실드. $item:14100126$$pp:를,을$ 불멸의 불꽃에 던지자 $npc:23090005$의 저주가 완전히 풀렸고, 무기에 깃든 힘도 해방되었다. 타오르는 불꽃이 깃들어 보다 강력하고 화려한 위용을 자랑한다." />
 	<key id="15000014" tooltipDescription="광포한 $npc:23000024$$pp:가,이$ 미친듯이 휘두르던 대검이다. 바포메트의 악행에 당한 원혼들의 분노가 서린 대검이다." />
 	<key id="15000015" tooltipDescription="어둠으로 세상을 물들이고자 한 마왕의 뜻을 받드는 $npc:23000025$$pp:가,이$ 들고 있던 대검이다. 쉐도우 월드를 가득 채우고 있는 어두운 기운이 느껴진다." />
 	<key id="15000016" tooltipDescription="찔러도 피 한 방울 나올 것 같지 않은 $npc:23000026$$pp:가,이$ 들고 있던 대검이다. 칼날에 스치기만해도 온 몸이 꽁꽁 얼어버릴 것 같은 냉기가 피어오르고 있다." />
@@ -1314,6 +1384,7 @@
 	<key id="15000149" tooltipDescription="카보가 사용하던 라지소드. 때때로 사악한 카보의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
 	<key id="15000151" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 라지소드이다. 버서커의 &apos;광전사의 혼&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="15000152" tooltipDescription="사막 한 가운데에서 극한을 시험하는 전사들을 위해 만들어진 라지소드이다. 버서커의 &apos;바람 가르기&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
+	<key id="15000153" tooltipDescription="불멸의 존재, $npc:23090005$의 힘이 담긴 라지소드. $item:15000041$$pp:를,을$ 불멸의 불꽃에 던지자 $npc:23090005$의 저주가 완전히 풀렸고, 무기에 깃든 힘도 해방되었다. 타오르는 불꽃이 깃들어 보다 강력하고 화려한 위용을 자랑한다." />
 	<key id="15100010" guideDescription="활과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="15100023" tooltipDescription="$npc:23000020$의 깃털로 만든 날개 모양의 장식이 달린 활. 사이좋은 $npc:23000019$$pp:와,과$ $npc:23000020$ 부부가 호루스에게 선물한 귀중한 활이다." />
 	<key id="15100025" tooltipDescription="처음 레인저가 된 모험가에게 주어지는 활이다. 그린후드 입문자들이 어설프게 활시위를 당겨 상당히 느슨해져 있다." />
@@ -1347,6 +1418,7 @@
 	<key id="15100142" tooltipDescription="아크레온의 위장 속에 들어있던 활. 때때로 흉폭한 아크레온의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
 	<key id="15100144" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 활이다. 레인저의 &apos;샤프 아이즈&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="15100145" tooltipDescription="사막 한 가운데에서 극한을 시험하는 전사들을 위해 만들어진 활이다. 레인저의 &apos;멀티 샷&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
+	<key id="15100146" tooltipDescription="불멸의 존재, $npc:23090005$의 힘이 담긴 활. $item:15100136$$pp:를,을$ 불멸의 불꽃에 던지자 $npc:23090005$의 저주가 완전히 풀렸고, 무기에 깃든 힘도 해방되었다. 타오르는 불꽃이 깃들어 보다 강력하고 화려한 위용을 자랑한다." />
 	<key id="15200014" />
 	<key id="15200023" guideDescription="스태프와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15200024" tooltipDescription="처음 위자드가 된 모험가에게 주어지는 스태프이다. 체인 라이트닝을 사용할 때 감전되지 않도록 감겨있던 고무가 오랜 사용으로 떨어져 나갔다." />
@@ -1382,6 +1454,7 @@
 	<key id="15200148" tooltipDescription="그라즈나가 사용하던 스태프. 때때로 사악한 그라즈나의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
 	<key id="15200150" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 스태프이다. 위자드의 &apos;번개 채찍&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="15200151" tooltipDescription="사막 한 가운데에서 극한을 시험하는 전사들을 위해 만들어진 스태프이다. 위자드의 &apos;체인 라이트닝&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
+	<key id="15200152" tooltipDescription="불멸의 존재, $npc:23090005$의 힘이 담긴 스태프. $item:15200142$$pp:를,을$ 불멸의 불꽃에 던지자 $npc:23090005$의 저주가 완전히 풀렸고, 무기에 깃든 힘도 해방되었다. 타오르는 불꽃이 깃들어 보다 강력하고 화려한 위용을 자랑한다." />
 	<key id="15300021" tooltipDescription="$npc:23000020$의 깃털로 만든 날개 모양의 장식이 달린 캐논. 무기를 발사할 때마다 휘날리는 고급스러운 깃털이 $map:02000001$의 패셔니스타가 된 기분을 느끼게 해준다." />
 	<key id="15300022" tooltipDescription="처음 헤비거너가 된 모험가에게 주어지는 캐논이다." />
 	<key id="15300064" tooltipDescription="쉐도우 월드와 메이플 월드를 몰래 오가며 각종 불법 행위를 저지르고 있는 장물아비들이 호신용으로 사용하는 무기다." />
@@ -1413,8 +1486,9 @@
 	<key id="15300138" guideDescription="캐논과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="15300141" guideDescription="캐논과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="15300142" tooltipDescription="아크레온의 위장 속에 들어있던 캐논. 때때로 흉폭한 아크레온의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
-	<key id="15300144" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 홀이다. 헤비거너의 &apos;마그네틱 봄&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
+	<key id="15300144" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 캐논이다. 헤비거너의 &apos;마그네틱 봄&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="15300145" tooltipDescription="사막 한 가운데에서 극한을 시험하는 전사들을 위해 만들어진 캐논이다. 헤비거너의 &apos;화염 방사기&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
+	<key id="15300146" tooltipDescription="불멸의 존재, $npc:23090005$의 힘이 담긴 캐논. $item:15300136$$pp:를,을$ 불멸의 불꽃에 던지자 $npc:23090005$의 저주가 완전히 풀렸고, 무기에 깃든 힘도 해방되었다. 타오르는 불꽃이 깃들어 보다 강력하고 화려한 위용을 자랑한다." />
 	<key id="15400002" tooltipDescription="테룬칼리브 소속 룬 블레이더 수련생들에게 지급하는 장비이다." />
 	<key id="15400003" tooltipDescription="테룬칼리브에서 단체로 주문 제작한 보급형 장비이다." />
 	<key id="15400046" tooltipDescription="유물 복원 전문가 클렌드가 직접 발굴하고 복원한 것이다." />
@@ -1439,6 +1513,8 @@
 	<key id="15400087" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;난폭한 파멸 힘 : 타격 시 8%의 확률로 발동하여 360%의 암흑 대미지를 입힌다. 난폭한 파멸의 힘은 한번 발동하면 8초 동안은 다시 발동하지 않는다. PVP 지역에서 효과가 반감된다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 무기이다. 암흑의 힘을 폭발시켜 적을 일순간에 파멸로 이끈다.&lt;/font&gt;" />
 	<key id="15400089" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 블레이드이다. 룬 블레이더의 &apos;루나 인스톨&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="15400090" tooltipDescription="사막 한 가운데에서 극한을 시험하는 전사들을 위해 만들어진 블레이드이다. 룬 블레이더의 &apos;냉기 스플리터&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
+	<key id="15400091" tooltipDescription="불멸의 존재, $npc:23090005$의 힘이 담긴 블레이드. $item:15400064$$pp:를,을$ 불멸의 불꽃에 던지자 $npc:23090005$의 저주가 완전히 풀렸고, 무기에 깃든 힘도 해방되었다. 타오르는 불꽃이 깃들어 보다 강력하고 화려한 위용을 자랑한다." />
+	<key id="15400101" tooltipDescription="카트반이 사용하던 블레이드. 때때로 사악한 카트반의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
 	<key id="15400102" guideDescription="블레이드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15400104" guideDescription="블레이드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15400105" guideDescription="블레이드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
@@ -1446,7 +1522,6 @@
 	<key id="15400107" guideDescription="블레이드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15400108" guideDescription="블레이드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15400109" guideDescription="블레이드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
-	<key id="15400101" tooltipDescription="카트반이 사용하던 블레이드. 때때로 사악한 카트반의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
 	<key id="20000004" mainDescription="&lt;font size=&apos;14&apos;&gt;쿨타임 30초&lt;/font&gt;\n&lt;font size=&apos;24&apos;&gt;HP 50% 회복&lt;/font&gt;" tooltipDescription="불로불사의 전설이 전해지는 희귀한 비약이다.\n마시면 &lt;font color=&apos;#00aaef&apos;&gt;HP를 즉시 50% 회복&lt;/font&gt;할 수 있다.\n한 번 마시면 배가 불러 30초 후 다시 마실 수 있다." />
 	<key id="20000013" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 5초&lt;/font&gt;\n&lt;font size=&apos;24&apos;&gt;HP 20 회복&lt;/font&gt;" tooltipDescription="$npc:22300149$의 알이다. 쉽게 구할 수 없는 귀한 식재료로 맛과 영양이 일품이다. 먹으면 &lt;font color=&apos;#00aaef&apos;&gt;5초 동안 HP가 초당 4 회복&lt;/font&gt;된다." />
 	<key id="20000014" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 5초&lt;/font&gt;\n&lt;font size=&apos;24&apos;&gt;HP 20 회복&lt;/font&gt;" tooltipDescription="$map:02000001$ 주변 초소 근위대원들을 위한 비상 전투 식량이다. 먹으면 &lt;font color=&apos;#00aaef&apos;&gt;5초 동안 HP가 초당 4 회복&lt;/font&gt;된다." />
@@ -1635,6 +1710,8 @@
 	<key id="20000273" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 10분\n&lt;font size=&apos;24&apos;&gt;낚시 성공률 증가&lt;/font&gt;" tooltipDescription="$map:02000037$$pp:나,이나$ $map:02000311$ 같은 아주 뜨거운 용암의 희귀 물고기가 좋아하는 미끼이다." guideDescription="미끼를 사용한 뒤 낚싯대를 던져야 미끼의 효과가 적용된다. 사용하면 10분 동안 낚시 성공 확률이 올라간다." />
 	<key id="20000274" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 10분\n&lt;font size=&apos;24&apos;&gt;낚시 성공률 증가&lt;/font&gt;" tooltipDescription="그림자 군단의 사악한 힘이 미치는 지역의 희귀 물고기가 좋아하는 미끼이다." guideDescription="미끼를 사용한 뒤 낚싯대를 던져야 미끼의 효과가 적용된다. 사용하면 10분 동안 낚시 성공 확률이 올라간다." />
 	<key id="20000275" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 30초\n&lt;font size=&apos;24&apos;&gt;모래 먼지 소환&lt;/font&gt;" tooltipDescription="카르카르에서 가져온 신비한 모래, 일반적인 모래와는 다르다. 확실히 뭔가 있어 보인다." guideDescription="사용 시 30초 동안 모래 먼지를 소환한다." />
+	<key id="20000276" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 10분\n장비 아이템 획득 확률 생성&lt;/font&gt;" tooltipDescription="쇠붙이를 끌어당기는 자력을 지닌 물고기로 만든 미끼이다." guideDescription="미끼를 사용한 뒤 낚싯대를 던져야 미끼의 효과가 적용된다. 사용하면 10분 동안 게임 장비 아이템을 낚을 확률이 생긴다." />
+	<key id="20000277" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 1시간\n장비 아이템 획득 확률 생성&lt;/font&gt;" tooltipDescription="쇠붙이를 끌어당기는 강한 자력을 지닌 물고기로 만든 미끼이다." guideDescription="미끼를 사용한 뒤 낚싯대를 던져야 미끼의 효과가 적용된다. 사용하면 1시간 동안 게임 장비 아이템을 낚을 확률이 생긴다." />
 	<key id="20200001" mainDescription="기합 액션 습득" tooltipDescription="사용 시 다이나믹 액션을 배울 수 있는 수강증이다." guideDescription="더블클릭하면 특별한 액션을 배울 수 있다." />
 	<key id="20200002" mainDescription="몰라 액션 습득" tooltipDescription="사용 시 다이나믹 액션을 배울 수 있는 수강증이다." guideDescription="더블클릭하면 특별한 액션을 배울 수 있다." />
 	<key id="20200003" mainDescription="자랑 액션 습득" tooltipDescription="사용 시 다이나믹 액션을 배울 수 있는 수강증이다." guideDescription="더블클릭하면 특별한 액션을 배울 수 있다." />
@@ -1796,7 +1873,13 @@
 	<key id="20300129" tooltipDescription="연주를 연습할 수 있는 악기와 악보가 담겨져 있는 상자이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
 	<key id="20300130" tooltipDescription="당당이 준비한 각종 아이템이 담긴 선물 상자이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
 	<key id="20300131" tooltipDescription="던전의 보상 획득 횟수를 추가할 수 있는 티켓과 오닉스가 담긴 상자이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
-	<key id="30000001" tooltipDescription="$npc:21000087$$pp:가,이$ 흡수하고 있던 $item:30000201$의 일부이다. 50개를 모아 $map:02000049$에 놓인 항아리에 넣고 불의 주문을 외우면 $item:30000201$$pp:를,을$ 만들 수 있다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
+	<key id="20300132" mainDescription="300메럿" tooltipDescription="메럿이 담긴 주머니이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 메럿을 획득할 수 있다." />
+	<key id="20300133" tooltipDescription="인챈트 주문서, 카오닉스 결정, 엘릭서 등 다양한 아이템들 중 하나가 담겨있는 상자이다." guideDescription="행운의 황금열쇠가 있어야만 열 수 있다." />
+	<key id="20400001" mainDescription="펫 7일치 먹이주기" tooltipDescription="올가닉 재료를 사용하여 만든 바삭한 쿠키 형 먹이이다. 하루 1kg이 정량이다. 대중적인 재료를 사용하여 모든 펫들에게 먹일 수 있다." guideDescription="펫이 건강하게 능력을 사용하기 위해서는 다음 식사시간을 체크하고 꾸준히 먹이를 먹여야 한다. 소지품 창에서 아이템을 더블클릭 후, 먹이를 줄 펫을 드래그 앤 드랍하여 설정한다. 펫 먹이는 최대 365일까지 먹일 수 있다." />
+	<key id="20400002" mainDescription="펫 30일치 먹이주기" tooltipDescription="올가닉 재료를 사용하여 만든 바삭한 쿠키 형 먹이이다. 하루 1kg이 정량이다. 대중적인 재료를 사용하여 모든 펫들에게 먹일 수 있다." guideDescription="펫이 건강하게 능력을 사용하기 위해서는 다음 식사시간을 체크하고 꾸준히 먹이를 먹여야 한다. 소지품 창에서 아이템을 더블클릭 후, 먹이를 줄 펫을 드래그 앤 드랍하여 설정한다. 펫 먹이는 최대 365일까지 먹일 수 있다." />
+	<key id="20400003" mainDescription="펫 90일치 먹이주기" tooltipDescription="올가닉 재료를 사용하여 만든 바삭한 쿠키 형 먹이이다. 하루 1kg이 정량이다. 대중적인 재료를 사용하여 모든 펫들에게 먹일 수 있다." guideDescription="펫이 건강하게 능력을 사용하기 위해서는 다음 식사시간을 체크하고 꾸준히 먹이를 먹여야 한다. 소지품 창에서 아이템을 더블클릭 후, 먹이를 줄 펫을 드래그 앤 드랍하여 설정한다. 펫 먹이는 최대 365일까지 먹일 수 있다." />
+	<key id="20400004" mainDescription="펫 365일치 먹이주기" tooltipDescription="올가닉 재료를 사용하여 만든 바삭한 쿠키 형 먹이이다. 하루 1kg이 정량이다. 대중적인 재료를 사용하여 모든 펫들에게 먹일 수 있다." guideDescription="펫이 건강하게 능력을 사용하기 위해서는 다음 식사시간을 체크하고 꾸준히 먹이를 먹여야 한다. 소지품 창에서 아이템을 더블클릭 후, 먹이를 줄 펫을 드래그 앤 드랍하여 설정한다. 펫 먹이는 최대 365일까지 먹일 수 있다." />
+	<key id="30000001" tooltipDescription="$npc:21000087$$pp:가,이$ 흡수하고 있던 $item:30000201$의 일부이다. 50개를 모아 $map:02000049$에 놓인 항아리에 넣고 불의 주문을 외우면 $item:30000201$$pp:를,을$ 만들 수 있다." />
 	<key id="30000002" tooltipDescription="어부가 사용하던 낚시도구이다. 상인에게 판매할 수 있다." />
 	<key id="30000003" tooltipDescription="물고기를 잡던 그물망이다. 상인에게 판매할 수 있다." />
 	<key id="30000004" tooltipDescription="출처를 명확히 알 수 없는 골동품 도자기이다. 상인에게 판매할 수 있다." />
@@ -1859,7 +1942,7 @@
 	<key id="30000068" tooltipDescription="고대 원시부족이 $npc:23000020$에게 경의를 표하며 바친 행운의 징표로 집에 걸어두면 좋은 꿈을 꾸게 해 주고 기운을 북돋아준다." />
 	<key id="30000069" tooltipDescription="$npc:11000284$의 유리구두이다. 깨지기라도 할까, 닳기라도 할까 고민고민하며 한 번 신어보지도 못하고 간직해 온 유리구두이다." />
 	<key id="30000070" tooltipDescription="$npcTitle:11000075$의 알현식에 이어지는 연회에 사용될 음식 재료이다. 지진으로 인해 많은 양을 잃고 소량만 남았다. 소중히 다루자." />
-	<key id="30000071" tooltipDescription="$map:02000022$에서 부화해서 이제 막 개구리의 모습을 갖춘 새끼 개구리들이다. 악랄한 구리구리 도마뱀 녀석들의 먹잇감으로 위협받고 있다. $map:02000022$ 연잎 위에 풀어주면 살 수 있다." />
+	<key id="30000071" tooltipDescription="$map:02000022$에서 부화해서 이제 막 개구리의 모습을 갖춘 어린 개구리들이다. 악랄한 구리구리 도마뱀 녀석들의 먹잇감으로 위협받고 있다. $map:02000022$ 연잎 위에 풀어주면 살 수 있다." />
 	<key id="30000072" tooltipDescription="엘루아 강 깊은 곳에 서식하는 희귀 어종이다. 메이플 월드 전역의 어류 수집가들이 엄청난 금액을 제시하며 서로 구입하기 위해 경쟁하는 것으로 알려져 있다." />
 	<key id="30000073" tooltipDescription="$npc:21090182$의 가지이다. 나무결 사이로 공기층이 많아 소리 울림층이 좋아서 다양한 악기 제작 재료로 안성맞춤이다." />
 	<key id="30000074" tooltipDescription="농부 제이크가 빌려준 양동이이다. 물이 가득 담겨 있다." />
@@ -2276,8 +2359,8 @@
 	<key id="30000490" tooltipDescription="침몰한 선박에서 떨어져 나온 듯한 조타 핸들이다." />
 	<key id="30000491" tooltipDescription="침몰한 선박에서 떨어져 나온 듯한 닻이다." />
 	<key id="30000492" tooltipDescription="모로파파 부족만이 알고있는 만병통치 약초이다. 어디서 어떻게 재배되는지는 아직 알려진 바가 없으며 모로파파 부족의 주거지에서 건조된 모습으로 종종 찾아볼 수 있다." />
-	<key id="30000493" mainDescription="1인, 4인 던전 보상 획득 횟수\n1회 추가" tooltipDescription="던전의 보상 획득 횟수를 추가할 수 있는 티켓이다." guideDescription="1인, 4인 던전 입장 창에서 버튼을 클릭해 보상 획득 횟수를 추가할 때마다 이 티켓이 1장씩 사용된다. 단, 추가권을 사용해 받은 보상 획득 횟수를 초기화 시점까지 사용하지 않으면 추가한 횟수는 사라지게 되니 주의해야 한다." />
-	<key id="30000494" mainDescription="10인 던전 보상 획득 횟수\n1회 추가" tooltipDescription="던전의 보상 획득 횟수를 추가할 수 있는 티켓이다." guideDescription="10인 던전 입장 창에서 버튼을 클릭해 보상 획득 횟수를 추가할 때마다 이 티켓이 1장씩 사용된다. 단, 추가권을 사용해 받은 보상 획득 횟수를 초기화 시점까지 사용하지 않으면 추가한 횟수는 사라지게 되니 주의해야 한다." />
+	<key id="30000493" mainDescription="던전 보상 획득 횟수\n1회 추가" tooltipDescription="던전의 보상 획득 횟수를 추가할 수 있는 티켓이다." guideDescription="1일 3회 보상을 획득할 수 있는 던전 입장 창에서 버튼을 클릭해 보상 획득 횟수를 추가할 때마다 이 티켓이 1장씩 사용된다. 단, 추가권을 사용해 받은 보상 획득 횟수를 초기화 시점까지 사용하지 않으면 추가한 횟수는 사라지게 되니 주의해야 한다." />
+	<key id="30000494" mainDescription="던전 보상 획득 횟수\n1회 추가" tooltipDescription="던전의 보상 획득 횟수를 추가할 수 있는 티켓이다." guideDescription="1주일 5회 보상을 획득할 수 있는 던전 입장 창에서 버튼을 클릭해 보상 획득 횟수를 추가할 때마다 이 티켓이 1장씩 사용된다. 단, 추가권을 사용해 받은 보상 획득 횟수를 초기화 시점까지 사용하지 않으면 추가한 횟수는 사라지게 되니 주의해야 한다." />
 	<key id="30000495" tooltipDescription="$npc:24001904$의 정신과 육체를 지배하고 있는 팬던트이다. 욕망의 팬던트에 사로잡힌 $npc:24001904$의 영혼이 봉인하고 있다." />
 	<key id="30000496" tooltipDescription="동물의 꼬리털이 빠져 생긴 작은 뭉치이다. 아무래도 작은 덩치의 미어캣에게서 빠진 털인 것 같다." />
 	<key id="30000497" tooltipDescription="$npc:11001430$$pp:가,이$ 유적을 조사해 알아낸 사실들을 적어둔 연구일지. 단정한 글씨로 깔끔하게 정리했지만, 자기 고향 말로 적어서 그런지 하얀 건 종이고 까만 건 글씨라는 것밖에 알 수가 없다. $npc:11001430$에게 가져가 읽어 달라고 하자." />
@@ -2295,6 +2378,9 @@
 	<key id="30000509" tooltipDescription="$npc:11001381$$pp:가,이$ 정성껏 작성한 $map:02010063$ 사막 개발 계획서다. 총천연색의 화려한 장식과 방금 찍은 따끈따끈한 사진들로 꾸며져 있다." />
 	<key id="30000510" tooltipDescription="$npc:11001381$$pp:가,이$ 작성한 $map:02010063$ 사막 개발 계획서를 열람했다는 열람 확인서다. $map:02010063$ $npc:11001386$의 서명을 받았다." />
 	<key id="30000511" tooltipDescription="$map:02010036$의 풍경 사진을 찍어 달라며 $npc:11001381$$pp:가,이$ 건넨 카메라. $map:02010036$의 가장 높은 곳에 올라가 촬영하자." />
+	<key id="30000512" tooltipDescription="행운의 상자를 열기 위해서 필요한 열쇠이다. 필드에 등장하는 엘리트 몬스터를 처치하면 얻을 수 있다." />
+	<key id="30000513" tooltipDescription="나즈카르 신전 내부 구조가 그려진 지도다. 일부분이 찢어져 있어 전체 구조를 알아보기 힘들다." />
+	<key id="30000514" mainDescription="던전 보상 획득 횟수\n1회 추가" tooltipDescription="던전의 보상 획득 횟수를 추가할 수 있는 티켓이다." guideDescription="1주일 1회 보상을 획득할 수 있는 던전 입장 창에서 버튼을 클릭해 보상 획득 횟수를 추가할 때마다 이 티켓이 1장씩 사용된다. 단, 추가권을 사용해 받은 보상 획득 횟수를 초기화 시점까지 사용하지 않으면 추가한 횟수는 사라지게 되니 주의해야 한다." />
 	<key id="31000001" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~29레벨 사이의 노멀 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +1 인챈트 아이템이 된다." />
 	<key id="31000002" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~29레벨 사이의 노멀 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +2 인챈트 아이템이 된다." />
 	<key id="31000003" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~29레벨 사이의 노멀 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +3 인챈트 아이템이 된다." />
@@ -2447,6 +2533,12 @@
 	<key id="31000150" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +5 인챈트 아이템이 된다." />
 	<key id="31000151" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 손상된 장비를 회복시켜 다시 쓸 수 있게 해 준다." guideDescription="더블클릭으로 주문서를 사용할 수 있다. 손상된 장비에만 사용할 수 있으며, 사용 시 인챈트 단계가 0이 되고 다시 인챈트를 시도할 수 있게 된다." />
 	<key id="31000152" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 손상된 장비를 회복시켜 다시 쓸 수 있게 해 준다." guideDescription="더블클릭으로 주문서를 사용할 수 있다. 손상된 장비에만 사용할 수 있으며, 사용 시 인챈트 단계가 0이 되고 다시 인챈트를 시도할 수 있게 된다." />
+	<key id="31000153" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +5 인챈트 아이템이 된다." />
+	<key id="31000154" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +7 인챈트 아이템이 된다." />
+	<key id="31000155" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +9 인챈트 아이템이 된다." />
+	<key id="31000156" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +10 인챈트 아이템이 된다." />
+	<key id="31000157" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 손상된 장비를 회복시켜 다시 쓸 수 있게 해 준다." guideDescription="더블클릭으로 주문서를 사용할 수 있다. 손상된 장비에만 사용할 수 있으며, 사용 시 인챈트 단계가 0이 되고 다시 인챈트를 시도할 수 있게 된다." />
+	<key id="31000158" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 손상된 장비를 회복시켜 다시 쓸 수 있게 해 준다." guideDescription="더블클릭으로 주문서를 사용할 수 있다. 손상된 장비에만 사용할 수 있으며, 사용 시 인챈트 단계가 0이 되고 다시 인챈트를 시도할 수 있게 된다." />
 	<key id="32000001" mainDescription="물가에서 사용하여 낚시 시작" tooltipDescription="탄성이 좋은 나뭇가지를 다듬어 만든 낚싯대이다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 사용할 수 있다." />
 	<key id="32000002" mainDescription="물가에서 사용하여 낚시 시작" tooltipDescription="단단한 철제 낚싯대이다. 약간 무겁지만 제법 쓸만하다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 사용할 수 있다." />
 	<key id="32000003" mainDescription="물가에서 사용하여 낚시 시작" tooltipDescription="단단한 철제 낚싯대이다. 약간 무겁지만 제법 쓸만하다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 사용할 수 있다." />
@@ -2466,6 +2558,9 @@
 	<key id="34000002" tooltipDescription="로얄 뮤직 아카데미에서 보급하는 어쿠스틱 기타이다. 베이직한 디자인과 합리적인 가격으로 인기가 많은 입문용 악기이다." guideDescription="소지품 창의 아이템을 더블클릭해 사용할 수 있다." />
 	<key id="34000003" tooltipDescription="로얄 뮤직 아카데미에서 보급하는 휴대용 디지털 피아노이다. 가볍고 합리적인 가격으로 인기가 많은 입문용 악기이다." guideDescription="소지품 창의 아이템을 더블클릭해 사용할 수 있다." />
 	<key id="34000004" tooltipDescription="로얄 뮤직 아카데미에서 보급하는 어쿠스틱 기타이다. 베이직한 디자인과 합리적인 가격으로 인기가 많은 입문용 악기이다." guideDescription="소지품 창의 아이템을 더블클릭해 사용할 수 있다." />
+	<key id="34000005" tooltipDescription="로얄 뮤직 아카데미에서 보급하는 클라리넷이다. 합리적인 가격으로 인기가 많은 입문용 악기이다." guideDescription="소지품 창의 아이템을 더블클릭해 사용할 수 있다." />
+	<key id="34000006" tooltipDescription="로얄 뮤직 아카데미에서 보급하는 그랜드 하프이다. 가볍고 합리적인 가격으로 인기가 많은 입문용 악기이다." guideDescription="소지품 창의 아이템을 더블클릭해 사용할 수 있다." />
+	<key id="34000007" tooltipDescription="로얄 뮤직 아카데미에서 보급하는 팀파니이다. 가볍고 합리적인 가격으로 인기가 많은 입문용 악기이다." guideDescription="소지품 창의 아이템을 더블클릭해 사용할 수 있다." />
 	<key id="35000001" tooltipDescription="&lt;font color=&apos;#00aaef&apos;&gt;메이플스토리2의 메인 테마곡&lt;/font&gt;을 연주할 수 있는 피아노 악보이다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
 	<key id="35000002" tooltipDescription="&lt;font color=&apos;#00aaef&apos;&gt;메이플스토리2의 엘리니아 테마곡&lt;/font&gt;을 연주할 수 있는 피아노 악보이다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
 	<key id="35000003" tooltipDescription="&lt;font color=&apos;#00aaef&apos;&gt;메이플스토리2의 뷰티 스트리트 테마곡&lt;/font&gt;을 연주할 수 있는 기타&amp;피아노 합주곡으로, 그중 피아노 파트 악보이다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
@@ -3883,8 +3978,8 @@
 	<key id="50600113" mainDescription="빠르게 달릴 수 있다." tooltipDescription="혁신의 상징 튜닝 모터스의 영혼이 담긴 기술의 결정체!\n발 밑의 페달을 잘 돌릴수록, 무시무시한 속도를 경험할 수 있다.\n&lt;font color=&apos;#00aaef&apos;&gt;소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여\n타고 내릴 수 있다.\n탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면\n특별한 동작을 사용할 수 있다.&lt;/font&gt;" />
 	<key id="50600114" mainDescription="매우 빠르게 달릴 수 있다." tooltipDescription="쉐도우 월드를 배회하는 $npc:21000199$$pp:를,을$ 잡아 길들였다. 역동적으로 달리기 때문에 바닥으로 떨어질 수 있어 주의가 필요하다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
 	<key id="50600115" mainDescription="매우 빠르게 달릴 수 있다." tooltipDescription="귀여운 모습을 한 옐로우 버그이다. 옐로우 버그의 날개짓에 무릎이 상할 수 있어 주의가 필요하다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
-	<key id="50600116" mainDescription="매우 빠르게 달릴 수 있다." tooltipDescription="꼬리에서 맹독을 내뿜고 있는 콜드 랍피온이다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
-	<key id="50600117" mainDescription="매우 빠르게 달릴 수 있다." tooltipDescription="커다란 날개를 퍼덕이고 있는 레라카스 전령이다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
+	<key id="50600116" mainDescription="매우 빠르게 달릴 수 있다." tooltipDescription="꼬리에서 맹독을 내뿜고 있는 콜드 랍피온이다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다." />
+	<key id="50600117" mainDescription="매우 빠르게 달릴 수 있다." tooltipDescription="커다란 날개를 퍼덕이고 있는 레라카스 전령이다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다." />
 	<key id="50600118" mainDescription="빠르게 달릴 수 있다." tooltipDescription="빅토리아 아일랜드 최고의 인기스타, 아이돌 혁이가 그려진 쿠션이다. 생각만해도 설레이는 혁이 쿠션을 들고 있노라면, 나도 모르게 발걸음이 가벼워진다고…" guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
 	<key id="50600119" mainDescription="빠르게 달릴 수 있다." tooltipDescription="빅토리아 아일랜드 최고의 인기스타, 아이돌 혁이가 그려진 쿠션이다. 생각만해도 설레이는 혁이 쿠션을 들고 있노라면, 나도 모르게 발걸음이 가벼워진다고…" guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
 	<key id="50600120" mainDescription="빠르게 달릴 수 있다." tooltipDescription="빅토리아 아일랜드 최고의 인기스타, 아이돌 혁이가 그려진 쿠션이다. 생각만해도 설레이는 혁이 쿠션을 들고 있노라면, 나도 모르게 발걸음이 가벼워진다고…" guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
@@ -3892,6 +3987,7 @@
 	<key id="50600122" mainDescription="빠르게 달릴 수 있다." tooltipDescription="만인의 연인, 바니걸 민트가 그려진 쿠션이다. 상큼 발랄한 바니걸을 떠올릴 수 있는 민트 쿠션을 들고 있노라면, 나도 모르게 발걸음이 가벼워진다고…" guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
 	<key id="50600123" mainDescription="빠르게 달릴 수 있다." tooltipDescription="만인의 연인, 바니걸 민트가 그려진 쿠션이다. 상큼 발랄한 바니걸을 떠올릴 수 있는 민트 쿠션을 들고 있노라면, 나도 모르게 발걸음이 가벼워진다고…" guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
 	<key id="50600124" mainDescription="빠르게 달릴 수 있다." tooltipDescription="눈발을 휘날리며 굴러갈 수 있는 둥글둥글 눈사람이다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
+	<key id="50600125" mainDescription="빠르게 달릴 수 있다." tooltipDescription="과거, $map:02000328$이 본래의 아름다운 풍경을 자랑하던 시기에 정원을 수호하던 요정이다. 지금은 메이플 월드의 용사들과 여행에 동행하고 있다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
 	<key id="50700004" tooltipDescription="부드럽고 온화한 미소를 띄고 있는 $npc:11000075$의 조각상이다.\n$npcTitle:11000075$$pp:를,을$ 사랑하고 존경하는 메이플 주민들의 마음이 담겨있다.\n" />
 	<key id="50700005" tooltipDescription="$npc:11000075$$pp:를,을$ 모시는 $npc:11000074$의 조각상이다.\n강직하면서도 기품있는 눈빛이 매력적이다.\n" />
 	<key id="50700006" tooltipDescription="$map:02000076$$pp:를,을$ 이끌고 있는 $npc:11000001$의 조각상이다.\n푸근하면서도 인자한 느낌이 어쩐지 친근하다.\n" />
@@ -3905,6 +4001,8 @@
 	<key id="50710007" mainDescription="공격속도 3% 증가" tooltipDescription="시간의 레드 라펜타를 지켜낸 기념으로 선물받은 것이다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
 	<key id="50710008" tooltipDescription="벨라 비드블라임을 구한 공을 인정해 비드블라임가에서 감사의 뜻을 담아 지급한 것이다." />
 	<key id="50710009" tooltipDescription="$npc:11000064$$pp:를,을$ 도와 $npc:11000044$의 진상을 밝힌 후, $npc:11000064$$pp:가,이$ 적이 아닌 동료임을 \n각인하는 의미로 지급받은 것이다.\n" />
+	<key id="50710010" mainDescription="작성필요" tooltipDescription="작성 필요" guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
+	<key id="50710011" mainDescription="작성필요" tooltipDescription="작성필요" guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
 	<key id="50730001" tooltipDescription="오래된 고목나무에 악령이 깃들어 탄생한 $npc:22000001$. 최근 악령의 혼이 더욱 활개를 치고 다니는 것도 모두 마왕의 영향 때문일까…?" guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220006$] 트로피를 달성하면 구입할 수 있는 기념품이다.&lt;/font&gt;" />
 	<key id="50730002" tooltipDescription="$npc:22000002$$pp:를,을$ 물리친 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220010$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
 	<key id="50730003" tooltipDescription="본래 물의 요정이었던 쌍둥이 자매 $npc:22000003$$pp:와,과$ $npc:22000004$. 알베르토에 대한 엇나간 사랑으로 그의 약혼녀 로안나를 죽이고, 설원으로 추방당했던 것으로 알려져있다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220004$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
@@ -3972,7 +4070,7 @@
 	<key id="50740034" tooltipDescription="$npc:23000057$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230049$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
 	<key id="50740035" tooltipDescription="$npc:23000029$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230050$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
 	<key id="50740036" tooltipDescription="$npc:23000052$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230051$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
-	<key id="50740037" tooltipDescription="$npc:23000041$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220025$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
+	<key id="50740037" tooltipDescription="$npc:23000068$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230052$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
 	<key id="50750001" mainDescription="HP 100 증가" tooltipDescription="\n&lt;font color=&apos;#00aaef&apos;&gt;[I. $achieve:21240001$]&lt;/font&gt; 트로피를 달성하여 획득한 기념품이다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
 	<key id="50750002" mainDescription="HP 125 증가" tooltipDescription="\n&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21240001$]&lt;/font&gt; 트로피를 달성하여 획득한 기념품이다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
 	<key id="50750003" mainDescription="HP 150 증가" tooltipDescription="\n&lt;font color=&apos;#00aaef&apos;&gt;[III. $achieve:21240001$]&lt;/font&gt; 트로피를 달성하여 획득한 기념품이다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
@@ -3987,8 +4085,8 @@
 	<key id="50770004" mainDescription="다크 스트림에서\n회피 20 증가" tooltipDescription="$map:02000350$$pp:를,을$ 도전하는 자에게 특별한 능력을 부여하는 기념품이다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
 	<key id="50770005" tooltipDescription="전설의 낚시꾼만이 얻을 수 있는 진귀한 황금잉어 기념품이다." guideDescription="내 부지의 실외 또는 실내에 설치할 수 있다." />
 	<key id="50770006" tooltipDescription="전설의 지휘자 더키 더 모짜렐라를 기리는 기념품이다." guideDescription="내 부지의 실외 또는 실내에 설치할 수 있다." />
-	<key id="50770007" mainDescription="일부 던전에서 물리/마법\n대미지 10% 증가" tooltipDescription="용기를 스스로 증명한 자만이 얻을 수 있는 특별한 기념품이다.\n&lt;font color=&apos;#00aaef&apos;&gt;(노멀) 얼어붙은 성소, 환상 피라미드, 트로닉스\n벙커, 블랙노프호, 버려진 물놀이터에서\n물리/마법 대미지 10% 증가&lt;/font&gt;" guideDescription="내 부지의 실외 또는 실내에 설치할 수 있다." />
-	<key id="50770008" mainDescription="일부 던전에서 물리/마법\n대미지 10% 증가" tooltipDescription="용맹을 스스로 증명한 자만이 얻을 수 있는 특별한 기념품이다.&lt;font color=&apos;#00aaef&apos;&gt;\n(카오스) 달빛선장의 요새, 그림자 군단의 제단\n(노멀) 바라스카 얼음굴, 푸른 그림자 동굴\n카사 델 루나, 피라타로스, 미궁의 집회당에서\n물리/마법 대미지 10% 증가&lt;/font&gt;" guideDescription="내 부지의 실외 또는 실내에 설치할 수 있다." />
+	<key id="50770007" mainDescription="일부 던전에서 모든\n대미지 10% 증가" tooltipDescription="용기를 스스로 증명한 자만이 얻을 수 있는 특별한 기념품이다.\n&lt;font color=&apos;#00aaef&apos;&gt;(노멀) 얼어붙은 성소, 환상 피라미드, 트로닉스\n벙커, 블랙노프호, 버려진 물놀이터에서\n물리/마법 대미지 10% 증가&lt;/font&gt;" guideDescription="내 부지의 실외 또는 실내에 설치할 수 있다." />
+	<key id="50770008" mainDescription="일부 던전에서 모든\n대미지 10% 증가" tooltipDescription="용맹을 스스로 증명한 자만이 얻을 수 있는 특별한 기념품이다.&lt;font color=&apos;#00aaef&apos;&gt;\n(카오스) 달빛선장의 요새, 그림자 군단의 제단\n(챌린지) 미궁의 집회당, 피라타로스\n(노멀) 바라스카 얼음굴, 푸른 그림자 동굴\n카사 델 루나에서 물리/마법 대미지 10% 증가&lt;/font&gt;" guideDescription="내 부지의 실외 또는 실내에 설치할 수 있다." />
 	<key id="50800001" tooltipDescription="$npc:11000512$$pp:는,은$ 메이플 아일랜드 근처 카디미아 섬 출신의 소녀로, 손 끝이 야무져 집안일을 하는 것에는 능숙하지만, 도시의 각종 가전 제품이나 조리 기구 등을 사용하는 것에는 익숙하지 않아 때때로 어이없는 실수를 하기도 한다. 하지만 고운 심성에서 우러나오는 따뜻한 배려에 그녀의 실수는 금방 잊혀지고 만다." guideDescription="내 부지 실내에 배치해 메이드를 불러낼 수 있으며, 실내에는 최대 2명의 메이드만 둘 수 있다. 또한, 실내에 배치된 메이드에게는 고용 기간에 한해 말을 걸어 제작을 의뢰할 수 있다." />
 	<key id="50800002" guideDescription="내 부지 실내에 배치해 메이드를 불러낼 수 있으며, 실내에는 최대 2명의 메이드만 둘 수 있다. 또한, 실내에 배치된 메이드에게는 고용 기간에 한해 말을 걸어 제작을 의뢰할 수 있다." />
 	<key id="50800003" tooltipDescription="$npcName:11000444$의 세계여행 책을 즐겨 읽으며 자란 $npcName:11000019$$pp:는,은$ 드넓은 바다로 나아가 세계를 탐험하는 것이 꿈이다. 최근에 $map:02000068$ 일이 한가해지면서 모험에 필요한 자금을 보다 빨리 모으기 위해 남는 시간을 활용해 가정부 일을 시작했다. $npcName:11000019$$pp:는,은$ 별도의 집사 교육을 받진 않았지만 집안일이 적성에 맞는다며 무슨 일이든 마다치 않고 열심히 한다." guideDescription="내 부지 실내에 배치해 메이드를 불러낼 수 있으며, 실내에는 최대 2명의 메이드만 둘 수 있다. 또한, 실내에 배치된 메이드에게는 고용 기간에 한해 말을 걸어 제작을 의뢰할 수 있다." />
@@ -4262,12 +4360,36 @@
 	<key id="59200200" tooltipDescription="낚시를 하다가 운 좋게 건진 상자다. 침몰한 선박에서 흘러나온 걸까? 뭔가 특별한 아이템이 들어있을 것만 같다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
 	<key id="59200201" tooltipDescription="낚시를 하다가 운 좋게 건진 상자다. 침몰한 선박에서 흘러나온 걸까? 뭔가 특별한 아이템이 들어있을 것만 같다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
 	<key id="59200202" tooltipDescription="낚시를 하다가 운 좋게 건진 상자다. 침몰한 선박에서 흘러나온 걸까? 뭔가 특별한 아이템이 들어있을 것만 같다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
+	<key id="59200203" tooltipDescription="승무원 의상이 담겨있는 패키지이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
+	<key id="59200204" tooltipDescription="승무원 의상이 담겨있는 패키지이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
 	<key id="59300001" mainDescription="9X9 실내 전용\n인테리어 공사권" tooltipDescription="편안한 느낌으로 집을 한번에 꾸밀 수 있는 인테리어 공사권이다." guideDescription="소지품 창의 공사권 아이템을 내 집 안에서 더블클릭하면 한번에 집이 꾸며진다. 아이템 사용 시 공사권에 포함된 아이템은 소지품으로 들어가며, 소지품이 가득 찬 경우에는 이삿짐 보관 창고에 보관된다. 한번 사용한 공사권은 다시 되돌릴 수 없으며, 인테리어 도중에 집에서 나가는 경우 공사가 중단 될 수 있으니 주의하자. 집 사이즈와 공사권의 사이즈가 다르거나 이미 배치된 건설 아이템이 있는 경우 사용할 수 없다." />
 	<key id="59300002" mainDescription="9X9 실내 전용\n인테리어 공사권" tooltipDescription="편안한 느낌으로 집을 한번에 꾸밀 수 있는 인테리어 공사권이다." guideDescription="소지품 창의 공사권 아이템을 내 집 안에서 더블클릭하면 한번에 집이 꾸며진다. 아이템 사용 시 공사권에 포함된 아이템은 소지품으로 들어가며, 소지품이 가득 찬 경우에는 이삿짐 보관 창고에 보관된다. 한번 사용한 공사권은 다시 되돌릴 수 없으며, 인테리어 도중에 집에서 나가는 경우 공사가 중단 될 수 있으니 주의하자. 집 사이즈와 공사권의 사이즈가 다르거나 이미 배치된 건설 아이템이 있는 경우 사용할 수 없다." />
 	<key id="59300003" mainDescription="9X9 실내 전용\n인테리어 공사권" tooltipDescription="추운 지역의 오두막 컨셉으로 집을 한번에 꾸밀 수 있는 인테리어 공사권이다." guideDescription="소지품 창의 공사권 아이템을 내 집 안에서 더블클릭하면 한번에 집이 꾸며진다. 아이템 사용 시 공사권에 포함된 아이템은 소지품으로 들어가며, 소지품이 가득 찬 경우에는 이삿짐 보관 창고에 보관된다. 한번 사용한 공사권은 다시 되돌릴 수 없으며, 인테리어 도중에 집에서 나가는 경우 공사가 중단 될 수 있으니 주의하자. 집 사이즈와 공사권의 사이즈가 다르거나 이미 배치된 건설 아이템이 있는 경우 사용할 수 없다." />
 	<key id="59300004" mainDescription="9X9 실내 전용\n인테리어 공사권" tooltipDescription="추운 지역의 오두막 컨셉으로 집을 한번에 꾸밀 수 있는 인테리어 공사권이다." guideDescription="소지품 창의 공사권 아이템을 내 집 안에서 더블클릭하면 한번에 집이 꾸며진다. 아이템 사용 시 공사권에 포함된 아이템은 소지품으로 들어가며, 소지품이 가득 찬 경우에는 이삿짐 보관 창고에 보관된다. 한번 사용한 공사권은 다시 되돌릴 수 없으며, 인테리어 도중에 집에서 나가는 경우 공사가 중단 될 수 있으니 주의하자. 집 사이즈와 공사권의 사이즈가 다르거나 이미 배치된 건설 아이템이 있는 경우 사용할 수 없다." />
 	<key id="59300005" mainDescription="12X12 실내 전용\n인테리어 공사권" tooltipDescription="푸른 숲속의 아지트 컨셉으로 집을 한번에 꾸밀 수 있는 인테리어 공사권이다." guideDescription="소지품 창의 공사권 아이템을 내 집 안에서 더블클릭하면 한번에 집이 꾸며진다. 아이템 사용 시 공사권에 포함된 아이템은 소지품으로 들어가며, 소지품이 가득 찬 경우에는 이삿짐 보관 창고에 보관된다. 한번 사용한 공사권은 다시 되돌릴 수 없으며, 인테리어 도중에 집에서 나가는 경우 공사가 중단 될 수 있으니 주의하자. 집 사이즈와 공사권의 사이즈가 다르거나 이미 배치된 건설 아이템이 있는 경우 사용할 수 없다." />
 	<key id="59300006" mainDescription="12X12 실내 전용\n인테리어 공사권" tooltipDescription="푸른 숲속의 아지트 컨셉으로 집을 한번에 꾸밀 수 있는 인테리어 공사권이다." guideDescription="소지품 창의 공사권 아이템을 내 집 안에서 더블클릭하면 한번에 집이 꾸며진다. 아이템 사용 시 공사권에 포함된 아이템은 소지품으로 들어가며, 소지품이 가득 찬 경우에는 이삿짐 보관 창고에 보관된다. 한번 사용한 공사권은 다시 되돌릴 수 없으며, 인테리어 도중에 집에서 나가는 경우 공사가 중단 될 수 있으니 주의하자. 집 사이즈와 공사권의 사이즈가 다르거나 이미 배치된 건설 아이템이 있는 경우 사용할 수 없다." />
+	<key id="59400001" tooltipDescription="펭펭이 담긴 작은 캡슐이다.\n$map:02000264$에서 살고 있는 작은 아기 펭귄이다.\n호기심이 많은 펭귄으로 말이 많고 까칠하지만, 속이 여린 친구이다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n결속의 힘 : 물리, 마법 공격력 5 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="소지품 창의 캡슐 아이템을 더블클릭하면 펫을 얻을 수 있다. 캡슐은 1회 블랙마켓 거래가 가능하며, 캡슐을 열면 거래가 불가능하다. 캡슐 안의 펫은 30일치 먹이를 먹은 상태이며, 캡슐에서 나온 순간부터 시간이 흐른다." />
+	<key id="59400002" tooltipDescription="핑키가 담긴 작은 캡슐이다.\n$map:02000264$에서 살고 있는 작은 아기 펭귄이다.\n호기심이 많은 펭귄으로 말이 많고 까칠하지만, 속이 여린 친구이다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n가벼운 발걸음 : 이동속도 5% 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="소지품 창의 캡슐 아이템을 더블클릭하면 펫을 얻을 수 있다. 캡슐은 1회 블랙마켓 거래가 가능하며, 캡슐을 열면 거래가 불가능하다. 캡슐 안의 펫은 30일치 먹이를 먹은 상태이며, 캡슐에서 나온 순간부터 시간이 흐른다." />
+	<key id="59400003" tooltipDescription="딩고가 담긴 작은 캡슐이다.\n$map:02000264$에서 살고 있는 작은 아기 펭귄이다.\n호기심이 많은 펭귄으로 말이 많고 까칠하지만, 속이 여린 친구이다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n흔들리지 않는 믿음 : 명중 3 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="소지품 창의 캡슐 아이템을 더블클릭하면 펫을 얻을 수 있다. 캡슐은 1회 블랙마켓 거래가 가능하며, 캡슐을 열면 거래가 불가능하다. 캡슐 안의 펫은 30일치 먹이를 먹은 상태이며, 캡슐에서 나온 순간부터 시간이 흐른다." />
+	<key id="59400004" tooltipDescription="웰시가 담긴 작은 캡슐이다.\n작은 꼬리와 알록달록한 얼룩 무늬를 가진 애교 만점 강아지이다.\n충성심이 강한 친구로, 언제나 곁을 든든히 지킨다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n결속의 힘 : 물리, 마법 공격력 5 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="소지품 창의 캡슐 아이템을 더블클릭하면 펫을 얻을 수 있다. 캡슐은 1회 블랙마켓 거래가 가능하며, 캡슐을 열면 거래가 불가능하다. 캡슐 안의 펫은 30일치 먹이를 먹은 상태이며, 캡슐에서 나온 순간부터 시간이 흐른다." />
+	<key id="59400005" tooltipDescription="초코가 담긴 작은 캡슐이다.\n작은 꼬리와 알록달록한 얼룩 무늬를 가진 애교 만점 강아지이다.\n충성심이 강한 친구로, 언제나 곁을 든든히 지킨다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n가벼운 발걸음 : 이동속도 5% 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="소지품 창의 캡슐 아이템을 더블클릭하면 펫을 얻을 수 있다. 캡슐은 1회 블랙마켓 거래가 가능하며, 캡슐을 열면 거래가 불가능하다. 캡슐 안의 펫은 30일치 먹이를 먹은 상태이며, 캡슐에서 나온 순간부터 시간이 흐른다." />
+	<key id="59400006" tooltipDescription="코기가 담긴 작은 캡슐이다.\n작은 꼬리와 알록달록한 얼룩 무늬를 가진 애교 만점 강아지이다.\n충성심이 강한 친구로, 언제나 곁을 든든히 지킨다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n흔들리지 않는 믿음 : 명중 3 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="소지품 창의 캡슐 아이템을 더블클릭하면 펫을 얻을 수 있다. 캡슐은 1회 블랙마켓 거래가 가능하며, 캡슐을 열면 거래가 불가능하다. 캡슐 안의 펫은 30일치 먹이를 먹은 상태이며, 캡슐에서 나온 순간부터 시간이 흐른다." />
+	<key id="59400007" tooltipDescription="드라코가 담긴 작은 캡슐이다.\n미나르 사막 근처에서 살고 있는 작은 드래곤 종족이다.\n식탐이 강해, 하루종일 먹는 이야기만 한다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n결속의 힘 : 물리, 마법 공격력 5 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="소지품 창의 캡슐 아이템을 더블클릭하면 펫을 얻을 수 있다. 캡슐은 1회 블랙마켓 거래가 가능하며, 캡슐을 열면 거래가 불가능하다. 캡슐 안의 펫은 30일치 먹이를 먹은 상태이며, 캡슐에서 나온 순간부터 시간이 흐른다." />
+	<key id="59400008" tooltipDescription="그라코가 담긴 작은 캡슐이다.\n미나르 사막 근처에서 살고 있는 작은 드래곤 종족이다.\n식탐이 강해, 하루종일 먹는 이야기만 한다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n가벼운 발걸음 : 이동속도 5% 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="소지품 창의 캡슐 아이템을 더블클릭하면 펫을 얻을 수 있다. 캡슐은 1회 블랙마켓 거래가 가능하며, 캡슐을 열면 거래가 불가능하다. 캡슐 안의 펫은 30일치 먹이를 먹은 상태이며, 캡슐에서 나온 순간부터 시간이 흐른다." />
+	<key id="59400009" tooltipDescription="블라코가 담긴 작은 캡슐이다.\n미나르 사막 근처에서 살고 있는 작은 드래곤 종족이다.\n식탐이 강해, 하루종일 먹는 이야기만 한다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n흔들리지 않는 믿음 : 명중 3 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="소지품 창의 캡슐 아이템을 더블클릭하면 펫을 얻을 수 있다. 캡슐은 1회 블랙마켓 거래가 가능하며, 캡슐을 열면 거래가 불가능하다. 캡슐 안의 펫은 30일치 먹이를 먹은 상태이며, 캡슐에서 나온 순간부터 시간이 흐른다." />
+	<key id="59500001" mainDescription="펫 7일치 먹이주기" tooltipDescription="올가닉 재료를 사용하여 만든 바삭한 쿠키 형 먹이가 들어있는 패키지이다. 하루 1kg이 정량이다. 대중적인 재료를 사용하여 모든 펫들에게 먹일 수 있다." guideDescription="소지품 창의 패키지 아이템을 더블클릭하면 펫 먹이를 얻을 수 있다. 패키지는 1회 블랙마켓 거래가 가능하며, 패키지를 열면 거래가 불가능하다.\n\n펫이 건강하게 능력을 사용하기 위해서는 다음 식사시간을 체크하고 꾸준히 먹이를 먹여야 한다. 소지품 창에서 아이템을 더블클릭 후, 먹이를 줄 펫을 드래그 앤 드랍하여 설정한다. 펫 먹이는 최대 365일까지 먹일 수 있다." />
+	<key id="59500002" mainDescription="펫 30일치 먹이주기" tooltipDescription="올가닉 재료를 사용하여 만든 바삭한 쿠키 형 먹이가 들어있는 패키지이다. 하루 1kg이 정량이다. 대중적인 재료를 사용하여 모든 펫들에게 먹일 수 있다." guideDescription="소지품 창의 패키지 아이템을 더블클릭하면 펫 먹이를 얻을 수 있다. 패키지는 1회 블랙마켓 거래가 가능하며, 패키지를 열면 거래가 불가능하다.\n\n펫이 건강하게 능력을 사용하기 위해서는 다음 식사시간을 체크하고 꾸준히 먹이를 먹여야 한다. 소지품 창에서 아이템을 더블클릭 후, 먹이를 줄 펫을 드래그 앤 드랍하여 설정한다. 펫 먹이는 최대 365일까지 먹일 수 있다." />
+	<key id="59500003" mainDescription="펫 90일치 먹이주기" tooltipDescription="올가닉 재료를 사용하여 만든 바삭한 쿠키 형 먹이가 들어있는 패키지이다. 하루 1kg이 정량이다. 대중적인 재료를 사용하여 모든 펫들에게 먹일 수 있다." guideDescription="소지품 창의 패키지 아이템을 더블클릭하면 펫 먹이를 얻을 수 있다. 패키지는 1회 블랙마켓 거래가 가능하며, 패키지를 열면 거래가 불가능하다.\n\n펫이 건강하게 능력을 사용하기 위해서는 다음 식사시간을 체크하고 꾸준히 먹이를 먹여야 한다. 소지품 창에서 아이템을 더블클릭 후, 먹이를 줄 펫을 드래그 앤 드랍하여 설정한다. 펫 먹이는 최대 365일까지 먹일 수 있다." />
+	<key id="59500004" mainDescription="펫 365일치 먹이주기" tooltipDescription="올가닉 재료를 사용하여 만든 바삭한 쿠키 형 먹이가 들어있는 패키지이다. 하루 1kg이 정량이다. 대중적인 재료를 사용하여 모든 펫들에게 먹일 수 있다." guideDescription="소지품 창의 패키지 아이템을 더블클릭하면 펫 먹이를 얻을 수 있다. 패키지는 1회 블랙마켓 거래가 가능하며, 패키지를 열면 거래가 불가능하다.\n\n펫이 건강하게 능력을 사용하기 위해서는 다음 식사시간을 체크하고 꾸준히 먹이를 먹여야 한다. 소지품 창에서 아이템을 더블클릭 후, 먹이를 줄 펫을 드래그 앤 드랍하여 설정한다. 펫 먹이는 최대 365일까지 먹일 수 있다." />
+	<key id="60000001" tooltipDescription="$map:02000264$에서 살고 있는 작은 아기 펭귄이다.\n호기심이 많은 펭귄으로 말이 많고 까칠하지만, 속이 여린 친구이다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n결속의 힘 : 물리, 마법 공격력 5 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="펫을 소환하고 있을 때만 고유 스킬을 사용할 수 있으며, 먹이를 주지 않았어도 소환하여 펫 가방에서 아이템을 찾을 수 있다. 소환을 해제해도 다음 식사 시간은 계속 흐른다. 이벤트, PVP 지역에서는 펫을 소환할 수 없다." />
+	<key id="60000002" tooltipDescription="$map:02000264$에서 살고 있는 작은 아기 펭귄이다.\n호기심이 많은 펭귄으로 말이 많고 까칠하지만, 속이 여린 친구이다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n가벼운 발걸음 : 이동속도 5% 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="펫을 소환하고 있을 때만 고유 스킬을 사용할 수 있으며, 먹이를 주지 않았어도 소환하여 펫 가방에서 아이템을 찾을 수 있다. 소환을 해제해도 다음 식사 시간은 계속 흐른다. 이벤트, PVP 지역에서는 펫을 소환할 수 없다." />
+	<key id="60000003" tooltipDescription="$map:02000264$에서 살고 있는 작은 아기 펭귄이다.\n호기심이 많은 펭귄으로 말이 많고 까칠하지만, 속이 여린 친구이다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n흔들리지 않는 믿음 : 명중 3 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="펫을 소환하고 있을 때만 고유 스킬을 사용할 수 있으며, 먹이를 주지 않았어도 소환하여 펫 가방에서 아이템을 찾을 수 있다. 소환을 해제해도 다음 식사 시간은 계속 흐른다. 이벤트, PVP 지역에서는 펫을 소환할 수 없다." />
+	<key id="60000004" tooltipDescription="작은 꼬리와 알록달록한 얼룩 무늬를 가진 애교 만점 강아지이다.\n충성심이 강한 친구로, 언제나 곁을 든든히 지킨다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n결속의 힘 : 물리, 마법 공격력 5 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="펫을 소환하고 있을 때만 고유 스킬을 사용할 수 있으며, 먹이를 주지 않았어도 소환하여 펫 가방에서 아이템을 찾을 수 있다. 소환을 해제해도 다음 식사 시간은 계속 흐른다. 이벤트, PVP 지역에서는 펫을 소환할 수 없다." />
+	<key id="60000005" tooltipDescription="작은 꼬리와 알록달록한 얼룩 무늬를 가진 애교 만점 강아지이다.\n충성심이 강한 친구로, 언제나 곁을 든든히 지킨다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n가벼운 발걸음 : 이동속도 5% 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="펫을 소환하고 있을 때만 고유 스킬을 사용할 수 있으며, 먹이를 주지 않았어도 소환하여 펫 가방에서 아이템을 찾을 수 있다. 소환을 해제해도 다음 식사 시간은 계속 흐른다. 이벤트, PVP 지역에서는 펫을 소환할 수 없다." />
+	<key id="60000006" tooltipDescription="작은 꼬리와 알록달록한 얼룩 무늬를 가진 애교 만점 강아지이다.\n충성심이 강한 친구로, 언제나 곁을 든든히 지킨다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n흔들리지 않는 믿음 : 명중 3 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="펫을 소환하고 있을 때만 고유 스킬을 사용할 수 있으며, 먹이를 주지 않았어도 소환하여 펫 가방에서 아이템을 찾을 수 있다. 소환을 해제해도 다음 식사 시간은 계속 흐른다. 이벤트, PVP 지역에서는 펫을 소환할 수 없다." />
+	<key id="60000007" tooltipDescription="미나르 사막 근처에서 살고 있는 작은 드래곤 종족이다.\n식탐이 강해, 하루종일 먹는 이야기만 한다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n결속의 힘 : 물리, 마법 공격력 5 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="펫을 소환하고 있을 때만 고유 스킬을 사용할 수 있으며, 먹이를 주지 않았어도 소환하여 펫 가방에서 아이템을 찾을 수 있다. 소환을 해제해도 다음 식사 시간은 계속 흐른다. 이벤트, PVP 지역에서는 펫을 소환할 수 없다." />
+	<key id="60000008" tooltipDescription="미나르 사막 근처에서 살고 있는 작은 드래곤 종족이다.\n식탐이 강해, 하루종일 먹는 이야기만 한다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n가벼운 발걸음 : 이동속도 5% 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="펫을 소환하고 있을 때만 고유 스킬을 사용할 수 있으며, 먹이를 주지 않았어도 소환하여 펫 가방에서 아이템을 찾을 수 있다. 소환을 해제해도 다음 식사 시간은 계속 흐른다. 이벤트, PVP 지역에서는 펫을 소환할 수 없다." />
+	<key id="60000009" tooltipDescription="미나르 사막 근처에서 살고 있는 작은 드래곤 종족이다.\n식탐이 강해, 하루종일 먹는 이야기만 한다.\n작은 동물 친구는 게임을 편리하게 이용할 수 있도록 다양한 기능을\n제공한다.\n\n&lt;font color=&apos;#ffffff&apos;&gt;자동 비석 부활\n자동 포션 회복\n자동 아이템 줍기\n흔들리지 않는 믿음 : 명중 3 증가\n펫 가방 14칸\n\n&lt;/font&gt;" guideDescription="펫을 소환하고 있을 때만 고유 스킬을 사용할 수 있으며, 먹이를 주지 않았어도 소환하여 펫 가방에서 아이템을 찾을 수 있다. 소환을 해제해도 다음 식사 시간은 계속 흐른다. 이벤트, PVP 지역에서는 펫을 소환할 수 없다." />
 	<key id="70100001" mainDescription="특정 부위 투명화" tooltipDescription="착용 중인 장비 및 장식 중 원하는 부위를 투명하게 만들 수 있다." guideDescription="소지품 창의 배지를 캐릭터 정보창의 배지 슬롯으로 드래그 앤 드랍 하면, 설정 버튼이 표시된다. 투명 배지는 하나만 장착 가능하다. 무기의 외형은 투명하게 할 수 없다." />
 	<key id="70200001" mainDescription="말풍선 디자인 변경" tooltipDescription="말풍선 디자인을 교체할 수 있는 배지이다." guideDescription="소지품 창의 배지를 캐릭터 정보창의 배지 슬롯으로 드래그 앤 드랍 하면 말풍선이 변경된다. 말풍선 배지는 하나만 장착 가능하다." />
 	<key id="70200002" mainDescription="말풍선 디자인 변경" tooltipDescription="말풍선 디자인을 교체할 수 있는 배지이다." guideDescription="소지품 창의 배지를 캐릭터 정보창의 배지 슬롯으로 드래그 앤 드랍 하면 말풍선이 변경된다. 말풍선 배지는 하나만 장착 가능하다." />

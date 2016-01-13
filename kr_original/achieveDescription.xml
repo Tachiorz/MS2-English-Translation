@@ -137,13 +137,13 @@
 	<achieve id="21220030" desc="$npc:22090123$ {0}번 처치하기" complete="지금까지 $npc:22090123$ {0}번 처치!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50730015$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730015$ 구매 권한 획득" />
 	</achieve>
-	<achieve id="21220031" desc="$npc:24001705$ {0}번 처치하기" complete="지금까지 $npc:24001705$ {0}번 처치!" manualDesc="" manualComplete="">
+	<achieve id="21220031" desc="(노멀 모드) $npc:24001705$ {0}번 처치하기" complete="지금까지 (노멀 모드) $npc:24001705$ {0}번 처치!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50730027$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730027$ 구매 권한 획득" />
 	</achieve>
 	<achieve id="21220032" desc="$npc:24001807$$pp:와,과$ 싸워 {0}번 이기기" complete="지금까지 $npc:24001807$$pp:와,과$ 싸워 {0}번 승리!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50730028$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730028$ 구매 권한 획득" />
 	</achieve>
-	<achieve id="21220033" desc="$npc:24001507$ {0}번 처치하기" complete="지금까지 $npc:24001507$ {0}번 처치!" manualDesc="" manualComplete="">
+	<achieve id="21220033" desc="(노멀 모드) $npc:24001507$ {0}번 처치하기" complete="지금까지 (노멀 모드) $npc:24001507$ {0}번 처치!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50730031$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730031$ 구매 권한 획득" />
 	</achieve>
 	<achieve id="21230001" desc="$npc:23000024$$pp:와의,과의$ 싸움에 적극 참여해 {0}번 처치하기" complete="지금까지 $npc:23000024$ 처치에 {0}번 기여!" manualDesc="" manualComplete="">
@@ -267,6 +267,11 @@
 	<achieve id="21230051" desc="(챌린지 모드) $npc:23000052$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000052$ {0}번 처치!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50740036$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740036$ 구매 권한 획득" />
 	</achieve>
+	<achieve id="21230052" desc="(챌린지 모드) $npc:23000068$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:23000068$ {0}번 처치!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740037$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740036$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="21230053" desc="(챌린지 모드) $npc:24002201$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:24002201$ {0}번 처치!" manualDesc="" manualComplete="" />
+	<achieve id="21230054" desc="(챌린지 모드) $npc:24002109$ {0}번 처치하기" complete="지금까지 (챌린지 모드) $npc:24002109$ {0}번 처치!" manualDesc="" manualComplete="" />
 	<achieve id="21231001" desc="나의 마지막 일격으로 $npc:23000024$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000024$ {0}회 처치" manualDesc="" manualComplete="" />
 	<achieve id="21231002" desc="나의 마지막 일격으로 $npc:23000018$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000018$ {0}회 처치" manualDesc="" manualComplete="" />
 	<achieve id="21231003" desc="나의 마지막 일격으로 $npc:23000019$ {0}회 처치하기" complete="나의 마지막 일격으로 $npc:23000019$ {0}회 처치" manualDesc="" manualComplete="" />
@@ -782,6 +787,8 @@
 	<achieve id="22200371" desc="공간의 소용돌이를 통해 $map:80000012$ {0}회 들어가기" complete="지금까지 공간의 소용돌이를 통해 $map:80000012$ {0}회 방문" manualDesc="" manualComplete="" />
 	<achieve id="22200372" desc="공간의 소용돌이를 통해 $map:80000013$ {0}회 들어가기" complete="지금까지 공간의 소용돌이를 통해 $map:80000013$ {0}회 방문" manualDesc="" manualComplete="" />
 	<achieve id="22200373" desc="카르카르 아일랜드 맵 {0}개 탐험하기" complete="지금까지 카르카르 아일랜드 맵 {0}개 탐험" manualDesc="" manualComplete="" />
+	<achieve id="22200374" desc='(던전) &quot;$dungeonTitle:02000355$&quot;에서 $npc:24002202$ {0}번 처치하기' complete='(던전) &quot;$dungeonTitle:02000355$&quot;에서 $npc:24002202$ {0}번 처치' manualDesc="" manualComplete="" />
+	<achieve id="22200375" desc='(던전) &quot;$dungeonTitle:02010049$&quot;에서 물감옥에 {0}번 갇히기' complete='지금까지 &quot;$dungeonTitle:02010049$&quot;에서 물감옥에 {0}번 갇힘' manualDesc="" manualComplete="" />
 	<achieve id="22300001" desc="퀘스트 {0}개 완료" complete="지금까지 퀘스트 {0}개 완료" manualDesc="" manualComplete="" />
 	<achieve id="22300002" desc="" complete="" manualDesc="$map:02000146$의 $npc:11000076$$pp:를,을$ 만나 &apos;어둠의 실체&apos; 퀘스트 완료하기" manualComplete="$map:02000146$의 $npc:11000076$$pp:를,을$ 만나 &apos;어둠의 실체&apos; 퀘스트 완료!">
 		<reward grade="1" uiDesc="" notifyIcon="" notifyString="" />
@@ -850,6 +857,7 @@
 	<achieve id="22300043" desc="" complete="" manualDesc='메이플 TV 교양국 퀘스트 &quot;던전 : 우울한 막내 작가&quot; 완료하기' manualComplete='메이플 TV 교양국 퀘스트 &quot;던전 : 우울한 막내 작가&quot; 완료' />
 	<achieve id="22300044" desc="" complete="" manualDesc='메이플 TV 교양국 퀘스트 &quot;던전 : 동기를 위하여&quot; 완료하기' manualComplete='메이플 TV 교양국 퀘스트 &quot;던전 : 동기를 위하여&quot; 완료' />
 	<achieve id="22300045" desc="" complete="" manualDesc="메이플 TV 교양국 퀘스트 트로피 모두 수집하기" manualComplete="메이플 TV 교양국 퀘스트 트로피 모두 수집" />
+	<achieve id="22300046" desc="" complete="" manualDesc="$map:02000200$의 $npc:11001485$$pp:를,을$ 만나 &apos;불멸의 불꽃&apos; 퀘스트 완료하기" manualComplete="$map:02000200$의 $npc:11001485$$pp:를,을$ 만나 &apos;불멸의 불꽃&apos; 퀘스트 완료" />
 	<achieve id="22400001" desc="누적 경험치 {0} 획득하기" complete="지금까지 누적 경험치 {0} 획득" manualDesc="" manualComplete="" />
 	<achieve id="22400002" desc="50레벨 달성 후, 경험치 {0} 획득하기" complete="50레벨 달성 후, 경험치 {0} 획득" manualDesc="" manualComplete="" />
 	<achieve id="23100001" desc="누적 플레이 {0}" complete="지금까지 누적 플레이 {0}" manualDesc="" manualComplete="" />
