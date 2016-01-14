@@ -137,13 +137,13 @@
 	<achieve id="21220030" desc="$npc:22090123$ {0}Time to kill" complete="So far $npc:22090123$ {0}Once aid!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50730015$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730015$ Purchase permission obtained"/>
 	</achieve>
-	<achieve id="21220031" desc="$npc:24001705$ {0}Time to kill" complete="So far $npc:24001705$ {0}Once aid!" manualDesc="" manualComplete="">
+	<achieve id="21220031" desc="(Normal mode) $npc:24001705$ {0}Time to kill" complete="So far (normal mode) $npc:24001705$ {0}Once aid!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50730027$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730027$ Purchase permission obtained"/>
 	</achieve>
 	<achieve id="21220032" desc="$npc:24001807$ Fight {0}Time to win" complete="So far $npc:24001807$ Fight {0}Times win!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50730028$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730028$ Purchase permission obtained"/>
 	</achieve>
-	<achieve id="21220033" desc="$npc:24001507$ {0}Time to kill" complete="So far $npc:24001507$ {0}Once aid!" manualDesc="" manualComplete="">
+	<achieve id="21220033" desc="(Normal mode) $npc:24001507$ {0}Time to kill" complete="So far (normal mode) $npc:24001507$ {0}Once aid!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50730031$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730031$ Purchase permission obtained"/>
 	</achieve>
 	<achieve id="21230001" desc="$npc:23000024$ Actively involved in the fight against {0}Time to kill" complete="So far $npc:23000024$ Aid {0}Once contribution!" manualDesc="" manualComplete="">
@@ -267,6 +267,11 @@
 	<achieve id="21230051" desc="(Challenge mode) $npc:23000052$ {0}Time to kill" complete="So far, the (challenge mode) $npc:23000052$ {0}Once aid!" manualDesc="" manualComplete="">
 		<reward grade="2" uiDesc="$item:50740036$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740036$ Purchase permission obtained"/>
 	</achieve>
+	<achieve id="21230052" desc="(Challenge mode) $npc:23000068$ {0}Time to kill" complete="So far, the (challenge mode) $npc:23000068$ {0}Once aid!" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740037$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740036$ Purchase permission obtained"/>
+	</achieve>
+	<achieve id="21230053" desc="(Challenge mode) $npc:24002201$ {0}Time to kill" complete="So far, the (challenge mode) $npc:24002201$ {0}Once aid!" manualDesc="" manualComplete=""/>
+	<achieve id="21230054" desc="(Challenge mode) $npc:24002109$ {0}Time to kill" complete="So far, the (challenge mode) $npc:24002109$ {0}Once aid!" manualDesc="" manualComplete=""/>
 	<achieve id="21231001" desc="My last shot $npc:23000024$ {0}Annual aid to" complete="My last shot $npc:23000024$ {0}Annual Church" manualDesc="" manualComplete=""/>
 	<achieve id="21231002" desc="My last shot $npc:23000018$ {0}Annual aid to" complete="My last shot $npc:23000018$ {0}Annual Church" manualDesc="" manualComplete=""/>
 	<achieve id="21231003" desc="My last shot $npc:23000019$ {0}Annual aid to" complete="My last shot $npc:23000019$ {0}Annual Church" manualDesc="" manualComplete=""/>
@@ -782,6 +787,8 @@
 	<achieve id="22200371" desc="Through a swirl of space $map:80000012$ {0}Times to enter" complete="So far, through the swirl of space $map:80000012$ {0}Visits" manualDesc="" manualComplete=""/>
 	<achieve id="22200372" desc="Through a swirl of space $map:80000013$ {0}Times to enter" complete="So far, through the swirl of space $map:80000013$ {0}Visits" manualDesc="" manualComplete=""/>
 	<achieve id="22200373" desc="Kar Kar Ireland map {0}Explore dogs" complete="Until now, Kar Kar Ireland map {0}Explore dogs" manualDesc="" manualComplete=""/>
+	<achieve id="22200374" desc="(Dungeon) &quot;$dungeonTitle:02000355$&quot;In $npc:24002202$ {0}Time to kill" complete="(Dungeon) &quot;$dungeonTitle:02000355$&quot;In $npc:24002202$ {0}Once Church" manualDesc="" manualComplete=""/>
+	<achieve id="22200375" desc="(Dungeon) &quot;$dungeonTitle:02010049$&quot;The water in the prison {0}Once confined to folding" complete="So far &quot;$dungeonTitle:02010049$&quot;The water in the prison {0}Once entrapment" manualDesc="" manualComplete=""/>
 	<achieve id="22300001" desc="Quest {0}Complete" complete="So far the quest {0}Complete" manualDesc="" manualComplete=""/>
 	<achieve id="22300002" desc="" complete="" manualDesc="$map:02000146$Of $npc:11000076$ Meet 'The dark entity' To complete the quest" manualComplete="$map:02000146$Of $npc:11000076$ Meet 'The dark entity' Quest complete!">
 		<reward grade="1" uiDesc="" notifyIcon="" notifyString=""/>
@@ -850,6 +857,7 @@
 	<achieve id="22300043" desc="" complete="" manualDesc="Maple TV History of the Church, the two quests &quot;Dungeon : Depressing the youngest writer&quot; To complete the" manualComplete="Maple TV History of the Church, the two quests &quot;Dungeon : Depressing the youngest writer&quot; Complete"/>
 	<achieve id="22300044" desc="" complete="" manualDesc="Maple TV History of the Church, the two quests &quot;Dungeon : In order to motivate&quot; To complete the" manualComplete="Maple TV History of the Church, the two quests &quot;Dungeon : In order to motivate&quot; Complete"/>
 	<achieve id="22300045" desc="" complete="" manualDesc="Maple TV See history of the two countries ' quest to collect all trophies" manualComplete="Maple TV See history of the two countries ' quest to collect all trophies"/>
+	<achieve id="22300046" desc="" complete="" manualDesc="$map:02000200$Of $npc:11001485$ Meet 'Immortality's flame' To complete the quest" manualComplete="$map:02000200$Of $npc:11001485$ Meet 'Immortality's flame' Complete quests"/>
 	<achieve id="22400001" desc="Cumulative experience {0} To obtain the" complete="So far, the cumulative experience {0} Acquisition" manualDesc="" manualComplete=""/>
 	<achieve id="22400002" desc="50After achieving a level of experience {0} To obtain the" complete="50After achieving a level of experience {0} Acquisition" manualDesc="" manualComplete=""/>
 	<achieve id="23100001" desc="Cumulative views {0}" complete="So far, the cumulative views {0}" manualDesc="" manualComplete=""/>

@@ -139,6 +139,9 @@
 	<key id="21230049" name="(Account) hammer pig"/>
 	<key id="21230050" name="(Ascend to horns, a lion account)"/>
 	<key id="21230051" name="(Account) into the labyrinth"/>
+	<key id="21230052" name="(The power of the darkness swallowing light account)"/>
+	<key id="21230053" name="(Betray the unfinished account)"/>
+	<key id="21230054" name="(Hidden card account)"/>
 	<key id="21231001" name="Go to hell!"/>
 	<key id="21231002" name="$npc:23000018$Unplug the horns now"/>
 	<key id="21231003" name="$npc:23000019$The wings of the beat now"/>
@@ -637,6 +640,8 @@
 	<key id="22200371" name="Chasing treasure alley cat"/>
 	<key id="22200372" name="Keeping the ghost's grave"/>
 	<key id="22200373" name="Kar Kar inkan seal on foot"/>
+	<key id="22200374" name="I fall asleep again!"/>
+	<key id="22200375" name="Not against a backdrop of the bubble"/>
 	<key id="22300001" name="Distressed fixers"/>
 	<key id="22300002" name="Siem Reap is a shadow"/>
 	<key id="22300003" name="Stopped clock tower"/>
@@ -681,6 +686,7 @@
 	<key id="22300043" name="Depressing the youngest writer"/>
 	<key id="22300044" name="In order to motivate"/>
 	<key id="22300045" name="See history of the two countries ' Savior"/>
+	<key id="22300046" name="The evil conqueror"/>
 	<key id="22400001" name="Unfinished journey"/>
 	<key id="22400002" name="The end is a new beginning"/>
 	<key id="23100001" name="Our happy hour"/>

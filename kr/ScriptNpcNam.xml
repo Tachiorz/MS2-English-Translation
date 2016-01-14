@@ -4529,6 +4529,9 @@
 	<key id="1209201207004879" npc="Blacksmith Berman char" name="Ingredient Cap lagoon. &#10;&lt;font color=&quot;#ffd200&quot;&gt;$item:30000420$&lt;/font&gt; 20Dogs and &lt;font color=&quot;#ffd200&quot;&gt;$item:30000421$&lt;/font&gt; 15Not forgetting that the dog is necessary?"/>
 	<key id="1209201207004880" npc="Blacksmith Berman char" name="That's what .... Bit hard to investigate the performance but still no. &#10;You'll find the solution to my tight, wait a bit.&#10;By the way, have you ever &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001212$&lt;/font&gt;Do you know the characters? Men &lt;font color=&quot;#ffd200&quot;&gt;$item:30000421$&lt;/font&gt; Proposed treatment&#10;If you have something that &lt;font color=&quot;#ffd200&quot;&gt;Much of the information&lt;/font&gt;I don't know know. &#10;See how watching once if the time? "/>
 	<key id="1021111107004243" npc="Rihanna" name="Hey guys! Over here!"/>
+	<key id="0106111607005756" npc="Star hearts" name="To me, what do you say?"/>
+	<key id="0106111607005757" npc="-Based bar" name="Nevermind eh ..."/>
+	<key id="0106111607005758" npc="Tara" name="What the heck?"/>
 	<key id="1221165407005449" npc="Morrow Papa residents 3" name="What's new?"/>
 	<key id="1125194807004468" npc="Issue La" name="What is going on here?"/>
 	<key id="1125194807004469" npc="Captain Deputy Len edu Bianca" name="It's really a pain in the arse full of military"/>
@@ -5269,13 +5272,13 @@
 	<key id="1223165107005557" npc="Town residents teeth v" name="Rainbow Trout soup favors?&#10;I put my Special spice now simmering in Rainbow Trout soup to beat our best in Mina&#10;Delicious food is LAU!"/>
 	<key id="1223165107005558" npc="Town residents teeth v" name="Listening seems pretty tasty food, says."/>
 	<key id="1223165107005559" npc="Town residents teeth v" name="When the opportunity comes to hang out at our House. &#10;Well it'll Cook~ HO HO HO."/>
-	<key id="1217193307005389" npc="Residents of the town in an uproar" name="What worries so many ..."/>
-	<key id="1223165107005560" npc="Residents of the town in an uproar" name="Enjoy your life~"/>
-	<key id="1223165107005561" npc="Residents of the town in an uproar" name="I wish Megan falls from the sky, a whole bunch of Sona~"/>
-	<key id="1223165107005562" npc="Residents of the town in an uproar" name="$npcName:11001396$ Idiot. Hate the stupid money."/>
-	<key id="1223165107005563" npc="Residents of the town in an uproar" name="$npcName:11001396$ A friend of mine. &#10;This dude House live in the desert, monopolized every day."/>
-	<key id="1223165107005564" npc="Residents of the town in an uproar" name="Just me $map:02010002$He received a good offer from~They would have a job on the spot. &#10;It's a good thing to see, eat, wear~ I could live with that."/>
-	<key id="1223165107005565" npc="Residents of the town in an uproar" name="What about the ancient ruins, secret forces blah blah blah ...&#10;The world should all alone.&#10;What do a lot of talking, I don't know. I forgot all about it.  &#10;In the future, I'm unaware."/>
+	<key id="1217193307005389" npc="Residents of the town of Dhahran" name="What worries so many ..."/>
+	<key id="1223165107005560" npc="Residents of the town of Dhahran" name="Enjoy your life~"/>
+	<key id="1223165107005561" npc="Residents of the town of Dhahran" name="I wish Megan falls from the sky, a whole bunch of Sona~"/>
+	<key id="1223165107005562" npc="Residents of the town of Dhahran" name="$npcName:11001396$ Idiot. Hate the stupid money."/>
+	<key id="1223165107005563" npc="Residents of the town of Dhahran" name="$npcName:11001396$ A friend of mine. &#10;This dude House live in the desert, monopolized every day."/>
+	<key id="1223165107005564" npc="Residents of the town of Dhahran" name="Just me $map:02010002$He received a good offer from~They would have a job on the spot. &#10;It's a good thing to see, eat, wear~ I could live with that."/>
+	<key id="1223165107005565" npc="Residents of the town of Dhahran" name="What about the ancient ruins, secret forces blah blah blah ...&#10;The world should all alone.&#10;What do a lot of talking, I don't know. I forgot all about it.  &#10;In the future, I'm unaware."/>
 	<key id="1217193307005390" npc="Residents of the town of Youghal" name="In Hugh ..."/>
 	<key id="1223165107005566" npc="Residents of the town of Youghal" name="Also gone Yes, again. "/>
 	<key id="1223165107005567" npc="Residents of the town of Youghal" name="Whether or not attending rice or starving ..."/>
@@ -5550,4 +5553,47 @@
 	<key id="1228113207005717" npc="The black crusade operatives" name="What is happening?"/>
 	<key id="1228113207005718" npc="The black crusade operatives" name="$npcName:11001460$Keeps us by submitted by ..."/>
 	<key id="1228113207005719" npc="The black crusade operatives" name="Thank you for your help, thanks to having ...&#10;We will never forget the black crusade helped me work."/>
+	<key id="0106111607005759" npc="The my Rev" name="$MyPCName$, What brings me to find?"/>
+	<key id="0106111607005760" npc="The my Rev" name="The power of the light ... Save ..."/>
+	<key id="0106111607005761" npc="The my Rev" name="Lou Merle Eragon's power is to remain ..."/>
+	<key id="0106111607005762" npc="The my Rev" name="Nazca-Le-Temple somewhere in the light of the sanctuary &lt;font color=&quot;#ffd200&quot;&gt;La mer Ston&lt;/font&gt;This is a good time to present ... &#10;Now $map:52010007$ Will be held."/>
+	<key id="0106111607005763" npc="The my Rev" name="Now what, you ask, and doegessneunya."/>
+	<key id="0106111607005764" npc="The my Rev" name="All you have to do is only one ...&#10;La mer stone in &lt;font color=&quot;#ffd200&quot;&gt;In light of the chaos&lt;/font&gt;This is the darkness before the taboo material."/>
+	<key id="0106111607005765" npc="Star hearts" name="To me, what do you say?"/>
+	<key id="0106111607005766" npc="Star hearts" name="And then ... Lame glad to find the stone, but ... &#10;Carmina and of &lt;font color=&quot;#ffd200&quot;&gt;War&lt;/font&gt;Is not over yet ..."/>
+	<key id="0106111607005767" npc="Tara" name="What the heck?"/>
+	<key id="0106111607005768" npc="Tara" name="Light and darkness ... Rumi Eragon and the Carmina of &lt;font color=&quot;#ffd200&quot;&gt;War&lt;/font&gt;It did not end ...&#10;$npcName:11001472$ You need to regain your body as soon ... Rumi Eragon's &lt;font color=&quot;#ffd200&quot;&gt;The only hope&lt;/font&gt;NDE."/>
+	<key id="0106111607005769" npc="-Based bar" name="Nevermind eh ..."/>
+	<key id="0106111607005770" npc="-Based bar" name="$npcName:23000068$ Comes back ... Ooh huh huh huh ...&#10;$npcName:11001472$… It's happening soon ..."/>
+	<key id="0106111607005771" npc="-Based bar" name="Nevermind eh ..."/>
+	<key id="0106111607005772" npc="-Based bar" name="Urgh ... La mer Ston ... What to do with ..."/>
+	<key id="0106111607005773" npc="-Based bar" name="Hey guys ... MI. .. I'm sorry ..."/>
+	<key id="0106111607005774" npc="-Based bar" name="A. .. What to do with ... La mer stone found only ... &#10;I accidentally stop &lt;font color=&quot;#ffd200&quot;&gt;Pools of water&lt;/font&gt; Drop in. &#10;$npcName:11001292$Lang $npcName:11001218$ I'm looking for ... I can't swim and ... Ooh huh huh huh ..."/>
+	<key id="0106111607005775" npc="-Based bar" name="First, relax."/>
+	<key id="0106111607005776" npc="-Based bar" name="$npcName:23000068$ La mer would come after knowing the stone missing ... &#10;We &lt;font color=&quot;#ffd200&quot;&gt;La mer Ston&lt;/font&gt;While searching for you &lt;font color=&quot;#ffd200&quot;&gt;$npcName:23000068$&lt;/font&gt; Some hedging?"/>
+	<key id="0106111607005777" npc="Coward Moore" name="What did work!"/>
+	<key id="0106111607005778" npc="Coward Moore" name="Scary ..."/>
+	<key id="0106111607005779" npc="Coward Moore" name="Ah ... Pero ... That's what Dami ..."/>
+	<key id="0106111607005780" npc="Coward Moore" name="Mi-Jung! Mi-Jung! Here the temple is so scary ...&#10;Not even friends with Captain ... The dark and ... Mi-Jung ..."/>
+	<key id="0106111607005781" npc="Coward Moore" name="Here is a ... Here's me in front of the door ... M?&#10;Acton ... That seems to be what happened in the u.s. ... Frightening melting ..."/>
+	<key id="0106111607005782" npc="Event planner Lil Leah" name="Come find me?"/>
+	<key id="0106111607005783" npc="Event planner Lil Leah" name="Happiness is not far away!"/>
+	<key id="0106111607005784" npc="Event planner Lil Leah" name="One day I'm going to let you bring good luck!"/>
+	<key id="0106111607005785" npc="Event planner Lil Leah" name="$item:20300133$ Did you receive? $item:20300133$ $item:30000512$You can only open it as!"/>
+	<key id="0106111607005786" npc="Event planner Lil Leah" name="$item:30000512$ Ask if you can get."/>
+	<key id="0106111607005787" npc="Event planner Lil Leah" name="Appeared in the field &lt;font color=&quot;#ffd200&quot;&gt;Elite Monster&lt;/font&gt;As to the &lt;font color=&quot;#ffd200&quot;&gt;Lucky golden key&lt;/font&gt;Could save ...&#10;Did you ever find out?"/>
+	<key id="0106143407005788" npc="Sorcerer Oh rock of the Sith" name="Well ... What brings?"/>
+	<key id="0106143407005789" npc="Sorcerer Oh rock of the Sith" name="The research on the devil, indeed, ought not the end ..."/>
+	<key id="0106143407005790" npc="Sorcerer Oh rock of the Sith" name="The devil, humans ... It's an issue of military"/>
+	<key id="0106143407005791" npc="Sorcerer Oh rock of the Sith" name="Hmm ... What do you think about the existence of the devil to you?"/>
+	<key id="0106143407005792" npc="Sorcerer Oh rock of the Sith" name="The devil means to do exist in the fight against rebels."/>
+	<key id="0106143407005793" npc="Sorcerer Oh rock of the Sith" name="I never thought you ever say."/>
+	<key id="0106143407005794" npc="Sorcerer Oh rock of the Sith" name="I guess. It is common for people to have an idea about the devil.&#10;But the haphazard ways to solve problems besides just the fight against the devil, I think not.&#10;I am having a devil of an interest &lt;font color=&quot;#ffd200&quot;&gt;Various skills&lt;/font&gt;This Yes."/>
+	<key id="0106143407005795" npc="Sorcerer Oh rock of the Sith" name="Some skills they will say."/>
+	<key id="0106143407005796" npc="Sorcerer Oh rock of the Sith" name="There are many different ways. &#10;A deep, dark desires to satisfy the human would give ... Sweet &lt;font color=&quot;#ffd200&quot;&gt;Temptation&lt;/font&gt;I don't feel it. &#10;I am not capable of wielding the powers of such beings &lt;font color=&quot;#ffd200&quot;&gt;Problem&lt;/font&gt;Here and there.&#10;But everybody can use its ability to correctly &lt;font color=&quot;#ffd200&quot;&gt;How to&lt;/font&gt;I think that is not good."/>
+	<key id="0106143407005797" npc="Sorcerer Oh rock of the Sith" name="You can use that ability to correctly asks."/>
+	<key id="0106143407005798" npc="Sorcerer Oh rock of the Sith" name="He's unsure. &#10;The research on the end there is no devil, even if that ability even if you find a way to take advantage of the ... &#10;Can write easily quantifiable untouched."/>
+	<key id="0106143407005799" npc="Sorcerer Oh rock of the Sith" name="Pity. &#10;You cant see it as enough feel from the devil to be able to stick to the law ...&#10;Well ... People who are not interested in more say.&#10;But remember. &lt;font color=&quot;#ffd200&quot;&gt;The devil&lt;/font&gt;They wont we &lt;font color=&quot;#ffd200&quot;&gt;Around&lt;/font&gt;That there is a ..."/>
+	<key id="0111181407005800" npc="Foot rock" name="Insignificant humans ..."/>
+	<key id="0111181407005801" npc="Foot rock" name="Insignificant humans ..."/>
 </ms2>

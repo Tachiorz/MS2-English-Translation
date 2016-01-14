@@ -666,11 +666,14 @@
 	<key id="49125001" level="1" name="Slime blast" tooltipDescription="When the explosion occurs in the body slime."/>
 	<key id="49148021" level="1" name="And the fear of God for" tooltipDescription="Speed reduction for a period of time and EPIs not zero."/>
 	<key id="49149021" level="1" name="Slow" tooltipDescription="Speed reduction for a period of time"/>
-	<key id="49161001" level="1" name="The Sanctuary's frigid" tooltipDescription="Speed reduction for a period of time. \n Fix series confined on the ice if the projectile."/>
+	<key id="49161001" level="1" name="The Sanctuary's frigid" tooltipDescription="Speed reduction for a period of time. \nFix series confined on the ice if the projectile."/>
 	<key id="49161002" level="1" name="Fix bondage" tooltipDescription="Inability to act for a period of time trapped in the ice."/>
 	<key id="49164011" level="1" name="Confusion" tooltipDescription="I can't stand the spirit!\nContrary to the direction of the action and influence"/>
 	<key id="49165001" level="1" name="Mental mastery" tooltipDescription="Wicked edge, you can attack a colleague allocated."/>
 	<key id="49165002" level="1" name="Mental mastery" tooltipDescription="After a while, you can strike up a colleague."/>
+	<key id="49175001" level="1" name="Slow" tooltipDescription="Speed reduction for a period of time"/>
+	<key id="49175091" level="1" name="Confusion" tooltipDescription="I can't stand the spirit!\nContrary to the direction of the action and influence"/>
+	<key id="49176011" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment"/>
 	<key id="50000001" level="1" name="Addiction" tooltipDescription="Constantly poison damage"/>
 	<key id="50000002" level="1" name="Addiction" tooltipDescription="Constantly poison damage"/>
 	<key id="50000003" level="1" name="Addiction" tooltipDescription="Constantly poison damage"/>
@@ -681,6 +684,7 @@
 	<key id="50000009" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment"/>
 	<key id="50000010" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment"/>
 	<key id="50000010" level="2" name="Stunned" tooltipDescription="Acting stunned wonderment"/>
+	<key id="50000010" level="3" name="Stunned" tooltipDescription="Acting stunned wonderment"/>
 	<key id="50000011" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment"/>
 	<key id="50000012" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment"/>
 	<key id="50000013" level="1" name="Stunned" tooltipDescription="Acting stunned wonderment"/>
@@ -701,6 +705,7 @@
 	<key id="50000081" level="1" name="Burns" tooltipDescription="Constantly flame damage"/>
 	<key id="50000082" level="1" name="Shadow flame burns" tooltipDescription="Constantly flame damage\nSP 50% reduction in the maximum"/>
 	<key id="50000083" level="1" name="Burns" tooltipDescription="Constantly flame damage\nUp to 10 times the nesting\nNested: damage rising"/>
+	<key id="50000084" level="1" name="Burns" tooltipDescription="Constantly flame damage\nUp to 5 times the nesting\nNested: damage rising"/>
 	<key id="50000100" level="1" name="Bleeding" tooltipDescription="Ongoing physical damage"/>
 	<key id="50000101" level="1" name="Bleeding" tooltipDescription="Ongoing physical damage"/>
 	<key id="50000107" level="1" name="Stern" tooltipDescription="Acting stunned wonderment"/>
@@ -717,6 +722,7 @@
 	<key id="50000140" level="1" name="Damage reduction" tooltipDescription="99% reduction in the damage"/>
 	<key id="50000141" level="1" name="Damage reduction" tooltipDescription="Damage reduced by 50%"/>
 	<key id="50000142" level="1" name="Damage reduction" tooltipDescription="Attack power 80% reduction"/>
+	<key id="50000143" level="1" name="Damage reduction" tooltipDescription="Damage reduced by 25%\nUp to a maximum of three times the nesting"/>
 	<key id="50000158" level="1" name="Go slow" tooltipDescription="30% reduction in movement speed"/>
 	<key id="50000170" level="1" name="The water prison" tooltipDescription="Water trapped in the immobilizing prison"/>
 	<key id="50000171" level="1" name="The water prison" tooltipDescription="Water trapped in the immobilizing prison"/>
@@ -786,6 +792,8 @@
 	<key id="50000328" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 80% reduction"/>
 	<key id="50000329" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 80% reduction"/>
 	<key id="50000330" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 80% reduction"/>
+	<key id="50000335" level="1" name="Attack power rise" tooltipDescription="Damage increased by 50%"/>
+	<key id="50000336" level="1" name="Defense power is rising" tooltipDescription="All damage to the enemy 80% reduction"/>
 	<key id="50000350" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery"/>
 	<key id="50000351" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery"/>
 	<key id="50000352" level="1" name="Stamina recovery" tooltipDescription="On an ongoing basis HP Recovery"/>
@@ -818,6 +826,8 @@
 	<key id="50000442" level="1" name="Spore Toxin" tooltipDescription="Poison damage each second\n30% reduction in movement speed"/>
 	<key id="50000444" level="1" name="Slow" tooltipDescription="Speed 40% reduction"/>
 	<key id="50000447" level="1" name="Poison" tooltipDescription="Poison damage each second\n50% reduction in movement speed"/>
+	<key id="50000449" level="1" name="Poison" tooltipDescription="Poison damage each second\nPoison damage to the surrounding fellow"/>
+	<key id="50000452" level="1" name="Bondage" tooltipDescription="Inability to move\nAfter a while the greater explosion."/>
 	<key id="50000500" level="1" name="Soul absorption" tooltipDescription="SP Consumption 50% y/y increase"/>
 	<key id="50000504" level="1" name="SP Sealed" tooltipDescription="SP Disabled"/>
 	<key id="50000505" level="1" name="SP Sealed" tooltipDescription="SP Disabled"/>
@@ -1083,6 +1093,8 @@
 	<key id="70000071" level="5" name="The shadow of death" tooltipDescription="A powerful darkness into the path of death, India.\n95% reduction in the amount of the recovery of the items and skills"/>
 	<key id="70000074" level="1" name="Confusion" tooltipDescription="I can't stand the spirit!\nContrary to the direction of the action and influence"/>
 	<key id="70000076" level="1" name="Deadly shadow of miasma" tooltipDescription="This land has been polluted in the shadows!\nPoison damage each second"/>
+	<key id="70000077" level="1" name="Deadly shadow of miasma" tooltipDescription="This land has been polluted in the shadows!\nPoison damage each second"/>
+	<key id="70000078" level="1" name="SP Sealed" tooltipDescription="SP Disabled"/>
 	<key id="81000001" level="1" name="Blue paint" tooltipDescription="It has been covered in paint"/>
 	<key id="81000031" level="1" name="An unidentified cucumber flavored cocktail" tooltipDescription="Takes on an intense aroma of cucumber"/>
 	<key id="81000051" level="1" name="Terry's sailing schedule" tooltipDescription="Will himself"/>
@@ -1277,6 +1289,8 @@
 	<key id="90000273" level="1" name="Christmas candy cane" tooltipDescription="Once every second HP 150 Recovery"/>
 	<key id="90000277" level="1" name="A proof of courage" tooltipDescription="(Normal) with the illusion that the frozen sanctuary, pyramid,\nBunker, black Smirnoff, from an abandoned wading pool\nPhysics/Magic damage increases by 10%"/>
 	<key id="90000278" level="1" name="Proof of Valor" tooltipDescription="(The captain's fortress, the Moonlight shadow chaos) Corps of the altar\n(Normal) Barra ska Ice Cave, blue shadow caves\nCasa del Luna, La Quinta Los, labyrinth of the rally from the party\nPhysics/Magic damage increases by 10%"/>
+	<key id="90000281" level="1" name="Magnet fish bait" tooltipDescription="Fishing game fishing equipment items to the probability of increased slightly"/>
+	<key id="90000282" level="1" name="Powerful magnet fish bait" tooltipDescription="Fishing game with a lot of increase in probability of equipment items fishing"/>
 	<key id="90001001" level="1" name="Tri at speed 5% y/y increase" tooltipDescription="Tri at speed 5% y/y increase"/>
 	<key id="90001002" level="1" name="The willingness of the struggle" tooltipDescription="HP In a battle between the players, increasing stiffness immune\nPvP The effects of calibration of equipment at which Chan Tran"/>
 	<key id="90001005" level="1" name="1Times" tooltipDescription="1Times"/>
@@ -1299,6 +1313,37 @@
 	<key id="90030572" level="1" name="The horns of the cart" tooltipDescription="Physics, magic damage increases 20"/>
 	<key id="90030581" level="1" name="Shot during 3 seconds as the probability increases to 15% move speed"/>
 	<key id="90030582" level="1" name="Cart of wings" tooltipDescription="Speed 15% y/y increase"/>
+	<key id="90030583" level="1" name="Increase the hit counter at 8"/>
+	<key id="90030584" level="1" name="Blood sacrifice 40% increase the duration of the"/>
+	<key id="90030585" level="1" name="8 percent increase in the amount of the recovery's Hill"/>
+	<key id="90030586" level="1" name="Preheat when using the jump effect blast increased less than 1 second"/>
+	<key id="90030587" level="1" name="At physical retaliation/Magic damage increased by 5%"/>
+	<key id="90030588" level="1" name="A total of eight seconds with a certain probability the strike: damage increased 6.6%"/>
+	<key id="90030589" level="1" name="VARs Kant horns" tooltipDescription="6.6% increase in the total damage"/>
+	<key id="90030590" level="1" name="Strike: chance to penetrate the 4.2% increase in power for eight seconds"/>
+	<key id="90030591" level="1" name="VARs Kant's wing" tooltipDescription="Penetrate the 4.2% increase in power"/>
+	<key id="90050511" level="1" name="The flames of hell meteorites : Immortal has evoked the flames of hell&#10;  To master the power of the weapon. Each successful attack &#10;  20% Chance to accumulate an aura of flame, the flame of the perky one per&#10;  Physical damage 3. If the five overlapping aura of flames&#10;  5 people off the flames of hell meteorites 247% damage&#10;  3Times the offense. Flame aura is accumulate only once every 7 seconds,&#10;  PVP Jurisdictions do not allow the effect does not apply."/>
+	<key id="90050531" level="1" name="The flames of hell meteorites : Immortal has evoked the flames of hell&#10;  To master the power of the weapon. Each successful attack &#10;  20% Chance to accumulate an aura of flame, the flame of the perky one per&#10;  Physical attack power rises 6. If the five overlapping aura of flames&#10;  5 people off the flames of hell meteorites 304% damage&#10;  3Times the offense. Flame aura is accumulate only once every 7 seconds,&#10;  PVP Jurisdictions do not allow the effect does not apply."/>
+	<key id="90050541" level="1" name="The flames of hell meteorites : Immortal has evoked the flames of hell&#10;  To master the power of the weapon. Each successful attack &#10;  20% Chance to accumulate an aura of flame, the flame of the perky one per&#10;  Magic damage 6. If the five overlapping aura of flames&#10;  5 people off the flames of hell meteorites 408% damage&#10;  3Times the offense. Flame aura is accumulate only once every 7 seconds,&#10;  PVP Jurisdictions do not allow the effect does not apply."/>
+	<key id="90050551" level="1" name="The flames of hell meteorites : Immortal has evoked the flames of hell&#10;  To master the power of the weapon. Each successful attack &#10;  20% Chance to accumulate an aura of flame, the flame of the perky one per&#10;  Magic damage 3. If the five overlapping aura of flames&#10;  5 people off the flames of hell meteorites 116% damage&#10;  3Times the offense. Flame aura is accumulate only once every 7 seconds,&#10;  PVP Jurisdictions do not allow the effect does not apply."/>
+	<key id="90050571" level="1" name="The flames of hell meteorites : Immortal has evoked the flames of hell&#10;  To master the power of the weapon. Each successful attack &#10;  20% Chance to accumulate an aura of flame, the flame of the perky one per&#10;  Physical attack power rises 6. If the five overlapping aura of flames&#10;  5 people off the flames of hell meteorites 355% damage&#10;  3Times the offense. Flame aura is accumulate only once every 7 seconds,&#10;  PVP Jurisdictions do not allow the effect does not apply."/>
+	<key id="90050581" level="1" name="The flames of hell meteorites : Immortal has evoked the flames of hell&#10;  To master the power of the weapon. Each successful attack &#10;  20% Chance to accumulate an aura of flame, the flame of the perky one per&#10;  Physical attack power rises 6. If the five overlapping aura of flames&#10;  5 people off the flames of hell meteorites 418% damage&#10;  3Times the offense. Flame aura is accumulate only once every 7 seconds,&#10;  PVP Jurisdictions do not allow the effect does not apply."/>
+	<key id="90050591" level="1" name="The flames of hell meteorites : Immortal has evoked the flames of hell&#10;  To master the power of the weapon. Each successful attack &#10;  20% Chance to accumulate an aura of flame, the flame of the perky one per&#10;  Physical damage 3. If the five overlapping aura of flames&#10;  5 people off the flames of hell meteorites 210% damage&#10;  3Times the offense. Flame aura is accumulate only once every 7 seconds,&#10;  PVP Jurisdictions do not allow the effect does not apply."/>
+	<key id="90050611" level="1" name="The flames of hell meteorites : Immortal has evoked the flames of hell&#10;  To master the power of the weapon. Each successful attack &#10;  20% Chance to accumulate an aura of flame, the flame of the perky one per&#10;  Physical damage 3. If the five overlapping aura of flames&#10;  5 people off the flames of hell meteorites 188% damage&#10;  3Times the offense. Flame aura is accumulate only once every 7 seconds,&#10;  PVP Jurisdictions do not allow the effect does not apply."/>
+	<key id="90050631" level="1" name="The flames of hell meteorites : Immortal has evoked the flames of hell&#10;  To master the power of the weapon. Each successful attack &#10;  20% Chance to accumulate an aura of flame, the flame of the perky one per&#10;  Physical attack power rises 6. If the five overlapping aura of flames&#10;  5 people off the flames of hell meteorites 510% damage&#10;  3Times the offense. Flame aura is accumulate only once every 7 seconds,&#10;  PVP Jurisdictions do not allow the effect does not apply."/>
+	<key id="90050512" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
+	<key id="90050522" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
+	<key id="90050532" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
+	<key id="90050542" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
+	<key id="90050552" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
+	<key id="90050562" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
+	<key id="90050572" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
+	<key id="90050582" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
+	<key id="90050592" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
+	<key id="90050602" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
+	<key id="90050612" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
+	<key id="90050622" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
+	<key id="90050632" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
 	<key id="90050001" level="1" name="Batting: 8.0% chance to add flame to damage (PvP : Effects of the opposition)"/>
 	<key id="90050011" level="1" name="Batting: 8.0% chance to add a chill to the damage (PvP : Effects of the opposition)"/>
 	<key id="90050021" level="1" name="Batting: 8.0% chance to add darkness damage (PvP : Effects of the opposition)"/>
@@ -1335,6 +1380,7 @@
 	<key id="90050261" level="1" name="With a chance at hitting the 8 percent after 30 seconds of inactivity, the physical/Magical attack 22% y/y increase"/>
 	<key id="90050271" level="1" name="With a chance at hitting the 8 percent after 30 seconds of inactivity, the physical/Magical attack power increases 11%"/>
 	<key id="90050283" level="1" name="With a chance at hitting the 8 percent after 30 seconds of inactivity, the physical/Magical attack power increases 11%"/>
+	<key id="90050291" level="1" name="With a chance at hitting the 8 percent after 30 seconds of inactivity, the physical/Magical attack 22% y/y increase"/>
 	<key id="90050212" level="1" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magic damage 17% y/y increase"/>
 	<key id="90050222" level="1" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magical attack 22% y/y increase"/>
 	<key id="90050232" level="1" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magical attack 22% y/y increase"/>
@@ -1345,6 +1391,7 @@
 	<key id="90050274" level="2" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magical attack 22% y/y increase"/>
 	<key id="90050284" level="1" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magical attack power increases 11%"/>
 	<key id="90050284" level="2" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magical attack 22% y/y increase"/>
+	<key id="90050292" level="1" name="Physics/Magical attack power increases" tooltipDescription="Physics/Magical attack 22% y/y increase"/>
 	<key id="90050311" level="1" name="Holly strike cooldown, SP 50% reduction in the consumption of"/>
 	<key id="90050312" level="1" name="Holly strike damage increased 19%"/>
 	<key id="90050313" level="1" name="Holly strike damage increased 19%"/>
@@ -1445,6 +1492,9 @@
 	<key id="91000071" level="1" name="Booby trap hit the target to 1.5 seconds stun effects"/>
 	<key id="91000072" name="Stunned" tooltipDescription="Acting stunned wonderment"/>
 	<key id="91000091" level="1" name="Alter ego:Shadow hit target hits the Web, evading 6 reduction"/>
+	<key id="98000001" level="1" name="The power of solidarity" tooltipDescription="Get the power of springing a solid friend.\nPhysics, magic attack power 5 increase"/>
+	<key id="98000011" level="1" name="Light step" tooltipDescription="By the power of the mysterious pet steps lighter.\nThe character's movement speed 5% y/y increase"/>
+	<key id="98000021" level="1" name="Unshakable faith" tooltipDescription="The eyes of a character and pet of the lanterns glow lanterns.\n3 increase of character"/>
 	<key id="99900041" level="1" name="Dirt" tooltipDescription="Garbage pollutes a body built to write upside down\n70% reduction in movement speed"/>
 	<key id="99900051" level="1" name="Gas poisoning" tooltipDescription="Lost the spirit to the toxic fumes\nActing stunned wonderment"/>
 	<key id="99900061" level="1" name="Waste poisoning" tooltipDescription="Have been exposed to hazardous waste\nPoison damage each second"/>

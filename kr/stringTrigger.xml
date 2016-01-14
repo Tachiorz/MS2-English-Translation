@@ -1011,6 +1011,12 @@
 	<key id="02000353_BF__MAIN__3" name="Deep intense echo."/>
 	<key id="02000353_BF__MAIN__4" name="Deep intense echo."/>
 	<key id="02000354_BF__MAIN__1" name="Blue shadow caves  : Shu shu and booth"/>
+	<key id="02000355_BF__MAIN__0" name="EW yuck ... Did not end yet.\nThe roots of the darkness will devour you guys!"/>
+	<key id="02000355_BF__MAIN__1" name="The seed of darkness ... New roots again someday ... Will make ..."/>
+	<key id="02010049_BF__MAIN01__0" name="An abandoned wading pool : A new beginning in the fight against bugs"/>
+	<key id="02010051_BF__PORTAL03__0" name="That they used in the Dim light of ggas darkness seems to be gone!"/>
+	<key id="02010051_BF__PORTAL06__0" name="Stupid light's henchmen are flocking here. The day after ..."/>
+	<key id="02010051_BF__PORTAL06__1" name="Yes guys this feeble light of the labyrinth can leave?\nOnce for 'em ..."/>
 	<key id="02010052_BF__BOSS__0" name="You what the hell? Why not come along to me?!"/>
 	<key id="02010052_BF__BOSS__1" name="Come to the crossroads fire ice melt."/>
 	<key id="02010052_BF__BOSS__2" name="Ah, confused. No longer ... Do not ...!"/>
@@ -1039,6 +1045,14 @@
 	<key id="02010052_BF__TORCHLIGHT_05__2" name="Come malran! do not come."/>
 	<key id="02010052_BF__TORCHLIGHT_06__0" name="Come to the crossroads fire ice melt."/>
 	<key id="02010052_BF__BOSS__8" name="I rock da ... Can't.\nWere brought to mind can't walk like this anymore ...!"/>
+	<key id="02010054_BF__GUIDE_01__0" name="Graz I have been able to reach.\nSafely undo your body to move back."/>
+	<key id="02010054_BF__MAIN__0" name="Dungeon goal : Graz I aid"/>
+	<key id="02010054_BF__MAIN__1" name="Graz I have been able to reach.\nSafely undo your body to move back."/>
+	<key id="02010054_BF__MAIN__2" name="Mission success!"/>
+	<key id="02010055_BF__SCENE01__0" name="The cheeky things ... Dare Ka le dabble in lame of ...!"/>
+	<key id="02010055_BF__SCENE02__0" name="Thank you! While dealing with your vars Kant lost and found stone lame!"/>
+	<key id="02010055_BF__SCENE02__1" name="Star hearts! Personnel at a later time.\nIn a hurry to get back!"/>
+	<key id="02010055_BF__SCENE02__2" name="Yes. Once here, let's go!"/>
 	<key id="02010069_BF__MAIN__1" name="You're really stupid. Not so easily deceived ..."/>
 	<key id="02010069_BF__MAIN__2" name="So, I say. I really didn't know through the ..."/>
 	<key id="02010069_BF__MAIN__3" name="Anyway, dedicated to offering a quiet for a while ..."/>
@@ -1111,7 +1125,6 @@
 	<key id="52000002_QD__STAGE01__0" name="All the broken fence repair."/>
 	<key id="52000002_QD__STAGE02__0" name="Good rescue all of them."/>
 	<key id="52000002_QD__STAGE03__0" name="Jump to the right."/>
-	
 	<key id="52000003_QD__KATVAN_01__0" name="Cart and a half!! Now all done!"/>
 	<key id="52000003_QD__KATVAN_01__1" name="Lennon ...!! Do not think that this is the end!"/>
 	<key id="52000003_QD__KATVAN_01__2" name="Not necessarily back to Board ... I'll say extract!"/>
@@ -1130,17 +1143,10 @@
 	<key id="52000004_QD__MASSEGE__3" name="Elevator ride\n2Went up to the ground floor."/>
 	<key id="52000004_QD__MASSEGE__4" name="If you step on a brick floor\nBroken, please be careful."/>
 	<key id="52000004_QD__MASSEGE__5" name="Be careful with these hungry honey honey.\nLet's briefly put down the pizza, Christchurch, New Zealand."/>
-	<key id="52000005_QD__01_MAIN__0" name="Goal : Chickens to the rescue!!"/>
-	<key id="52000005_QD__03_OBJECT__0" name="[Flying balloons]Using the crossing."/>
-	<key id="52000005_QD__04_OBJECT__0" name="[Flying balloons]Using the crossing."/>
-	<key id="52000005_QD__BATTLEZONE_01__0" name="Rescued chickens by attacking a chicken coop."/>
-	<key id="52000005_QD__BATTLEZONE_01__1" name="Then you can move into the area."/>
-	<key id="52000005_QD__BATTLEZONE_02__0" name="Then you can move into the area."/>
-	<key id="52000005_QD__BATTLEZONE_03__0" name="Then you can move into the area."/>
-	<key id="52000005_QD__BATTLEZONE_04__0" name="Then you can move into the area."/>
-	<key id="52000005_QD__BOSSBATTLE_01__0" name="Agate aid to rescue the chicken!!"/>
-	<key id="52000005_QD__BOSSBATTLE_01__1" name="All the chickens to the rescue!"/>
-	<key id="52000005_QD__BOSSGATE__0" name="Climb up the ladder."/>
+	<key id="52000005_QD__ACT01__0" name="Oh, you came up with? This is bonito pleasure. Huh huh huh!"/>
+	<key id="52000005_QD__ACT01__1" name="Come on osige. I too delightful. Ah, glad you're the directions!"/>
+	<key id="52000005_QD__ACT01__2" name="It is all here today, I have just heard of this shrine, to say so."/>
+	<key id="52000005_QD__ACT01__3" name="But not long ago, Rumi Eragon a Messenger sent by the elders of Layla came to me.\nKen was born in light of de la IM disappeared and a descendant ..."/>
 	<key id="52000006_QD__CONGRATULATION__0" name="Congrats~!!"/>
 	<key id="52000006_QD__CONGRATULATION__1" name="Whoa! I guess the jackpot!!"/>
 	<key id="52000006_QD__EXIT__0" name="Congratulations.\nThe prize is offered by the Rev blessed with."/>
@@ -1160,14 +1166,12 @@
 	<key id="52000012_QD__MAIN__4" name="AW ... Bella!! No!!"/>
 	<key id="52000013_QD__MAIN__1" name="Here, here~"/>
 	<key id="52000013_QD__MAIN__2" name="Come, come on~"/>	
-	<key id="52000014_QD__EVENT1__0" name="Some of the contaminated land clarification."/>
-	<key id="52000014_QD__EVENT2__0" name="Some of the contaminated land clarification."/>
-	<key id="52000014_QD__EVENT3__0" name="Some of the contaminated land clarification."/>
-	<key id="52000014_QD__EVENT4__0" name="Some of the contaminated land clarification."/>
-	<key id="52000014_QD__MAIN__0" name="Contaminated enemies aid."/>
-	<key id="52000014_QD__MAIN__1" name="Nord-Caxias is communicable. Nord-Caxias to church!"/>
-	<key id="52000014_QD__MAIN__2" name="Mission success!"/>
-	<key id="52000014_QD__MAIN__3" name="Contaminated land is found to cleanse the air."/>
+	<key id="52000014_QD__COLLAPSE_2000__0" name="The speed of the rock's feet in hopes of getting her hot flame.\nLava lava terrain open and crashing, please be careful."/>
+	<key id="52000014_QD__COLLAPSE_2800__0" name="Rush, rush, rush!\nFeet of rock will be strengthened space trying to tumble."/>
+	<key id="52000014_QD__COLLAPSE_2900__0" name="Feet deep, in hopes of getting the rock of immortality's flame is reached!"/>
+	<key id="52000014_QD__COLLAPSE_2900__1" name="Feet of rock in hopes of getting into the vessel.\nFoot rock collapsed while moving along the way."/>
+	<key id="52000014_QD__COLLAPSE_2900__2" name="Immortality's flame in the midst of the foot you put weapons of blinking\nOpen arms in curse hot melt."/>
+	<key id="52000014_QD__COLLAPSE_2900__3" name="Once you put in your weapons cannot be reversed amid the flames,\nThe foot completely from the curse of you can get a stronger weapon.\nGained through the process and take the powerful weapon,."/>
 	<key id="52000015_QD__TUTORIAL03__0" name="Keep in mind ... As of now there is only one moment in the room should not be afflicted!"/>
 	<key id="52000015_QD__TUTORIAL03__1" name="Izu la, Dalt, rie Ishikawa, Kam ... See also showed up well live, etc.\nThe brothers never turns all along the Horseshoe tart just have betrayed?"/>
 	<key id="52000015_QD__TUTORIAL03__2" name="We have already agreed with the tart and mean Horseshoe.\nNow no longer seems to be to say to each other!"/>
@@ -1259,9 +1263,48 @@
 	<key id="52010003_QD__MAIN__10" name="MU ... Ehh, I do not know what I'm saying is that one!"/>
 	<key id="52010003_QD__MAIN__11" name="My mom ... Mom why ...!!"/>
 	<key id="52010003_QD__MAIN__12" name="I'm going to go back right now, because I'm going to go back to de la Ken!"/>
+	<key id="52010004_QD__BATTLE01__0" name="WH. .. What the Hey, you!\nWho is Bo ... Boy did it? "/>
+	<key id="52010004_QD__BATTLE01__1" name="A. .. Air squat ... More ... Bring it on! I ... I became a river ...!!"/>
+	<key id="52010004_QD__BATTLE01__2" name="My ... I am more ... Bigger and stronger and more ... Three more!!"/>
+	<key id="52010005_QD__ACT01__0" name="Come on, come on"/>
+	<key id="52010005_QD__ACT01__1" name="I have been waiting for"/>
+	<key id="52010005_QD__ACT01__2" name="A. .. EH LAT ... This is my sister ... In the future ... Do not look at ..."/>
+	<key id="52010005_QD__ACT02__0" name="A. .. Come! Waited for ages! Things got done?"/>
+	<key id="52010005_QD__ACT02__1" name="Marcia Le sister waiting. Come on bring it!"/>
+	<key id="52010005_QD__ACT03__0" name="Mom ... Mom ... "/>
+	<key id="52010005_QD__ACT03__1" name="Mika ... I felt my mother's appearance ..."/>
+	<key id="52010005_QD__ACT03__2" name="I remember my mom left ... You'll find ... Not necessarily!"/>
+	<key id="52010006_QD__MAIN__0" name="!!! I don't have the time!\nThat the power to fix the whole thing on top of the altar says!"/>
+	<key id="52010006_QD__MAIN__1" name="After the example of the last light more ... The day after ...\nSo stupid ..."/>
+	<key id="52010006_QD__MAIN__2" name="La mer stone now we will of Carmina. The day after ..."/>
+	<key id="52010006_QD__MAIN__3" name="Mika!!!"/>
+	<key id="52010006_QD__MAIN__4" name="Da man! This annoying ones ..."/>
+	<key id="52010006_QD__MAIN__5" name="Eight! Stupid human subjects\nDare Ka le goneul thing braid ..."/>
+	<key id="52010006_QD__MAIN__6" name="Someday will regret the day will come."/>
+	<key id="52010006_QD__MAIN__7" name="It's a good thing ... Mika Musa year"/>
+	<key id="52010006_QD__MAIN__8" name="Though many seem exhausted\nOnce you'll have to take some rest."/>
+	<key id="52010006_QD__MAIN__9" name="Mika we take.\nYou my dear, go tell a bit of a situation."/>
+	<key id="52010007_QD__MAIN__0" name="Me ... Find us on a map ...\nThis is what having a torn ... What about?"/>
+	<key id="52010007_QD__MAIN__1" name="Here's a map to the rest of the torn part of the already submitted by the hero to find.\nWhere ... I guess one time, as the torn part?"/>
+	<key id="52010007_QD__MAIN__2" name="I ... I guess I'm going to try!"/>
+	<key id="52010007_QD__MAIN__3" name="So ... ... Or not ...?"/>
+	<key id="52010007_QD__MAIN__4" name="Kids ... Gimme!"/>
+	<key id="52010007_QD__MAIN__5" name="Parish ... Nazca Le nave! Lou Obelisk entrance!\nThe main hall! Quickly find that stone lame!"/>
+	<key id="52010007_QD__MAIN__6" name="-Based bar! Vikram jump!"/>
+	<key id="52010007_QD__MAIN__7" name="Ooh huh huh huh ... Go together~"/>
+	<key id="52010007_QD__MAIN__8" name="La mer comes out of the moment, Lou stone Obelisk\nHere, again, the sanctuary of light disappear into the darkness."/>
+	<key id="52010007_QD__MAIN__9" name="If you find a stone lame Kar Kar come to the Embassy.\nMika waiting with."/>
+	<key id="52010008_QD__CATCHJAILBREAKER01__0" name="Bah! Was hiding here!\nHere comes the thought not to be caught away?"/>
+	<key id="52010008_QD__CATCHJAILBREAKER01__1" name="We tried the jailbreak from Iran that Al Ricardo liver week!"/>
+	<key id="52010008_QD__CATCHJAILBREAKER01__2" name="Your sins are asking after the convoy back to Al Ricardo!"/>
 	<key id="52010009_QD__MAIN__0" name="Dangerously close, but this is great thanks again."/>
 	<key id="52010009_QD__MAIN__1" name="Phew .... Did take a decade."/>
 	<key id="52010009_QD__MAIN__2" name="The district .... What's the big deal were scared the crap out of me."/>
+	<key id="52010011_QD__ACT01__0" name="I'm sorry, I'm sorry! I have a lot of late?"/>
+	<key id="52010011_QD__ACT01__1" name="Out there will tell you that kid got a while back here had more late Loraine ..."/>
+	<key id="52010011_QD__ACT01__2" name="Ah ...\nNo ...\nThis boy!!"/>
+	<key id="52010011_QD__ACT01__3" name="I came here!\nI'm starting right now!"/>
+	<key id="52010011_QD__ACT01__4" name="Now, the gridlock?"/>
 	<key id="52010013_QD__MAIN__0" name="Hey guys, this guy was a success!"/>
 	<key id="52010013_QD__MAIN__1" name="Tara is in the eye of the beholder only write quite a bit of people."/>
 	<key id="52010013_QD__MAIN__2" name="What the heck? Olivia is a BRO?"/>

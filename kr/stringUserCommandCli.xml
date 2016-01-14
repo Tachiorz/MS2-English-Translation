@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ms2>
+	<key id="Search" name="s_searchmaview"/>
+	<key id="search" name="s_searchmaview"/>
+	
+	<key id="GuildInvite" name="s_guildinvite"/>
+	<key id="GInvite" name="s_guildinvite"/>
+	<key id="Guild invite" name="s_guildinvite"/>
+	
+	<key id="GuildLeave" name="s_guildleave"/>
+	<key id="GLeave" name="s_guildleave"/>
+	<key id="Guild withdrawal" name="s_guildleave"/>
+	
+	<key id="Entitlement" name="s_title"/>
+</ms2>

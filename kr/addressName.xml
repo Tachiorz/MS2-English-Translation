@@ -81,22 +81,33 @@
 	<address mapcode="02000119" blockCode="3" blockNameKor="비드블라임 로드" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000119" blockCode="4" blockNameKor="스톤월" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000119" blockCode="5" blockNameKor="럭셔리 아파트 모델하우스" blockModifierKor="" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900024" blockCode="1" blockNameKor="로얄 아파트 1단지 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900025" blockCode="2" blockNameKor="로얄 아파트 1단지 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900026" blockCode="3" blockNameKor="로얄 아파트 2단지 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900027" blockCode="4" blockNameKor="로얄 아파트 2단지 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900028" blockCode="5" blockNameKor="로얄 아파트 2단지 3동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900029" blockCode="6" blockNameKor="로얄 아파트 2단지 4동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900030" blockCode="7" blockNameKor="로얄 아파트 3단지 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900024" blockCode="1" blockNameKor="로얄 아파트 1단지 1동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900024" blockCode="2" blockNameKor="로얄 아파트 1단지 1동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900025" blockCode="1" blockNameKor="로얄 아파트 1단지 2동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900025" blockCode="2" blockNameKor="로얄 아파트 1단지 2동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900026" blockCode="1" blockNameKor="로얄 아파트 2단지 1동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900026" blockCode="2" blockNameKor="로얄 아파트 2단지 1동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900027" blockCode="1" blockNameKor="로얄 아파트 2단지 2동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900027" blockCode="2" blockNameKor="로얄 아파트 2단지 2동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900028" blockCode="1" blockNameKor="로얄 아파트 2단지 3동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900028" blockCode="2" blockNameKor="로얄 아파트 2단지 3동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900029" blockCode="1" blockNameKor="로얄 아파트 2단지 4동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900029" blockCode="2" blockNameKor="로얄 아파트 2단지 4동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900030" blockCode="1" blockNameKor="로얄 아파트 3단지 1동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900030" blockCode="2" blockNameKor="로얄 아파트 3단지 1동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900031" blockCode="8" blockNameKor="로얄 아파트 3단지 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900032" blockCode="9" blockNameKor="로얄 아파트 3단지 3동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900032" blockCode="1" blockNameKor="로얄 아파트 3단지 3동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900032" blockCode="2" blockNameKor="로얄 아파트 3단지 3동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000166" blockCode="1" blockNameKor="노르 아일랜드 해변길" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000166" blockCode="2" blockNameKor="쉐더 아일랜드 푸카비치" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000166" blockCode="3" blockNameKor="노르 아일랜드 개발지구" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000166" blockCode="4" blockNameKor="프레스토 공동주택" blockModifierKor="단지" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900033" blockCode="1" blockNameKor="노르 아파트 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900034" blockCode="2" blockNameKor="노르 아파트 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900035" blockCode="3" blockNameKor="노르 아파트 3동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900033" blockCode="1" blockNameKor="노르 아파트 1동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900033" blockCode="2" blockNameKor="노르 아파트 1동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900034" blockCode="1" blockNameKor="노르 아파트 2동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900034" blockCode="2" blockNameKor="노르 아파트 2동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900035" blockCode="1" blockNameKor="노르 아파트 3동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900035" blockCode="2" blockNameKor="노르 아파트 3동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000143" blockCode="1" blockNameKor="벌목지" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000143" blockCode="2" blockNameKor="남쪽길" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000143" blockCode="3" blockNameKor="울타리길" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
@@ -110,11 +121,16 @@
 	<address mapcode="02000092" blockCode="3" blockNameKor="앙드레아 콘도" blockModifierKor="" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000092" blockCode="4" blockNameKor="늘푸른 마을" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000092" blockCode="5" blockNameKor="럭셔리 아파트 모델하우스" blockModifierKor="" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900016" blockCode="1" blockNameKor="오션 뷰 콘도 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900017" blockCode="2" blockNameKor="오션 뷰 콘도 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900018" blockCode="3" blockNameKor="레드 크래비 콘도" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900019" blockCode="4" blockNameKor="그린 터틀 콘도 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900020" blockCode="5" blockNameKor="그린 터틀 콘도 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900016" blockCode="1" blockNameKor="오션 뷰 콘도 1동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900016" blockCode="2" blockNameKor="오션 뷰 콘도 1동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900017" blockCode="1" blockNameKor="오션 뷰 콘도 2동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900017" blockCode="2" blockNameKor="오션 뷰 콘도 2동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900018" blockCode="1" blockNameKor="레드 크래비 콘도 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900018" blockCode="2" blockNameKor="레드 크래비 콘도 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900019" blockCode="1" blockNameKor="그린 터틀 콘도 1동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900019" blockCode="2" blockNameKor="그린 터틀 콘도 1동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900020" blockCode="1" blockNameKor="그린 터틀 콘도 2동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900020" blockCode="2" blockNameKor="그린 터틀 콘도 2동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000174" blockCode="1" blockNameKor="생존 마을" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000088" blockCode="1" blockNameKor="그리프 나무 꼭대기" blockModifierKor="" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000088" blockCode="2" blockNameKor="앙드레아 길" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
@@ -138,36 +154,60 @@
 	<address mapcode="02000084" blockCode="2" blockNameKor="반지하" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000043" blockCode="1" blockNameKor="동굴 오두막" blockModifierKor="" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000043" blockCode="2" blockNameKor="설인족 오두막" blockModifierKor="" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900001" blockCode="1" blockNameKor="메이플 오피스텔" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900002" blockCode="1" blockNameKor="브라운 아파트 A동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900003" blockCode="1" blockNameKor="브라운 아파트 B동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900001" blockCode="1" blockNameKor="메이플 오피스텔 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900001" blockCode="2" blockNameKor="메이플 오피스텔 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900002" blockCode="1" blockNameKor="브라운 아파트 A동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900002" blockCode="2" blockNameKor="브라운 아파트 A동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900003" blockCode="1" blockNameKor="브라운 아파트 B동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900003" blockCode="2" blockNameKor="브라운 아파트 B동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000022" blockCode="1" blockNameKor="레이크 하우스" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000045" blockCode="1" blockNameKor="뼈다리 움막집" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000053" blockCode="1" blockNameKor="작은 잎새 마을" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000053" blockCode="2" blockNameKor="큰나무집" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000112" blockCode="1" blockNameKor="바움 하우스" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900009" blockCode="1" blockNameKor="반우드 빌라 A동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900010" blockCode="1" blockNameKor="반우드 빌라 B동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900011" blockCode="1" blockNameKor="반우드 빌라 C동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900012" blockCode="1" blockNameKor="반우드 빌라 D동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900013" blockCode="1" blockNameKor="에딩턴 빌라 A동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900014" blockCode="1" blockNameKor="에딩턴 빌라 B동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900015" blockCode="1" blockNameKor="에딩턴 빌라 C동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900009" blockCode="1" blockNameKor="반우드 빌라 A동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900009" blockCode="2" blockNameKor="반우드 빌라 A동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900010" blockCode="1" blockNameKor="반우드 빌라 B동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900010" blockCode="2" blockNameKor="반우드 빌라 B동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900011" blockCode="1" blockNameKor="반우드 빌라 C동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900011" blockCode="2" blockNameKor="반우드 빌라 C동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900012" blockCode="1" blockNameKor="반우드 빌라 D동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900012" blockCode="2" blockNameKor="반우드 빌라 D동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900013" blockCode="1" blockNameKor="에딩턴 빌라 A동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900013" blockCode="2" blockNameKor="에딩턴 빌라 A동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900014" blockCode="1" blockNameKor="에딩턴 빌라 B동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900014" blockCode="2" blockNameKor="에딩턴 빌라 B동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900014" blockCode="3" blockNameKor="에딩턴 빌라 B동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900015" blockCode="1" blockNameKor="에딩턴 빌라 C동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900015" blockCode="2" blockNameKor="에딩턴 빌라 C동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900015" blockCode="3" blockNameKor="에딩턴 빌라 C동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900021" blockCode="1" blockNameKor="꽃여울 펜션" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900022" blockCode="1" blockNameKor="그린빌 스파 펜션" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900022" blockCode="1" blockNameKor="그린빌 스파 펜션 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900022" blockCode="2" blockNameKor="그린빌 스파 펜션 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900023" blockCode="1" blockNameKor="앙드레아 콘도" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900036" blockCode="1" blockNameKor="스윗홈 고시원 1호점" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900037" blockCode="1" blockNameKor="스윗홈 고시원 2호점" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900038" blockCode="1" blockNameKor="이스트사이드 해피빌라 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900038" blockCode="2" blockNameKor="이스트사이드 해피빌라 1동 지하" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900039" blockCode="1" blockNameKor="이스트사이드 해피빌라 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900039" blockCode="2" blockNameKor="이스트사이드 해피빌라 2동 지하" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900040" blockCode="1" blockNameKor="이스트사이드 마르코 빌라" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900041" blockCode="1" blockNameKor="럭셔리 스위밍풀 맨션 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900042" blockCode="1" blockNameKor="럭셔리 스위밍풀 맨션 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900043" blockCode="1" blockNameKor="마리나 오피스텔" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900044" blockCode="1" blockNameKor="바로타 빌라" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900044" blockCode="2" blockNameKor="바로타 빌라 지하" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900036" blockCode="1" blockNameKor="스윗홈 고시원 1호점 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900036" blockCode="2" blockNameKor="스윗홈 고시원 1호점 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900037" blockCode="1" blockNameKor="스윗홈 고시원 2호점 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900037" blockCode="2" blockNameKor="스윗홈 고시원 2호점 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900038" blockCode="1" blockNameKor="이스트사이드 해피빌라 1동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900038" blockCode="2" blockNameKor="이스트사이드 해피빌라 1동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900038" blockCode="3" blockNameKor="이스트사이드 해피빌라 1동 지하" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900039" blockCode="1" blockNameKor="이스트사이드 해피빌라 2동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900039" blockCode="2" blockNameKor="이스트사이드 해피빌라 2동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900039" blockCode="3" blockNameKor="이스트사이드 해피빌라 2동 지하" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900040" blockCode="1" blockNameKor="이스트사이드 마르코 빌라 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900040" blockCode="2" blockNameKor="이스트사이드 마르코 빌라 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900041" blockCode="1" blockNameKor="럭셔리 스위밍풀 맨션 1동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900041" blockCode="2" blockNameKor="럭셔리 스위밍풀 맨션 1동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900041" blockCode="3" blockNameKor="럭셔리 스위밍풀 맨션 1동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900042" blockCode="1" blockNameKor="럭셔리 스위밍풀 맨션 2동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900042" blockCode="2" blockNameKor="럭셔리 스위밍풀 맨션 2동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900042" blockCode="3" blockNameKor="럭셔리 스위밍풀 맨션 2동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900043" blockCode="1" blockNameKor="마리나 오피스텔 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900043" blockCode="2" blockNameKor="마리나 오피스텔 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900044" blockCode="1" blockNameKor="바로타 빌라 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900044" blockCode="2" blockNameKor="바로타 빌라 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900044" blockCode="3" blockNameKor="바로타 빌라 지하" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000172" blockCode="1" blockNameKor="달빛 나무 꼭대기" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000024" blockCode="1" blockNameKor="통나무 향기 로드" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000024" blockCode="2" blockNameKor="통나무 그림자 로드" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
@@ -181,23 +221,59 @@
 	<address mapcode="02000170" blockCode="1" blockNameKor="레드풋 텐트" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000171" blockCode="1" blockNameKor="코로와이 오두막" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000048" blockCode="1" blockNameKor="조사단 캠프" blockModifierKor="" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900049" blockCode="1" blockNameKor="피그밍그 공동주택" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900050" blockCode="1" blockNameKor="나메드 연립주택 가동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900051" blockCode="1" blockNameKor="나메드 연립주택 나동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900052" blockCode="1" blockNameKor="무르파고스 연립주택 가동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900053" blockCode="1" blockNameKor="무르파고스 연립주택 나동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900054" blockCode="1" blockNameKor="가막새 공동주택 가동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900055" blockCode="1" blockNameKor="가막새 공동주택 나동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900056" blockCode="1" blockNameKor="가막새 공동주택 다동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900057" blockCode="1" blockNameKor="가막새 공동주택 라동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900058" blockCode="1" blockNameKor="오르네 아파트 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900059" blockCode="1" blockNameKor="오르네 아파트 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900060" blockCode="1" blockNameKor="페어리 콘도" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900061" blockCode="1" blockNameKor="트윙클 아파트 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900062" blockCode="1" blockNameKor="트윙클 아파트 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900063" blockCode="1" blockNameKor="트윙클 아파트 3동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900064" blockCode="1" blockNameKor="푸른 요정의 공동주택 A동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900065" blockCode="1" blockNameKor="푸른 요정의 공동주택 B동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900049" blockCode="1" blockNameKor="피그밍그 공동주택 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900049" blockCode="2" blockNameKor="피그밍그 공동주택 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900049" blockCode="3" blockNameKor="피그밍그 공동주택 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900049" blockCode="4" blockNameKor="피그밍그 공동주택 D타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900049" blockCode="5" blockNameKor="피그밍그 공동주택 E타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900050" blockCode="1" blockNameKor="나메드 연립주택 가동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900050" blockCode="2" blockNameKor="나메드 연립주택 가동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900050" blockCode="3" blockNameKor="나메드 연립주택 가동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900051" blockCode="1" blockNameKor="나메드 연립주택 나동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900051" blockCode="2" blockNameKor="나메드 연립주택 나동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900051" blockCode="3" blockNameKor="나메드 연립주택 나동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900052" blockCode="1" blockNameKor="무르파고스 연립주택 가동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900052" blockCode="2" blockNameKor="무르파고스 연립주택 가동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900052" blockCode="3" blockNameKor="무르파고스 연립주택 가동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900053" blockCode="1" blockNameKor="무르파고스 연립주택 나동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900053" blockCode="2" blockNameKor="무르파고스 연립주택 나동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900053" blockCode="3" blockNameKor="무르파고스 연립주택 나동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900054" blockCode="1" blockNameKor="가막새 공동주택 가동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900054" blockCode="2" blockNameKor="가막새 공동주택 가동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900054" blockCode="3" blockNameKor="가막새 공동주택 가동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900054" blockCode="4" blockNameKor="가막새 공동주택 가동 D타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900054" blockCode="5" blockNameKor="가막새 공동주택 가동 E타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900055" blockCode="1" blockNameKor="가막새 공동주택 나동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900055" blockCode="2" blockNameKor="가막새 공동주택 나동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900055" blockCode="3" blockNameKor="가막새 공동주택 나동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900055" blockCode="4" blockNameKor="가막새 공동주택 나동 D타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900055" blockCode="5" blockNameKor="가막새 공동주택 나동 E타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900056" blockCode="1" blockNameKor="가막새 공동주택 다동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900056" blockCode="2" blockNameKor="가막새 공동주택 다동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900056" blockCode="3" blockNameKor="가막새 공동주택 다동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900056" blockCode="4" blockNameKor="가막새 공동주택 다동 D타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900056" blockCode="5" blockNameKor="가막새 공동주택 다동 E타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900057" blockCode="1" blockNameKor="가막새 공동주택 라동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900057" blockCode="2" blockNameKor="가막새 공동주택 라동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900057" blockCode="3" blockNameKor="가막새 공동주택 라동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900057" blockCode="4" blockNameKor="가막새 공동주택 라동 D타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900057" blockCode="5" blockNameKor="가막새 공동주택 라동 E타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900058" blockCode="1" blockNameKor="오르네 아파트 1동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900058" blockCode="2" blockNameKor="오르네 아파트 1동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900059" blockCode="1" blockNameKor="오르네 아파트 2동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900059" blockCode="2" blockNameKor="오르네 아파트 2동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900060" blockCode="1" blockNameKor="페어리 콘도 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900060" blockCode="2" blockNameKor="페어리 콘도 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900061" blockCode="1" blockNameKor="트윙클 아파트 1동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900061" blockCode="2" blockNameKor="트윙클 아파트 1동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900062" blockCode="1" blockNameKor="트윙클 아파트 2동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900062" blockCode="2" blockNameKor="트윙클 아파트 2동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900063" blockCode="1" blockNameKor="트윙클 아파트 3동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900063" blockCode="2" blockNameKor="트윙클 아파트 3동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900064" blockCode="1" blockNameKor="푸른 요정의 공동주택 A동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900064" blockCode="2" blockNameKor="푸른 요정의 공동주택 A동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900065" blockCode="1" blockNameKor="푸른 요정의 공동주택 B동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900065" blockCode="2" blockNameKor="푸른 요정의 공동주택 B동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900066" blockCode="1" blockNameKor="아네스 빌라 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900067" blockCode="1" blockNameKor="아네스 빌라 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900068" blockCode="1" blockNameKor="그린헌트 빌라" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
@@ -205,14 +281,22 @@
 	<address mapcode="02900070" blockCode="1" blockNameKor="스프링 브리즈 2번지" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900071" blockCode="1" blockNameKor="스프링 브리즈 3번지" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900072" blockCode="1" blockNameKor="아네스 빌라 3동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900073" blockCode="1" blockNameKor="팀버룩 빌라 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900074" blockCode="1" blockNameKor="팀버룩 빌라 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900075" blockCode="1" blockNameKor="팀버룩 빌라 3동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900076" blockCode="1" blockNameKor="엘린 빌라 A동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900077" blockCode="1" blockNameKor="엘린 빌라 B동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900078" blockCode="1" blockNameKor="엘린 빌라 C동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900079" blockCode="1" blockNameKor="트리 라이프 A동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900080" blockCode="1" blockNameKor="트리 라이프 B동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900073" blockCode="1" blockNameKor="팀버룩 빌라 1동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900073" blockCode="2" blockNameKor="팀버룩 빌라 1동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900074" blockCode="1" blockNameKor="팀버룩 빌라 2동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900074" blockCode="2" blockNameKor="팀버룩 빌라 2동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900075" blockCode="1" blockNameKor="팀버룩 빌라 3동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900075" blockCode="2" blockNameKor="팀버룩 빌라 3동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900076" blockCode="1" blockNameKor="엘린 빌라 A동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900076" blockCode="2" blockNameKor="엘린 빌라 A동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900077" blockCode="1" blockNameKor="엘린 빌라 B동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900077" blockCode="2" blockNameKor="엘린 빌라 B동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900078" blockCode="1" blockNameKor="엘린 빌라 C동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900078" blockCode="2" blockNameKor="엘린 빌라 C동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900079" blockCode="1" blockNameKor="트리 라이프 A동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900079" blockCode="2" blockNameKor="트리 라이프 A동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900080" blockCode="1" blockNameKor="트리 라이프 B동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900080" blockCode="2" blockNameKor="트리 라이프 B동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900081" blockCode="1" blockNameKor="샤인크로스 빌라 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900082" blockCode="1" blockNameKor="샤인크로스 빌라 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900083" blockCode="1" blockNameKor="샤인크로스 빌라 3동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
@@ -259,11 +343,16 @@
 	<address mapcode="02000168" blockCode="1" blockNameKor="돌돌 마을" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000168" blockCode="2" blockNameKor="거친 모래 빌라" blockModifierKor="동" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02000168" blockCode="3" blockNameKor="거친 모래 아파트" blockModifierKor="단지" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900091" blockCode="1" blockNameKor="연못 향기 콘도 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900091" blockCode="1" blockNameKor="연못 향기 콘도 1동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900091" blockCode="2" blockNameKor="연못 향기 콘도 1동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900092" blockCode="1" blockNameKor="연못 향기 콘도 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900093" blockCode="1" blockNameKor="오아시스 아파트 A동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900094" blockCode="1" blockNameKor="오아시스 아파트 B동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900095" blockCode="1" blockNameKor="오아시스 아파트 C동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900093" blockCode="1" blockNameKor="오아시스 아파트 A동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900093" blockCode="2" blockNameKor="오아시스 아파트 A동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900094" blockCode="1" blockNameKor="오아시스 아파트 B동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900094" blockCode="2" blockNameKor="오아시스 아파트 B동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900095" blockCode="1" blockNameKor="오아시스 아파트 C동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900095" blockCode="2" blockNameKor="오아시스 아파트 C동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900095" blockCode="3" blockNameKor="오아시스 아파트 C동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900096" blockCode="1" blockNameKor="럭셔리 리조트 빌라 A동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900097" blockCode="1" blockNameKor="럭셔리 리조트 빌라 B동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900098" blockCode="1" blockNameKor="럭셔리 리조트 빌라 C동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
@@ -278,10 +367,14 @@
 	<address mapcode="02900107" blockCode="1" blockNameKor="아크로 펜션 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900108" blockCode="1" blockNameKor="아크로 펜션 3동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900109" blockCode="1" blockNameKor="아크로 펜션 4동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900110" blockCode="1" blockNameKor="선스톤 빌라" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900111" blockCode="1" blockNameKor="토파즈 빌라" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900112" blockCode="1" blockNameKor="투어멀린 빌라" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900113" blockCode="1" blockNameKor="가넷 빌라" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900110" blockCode="1" blockNameKor="선스톤 빌라 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900110" blockCode="2" blockNameKor="선스톤 빌라 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900111" blockCode="1" blockNameKor="토파즈 빌라 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900111" blockCode="2" blockNameKor="토파즈 빌라 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900112" blockCode="1" blockNameKor="투어멀린 빌라 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900112" blockCode="2" blockNameKor="투어멀린 빌라 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900113" blockCode="1" blockNameKor="가넷 빌라 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900113" blockCode="2" blockNameKor="가넷 빌라 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900114" blockCode="1" blockNameKor="라임 빌라" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900115" blockCode="1" blockNameKor="히아신스 빌라" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900116" blockCode="1" blockNameKor="모리온 빌라" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
@@ -365,21 +458,29 @@
 	<address mapcode="02010084" blockCode="1" blockNameKor="오아시스 마을" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02010084" blockCode="2" blockNameKor="캐러반 공동주택" blockModifierKor="" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02010084" blockCode="3" blockNameKor="오아시스 공동주택" blockModifierKor="" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900121" blockCode="1" blockNameKor="티아레스 호텔" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900122" blockCode="1" blockNameKor="술탄 아파트 A동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900125" blockCode="1" blockNameKor="술탄 아파트 B동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900121" blockCode="1" blockNameKor="티아레스 호텔 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900121" blockCode="2" blockNameKor="티아레스 호텔 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900121" blockCode="3" blockNameKor="티아레스 호텔 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900122" blockCode="1" blockNameKor="술탄 아파트 A동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900122" blockCode="2" blockNameKor="술탄 아파트 A동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900125" blockCode="1" blockNameKor="술탄 아파트 B동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900125" blockCode="2" blockNameKor="술탄 아파트 B동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02010036" blockCode="1" blockNameKor="무지개 언덕 마을" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900123" blockCode="1" blockNameKor="디럭스 룸" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900123" blockCode="2" blockNameKor="슈페리어 룸" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900123" blockCode="3" blockNameKor="스위트 룸" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900124" blockCode="1" blockNameKor="엣지힐 레지던스" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900124" blockCode="1" blockNameKor="엣지힐 레지던스 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900124" blockCode="2" blockNameKor="엣지힐 레지던스 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900124" blockCode="3" blockNameKor="엣지힐 레지던스 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900126" blockCode="1" blockNameKor="디럭스 룸" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900126" blockCode="2" blockNameKor="슈페리어 룸" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900126" blockCode="3" blockNameKor="스위트 룸" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900127" blockCode="1" blockNameKor="디럭스 룸" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900127" blockCode="2" blockNameKor="슈페리어 룸" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02900127" blockCode="3" blockNameKor="스위트 룸" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900128" blockCode="1" blockNameKor="크레센트 레지던스" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900128" blockCode="1" blockNameKor="크레센트 레지던스 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900128" blockCode="2" blockNameKor="크레센트 레지던스 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900128" blockCode="3" blockNameKor="크레센트 레지던스 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02010062" blockCode="1" blockNameKor="세인트 코트" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02010062" blockCode="2" blockNameKor="노블 코트" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02010062" blockCode="3" blockNameKor="크레센트 코트" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
@@ -390,9 +491,15 @@
 	<address mapcode="02010083" blockCode="4" blockNameKor="샹그릴라" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02010083" blockCode="5" blockNameKor="니나리브 파크" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02010083" blockCode="6" blockNameKor="버즈힐" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900129" blockCode="1" blockNameKor="릭소스 빌라" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900130" blockCode="1" blockNameKor="니나리브 빌라 1동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900131" blockCode="1" blockNameKor="니나리브 빌라 2동" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900129" blockCode="1" blockNameKor="릭소스 빌라 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900129" blockCode="2" blockNameKor="릭소스 빌라 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900129" blockCode="3" blockNameKor="릭소스 빌라 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900130" blockCode="1" blockNameKor="니나리브 빌라 1동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900130" blockCode="2" blockNameKor="니나리브 빌라 1동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900130" blockCode="3" blockNameKor="니나리브 빌라 1동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900131" blockCode="1" blockNameKor="니나리브 빌라 2동 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900131" blockCode="2" blockNameKor="니나리브 빌라 2동 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900131" blockCode="3" blockNameKor="니나리브 빌라 2동 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02010022" blockCode="1" blockNameKor="앵글러즈 캐빈" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02010039" blockCode="1" blockNameKor="위쳐스 펜트하우스" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02010063" blockCode="1" blockNameKor="상업지구" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
@@ -402,5 +509,7 @@
 	<address mapcode="02010011" blockCode="3" blockNameKor="오션빌" blockModifierKor="번지" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02010011" blockCode="4" blockNameKor="W 빌라" blockModifierKor="" blockNameEng="" blockModifierEng=""/>
 	<address mapcode="02010011" blockCode="5" blockNameKor="L 빌라" blockModifierKor="" blockNameEng="" blockModifierEng=""/>
-	<address mapcode="02900132" blockCode="1" blockNameKor="블루레이크 호텔" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900132" blockCode="1" blockNameKor="블루레이크 호텔 A타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900132" blockCode="2" blockNameKor="블루레이크 호텔 B타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
+	<address mapcode="02900132" blockCode="3" blockNameKor="블루레이크 호텔 C타입" blockModifierKor="호" blockNameEng="" blockModifierEng=""/>
 </ms2>

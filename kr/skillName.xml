@@ -1358,6 +1358,8 @@
 	<key id="50100063" name="Examples of the magical explosions all over the place"/>
 	<key id="50100063" name="Fires a blast of magic everywhere"/>
 	<key id="50100064" name="Standby Annie fast"/>
+	<key id="50100068" name="Fires a Shockwave ahead"/>
+	<key id="50100069" name="The same height 1350 Street check"/>
 	<key id="50100070" name="Light cube - Ice defrosting"/>
 	<key id="50100070" name="Light cube - Ice defrosting"/>
 	<key id="50100070" name="Light cube - Ice defrosting"/>
@@ -1404,10 +1406,17 @@
 	<key id="50100094" name="Rotation attack (in situ)"/>
 	<key id="50100094" name="Rotation attack (go)"/>
 	<key id="50100094" name="Spinning finish"/>
+	<key id="50100094" name="Rotation attack (in situ)"/>
+	<key id="50100094" name="Rotation attack (in situ, knockback)"/>
+	<key id="50100094" name="Rotation attack (movement, knockback)"/>
+	<key id="50100095" name="Ready to Chuck the distant song"/>
+	<key id="50100095" name="Struggling telecommunications songs Chuck launch"/>
 	<key id="50100095" name="Ready to Chuck the distant song"/>
 	<key id="50100095" name="Struggling telecommunications songs Chuck launch"/>
 	<key id="50100096" name="Ready to Chuck a recovery song"/>
 	<key id="50100096" name="Struggling to pretend to launch a recovery song"/>
+	<key id="50100096" name="Recovery songs ready to Chuck (boss)"/>
+	<key id="50100096" name="Struggling to pretend to launch a recovery song (boss)"/>
 	<key id="50100097" name="Prepare ollyo Chigi"/>
 	<key id="50100097" name="Uppercut attack"/>
 	<key id="50100097" name="Prepare ollyo Chigi"/>
@@ -5293,9 +5302,9 @@
 	<key id="50101005" name="Prepare the emerging car shots"/>
 	<key id="50101005" name="Cha Jing shot machine collecting"/>
 	<key id="50101005" name="Cha Jing shot firing (Stern)"/>
-	<key id="50101100" name="Mouth Shockwave ready"/>
+	<key id="50101100" name="Mouth Shockwave ready (MAE)"/>
 	<key id="50101100" name="Mouth Shockwave launch"/>
-	<key id="50101101" name="Watercourse brass arrangements"/>
+	<key id="50101101" name="Watercourse brass preparation (up)"/>
 	<key id="50101101" name="Watercourse Bresse 1 launch"/>
 	<key id="50101101" name="Water cube land mine, throwing"/>
 	<key id="50101101" name="Watercourse Bresse 2 launch"/>
@@ -5311,7 +5320,7 @@
 	<key id="50101101" name="Watercourse brass launch 7 Ta"/>
 	<key id="50101101" name="Watercourse brass launch 8 Ta"/>
 	<key id="50101101" name="Water cube sensors"/>
-	<key id="50101102" name="Preparing the tail boom"/>
+	<key id="50101102" name="Preparing the tail boom (up)"/>
 	<key id="50101102" name="Tail boom triggered"/>
 	<key id="50101102" name="Tail boom electric cube"/>
 	<key id="50101102" name="Tail boom electric cube"/>
@@ -5319,8 +5328,8 @@
 	<key id="50101102" name="Tail boom electric cube"/>
 	<key id="50101102" name="Tail boom electric cube"/>
 	<key id="50101102" name="Tail boom electric cube"/>
-	<key id="50101103" name="Horn lightning preparation"/>
-	<key id="50101103" name="Horn lightning fire (monthly)"/>
+	<key id="50101103" name="Horn lightning (MAE)"/>
+	<key id="50101103" name="Horn lightning (MAE)"/>
 	<key id="50101103" name="Horn lightning fire"/>
 	<key id="50101103" name="Horn lightning fire (monthly)_Hill"/>
 	<key id="50101103" name="Horn lightning fire_Hill"/>
@@ -5331,9 +5340,73 @@
 	<key id="50101105" name="Ki blast and shoving"/>
 	<key id="50101105" name="Ki blast finishing"/>
 	<key id="50101106" name="Jump jump"/>
-	<key id="50101106" name="Jump landing"/>
+	<key id="50101106" name="Landed the jump (every)"/>
 	<key id="50101107" name="Track: check for the streets"/>
 	<key id="50101108" name="Check the above target for the Hill"/>
+	<key id="50101110" name="Rotation attack preparation"/>
+	<key id="50101110" name="Rotation attack 1"/>
+	<key id="50101110" name="Rotation attack 2"/>
+	<key id="50101110" name="Rotation attack three shots"/>
+	<key id="50101110" name="Rotation attack 4"/>
+	<key id="50101111" name="Ready to bash rush"/>
+	<key id="50101111" name="Rushing slash attack"/>
+	<key id="50101112" name="Prepare a wide area air shock"/>
+	<key id="50101112" name="The rise of public wide area impact"/>
+	<key id="50101112" name="Public wide area impact cube"/>
+	<key id="50101112" name="Public wide area impact cube"/>
+	<key id="50101112" name="Public wide area impact cube"/>
+	<key id="50101112" name="Public wide area impact cube"/>
+	<key id="50101112" name="Public wide area impact cube"/>
+	<key id="50101112" name="Public wide area impact cube"/>
+	<key id="50101112" name="Public greater shock end"/>
+	<key id="50101113" name="Gunslinger ready"/>
+	<key id="50101113" name="The rise of dipping down"/>
+	<key id="50101113" name="Wander down to the op (wind)"/>
+	<key id="50101113" name="Taking down the descent of the"/>
+	<key id="50101113" name="Taking down the crack (Center)"/>
+	<key id="50101113" name="Taking down the crack (close)"/>
+	<key id="50101114" name="Black Shockwave ready"/>
+	<key id="50101114" name="Black Shockwave flag raiser"/>
+	<key id="50101114" name="Black shock wave launch"/>
+	<key id="50101114" name="Black Shockwave launch (mate)"/>
+	<key id="50101115" name="Mabeopjin Gunslinger"/>
+	<key id="50101115" name="Mabeopjin Gunslinger"/>
+	<key id="50101115" name="Mabeopjin Gunslinger"/>
+	<key id="50101115" name="Mabeopjin Gunslinger"/>
+	<key id="50101115" name="Mabeopjin Gunslinger"/>
+	<key id="50101115" name="Mabeopjin Gunslinger"/>
+	<key id="50101115" name="Mabeopjin Gunslinger"/>
+	<key id="50101115" name="Mabeopjin Gunslinger"/>
+	<key id="50101116" name="General guided missile launch (3)"/>
+	<key id="50101117" name="Ahead is a powerful missile ready"/>
+	<key id="50101117" name="Ahead is a powerful missile 3"/>
+	<key id="50101118" name="Preparing the General missile ahead"/>
+	<key id="50101118" name="The front launched a regular guided missile"/>
+	<key id="50101119" name="Front direct preparation"/>
+	<key id="50101119" name="Front direct launch"/>
+	<key id="50101120" name="Kobo-up rise"/>
+	<key id="50101121" name="Colleagues recall"/>
+	<key id="50101122" name="Pawn to rehabilitate"/>
+	<key id="50101123" name="Battle plate damage field"/>
+	<key id="50101124" name="Teleportation"/>
+	<key id="50101125" name="Jump start moving"/>
+	<key id="50101125" name="Jump start moving (destroyed)"/>
+	<key id="50101125" name="Go to the jump landing"/>
+	<key id="50101126" name="Rotation attack preparation"/>
+	<key id="50101126" name="Rotation attack 1"/>
+	<key id="50101126" name="Rotation attack 2"/>
+	<key id="50101126" name="Rotation attack three shots"/>
+	<key id="50101126" name="Rotation attack 4"/>
+	<key id="50101127" name="Rotation attack preparation"/>
+	<key id="50101127" name="Rotation attack 1"/>
+	<key id="50101127" name="Rotation attack 2"/>
+	<key id="50101127" name="Rotation attack three shots"/>
+	<key id="50101127" name="Rotation attack 4"/>
+	<key id="50101128" name="Ready to bash rush"/>
+	<key id="50101128" name="Rushing slash attack"/>
+	<key id="50101129" name="Ready to bash rush"/>
+	<key id="50101129" name="Rushing slash attack"/>
+	<key id="50101130" name="Check for the streets"/>
 	<key id="50101150" name="Get ready for about 1 attack"/>
 	<key id="50101150" name="Fires approximately 1 attack"/>
 	<key id="50101151" name="About ready 2 attack"/>
@@ -5342,6 +5415,7 @@
 	<key id="50101152" name="The river rushed to prepare for an attack"/>
 	<key id="50101152" name="River rushing attack ready roofing"/>
 	<key id="50101152" name="The river rushed preparations to attack tele Po"/>
+	<key id="50101152" name="The river rushed preparations to attack tele Po 02"/>
 	<key id="50101152" name="River fires rushing attack"/>
 	<key id="50101153" name="Ready to jump in with a bang"/>
 	<key id="50101153" name="Jump jump bang"/>
@@ -5350,17 +5424,21 @@
 	<key id="50101153" name="Jump jump bang"/>
 	<key id="50101153" name="Jump to bang attack"/>
 	<key id="50101154" name="About energy wave preparation"/>
+	<key id="50101154" name="About collecting the energy wave"/>
 	<key id="50101154" name="About energy wave fired"/>
 	<key id="50101155" name="River energy wave preparation"/>
 	<key id="50101155" name="River energy wave fundraisers"/>
 	<key id="50101155" name="River Energy Patel Po"/>
+	<key id="50101155" name="River Energy Patel Po 02"/>
 	<key id="50101155" name="River fires an energy wave"/>
 	<key id="50101156" name="4 out of the wind and ready to attack"/>
 	<key id="50101156" name="4 out of the wind damage field"/>
+	<key id="50101156" name="4 out of the wind after creating shock waves"/>
 	<key id="50101157" name="Bottom hotplate TypeA"/>
 	<key id="50101157" name="Bottom hotplate TypeB"/>
-	<key id="50101157" name="Bottom hotplate full life"/>
-	<key id="50101157" name="Floor fire Edition full"/>
+	<key id="50101157" name="Some holes across the floor on fire Edition"/>
+	<key id="50101157" name="Some holes across the floor on fire Edition"/>
+	<key id="50101157" name="Across the floor on fire Edition"/>
 	<key id="50101158" name="Ready to go the moment"/>
 	<key id="50101200" name="Get ready for about 1 attack"/>
 	<key id="50101200" name="Fires approximately 1 attack"/>
@@ -5377,11 +5455,15 @@
 	<key id="50101203" name="The magic ahead ready to launch"/>
 	<key id="50101203" name="Magic launch one stroke ahead"/>
 	<key id="50101203" name="Magic 2 front firing"/>
+	<key id="50101203" name="The magic ahead ready to launch"/>
+	<key id="50101203" name="Magic launch one stroke ahead"/>
+	<key id="50101203" name="Magic 2 front firing"/>
 	<key id="50101204" name="Continuous attack mechanism of Versailles floor installation"/>
 	<key id="50101204" name="Continuous assault slash"/>
 	<key id="50101205" name="Attack_Idle"/>
 	<key id="50101205" name="Attack_Idle Ambassador summoned"/>
-	<key id="50101206" name="Pawn shield in preparation conferring"/>
-	<key id="50101206" name="Pawn shields grant launch"/>
+	<key id="50101206" name="Prepare the room up to the pawns"/>
+	<key id="50101206" name="Given the room up to the pawns"/>
 	<key id="50101207" name="Provocative behavior"/>
+	<key id="50101208" name="On their own"/>
 </ms2>

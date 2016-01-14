@@ -1,20 +1,192 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ms2>
-	<key id="1216172113000001" npc="Mint" name="This is the default Ambassador 1"/>
-	<key id="1216172113000002" npc="Mint" name="This is the default Ambassador 2"/>
-	<key id="1216172113000003" npc="Mint" name="This is the default Ambassador 3"/>
-	<key id="1216172113000004" npc="Mint" name="This is the default Ambassador 4"/>
-	<key id="1216172113000005" npc="Mint" name="This is a basic metabolism five"/>
-	<key id="1216172113000006" npc="Mint" name="Hungry Bob give me 1"/>
-	<key id="1216172113000007" npc="Mint" name="Hungry Bob give me 2"/>
-	<key id="1216172113000008" npc="Mint" name="I pulled out and lay's 1"/>
-	<key id="1216172113000009" npc="Mint" name="I pulled out and lay's 2"/>
-	<key id="1216172113000010" npc="Mint" name="I'm happy for Bob 1"/>
-	<key id="1216172113000011" npc="Mint" name="I'm happy for Bob 2"/>
-	<key id="1216172113000012" npc="Mint" name="Skill write! 1"/>
-	<key id="1216172113000013" npc="Mint" name="Skill write! 2"/>
-	<key id="1216172113000014" npc="Mint" name="Potion was all set. 1"/>
-	<key id="1216172113000015" npc="Mint" name="Potion was all set. 2"/>
-	<key id="1216172113000016" npc="Mint" name="Master I. 1"/>
-	<key id="1216172113000017" npc="Mint" name="Master I. 2"/>
+	<key id="0109155813000172" npc="Peng Peng" name="Whatever I wish I had a funny thing ..."/>
+	<key id="0109155813000173" npc="Peng Peng" name="I'm too bored never lasting as it is say Peng!"/>
+	<key id="0109155813000174" npc="Peng Peng" name="There, there! This shawl?"/>
+	<key id="0109155813000175" npc="Peng Peng" name="Peng~ Peng Peng~ Pepe Ferreira Peng~ We like to call? Heheh~"/>
+	<key id="0109155813000176" npc="Peng Peng" name="Well ... This neighborhood is not right with me a little ..."/>
+	<key id="0109155813000177" npc="Peng Peng" name="Ko Le Le Le is no ... This is not a sound in the mouth ..."/>
+	<key id="0109155813000178" npc="Peng Peng" name="Hey ... So I keep saying starve zoology as report ..."/>
+	<key id="0109155813000179" npc="Peng Peng" name="Bob? That's whats up. ..? I don't even remember even to starve ..."/>
+	<key id="0109155813000180" npc="Peng Peng" name="Hungry Hoss hairy is mushrooming out of ... Man can't live with body ... The owner ... "/>
+	<key id="0109155813000181" npc="Peng Peng" name="Why yes? Stuck inside ... Cock cock!"/>
+	<key id="0109155813000182" npc="Peng Peng" name="Lap~ Big, big ... Turned car on the soles of your feet up!"/>
+	<key id="0109155813000183" npc="Peng Peng" name="Peng Peng! I feel Joe Ah~!"/>
+	<key id="0109155813000184" npc="Peng Peng" name="Take a look at this! The ship was bread! Heh heh~"/>
+	<key id="0110173313000343" npc="Peng Peng" name="AW! Popped! Watch popped!"/>
+	<key id="0110173313000344" npc="Peng Peng" name="Oh oh oh! We host, strong!"/>
+	<key id="0109155813000185" npc="Peng Peng" name="Hugh~ Just a little late also lost its owner MIA become almost ..."/>
+	<key id="0109155813000186" npc="Peng Peng" name="Let your body take over, popped up! Fitness may give you falling ... Phew ... "/>
+	<key id="0109155813000187" npc="Peng Peng" name="What a pity, what a pity! Potion did this floor ... Ping ..."/>
+	<key id="0109155813000188" npc="Peng Peng" name="Sleep, wait a minute! Subtract the amount of ke~ Potion dropped!"/>
+	<key id="0109155813000189" npc="Peng Peng" name="I buy! Grace is said by the owner pay off~"/>
+	<key id="0109155813000190" npc="Peng Peng" name="OK, it's OK. Vikram rise Peng Peng!"/>
+	<key id="0109155813000191" npc="Pinky" name="Whatever I wish I had a funny thing ..."/>
+	<key id="0109155813000192" npc="Pinky" name="I'm too bored never lasting as it is say ping!"/>
+	<key id="0109155813000193" npc="Pinky" name="There, there! This shawl?"/>
+	<key id="0109155813000194" npc="Pinky" name="Ping~ Ping ping~ Phi Phi Phi Ping ping~ We like to call? Heheh~"/>
+	<key id="0109155813000195" npc="Pinky" name="Well ... This neighborhood is not right with me a little ..."/>
+	<key id="0109155813000196" npc="Pinky" name="Ko Le Le Le is no ... This is not a sound in the mouth ..."/>
+	<key id="0109155813000197" npc="Pinky" name="Hey ... So I keep saying starve zoology as report ..."/>
+	<key id="0109155813000198" npc="Pinky" name="Bob? That's whats up. ..? I don't even remember even to starve ..."/>
+	<key id="0109155813000199" npc="Pinky" name="Hungry Hoss hairy is mushrooming out of ... Man can't live with body ... The owner ... "/>
+	<key id="0109155813000200" npc="Pinky" name="Why yes? Stuck inside ... Cock cock!"/>
+	<key id="0109155813000201" npc="Pinky" name="Lap~ Big, big ... Turned car on the soles of your feet up!"/>
+	<key id="0109155813000202" npc="Pinky" name="Zing! I feel Joe Ah~!"/>
+	<key id="0109155813000203" npc="Pinky" name="Take a look at this! The ship was bread! Heh heh~"/>
+	<key id="0110173313000345" npc="Pinky" name="AW! Popped! Watch popped!"/>
+	<key id="0110173313000346" npc="Pinky" name="Oh oh oh! We host, strong!"/>
+	<key id="0109155813000204" npc="Pinky" name="Hugh~ Just a little late also lost its owner MIA become almost ..."/>
+	<key id="0109155813000205" npc="Pinky" name="Let your body take over, popped up! Fitness may give you falling ... Phew ... "/>
+	<key id="0109155813000206" npc="Pinky" name="What a pity, what a pity! Potion did this floor ... Ping ..."/>
+	<key id="0109155813000207" npc="Pinky" name="Sleep, wait a minute! Subtract the amount of ke~ Potion dropped!"/>
+	<key id="0109155813000208" npc="Pinky" name="I buy! Grace is said by the owner pay off~"/>
+	<key id="0109155813000209" npc="Pinky" name="OK, it's OK. Come on rise up!"/>
+	<key id="0109155813000210" npc="Dingo" name="Whatever I wish I had a funny thing ..."/>
+	<key id="0109155813000211" npc="Dingo" name="I'm too bored never lasting as it is say Ding!"/>
+	<key id="0109155813000212" npc="Dingo" name="There, there! This shawl?"/>
+	<key id="0109155813000213" npc="Dingo" name="Ding~ Ding Ding~ D. Ding Diddy Ding~ We like to call? Heheh~"/>
+	<key id="0109155813000214" npc="Dingo" name="Well ... This neighborhood is not right with me a little ..."/>
+	<key id="0109155813000215" npc="Dingo" name="Ko Le Le Le is no ... This is not a sound in the mouth ..."/>
+	<key id="0109155813000216" npc="Dingo" name="Hey ... So I keep saying starve zoology as report ..."/>
+	<key id="0109155813000217" npc="Dingo" name="Bob? That's whats up. ..? I don't even remember even to starve ..."/>
+	<key id="0109155813000218" npc="Dingo" name="Hungry Hoss hairy is mushrooming out of ... Man can't live with body ... The owner ... "/>
+	<key id="0109155813000219" npc="Dingo" name="Why yes? Stuck inside ... Cock cock!"/>
+	<key id="0109155813000220" npc="Dingo" name="Lap~ Big, big ... Turned car on the soles of your feet up!"/>
+	<key id="0109155813000221" npc="Dingo" name="Ding Ding! Feelin~Oh!"/>
+	<key id="0109155813000222" npc="Dingo" name="Take a look at this! The ship was bread! Heh heh~"/>
+	<key id="0110173313000347" npc="Dingo" name="AW! Popped! Watch popped!"/>
+	<key id="0110173313000348" npc="Dingo" name="Oh oh oh! We host, strong!"/>
+	<key id="0109155813000223" npc="Dingo" name="Hugh~ Just a little late also lost its owner MIA become almost ..."/>
+	<key id="0109155813000224" npc="Dingo" name="Let your body take over, popped up! Fitness may give you falling ... Phew ... "/>
+	<key id="0109155813000225" npc="Dingo" name="What a pity, what a pity! Potion did this floor ... Ping ..."/>
+	<key id="0109155813000226" npc="Dingo" name="Sleep, wait a minute! Subtract the amount of ke~ Potion dropped!"/>
+	<key id="0109155813000227" npc="Dingo" name="I buy! Grace is said by the owner pay off~"/>
+	<key id="0109155813000228" npc="Dingo" name="OK, it's OK. Come on wake up la Ding!"/>
+	<key id="0109155813000229" npc="Welsh" name="Hemming! Hemming! Country are correct ..."/>
+	<key id="0109155813000230" npc="Welsh" name="En! En en en! This is not ... Stupid! Ruff Ruff! This is ...?"/>
+	<key id="0109155813000231" npc="Welsh" name="Hemming ... What stinks ... Hemming ..."/>
+	<key id="0109155813000232" npc="Welsh" name="La Croix-Ling~~ The barking! The master to ensure the practice! Crest cemetery~"/>
+	<key id="0109155813000233" npc="Welsh" name="Hemming ... Here is a ... What kind of a jerk under the ground ... Hemming ... "/>
+	<key id="0109155813000234" npc="Welsh" name="There is no allegiance to starve the host! Stupid!"/>
+	<key id="0109155813000235" npc="Welsh" name="And ... The boat ... APA ... The mind ... ARF ... "/>
+	<key id="0109155813000236" npc="Welsh" name="There is no power to shake the tail yoke ..."/>
+	<key id="0109155813000237" npc="Welsh" name="Bar. .. Bob ... Emma en Ruff ... "/>
+	<key id="0109155813000238" npc="Welsh" name="If the owner I'd breathe party!"/>
+	<key id="0109155813000239" npc="Welsh" name="Moans ... Tickle your ears ... U district district Palace!"/>
+	<key id="0109155813000240" npc="Welsh" name="Stop over or late arrival stop over or late arrival stop over or late arrival stop over or late arrival ... When you don't touch the bark to eat!"/>
+	<key id="0109155813000241" npc="Welsh" name="Yum yum! Ate well! The owner ... Thanks a lot ... Off soon~"/>
+	<key id="0110173313000349" npc="Welsh" name="Stupid git!! Should not be stupid!"/>
+	<key id="0110173313000350" npc="Welsh" name="La Croix-Ling~~ The barking! When our host ... Crest cemetery~"/>
+	<key id="0109155813000242" npc="Welsh" name="My master I am taking!"/>
+	<key id="0109155813000243" npc="Welsh" name="I believe that only a jerk! I'm keeping the yoke!"/>
+	<key id="0109155813000244" npc="Welsh" name="The barking~ Potion bottom floor! The barking~"/>
+	<key id="0109155813000245" npc="Welsh" name="He ... Interlock Ying ... There is no bruising potion ...!"/>
+	<key id="0109155813000246" npc="Welsh" name="Master! I was kind of a jerk as well? Stroking the bruises later going?"/>
+	<key id="0109155813000247" npc="Welsh" name="The spirit was bruised? Neither Bob value is, stupid!"/>
+	<key id="0109155813000248" npc="Choco" name="Hemming! Hemming! Country are correct ..."/>
+	<key id="0109155813000249" npc="Choco" name="En! En en en! This is not ... Stupid! Ruff Ruff! This is ...?"/>
+	<key id="0109155813000250" npc="Choco" name="Hemming ... What stinks ... Hemming ..."/>
+	<key id="0109155813000251" npc="Choco" name="La Croix-Ling~~ The barking! The master to ensure the practice! Crest cemetery~"/>
+	<key id="0109155813000252" npc="Choco" name="Hemming ... Here is a ... What kind of a jerk under the ground ... Hemming ... "/>
+	<key id="0109155813000253" npc="Choco" name="There is no allegiance to starve the host! Stupid!"/>
+	<key id="0109155813000254" npc="Choco" name="And ... The boat ... APA ... The mind ... ARF ... "/>
+	<key id="0109155813000255" npc="Choco" name="There is no power to shake the tail yoke ..."/>
+	<key id="0109155813000256" npc="Choco" name="Bar. .. Bob ... Emma en Ruff ... "/>
+	<key id="0109155813000257" npc="Choco" name="If the owner I'd breathe party!"/>
+	<key id="0109155813000258" npc="Choco" name="Moans ... Tickle your ears ... U district district Palace!"/>
+	<key id="0109155813000259" npc="Choco" name="Stop over or late arrival stop over or late arrival stop over or late arrival stop over or late arrival ... When you don't touch the bark to eat!"/>
+	<key id="0109155813000260" npc="Choco" name="Yum yum! Ate well! The owner ... Thanks a lot ... Off soon~"/>
+	<key id="0110173313000351" npc="Choco" name="Stupid git!! Should not be stupid!"/>
+	<key id="0110173313000352" npc="Choco" name="La Croix-Ling~~ The barking! When our host ... Crest cemetery~"/>
+	<key id="0109155813000261" npc="Choco" name="My master I am taking!"/>
+	<key id="0109155813000262" npc="Choco" name="I believe that only a jerk! I'm keeping the yoke!"/>
+	<key id="0109155813000263" npc="Choco" name="The barking~ Potion bottom floor! The barking~"/>
+	<key id="0109155813000264" npc="Choco" name="He ... Interlock Ying ... There is no bruising potion ...!"/>
+	<key id="0109155813000265" npc="Choco" name="Master! I was kind of a jerk as well? Stroking the bruises later going?"/>
+	<key id="0109155813000266" npc="Choco" name="The spirit was bruised? Neither Bob value is, stupid!"/>
+	<key id="0109155813000267" npc="Meat" name="Hemming! Hemming! Country are correct ..."/>
+	<key id="0109155813000268" npc="Meat" name="En! En en en! This is not ... Stupid! Ruff Ruff! This is ...?"/>
+	<key id="0109155813000269" npc="Meat" name="Hemming ... What stinks ... Hemming ..."/>
+	<key id="0109155813000270" npc="Meat" name="La Croix-Ling~~ The barking! The master to ensure the practice! Crest cemetery~"/>
+	<key id="0109155813000271" npc="Meat" name="Hemming ... Here is a ... What kind of a jerk under the ground ... Hemming ... "/>
+	<key id="0109155813000272" npc="Meat" name="There is no allegiance to starve the host! Stupid!"/>
+	<key id="0109155813000273" npc="Meat" name="And ... The boat ... APA ... The mind ... ARF ... "/>
+	<key id="0109155813000274" npc="Meat" name="There is no power to shake the tail yoke ..."/>
+	<key id="0109155813000275" npc="Meat" name="Bar. .. Bob ... Emma en Ruff ... "/>
+	<key id="0109155813000276" npc="Meat" name="If the owner I'd breathe party!"/>
+	<key id="0109155813000277" npc="Meat" name="Moans ... Tickle your ears ... U district district Palace!"/>
+	<key id="0109155813000278" npc="Meat" name="Stop over or late arrival stop over or late arrival stop over or late arrival stop over or late arrival ... When you don't touch the bark to eat!"/>
+	<key id="0109155813000279" npc="Meat" name="Yum yum! Ate well! The owner ... Thanks a lot ... Off soon~"/>
+	<key id="0110173313000353" npc="Meat" name="Stupid git!! Should not be stupid!"/>
+	<key id="0110173313000354" npc="Meat" name="La Croix-Ling~~ The barking! When our host ... Crest cemetery~"/>
+	<key id="0109155813000280" npc="Meat" name="My master I am taking!"/>
+	<key id="0109155813000281" npc="Meat" name="I believe that only a jerk! I'm keeping the yoke!"/>
+	<key id="0109155813000282" npc="Meat" name="The barking~ Potion bottom floor! The barking~"/>
+	<key id="0109155813000283" npc="Meat" name="He ... Interlock Ying ... There is no bruising potion ...!"/>
+	<key id="0109155813000284" npc="Meat" name="Master! I was kind of a jerk as well? Stroking the bruises later going?"/>
+	<key id="0109155813000285" npc="Meat" name="The spirit was bruised? Neither Bob value is, stupid!"/>
+	<key id="0109155813000286" npc="Draco" name="Woo Woo rattle rattle ... As for stuffing?"/>
+	<key id="0109155813000287" npc="Draco" name="Well well ... This put a cup of warm (this is unbelievably delicious)"/>
+	<key id="0109155813000288" npc="Draco" name="AW! I want to eat that! Gotta eat?"/>
+	<key id="0109155813000289" npc="Draco" name="I have a dragon! Cast continued to grow-blast Dragon!"/>
+	<key id="0109155813000290" npc="Draco" name="Growth should eat well!"/>
+	<key id="0109155813000291" npc="Draco" name="Dragon Dragon~ It is time for rice~~~"/>
+	<key id="0109155813000292" npc="Draco" name="Off no off no ... Hungry for ... "/>
+	<key id="0109155813000293" npc="Draco" name="If you repeatedly starve ... Shoes!"/>
+	<key id="0109155813000294" npc="Draco" name="Dragon ... Hungry for ditching ... "/>
+	<key id="0109155813000295" npc="Draco" name="Ho night! Ho-Oh night! And then ... I'm going to nail me higher ..."/>
+	<key id="0109155813000296" npc="Draco" name="Where is the sore? Why can't I move?"/>
+	<key id="0109155813000297" npc="Draco" name="Yum yum eat the boat was pounding for~!"/>
+	<key id="0109155813000298" npc="Draco" name="Float~ The mind is the light body is heavy for~ Would a horse fly?"/>
+	<key id="0110173313000355" npc="Draco" name="Switching to! In front of you! Next to it! No, even after ... There is no spirit!"/>
+	<key id="0110173313000356" npc="Draco" name="Dragon~ Dizzy Dragon~!"/>
+	<key id="0109155813000299" npc="Draco" name="SWIG lap eating cheerio!"/>
+	<key id="0109155813000300" npc="Draco" name="Taste ... Delicious for ...? Stop over or late arrival ... I like to eat ..."/>
+	<key id="0109155813000301" npc="Draco" name="I have Dragon potion! I'm not for eating~"/>
+	<key id="0109155813000302" npc="Draco" name="Switching ... The master potion ate it all! Eat a lot more than me!"/>
+	<key id="0109155813000303" npc="Draco" name="Owner eyes shine! I had for artificial respiration~"/>
+	<key id="0109155813000304" npc="Draco" name="Watch out for Rayong~ Although it's disgusting for no master for~"/>
+	<key id="0109155813000305" npc="Graco" name="Woo Woo rattle rattle ... As for stuffing?"/>
+	<key id="0109155813000306" npc="Graco" name="Well well ... This put a cup of warm (this is unbelievably delicious)"/>
+	<key id="0109155813000307" npc="Graco" name="AW! I want to eat that! Gotta eat?"/>
+	<key id="0109155813000308" npc="Graco" name="I have a dragon! Cast continued to grow-blast Dragon!"/>
+	<key id="0109155813000309" npc="Graco" name="Growth should eat well!"/>
+	<key id="0109155813000310" npc="Graco" name="Dragon Dragon~ It is time for rice~~~"/>
+	<key id="0109155813000311" npc="Graco" name="Off no off no ... Hungry for ... "/>
+	<key id="0109155813000312" npc="Graco" name="If you repeatedly starve ... Shoes!"/>
+	<key id="0109155813000313" npc="Graco" name="Dragon ... Hungry for ditching ... "/>
+	<key id="0109155813000314" npc="Graco" name="Ho night! Ho-Oh night! And then ... I'm going to nail me higher ..."/>
+	<key id="0109155813000315" npc="Graco" name="Where is the sore? Why can't I move?"/>
+	<key id="0109155813000316" npc="Graco" name="Yum yum eat the boat was pounding for~!"/>
+	<key id="0109155813000317" npc="Graco" name="Float~ The mind is the light body is heavy for~ Would a horse fly?"/>
+	<key id="0110173313000357" npc="Graco" name="Switching to! In front of you! Next to it! No, even after ... There is no spirit!"/>
+	<key id="0110173313000358" npc="Graco" name="Dragon~ Dizzy Dragon~!"/>
+	<key id="0109155813000318" npc="Graco" name="SWIG lap eating cheerio!"/>
+	<key id="0109155813000319" npc="Graco" name="Taste ... Delicious for ...? Stop over or late arrival ... I like to eat ..."/>
+	<key id="0109155813000320" npc="Graco" name="I have Dragon potion! I'm not for eating~"/>
+	<key id="0109155813000321" npc="Graco" name="Switching ... The master potion ate it all! Eat a lot more than me!"/>
+	<key id="0109155813000322" npc="Graco" name="Owner eyes shine! I had for artificial respiration~"/>
+	<key id="0109155813000323" npc="Graco" name="Watch out for Rayong~ Although it's disgusting for no master for~"/>
+	<key id="0109155813000324" npc="Blige Ko" name="Woo Woo rattle rattle ... As for stuffing?"/>
+	<key id="0109155813000325" npc="Blige Ko" name="Well well ... This put a cup of warm (this is unbelievably delicious)"/>
+	<key id="0109155813000326" npc="Blige Ko" name="AW! I want to eat that! Gotta eat?"/>
+	<key id="0109155813000327" npc="Blige Ko" name="I have a dragon! Cast continued to grow-blast Dragon!"/>
+	<key id="0109155813000328" npc="Blige Ko" name="Growth should eat well!"/>
+	<key id="0109155813000329" npc="Blige Ko" name="Dragon Dragon~ It is time for rice~~~"/>
+	<key id="0109155813000330" npc="Blige Ko" name="Off no off no ... Hungry for ... "/>
+	<key id="0109155813000331" npc="Blige Ko" name="If you repeatedly starve ... Shoes!"/>
+	<key id="0109155813000332" npc="Blige Ko" name="Dragon ... Hungry for ditching ... "/>
+	<key id="0109155813000333" npc="Blige Ko" name="Ho night! Ho-Oh night! And then ... I'm going to nail me higher ..."/>
+	<key id="0109155813000334" npc="Blige Ko" name="Where is the sore? Why can't I move?"/>
+	<key id="0109155813000335" npc="Blige Ko" name="Yum yum eat the boat was pounding for~!"/>
+	<key id="0109155813000336" npc="Blige Ko" name="Float~ The mind is the light body is heavy for~ Would a horse fly?"/>
+	<key id="0110173313000359" npc="Blige Ko" name="Switching to! In front of you! Next to it! No, even after ... There is no spirit!"/>
+	<key id="0110173313000360" npc="Blige Ko" name="Dragon~ Dizzy Dragon~!"/>
+	<key id="0109155813000337" npc="Blige Ko" name="SWIG lap eating cheerio!"/>
+	<key id="0109155813000338" npc="Blige Ko" name="Taste ... Delicious for ...? Stop over or late arrival ... I like to eat ..."/>
+	<key id="0109155813000339" npc="Blige Ko" name="I have Dragon potion! I'm not for eating~"/>
+	<key id="0109155813000340" npc="Blige Ko" name="Switching ... The master potion ate it all! Eat a lot more than me!"/>
+	<key id="0109155813000341" npc="Blige Ko" name="Owner eyes shine! I had for artificial respiration~"/>
+	<key id="0109155813000342" npc="Blige Ko" name="Watch out for Rayong~ Although it's disgusting for no master for~"/>
 </ms2>

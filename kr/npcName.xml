@@ -1218,7 +1218,7 @@
 	<key id="11001213" name="Rihanna"/>
 	<key id="11001214" name="Te Morrow"/>
 	<key id="11001215" name="As the armor"/>
-	<key id="11001216" name="Rota"/>
+	<key id="11001216" name="Star hearts"/>
 	<key id="11001217" name="-Based bar"/>
 	<key id="11001218" name="Tara"/>
 	<key id="11001219" name="Male tourists 1"/>
@@ -1480,6 +1480,17 @@
 	<key id="11001475" name="Spinger"/>
 	<key id="11001476" name="Wei Hong"/>
 	<key id="11001477" name="Black Crusade Gang Member"/>
+	<key id="11001478" name="In Rev"/>
+	<key id="11001479" name="Star hearts"/>
+	<key id="11001480" name="Tara"/>
+	<key id="11001481" name="-Based bar"/>
+	<key id="11001482" name="-Based bar"/>
+	<key id="11001483" name="Moore"/>
+	<key id="11001484" name="Lil Leah"/>
+	<key id="11001485" name="Oh rock of the Sith"/>
+	<key id="11001486" name="ARI black top"/>
+	<key id="11001487" name="Foot rock"/>
+	<key id="11001488" name="Foot rock"/>
 	<key id="11002000" name="Pablo"/>
 	<key id="11002001" name="Erin"/>
 	<key id="11002002" name="Anderson"/>
@@ -2038,6 +2049,9 @@
 	<key id="21400746" name="Do wear:"/>
 	<key id="21401746" name="Do wear:"/>
 	<key id="21402746" name="Don't wear the city's alter ego"/>
+	<key id="21402037" name="Blount"/>
+	<key id="21402137" name="Blount"/>
+	<key id="21402237" name="Blount"/>
 	<key id="21490746" name="Do wear:_The shock wave front"/>
 	<key id="21490747" name="Do wear:_Everywhere, Shockwave"/>
 	<key id="21490748" name="Do wear:_Toss damage field"/>
@@ -2049,6 +2063,10 @@
 	<key id="21400082" name="Red-masked sorcerer"/>
 	<key id="21401082" name="Red-masked sorcerer"/>
 	<key id="21402082" name="Red-masked sorcerer"/>
+	<key id="21403069" name="Kant's alter ego bar"/>
+	<key id="21403070" name="Kant's alter ego bar"/>
+	<key id="21493069" name="Kant, alter ego, the red bar"/>
+	<key id="21493070" name="Cant alter ego bar white"/>
 	<key id="21500001" name="Prototype droid-O"/>
 	<key id="21500002" name="Prototype droid-R"/>
 	<key id="21500003" name="Prototype droid-D"/>
@@ -2089,6 +2107,17 @@
 	<key id="21500121" name="Gras Kass Scouts chapter"/>
 	<key id="21500130" name="Number of sentences in the shadows"/>
 	<key id="21500131" name="Sultan Mo NUS"/>
+	<key id="21500140" name="Carmina Mohr"/>
+	<key id="21500141" name="Carmina Mohr"/>
+	<key id="21500150" name="Get a knife"/>
+	<key id="21500151" name="Get a knife"/>
+	<key id="21500152" name="Get a knife"/>
+	<key id="21500160" name="Shadow Hunter"/>
+	<key id="21500161" name="Shadow Hunter"/>
+	<key id="21500162" name="Shadow Hunter"/>
+	<key id="21500163" name="Shadow Hunter"/>
+	<key id="21500164" name="Shadow Hunter"/>
+	<key id="21500165" name="Shadow Hunter"/>
 	<key id="21800001" name="Carabinieri Jean Frazier"/>
 	<key id="21800002" name="Bodyguards checked"/>
 	<key id="21800003" name="Bodyguards Spearman"/>
@@ -2382,6 +2411,21 @@
 	<key id="23980019" name="Pyrrhus Fard_Stop continuous firing of the body"/>
 	<key id="23980020" name="Pyrrhus Fard_Room-up buff"/>
 	<key id="23980021" name="Pyrrhus Fard_Hanging from the target drop-GI"/>
+	<key id="23980068" name="VARs Kant_3Spin-outs"/>
+	<key id="23980069" name="VARs Kant_The dash bash"/>
+	<key id="23980070" name="VARs Kant_Public wide area Shockwave"/>
+	<key id="23980071" name="VARs Kant_Taking down the air"/>
+	<key id="23980072" name="VARs Kant_The sword was broken up launch"/>
+	<key id="23980073" name="VARs Kant_Circular mabeopjin"/>
+	<key id="23980074" name="VARs Kant_Guided 3 feet everywhere"/>
+	<key id="23980075" name="VARs Kant_Ahead is a powerful three-foot guided missile"/>
+	<key id="23980076" name="VARs Kant_Guided three-foot front General"/>
+	<key id="23980077" name="VARs Kant_Large directional throwing fire"/>
+	<key id="23980078" name="VARs Kant_Summon a posse"/>
+	<key id="23980079" name="VARs Kant_Room-up buff"/>
+	<key id="23980080" name="VARs Kant_Damage cube Setup"/>
+	<key id="23980081" name="VARs Kant_Move the cube to destroy the jump"/>
+	<key id="23980082" name="VARs Kant_Aerosol to rehabilitate"/>
 	<key id="23988012" name="Ikar Mard_Giant chill-brass"/>
 	<key id="23988013" name="Ikar Mard_General Frost brass"/>
 	<key id="23988014" name="Ikar Mard_Head ollyo Chigi"/>
@@ -2723,6 +2767,25 @@
 	<key id="24002004" name="Year-old Juke"/>
 	<key id="24002005" name="Moon Shadow Graz I"/>
 	<key id="24002006" name="Crowe Seth"/>
+	<key id="24002101" name="Tender intern crew"/>
+	<key id="24002102" name="Tender crew"/>
+	<key id="24002103" name="Car roll"/>
+	<key id="24002104" name="Cabot"/>
+	<key id="24002105" name="Car roll by Deputy"/>
+	<key id="24002106" name="Di Ko won card"/>
+	<key id="24002107" name="Rowdy-carrying robot"/>
+	<key id="24002108" name="Toy Fritz"/>
+	<key id="24002109" name="Willie won card"/>
+	<key id="24002111" name="Car roll by Deputy"/>
+	<key id="24002201" name="The cart ban"/>
+	<key id="24002202" name="The stump of the death"/>
+	<key id="24002203" name="Underground seedlings"/>
+	<key id="24002204" name="Poison fog"/>
+	<key id="24002205" name="The cart ban"/>
+	<key id="24002206" name="Poison fog"/>
+	<key id="24002207" name="Poison fog"/>
+	<key id="24002208" name="Poison fog"/>
+	<key id="24002209" name="Poison fog"/>
 	<key id="25000001" name="Blue"/>
 	<key id="25000002" name="Lime"/>
 	<key id="25000003" name="Purple"/>
@@ -3060,7 +3123,15 @@
 	<key id="59000004" name="Ghost flame bike"/>
 	<key id="59000005" name="White flame bike"/>
 	<key id="59000006" name="Dark Star bikes"/>
-	<key id="61000001" name="Mint"/>
+	<key id="60000001" name="Peng Peng"/>
+	<key id="60000002" name="Pinky"/>
+	<key id="60000003" name="Dingo"/>
+	<key id="60000004" name="Welsh"/>
+	<key id="60000005" name="Choco"/>
+	<key id="60000006" name="Meat"/>
+	<key id="60000007" name="Draco"/>
+	<key id="60000008" name="Graco"/>
+	<key id="60000009" name="Blige Ko"/>
 	<key id="80000001" name="LV1 Balance test boss"/>
 	<key id="80000002" name="LV2 Balance test boss"/>
 	<key id="80000003" name="LV3 Balance test boss"/>

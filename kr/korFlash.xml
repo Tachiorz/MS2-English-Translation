@@ -40,6 +40,7 @@
 	<key id="$s_common_mission" value="Mission"/>
 	<key id="$s_common_skill" value="Skills"/>
 	<key id="$s_common_install" value="Construction"/>
+	<key id="$s_common_exp" value="EXP"/>
 
 	<!--Shop sale tags (Merit market, Cathy shop)-->
 	<key id="$s_saletag_new" value="NEW"/>
@@ -102,12 +103,16 @@
 	<key id="$s_inventory_tab_skill" value="Skill"/>
 	<key id="$s_inventory_tab_install" value="Construction"/>
 	<key id="$s_inventory_tab_misc" value="ETC"/>
-	<key id="$s_inventory_tab_ridee" value="Mount"/>
+	<key id="$s_inventory_tab_ridee" value="Mounts/Fett"/>
 	<key id="$s_inventory_meso_drop" value="Drop Meso"/>
 	<key id="$s_inventory_range" value="Auto Sort"/>
 	<key id="$s_inventory_item_option" value="Item Pick-Up"/> 
 	<key id="$s_inventory_remake_item_option" value="Change Equipment Option"/> 
+	<key id="$s_inventory_item_break" value="Disassembling the"/> 
+	<key id="$s_inventory_item_break_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Disassembling the&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPortable Onyx-exhausters.\n20Disassemble the equipment item above level\nOnyx can extract a decision."/> 
 	<key id="$s_inventory_slot_count" value="Displays the slot information in the current tab.\nNumber of slots used / Total number of slots"/> 
+	<key id="$s_inventory_range_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Auto alignment&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAutomatically sort items of personal belongings."/> 
+	<key id="$s_inventory_get_option_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Pick up a set of items&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSets the auto-pick up the item."/> 
 
 	<!--itemoption-->
 	<key id="$s_itemopion_title" value="Item Pick-Up Settings"/>
@@ -176,7 +181,7 @@
 	<key id="$s_gameoption_boss_notify_0" value="Similar levels or quest objectives only"/>
 	<key id="$s_gameoption_boss_notify_1" value="Quests only"/>
 	<key id="$s_gameoption_boss_notify_2" value="Disabled"/>
-	<key id="$s_gameoption_set_boss_notify" value="Elite/Boss monster spawn notification"/>
+	<key id="$s_gameoption_set_boss_notify" value="Boss Monster spawn notification"/>
 	<key id="$s_gameoption_shadow" value="Real-time Shadow"/>
 	<key id="$s_gameoption_multisampling" value="Multisampling"/>
 	<key id="$s_gameoption_shadow_none" value="No shadows"/>
@@ -215,6 +220,9 @@
 	<key id="$s_gameoption_NormalChatBalloon" value="Display area chat speech bubble"/>
 	<key id="$s_gameoption_PartyChatBalloon" value="Display party chat speech bubble"/>
 	<key id="$s_gameoption_GuildChatBalloon" value="Display guild chat speech bubble"/>
+	<key id="$s_gameoption_ShowOnlyMyPet" value="My pet only the status of the show (a version of the comic, sound)"/>
+	<key id="$s_gameoption_HideMyPet" value="Hide my pet"/>
+	<key id="$s_gameoption_HideOtherPet" value="Hide the other user's pet"/>
 
 	<key id="$s_gameoption_MyGiveDamage" value="Display damage inflicted"/>
 	<key id="$s_gameoption_MyTakeDamage" value="Display damage received"/>
@@ -333,9 +341,11 @@
 	<key id="$s_quest_complete" value="Complete"/>
 	<key id="$s_quest_tab_main" value="Epic"/>
 	<key id="$s_quest_tab_sub" value="World"/>
+	<key id="$s_quest_tab_event" value="Event"/>
 	<key id="$s_quest_tab_progress" value="In Progress"/>
 	<key id="$s_quest_tab_complete" value="Previous Story"/>
-
+	<key id="$s_quest_info_exp" value="{0} EXP"/>
+	
 	<!--gamemenu-->
 	<key id="$s_gamemenu_btn_worldmap" value="World Map"/>
 	<key id="$s_gamemenu_btn_partysearch" value="Find Parties"/>	
@@ -463,6 +473,7 @@
 	<key id="$s_worldmap_island_darkness" value="Darkness Island"/>
 	<key id="$s_worldmap_island_runeblader" value="Kalev Island"/>
 	<key id="$s_worldmap_unknown_area" value="Has not been found yet."/>
+	<key id="$s_worldmap_event_click" value="Click"/>
 
 	<!--minimap-->
 	<key id="$s_minimap_shop" value="Merchant"/>
@@ -481,6 +492,9 @@
 	<key id="$s_upper_hud_tooltip_manufacture" value="&lt;FONT color='#FFD200' size='15' &gt;Made production situation&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMaking a maid in the House now shows the status of the item.\nHow to produce the requested items to the progress made."/>
 	<key id="$s_upper_hud_tooltip_search" value="&lt;FONT color='#FFD200' size='15' &gt;Maview Search&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nEnter a keyword to search on Maview."/>
 	<key id="$s_upper_hud_tooltip_fishingbook" value="&lt;FONT color='#FFD200' size='15' &gt;Fish Encyclopedia&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can see which fish you've caught and what stage of fishing you are at."/>
+	<key id="$s_upper_hud_tooltip_blackmarket" value="&lt;FONT color='#FFD200' size='15' &gt;Black market&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can use the black market."/>
+	<key id="$s_upper_hud_tooltip_notice" value="&lt;FONT color='#FFD200' size='15' &gt;Ongoing events&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can check the current events."/>
+	<key id="$s_upper_hud_tooltip_pcbang" value="&lt;FONT color='#FFD200' size='15' &gt;PCRoom special offer&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPCMeets special benefits only in the room."/>
 
 	<!--myInfo-->
 	<key id="$s_myInfo_title" value="Character Information"/>
@@ -669,7 +683,7 @@
 	<key id="$s_tooltip_first_page" value="&lt;FONT color='#FFD200' size='15' &gt;First Page&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGo to the first page."/>
 	<key id="$s_tooltip_prev_page" value="&lt;FONT color='#FFD200' size='15' &gt;Previous Page&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGo to the previous page."/>
 	<key id="$s_tooltip_next_page" value="&lt;FONT color='#FFD200' size='15' &gt;Next Page&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nGo to the next page."/>
-	<key id="$s_tooltip_dungeon_level" value="&lt;FONT color='#FFD200' size='16' &gt;Normal&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nBasic Difficulty.\n&lt;FONT size='6'&gt; &lt;/FONT&gt;\n&lt;FONT color='#FFD200' size='16' &gt;Challenge&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nRequires a certain level of skill.\n&lt;FONT size='6'&gt; &lt;/FONT&gt;\n&lt;FONT color='#FFD200' size='16' &gt;Chaos&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nClass cooperation is important to recognize boss patterns.\nIf unconditional collapsing steel monument to the pallet, so be careful.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;"/>
+	<key id="$s_tooltip_dungeon_level" value="&lt;FONT color='#FFD200' size='16' &gt;Normal&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;The basic difficulty.\n\n&lt;FONT size='6'&gt;&lt;/FONT&gt;&lt;FONT color='#FFD200' size='16'&gt;Challenge&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;You will need at least a certain level of skill.\n\n&lt;FONT size='6'&gt;&lt;/FONT&gt;&lt;FONT color='#FFD200' size='16'&gt;Chaos&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;Boss patterns and cross-profession collaboration is important.\nIf unconditional collapsing steel monument to the pallet, so be careful.\n&lt;FONT size='3'&gt; &lt;/FONT&gt;"/>
 
 	<!--My Info window tool tips-->
 	<key id="$s_tooltip_myinfo_guild" value="&lt;FONT color='#FFD200' size='15' &gt;Guild&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe character joined the Guild information."/>
@@ -760,7 +774,7 @@
 	<key id="$s_tooltip_myinfo_stat_1_5" value="&lt;FONT color='#FFD200' size='15' &gt;Magic Defense Penetration&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWhen the magic attacks to the enemy magic defense power by ignoring some of the bigger damage can cause harm."/>
 	<key id="$s_tooltip_myinfo_stat_1_6" value="&lt;FONT color='#FFD200' size='15' &gt;Accuracy&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nFor an attack to be successful, the ability to increase your chances."/>
 	<key id="$s_tooltip_myinfo_stat_1_7" value="&lt;FONT color='#FFD200' size='15' &gt;Critical Accuracy&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nIncreases the chances of the ability to hit to crit.\nAdd a critical hit to attack damage."/>
-	<key id="$s_tooltip_myinfo_stat_1_8" value="&lt;FONT color='#FFD200' size='15' &gt;Critical Damage&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCritical: increases the damage of giving to the enemy."/>
+	<key id="$s_tooltip_myinfo_stat_1_8" value="&lt;FONT color='#FFD200' size='15' &gt;Critical damage&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCritical: increases the damage of giving to the enemy.\nApplies only to the 200% crit damage."/>
 	<key id="$s_tooltip_myinfo_stat_1_9" value="&lt;FONT color='#FFD200' size='15' &gt;Melee Damage Increase&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWhen the enemy melee attacks increases the damage of giving."/>
 	<key id="$s_tooltip_myinfo_stat_1_10" value="&lt;FONT color='#FFD200' size='15' &gt;Ranged Damage Increase&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWhen the enemy ranged attacks, giving damage increases."/> 
 	<key id="$s_tooltip_myinfo_stat_1_11" value="&lt;FONT color='#FFD200' size='15' &gt;Flame Damage Increase&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nFlame properties will increase the damage of giving as a skill."/>
@@ -931,7 +945,7 @@
 	<key id="$s_gamemenu_camera" value="&lt;FONT color='#FFD200' size='15' &gt;Profile Camera&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can take a picture with the camera profile.\nThe images taken on my profile you can register right away."/>
 	<key id="$s_gamemenu_warehouse" value="&lt;FONT color='#FFD200' size='15' &gt;Movers storage warehouses&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nHouse for sale, or contracting with expired,\nAmong the items were installed in the House as your belongings\nDoes the item transferred right away.\nThis is where the item is being kept in a certain period of time\nAre kept, &lt;FONT color='#FF5F5F'&gt;Archive for the period will be deleted."/>
 	<key id="$s_gamemenu_arena" value="&lt;FONT color='#FFD200' size='15' &gt;Battle chapter&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCan emulate the skills battle between characters in chapter\nYou can apply for the position."/>
-	<key id="$s_gamemenu_petinfo" value="&lt;FONT color='#FFD200' size='15' &gt;Pet information&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPet information."/>
+	<key id="$s_gamemenu_petinfo" value="&lt;FONT color='#FFD200' size='15' &gt;Pet information&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can view information of a summoned pet."/>
 	<!-- msgbox -->
 	<key id="$s_msgbox_cnt" value=""/>
 	<key id="$s_msgbox_addsome1" value="+1"/>
@@ -1100,6 +1114,9 @@
 	<key id="$s_construct_help_btn_item_remove" value="If the installed item &lt;FONT color='#ffd200' &gt;Recovery&lt;/FONT&gt;In order to"/>
 	<key id="$s_construct_help_btn_item_rotate" value="If the installed item &lt;FONT color='#ffd200' &gt;Rotation&lt;/FONT&gt;In order to"/>
 	<key id="$s_construct_help_btn_exit" value="Construction &lt;FONT color='#ffd200' &gt;Exit&lt;/FONT&gt;In order to"/>
+
+	<!--UGC Construction-->
+  	<key id="$s_mainplayinfo_build_end" value="Getting started with the construction of the / To quit"/>
 
 	<!-- my house auth dialog-->
 	<key id="$s_myhouseauth_title" value="Public Settings"/>
@@ -1352,7 +1369,7 @@
 	<key id="$s_invitegroup_button_invite" value="Invite"/>
 
 	<!-- item break -->
-	<key id="$s_itembreak_title" value="Onyx Extraction Device NSD-3200"/>
+	<key id="$s_itembreak_title" value="Onyx-exhausters NSD-3500"/>
 	<key id="$s_itembreak_break" value="Dismantle"/>
 	<key id="$s_itembreak_retry" value="Go Back"/>
 	<key id="$s_itembreak_desc" value="Dismantle equipment to extract Onyx Crystals from it.\nPlace a dismantleable equipment (Lv. 20Lv or higher)."/>
@@ -1909,9 +1926,10 @@
 	<!-- Dark stream -->
 	<key id="$s_dark_stream_result_view_rank" value="View Rankings"/>
 	<key id="$s_dark_stream_result_out" value="Exit"/>
+	<key id="$s_dark_stream_result_exp" value="{0} EXP"/>
 
 	<key id="$s_notice_dialog_title" value="Events in Progress"/>
-	<key id="$s_notice_dialog_footer" value="※ MapleStory 2's new continent is open! Let's play and go fishing!"/>
+	<key id="$s_notice_dialog_footer" value="* Add your own cute and adorable pet! Temple cold sales!"/>
 
 	<!-- Change options for an item (Arial) -->
 	<key id="$s_itemremakeoption_title" value="Change options for adding items"/>
@@ -1937,16 +1955,23 @@
 	<!-- Pet information -->
 	<key id="$s_petsetting_title" value="Pet Information"/>
 	<key id="$s_petsetting_summon_off" value="Desummon"/>
-	<key id="$s_petsetting_auto_revive" value="&lt;font color='#5c2b00'&gt;Auto Revive | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
-	<key id="$s_petsetting_auto_itemuse" value="&lt;font color='#5c2b00'&gt;Auto Potion Recovery | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
-	<key id="$s_petsetting_auto_itempick" value="&lt;font color='#5c2b00'&gt;Auto Item Pick-Up | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
-  <key id="$s_petsetting_tooltip_change_name" value="&lt;FONT color='#FFD200' size='15' &gt;Change Name&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nChange Name."/>
-  <key id="$s_petsetting_tooltip_auto_itemuse" value="&lt;FONT color='#FFD200' size='15' &gt;Auto Potion Recovery&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto Potion Recovery."/>
-  <key id="$s_petsetting_tooltip_auto_itempick" value="&lt;FONT color='#FFD200' size='15' &gt;Auto Item Pick-Up&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAuto Item Pick-Up."/>
-  <key id="$s_petsetting_tooltip_summon_off" value="&lt;FONT color='#FFD200' size='15' &gt;Recall off&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nDesummon."/>
+	<key id="$s_petsetting_auto_revive" value="&lt;font color='#000000'&gt;Auto-monument to the resurrection | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
+  <key id="$s_petsetting_auto_revive_desc" value="Out of State to help the host fell in the battle.\nYou cannot give the steel monument defaced."/>
+	<key id="$s_petsetting_auto_itemuse" value="&lt;font color='#000000'&gt;Auto potion recovery | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
+  <key id="$s_petsetting_auto_itemuse_desc" value="Automatically set the potion tasted.\nPet bags, you can set the potion inside."/>
+	<key id="$s_petsetting_auto_itempick" value="&lt;font color='#000000'&gt;Auto item pick up | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
+  <key id="$s_petsetting_auto_itempick_desc" value="Pet drops around the items will be automatically picked up.\nPet (s) this item is picked up belongings window."/>
+  <key id="$s_petsetting_tooltip_change_name" value="&lt;FONT color='#FFD200' size='15' &gt;Name change&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo change the name of a pet."/>
+  <key id="$s_petsetting_tooltip_auto_itemuse" value="&lt;FONT color='#FFD200' size='15' &gt;Auto potion recovery&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSubject to the terms and conditions of use potion.\nIs set to a lower% condition first potion.\nPet bag can set the potion inside."/>
+  <key id="$s_petsetting_tooltip_auto_itempick" value="&lt;FONT color='#FFD200' size='15' &gt;Auto item pick up&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAutomatically sets the item to obtain.\nThe item is acquired belongings which enters into the window.\nPet bag by transferring the belongings inside the window should be used."/>
+  <key id="$s_petsetting_tooltip_summon_off" value="&lt;FONT color='#FFD200' size='15' &gt;Recall off&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWas summoned back to the pet to your belongings."/>
+
+  <!-- Pet feeding -->
+  <key id="$s_petextension_title" value="Pet feeding"/>
+  <key id="$s_petextension_ok" value="Feeding"/>
 
   <!-- Items automatically -->
-  <key id="$s_itemautouse_title" value="Auto potion recovery settings"/>
+  <key id="$s_itemautouse_title" value="Set auto-restore potion"/>
   
 
 	<!-- Playing an instrument -->
@@ -1967,12 +1992,15 @@
 	<key id="$s_playinstrument_score_empty_score" value="Place a musical score."/>	
 	
 	<!--Music production-->
-	<key id="$s_writemusic_charset" value="0-9ABCDEFGabcdefgSsOoLlTtVvRr&amp;&lt;&gt;.+\r\- "/>
+	<key id="$s_writemusic_charset" value="0-9ABCDEFGabcdefgSsOoLlTtVvRrNn&amp;&lt;&gt;.+\r\- Nn"/>
 	<key id="$s_writemusic_title" value="Composing | BETA"/>
 	<key id="$s_writemusic_btn_help_storybook" value="Composition Help"/>
 	<key id="$s_writemusic_btn_help_webpage" value="Read More"/>
 	<key id="$s_writemusic_btn_make" value="Create Musical Score"/>
 	<key id="$s_writemusic_btn_write_keyboard" value="Casio to composing"/> <!--Hidden-->
+	<key id="$s_writemusic_btn_copy_to_clipboard" value="To copy"/>
+	<key id="$s_writemusic_btn_load_file" value="Importing files"/>
+	<key id="$s_writemusic_btn_save_file" value="To save the file"/>
 	<key id="$s_writemusic_text_musicscore_title" value="Title"/>
 	<key id="$s_writemusic_text_musicscore_title_default" value="Enter a title. (3~14 letters)"/>
 	<key id="$s_writemusic_text_musicscore_recommand_instrument" value="Instrument"/>
@@ -1983,7 +2011,7 @@
 	
 	<key id="$s_writemusic_tooltip_btn_write_keyboard" value="&lt;FONT color='#FFD200' size='15' &gt;Compose Keyboard&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nComposed with piano keys.\nIf you press the on the keyboard to enter the recording mode that automatically provides support for the code."/>
 	<key id="$s_writemusic_tooltip_btn_make" value="&lt;FONT color='#FFD200' size='15' &gt;Create Musical Score&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSo far as the contents entered by the sheet music.\nProduced by sheet music cannot be modified."/>
-	<key id="$s_writemusic_tooltip_btn_play_gofirst" value="3"/>
+	<key id="$s_writemusic_tooltip_btn_play_gofirst" value="&lt;FONT color='#FFD200' size='15' &gt;The preview for the first time&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can listen ahead again from the beginning."/>
 	<key id="$s_writemusic_tooltip_btn_play_start" value="&lt;FONT color='#FFD200' size='15' &gt;Preview&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAs far as I can hear the preview input.\nYou cannot modify the contents of the preview."/>
 	<key id="$s_writemusic_tooltip_btn_play_stop" value="&lt;FONT color='#FFD200' size='15' &gt;Stop Preview&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo stop the preview."/>
 	<key id="$s_writemusic_tooltip_btn_help_storybook" value="&lt;FONT color='#FFD200' size='15' &gt;Composition Help&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCompositions used in the grammar, written description of the storybook.\nIf you want to find out more 'Read more'Check out the page of posts."/>
@@ -2004,4 +2032,5 @@
 	<key id="$s_writemusic_text_limit_total_musicscore_length" value="You have exceeded the length limit of the musical score."/>
 	<key id="$s_writemusic_text_notice_during_play_music" value="You cannot preview while playing your musical score."/>
 
+	<key id="$s_talk_script_reward_exp" value="{0} EXP"/>
 </ms2>

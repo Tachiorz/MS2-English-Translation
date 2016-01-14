@@ -918,6 +918,20 @@
 	<key id="10000915" name="Open the container for leather"/>
 	<key id="10000916" name="Pickup package"/>
 	<key id="10000917" name="Take Photo"/>
+	<key id="10000918" name="Levers"/>
+	<key id="10000919" name="Levers"/>
+	<key id="10000920" name="Blinking curse on the foot of the long sword release"/>
+	<key id="10000921" name="Blinking curse on the shield of the foot release"/>
+	<key id="10000922" name="Blinking curse on the foot of the bayonet release"/>
+	<key id="10000923" name="Blinking curse on solving foot rock staff"/>
+	<key id="10000924" name="Blinking curse hung in the Hall of the foot release"/>
+	<key id="10000925" name="Blinking curse on the foot of the code release"/>
+	<key id="10000926" name="Blinking curse on the feet of the bow release"/>
+	<key id="10000927" name="Blinking curse on the foot rock Canon release"/>
+	<key id="10000928" name="Blinking curse on the foot of the massive release"/>
+	<key id="10000929" name="Blinking curse fiends in the citation of the foot release"/>
+	<key id="10000930" name="Blinking curse took the blade of the foot release"/>
+	<key id="10000931" name="Research dimension the dimension stone blinking door opener"/>
 	<key id="11000001" name="Open Golden Treasure Chest"/>
 	<key id="11000002" name="Open"/>
 	<key id="11000003" name="Open"/>
@@ -2123,6 +2137,7 @@
 	<key id="19000017" name="Browse Maple Store"/>
 	<key id="19000018" name="View Rankings"/>
 	<key id="19000019" name="View Rankings"/>
+	<key id="19000020" name="See the rankings"/>
 	<key id="20000001" name="View Telescope"/>
 	<key id="20000002" name="View Telescope"/>
 	<key id="20000003" name="View Telescope"/>

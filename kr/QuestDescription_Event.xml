@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Parsing this data used do not directly modify the -->
+<ms2>
+	<quest questID="80000001" name="Best of luck to open the box!" desc="Every time you can acquire $item:20300133$ $item:30000512$Just as I could. $item:30000512$ If you lack the elite monsters on the field to try and kill $npc:11001484$ Tipping. Not only that, but she $item:20300133$ 50Times set aside a special gift to give to your recovery. So come on, let's verify the box." manual="$item:30000512$As $item:20300133$ Open" complete="$map:02000064$In $npc:11001484$ To communicate" count="1"/>
+</ms2>

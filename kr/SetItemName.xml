@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!-- Parsing this data used do not directly modify the -->
 <ms2>
-	<key id="15123101" name="Battle Knight Set"/>
-	<key id="15123102" name="Frenzied Berserker Set"/>
-	<key id="15123103" name="Magical Wizard Set"/>
-	<key id="15123104" name="Holy Priest Set"/>
-	<key id="15123105" name="Concentrated Ranger Set"/>
-	<key id="15123106" name="Heavy Gunner Artillery Set"/>
-	<key id="15123107" name="Confused Thief Set"/>
-	<key id="15123108" name="Confused Assassin Set"/>
-	<key id="15123109" name="Shaman Rune Blader Set"/>
+	<key id="15123101" name="Rumi de cor set"/>
+	<key id="15123102" name="Rumi de Ravi s set"/>
+	<key id="15123103" name="Rumi De KIA set"/>
+	<key id="15123104" name="Rumi de Deus set"/>
+	<key id="15123105" name="Rumi de set"/>
+	<key id="15123106" name="Rumi de Liv Rato set"/>
+	<key id="15123107" name="Rumi de Erebus set"/>
+	<key id="15123108" name="Rumi de Chicago set"/>
+	<key id="15123109" name="Rumi de Paul's Ruth set"/>
 </ms2>
