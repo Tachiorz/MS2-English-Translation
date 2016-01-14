@@ -3313,7 +3313,7 @@ Guild Invite : /길드초대, /guildinvite, /ginvite
 Maview Search : /검색, /search
 - [How to Maview Search] /search Keyword
 Switch Channel : /채널이동
-- [How to Switch Channels] /채널이동
+- [How to Switch Channels] /채널이동"/>
   
   <key id="s_timeevent_common_1" value="Let's play together! Come to the Cave of Runes in Amherst!"/>
   <key id="s_timeevent_common_4" value="Event in Queenstown is in progress."/>
