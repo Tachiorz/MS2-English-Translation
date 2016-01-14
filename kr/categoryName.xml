@@ -328,7 +328,7 @@
 	<key id="40302" name="Install Equipment"/>	
 	<key id="40400" name="Storage Box"/>	
 	<key id="40500" name="Maid"/>	
-	<key id="40600" name="Fett"/>	
+	<key id="40600" name="Pett"/>	
 	<key id="40700" name="Mount"/>	
 	<key id="40800" name="Action Emote"/>	
 	<key id="40900" name="Action Skillbook"/>		
@@ -336,8 +336,8 @@
 	<key id="41000" name="Consume, ETC"/>
 	<key id="41100" name="Badge"/>
 	
-	<key id="42000" name="Fett"/>
-	<key id="42001" name="Fett capsule"/>
-	<key id="42002" name="Pet feeding"/>
+	<key id="42000" name="Pet"/>
+	<key id="42001" name="Pet Capsule"/>
+	<key id="42002" name="Pet Food"/>
 	
 	</ms2>
