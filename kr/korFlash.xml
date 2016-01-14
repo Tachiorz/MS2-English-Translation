@@ -103,12 +103,12 @@
 	<key id="$s_inventory_tab_skill" value="Skill"/>
 	<key id="$s_inventory_tab_install" value="Construction"/>
 	<key id="$s_inventory_tab_misc" value="ETC"/>
-	<key id="$s_inventory_tab_ridee" value="Mounts/Fett"/>
+	<key id="$s_inventory_tab_ridee" value="Mount/Pet"/>
 	<key id="$s_inventory_meso_drop" value="Drop Meso"/>
 	<key id="$s_inventory_range" value="Auto Sort"/>
 	<key id="$s_inventory_item_option" value="Item Pick-Up"/> 
 	<key id="$s_inventory_remake_item_option" value="Change Equipment Option"/> 
-	<key id="$s_inventory_item_break" value="Disassembling the"/> 
+	<key id="$s_inventory_item_break" value="Break"/>
 	<key id="$s_inventory_item_break_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Disassembling the&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPortable Onyx-exhausters.\n20Disassemble the equipment item above level\nOnyx can extract a decision."/> 
 	<key id="$s_inventory_slot_count" value="Displays the slot information in the current tab.\nNumber of slots used / Total number of slots"/> 
 	<key id="$s_inventory_range_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Auto alignment&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAutomatically sort items of personal belongings."/> 
@@ -1369,7 +1369,7 @@
 	<key id="$s_invitegroup_button_invite" value="Invite"/>
 
 	<!-- item break -->
-	<key id="$s_itembreak_title" value="Onyx-exhausters NSD-3500"/>
+	<key id="$s_itembreak_title" value="Onyx Extraction Device NSD-3500"/>
 	<key id="$s_itembreak_break" value="Dismantle"/>
 	<key id="$s_itembreak_retry" value="Go Back"/>
 	<key id="$s_itembreak_desc" value="Dismantle equipment to extract Onyx Crystals from it.\nPlace a dismantleable equipment (Lv. 20Lv or higher)."/>
@@ -1929,7 +1929,7 @@
 	<key id="$s_dark_stream_result_exp" value="{0} EXP"/>
 
 	<key id="$s_notice_dialog_title" value="Events in Progress"/>
-	<key id="$s_notice_dialog_footer" value="* Add your own cute and adorable pet! Temple cold sales!"/>
+	<key id="$s_notice_dialog_footer" value="※ Add your own cute and adorable pet! Temple cold sales!"/>
 
 	<!-- Change options for an item (Arial) -->
 	<key id="$s_itemremakeoption_title" value="Change options for adding items"/>
