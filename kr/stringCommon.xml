@@ -103,7 +103,7 @@
 	<key id="s_err_job_inventory_full" value="Please empty {0} slots in your inventory."/>
 
 
-	<!-- [Vote-by-mail] -->
+	<!-- [Mailbox] -->
 	<key id="s_mail_send" value="The letter was sent."/>
 	<key id="s_mail_return" value="The letters bounce."/>
 	<key id="s_mail_delete" value="The letter was deleted."/>
