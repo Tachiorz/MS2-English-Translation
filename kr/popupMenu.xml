@@ -26,6 +26,6 @@
 	<key id="501" name="Report"/>
 	<key id="502" name="Group Talk"/>
   <key id="503" name="Visit House"/>
-  <key id="504" name="Pet Information"/>
-  <key id="505" name="Pet Desummon"/>
+  <key id="504" name="Information"/>
+  <key id="505" name="Dismiss"/>
 </ms2>
