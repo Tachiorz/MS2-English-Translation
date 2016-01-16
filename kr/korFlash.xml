@@ -220,9 +220,9 @@
 	<key id="$s_gameoption_NormalChatBalloon" value="Display area chat speech bubble"/>
 	<key id="$s_gameoption_PartyChatBalloon" value="Display party chat speech bubble"/>
 	<key id="$s_gameoption_GuildChatBalloon" value="Display guild chat speech bubble"/>
-	<key id="$s_gameoption_ShowOnlyMyPet" value="My pet only the status of the show (a version of the comic, sound)"/>
+	<key id="$s_gameoption_ShowOnlyMyPet" value="Only display my pet's dialogue and sounds"/>
 	<key id="$s_gameoption_HideMyPet" value="Hide my pet"/>
-	<key id="$s_gameoption_HideOtherPet" value="Hide the other user's pet"/>
+	<key id="$s_gameoption_HideOtherPet" value="Hide the pets of other players"/>
 
 	<key id="$s_gameoption_MyGiveDamage" value="Display damage inflicted"/>
 	<key id="$s_gameoption_MyTakeDamage" value="Display damage received"/>
@@ -1954,7 +1954,7 @@
 
 	<!-- Pet information -->
 	<key id="$s_petsetting_title" value="Pet Information"/>
-	<key id="$s_petsetting_summon_off" value="Desummon"/>
+	<key id="$s_petsetting_summon_off" value="Dismiss"/>
 	<key id="$s_petsetting_auto_revive" value="&lt;font color='#000000'&gt;Auto-monument to the resurrection | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
   <key id="$s_petsetting_auto_revive_desc" value="Out of State to help the host fell in the battle.\nYou cannot give the steel monument defaced."/>
 	<key id="$s_petsetting_auto_itemuse" value="&lt;font color='#000000'&gt;Auto potion recovery | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
