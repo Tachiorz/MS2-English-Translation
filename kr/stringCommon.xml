@@ -3266,9 +3266,9 @@
   <key id="s_auto_itemuse_condition" value="HPIs {0}% Days when"/>
 
   <!-- Fett-->
-  <key id="s_pet_input_name" value="Pet's name.\n(Korean six-party, * you can enter up to 12 characters.)"/>
-  <key id="s_pet_summon_on" value="Pet summons."/>
-  <key id="s_pet_summon_off" value="Summons a pet has been released."/>
+  <key id="s_pet_input_name" value="Pet's name.\n(You can enter up to 6 Hangul and 12 English characters.)"/>
+  <key id="s_pet_summon_on" value="Your pet has been summoned."/>
+  <key id="s_pet_summon_off" value="Your pet has been dismissed."/>
   <key id="s_pet_inventory_ask_in" value="Do you want to keep a few dogs?"/>
   <key id="s_pet_inventory_ask_out" value="Some dogs out?"/>
   <key id="s_pet_inventory_slot_use_count" value="Pet bag ({0}/{1})"/>
@@ -3278,13 +3278,13 @@
   <key id="s_pet_inventory_not_sendin" value="I don't have any more items forces which could not be heard.\nPet bag can only bring the item inside."/>
   <key id="s_pet_inventory_not_sendin_petitem" value="Dear friend, you cannot hold the bag."/>
   <key id="s_pet_additional_desc_name" value="&lt;font color='#000000'&gt;{0} | &lt;/font&gt;&lt;font color='#00a2ed'&gt;Passive&lt;/font&gt;"/>
-  <key id="s_pet_change_name_free" value="Pet name for a one-time free to change.\nAre you sure you want to change the name of a pet?"/>
+  <key id="s_pet_change_name_free" value="Pet name changes will only be free for the first change.\nAre you sure you want to change the name of your pet?"/>
   <key id="s_pet_change_name_merat" value="If you want to change the name of a pet {0}&lt;Img Src='export_common_icon_merat' vspace='-4'/&gt;This is required.\nAre you sure you want to change the name of a pet?"/>
   <key id="s_pet_change_name_same" value="The same name cannot be changed."/>
   <key id="s_pet_change_name_samename" value="The same name cannot be changed."/>
-  <key id="s_pet_itemuse_cannot_not_posion" value="Potion items can be set."/>
-  <key id="s_pet_itemuse_cannot_same_item" value="The item is a duplicate, such as cannot be set."/>
-  <key id="s_pet_itemuse_cannot_same_condition" value="You cannot duplicate a single condition."/>
+  <key id="s_pet_itemuse_cannot_not_posion" value="Only consumable items can be used."/>
+  <key id="s_pet_itemuse_cannot_same_item" value="The item is already being used."/>
+  <key id="s_pet_itemuse_cannot_same_condition" value="Each potion must be assigned to a different condition."/>
   <key id="s_pet_itemuse_cannot_notexist_condition" value="Please select a condition to use the potion."/>
   <key id="s_pet_itemuse_cannot_drag_user_inventory" value="Pet bag containing the items can be registered."/>
 
