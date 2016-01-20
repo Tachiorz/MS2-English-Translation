@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!-- Parsing this data used do not directly modify the -->
 <ms2>
-	<tip id="1" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Sometimes talking to the dealer.\nMaybe you may find useful items."/>
-	<tip id="2" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Newbie gets 10 levels $map:2000001$Of $map:2000188$You can do the former."/>
-	<tip id="3" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Have you ever dressed as soon as stores?\nWearing a new products immediately."/>
-	<tip id="4" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Try to buy a House for the first time recognize?\n$map:2000002$Of the House of Commons, or the same value the joint housing and Salisbury Livingston homes at once."/>
-	<tip id="5" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Are you looking for a House to buy new? Empty the grounds in front of the House, click on an icon, you can buy a House, take a seal in the contract."/>
-	<tip id="6" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to buy a home, you can click the icon in the House contract."/>
-	<tip id="7" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Houses each account can only have one, I will share all the characters in your account."/>
-	<tip id="8" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to rename, click the Home icon in the main screen after a contract,\nChange the name of the House button in the contract."/>
-	<tip id="9" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can buy a house in the village, but it is not.\nIn many places in a variety of sizes of house sales."/>
-	<tip id="10" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The more expensive the price House in a good location."/>
-	<tip id="11" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you lived in a House to terminate the contract, all the items are placed in the House movers storage warehouses."/>
-	<tip id="12" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Movers storage warehouses since some items are kept in storage after 90 days or it will disappear."/>
-	<tip id="13" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Moved to a different House, you have to terminate the contract of an existing House."/>
-	<tip id="14" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="After a period of the contract of the House, you may not use the House anymore."/>
-	<tip id="15" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to terminate the contract of the House, who lives at the termination of the agreement, click on the button if you sign a contract."/>
-	<tip id="16" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Use your current contract expire thirty (30) days, the grounds of the\nReal estate contracts can extend the term of the agreement to open up."/>
-	<tip id="17" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Tri Ah $map:02000123$You can see the real estate price."/>
-	<tip id="18" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you recover the Interior the building placed on the item will be moved to the archive all the movers warehouse."/>
-	<tip id="19" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Near my house B The construction of the mode key is pressed, you can place items in the home."/>
-	<tip id="20" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The construction of their own or you can place the item inside the building."/>
-	<tip id="21" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The orientation of an item you have placed in your House when you don't like when you rotate an item posted."/>
-	<tip id="22" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Barney's stores are in this mode, you can use the construction."/>
-	<tip id="23" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000036$You can decorate the House and sell a variety of goods."/>
+	<tip id="1" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Sometimes you may see walking merchants.\nYou might be able to find useful items for sale."/>
+	<tip id="2" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Once a beginner gets to level 10, head to $map:2000188$ of $map:2000001$ for a job."/>
+	<tip id="3" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Do you equip new items after purchasing?\n Remember to wear new gear immediately."/>
+	<tip id="4" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Buying a house for the first time?\nFind an apartment complex at $map:2000002$ Livingston House of Commons of Salisbury House of Commons."/>
+	<tip id="5" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Are you looking to buy a new house? Click on the icon in front of the empty land or house to sign a contract."/>
+	<tip id="6" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to buy a home, you can click the house icon for the contract."/>
+	<tip id="7" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Each account can only have one house. A house is shared within the characters."/>
+	<tip id="8" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to rename your house, click on the contract.\nFrom there you can change the name via contract.."/>
+	<tip id="9" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Houses are not only sold in villages.\nMany other places carry a variety of home sizes."/>
+	<tip id="10" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The better location, the more expensive the house is."/>
+	<tip id="11" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you terminate your housing contract, all your items will be kept in the mover's storage warehouse."/>
+	<tip id="12" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Items can only be kept in the mover's storage warehouse for 90 days or it will disappear."/>
+	<tip id="13" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to move to a different house, you can terminate your current contract."/>
+	<tip id="14" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="After the contract ends, there is a period of time the house is unavailable."/>
+	<tip id="15" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you would like to terminate your contract, click on the housing agreement contract to cancel."/>
+	<tip id="16" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="A housing contract lasts thirty (30) days.\nYou can extend the term through the contract."/>
+	<tip id="17" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can view real estate pricing through Tria's $map:02000123$."/>
+	<tip id="18" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you withdraw all items in the house, it will be moved to the mover's storage warehouse"/>
+	<tip id="19" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When you are at your home, you can press 'B' to modify your house."/>
+	<tip id="20" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can place items down in land or inside your building.">
+	<tip id="21" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you don't like the orientation of an item in your home, you can rotate it."/>
+	<tip id="22" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Bunny Girl's shop is available in construction mode."/>
+	<tip id="23" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000036$ sells a variety of items to decorate your home."/>
 	<tip id="24" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Grab bag merchants are selling stuff people gathering event map."/>
 	<tip id="25" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Grab bag trader to buy rare stuff"/>
 	<tip id="26" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you return home using the device, you can easily move to the front of the House.\nOf course you can also come back to the original position."/>
