@@ -298,13 +298,22 @@
 	
 	<key id="39000" name="그 외" />		
 	<key id="39006" name="포션" />		
-	<key id="39014" name="탈것" />		
-	<key id="39008" name="액션" />		
-	<key id="39021" name="스토리북" />	
+	<key id="39008" name="액션" />	
 	<key id="39009" name="기타" />	
-	<key id="39010" name="전체" />		
+	<key id="39010" name="전체" />
+	<key id="39014" name="탈것" />		
+	<key id="39015" name="탈것" />		
+	<key id="39016" name="탈것 패키지" />		
+	
+	<key id="39021" name="스토리북" />	
 
-<!--프리미엄 샵-->
+
+  <key id="42000" name="펫" />
+  <key id="42001" name="펫캡슐" />
+  <key id="42002" name="펫먹이" />
+
+
+  <!--프리미엄 샵-->
 	<key id="40000" name="디자인 원본" />		
 	<key id="40001" name="특가판매" />		
 	<key id="40002" name="건설" />
@@ -332,13 +341,9 @@
 	<key id="40700" name="탈것" />	
 	<key id="40800" name="액션 수강증" />	
 	<key id="40900" name="액션 스킬북" />		
-	
 	<key id="41000" name="소비,기타" />
 	<key id="41100" name="배지" />
-	
-	<key id="42000" name="펫" />
-	<key id="42001" name="펫캡슐" />
-	<key id="42002" name="펫먹이" />
-	
-	</ms2>
+  <key id="41200" name="악기" />
+
+</ms2>
 

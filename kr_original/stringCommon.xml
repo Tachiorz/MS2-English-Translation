@@ -114,7 +114,8 @@
 	<key id="s_mail_delete_list" value="선택한 우편을 모두 삭제하시겠습니까?"/>
 	<key id="s_mail_receive_list" value="선택한 우편에 첨부된 물품을 모두 받으시겠습니까?"/>
 	<key id="s_mail_delete_list_received_mail" value="첨부된 물품을 받은 우편을 삭제하시겠습니까?"/>
-	<key id="s_mail_delete_list_attached_mail" value="첨부된 물품이 있는 우편이 포함되어 있습니다. 그래도 삭제하시겠습니까?"/>
+	<key id="s_mail_delete_list_attached_mail" value="첨부된 물품이 있는 우편이 포함되어 있습니다. \n선택한 우편을 삭제하시겠습니까?"/>
+	<key id="s_mail_delete_list_attached_mail_checkbox" value="첨부된 물품이 있는 우편도 삭제하기"/>
 
 	<!-- [이동] -->
 	<key id="s_change_ch_err_field" value="이곳에서는 채널 이동을 할 수 없습니다."/>
@@ -162,6 +163,7 @@
 	<key id="s_ugcmap_no_home" value="소유한 집이 없습니다. 내 집을 구매 해 보세요."/> <!--소유한 부동산이 없을때-->
 	<key id="s_ugcmap_buy_realestate" value="새 집을 구매했습니다."/>
 	<key id="s_ugcmap_sell_realestate" value="부동산 계약을 해지했습니다."/>
+	<key id="s_ugcmap_use_sale_coupon_to_buy" value="쿠폰을 사용해서 집을 계약했습니다."/>
 
 
 	<!--UGC 건설모드, 아이템 설치/회수 관련 메시지-->
@@ -223,7 +225,7 @@
 
 	<key id="s_ugcmap_package_name" value="[{0}] 아이템을 사용합니다."/>
 	<key id="s_ugcmap_package_description" value="&lt;FONT color='#C0C0C0'&gt;아이템 사용 시 되돌릴 수 없으며, 공사권에 포함된 아이템은 소지품으로 들어갑니다. 소지품이 가득 찬 경우에는 이삿짐 보관 창고에 보관되며, 이 경우 보관 기간이 지나면 아이템이 삭제됩니다. &lt;/FONT&gt; &lt;FONT color='#FF5F5F'&gt;단, 인테리어 도중 집에서 나갈 경우 공사가 중단되니 주의하세요.&lt;/FONT&gt;"/>
-	<key id="s_ugcmap_package_build_condition" value="[사용 조건]"/>
+	<key id="s_ugcmap_package_build_condition" value="[자동 설치 조건]"/>
 	<key id="s_ugcmap_package_build_description" value="{0} 실내에서만 가능\n실내에 배치된 건설 아이템이 없을 경우에만 가능\n "/>
 
 
@@ -287,7 +289,9 @@
 	<key id="s_ugcmap_package_automatic_creation_suspended" value="인테리어 공사권 자동 설치가 중단되었습니다."/>
 	<key id="s_ugcmap_package_automatic_removal_suspended" value="실내 비우기가 중단되었습니다."/>
 	<key id="s_ugcmap_package_automatic_creation_skip" value="설치에 필요한 아이템이 없어 제외 후 진행합니다."/>
-
+	<key id="s_ugcmap_package_open_package_when_indoor_size_is_different" value="&lt;FONT color='#FF5F5F'&gt;실내 크기가 맞지 않아 자동 설치를 할 수 없습니다.&lt;/Font&gt;\n자동 설치 없이 아이템만 받겠습니까?"/>
+	<key id="s_ugcmap_package_open_package_when_indoor_is_empty" value="&lt;FONT color='#FF5F5F'&gt;실내가 비워져 있지 않아 자동설치를 할 수 없습니다.&lt;/Font&gt;\n자동 설치 없이 아이템만 받겠습니까?"/>
+	
 	<!--[친구]-->
 	<key id="s_buddy_err_unknown" value="시스템 오류 : 커뮤니티"/>
 
@@ -2256,6 +2260,8 @@
 	<key id="s_minimap_tooltip_quest_progress" value="{0} &lt;FONT color='#909090'&gt;{1:2d}레벨 {2}&lt;/FONT&gt;"/> <!--아이콘 XX레벨 퀘스트 이름 -->
 	<key id="s_minimap_tooltip_quest_ablenow" value="{0} {1:2d}레벨 {2}"/> <!--아이콘 XX레벨 퀘스트 이름 -->
 	<key id="s_minimap_tooltip_quest_ableupper" value="{0} &lt;FONT color='#909090'&gt;{1:2d}레벨 {2}&lt;/FONT&gt;"/> <!--아이콘 XX레벨 퀘스트 이름 -->
+	
+	<key id="s_minimap_tooltip_field_info" value="{0} / {1}레벨"/> <!--아이콘 XX레벨 퀘스트 이름 -->
 
 
 	<!--파티 툴팁 온라인 + s_tooltip_party_ch -->
@@ -2673,6 +2679,7 @@
 	<key id="s_meratmarket_error_common" value="시스템 오류 : 메럿 마켓을 이용할 수 없습니다. Code = {0}"/>
 	<key id="s_meratmarket_error_already_sale" value = "아이템을 삭제할 수 없습니다."/>
 	<key id="s_meratmarket_error_not_sale" value = "판매하지 않는 상품입니다."/>
+	<key id="s_meratmarket_error_not_sale_expired" value="판매 기한이 만료된 아이템입니다."/>
 	<key id="s_meratmarket_error_search_result_empty" value="'{0}'에 대한 검색 결과가 없습니다.\n다른 단어로 검색해 주세요."/>
 	<key id="s_meratmarket_error_search_result_empty_by_itemlink" value="아이템 링크[메럿 마켓:{0}]에 대한 검색 결과가 없습니다.\n현재 판매되지 않는 상품입니다."/>
 	<key id="s_meratmarket_error_search_result_empty_by_banner" value="검색 결과가 없습니다."/>
@@ -2681,7 +2688,6 @@
 	<key id="s_meratmarket_error_buy_soldout" value="판매 준비 중인 상품입니다."/>
 	<key id="s_meratmarket_error_buy_soldout_premium_buylimit" value="더 이상 구매할 수 없습니다."/>
 	<key id="s_meratmarket_error_add_basket_by_buylimit" value="한정 판매 상품은 즉시 구매만 가능합니다."/>
-
 
 	<key id="s_meratmarket_bookmark_add_complete" value="{0} 님을 즐겨찾는 디자이너로 등록했습니다."/>
 	<key id="s_meratmarket_bookmark_limit_maxcount" value="최대 {0}명까지만 즐겨찾기에 등록할 수 있습니다.\n즐겨찾기 목록을 정리한 후 다시 시도해 주세요."/>
@@ -2855,10 +2861,8 @@
 	<key id="s_worldchat_use_coupon" value="월드 대화 쿠폰을 사용하였습니다."/>
 	<key id="s_channelchat_use_coupon" value="채널 대화 쿠폰을 사용하였습니다."/>
 	<key id="s_revival_use_coupon" value="제자리 부활 쿠폰을 사용하였습니다."/>
-
 	<key id="s_alreadyloginuser_request_kick" value="다른 컴퓨터에서 게임에 접속했습니다.\n현재 접속이 종료됩니다."/>
 	<key id="s_alreadyloginuser_response_kick" value="다른 컴퓨터에서 게임에 접속되어있어 기존 접속을 종료했습니다. 다시 접속을 시도해 주세요. \n반복해서 시도해도 접속이 안되면 \n5분 후 다시 시도하거나 고객센터에 문의하세요."/>
-
 	<key id="s_pcbang_play_time1" value="{0}시간 {1}분 접속"/>
 	<key id="s_pcbang_play_time2" value="{0}분 접속"/>
 	<key id="s_pcbang_cant_tutorial_field" value="튜토리얼 종료 후 받을 수 있습니다."/>
@@ -2867,15 +2871,11 @@
 	<key id="s_pcbang_get_play_item" value="{0}\n&lt;font color='#FFD200'&gt;PC방 접속 타임 이벤트 선물이 우편으로 도착했습니다.&lt;/font&gt;"/>
 
 	<!-- 플레이시간 알림-->
-	<key id="s_play_warnning" value="&lt;FONT color='#FF5F5F'&gt;게임 이용 시간이 {0}시간 경과했습니다.\n과도한 게임 이용은 정상적인 일상 생활에 지장을 줄 수 있습니다.&lt;/FONT&gt;"/>
-	<key id="s_play_warnning_1hour" value="플레이 시간이 1시간이 되었습니다."/>
-	<key id="s_play_warnning_2hour" value="플레이 시간이 2시간이 되었습니다."/>
-	<key id="s_play_warnning_3hour" value="플레이 시간이 3시간이 되었습니다."/>
-	<key id="s_play_warnning_3hour_30min" value="플레이 시간이 3시간 30분이 되었습니다."/>
-	<key id="s_play_warnning_4hour" value="플레이 시간이 4시간이 되었습니다." />
-	<key id="s_play_warnning_4hour_30min" value="플레이 시간이 4시간 30분이 되었습니다."/>
-	<key id="s_play_warnning_5hour" value="플레이 시간이 5시간이 되었습니다."/>
-	<key id="s_play_warnning_every_15min" value="플레이 시간이 5시간이 초과 되었습니다."/>
+	<key id="s_play_time_warnning" value="게임 이용 시간이 {0}시간 경과했습니다." />
+	<key id="s_play_time_warnning_fatigue_half_begin" value="게임 이용 시간이 누적되어 제한 시간에 도달하였습니다.\n모든 게임수익이 정상치의 50% 로 감소됩니다.\n과도한 게임 이용은 정상적인 일상 생활에 지장을 줄 수 있습니다." />
+	<key id="s_play_time_warnning_fatigue_half" value="게임 이용 제한 시간이 경과 되어 모든 게임수익이 정상치의 50% 로 감소된 상태입니다.\n과도한 게임 이용은 정상적인 일상 생활에 지장을 줄 수 있습니다." />
+	<key id="s_play_time_warnning_fatigue_max" value="게임 이용 제한 시간이 최대치에 도달하였습니다.\n모든 게임수익이 정상치의 0% 로 감소됩니다.\n게임 종료 후 5시간 뒤에 정상적으로 게임 하실 수 있습니다." />
+	<key id="s_play_time_warnning_chat" value="&lt;FONT color='#FF5F5F'&gt;게임 이용 시간이 {0}시간 경과했습니다.\n과도한 게임 이용은 정상적인 일상 생활에 지장을 줄 수 있습니다.&lt;/FONT&gt;"/>
 
 	<key id="s_nametag_symbol_none" value="마크 없음"/>
 	<key id="s_nametag_symbol_enchant" value="파워 인챈터"/>
@@ -2886,7 +2886,6 @@
 	<key id="s_nametag_symbol_musician" value="악사"/>
 	<key id="s_nametag_symbol_fisher" value="낚시왕"/>
 	<key id="s_nametag_symbol_balrog" value="악의 정복자"/>
-
 	<key id="s_nametag_symbol_enchant_desc" value="+12 엑설런트 이상의 장비 장착 시 표시"/>
 	<key id="s_nametag_symbol_seller_desc" value="탑 디자이너 칭호 획득 시 표시"/>
 	<key id="s_nametag_symbol_guild_desc" value="진정한 챔피언 칭호 획득 시 표시"/>
@@ -2895,7 +2894,6 @@
 	<key id="s_nametag_symbol_musician_desc" value="[꿈꾸는 악사] 트로피 달성 후 악사 칭호 획득 시 표시"/>
 	<key id="s_nametag_symbol_fisher_desc" value="[월척이다 또!] 트로피 달성 후 낚시왕 칭호 획득 시 표시"/>
 	<key id="s_nametag_symbol_balrog_desc" value="악의 정복자 칭호 획득 시 표시"/>
-
 	<key id="s_attend_play_gift_slot" value="{0}\n{1}시간 접속 시"/>
 	<key id="s_attend_play_gift_received" value="우편 발송 완료 : 오늘 받을 수 있는 선물을 모두 받았습니다."/>
 	<key id="s_attend_play_gift_can_receive" value="우편을 보내는 중입니다."/>
@@ -2903,16 +2901,10 @@
 	<key id="s_attend_play_time2" value="{0}분 남음"/>
 	<key id="s_attend_play_time3" value="1분 미만 남음"/>
 	<key id="s_attend_play_gift_event_date" value="주말 1시간만 즐기면 꿀 아이템 지급!"/>
-
 	<key id="s_fieldboss_reward_assistbonus_notify" value="전투에 적극 참여해서 {0} 처치에 기여했습니다." />
-
 	<key id="s_macro_penalty_reward_notify" value="같은 지역에서 반복사냥으로 인하여 경험치 및 보상획득이 제한되었습니다." />
-
-
 	<key id="s_user_trigger_item_tooltip_enable_trigger_control" value="{0}\n트리거 제어기로 동작을 제어 할 수 있다." />
 	<key id="s_user_trigger_item_tooltip_state_change_action_permission" value="{0}\n집 주인만 조사할 수 있다." />
-
-
 	<key id="s_user_trigger_over_max_length" value="트리거 에디터에서 설정할 수 있는 최대 길이를 넘었습니다.\n설정한 내용을 줄여주세요." />
 	<key id="s_user_trigger_over_max_state" value="&lt;FONT color='#FF5F5F'&gt;더 이상 상태 추가를 할 수 없습니다.&lt;/FONT&gt;\n상태(State)는 최대 10개까지 설정할 수 있습니다." /><!-- 만들 수 있는 최대 상태(State) 개수를 초과했습니다.-->
 	<key id="s_user_trigger_over_max_enter_action" value="&lt;FONT color='#FF5F5F'&gt;OnEnter에 더 이상 액션 추가를 할 수 없습니다.&lt;/FONT&gt;\n최대 3개의 액션만 설정할 수 있습니다." /><!--상태(State)의 진입단계(OnEnter)에 설정할 수 있는 최대 액션 개수를 초과했습니다.!-->
@@ -3065,6 +3057,8 @@
 
 	<!-- 인첸트 스크롤 -->
 	<key id="s_enchantscroll_desc_enchant" value="&lt;FONT color='#ffd200'&gt;{0}&lt;/Font&gt;를 사용합니다.\n인챈트 성공 시 인챈트 단계가 {1}$pp:로,으로$ 변경됩니다.\n아이템 사용 후에는 되돌릴 수 없습니다."/> <!-- {1} : 성공확률-->
+	<key id="s_enchantscroll_desc_random_enchant" value="&lt;FONT color='#ffd200'&gt;{0}&lt;/Font&gt;를 사용합니다.\n아이템 사용 시 인챈트 단계는 {1} 단계 사이에서 랜덤으로 변경됩니다.\n아이템 사용 후에는 되돌릴 수 없습니다."/>
+	
 	<key id="s_enchantscroll_desc_restore" value="&lt;FONT color='#ffd200'&gt;{0}&lt;/Font&gt;를 사용합니다.\n아이템 사용 시 인챈트 단계는 {1}$pp:로,으로$ 변경되며, 인챈트 가능 상태가 됩니다.\n아이템 사용 후에는 되돌릴 수 없습니다."/> <!-- {1} : 성공확률-->
 	<key id="s_enchantscroll_limit" value="&lt;p align='center'&gt;&lt;font color='#ffd200'&gt;{0}&lt;/Font&gt;&lt;FONT color='#c909090'&gt;레벨&lt;/Font&gt; &lt;/Font&gt;&lt;FONT color='#ffd200'&gt;{1}&lt;/Font&gt; &lt;FONT color='#c909090'&gt;등급\n무기, 상의, 하의, 한벌 장비에 사용 가능&lt;/font&gt;&lt;/p&gt;"/> <!-- {2} : 슬롯을 하나하나 적어줌-->
 	<key id="s_enchantscroll_itemname" value="&lt;font color='{0}'&gt;+{1} {2}&lt;/font&gt;" />
@@ -3090,6 +3084,10 @@
 	<key id="s_function_cube_error_invalid_pos" value="거리가 멀어서 작동 할 수 없습니다."/>
 	<key id="s_function_cube_error_invalid_summon_user" value="현재 실내에 있는 캐릭터만 소환할 수 있습니다."/>
 
+	<key id="s_enchant_fail_desc_enchant" value="" /> <!--인챈트 스크롤의 실패 시 주의 사항-->
+	<key id="s_enchant_fail_desc_restore" value="&lt;FONT color='#FF5F5F'&gt;손상된 장비에만 사용할 수 있습니다.&lt;/FONT&gt;" /> <!--인챈트 스크롤의 실패 시 주의 사항-->
+	<key id="s_enchant_fail_desc_random" value="&lt;FONT color='#FF5F5F'&gt;인챈트 단계가 {0}~{1} 중 하나로 변경됩니다.&lt;/FONT&gt;" /> <!--인챈트 스크롤의 실패 시 주의 사항-->
+	
 	<!-- 낚시 숙련도-->
 	<key id="s_fishing_grade_Lv1" value="초보 1단계"/>
 	<key id="s_fishing_grade_Lv2" value="초보 2단계"/>
@@ -3212,7 +3210,7 @@
 	<key id="s_msg_tooltip_musicscore_writer" value="{0} 작곡"/>
 	
 	<key id="s_play_instrument_ui_score_info_writer" value="작곡 : {0}"/>
-	<key id="s_play_instrument_ui_score_play_duration" value="연주 시간 : {0}"/>
+	<key id="s_play_instrument_ui_score_play_duration" value="{0}"/>
 	<key id="s_play_instrument_ui_score_info_title" value="[악보] {0}"/>
 	<key id="s_play_instrument_ui_score_info_instrument" value="추천악기 : {0}"/>
 	<key id="s_play_instrument_ui_ask_close_while_playing_score" value="&lt;FONT color='#FF5f5f'&gt;창을 닫으면 연주가 중지 됩니다.&lt;/font&gt;\n정말 창을 닫으시겠습니까?" />
@@ -3224,6 +3222,9 @@
 	<key id="s_play_instrument_ui_button_stop_ensemble" value="합주 그만하기" />
 	<key id="s_play_instrument_ui_need_score" value="연주 할 악보가 없습니다.\n소지품에서 연주할 악보를 올려 주세요." />
 	<key id="s_play_instrument_ui_need_party_for_ensemble" value="&lt;FONT color='#FF5f5f'&gt;합주를 하려면 파티에 가입해야 합니다.&lt;/font&gt;\n파티장이 합주 시작을 하면\n근처에서 합주 준비를 한 파티원과 함께 합주를 시작합니다." />	
+	<key id="s_play_instrument_ui_unfold_solo_text" value="[독주 중] {0}" />
+	<key id="s_play_instrument_ui_unfold_ensemble_text" value="[합주 중] {0}" /> 
+	
 	<key id="s_play_instrument_invalid_instrument" value="악기가 유효하지 않습니다." />
 	<key id="s_play_instrument_invalid_music_score" value="악보가 유효하지 않습니다." />
 	<key id="s_play_instrument_mastery" value="연주 숙련도 {0} 가 올랐습니다." />	
@@ -3253,12 +3254,24 @@
 	<key id="s_writemusic_error_play_empty_score"  value="악보 내용이 비어 있습니다.\n악보 내용을 입력해 주세요."/>
 	<key id="s_writemusic_error_play_zero_time"  value="연주 시간이 0초입니다.\n작곡 방법 확인 후 내용을 입력해 주세요."/>
 	<key id="s_writemusic_error_add_tab_maxcount"  value="최대 탭 개수를 초과 했습니다."/>
+	<key id="s_writemusic_error_loadfile_ask_during_edit"  value="편집 중인 악보가 있습니다.\n다른 파일을 불러오면 편집 중인 내용이 사라집니다.\n계속 하시겠습니까?"/>
+	<key id="s_writemusic_error_loadfile_maxlength"  value="불러온 악보의 글자 수({0}자)가\n악보 제한 글자 수({1}자)보다 커서\n일부 내용을 제외하고 표시됩니다."/>
+	<key id="s_writemusic_error_loadfile_wrong_xml"  value="지원하지 않는 파일 형식이거나\n문법에 맞지 않아 불러올 수 없습니다."/>
+	<key id="s_writemusic_error_loadfile_not_exist_melody_tag"  value="멜로디가 없어 파일을 불러오는데 실패했습니다."/>
+	<key id="s_writemusic_error_savefile_empty_score"  value="악보 내용이 비어 있어 저장할 수 없습니다."/>
+	<key id="s_writemusic_error_savefile"  value="악보 저장에 실패했습니다.\n창을 닫고 악보를 다시 제작해 주세요."/>
 	
 	<key id="s_writemusic_msg_ask_close"  value="창을 닫으면 편집 중인 내용이 사라집니다.\n작곡을 중지하겠습니까?"/>
 	<key id="s_writemusic_msg_ask_remove_tab" value="화음을 삭제하면 입력된 내용이 사라집니다.\n삭제하시겠습니까?"/>
 	
 	<key id="s_writemusic_text_playtimer_total" value="({0:02d}:{1:02d})"/>
 	<key id="s_writemusic_text_playtimer_cur" value="{0:02d}:{1:02d}"/>
+	
+	<key id="s_writemusic_error_cant_write_when_viewscore" value="악보 보기 중에는 작곡할 수 없습니다." />
+	<key id="s_writemusic_error_cant_viewscore_when_write" value="작곡 중에는 악보 보기를 할 수 없습니다." />
+	<key id="s_writemusic_error_cant_know_writer" value="작곡자 정보를 알 수 없습니다." />
+	<key id="s_writemusic_error_not_write_myself" value="내가 작곡한 곡이 아닙니다." />
+	
 	<!-- -->
 	<key id="s_anti_addiction_cannot_receive" value="피로 게임 시간에 진입되어 실행할 수 없습니다." />
 
@@ -3288,6 +3301,7 @@
   <key id="s_pet_itemuse_cannot_same_condition" value="하나의 조건을 중복 설정할 수 없습니다."/>
   <key id="s_pet_itemuse_cannot_notexist_condition" value="포션을 사용할 조건을 선택해 주세요."/>
   <key id="s_pet_itemuse_cannot_drag_user_inventory" value="펫 가방에 담긴 아이템만 등록 가능합니다."/>
+  <key id="s_pet_error_summon_potion" value="해당 위치에서는 펫을 소환할 수 없습니다."/>
 
   <key id="s_pet_extension_ontarget" value="먹이를 줄 펫을 올려주세요."/>
   <key id="s_pet_extension_period" value="펫의 눈이 초롱초롱 빛납니다.\n펫에게 먹이를 먹여 다음 식사시간이\n{0}만큼 연장 되었습니다."/>
@@ -3324,4 +3338,9 @@
   
   <key id="s_timestring_am" value="AM" />
   <key id="s_timestring_pm" value="PM" />
+  
+  <key id="s_skill_compact_control_add_tab" value="새로운 콤팩트 키를 추가하시겠습니까?\n콤팩트 키의 이름을 입력하세요." />
+  <key id="s_skill_compact_control_rename_tab" value="새로운 콤팩트 키 이름을 입력하세요." />
+  <key id="s_skill_compact_control_same_tabname" value="같은 이름으로는 변경할 수 없습니다."/>
+  <key id="s_skill_compact_control_default_tabname" value="콤팩트 키"/>
 </ms2>

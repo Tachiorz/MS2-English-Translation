@@ -246,6 +246,7 @@
 	<key id="11300382" tooltipDescription="귀여운 너구리 귀를 본떠 제작한 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300383" tooltipDescription="작은 다람쥐 귀를 본떠 제작한 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300384" tooltipDescription="우아한 깃털로 장식한 머리 장식이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11300385" tooltipDescription="불타오르는 화염의 형상을 본떠 만든 거대한 뿔이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300387" tooltipDescription="날렵한 깃털 모양의 머리 장식이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300388" tooltipDescription="할로윈을 기념하기 위해 제작된 호박 요정의 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300389" tooltipDescription="길드 챔피언십에서 뛰어난 활약을 펼친 전사들을 위해 제작된 두건으로, 자격이 주어진 자만 입을 수 있다고 한다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
@@ -279,6 +280,7 @@
 	<key id="11300447" tooltipDescription="탄력을 잃어 스타일링하기 힘든 버섯 모자다. 하지만 앞에 붙은 부적이 어쩐지 행운을 가져다 줄 것만 같다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300448" tooltipDescription="$npc:23000034$의 느낌이 물씬 풍기는 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300449" tooltipDescription="$npc:23000035$의 느낌이 물씬 풍기는 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11300450" tooltipDescription="쫄깃한 떡과 만두가 담긴 떡국 그릇 형태의 모자이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11300451" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
 	<key id="11300452" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
 	<key id="11300453" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
@@ -306,6 +308,7 @@
 	<key id="11300475" tooltipDescription="사막 한 가운데에서 극한을 시험하는 전사들을 위해 만들어진 모자이다. 시프의 &apos;맹독 유리병&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="11300476" tooltipDescription="사막 한 가운데에서 극한을 시험하는 전사들을 위해 만들어진 모자이다. 어쌔신의 &apos;서클 오브 스타&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="11300477" tooltipDescription="사막 한 가운데에서 극한을 시험하는 전사들을 위해 만들어진 아펙스이다. 룬 블레이더의 &apos;냉기 스플리터&apos; 스킬의 위력이 한층 강해진다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
+	<key id="11300478" tooltipDescription="쫄깃한 떡과 만두가 담긴 떡국 그릇 형태의 모자이다. 양은 그릇이 뜨거우니 조심하자." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11309999" tooltipDescription="대장장이였던 $npc:11000404$의 아버지가 $npc:11000404$$pp:를,을$ 위해 직접 두드려 만든 철갑 투구이다." />
 	<key id="11400021" tooltipDescription="심플한 스트라이프 티이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11400022" tooltipDescription="큰 리본이 달린 여성스러운 민소매 티이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
@@ -428,6 +431,8 @@
 	<key id="11400367" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 영혼 : 난폭한 영혼의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 상의이다. 어둠의 기운을 가득 담고 있어 암흑의 힘을 강화시켜 준다.&lt;/font&gt;" />
 	<key id="11400369" tooltipDescription="할로윈을 기념하기 위해 제작된 호박 요정 의상이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11400370" tooltipDescription="할로윈을 기념하기 위해 제작된 호박 요정 의상이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11400375" tooltipDescription="불타오르는 화염의 힘을 담은 인페르노 갑옷의 상의이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11400376" tooltipDescription="불타오르는 화염의 힘을 담은 인페르노 갑옷의 상의이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11400377" tooltipDescription="테룬칼리브에서 단체로 주문 제작한 보급형 장비이다." />
 	<key id="11400378" tooltipDescription="이슈라가 착용하던 것으로 아끼는 제자를 위해 깨끗하게 수선한 흔적에서 스승의 따뜻한 마음이 느껴진다." />
 	<key id="11400379" tooltipDescription="바로타 상단에서 독점 취급하며 유통, 거래하고 있는 룬 블레이더용 장비다." />
@@ -436,6 +441,14 @@
 	<key id="11400382" tooltipDescription="룬 블레이더 선조들의 지식과 지혜가 깃들어있다." />
 	<key id="11400383" tooltipDescription="방수 재질로 만들어진 낚시꾼 의상이다. 가볍지만 구김이 가지 않아 멋스럽다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11400384" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 파멸 : 난폭한 파멸의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 상의이다. 파멸의 기운을 가득 담고 있어 암흑의 힘을 강화시켜 준다.&lt;/font&gt;" />
+	<key id="11400389" tooltipDescription="떡볶이 단추가 달려있는 단정한 더플 코트이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11400390" tooltipDescription="떡볶이 단추가 달려있는 단정한 더플 코트이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11400391" tooltipDescription="라쿤 털이 달린 두툼한 사파리 점퍼이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11400392" tooltipDescription="라쿤 털이 달린 두툼한 사파리 점퍼이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11400393" tooltipDescription="거위 털로 만들어진 패딩 점퍼이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11400394" tooltipDescription="거위 털로 만들어진 패딩 점퍼이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11400395" tooltipDescription="버클 장식이 달린 무스탕 재킷이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11400396" tooltipDescription="버클 장식이 달린 무스탕 재킷이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11400397" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
 	<key id="11400398" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
 	<key id="11400399" tooltipDescription="고대 전설로만 전해지는 고귀한 빛의 존재들이 남기고 간 &apos;어둠을 밝히는 빛&apos;이 스며있다." />
@@ -557,6 +570,8 @@
 	<key id="11500295" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 영혼 : 난폭한 영혼의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 하의이다. 어둠의 기운을 가득 담고 있어 암흑의 힘을 강화시켜 준다.&lt;/font&gt;" />
 	<key id="11500297" tooltipDescription="할로윈을 기념하기 위해 제작된 호박 요정 의상이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11500298" tooltipDescription="할로윈을 기념하기 위해 제작된 호박 요정 의상이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11500303" tooltipDescription="불타오르는 화염의 힘을 담은 인페르노 갑옷의 하의이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11500304" tooltipDescription="불타오르는 화염의 힘을 담은 인페르노 갑옷의 하의이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11500305" tooltipDescription="테룬칼리브에서 단체로 주문 제작한 보급형 장비이다." />
 	<key id="11500306" tooltipDescription="이슈라가 착용하던 것으로 아끼는 제자를 위해 깨끗하게 수선한 흔적에서 스승의 따뜻한 마음이 느껴진다." />
 	<key id="11500307" tooltipDescription="바로타 상단에서 독점 취급하며 유통, 거래하고 있는 룬 블레이더용 장비다." />
@@ -714,6 +729,8 @@
 	<key id="11600340" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 빙하 : 난폭한 빙하의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 장갑이다. 얼음의 기운을 가득 담고 있어 냉기의 힘을 강화시켜 준다.&lt;/font&gt;" />
 	<key id="11600341" tooltipDescription="천사들이 입었다고 전해지는 전설의 갑옷을 본떠 제작한 완갑이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11600342" tooltipDescription="천사들이 입었다고 전해지는 전설의 갑옷을 본떠 제작한 완갑이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11600343" tooltipDescription="불타오르는 화염의 힘을 담은 인페르노 갑옷의 완갑이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11600344" tooltipDescription="불타오르는 화염의 힘을 담은 인페르노 갑옷의 완갑이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11600346" tooltipDescription="할로윈을 기념하기 위해 제작된 호박 요정 장갑이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11600347" tooltipDescription="할로윈을 기념하기 위해 제작된 호박 요정 장갑이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11600348" tooltipDescription="길드 챔피언십에서 뛰어난 활약을 펼친 전사들을 위해 제작된 글러브로, 자격이 주어진 자만 입을 수 있다고 한다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
@@ -896,6 +913,8 @@
 	<key id="11700372" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 빙하 : 난폭한 빙하의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 신발이다. 얼음의 기운을 가득 담고 있어 냉기의 힘을 강화시켜 준다.&lt;/font&gt;" />
 	<key id="11700373" tooltipDescription="천사들이 입었다고 전해지는 전설의 갑옷을 본떠 제작한 부츠이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700374" tooltipDescription="천사들이 입었다고 전해지는 전설의 갑옷을 본떠 제작한 부츠이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700375" tooltipDescription="불타오르는 화염의 힘을 담은 인페르노 갑옷의 부츠이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11700376" tooltipDescription="불타오르는 화염의 힘을 담은 인페르노 갑옷의 부츠이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700378" tooltipDescription="할로윈을 기념하기 위해 제작된 호박 요정의 신발이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700379" tooltipDescription="할로윈을 기념하기 위해 제작된 호박 요정의 신발이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11700380" tooltipDescription="길드 챔피언십에서 뛰어난 활약을 펼친 전사들을 위해 제작된 부츠로, 자격이 주어진 자만 입을 수 있다고 한다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
@@ -993,6 +1012,7 @@
 	<key id="11850041" tooltipDescription="$npc:23000021$$pp:가,이$ 달고 있던 날개. 그 외에 이 날개에 대해 아직 밝혀진 바가 없다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11850042" tooltipDescription="$npc:23000054$$pp:가,이$ 사용하던 추진기. 카트로닉 박사가 처음 개발한 추진기로 알려져 있다. 성능보다는 안정성을 추구하며 냉각기술로 과도한 기계의 열을 잡으려고 노력했다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11850043" tooltipDescription="$npc:23000055$$pp:가,이$ 사용하던 추진기. 카트로닉 박사가 극한의 성능을 추구하며 만든 추진기로 알려져 있다. 최고의 성능을 내기 위해 만들어졌으며, 뜨거운 열로 인해 내구성은 낮다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
+	<key id="11850047" tooltipDescription="2016년을 기념하기 위해 제작된 행운을 가져다 준다는 붉은 원숭이 얼굴 모양의 가방이다." guideDescription="게임 아이템과 함께 착용이 가능한 스킨 아이템이다." />
 	<key id="11900008" tooltipDescription="오래 전 $npc:11000064$$pp:가,이$ $npc:11000222$$pp:와,과$ 특별한 인연을 맺은 것을 기념해서 선물한 목걸이이다." />
 	<key id="11900009" tooltipDescription="$npc:11000424$$pp:가,이$ 직접 한땀 한땀 손바느질로 만든 천 목걸이이다." />
 	<key id="11900010" tooltipDescription="이제는 사라진 고대 왕족 툼바족의 화려한 목걸이이다." />
@@ -1151,6 +1171,7 @@
 	<key id="13000047" guideDescription="둔기와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13000051" guideDescription="둔기와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13000052" guideDescription="둔기와 함께 사용할 수 있는 스킨 무기 아이템이다." />
+	<key id="13000055" guideDescription="둔기와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13000056" guideDescription="둔기와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13000057" guideDescription="둔기와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13100026" guideDescription="단검과 함께 사용할 수 있는 스킨 무기 아이템이다." />
@@ -1185,6 +1206,7 @@
 	<key id="13100131" guideDescription="단검과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13100132" guideDescription="단검과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13100142" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;난폭한 영혼의 힘 : 타격 시 8%의 확률로 발동하여 180%의 암흑 대미지를 입힌다. 난폭한 영혼의 힘은 한 번 발동하면 8초 동안은 다시 발동하지 않는다. PVP 지역에서 효과가 반감된다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 무기이다. 원한이 가득한 영혼을 소환하여 적을 공격한다.&lt;/font&gt;" />
+	<key id="13100144" guideDescription="단검과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13100145" guideDescription="단검과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13100148" guideDescription="단검과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13100149" tooltipDescription="스핑거가 사용하던 단검. 때때로 용맹한 스핑거의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
@@ -1222,6 +1244,7 @@
 	<key id="13200126" tooltipDescription="전설의 대장장이 르만이 전투장에서 힘을 겨루는 나이트 용사들을 위해 심혈을 기울여 만들었다는 롱소드이다. 반격의 의지를 감지하여 사용자에게 기운을 불어넣어 주는 신비한 힘이 깃들어 있다." />
 	<key id="13200127" guideDescription="롱소드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13200137" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;난폭한 불길의 힘 : 타격 시 8%의 확률로 발동하여 310%의 화염 대미지를 입힌다. 난폭한 불길의 힘은 한 번 발동하면 8초 동안은 다시 발동하지 않는다. PVP 지역에서 효과가 반감된다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 무기이다. 모든 것을 불태우는 화염의 기둥으로 적을 불태운다.&lt;/font&gt;" />
+	<key id="13200139" guideDescription="롱소드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13200140" guideDescription="롱소드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13200144" guideDescription="롱소드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13200145" tooltipDescription="바르칸트가 사용하던 롱소드. 강력한 바르칸트의 기운이 스며들어 있어 검을 사용하는 자에게 짧은 시간동안 힘을 빌려준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
@@ -1259,6 +1282,7 @@
 	<key id="13300126" guideDescription="홀과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13300136" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;난폭한 낙뢰의 힘 : 타격 시 8%의 확률로 발동하여 315%의 전격 대미지를 입힌다. 난폭한 낙뢰의 힘은 한 번 발동하면 8초 동안은 다시 발동하지 않는다. PVP 지역에서 효과가 반감된다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 무기이다. 번개의 기운을 모아 적에게 낙뢰를 떨어뜨린다.&lt;/font&gt;" />
 	<key id="13300138" tooltipDescription="$item:030000437$에서 추출한 강력한 어둠의 힘을 이용해 $item:030000424$$pp:를,을$ 감싸고 있던 불길한 마력의 봉인을 풀어 얻게 된 홀이다. $npcName:23090005$$pp:가,이$ 다른 살아있는 존재들의 피를 흡수해 자신의 생명력으로 삼는 것처럼, 장비한 자의 기운을 흡수하려는 성질을 가지고 있다. 위험함을 감수하고 사용할 수도 있지만, $npcName:23090005$의 저주를 풀어내는 방법을 찾아야 안전하게 사용할 수 있을 것 같다." />
+	<key id="13300139" guideDescription="홀과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13300140" guideDescription="홀과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13300143" guideDescription="홀과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="13300144" tooltipDescription="아마돈이 사용하던 홀. 때때로 흉폭한 아마돈의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
@@ -1295,6 +1319,7 @@
 	<key id="13400125" guideDescription="표창과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="13400135" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;난폭한 얼음의 힘 : 타격 시 8%의 확률로 발동하여 40%의 냉기 대미지를 4회 입힌다. 난폭한 얼음의 힘은 한 번 발동하면 8초 동안은 다시 발동하지 않는다. PVP 지역에서 효과가 반감된다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 무기이다. 적의 몸에 차가운 얼음가시를 돋아나게 하여 공격한다.&lt;/font&gt;" />
 	<key id="13400136" tooltipDescription="$item:030000437$에서 추출한 강력한 어둠의 힘을 이용해 $item:030000425$$pp:를,을$ 감싸고 있던 불길한 마력의 봉인을 풀어 얻게 된 표창이다. $npcName:23090005$$pp:가,이$ 다른 살아있는 존재들의 피를 흡수해 자신의 생명력으로 삼는 것처럼, 장비한 자의 기운을 흡수하려는 성질을 가지고 있다. 위험함을 감수하고 사용할 수도 있지만, $npcName:23090005$의 저주를 풀어내는 방법을 찾아야 안전하게 사용할 수 있을 것 같다." />
+	<key id="13400137" guideDescription="표창과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="13400138" guideDescription="표창과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="13400141" guideDescription="표창과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="13400142" tooltipDescription="윌리 원카드가 사용하던 표창. 때때로 야비한 윌리 원카드의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
@@ -1320,6 +1345,7 @@
 	<key id="14000107" guideDescription="법전과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="14000117" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 낙뢰 : 난폭한 낙뢰의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 무기이다. 번개의 기운을 가득 담고 있어 전격의 힘을 강화시켜 준다.&lt;/font&gt;" />
 	<key id="14000118" tooltipDescription="$item:030000437$에서 추출한 강력한 어둠의 힘을 이용해 $item:030000426$$pp:를,을$ 감싸고 있던 불길한 마력의 봉인을 풀어 얻게 된 법전이다. $npcName:23090005$$pp:가,이$ 다른 살아있는 존재들의 피를 흡수해 자신의 생명력으로 삼는 것처럼, 장비한 자의 기운을 흡수하려는 성질을 가지고 있다. 위험함을 감수하고 사용할 수도 있지만, $npcName:23090005$의 저주를 풀어내는 방법을 찾아야 안전하게 사용할 수 있을 것 같다." />
+	<key id="14000119" guideDescription="법전과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="14000120" guideDescription="법전과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="14000123" guideDescription="법전과 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="14000124" tooltipDescription="끝없이 부활을 꿈꾸는 우레우스가 사용하던 기묘한 부적이다." />
@@ -1342,6 +1368,7 @@
 	<key id="14100115" guideDescription="방패와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="14100125" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;성난 불길 : 난폭한 불길의 힘 효과를 35% 증가시킨다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 무기이다. 열화의 기운을 가득 담고 있어 화염의 힘을 강화시켜 준다.&lt;/font&gt;" />
 	<key id="14100126" tooltipDescription="$item:030000437$에서 추출한 강력한 어둠의 힘을 이용해 $item:030000427$$pp:를,을$ 감싸고 있던 불길한 마력의 봉인을 풀어 얻게 된 방패이다. $npcName:23090005$$pp:가,이$ 다른 살아있는 존재들의 피를 흡수해 자신의 생명력으로 삼는 것처럼, 장비한 자의 기운을 흡수하려는 성질을 가지고 있다. 위험함을 감수하고 사용할 수도 있지만, $npcName:23090005$의 저주를 풀어내는 방법을 찾아야 안전하게 사용할 수 있을 것 같다." />
+	<key id="14100127" guideDescription="방패와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="14100128" guideDescription="방패와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="14100132" guideDescription="방패와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="14100133" tooltipDescription="찬바람 동굴을 지배하고 있던 사나운 프로투스의 기운이 서린 커다란 방패이다." />
@@ -1379,6 +1406,7 @@
 	<key id="15000131" guideDescription="라지소드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15000132" guideDescription="라지소드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15000142" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;난폭한 빙하의 힘 : 타격 시 10%의 확률로 발동하여 263%의 냉기 대미지를 입힌다. 난폭한 빙하의 힘은 한 번 발동하면 8초 동안은 다시 발동하지 않는다. PVP 지역에서 효과가 반감된다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 무기이다. 차가운 바다의 빙하 일부를 소환하여 적을 공격한다.&lt;/font&gt;" />
+	<key id="15000144" guideDescription="라지소드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15000145" guideDescription="라지소드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15000148" guideDescription="라지소드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15000149" tooltipDescription="카보가 사용하던 라지소드. 때때로 사악한 카보의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
@@ -1413,6 +1441,7 @@
 	<key id="15100125" guideDescription="활과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="15100135" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;난폭한 빛의 힘 : 타격 시 8%의 확률로 발동하여 276%의 신성 대미지를 입힌다. 난폭한 빛의 힘은 한 번 발동하면 8초 동안은 다시 발동하지 않는다. PVP 지역에서 효과가 반감된다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 무기이다. 눈부신 빛의 힘을 폭발시켜 강력한 피해를 준다.&lt;/font&gt;" />
 	<key id="15100136" tooltipDescription="$item:030000437$에서 추출한 강력한 어둠의 힘을 이용해 $item:030000429$$pp:를,을$ 감싸고 있던 불길한 마력의 봉인을 풀어 얻게 된 활이다. $npcName:23090005$$pp:가,이$ 다른 살아있는 존재들의 피를 흡수해 자신의 생명력으로 삼는 것처럼, 장비한 자의 기운을 흡수하려는 성질을 가지고 있다. 위험함을 감수하고 사용할 수도 있지만, $npcName:23090005$의 저주를 풀어내는 방법을 찾아야 안전하게 사용할 수 있을 것 같다." />
+	<key id="15100137" guideDescription="활과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="15100138" guideDescription="활과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="15100141" guideDescription="활과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="15100142" tooltipDescription="아크레온의 위장 속에 들어있던 활. 때때로 흉폭한 아크레온의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
@@ -1449,6 +1478,7 @@
 	<key id="15200130" guideDescription="스태프와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15200140" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;난폭한 어둠의 힘 : 타격 시 14%의 확률로 발동하여 285%의 암흑 대미지를 입힌다. 난폭한 어둠의 힘은 한번 발동하면 8초 동안은 다시 발동하지 않는다. PVP 지역에서 효과가 반감된다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 무기이다. 어두운 그림자의 힘을 폭발시켜 강력한 피해를 준다.&lt;/font&gt;" />
 	<key id="15200142" tooltipDescription="$item:030000437$에서 추출한 강력한 어둠의 힘을 이용해 $item:030000430$$pp:를,을$ 감싸고 있던 불길한 마력의 봉인을 풀어 얻게 된 스태프이다. $npcName:23090005$$pp:가,이$ 다른 살아있는 존재들의 피를 흡수해 자신의 생명력으로 삼는 것처럼, 장비한 자의 기운을 흡수하려는 성질을 가지고 있다. 위험함을 감수하고 사용할 수도 있지만, $npcName:23090005$의 저주를 풀어내는 방법을 찾아야 안전하게 사용할 수 있을 것 같다." />
+	<key id="15200143" guideDescription="스태프와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15200144" guideDescription="스태프와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15200147" guideDescription="스태프와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15200148" tooltipDescription="그라즈나가 사용하던 스태프. 때때로 사악한 그라즈나의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
@@ -1483,6 +1513,7 @@
 	<key id="15300124" guideDescription="캐논과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="15300134" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;난폭한 독성의 힘 : 타격 시 8%의 확률로 발동하여 315%의 독 대미지를 입힌다. 난폭한 독성의 힘은 한 번 발동하면 8초 동안은 다시 발동하지 않는다. PVP 지역에서 효과가 반감된다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 무기이다. 치명적인 독을 적에게 주입하여 체내로부터 폭발시킨다.&lt;/font&gt;" />
 	<key id="15300136" tooltipDescription="$item:030000437$에서 추출한 강력한 어둠의 힘을 이용해 $item:030000431$$pp:를,을$ 감싸고 있던 불길한 마력의 봉인을 풀어 얻게 된 캐논이다. $npcName:23090005$$pp:가,이$ 다른 살아있는 존재들의 피를 흡수해 자신의 생명력으로 삼는 것처럼, 장비한 자의 기운을 흡수하려는 성질을 가지고 있다. 위험함을 감수하고 사용할 수도 있지만, $npcName:23090005$의 저주를 풀어내는 방법을 찾아야 안전하게 사용할 수 있을 것 같다." />
+	<key id="15300137" guideDescription="캐논과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="15300138" guideDescription="캐논과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="15300141" guideDescription="캐논과 함께 사용할 수 있는 스킨 무기 아이템이다.\n장착 시 무기의 외형만 변경되며, 발사체는 변경되지 않는다." />
 	<key id="15300142" tooltipDescription="아크레온의 위장 속에 들어있던 캐논. 때때로 흉폭한 아크레온의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
@@ -1510,12 +1541,13 @@
 	<key id="15400062" tooltipDescription="바즈의 금빛 지혜가 깃들어있다." />
 	<key id="15400063" tooltipDescription="이슈라가 쉐도우 월드에서 찾아낸 바즈의 유물이다. 아직 밝혀지지 않은 신비로운 룬의 힘이 가득 깃들어있다." />
 	<key id="15400064" tooltipDescription="$item:030000437$에서 추출한 강력한 어둠의 힘을 이용해 $item:030000450$$pp:를,을$ 감싸고 있던 불길한 마력의 봉인을 풀어 얻게 된 블레이드이다. $npcName:23090005$$pp:가,이$ 다른 살아있는 존재들의 피를 흡수해 자신의 생명력으로 삼는 것처럼, 장비한 자의 기운을 흡수하려는 성질을 가지고 있다. 위험함을 감수하고 사용할 수도 있지만, $npcName:23090005$의 저주를 풀어내는 방법을 찾아야 안전하게 사용할 수 있을 것 같다." />
-	<key id="15400087" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;난폭한 파멸 힘 : 타격 시 8%의 확률로 발동하여 360%의 암흑 대미지를 입힌다. 난폭한 파멸의 힘은 한번 발동하면 8초 동안은 다시 발동하지 않는다. PVP 지역에서 효과가 반감된다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 무기이다. 암흑의 힘을 폭발시켜 적을 일순간에 파멸로 이끈다.&lt;/font&gt;" />
+	<key id="15400087" tooltipDescription="&lt;font color=&apos;#ff8ae5&apos; size=&apos;14&apos;&gt;난폭한 파멸 힘 : 타격 시 8%의 확률로 발동하여 360%의 암흑 속성 마법 대미지를 입힌다. 난폭한 파멸의 힘은 한번 발동하면 8초 동안은 다시 발동하지 않는다. PVP 지역에서 효과가 반감된다.&lt;/font&gt;" guideDescription="&lt;font color=&apos;#7A7A7A&apos;&gt;쉐도우 월드의 끝없는 전투에서 발생한 난폭한 힘을 주입시킨 무기이다. 암흑의 힘을 폭발시켜 적을 일순간에 파멸로 이끈다.&lt;/font&gt;" />
 	<key id="15400089" tooltipDescription="전장에서 맹렬히 싸우는 전사들을 위해 만들어진 블레이드이다. 룬 블레이더의 &apos;루나 인스톨&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="15400090" tooltipDescription="사막 한 가운데에서 극한을 시험하는 전사들을 위해 만들어진 블레이드이다. 룬 블레이더의 &apos;냉기 스플리터&apos; 스킬을 변화시킬 수 있다." guideDescription="PVP 지역에서는 스킬 추가 효과가 적용되지 않는다." />
 	<key id="15400091" tooltipDescription="불멸의 존재, $npc:23090005$의 힘이 담긴 블레이드. $item:15400064$$pp:를,을$ 불멸의 불꽃에 던지자 $npc:23090005$의 저주가 완전히 풀렸고, 무기에 깃든 힘도 해방되었다. 타오르는 불꽃이 깃들어 보다 강력하고 화려한 위용을 자랑한다." />
 	<key id="15400101" tooltipDescription="카트반이 사용하던 블레이드. 때때로 사악한 카트반의 힘이 발휘되어 놀라운 파괴력을 보여준다." guideDescription="PVP 지역에서는 추가 발동 효과가 적용되지 않는다." />
 	<key id="15400102" guideDescription="블레이드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
+	<key id="15400103" guideDescription="블레이드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15400104" guideDescription="블레이드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15400105" guideDescription="블레이드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
 	<key id="15400106" guideDescription="블레이드와 함께 사용할 수 있는 스킨 무기 아이템이다." />
@@ -1710,8 +1742,9 @@
 	<key id="20000273" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 10분\n&lt;font size=&apos;24&apos;&gt;낚시 성공률 증가&lt;/font&gt;" tooltipDescription="$map:02000037$$pp:나,이나$ $map:02000311$ 같은 아주 뜨거운 용암의 희귀 물고기가 좋아하는 미끼이다." guideDescription="미끼를 사용한 뒤 낚싯대를 던져야 미끼의 효과가 적용된다. 사용하면 10분 동안 낚시 성공 확률이 올라간다." />
 	<key id="20000274" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 10분\n&lt;font size=&apos;24&apos;&gt;낚시 성공률 증가&lt;/font&gt;" tooltipDescription="그림자 군단의 사악한 힘이 미치는 지역의 희귀 물고기가 좋아하는 미끼이다." guideDescription="미끼를 사용한 뒤 낚싯대를 던져야 미끼의 효과가 적용된다. 사용하면 10분 동안 낚시 성공 확률이 올라간다." />
 	<key id="20000275" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 30초\n&lt;font size=&apos;24&apos;&gt;모래 먼지 소환&lt;/font&gt;" tooltipDescription="카르카르에서 가져온 신비한 모래, 일반적인 모래와는 다르다. 확실히 뭔가 있어 보인다." guideDescription="사용 시 30초 동안 모래 먼지를 소환한다." />
-	<key id="20000276" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 10분\n장비 아이템 획득 확률 생성&lt;/font&gt;" tooltipDescription="쇠붙이를 끌어당기는 자력을 지닌 물고기로 만든 미끼이다." guideDescription="미끼를 사용한 뒤 낚싯대를 던져야 미끼의 효과가 적용된다. 사용하면 10분 동안 게임 장비 아이템을 낚을 확률이 생긴다." />
-	<key id="20000277" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 1시간\n장비 아이템 획득 확률 생성&lt;/font&gt;" tooltipDescription="쇠붙이를 끌어당기는 강한 자력을 지닌 물고기로 만든 미끼이다." guideDescription="미끼를 사용한 뒤 낚싯대를 던져야 미끼의 효과가 적용된다. 사용하면 1시간 동안 게임 장비 아이템을 낚을 확률이 생긴다." />
+	<key id="20000276" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 10분\n게임 장비 아이템 낚을 확률 생성&lt;/font&gt;" tooltipDescription="쇠붙이를 끌어당기는 자력을 지닌 미끼이다." guideDescription="미끼를 사용한 뒤 낚싯대를 던져야 미끼의 효과가 적용된다. 사용하면 10분 동안 게임 장비 아이템을 낚을 확률이 생긴다. 추가로 노멀, 레어 물고기의 낚시 성공 확률이 10% 증가한다." />
+	<key id="20000277" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 3분\n게임 장비 아이템 낚을 확률 생성&lt;/font&gt;" tooltipDescription="쇠붙이를 끌어당기는 아주 강력한 자력을 지닌 미끼이다." guideDescription="미끼를 사용한 뒤 낚싯대를 던져야 미끼의 효과가 적용된다. 사용하면 3분 동안 게임 장비 아이템을 낚을 확률이 생긴다. 전문 낚시꾼 낚시터에서는 더 좋은 장비 아이템을 낚을 수도 있다. 추가로 노멀, 레어 물고기의 낚시 성공 확률이 10% 증가한다." />
+	<key id="20000278" mainDescription="&lt;font size=&apos;14&apos;&gt;지속시간 1시간\n모든 공격력 3% 증가\n체력 3% 증가\n이동속도 5% 증가&lt;/font&gt;" tooltipDescription="쇠붙이를 끌어당기는 아주 강력한 자력을 지닌 미끼이다." guideDescription="미끼를 사용한 뒤 낚싯대를 던져야 미끼의 효과가 적용된다. 사용하면 1시간 동안 게임 장비 아이템을 낚을 확률이 생긴다." />
 	<key id="20200001" mainDescription="기합 액션 습득" tooltipDescription="사용 시 다이나믹 액션을 배울 수 있는 수강증이다." guideDescription="더블클릭하면 특별한 액션을 배울 수 있다." />
 	<key id="20200002" mainDescription="몰라 액션 습득" tooltipDescription="사용 시 다이나믹 액션을 배울 수 있는 수강증이다." guideDescription="더블클릭하면 특별한 액션을 배울 수 있다." />
 	<key id="20200003" mainDescription="자랑 액션 습득" tooltipDescription="사용 시 다이나믹 액션을 배울 수 있는 수강증이다." guideDescription="더블클릭하면 특별한 액션을 배울 수 있다." />
@@ -1743,6 +1776,7 @@
 	<key id="20200029" mainDescription="포인트 댄스 액션 습득" tooltipDescription="사용 시 다이나믹 액션을 배울 수 있는 수강증이다." guideDescription="더블클릭하면 특별한 액션을 배울 수 있다." />
 	<key id="20200030" mainDescription="꿈틀꿈틀 댄스 액션 습득" tooltipDescription="사용 시 다이나믹 액션을 배울 수 있는 수강증이다." guideDescription="더블클릭하면 특별한 액션을 배울 수 있다." />
 	<key id="20200031" mainDescription="노래하기 액션 습득" tooltipDescription="사용 시 다이나믹 액션을 배울 수 있는 수강증이다." guideDescription="더블클릭하면 특별한 액션을 배울 수 있다." />
+	<key id="20200032" mainDescription="절하기 액션 습득" tooltipDescription="사용 시 다이나믹 액션을 배울 수 있는 수강증이다." guideDescription="더블클릭하면 특별한 액션을 배울 수 있다." />
 	<key id="20300001" tooltipDescription="메이플 월드의 특수 상점을 이용할 수 있는 쿠폰이다." guideDescription="쿠폰을 사용하여 헤드헌터에게 메이드를 고용하거나 $npc:11000255$ 뷰티 샵과 마커스 염색 공방, 성형외과에서 캐릭터의 헤어, 얼굴 및 염색을 변경할 수 있다." />
 	<key id="20300002" tooltipDescription="앞으로의 모험에 도움이 될 만한 물품들로 구성된 웰컴 팩이다." guideDescription="소지품 창의 아이템을 더블클릭하면 다양한 아이템을 획득할 수 있다." />
 	<key id="20300003" mainDescription="에어택시 호출" tooltipDescription="로터스 에어 사에서 운영하는 에어택시를 부를 수 있는 일회용 무전기이다." guideDescription="같은 월드 내, 한 번이라도 가 본 곳이라면 에어택시를 불러 쉽게 이동할 수 있다." />
@@ -1875,6 +1909,19 @@
 	<key id="20300131" tooltipDescription="던전의 보상 획득 횟수를 추가할 수 있는 티켓과 오닉스가 담긴 상자이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
 	<key id="20300132" mainDescription="300메럿" tooltipDescription="메럿이 담긴 주머니이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 메럿을 획득할 수 있다." />
 	<key id="20300133" tooltipDescription="인챈트 주문서, 카오닉스 결정, 엘릭서 등 다양한 아이템들 중 하나가 담겨있는 상자이다." guideDescription="행운의 황금열쇠가 있어야만 열 수 있다." />
+	<key id="20300134" tooltipDescription="인페르노 무기를 교환할 수 있는 쿠폰이다." guideDescription="트라이아의 펄시, 루델리 시티의 르노에게 쿠폰을 가지고 가면 인페르노 무기를 교환할 수 있다." />
+	<key id="20300135" tooltipDescription="다양한 아이템이 담겨 있는 통통한 복주머니이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
+	<key id="20300136" mainDescription="로터스 무전기 25개\n보너스 540메럿" tooltipDescription="로터스 에어 사에서 운영하는 에어택시를 부를 수 있는 일회용 무전기가 25개 들어 있는 패키지이다. 로터스 에어 사에서는 무전기 패키지를 구입한 유저들에게 사은품으로 메럿을 제공하고 있다. 한정 아이템으로 150만 메소가 담긴 주머니를 함께 제공한다." guideDescription="소지품 창에서 아이템을 더블클릭하면 로터스 무전기와 메럿을 획득할 수 있다." />
+	<key id="20300137" mainDescription="로터스 무전기 50개\n보너스 1,100메럿" tooltipDescription="로터스 에어 사에서 운영하는 에어택시를 부를 수 있는 일회용 무전기가 50개 들어 있는 패키지이다. 로터스 에어 사에서는 무전기 패키지를 구입한 유저들에게 사은품으로 메럿을 제공하고 있다. 한정 아이템으로 오닉스 9,999개가 함께 포함되어 있다." guideDescription="소지품 창에서 아이템을 더블클릭하면 로터스 무전기와 메럿을 획득할 수 있다." />
+	<key id="20300138" mainDescription="로터스 무전기 150개\n보너스 3,450메럿" tooltipDescription="로터스 에어 사에서 운영하는 에어택시를 부를 수 있는 일회용 무전기가 150개 들어 있는 패키지이다. 로터스 에어 사에서는 무전기 패키지를 구입한 유저들에게 사은품으로 메럿을 제공하고 있다. 한정 아이템으로 카오닉스 결정 100개와 크리스탈 파편 999개가 포함되어 있다." guideDescription="소지품 창에서 아이템을 더블클릭하면 로터스 무전기와 메럿을 획득할 수 있다." />
+	<key id="20300139" mainDescription="로터스 무전기 10개\n보너스 200메럿" tooltipDescription="로터스 에어 사에서 운영하는 에어택시를 부를 수 있는 일회용 무전기가 10개 들어 있는 패키지이다. 로터스 에어 사에서는 무전기 패키지를 구입한 유저들에게 사은품으로 메럿을 제공하고 있다." guideDescription="소지품 창에서 아이템을 더블클릭하면 로터스 무전기와 메럿을 획득할 수 있다." />
+	<key id="20300140" tooltipDescription="다양한 아이템이 담겨 있는 통통한 행운의 복주머니가 담겨있는 큰 복주머니이다. 큰 복주머니에는 내 사랑 오스칼 탈것 외 여러가지 아이템들이 담겨 있다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
+	<key id="20300141" tooltipDescription="다양한 아이템이 담겨 있는 통통한 행운의 복주머니가 담겨있는 큰 복주머니이다. 큰 복주머니에는 내 사랑 이슈라 탈것 외 여러가지 아이템들이 담겨 있다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
+	<key id="20300142" tooltipDescription="메소가 담긴 주머니이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 메소를 획득할 수 있다." />
+	<key id="20300143" tooltipDescription="집이 없는 모험가들을 위해 무료로 발행한 이벤트 분양권이다." guideDescription="게임 내 존재하는 12X12 (144칸) 사이즈의 보급형 메소 집을 계약할 수 있다." />
+	<key id="20300144" tooltipDescription="알록달록한 오색주머니이다. 알록달록한 것이 참 곱다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
+	<key id="20300145" tooltipDescription="푸른 별이 들어 있는 상자이다. 사용 시 푸른 별을 획득할 수 있다. 푸른 별은 보관 불가능한 아이템이니 상자를 열 때 신중하게 생각하자." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
+	<key id="20300146" tooltipDescription="붉은 별이 들어 있는 상자이다. 사용 시 붉은 별을 획득할 수 있다. 붉은 별은 보관 불가능한 아이템이니 상자를 열 때 신중하게 생각하자." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
 	<key id="20400001" mainDescription="펫 7일치 먹이주기" tooltipDescription="올가닉 재료를 사용하여 만든 바삭한 쿠키 형 먹이이다. 하루 1kg이 정량이다. 대중적인 재료를 사용하여 모든 펫들에게 먹일 수 있다." guideDescription="펫이 건강하게 능력을 사용하기 위해서는 다음 식사시간을 체크하고 꾸준히 먹이를 먹여야 한다. 소지품 창에서 아이템을 더블클릭 후, 먹이를 줄 펫을 드래그 앤 드랍하여 설정한다. 펫 먹이는 최대 365일까지 먹일 수 있다." />
 	<key id="20400002" mainDescription="펫 30일치 먹이주기" tooltipDescription="올가닉 재료를 사용하여 만든 바삭한 쿠키 형 먹이이다. 하루 1kg이 정량이다. 대중적인 재료를 사용하여 모든 펫들에게 먹일 수 있다." guideDescription="펫이 건강하게 능력을 사용하기 위해서는 다음 식사시간을 체크하고 꾸준히 먹이를 먹여야 한다. 소지품 창에서 아이템을 더블클릭 후, 먹이를 줄 펫을 드래그 앤 드랍하여 설정한다. 펫 먹이는 최대 365일까지 먹일 수 있다." />
 	<key id="20400003" mainDescription="펫 90일치 먹이주기" tooltipDescription="올가닉 재료를 사용하여 만든 바삭한 쿠키 형 먹이이다. 하루 1kg이 정량이다. 대중적인 재료를 사용하여 모든 펫들에게 먹일 수 있다." guideDescription="펫이 건강하게 능력을 사용하기 위해서는 다음 식사시간을 체크하고 꾸준히 먹이를 먹여야 한다. 소지품 창에서 아이템을 더블클릭 후, 먹이를 줄 펫을 드래그 앤 드랍하여 설정한다. 펫 먹이는 최대 365일까지 먹일 수 있다." />
@@ -2381,6 +2428,11 @@
 	<key id="30000512" tooltipDescription="행운의 상자를 열기 위해서 필요한 열쇠이다. 필드에 등장하는 엘리트 몬스터를 처치하면 얻을 수 있다." />
 	<key id="30000513" tooltipDescription="나즈카르 신전 내부 구조가 그려진 지도다. 일부분이 찢어져 있어 전체 구조를 알아보기 힘들다." />
 	<key id="30000514" mainDescription="던전 보상 획득 횟수\n1회 추가" tooltipDescription="던전의 보상 획득 횟수를 추가할 수 있는 티켓이다." guideDescription="1주일 1회 보상을 획득할 수 있는 던전 입장 창에서 버튼을 클릭해 보상 획득 횟수를 추가할 때마다 이 티켓이 1장씩 사용된다. 단, 추가권을 사용해 받은 보상 획득 횟수를 초기화 시점까지 사용하지 않으면 추가한 횟수는 사라지게 되니 주의해야 한다." />
+	<key id="30000515" tooltipDescription="과거 카르카르 아일랜드에 존재했던 용족들을 수호해 온 헌티스 연합. 이들 사이에서 대대로 전해 내려오는 책으로, 용의 기사와 관련된 모든 것이 적혀 있다." />
+	<key id="30000516" tooltipDescription="보스 몬스터에게서 얻을 수 있는 신기한 증표." />
+	<key id="30000517" mainDescription="던전 보상 획득 횟수\n1회 추가" tooltipDescription="던전의 보상 획득 횟수를 추가할 수 있는 티켓이다." guideDescription="1일 3회 보상을 획득할 수 있는 던전 입장 창에서 버튼을 클릭해 보상 획득 횟수를 추가할 때마다 이 티켓이 1장씩 사용된다. 단, 추가권을 사용해 받은 보상 획득 횟수를 초기화 시점까지 사용하지 않으면 추가한 횟수는 사라지게 되니 주의해야 한다." />
+	<key id="30000518" mainDescription="던전 보상 획득 횟수\n1회 추가" tooltipDescription="던전의 보상 획득 횟수를 추가할 수 있는 티켓이다." guideDescription="1주일 5회 보상을 획득할 수 있는 던전 입장 창에서 버튼을 클릭해 보상 획득 횟수를 추가할 때마다 이 티켓이 1장씩 사용된다. 단, 추가권을 사용해 받은 보상 획득 횟수를 초기화 시점까지 사용하지 않으면 추가한 횟수는 사라지게 되니 주의해야 한다." />
+	<key id="30000519" mainDescription="던전 보상 획득 횟수\n1회 추가" tooltipDescription="던전의 보상 획득 횟수를 추가할 수 있는 티켓이다." guideDescription="1주일 1회 보상을 획득할 수 있는 던전 입장 창에서 버튼을 클릭해 보상 획득 횟수를 추가할 때마다 이 티켓이 1장씩 사용된다. 단, 추가권을 사용해 받은 보상 획득 횟수를 초기화 시점까지 사용하지 않으면 추가한 횟수는 사라지게 되니 주의해야 한다." />
 	<key id="31000001" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~29레벨 사이의 노멀 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +1 인챈트 아이템이 된다." />
 	<key id="31000002" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~29레벨 사이의 노멀 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +2 인챈트 아이템이 된다." />
 	<key id="31000003" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~29레벨 사이의 노멀 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +3 인챈트 아이템이 된다." />
@@ -2534,11 +2586,16 @@
 	<key id="31000151" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 손상된 장비를 회복시켜 다시 쓸 수 있게 해 준다." guideDescription="더블클릭으로 주문서를 사용할 수 있다. 손상된 장비에만 사용할 수 있으며, 사용 시 인챈트 단계가 0이 되고 다시 인챈트를 시도할 수 있게 된다." />
 	<key id="31000152" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 손상된 장비를 회복시켜 다시 쓸 수 있게 해 준다." guideDescription="더블클릭으로 주문서를 사용할 수 있다. 손상된 장비에만 사용할 수 있으며, 사용 시 인챈트 단계가 0이 되고 다시 인챈트를 시도할 수 있게 된다." />
 	<key id="31000153" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +5 인챈트 아이템이 된다." />
-	<key id="31000154" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +7 인챈트 아이템이 된다." />
+	<key id="31000154" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +8 인챈트 아이템이 된다." />
 	<key id="31000155" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +9 인챈트 아이템이 된다." />
 	<key id="31000156" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +10 인챈트 아이템이 된다." />
 	<key id="31000157" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 손상된 장비를 회복시켜 다시 쓸 수 있게 해 준다." guideDescription="더블클릭으로 주문서를 사용할 수 있다. 손상된 장비에만 사용할 수 있으며, 사용 시 인챈트 단계가 0이 되고 다시 인챈트를 시도할 수 있게 된다." />
 	<key id="31000158" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 손상된 장비를 회복시켜 다시 쓸 수 있게 해 준다." guideDescription="더블클릭으로 주문서를 사용할 수 있다. 손상된 장비에만 사용할 수 있으며, 사용 시 인챈트 단계가 0이 되고 다시 인챈트를 시도할 수 있게 된다." />
+	<key id="31000159" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비의 인챈트 단계를 랜덤하게 변경시켜준다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n48~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 해당 아이템이\n+6 ~ +11 중 하나로 인챈트된 아이템이 된다." />
+	<key id="31000160" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +10 인챈트 아이템이 된다." />
+	<key id="31000161" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +11 인챈트 아이템이 된다." />
+	<key id="31000162" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +8 인챈트 아이템이 된다." />
+	<key id="31000163" tooltipDescription="신비한 힘이 깃든 주문서로 사용 시 장비를 더 강하게 만들 수 있다." guideDescription="더블클릭으로 주문서를 사용해 장비를 인챈트 할 수 있다.\n20~50레벨 사이의 노멀, 레어, 엘리트, 엑셀런트 등급 무기, 상의, 하의, 한벌 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +9 인챈트 아이템이 된다." />
 	<key id="32000001" mainDescription="물가에서 사용하여 낚시 시작" tooltipDescription="탄성이 좋은 나뭇가지를 다듬어 만든 낚싯대이다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 사용할 수 있다." />
 	<key id="32000002" mainDescription="물가에서 사용하여 낚시 시작" tooltipDescription="단단한 철제 낚싯대이다. 약간 무겁지만 제법 쓸만하다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 사용할 수 있다." />
 	<key id="32000003" mainDescription="물가에서 사용하여 낚시 시작" tooltipDescription="단단한 철제 낚싯대이다. 약간 무겁지만 제법 쓸만하다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 사용할 수 있다." />
@@ -2561,6 +2618,11 @@
 	<key id="34000005" tooltipDescription="로얄 뮤직 아카데미에서 보급하는 클라리넷이다. 합리적인 가격으로 인기가 많은 입문용 악기이다." guideDescription="소지품 창의 아이템을 더블클릭해 사용할 수 있다." />
 	<key id="34000006" tooltipDescription="로얄 뮤직 아카데미에서 보급하는 그랜드 하프이다. 가볍고 합리적인 가격으로 인기가 많은 입문용 악기이다." guideDescription="소지품 창의 아이템을 더블클릭해 사용할 수 있다." />
 	<key id="34000007" tooltipDescription="로얄 뮤직 아카데미에서 보급하는 팀파니이다. 가볍고 합리적인 가격으로 인기가 많은 입문용 악기이다." guideDescription="소지품 창의 아이템을 더블클릭해 사용할 수 있다." />
+	<key id="34000008" tooltipDescription="아리안 뮤직 컴퍼니에서 제조한 피아노. 어디에나 어울리는 깔끔한 디자인과 부드러운 소리로 실내는 물론 공연장에서도 널리 사용할 수 있다. 아리안 심포니 오케스트라 단원들을 비롯한 많은 클래식 애호가들이 선호하는 악기이다." guideDescription="소지품 창의 아이템을 더블클릭해 사용할 수 있다. 동시에 3개의 독주 악보를 사용하여 연속으로 연주할 수 있다." />
+	<key id="34000009" tooltipDescription="아리안 뮤직 컴퍼니에서 제조한 기타. 따뜻하면서도 고급스러운 색상과 샤프한 디자인으로 인기가 많다. 견고하고 가벼워 오랫동안 들고 연주해도 피로가 적게 느껴진다고 한다. 아리안 심포니 오케스트라 단원들은 물론 대중들에게도 높은 인기를 누리고 있다." guideDescription="소지품 창의 아이템을 더블클릭해 사용할 수 있다. 동시에 3개의 독주 악보를 사용하여 연속으로 연주할 수 있다." />
+	<key id="34000010" tooltipDescription="아리안 뮤직 컴퍼니에서 제조한 클라리넷. 묵직하고 고급스러운 음색으로 아리안 심포니 오케스트라 단원들을 비롯한 많은 클래식 애호가들에게 호평을 받고 있다. 분리와 조립이 편리하게 설계되어 초보자들도 무리 없이 사용할 수 있다고 한다." guideDescription="소지품 창의 아이템을 더블클릭해 사용할 수 있다. 동시에 3개의 독주 악보를 사용하여 연속으로 연주할 수 있다." />
+	<key id="34000011" tooltipDescription="아리안 뮤직 컴퍼니에서 제조한 하프. 궁전을 연상시키는 듯한 우아하고 사랑스러운 디자인과 맑은 소리로 아리안 심포니 오케스트라 단원들을 비롯한 많은 클래식 애호가들의 사랑을 받고 있다. 함께 제공되는 의자 역시 푹신한 쿠션과 안정감을 자랑해, 단품 판매 계획 문의가 들어올 정도라고 한다." guideDescription="소지품 창의 아이템을 더블클릭해 사용할 수 있다. 동시에 3개의 독주 악보를 사용하여 연속으로 연주할 수 있다." />
+	<key id="34000012" tooltipDescription="아리안 뮤직 컴퍼니에서 제조한 팀파니. 은은한 광택의 금속 바디, 부드러운 가죽 북면에서 나오는 따뜻하고 안정적인 음색이 매력적이다. 아리안 심포니 오케스트라 단원들을 비롯한 많은 클래식 애호가들의 인정을 받고 있다." guideDescription="소지품 창의 아이템을 더블클릭해 사용할 수 있다. 동시에 3개의 독주 악보를 사용하여 연속으로 연주할 수 있다." />
 	<key id="35000001" tooltipDescription="&lt;font color=&apos;#00aaef&apos;&gt;메이플스토리2의 메인 테마곡&lt;/font&gt;을 연주할 수 있는 피아노 악보이다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
 	<key id="35000002" tooltipDescription="&lt;font color=&apos;#00aaef&apos;&gt;메이플스토리2의 엘리니아 테마곡&lt;/font&gt;을 연주할 수 있는 피아노 악보이다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
 	<key id="35000003" tooltipDescription="&lt;font color=&apos;#00aaef&apos;&gt;메이플스토리2의 뷰티 스트리트 테마곡&lt;/font&gt;을 연주할 수 있는 기타&amp;피아노 합주곡으로, 그중 피아노 파트 악보이다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
@@ -2581,18 +2643,26 @@
 	<key id="35000018" tooltipDescription="낭만과 음악이 공존하는 판타지라이프 &lt;font color=&apos;#00aaef&apos;&gt;마비노기의 메인스트림에 삽입된 &apos;이제는 들리지 않네&apos;&lt;/font&gt;를 연주할 수 있는 피아노 악보이다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
 	<key id="35000019" tooltipDescription="낭만과 음악이 공존하는 판타지라이프 &lt;font color=&apos;#00aaef&apos;&gt;마비노기에 삽입된 캐릭터 선택 시 나오는 &apos;Soft Sunshine&apos;&lt;/font&gt;을 연주할 수 있는 기타&amp;피아노 합주곡으로, 그중 피아노 파트 악보이다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
 	<key id="35000020" tooltipDescription="낭만과 음악이 공존하는 판타지라이프 &lt;font color=&apos;#00aaef&apos;&gt;마비노기에 삽입된 캐릭터 선택 시 나오는 &apos;Soft Sunshine&apos;&lt;/font&gt;을 연주할 수 있는 기타&amp;피아노 합주곡으로, 그중 기타 파트 악보이다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
+	<key id="35000021" tooltipDescription="아리안 심포니 오케스트라가 편곡한 &lt;font color=&apos;#00aaef&apos;&gt;한국의 대표적인 민요, 아리랑&lt;/font&gt;의 합주곡 악보로, 피아노 파트를 연주할 수 있다. 5개 악기로 이루어진 모든 파트를 함께 연주하면 서정적이고 아름다운 선율을 느낄 수 있다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
+	<key id="35000022" tooltipDescription="아리안 심포니 오케스트라가 편곡한 &lt;font color=&apos;#00aaef&apos;&gt;한국의 대표적인 민요, 아리랑&lt;/font&gt;의 합주곡 악보로, 기타 파트를 연주할 수 있다. 5개 악기로 이루어진 모든 파트를 함께 연주하면 서정적이고 아름다운 선율을 느낄 수 있다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
+	<key id="35000023" tooltipDescription="아리안 심포니 오케스트라가 편곡한 &lt;font color=&apos;#00aaef&apos;&gt;한국의 대표적인 민요, 아리랑&lt;/font&gt;의 합주곡 악보로, 클라리넷 파트를 연주할 수 있다. 5개 악기로 이루어진 모든 파트를 함께 연주하면 서정적이고 아름다운 선율을 느낄 수 있다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
+	<key id="35000024" tooltipDescription="아리안 심포니 오케스트라가 편곡한 &lt;font color=&apos;#00aaef&apos;&gt;한국의 대표적인 민요, 아리랑&lt;/font&gt;의 합주곡 악보로, 하프 파트를 연주할 수 있다. 5개 악기로 이루어진 모든 파트를 함께 연주하면 서정적이고 아름다운 선율을 느낄 수 있다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
+	<key id="35000025" tooltipDescription="아리안 심포니 오케스트라가 편곡한 &lt;font color=&apos;#00aaef&apos;&gt;한국의 대표적인 민요, 아리랑&lt;/font&gt;의 합주곡 악보로, 팀파니 파트를 연주할 수 있다. 5개 악기로 이루어진 모든 파트를 함께 연주하면 서정적이고 아름다운 선율을 느낄 수 있다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
+	<key id="35000026" tooltipDescription="아리안 심포니 오케스트라가 편곡한 &lt;font color=&apos;#00aaef&apos;&gt;바흐의 인벤션&lt;/font&gt; 합주곡 악보로, 클라리넷 파트를 연주할 수 있다. 2개의 악기 파트를 함께 연주하면 하나되는 화음을 감상할 수 있다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
+	<key id="35000027" tooltipDescription="아리안 심포니 오케스트라가 편곡한 &lt;font color=&apos;#00aaef&apos;&gt;바흐의 인벤션&lt;/font&gt; 합주곡 악보로, 하프 파트를 연주할 수 있다. 2개의 악기 파트를 함께 연주하면 하나되는 화음을 감상할 수 있다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
+	<key id="35000028" tooltipDescription="아리안 심포니 오케스트라가 하프 연주자들을 위해 편곡한 &lt;font color=&apos;#00aaef&apos;&gt;드뷔시의 달빛&lt;/font&gt; 악보이다. 아름답고 유려한 선율을 느낄 수 있다." guideDescription="소지품 창에서 악기를 더블클릭해 악보 연주를 선택하면\n이 곡을 연주할 수 있다." />
 	<key id="35100001" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 10회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
 	<key id="35100002" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 50회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
 	<key id="35100003" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 100회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
-	<key id="35100004" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 10회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
-	<key id="35100005" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 50회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
-	<key id="35100006" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 100회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
-	<key id="35100007" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 10회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
-	<key id="35100008" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 50회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
-	<key id="35100009" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 100회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
-	<key id="35100010" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 10회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
-	<key id="35100011" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 50회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
-	<key id="35100012" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 100회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
+	<key id="35100004" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 200회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
+	<key id="35100005" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 500회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
+	<key id="35100006" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 10회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
+	<key id="35100007" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 50회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
+	<key id="35100008" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 100회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
+	<key id="35100009" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 200회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
+	<key id="35100010" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 500회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
+	<key id="35100011" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 10회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
+	<key id="35100012" tooltipDescription="작곡한 음악을 직접 기록할 수 있는 빈 악보이다. 제작 시 50회 연주할 수 있는 악보가 만들어진다." guideDescription="빈 악보는 연주할 수 없으며, 작곡을 완료한 후 연주할 수 있다.\n소지품 창의 아이템을 더블클릭하면 작곡을 시작할 수 있다." />
 	<key id="39000001" tooltipDescription="바야르 산맥 주변 부족들 사이에 전설처럼 전해져 내려온\n그리폰의 안타까운 사연이 담겨져 있다." />
 	<key id="39000002" tooltipDescription="$npc:22000022$$pp:가,이$ 애지중지하는 보물상자에서 찾아낸 그림일기다.\n지금은 상상할 수 없는 $npc:22000022$의 귀여운 어린 시절을 엿볼 수 있다." />
 	<key id="39000003" tooltipDescription="$npc:21000102$ 녀석들 중 한 놈이 떨어트린\n음산한 느낌의 낡은 책이다.\n읽는 순간 저주에 걸릴 것 같은 불길한 느낌이 든다." />
@@ -2640,6 +2710,8 @@
 	<key id="39000045" mainDescription="메이플스토리2 팬 코믹\n메이플 코믹스 시리즈" tooltipDescription="모험가들이 그린 만화가 수록된 메이플 코믹스 단행본이다.\n참여 작가 : HSN, 민성Ol, 큐브" />
 	<key id="39000046" tooltipDescription="잊혀져가던 빛의 드래곤들과 드라켄하임에서 일어난 숨겨진 사건들을 기록한 작자미상의 연대기다." />
 	<key id="39000047" tooltipDescription="악보 제작하는 방법을 설명한 안내서다." />
+	<key id="39000048" tooltipDescription="$map:02010053$의 개업 기념 이벤트를 홍보하기 위한 전단지이다." />
+	<key id="39000049" tooltipDescription="$map:02010053$의 개업 기념 이벤트를 홍보하기 위한 전단지로, 군데군데 $npc:11001292$$pp:가,이$ 직접 낙서한 흔적이 있다." />
 	<key id="40000001" mainDescription="$skill:10100041$ 습득" tooltipDescription="나이트의 비기가 적혀 있는 스킬북이다." guideDescription="더블클릭하면 $skill:10100041$ 스킬을 배울 수 있다." />
 	<key id="40000002" mainDescription="$skill:10200041$ 습득" tooltipDescription="버서커의 비기가 적혀 있는 스킬북이다." guideDescription="더블클릭하면 $skill:10200041$ 스킬을 배울 수 있다." />
 	<key id="40000003" mainDescription="$skill:10300061$ 습득" tooltipDescription="마법사의 비기가 적혀 있는 스킬북이다." guideDescription="더블클릭하면 $skill:10300061$ 스킬을 배울 수 있다." />
@@ -3059,6 +3131,12 @@
 	<key id="50100371" tooltipDescription="겨울나무 무늬가 그려진 벽 큐브이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
 	<key id="50100372" tooltipDescription="눈꽃 무늬가 그려진 초록색 벽 큐브이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
 	<key id="50100373" tooltipDescription="두툼한 철판으로 만든 계단이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50100374" tooltipDescription="한국적인 문양이 그려진 돌담 큐브이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50100375" tooltipDescription="두툼한 돌을 다듬어 만든 돌담 큐브이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50100376" tooltipDescription="골풀의 줄기를 재료로 하여 만든 자리가 깔린 큐브이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50100377" tooltipDescription="다듬어진 나무에 기름칠을 하여 만든 대청마루 큐브이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50100378" tooltipDescription="기와를 모아 만든 단단한 큐브이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50100379" tooltipDescription="기와를 얹어 만든 지붕형태의 큐브이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
 	<key id="50200001" tooltipDescription="나무로 만든 벤치이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
 	<key id="50200002" tooltipDescription="나무 판자로 만든 상자이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
 	<key id="50200003" tooltipDescription="길가에서 흔하게 발견할 수 있는 하얀 들꽃이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
@@ -3735,6 +3813,18 @@
 	<key id="50200675" tooltipDescription="알수 없는 힘이 느껴지는 작은 비석이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
 	<key id="50200676" tooltipDescription="고가의 방어구를 보관하기 위해 제작된 쇼케이스이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
 	<key id="50200677" tooltipDescription="고가의 무기를 보관하기 위해 제작된 쇼케이스이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50200678" tooltipDescription="작은 돌을 쌓아 만든 돌담 모양의 파티션이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50200679" tooltipDescription="기와가 얹어진 돌담 모양의 파티션이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50200680" tooltipDescription="한지를 발라 만든 문 파티션이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50200681" tooltipDescription="한국 전통 문양이 그려진 한지 문 파티션이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50200682" tooltipDescription="다양한 과일과 음식이 얹여진 차례상이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50200683" tooltipDescription="고급스런 자수가 놓여진 두툼한 쿠션 의자이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50200684" tooltipDescription="향을 꽂을 수 있도록 만들어진 작은 단지이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50200685" tooltipDescription="청화백자 시대에 주류를 이루었던 백자기이다. 고풍스런 그림이 포인트이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50200686" tooltipDescription="대나무 그림이 그려진 병풍이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50200687" tooltipDescription="절경 그림이 그려진 병풍이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50200688" tooltipDescription="실내에도 장식할 수 있도록 만들어진 작은 사이즈의 화단이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
+	<key id="50200689" tooltipDescription="실내에도 장식할 수 있도록 만들어진 작은 사이즈의 연못이다." guideDescription="내가 구입한 부지나 실내에 설치할 수 있다." />
 	<key id="50300001" tooltipDescription="지나가는 유저를 집게발로 공격하는 함정이다." guideDescription="내가 구입한 부지의 실내에 설치할 수 있다." />
 	<key id="50300002" tooltipDescription="지나가는 유저를 집게발로 공격하는 함정이다." guideDescription="내가 구입한 부지의 실내에 설치할 수 있다." />
 	<key id="50300003" tooltipDescription="지나가는 유저를 집게발로 공격하는 함정이다." guideDescription="내가 구입한 부지의 실내에 설치할 수 있다." />
@@ -3853,6 +3943,11 @@
 	<key id="50400114" mainDescription="액션키로 동작 가능" tooltipDescription="하얀 나무에 다양한 액세서리를 매달은 트리이다." guideDescription="내 부지 실내에 설치한 후 액션키로 조사하면 동작시킬 수 있다." />
 	<key id="50400115" mainDescription="액션키로 동작 가능" tooltipDescription="반짝이는 별이 달린 캔디 스탠드이다." guideDescription="내 부지 실내에 설치한 후 액션키로 조사하면 동작시킬 수 있다." />
 	<key id="50400116" mainDescription="액션키로 동작 가능" tooltipDescription="반짝이는 별이 달린 캔디 스탠드이다." guideDescription="내 부지 실내에 설치한 후 액션키로 조사하면 동작시킬 수 있다." />
+	<key id="50400117" mainDescription="액션키로 동작 가능" tooltipDescription="한국 전통 문양이 그려진 한지 스탠드이다." guideDescription="내 부지 실내에 설치한 후 액션키로 조사하면 동작시킬 수 있다." />
+	<key id="50400118" mainDescription="액션키로 동작 가능" tooltipDescription="귀여운 원숭이와 함께 시소를 타보자." guideDescription="내 부지 실내에 설치한 후 액션키로 조사하면 동작시킬 수 있다." />
+	<key id="50400119" mainDescription="액션키로 동작 가능" tooltipDescription="떡을 만들기 위한 절구이다. 무거운 절굿공이를 사용하여 쫄깃쫄깃한 떡을 만들어보자." guideDescription="내 부지 실내에 설치한 후 액션키로 조사하면 동작시킬 수 있다." />
+	<key id="50400120" mainDescription="액션키로 동작 가능" tooltipDescription="고구마를 구워먹는 작은 화로이다." guideDescription="내 부지 실내에 설치한 후 액션키로 조사하면 동작시킬 수 있다." />
+	<key id="50400121" mainDescription="액션키로 동작 가능" tooltipDescription="견고하게 만들어진 석탑이다. 은은한 불빛에 마음이 편해진다." guideDescription="내 부지 실내에 설치한 후 액션키로 조사하면 동작시킬 수 있다." />
 	<key id="50500001" mainDescription="배치 시 몬스터 자동 생성" tooltipDescription="몬스터가 자동으로 생성되는 박스이다." guideDescription="소유한 부지의 실내에 설치하면 일정 시간 후 몬스터가 리젠 된다." />
 	<key id="50500002" mainDescription="배치 시 몬스터 자동 생성" tooltipDescription="몬스터가 자동으로 생성되는 박스이다." guideDescription="소유한 부지의 실내에 설치하면 일정 시간 후 몬스터가 리젠 된다." />
 	<key id="50500003" mainDescription="배치 시 몬스터 자동 생성" tooltipDescription="몬스터가 자동으로 생성되는 박스이다." guideDescription="소유한 부지의 실내에 설치하면 일정 시간 후 몬스터가 리젠 된다." />
@@ -3988,6 +4083,7 @@
 	<key id="50600123" mainDescription="빠르게 달릴 수 있다." tooltipDescription="만인의 연인, 바니걸 민트가 그려진 쿠션이다. 상큼 발랄한 바니걸을 떠올릴 수 있는 민트 쿠션을 들고 있노라면, 나도 모르게 발걸음이 가벼워진다고…" guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
 	<key id="50600124" mainDescription="빠르게 달릴 수 있다." tooltipDescription="눈발을 휘날리며 굴러갈 수 있는 둥글둥글 눈사람이다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
 	<key id="50600125" mainDescription="빠르게 달릴 수 있다." tooltipDescription="과거, $map:02000328$이 본래의 아름다운 풍경을 자랑하던 시기에 정원을 수호하던 요정이다. 지금은 메이플 월드의 용사들과 여행에 동행하고 있다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
+	<key id="50600126" mainDescription="빠르게 달릴 수 있다." tooltipDescription="지옥의 화염이 주변을 맴도는 사나운 말이다. 어느 누구도 쉽게 길들이지 못했던 지옥의 군마로 특별한 자격이 있는 자만 탈 수 있다고 한다." guideDescription="소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 타고 내릴 수 있다. 탑승 후 일반 공격 키를 길게 누르거나, 누른 상태에서 이동하면 특별한 동작을 사용할 수 있다." />
 	<key id="50700004" tooltipDescription="부드럽고 온화한 미소를 띄고 있는 $npc:11000075$의 조각상이다.\n$npcTitle:11000075$$pp:를,을$ 사랑하고 존경하는 메이플 주민들의 마음이 담겨있다.\n" />
 	<key id="50700005" tooltipDescription="$npc:11000075$$pp:를,을$ 모시는 $npc:11000074$의 조각상이다.\n강직하면서도 기품있는 눈빛이 매력적이다.\n" />
 	<key id="50700006" tooltipDescription="$map:02000076$$pp:를,을$ 이끌고 있는 $npc:11000001$의 조각상이다.\n푸근하면서도 인자한 느낌이 어쩐지 친근하다.\n" />
@@ -4001,76 +4097,76 @@
 	<key id="50710007" mainDescription="공격속도 3% 증가" tooltipDescription="시간의 레드 라펜타를 지켜낸 기념으로 선물받은 것이다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
 	<key id="50710008" tooltipDescription="벨라 비드블라임을 구한 공을 인정해 비드블라임가에서 감사의 뜻을 담아 지급한 것이다." />
 	<key id="50710009" tooltipDescription="$npc:11000064$$pp:를,을$ 도와 $npc:11000044$의 진상을 밝힌 후, $npc:11000064$$pp:가,이$ 적이 아닌 동료임을 \n각인하는 의미로 지급받은 것이다.\n" />
-	<key id="50710010" mainDescription="작성필요" tooltipDescription="작성 필요" guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
-	<key id="50710011" mainDescription="작성필요" tooltipDescription="작성필요" guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
-	<key id="50730001" tooltipDescription="오래된 고목나무에 악령이 깃들어 탄생한 $npc:22000001$. 최근 악령의 혼이 더욱 활개를 치고 다니는 것도 모두 마왕의 영향 때문일까…?" guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220006$] 트로피를 달성하면 구입할 수 있는 기념품이다.&lt;/font&gt;" />
-	<key id="50730002" tooltipDescription="$npc:22000002$$pp:를,을$ 물리친 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220010$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730003" tooltipDescription="본래 물의 요정이었던 쌍둥이 자매 $npc:22000003$$pp:와,과$ $npc:22000004$. 알베르토에 대한 엇나간 사랑으로 그의 약혼녀 로안나를 죽이고, 설원으로 추방당했던 것으로 알려져있다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220004$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730004" tooltipDescription="끓어오르는 용암 한 가운데 둥지를 틀고 있는 $npc:22000005$.$npc:22000005$의 꼬리는 최고의 보양식으로 인기가 많다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220011$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730005" tooltipDescription="$npc:23000009$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230048$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730006" tooltipDescription="어린 소녀들이 하나쯤 가지고 있는 인형을 연상시키는 $npc:22090165$. $map:02000100$에서 일어나고 있는 소녀들의 연쇄 실종 사건과 관련있다는 소문이 돌고 있다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220005$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730007" tooltipDescription="납골당 깊은 곳에서 아무도 모르게 열린 그림자 문을 통해 넘어온 $npc:22000011$. 메이플 월드에서 무슨 짓을 하려고 했던걸까…?" guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220009$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730008" tooltipDescription="$npc:22000321$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220008$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730009" tooltipDescription="$npc:22000322$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220012$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730010" tooltipDescription="$npc:22300105$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220003$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730011" tooltipDescription="$npc:22000023$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220013$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730012" tooltipDescription="$npc:22000024$$pp:를,을$ 처치하고 획득한 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220020$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730013" tooltipDescription="$npc:22000034$$pp:를,을$ 처치하고 획득한 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220023$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730014" tooltipDescription="$npc:22000053$$pp:를,을$ 처치하고 획득한 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220021$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730015" tooltipDescription="$npc:22090123$$pp:를,을$ 처치하고 획득한 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220030$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730016" tooltipDescription="$npc:22090166$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220014$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730017" tooltipDescription="$npc:22000007$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220017$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730018" tooltipDescription="$npc:22090007$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220018$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730019" tooltipDescription="$npc:22000038$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220015$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730020" tooltipDescription="$npc:22300149$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[I. $achieve:21220001$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730021" tooltipDescription="$npc:22000022$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[I. $achieve:21220002$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730022" tooltipDescription="$npc:22090107$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220007$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730023" tooltipDescription="$npc:22000059$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220019$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730024" tooltipDescription="$npc:22000042$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220022$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730025" tooltipDescription="$npc:22000052$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220024$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730026" tooltipDescription="$npc:22000045$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220025$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50730027" tooltipDescription="$npc:24001705$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220031$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
-	<key id="50730028" tooltipDescription="$npc:24001807$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220032$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
-	<key id="50730029" tooltipDescription="$npc:24001309$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:22200369$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
-	<key id="50730030" tooltipDescription="$npc:24002005$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:22200366$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
-	<key id="50730031" tooltipDescription="$npc:24001507$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21220033$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
-	<key id="50730032" tooltipDescription="$npc:24001904$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:22200367$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
-	<key id="50740001" tooltipDescription="데블린은 마왕의 최측근 투르카가 이끄는 그림자 군단의 악령이다. 천성이 포악하고 다혈질에 사고뭉치이며 워리어, 치프, 샤먼 등 다양한 종족으로 구성되어 있다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230013$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740002" tooltipDescription="지각 변동과 함께 사라졌다가 얼음굴의 형상으로 발견된$map:02000191$. 그 속에는 모두의 기억에서 $npc:23000006$$pp:가,이$ 존재하고 있었다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230010$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740003" tooltipDescription="멈추지 않는 붉은 심장을 가진 불멸의 존재, $npc:23090005$.$npc:11000144$$pp:와,과$ 함께 힘을 모아 $npc:23090005$의 부활을 막아냈다. 이로 인해 $npc:11000144$은 은인 무혼과의 약속을 지켜냈고, 이 세상의 평화와 안정도 지킬 수 있었다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230012$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740004" tooltipDescription="라펜타의 수호가 약해진 이후 깊은 물 속에 잠들어 있던 거대한 거북들이 자신의 터전을 벗어나 난폭하게 날뛰게 되었다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230004$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740005" tooltipDescription="라펜타의 수호가 약해진 이후 깊은 물 속에 잠들어 있던 거대한 거북들이 자신의 터전을 벗어나 난폭하게 날뛰게 되었다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230002$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740006" tooltipDescription="어리석은 욕심에 $npc:23000019$의 알을 탐했던 인간들에게 화가 난 $npc:23000019$$pp:가,이$ 무고한 사람들까지 복수의 대상으로 삼으면서 $npc:23000019$$pp:와,과$ 인간들의 처절한 전쟁은 시작되었다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230003$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740007" tooltipDescription="소중한 알을 탐했던 어리석은 인간들에 대한 분노로 가득한 $npc:23000020$. 사그러들 줄 모르는 분노와 함께 거대한 날개짓으로 폭풍같은 바람을 몰고 와 무고한 이들까지 희생시키고 있었다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230007$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740008" tooltipDescription="그리핀 종족의 우두머리 $npc:23000021$. 그는 모든 그리프 종족의 우두머리로 일족에게 닥친 불행에 크게 분노하고 있었다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230011$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740009" tooltipDescription="$npc:23000024$$pp:는,은$ 마왕의 명령을 받고 세계를 위협하기 시작한 바포메트 형제들 중 셋째로 가장 거칠고 포악한 것으로 알려져 있다. 블루 라펜타 파괴와 함께 다시 깨어난 이후 눈에 보이는 모든 것을 파괴하고 지배하기 위해 날뛰고 있다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230001$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740010" tooltipDescription="$npc:23000025$$pp:는,은$ 마왕의 명령을 받고 세계를 위협하기 시작한 바포메트 형제들 중 둘째로 검은 그림자 기운을 휘감은 채 메이플 월드의 평화를 깨고 대혼란을 초래하고 있다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230005$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740011" tooltipDescription="$npc:23000026$$pp:는,은$ 마왕의 명령을 받고 세계를 위협하기 시작한 바포메트 형제들 중 첫째로 무자비한 잔인함이 경악을 금치 못할 정도라고 알려져 있다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230009$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740012" tooltipDescription="고대인들의 지혜가 고스란히 담긴 $item:30000056$의 힘으로 만들어진 바야르는 수백 년이 지난 지금까지도 바야르 산맥 곳곳을 지키며 고대인의 성지를 수호하고 있다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230006$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740013" tooltipDescription="고대인들이 사라지기 직전 가장 최후에 탄생한 것으로 알려진$npc:23000100$. 고대인들의 지혜가 고스란히 담긴 $item:30000056$의 힘으로 만들어진 바야르는 수백 년이 지난 지금까지도 바야르 산맥 곳곳을 지키며 고대인의 성지를 수호하고 있다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230008$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740014" tooltipDescription="$npc:23000054$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230016$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740015" tooltipDescription="$npc:23000035$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230018$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740016" tooltipDescription="데블린은 마왕의 최측근 투르카가 이끄는 그림자 군단의 악령이다. 천성이 포악하고 다혈질에 사고뭉치이며 워리어, 치프, 샤먼 등 다양한 종족으로 구성되어 있다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230014$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740017" tooltipDescription="$npc:23000055$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230021$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740018" tooltipDescription="$npc:23000034$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230019$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740019" tooltipDescription="$npc:23000033$$pp:를,을$ 처치하고 획득한 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230031$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740020" tooltipDescription="$npc:23000007$의 모습을 닮은 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230015$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740021" tooltipDescription="$npc:23000056$의 코어이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230017$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740022" tooltipDescription="$npc:23000071$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230020$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740023" tooltipDescription="$npc:23000047$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230025$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740025" tooltipDescription="$npc:23000015$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230026$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740026" tooltipDescription="$npc:23000077$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230027$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740027" tooltipDescription="$npc:23000045$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230028$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740028" tooltipDescription="$npc:23000011$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230029$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740029" tooltipDescription="$npc:23000012$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230030$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740030" tooltipDescription="$npc:23000013$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230023$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740031" tooltipDescription="$npc:23000039$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230024$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740032" tooltipDescription="$npc:23000041$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230032$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
-	<key id="50740033" tooltipDescription="$npc:23190066$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:22200368$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
-	<key id="50740034" tooltipDescription="$npc:23000057$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230049$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
-	<key id="50740035" tooltipDescription="$npc:23000029$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230050$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
-	<key id="50740036" tooltipDescription="$npc:23000052$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230051$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
-	<key id="50740037" tooltipDescription="$npc:23000068$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#ff5400&apos;&gt;[II. $achieve:21230052$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
+	<key id="50710010" mainDescription="방어력 관통 4% 증가" tooltipDescription="미카가 빛의 후예로 재탄생하기까지 도움을 준 용의 기사들을 기념하기 위한 조각상이다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
+	<key id="50710011" mainDescription="보스 공격 시\n대미지 5% 증가" tooltipDescription="철 없는 말괄량이였던 미카가 루미에라곤으로서 운명을 찾고 진정한 빛의 후예로 재탄생한 것을 기념한 조각상이다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
+	<key id="50730001" tooltipDescription="오래된 고목나무에 악령이 깃들어 탄생한 $npc:22000001$. 최근 악령의 혼이 더욱 활개를 치고 다니는 것도 모두 마왕의 영향 때문일까…?" guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220006$] 트로피를 달성하면 구입할 수 있는 기념품이다.&lt;/font&gt;" />
+	<key id="50730002" tooltipDescription="$npc:22000002$$pp:를,을$ 물리친 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220010$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730003" tooltipDescription="본래 물의 요정이었던 쌍둥이 자매 $npc:22000003$$pp:와,과$ $npc:22000004$. 알베르토에 대한 엇나간 사랑으로 그의 약혼녀 로안나를 죽이고, 설원으로 추방당했던 것으로 알려져있다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220004$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730004" tooltipDescription="끓어오르는 용암 한 가운데 둥지를 틀고 있는 $npc:22000005$.$npc:22000005$의 꼬리는 최고의 보양식으로 인기가 많다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220011$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730005" tooltipDescription="$npc:23000009$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230048$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730006" tooltipDescription="어린 소녀들이 하나쯤 가지고 있는 인형을 연상시키는 $npc:22090165$. $map:02000100$에서 일어나고 있는 소녀들의 연쇄 실종 사건과 관련있다는 소문이 돌고 있다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220005$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730007" tooltipDescription="납골당 깊은 곳에서 아무도 모르게 열린 그림자 문을 통해 넘어온 $npc:22000011$. 메이플 월드에서 무슨 짓을 하려고 했던걸까…?" guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220009$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730008" tooltipDescription="$npc:22000321$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220008$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730009" tooltipDescription="$npc:22000322$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220012$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730010" tooltipDescription="$npc:22300105$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220003$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730011" tooltipDescription="$npc:22000023$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220013$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730012" tooltipDescription="$npc:22000024$$pp:를,을$ 처치하고 획득한 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220020$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730013" tooltipDescription="$npc:22000034$$pp:를,을$ 처치하고 획득한 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220023$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730014" tooltipDescription="$npc:22000053$$pp:를,을$ 처치하고 획득한 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220021$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730015" tooltipDescription="$npc:22090123$$pp:를,을$ 처치하고 획득한 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220030$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730016" tooltipDescription="$npc:22090166$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220014$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730017" tooltipDescription="$npc:22000007$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220017$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730018" tooltipDescription="$npc:22090007$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220018$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730019" tooltipDescription="$npc:22000038$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220015$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730020" tooltipDescription="$npc:22300149$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[I. $achieve:21220001$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730021" tooltipDescription="$npc:22000022$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[I. $achieve:21220002$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730022" tooltipDescription="$npc:22090107$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220007$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730023" tooltipDescription="$npc:22000059$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220019$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730024" tooltipDescription="$npc:22000042$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220022$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730025" tooltipDescription="$npc:22000052$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220024$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730026" tooltipDescription="$npc:22000045$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220025$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50730027" tooltipDescription="$npc:24001705$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220031$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
+	<key id="50730028" tooltipDescription="$npc:24001807$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220032$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
+	<key id="50730029" tooltipDescription="$npc:24001309$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:22200369$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
+	<key id="50730030" tooltipDescription="$npc:24002005$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:22200366$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
+	<key id="50730031" tooltipDescription="$npc:24001507$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21220033$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
+	<key id="50730032" tooltipDescription="$npc:24001904$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:22200367$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
+	<key id="50740001" tooltipDescription="데블린은 마왕의 최측근 투르카가 이끄는 그림자 군단의 악령이다. 천성이 포악하고 다혈질에 사고뭉치이며 워리어, 치프, 샤먼 등 다양한 종족으로 구성되어 있다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230013$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740002" tooltipDescription="지각 변동과 함께 사라졌다가 얼음굴의 형상으로 발견된$map:02000191$. 그 속에는 모두의 기억에서 $npc:23000006$$pp:가,이$ 존재하고 있었다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230043$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740003" tooltipDescription="멈추지 않는 붉은 심장을 가진 불멸의 존재, $npc:23090005$.$npc:11000144$$pp:와,과$ 함께 힘을 모아 $npc:23090005$의 부활을 막아냈다. 이로 인해 $npc:11000144$은 은인 무혼과의 약속을 지켜냈고, 이 세상의 평화와 안정도 지킬 수 있었다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230012$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740004" tooltipDescription="라펜타의 수호가 약해진 이후 깊은 물 속에 잠들어 있던 거대한 거북들이 자신의 터전을 벗어나 난폭하게 날뛰게 되었다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230004$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740005" tooltipDescription="라펜타의 수호가 약해진 이후 깊은 물 속에 잠들어 있던 거대한 거북들이 자신의 터전을 벗어나 난폭하게 날뛰게 되었다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230002$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740006" tooltipDescription="어리석은 욕심에 $npc:23000019$의 알을 탐했던 인간들에게 화가 난 $npc:23000019$$pp:가,이$ 무고한 사람들까지 복수의 대상으로 삼으면서 $npc:23000019$$pp:와,과$ 인간들의 처절한 전쟁은 시작되었다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230003$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740007" tooltipDescription="소중한 알을 탐했던 어리석은 인간들에 대한 분노로 가득한 $npc:23000020$. 사그러들 줄 모르는 분노와 함께 거대한 날개짓으로 폭풍같은 바람을 몰고 와 무고한 이들까지 희생시키고 있었다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230007$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740008" tooltipDescription="그리핀 종족의 우두머리 $npc:23000021$. 그는 모든 그리프 종족의 우두머리로 일족에게 닥친 불행에 크게 분노하고 있었다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230035$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740009" tooltipDescription="$npc:23000024$$pp:는,은$ 마왕의 명령을 받고 세계를 위협하기 시작한 바포메트 형제들 중 셋째로 가장 거칠고 포악한 것으로 알려져 있다. 블루 라펜타 파괴와 함께 다시 깨어난 이후 눈에 보이는 모든 것을 파괴하고 지배하기 위해 날뛰고 있다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230001$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740010" tooltipDescription="$npc:23000025$$pp:는,은$ 마왕의 명령을 받고 세계를 위협하기 시작한 바포메트 형제들 중 둘째로 검은 그림자 기운을 휘감은 채 메이플 월드의 평화를 깨고 대혼란을 초래하고 있다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230036$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740011" tooltipDescription="$npc:23000026$$pp:는,은$ 마왕의 명령을 받고 세계를 위협하기 시작한 바포메트 형제들 중 첫째로 무자비한 잔인함이 경악을 금치 못할 정도라고 알려져 있다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230009$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740012" tooltipDescription="고대인들의 지혜가 고스란히 담긴 $item:30000056$의 힘으로 만들어진 바야르는 수백 년이 지난 지금까지도 바야르 산맥 곳곳을 지키며 고대인의 성지를 수호하고 있다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230006$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740013" tooltipDescription="고대인들이 사라지기 직전 가장 최후에 탄생한 것으로 알려진$npc:23000100$. 고대인들의 지혜가 고스란히 담긴 $item:30000056$의 힘으로 만들어진 바야르는 수백 년이 지난 지금까지도 바야르 산맥 곳곳을 지키며 고대인의 성지를 수호하고 있다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230042$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740014" tooltipDescription="$npc:23000054$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230016$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740015" tooltipDescription="$npc:23000035$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230018$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740016" tooltipDescription="데블린은 마왕의 최측근 투르카가 이끄는 그림자 군단의 악령이다. 천성이 포악하고 다혈질에 사고뭉치이며 워리어, 치프, 샤먼 등 다양한 종족으로 구성되어 있다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230014$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740017" tooltipDescription="$npc:23000055$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230021$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740018" tooltipDescription="$npc:23000034$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230019$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740019" tooltipDescription="$npc:23000033$$pp:를,을$ 처치하고 획득한 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230037$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740020" tooltipDescription="$npc:23000007$의 모습을 닮은 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230046$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740021" tooltipDescription="$npc:23000056$의 코어이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230041$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740022" tooltipDescription="$npc:23000071$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230020$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740023" tooltipDescription="$npc:23000047$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230025$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740025" tooltipDescription="$npc:23000015$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230034$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740026" tooltipDescription="$npc:23000077$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230047$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740027" tooltipDescription="$npc:23000045$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230028$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740028" tooltipDescription="$npc:23000011$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230029$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740029" tooltipDescription="$npc:23000012$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230030$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740030" tooltipDescription="$npc:23000013$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230023$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740031" tooltipDescription="$npc:23000039$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230038$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740032" tooltipDescription="$npc:23000041$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230039$] 트로피를 달성하면 구입할 수 있다.&lt;/font&gt;" />
+	<key id="50740033" tooltipDescription="$npc:23190066$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:22200368$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
+	<key id="50740034" tooltipDescription="$npc:23000057$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230049$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
+	<key id="50740035" tooltipDescription="$npc:23000029$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230050$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
+	<key id="50740036" tooltipDescription="$npc:23000052$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230051$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
+	<key id="50740037" tooltipDescription="$npc:23000068$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다." guideDescription="&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21230052$] 트로피를 달성하면 구입할 수 있다.\n &lt;/font&gt;" />
 	<key id="50750001" mainDescription="HP 100 증가" tooltipDescription="\n&lt;font color=&apos;#00aaef&apos;&gt;[I. $achieve:21240001$]&lt;/font&gt; 트로피를 달성하여 획득한 기념품이다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
 	<key id="50750002" mainDescription="HP 125 증가" tooltipDescription="\n&lt;font color=&apos;#00aaef&apos;&gt;[II. $achieve:21240001$]&lt;/font&gt; 트로피를 달성하여 획득한 기념품이다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
 	<key id="50750003" mainDescription="HP 150 증가" tooltipDescription="\n&lt;font color=&apos;#00aaef&apos;&gt;[III. $achieve:21240001$]&lt;/font&gt; 트로피를 달성하여 획득한 기념품이다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
@@ -4082,7 +4178,7 @@
 	<key id="50770001" mainDescription="회피 4 증가" tooltipDescription="먼 바다 너머에서 아리까리 상인들이 구해왔다는 희귀종 도롱뇽이다. 흥분하면 온 몸이 달아오른 채 뜨거운 불씨를 뱉어낸다고 한다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
 	<key id="50770002" mainDescription="물리 방어 관통 4.3% 증가" tooltipDescription="먼 바다 너머에서 아리까리 상인들이 구해왔다는 희귀종 꽃뱀이다. 꽃뱀치고 흔치 않은 색상이 독특하다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
 	<key id="50770003" mainDescription="마법 방어 관통 4.3% 증가" tooltipDescription="먼 바다 너머에서 아리까리 상인들이 구해왔다는 희귀종 박쥐이다. 가끔 불침을 쏜다고 하니 조심하는 편이 좋겠다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
-	<key id="50770004" mainDescription="다크 스트림에서\n회피 20 증가" tooltipDescription="$map:02000350$$pp:를,을$ 도전하는 자에게 특별한 능력을 부여하는 기념품이다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
+	<key id="50770004" mainDescription="다크 스트림에서\n물리,마법 공격력 10% 증가" tooltipDescription="$map:02000350$$pp:를,을$ 도전하는 자에게 특별한 능력을 부여하는 기념품이다." guideDescription="내 부지의 실외 또는 실내에 설치하고 사용하면 버프를 받을 수 있다." />
 	<key id="50770005" tooltipDescription="전설의 낚시꾼만이 얻을 수 있는 진귀한 황금잉어 기념품이다." guideDescription="내 부지의 실외 또는 실내에 설치할 수 있다." />
 	<key id="50770006" tooltipDescription="전설의 지휘자 더키 더 모짜렐라를 기리는 기념품이다." guideDescription="내 부지의 실외 또는 실내에 설치할 수 있다." />
 	<key id="50770007" mainDescription="일부 던전에서 모든\n대미지 10% 증가" tooltipDescription="용기를 스스로 증명한 자만이 얻을 수 있는 특별한 기념품이다.\n&lt;font color=&apos;#00aaef&apos;&gt;(노멀) 얼어붙은 성소, 환상 피라미드, 트로닉스\n벙커, 블랙노프호, 버려진 물놀이터에서\n물리/마법 대미지 10% 증가&lt;/font&gt;" guideDescription="내 부지의 실외 또는 실내에 설치할 수 있다." />
@@ -4362,6 +4458,15 @@
 	<key id="59200202" tooltipDescription="낚시를 하다가 운 좋게 건진 상자다. 침몰한 선박에서 흘러나온 걸까? 뭔가 특별한 아이템이 들어있을 것만 같다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
 	<key id="59200203" tooltipDescription="승무원 의상이 담겨있는 패키지이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
 	<key id="59200204" tooltipDescription="승무원 의상이 담겨있는 패키지이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
+	<key id="59200205" tooltipDescription="인페르노 무기를 교환할 수 있는 쿠폰 1장과 인페르노 갑옷 의상 등이 다채롭게 담겨 있는 패키지이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다. 인페르노 나이트메어 군마는 봉인된 상태에서 1회 블랙마켓 거래가 가능하다." />
+	<key id="59200206" tooltipDescription="인페르노 무기를 교환할 수 있는 쿠폰 1장과 인페르노 갑옷 의상 등이 다채롭게 담겨 있는 패키지이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다. 인페르노 나이트메어 군마는 봉인된 상태에서 1회 블랙마켓 거래가 가능하다." />
+	<key id="59200207" tooltipDescription="인페르노 무기를 교환할 수 있는 쿠폰 2장과 인페르노 갑옷 의상 등이 다채롭게 담겨 있는 패키지이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다. 인페르노 나이트메어 군마는 봉인된 상태에서 1회 블랙마켓 거래가 가능하다." />
+	<key id="59200208" tooltipDescription="인페르노 무기를 교환할 수 있는 쿠폰 2장과 인페르노 갑옷 의상 등이 다채롭게 담겨 있는 패키지이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다. 인페르노 나이트메어 군마는 봉인된 상태에서 1회 블랙마켓 거래가 가능하다." />
+	<key id="59200209" tooltipDescription="인페르노 갑옷이 들어있는 룩 패키지이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
+	<key id="59200210" tooltipDescription="인페르노 갑옷이 들어있는 룩 패키지이다." guideDescription="소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다." />
+	<key id="59200211" tooltipDescription="지옥의 화염이 주변을 맴도는 사나운 말이다. 어느 누구도 쉽게 길들이지 못했던 지옥의 군마로 특별한 자격이 있는 자만 탈 수 있다고 한다." guideDescription="소지품 창의 아이템을 더블클릭하면 탈것을 얻을 수 있다. 봉인된 탈것은 1회 블랙마켓 거래가 가능하며, 봉인을 풀면 거래가 불가능하다." />
+	<key id="59200212" tooltipDescription="색동 한복 세트를 한 번에 구입할 수 있는 패키지이다." guideDescription="구입 후 소지품 창의 패키지 아이템을 더블클릭하면 아이템을 얻을 수 있다. 포장된 탈것은 1회 블랙마켓 거래가 가능하며, 포장을 풀면 거래가 불가능하다." />
+	<key id="59200213" tooltipDescription="색동 한복 세트를 한 번에 구입할 수 있는 패키지이다." guideDescription="구입 후 소지품 창의 패키지 아이템을 더블클릭하면 아이템을 얻을 수 있다. 포장된 탈것은 1회 블랙마켓 거래가 가능하며, 포장을 풀면 거래가 불가능하다." />
 	<key id="59300001" mainDescription="9X9 실내 전용\n인테리어 공사권" tooltipDescription="편안한 느낌으로 집을 한번에 꾸밀 수 있는 인테리어 공사권이다." guideDescription="소지품 창의 공사권 아이템을 내 집 안에서 더블클릭하면 한번에 집이 꾸며진다. 아이템 사용 시 공사권에 포함된 아이템은 소지품으로 들어가며, 소지품이 가득 찬 경우에는 이삿짐 보관 창고에 보관된다. 한번 사용한 공사권은 다시 되돌릴 수 없으며, 인테리어 도중에 집에서 나가는 경우 공사가 중단 될 수 있으니 주의하자. 집 사이즈와 공사권의 사이즈가 다르거나 이미 배치된 건설 아이템이 있는 경우 사용할 수 없다." />
 	<key id="59300002" mainDescription="9X9 실내 전용\n인테리어 공사권" tooltipDescription="편안한 느낌으로 집을 한번에 꾸밀 수 있는 인테리어 공사권이다." guideDescription="소지품 창의 공사권 아이템을 내 집 안에서 더블클릭하면 한번에 집이 꾸며진다. 아이템 사용 시 공사권에 포함된 아이템은 소지품으로 들어가며, 소지품이 가득 찬 경우에는 이삿짐 보관 창고에 보관된다. 한번 사용한 공사권은 다시 되돌릴 수 없으며, 인테리어 도중에 집에서 나가는 경우 공사가 중단 될 수 있으니 주의하자. 집 사이즈와 공사권의 사이즈가 다르거나 이미 배치된 건설 아이템이 있는 경우 사용할 수 없다." />
 	<key id="59300003" mainDescription="9X9 실내 전용\n인테리어 공사권" tooltipDescription="추운 지역의 오두막 컨셉으로 집을 한번에 꾸밀 수 있는 인테리어 공사권이다." guideDescription="소지품 창의 공사권 아이템을 내 집 안에서 더블클릭하면 한번에 집이 꾸며진다. 아이템 사용 시 공사권에 포함된 아이템은 소지품으로 들어가며, 소지품이 가득 찬 경우에는 이삿짐 보관 창고에 보관된다. 한번 사용한 공사권은 다시 되돌릴 수 없으며, 인테리어 도중에 집에서 나가는 경우 공사가 중단 될 수 있으니 주의하자. 집 사이즈와 공사권의 사이즈가 다르거나 이미 배치된 건설 아이템이 있는 경우 사용할 수 없다." />
@@ -4435,4 +4540,5 @@
 	<key id="70200042" mainDescription="말풍선 디자인 변경" tooltipDescription="말풍선 디자인을 교체할 수 있는 배지이다." guideDescription="소지품 창의 배지를 캐릭터 정보창의 배지 슬롯으로 드래그 앤 드랍 하면 말풍선이 변경된다. 말풍선 배지는 하나만 장착 가능하다." />
 	<key id="70200043" mainDescription="말풍선 디자인 변경" tooltipDescription="말풍선 디자인을 교체할 수 있는 배지이다." guideDescription="소지품 창의 배지를 캐릭터 정보창의 배지 슬롯으로 드래그 앤 드랍 하면 말풍선이 변경된다. 말풍선 배지는 하나만 장착 가능하다." />
 	<key id="70200044" mainDescription="말풍선 디자인 변경" tooltipDescription="말풍선 디자인을 교체할 수 있는 배지이다." guideDescription="소지품 창의 배지를 캐릭터 정보창의 배지 슬롯으로 드래그 앤 드랍 하면 말풍선이 변경된다. 말풍선 배지는 하나만 장착 가능하다." />
+	<key id="70200045" mainDescription="말풍선 디자인 변경" tooltipDescription="말풍선 디자인을 교체할 수 있는 배지이다." guideDescription="소지품 창의 배지를 캐릭터 정보창의 배지 슬롯으로 드래그 앤 드랍 하면 말풍선이 변경된다. 말풍선 배지는 하나만 장착 가능하다." />
 </ms2>

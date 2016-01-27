@@ -789,6 +789,7 @@
 	<achieve id="22200373" desc="카르카르 아일랜드 맵 {0}개 탐험하기" complete="지금까지 카르카르 아일랜드 맵 {0}개 탐험" manualDesc="" manualComplete="" />
 	<achieve id="22200374" desc='(던전) &quot;$dungeonTitle:02000355$&quot;에서 $npc:24002202$ {0}번 처치하기' complete='(던전) &quot;$dungeonTitle:02000355$&quot;에서 $npc:24002202$ {0}번 처치' manualDesc="" manualComplete="" />
 	<achieve id="22200375" desc='(던전) &quot;$dungeonTitle:02010049$&quot;에서 물감옥에 {0}번 갇히기' complete='지금까지 &quot;$dungeonTitle:02010049$&quot;에서 물감옥에 {0}번 갇힘' manualDesc="" manualComplete="" />
+	<achieve id="22200376" desc="" complete="" manualDesc="$map:52010021$의 $npc:11001495$$pp:를,을$ 만나 &apos;너희 또한 빛이 되리라&apos; 퀘스트 완료하기" manualComplete="$map:52010021$의 $npc:11001495$$pp:를,을$ 만나 &apos;너희 또한 빛이 되리라&apos; 퀘스트 완료!" />
 	<achieve id="22300001" desc="퀘스트 {0}개 완료" complete="지금까지 퀘스트 {0}개 완료" manualDesc="" manualComplete="" />
 	<achieve id="22300002" desc="" complete="" manualDesc="$map:02000146$의 $npc:11000076$$pp:를,을$ 만나 &apos;어둠의 실체&apos; 퀘스트 완료하기" manualComplete="$map:02000146$의 $npc:11000076$$pp:를,을$ 만나 &apos;어둠의 실체&apos; 퀘스트 완료!">
 		<reward grade="1" uiDesc="" notifyIcon="" notifyString="" />
@@ -1037,6 +1038,9 @@
 	<achieve id="23100165" desc="월척 발리아 {0}회 낚기" complete="지금까지 월척 발리아 {0}회 낚음" manualDesc="" manualComplete="" />
 	<achieve id="23100166" desc="월척 피라트 {0}회 낚기" complete="지금까지 월척 피라트 {0}회 낚음" manualDesc="" manualComplete="" />
 	<achieve id="23100167" desc="월척 파라오 해마 {0}회 낚기" complete="지금까지 월척 파라오 해마 {0}회 낚음" manualDesc="" manualComplete="" />
+	<achieve id="23100168" desc="클라리넷 연주로 숙련도 {0}까지 올리기" complete="클라리넷 연주로 숙련도 {0}까지 올리기 완료" manualDesc="" manualComplete="" />
+	<achieve id="23100169" desc="하프 연주로 숙련도 {0}까지 올리기" complete="하프 연주로 숙련도 {0}까지 올리기 완료" manualDesc="" manualComplete="" />
+	<achieve id="23100170" desc="팀파니 연주로 숙련도 {0}까지 올리기" complete="팀파니 연주로 숙련도 {0}까지 올리기 완료" manualDesc="" manualComplete="" />
 	<achieve id="23200001" desc="{0}메소 주워서 획득하기" complete="지금까지 {0}메소 주워서 획득" manualDesc="" manualComplete="">
 		<reward grade="8" uiDesc="$item:50600033$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600033$ 구매 권한 획득" />
 	</achieve>

@@ -124,6 +124,7 @@
 	<key id="$s_itemopion_check_auto_meso" value="메소 자동 줍기"/>
 	<key id="$s_itemopion_check_auto_merat" value="메럿 자동 줍기"/>
 	<key id="$s_itemopion_check_auto_token" value="기타 재화 자동 줍기" />
+  <key id="$s_itemopion_check_auto_other" value="남이 버린 아이템 줍기" />
 
 	<key id="$s_itemopion_dropdown_rank_all" value="모든 등급 획득"/>
 	<key id="$s_itemopion_dropdown_rank_up06" value="&lt;FONT color='#ff8c37'&gt;아티팩트&lt;/FONT&gt;이상 획득"/>
@@ -1559,8 +1560,6 @@
 	<key id="$s_enchant_fail_desc0" value="" /> <!--실패 시 재료만 날아감-->
 	<key id="$s_enchant_fail_desc1" value="&lt;FONT color='#FF5F5F'&gt;실패 시 인챈트 단계가 하락합니다.&lt;/FONT&gt;" /> <!--실패 시 하락-->
 	<key id="$s_enchant_fail_desc2" value="&lt;FONT color='#FF5F5F'&gt;실패 시 인챈트 단계가 0이 되고 장비가 손상됩니다.\n손상된 장비는 더 이상 인챈트 할 수 없습니다.&lt;/FONT&gt;" /> <!--실패 시 손상-->
-	<key id="$s_enchant_fail_desc_enchant" value="" /> <!--인챈트 스크롤의 실패 시 주의 사항-->
-	<key id="$s_enchant_fail_desc_restore" value="&lt;FONT color='#FF5F5F'&gt;손상된 장비에만 사용할 수 있습니다.&lt;/FONT&gt;" /> <!--인챈트 스크롤의 실패 시 주의 사항-->
 	<key id="$s_enchant_success_desc" value="인챈트 성공 시 인챈트 옵션이 변경 됩니다." />
 
 	<!-- 스마트 추천 -->
@@ -1910,6 +1909,7 @@
 
 	<key id="$s_enchantscroll_title_enchant" value="인챈트 주문서"/>
 	<key id="$s_enchantscroll_title_restore" value="인챈트 손상 장비 복구 주문서"/>
+	<key id="$s_enchantscroll_title_random" value="랜덤 인챈트 주문서"/>
 	<key id="$s_enchantscroll_ready" value="주문서를 사용할 아이템을 올려 주세요."/>
 	<key id="$s_enchantscroll_ok" value="인챈트"/>
 
@@ -1929,7 +1929,7 @@
 	<key id="$s_dark_stream_result_exp" value="{0} EXP" />
 
 	<key id="$s_notice_dialog_title" value="진행중인 이벤트" />
-	<key id="$s_notice_dialog_footer" value="※ 귀엽고 사랑스러운 나만의 펫 추가! 절찬 분양중!" />
+	<key id="$s_notice_dialog_footer" value="※ 인페르노 스페셜 패키지 등장!!" />
 
 	<!-- 아이템 옵션 변경(재굴림) -->
 	<key id="$s_itemremakeoption_title" value="아이템 추가 옵션 변경"/>
@@ -1982,6 +1982,9 @@
 	<key id="$s_playinstrument_main_play_score_tab_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;악보 연주&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n미리 쓰여진 악보를 사용해서 연주합니다.\n소지품에 있는 악보를 마우스 우클릭으로 선택해서 연주할 수 있습니다." />
 	<key id="$s_playinstrument_score_play_solo" value="독주하기" />
 	<key id="$s_playinstrument_score_play_ensemble" value="합주하기" />
+	<key id="$s_instrument_fold_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;접기&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n악기 연주 창을 접어서 최소화합니다.\n한번 더 누르면 원래 크기로 돌아갈 수 있습니다."/>
+	<key id="$s_instrument_unfold_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;펼치기&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n악기 연주 창을 펼칩니다.\n연주 시작 및 연주 방식 변경은 펼친 상태에서만 할 수 있습니다."/>
+	
 	<!--
 	<key id="$s_playinstrument_score_start_button" value="연주하기" />
 	<key id="$s_playinstrument_score_stop_button" value="연주 중지" />
@@ -1992,7 +1995,7 @@
 	<key id="$s_playinstrument_score_empty_score" value="연주할 악보를 올려 주세요" />	
 	
 	<!--악보제작-->
-	<key id="$s_writemusic_charset" value="0-9ABCDEFGabcdefgSsOoLlTtVvRrNn&amp;&lt;&gt;.+\r\- Nn"/>
+	<key id="$s_writemusic_charset" value="0-9ABCDEFGabcdefgSsOoLlTtVvRrNn&amp;&lt;&gt;.+\r\- NnMmPp"/>
 	<key id="$s_writemusic_title" value="작곡하기 | BETA"/>
 	<key id="$s_writemusic_btn_help_storybook" value="작곡 방법"/>
 	<key id="$s_writemusic_btn_help_webpage" value="자세히 보기"/>
@@ -2011,11 +2014,15 @@
 	
 	<key id="$s_writemusic_tooltip_btn_write_keyboard" value="&lt;FONT color='#FFD200' size='15' &gt;건반으로 작곡하기&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n피아노 건반으로 작곡합니다.\n건반에 해당하는 키를 누르면 자동으로 코드가 입력되는 녹음 모드를 지원합니다."/>
 	<key id="$s_writemusic_tooltip_btn_make" value="&lt;FONT color='#FFD200' size='15' &gt;악보 만들기&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n지금까지 입력한 내용으로 악보를 제작합니다.\n제작한 악보는 수정할 수 없습니다."/>
-	<key id="$s_writemusic_tooltip_btn_play_gofirst" value="&lt;FONT color='#FFD200' size='15' &gt;미리 듣기 처음으로&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n처음부터 다시 미리 들을 수 있습니다."/>
+	<key id="$s_writemusic_tooltip_btn_play_gofirst" value="&lt;FONT color='#FFD200' size='15' &gt;처음부터 듣기&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n시작 지점으로 되돌려서 처음부터 듣습니다."/>
 	<key id="$s_writemusic_tooltip_btn_play_start" value="&lt;FONT color='#FFD200' size='15' &gt;미리 듣기&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n지금까지 입력한 내용을 미리 들을 수 있습니다.\n미리 듣기 중에는 내용을 수정할 수 없습니다."/>
-	<key id="$s_writemusic_tooltip_btn_play_stop" value="&lt;FONT color='#FFD200' size='15' &gt;미리 듣기 중지&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n미리 듣기를 중지합니다."/>
+	<key id="$s_writemusic_tooltip_btn_play_pause" value="&lt;FONT color='#FFD200' size='15' &gt;일시중지&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n미리 듣기를 일시 중지합니다."/>	
+	<key id="$s_writemusic_tooltip_btn_play_stop" value="&lt;FONT color='#FFD200' size='15' &gt;미리 듣기 중지&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n미리 듣기를 중지하고 악보 편집으로 돌아갑니다."/>
 	<key id="$s_writemusic_tooltip_btn_help_storybook" value="&lt;FONT color='#FFD200' size='15' &gt;작곡 방법&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n작곡에서 사용하는 문법에 대한 설명이 적힌 스토리북을 엽니다.\n더 자세한 내용을 확인하려면 '자세히 보기'의 포스팅 페이지를 확인하세요."/>
 	<key id="$s_writemusic_tooltip_btn_help_webpage" value="&lt;FONT color='#FFD200' size='15' &gt;자세히 보기&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n작곡 방법 가이드 포스팅 페이지를 엽니다."/>
+	<key id="$s_writemusic_tooltip_btn_copy_to_clipboard" value="&lt;FONT color='#FFD200' size='15' &gt;복사하기&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n입력한 멜로디 또는 화음을 클립보드로 복사합니다.\n현재 선택되어 있는 화음 또는 멜로디만 복사됩니다."/>
+	<key id="$s_writemusic_tooltip_btn_load_file" value="&lt;FONT color='#FFD200' size='15' &gt;파일 불러오기&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n.ms2mml로 저장된 파일을 불러와서 자동으로 입력합니다."/>
+	<key id="$s_writemusic_tooltip_btn_save_file" value="&lt;FONT color='#FFD200' size='15' &gt;파일 저장하기&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n현재 내용을 .ms2mml 파일로 저장합니다."/>
 	
 	<key id="$s_writemusic_tab_0" value="멜로디"/>
 	<key id="$s_writemusic_tab_1" value="화음A"/>
@@ -2033,4 +2040,14 @@
 	<key id="$s_writemusic_text_notice_during_play_music" value="미리 듣기 중에는 악보 편집을 할 수 없습니다."/>
 
 	<key id="$s_talk_script_reward_exp" value="{0} EXP" />
+	
+	<key id="$s_compact_control_title" value="콤팩트 키" />
+	<key id="$s_compact_control_rclick_menu_setting_tab" value="탭 설정"/>
+	<key id="$s_compact_control_rclick_menu_remove_tab" value="탭 삭제"/>
+	<key id="$s_compact_control_setting_hot_key" value="단축키 설정"/>
+	<key id="$s_compact_control_hotkey_reset" value="초기화" />
+	<key id="$s_compact_control_hotkey_tooltip" value="클릭 후 단축키를 지정할 수 있습니다." />
+	<key id="$s_compact_control_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;콤팩트 키&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n콤팩트 키로 설정한 단축키를 길게 누르면\n선택한 스킬들이 자동으로 사용됩니다.\n콤팩트 키는 최대 3개까지 설정할 수 있습니다." />
+	<key id="$s_compact_control_main_tooltip" value="&lt;FONT color='#FFD200'&gt;콤팩트 키&lt;/FONT&gt;\n콤팩트 키로 설정한 단축키를 길게 누르면 \n선택한 스킬들이 자동으로 사용됩니다." />
+	
 </ms2>
