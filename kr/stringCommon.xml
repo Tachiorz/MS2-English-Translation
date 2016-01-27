@@ -3311,7 +3311,23 @@
   <key id="s_pet_cant_summon_state_play_instrument" value="Can summon a pet during play."/>
   <key id="s_pet_cant_summon_state_fishing" value="Fishing is not able to summon the pet."/>
 
-  <key id="s_usercommanddescription_user" value="[Chat Commands] World Chat : /w, /world, /ㅈ, /월, /월드, /월드확성기 Channel Chat : /c, /channel, /ㅊ, /채, /채널, /채널확성기 Area Chat : /s, /space, /ㄴ, /지, /지역 Party Chat : /p, /party, /ㅔ, /파, /파티 Guild Chat : /g, /guild, /ㅎ, /길, /길드 Whisper : /r, /ㄱ, /귓, /귓말, /귓속말, /whisper - [How to Whisper] /r Username Text Party Invite : /파티초대, /partyinvite, /pinvite - [How to Party Invite] /pinvite Username Party Leave : /파티탈퇴, /partyleave, /pleave Guild Invite : /길드초대, /guildinvite, /ginvite - [How to Guild Invite] /ginvite Username Maview Search : /검색, /search - [How to Maview Search] /search Keyword Switch Channel : /채널이동 - [How to Switch Channels] /채널이동"/>
+  <key id="s_usercommanddescription_user" value="[Chat Commands]
+World Chat : /w, /world, /ㅈ, /월, /월드, /월드확성기
+Channel Chat : /c, /channel, /ㅊ, /채, /채널, /채널확성기
+Area Chat : /s, /space, /ㄴ, /지, /지역
+Party Chat : /p, /party, /ㅔ, /파, /파티
+Guild Chat : /g, /guild, /ㅎ, /길, /길드
+Whisper : /r, /ㄱ, /귓, /귓말, /귓속말, /whisper
+- [How to Whisper] /r Username Text
+Party Invite : /파티초대, /partyinvite, /pinvite
+- [How to Party Invite] /pinvite Username
+Party Leave : /파티탈퇴, /partyleave, /pleave
+Guild Invite : /길드초대, /guildinvite, /ginvite
+- [How to Guild Invite] /ginvite Username
+Maview Search : /검색, /search
+- [How to Maview Search] /search Keyword
+Switch Channel : /채널이동
+- [How to Switch Channels] /채널이동"/>
 
   <key id="s_timeevent_common_1" value="Let's play together! Come to the Cave of Runes in Amherst!"/>
   <key id="s_timeevent_common_4" value="Event in Queenstown is in progress."/>
