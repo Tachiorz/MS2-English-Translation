@@ -8,7 +8,7 @@
 	<tip id="5" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Are you looking to buy a new house? Click on the icon in front of the empty land or house to sign a contract."/>
 	<tip id="6" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to buy a home, you can click the house icon for the contract."/>
 	<tip id="7" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Each account can only have one house. A house is shared within the characters."/>
-	<tip id="8" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to rename your house, click on the contract.\nFrom there you can change the name via contract.."/>
+	<tip id="8" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you want to rename your house, click on the contract.\nFrom there you can change the name via contract."/>
 	<tip id="9" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Houses are not only sold in villages.\nMany other places carry a variety of home sizes."/>
 	<tip id="10" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="The better location, the more expensive the house is."/>
 	<tip id="11" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you terminate your housing contract, all your items will be kept in the mover's storage warehouse."/>
@@ -20,7 +20,7 @@
 	<tip id="17" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can view real estate pricing through Tria's $map:02000123$."/>
 	<tip id="18" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you withdraw all items in the house, it will be moved to the mover's storage warehouse"/>
 	<tip id="19" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="When you are at your home, you can press 'B' to modify your house."/>
-	<tip id="20" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can place items down in land or inside your building.">
+	<tip id="20" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="You can place items down in land or inside your building."/>
 	<tip id="21" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="If you don't like the orientation of an item in your home, you can rotate it."/>
 	<tip id="22" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Bunny Girl's shop is available in construction mode."/>
 	<tip id="23" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000036$ sells a variety of items to decorate your home."/>
