@@ -59,11 +59,11 @@
 	<key id="10200041" level="3" name="Anger" tooltipDescription="The anger that was sleeping on my sides opened my eyes!\Def 6% reduction\nPhysical attack 6% y/y increase"/>
 	<key id="10200041" level="4" name="Anger" tooltipDescription="The anger that was sleeping on my sides opened my eyes!\Def 6.5% reduction\nPhysical attack power 6.5% increase"/>
 	<key id="10200041" level="5" name="Anger" tooltipDescription="The anger that was sleeping on my sides opened my eyes!\Def 7.5% reduction\nPhysical damage 7.5% y/y increase"/>
-	<key id="10200061" level="1" name="Threat" tooltipDescription="Lost before the body motions ...\nDamage reduced by 20% (some excluded)\nGo to reduce speed by 20%\nJump power 30% reduction"/>
-	<key id="10200061" level="2" name="Threat" tooltipDescription="Lost before the body motions ...\n22% damage reduction (some excluded)\nGo speed 22% reduced\nJump power 30% reduction"/>
-	<key id="10200061" level="3" name="Threat" tooltipDescription="Lost before the body motions ...\nDamage reduction of 24% (some excluded)\nSpeed 24% reduced\nJump force 35% reduction"/>
-	<key id="10200061" level="4" name="Threat" tooltipDescription="Lost before the body motions ...\nDamage reduced by 26% (some excluded)\nMovement speed to 26% reduction\nJump force 35% reduction"/>
-	<key id="10200061" level="5" name="Threat" tooltipDescription="Lost before the body motions ...\n30% reduction in damage (some excluded)\n30% reduction in movement speed\nJump power 40% reduction"/>
+	<key id="10200061" level="1" name="Threat" tooltipDescription="Lost before the body motions ...\n75% reduction in damage (some excluded)\nJumps 30% reduction in strength, movement speed"/>
+	<key id="10200061" level="2" name="Threat" tooltipDescription="Lost before the body motions ...\nAttack power 77% (some excluded)\nJumping ability, speed 32% reduction"/>
+	<key id="10200061" level="3" name="Threat" tooltipDescription="Lost before the body motions ...\n79% reduction in damage (some excluded)\nJump 34% reduction in strength, movement speed"/>
+	<key id="10200061" level="4" name="Threat" tooltipDescription="Lost before the body motions ...\n81% damage reduction (some excluded)\nJump 36% reduction in strength, movement speed"/>
+	<key id="10200061" level="5" name="Threat" tooltipDescription="Lost before the body motions ...\n85% damage reduction (some excluded)\nJumping ability, speed 40% reduction"/>
 	<key id="10200071" level="1" name="Ground breaker" tooltipDescription="The strong impact of the floor cannot move properly!\nGo to reduce speed by 20%"/>
 	<key id="10200071" level="2" name="Ground breaker" tooltipDescription="The strong impact of the floor cannot move properly!\nMovement speed reduced by 25%"/>
 	<key id="10200071" level="3" name="Ground breaker" tooltipDescription="The strong impact of the floor cannot move properly!\n30% reduction in movement speed"/>
@@ -1095,6 +1095,8 @@
 	<key id="70000076" level="1" name="Deadly shadow of miasma" tooltipDescription="This land has been polluted in the shadows!\nPoison damage each second"/>
 	<key id="70000077" level="1" name="Deadly shadow of miasma" tooltipDescription="This land has been polluted in the shadows!\nPoison damage each second"/>
 	<key id="70000078" level="1" name="SP Sealed" tooltipDescription="SP Disabled"/>
+	<key id="79010010" level="1" name="Souvenir effect" tooltipDescription="4 percent increase in penetrating power"/>
+	<key id="79010011" level="1" name="Souvenir effect" tooltipDescription="Boss attack damage increased by 5%"/>
 	<key id="81000001" level="1" name="Blue paint" tooltipDescription="It has been covered in paint"/>
 	<key id="81000031" level="1" name="An unidentified cucumber flavored cocktail" tooltipDescription="Takes on an intense aroma of cucumber"/>
 	<key id="81000051" level="1" name="Terry's sailing schedule" tooltipDescription="Will himself"/>
@@ -1273,7 +1275,7 @@
 	<key id="90000246" level="1" name="Pumpkin candy" tooltipDescription="Once every second HP 150 Recovery"/>
 	<key id="90000249" level="1" name="Megan cow detection eyedrops" tooltipDescription="Megan acquired a 20% increase or decrease the amount of soda"/>
 	<key id="90000250" level="1" name="Excellent experience 2 x coupons" tooltipDescription="Monster Hunt:, experience acquired, the amount increased 2 times"/>
-	<key id="90000252" level="1" name="Souvenir effect" tooltipDescription="Increase the dark stream, evading 20"/>
+	<key id="90000252" level="1" name="Souvenir effect" tooltipDescription="10% bonus to the damage of physical, magic, dark stream"/>
 	<key id="90000253" level="1" name="Fairy springs" tooltipDescription="Evasion 1000 increases, $map:02000350$Only applying effects to"/>
 	<key id="90000254" level="1" name="Fairy's tears" tooltipDescription="Defense power increase, 1000 $map:02000350$Only applying effects to"/>
 	<key id="90000262" level="1" name="In essence this worm bait" tooltipDescription="Normal, rare fish fishing odds 10% y/y increase"/>
@@ -1289,8 +1291,8 @@
 	<key id="90000273" level="1" name="Christmas candy cane" tooltipDescription="Once every second HP 150 Recovery"/>
 	<key id="90000277" level="1" name="A proof of courage" tooltipDescription="(Normal) with the illusion that the frozen sanctuary, pyramid,\nBunker, black Smirnoff, from an abandoned wading pool\nPhysics/Magic damage increases by 10%"/>
 	<key id="90000278" level="1" name="Proof of Valor" tooltipDescription="(The captain's fortress, the Moonlight shadow chaos) Corps of the altar\n(Normal) Barra ska Ice Cave, blue shadow caves\nCasa del Luna, La Quinta Los, labyrinth of the rally from the party\nPhysics/Magic damage increases by 10%"/>
-	<key id="90000281" level="1" name="Magnet fish bait" tooltipDescription="Fishing game fishing equipment items to the probability of increased slightly"/>
-	<key id="90000282" level="1" name="Powerful magnet fish bait" tooltipDescription="Fishing game with a lot of increase in probability of equipment items fishing"/>
+	<key id="90000281" level="1" name="Magnet bait" tooltipDescription="Game equipment can be hooked up to an item\nNormal, rare fish fishing odds 10% y/y increase"/>
+	<key id="90000282" level="1" name="Powerful magnet bait" tooltipDescription="The game can be a better fishing equipment items to\nNormal, rare fish fishing odds 10% y/y increase"/>
 	<key id="90001001" level="1" name="Tri at speed 5% y/y increase" tooltipDescription="Tri at speed 5% y/y increase"/>
 	<key id="90001002" level="1" name="The willingness of the struggle" tooltipDescription="HP In a battle between the players, increasing stiffness immune\nPvP The effects of calibration of equipment at which Chan Tran"/>
 	<key id="90001005" level="1" name="1Times" tooltipDescription="1Times"/>
@@ -1330,7 +1332,7 @@
 	<key id="90050581" level="1" name="The flames of hell meteorites : Immortal has evoked the flames of hell&#10;  To master the power of the weapon. Each successful attack &#10;  20% Chance to accumulate an aura of flame, the flame of the perky one per&#10;  Physical attack power rises 6. If the five overlapping aura of flames&#10;  5 people off the flames of hell meteorites 418% damage&#10;  3Times the offense. Flame aura is accumulate only once every 7 seconds,&#10;  PVP Jurisdictions do not allow the effect does not apply."/>
 	<key id="90050591" level="1" name="The flames of hell meteorites : Immortal has evoked the flames of hell&#10;  To master the power of the weapon. Each successful attack &#10;  20% Chance to accumulate an aura of flame, the flame of the perky one per&#10;  Physical damage 3. If the five overlapping aura of flames&#10;  5 people off the flames of hell meteorites 210% damage&#10;  3Times the offense. Flame aura is accumulate only once every 7 seconds,&#10;  PVP Jurisdictions do not allow the effect does not apply."/>
 	<key id="90050611" level="1" name="The flames of hell meteorites : Immortal has evoked the flames of hell&#10;  To master the power of the weapon. Each successful attack &#10;  20% Chance to accumulate an aura of flame, the flame of the perky one per&#10;  Physical damage 3. If the five overlapping aura of flames&#10;  5 people off the flames of hell meteorites 188% damage&#10;  3Times the offense. Flame aura is accumulate only once every 7 seconds,&#10;  PVP Jurisdictions do not allow the effect does not apply."/>
-	<key id="90050631" level="1" name="The flames of hell meteorites : Immortal has evoked the flames of hell&#10;  To master the power of the weapon. Each successful attack &#10;  20% Chance to accumulate an aura of flame, the flame of the perky one per&#10;  Physical attack power rises 6. If the five overlapping aura of flames&#10;  5 people off the flames of hell meteorites 510% damage&#10;  3Times the offense. Flame aura is accumulate only once every 7 seconds,&#10;  PVP Jurisdictions do not allow the effect does not apply."/>
+	<key id="90050631" level="1" name="The flames of hell meteorites : Immortal has evoked the flames of hell&#10;  To master the power of the weapon. Each successful attack &#10;  20% Chance to accumulate an aura of flame, the flame of the perky one per&#10;  Physical attack power rises 6. If the five overlapping aura of flames&#10;  5 people off the flames of hell meteorites 510% of physical damage&#10;  3Times the offense. Flame aura is accumulate only once every 7 seconds,&#10;  PVP Jurisdictions do not allow the effect does not apply."/>
 	<key id="90050512" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
 	<key id="90050522" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>
 	<key id="90050532" level="1" name="Trends of flame" tooltipDescription="A strong aura of flames."/>

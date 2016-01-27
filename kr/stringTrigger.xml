@@ -939,8 +939,8 @@
 	<key id="02000336_BF__BOSS__1" name="The Agency went beyond that, indeed, does not stop the train would be difficult to deal with. \nWhat idiots only to see Higgins? Come on go trains rowing institutions are indeed!" npc="Wei Hong"/>
 	<key id="02000337_BF__BOSS__0" name="Runaway train was now some truly doeeossgun." npc="Wei Hong"/>
 	<key id="02000337_BF__BOSS__1" name="Dare ... I Wei Hong thing braid ... He will surely regret, no matter who!" npc="Wei Hong"/>
-	<key id="02000337_BF__BOSS__2" name="Today you'll pay off the debt to be sure one day. I promise in the name of Hong-Wei!" npc="Wei Hong"/>
-	<key id="02000337_BF__BOSS__3" name="Today you'll pay off the debt to be sure one day. I promise in the name of Hong-Wei!" npc="Wei Hong"/>
+	<key id="02000337_BF__BOSS__2" name="Today you'll pay off the debt to be sure someday I promise in the name of Hong-Wei!" npc="Wei Hong"/>
+	<key id="02000337_BF__BOSS__3" name="Today you'll pay off the debt to be sure someday I promise in the name of Hong-Wei!" npc="Wei Hong"/>
 	<key id="02000338_BF__MAIN1__0" name="Earth aura."/>
 	<key id="02000338_BF__MAIN1__1" name="Hydro ball cake night"/>
 	<key id="02000338_BF__MAIN1__2" name="Goal: Take the Pro's teeth care"/>
@@ -1017,32 +1017,32 @@
 	<key id="02010051_BF__PORTAL03__0" name="That they used in the Dim light of ggas darkness seems to be gone!"/>
 	<key id="02010051_BF__PORTAL06__0" name="Stupid light's henchmen are flocking here. The day after ..."/>
 	<key id="02010051_BF__PORTAL06__1" name="Yes guys this feeble light of the labyrinth can leave?\nOnce for 'em ..."/>
-	<key id="02010052_BF__BOSS__0" name="You what the hell? Why not come along to me?!"/>
+	<key id="02010052_BF__BOSS__0" name="You what the hell? Why not come along to me?!" npc="It's a"/>
 	<key id="02010052_BF__BOSS__1" name="Come to the crossroads fire ice melt."/>
-	<key id="02010052_BF__BOSS__2" name="Ah, confused. No longer ... Do not ...!"/>
+	<key id="02010052_BF__BOSS__2" name="Alas, no longer get confused ... Do not ...!" npc="It's a"/>
 	<key id="02010052_BF__BOSS__3" name="Come to the crossroads fire ice melt."/>
-	<key id="02010052_BF__BOSS__4" name="Everyone froze. Can't go back again."/>
+	<key id="02010052_BF__BOSS__4" name="Can't return back all froze" npc="It's a"/>
 	<key id="02010052_BF__BOSS__5" name="Come to the crossroads fire ice melt."/>
 	<key id="02010052_BF__BOSS__6" name="In the end, here at the outset. Yes, a human being. I'm going to let an opponent."/>
 	<key id="02010052_BF__BOSS__7" name="Come to the crossroads fire ice melt."/>
 	<key id="02010052_BF__MAIN__0" name="The frozen garden : The Holy girl"/>
 	<key id="02010052_BF__MAIN__1" name="A human being ...? How long ...?"/>
 	<key id="02010052_BF__MAIN__2" name="Go back to the ... You're not a place to come ..!"/>
-	<key id="02010052_BF__MAIN__3" name="How do I find, but would do everything to stop outgoing."/>
-	<key id="02010052_BF__MAIN__4" name="If you could be in danger of no longer comes in."/>
+	<key id="02010052_BF__MAIN__3" name="How come, I'm better off out" npc="It's a"/>
+	<key id="02010052_BF__MAIN__4" name="No longer could be at risk if the chop" npc="It's a"/>
 	<key id="02010052_BF__MAIN__5" name="The demon and the one pane? This freezing?"/>
-	<key id="02010052_BF__MAIN__6" name="No more access to none."/>
+	<key id="02010052_BF__MAIN__6" name="No more access to none." npc="It's a"/>
 	<key id="02010052_BF__TORCHLIGHT_01__0" name="Come to the crossroads fire ice melt."/>
 	<key id="02010052_BF__TORCHLIGHT_02__0" name="Come to the crossroads fire ice melt."/>
-	<key id="02010052_BF__TORCHLIGHT_03__0" name="Alternate ... Who are you?"/>
-	<key id="02010052_BF__TORCHLIGHT_03__1" name="Why are cerebrum incoming?"/>
+	<key id="02010052_BF__TORCHLIGHT_03__0" name="Alternate ... Who are you?" npc="It's a"/>
+	<key id="02010052_BF__TORCHLIGHT_03__1" name="Why are cerebrum incoming?" npc="It's a"/>
 	<key id="02010052_BF__TORCHLIGHT_03__2" name="Come to the crossroads fire ice melt."/>
 	<key id="02010052_BF__TORCHLIGHT_04__0" name="Come to the crossroads fire ice melt."/>
 	<key id="02010052_BF__TORCHLIGHT_04__1" name="Keeps coming for a reason?"/>
-	<key id="02010052_BF__TORCHLIGHT_04__2" name="This is an area of God!"/>
-	<key id="02010052_BF__TORCHLIGHT_05__0" name="Keep incoming?"/>
+	<key id="02010052_BF__TORCHLIGHT_04__2" name="This is an area of God!" npc="It's a"/>
+	<key id="02010052_BF__TORCHLIGHT_05__0" name="Keep incoming?" npc="It's a"/>
 	<key id="02010052_BF__TORCHLIGHT_05__1" name="Come to the crossroads fire ice melt."/>
-	<key id="02010052_BF__TORCHLIGHT_05__2" name="Come malran! do not come."/>
+	<key id="02010052_BF__TORCHLIGHT_05__2" name="Do not come! Come to malran!" npc="It's a"/>
 	<key id="02010052_BF__TORCHLIGHT_06__0" name="Come to the crossroads fire ice melt."/>
 	<key id="02010052_BF__BOSS__8" name="I rock da ... Can't.\nWere brought to mind can't walk like this anymore ...!"/>
 	<key id="02010054_BF__GUIDE_01__0" name="Graz I have been able to reach.\nSafely undo your body to move back."/>
@@ -1319,6 +1319,14 @@
 	<key id="52010014_QD__MAIN__1" name="Well? Brooding guy? AHU~ Don't know, don't know, hungry."/>
 	<key id="52010014_QD__MAIN__2" name="Star hearts! Come from an omelet!"/>
 	<key id="52010014_QD__MAIN__3" name="Hugh~ Knew it."/>
+	<key id="52010020_QD__MAIN__0" name="Woo, Woo, Woo rattle ... Delicious. You should not eat again as soon" npc="-Based bar"/>
+	<key id="52010020_QD__MAIN__1" name="You will have to create a few dishes are going to be more ... Besides, the guests why you as well?" npc="Star hearts"/>
+	<key id="52010020_QD__MAIN__2" name="I came to have a flyer! 5000 Merle Soviet Manchurian really stuff that can be eaten?"/>
+	<key id="52010021_QD__MAIN__0" name="I came to have a flyer! The star is made you can eat heartily omelette?"/>
+	<key id="52010021_QD__MAIN__1" name="The restaurant did not turn off the lights of the night"/>
+	<key id="52010021_QD__MAIN__2" name="All fun times spent some time calling."/>
+	<key id="52010021_QD__MAIN__3" name="- The end -"/>
+	<key id="52010023_QD__MAIN__0" name="This is not to say that zig?" npc="-Based bar"/>	
 	<key id="61000001_ME_001__MASSIVE00__0" name="Welcome to trap master."/>
 	<key id="61000001_ME_001__MASSIVE00__1" name="Trap master is a game to survive till the end to avoid the pitfalls.\nThe winner can receive goods together with well-known figures."/>
 	<key id="61000001_ME_001__MASSIVE00__2" name="Draw the shape of the cube which disappears.\nIt does not disappear, go to the cube, the last to survive."/>

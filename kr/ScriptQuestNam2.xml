@@ -2605,7 +2605,7 @@
 	<key id="0831174302002604" npc="Black kids" name="And ... $map:02000296$ Right in front of ... $npc:11000064$ Rodeos!!&#10;I haven't met for a long time ... Find out at a glance."/>
 	<key id="0831174302002605" npc="Black kids" name="Feel what it was like."/>
 	<key id="0831174302002606" npc="Black kids" name="Hmm Hmm!!!! You feel what ... Just met it encounters. In-house child among ... &#10;I'm not sure whether what you think ... I did not say a Word.&#10;WH. .. Need not to say.&#10;Anyway ... At the end of the twists and turns $npc:11000069$Obtain up to the three of us came back together."/>
-	<key id="0831174302002607" npc="Black kids" name="$npc:11000064$ Where it's at."/>
+	<key id="0831174302002607" npc="Black kids" name="$npc:11000064$ Where it's at right now."/>
 	<key id="0831174302002608" npc="Black kids" name="Cart at Ramus $npc:11000069$ Guharyeoda is injured ... &#10;Dark wind inconspicuous places quietly during recovery.&#10;$npc:11000069$ Attaches itself to being taken care of by ... You'll get better soon.&#10;Rather, ... Might want to check out right now!"/>
 	<key id="0831174302002609" npc="Black kids" name="Ask what it is."/>
 	<key id="0831174302002610" npc="Black kids" name="Not long ago ... Covert &lt;font color=&quot;#ffd200&quot;&gt;The structure of the request of anonymity&lt;/font&gt; I got the message.&#10;The dark wind, being chased to protect yourself if you &lt;font color=&quot;#ffd200&quot;&gt;$npc:11000044$The secret of the&lt;/font&gt;To &#10;Tell everyone was giving content."/>
@@ -4941,4 +4941,35 @@
 	<key id="0107032902004873" npc="Moore" name="The darkness of this lame attempts and stone."/>
 	<key id="0107032902004874" npc="Moore" name="&lt;font color=&quot;#ffd200&quot;&gt;La mer Ston&lt;/font&gt;? Light stone ... I seem to have heard of the u.s. melting! &#10;Carmina is aiming for us it guys that used to be melting? Ooh huh huh huh ... &#10;Urgent information Dami melting!! A colleague of mine when it comes looking for me I'll have to just say the u.s. melting!"/>
 	<key id="0107032902004875" npc="Moore" name="Morrow Papa should know a lack of Mi-Jung! &#10;$npcName:11001215$I'm going to give our Scouting crew to let the u.s. melting ...!"/>
+	<key id="0115110302004876" npc="Arlon" name="$MyPCName$! Just now $npcName:11001216$ McKnight has been heard from.&#10;$npcName:11000735$ Woke up in the ancient province of seats find Eragon Rumi &lt;font color=&quot;#ffd200&quot;&gt;$map:52010017$&lt;/font&gt; Go, and&#10;Rumi Eragon's Castle Rock as you seek $map:52010007$ O buy-in.&#10;"/>
+	<key id="0120234902004888" npc="Arlon" name="My dear I'll pass you the news $npcName:11000735$ McKnight went along behind $npcName:11000735$ Those friends&#10;This used to be the ancient Loomis unharmed in the province of seats in La to help regain this wish.&#10;$npcName:23000068$ Disappeared, but ... &#10;$map:02010055$ Of course, there's still a secret passageway used to be left of the Carmina&#10;Still, dangers, and you'll be."/>
+	<key id="0120234902004889" npc="Arlon" name="Oh, &lt;font color=&quot;#ffd200&quot;&gt;$map:52010017$&lt;/font&gt; Even the entrance is connected &lt;font color=&quot;#ffd200&quot;&gt;$map:02010029$&lt;/font&gt;Of $map:02010055$ Entrance&#10;Nearby. Hurry up and take a look for a good to go!"/>
+	<key id="0115110302004877" npc="Arlon" name="Oh, &lt;font color=&quot;#ffd200&quot;&gt;$map:52010017$&lt;/font&gt; Even the entrance is connected &lt;font color=&quot;#ffd200&quot;&gt;$map:02010029$&lt;/font&gt;Of $map:02010055$ Entrance&#10;Nearby. Hurry up and take a look for a good to go!"/>
+	<key id="0115110302004878" npc="Arlon" name="AW! $MyPCName$!&#10;My Lord?"/>
+	<key id="0120234902004890" npc="Arlon" name="$npcName:11000076$Tell the news to hear."/>
+	<key id="0120234902004891" npc="Arlon" name="Oh, and you're done!&#10;Shadow poison over to my mom's voice when hallucinating.&#10;&lt;font color=&quot;#ffd200&quot;&gt;$map:02010055$&lt;/font&gt;Sealed in an ancient stone castle of Eragon Rumi ... &lt;font color=&quot;#ffd200&quot;&gt;A piece of light&lt;/font&gt;To find ... &#10;It's going to my destiny was going to open many way!"/>
+	<key id="0120234902004892" npc="Arlon" name="I'm still not fully recovered the power of the light.&#10;Sarah was $npcName:23000068$ Before returning again &lt;font color=&quot;#ffd200&quot;&gt;A piece of light&lt;/font&gt;To find out! "/>
+	<key id="0115110302004879" npc="Mika" name="One of the articles for this alone may be insufficient with.&#10;You for your help!"/>
+	<key id="0115110302004880" npc="Mika" name="One of the articles for this alone may be insufficient with.&#10;You for your help!"/>
+	<key id="0115110302004881" npc="Mika" name="$MyPCName$!&#10;Why not come back alone? $npcName:11000735$ Those guys ...?"/>
+	<key id="0120234902004893" npc="Mika" name="Opening the way of light $npcName:11000735$Remember the words of the mind."/>
+	<key id="0120234902004894" npc="Mika" name="$npcName:11000735$ The way of the light ...?&#10;Then the ancient castles of stone found in both Rumi Eragon a giant! I presume?"/>
+	<key id="0120234902004895" npc="Mika" name="Even so."/>
+	<key id="0120234902004896" npc="Mika" name="Ah~ Glad it.&#10;Yet $npcName:11000735$ Fully control the power in the castle's seat did not awaken in the State get in the way of the light &#10;Kite, I guess. &#10;That is why the length of the self to another light on the India shape ... "/>
+	<key id="0120234902004897" npc="Mika" name="$MyPCName$If you look at the back so safely by $npcName:11000735$ He also rated ride &#10;Sounds like there will be."/>
+	<key id="0115110302004882" npc="In Rev" name="Wait here with me ... Ah! Glad there are coming!"/>
+	<key id="0115110302004883" npc="In Rev" name="Wait here with me ... Ah! Glad there are coming!"/>
+	<key id="0115110302004884" npc="In Rev" name="&lt;font color=&quot;#ffd200&quot;&gt;We wish him a succession of light in front of India, ye shall be also the presence of light ...&lt;/font&gt;&#10;I ... Now I think I know. $npcName:11001216$ Friends like memorize the meaning of these words was spoiled ... &#10;And now it seems to be able to do. &#10;As a succession of light in the darkness to get kicked out of my fate ... "/>
+	<key id="0120234902004898" npc="In Rev" name="After the example of the light I need to do, and I wish to go ... &#10;Now all made perfect sense!"/>
+	<key id="0115110302004885" npc="Mika" name="To be able to come up here and thank you so much for your help.&#10;You too ... My Lord ... And my friends ... $npcName:11001216$, $npcName:11001217$, $npcName:11001218$…!&#10;Now &lt;font color=&quot;#ffd200&quot;&gt;De la Ken Lim&lt;/font&gt;Go back to your mother you must hear Eragon and Rumi."/>
+	<key id="0120234902004899" npc="Mika" name="I'd help."/>
+	<key id="0120234902004900" npc="Mika" name="Well I should say."/>
+	<key id="0120234902004901" npc="Mika" name="No ... You guys help is here ...! From now on, all I have to do it. &#10;Rumi in La goneul du covered the darkness can only kick Eragon Rumi.&#10;I have the power of light and rotate it back to the old because I'm going to de la Ken."/>
+	<key id="0120234902004902" npc="Mika" name="I can't see again asks."/>
+	<key id="0120234902004903" npc="Mika" name="One day in a very big and bright glowing star when ... Come back again.&#10;De la Ken proved to be a shining brightly on that day! Waiting for."/>
+	<key id="0120234902004904" npc="Mika" name="Ah ... Well ... I still thought I'd do a little upsets ... &#10;Per ... Embarrassing ... &#10;Oh, what ... This last is because it's not! Trying to not need to blowing conventionally crying ... "/>
+	<key id="0120234902004905" npc="Mika" name="De la proved to be a bright light to Shi, looking back after that.&#10;Then $map:02010053$Eat until hungry teojyeobeoril in loco! Okay?"/>
+	<key id="0115110302004886" npc="Mika" name="One day in a very big and bright glowing star when ... Come back again.&#10;De la Ken proved to be a shining brightly on that day! Waiting for."/>
+	<key id="0115110302004887" npc="Mika" name="A long time ago ... $npcName:11000735$Mom Layla is lame because the stone was leaving with de la Ken day&#10;Reminds me of ... &#10;Turn around and go $npcName:11000735$A lot of that day's later seen Layla and she looks like you.&#10;There are numerous features true ferns &lt;font color=&quot;#ffd200&quot;&gt;After the example of the light&lt;/font&gt;Now the birth of ... De la Ken and Rumi Eragon's&#10;The dark was going to disappear soon."/>
+	<key id="0120234902004906" npc="Mika" name="$MyPCName$Also, the Dragon Knights of ... All were suffering.&#10;One day ... A bright light of Rumi Eragon shadow kicked up to the darkness of the world to be able to pay ...!"/>
 </ms2>

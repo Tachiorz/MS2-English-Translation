@@ -108,7 +108,7 @@
 	<key id="$s_inventory_range" value="Auto Sort"/>
 	<key id="$s_inventory_item_option" value="Item Pick-Up"/> 
 	<key id="$s_inventory_remake_item_option" value="Change Equipment Option"/> 
-	<key id="$s_inventory_item_break" value="Break"/>
+	<key id="$s_inventory_item_break" value="Break"/> 
 	<key id="$s_inventory_item_break_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Disassembling the&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPortable Onyx-exhausters.\n20Disassemble the equipment item above level\nOnyx can extract a decision."/> 
 	<key id="$s_inventory_slot_count" value="Displays the slot information in the current tab.\nNumber of slots used / Total number of slots"/> 
 	<key id="$s_inventory_range_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Auto alignment&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAutomatically sort items of personal belongings."/> 
@@ -124,6 +124,7 @@
 	<key id="$s_itemopion_check_auto_meso" value="Meso"/>
 	<key id="$s_itemopion_check_auto_merat" value="Merit"/>
 	<key id="$s_itemopion_check_auto_token" value="Other"/>
+  <key id="$s_itemopion_check_auto_other" value="NAMI had picking up items"/>
 
 	<key id="$s_itemopion_dropdown_rank_all" value="Obtain All Ranks"/>
 	<key id="$s_itemopion_dropdown_rank_up06" value="&lt;FONT color='#ff8c37'&gt;Artifact&lt;/FONT&gt; &amp; higher"/>
@@ -1559,8 +1560,6 @@
 	<key id="$s_enchant_fail_desc0" value=""/> <!--Failure: only over-->
 	<key id="$s_enchant_fail_desc1" value="&lt;FONT color='#FF5F5F'&gt;Failure (Drop) Chance.&lt;/FONT&gt;"/> <!--Failure to drop-->
 	<key id="$s_enchant_fail_desc2" value="&lt;FONT color='#FF5F5F'&gt;Your equipment has been damaged because your enchant stage dropped to 0.\nDamaged equipment can no longer be enchanted.&lt;/FONT&gt;"/> <!--Failure damage-->
-	<key id="$s_enchant_fail_desc_enchant" value=""/> <!--Notes on the failure of which Chan Tran scroll-->
-	<key id="$s_enchant_fail_desc_restore" value="&lt;FONT color='#FF5F5F'&gt;You can only use the damaged equipment.&lt;/FONT&gt;"/> <!--Notes on the failure of which Chan Tran scroll-->
 	<key id="$s_enchant_success_desc" value="The enchant option changed because you've successfully enchanted."/>
 
 	<!-- Smart recommendations -->
@@ -1910,6 +1909,7 @@
 
 	<key id="$s_enchantscroll_title_enchant" value="Enchant Scroll"/>
 	<key id="$s_enchantscroll_title_restore" value="Damage to equipment repair order, which Chan Tran"/>
+	<key id="$s_enchantscroll_title_random" value="Random Chan Tran order form"/>
 	<key id="$s_enchantscroll_ready" value="Place an item to enchant"/>
 	<key id="$s_enchantscroll_ok" value="Enchant"/>
 
@@ -1929,7 +1929,7 @@
 	<key id="$s_dark_stream_result_exp" value="{0} EXP"/>
 
 	<key id="$s_notice_dialog_title" value="Events in Progress"/>
-	<key id="$s_notice_dialog_footer" value="※ Add your own cute and adorable pet! Temple cold sales!"/>
+	<key id="$s_notice_dialog_footer" value="※ Inferno special package!!"/>
 
 	<!-- Change options for an item (Arial) -->
 	<key id="$s_itemremakeoption_title" value="Change options for adding items"/>
@@ -1982,6 +1982,9 @@
 	<key id="$s_playinstrument_main_play_score_tab_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Musical Score&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPlay pre-written music from a musical score.\nRight-click on the musical score from your inventory to start playing."/>
 	<key id="$s_playinstrument_score_play_solo" value="Solo"/>
 	<key id="$s_playinstrument_score_play_ensemble" value="Ensemble"/>
+	<key id="$s_instrument_fold_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Folding&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPlaying an instrument folding window minimized.\nPress once more to return to its original size."/>
+	<key id="$s_instrument_unfold_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Spread&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nExpand the window to play the instrument.\nChanges to the way the start and play, you can play only unfolded State."/>
+	
 	<!--
   <key id="$s_playinstrument_score_start_button" value="Play" />
   <key id="$s_playinstrument_score_stop_button" value="Stop" />
@@ -1992,7 +1995,7 @@
 	<key id="$s_playinstrument_score_empty_score" value="Place a musical score."/>	
 	
 	<!--Music production-->
-	<key id="$s_writemusic_charset" value="0-9ABCDEFGabcdefgSsOoLlTtVvRrNn&amp;&lt;&gt;.+\r\- Nn"/>
+	<key id="$s_writemusic_charset" value="0-9ABCDEFGabcdefgSsOoLlTtVvRrNn&amp;&lt;&gt;.+\r\- NnMmPp"/>
 	<key id="$s_writemusic_title" value="Composing | BETA"/>
 	<key id="$s_writemusic_btn_help_storybook" value="Composition Help"/>
 	<key id="$s_writemusic_btn_help_webpage" value="Read More"/>
@@ -2011,11 +2014,15 @@
 	
 	<key id="$s_writemusic_tooltip_btn_write_keyboard" value="&lt;FONT color='#FFD200' size='15' &gt;Compose Keyboard&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nComposed with piano keys.\nIf you press the on the keyboard to enter the recording mode that automatically provides support for the code."/>
 	<key id="$s_writemusic_tooltip_btn_make" value="&lt;FONT color='#FFD200' size='15' &gt;Create Musical Score&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSo far as the contents entered by the sheet music.\nProduced by sheet music cannot be modified."/>
-	<key id="$s_writemusic_tooltip_btn_play_gofirst" value="&lt;FONT color='#FFD200' size='15' &gt;The preview for the first time&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nYou can listen ahead again from the beginning."/>
+	<key id="$s_writemusic_tooltip_btn_play_gofirst" value="&lt;FONT color='#FFD200' size='15' &gt;Listening in the first place&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nWay back when from the beginning as a starting point."/>
 	<key id="$s_writemusic_tooltip_btn_play_start" value="&lt;FONT color='#FFD200' size='15' &gt;Preview&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nAs far as I can hear the preview input.\nYou cannot modify the contents of the preview."/>
-	<key id="$s_writemusic_tooltip_btn_play_stop" value="&lt;FONT color='#FFD200' size='15' &gt;Stop Preview&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo stop the preview."/>
+	<key id="$s_writemusic_tooltip_btn_play_pause" value="&lt;FONT color='#FFD200' size='15' &gt;Pause&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPause the preview."/>	
+	<key id="$s_writemusic_tooltip_btn_play_stop" value="&lt;FONT color='#FFD200' size='15' &gt;To stop the preview&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nTo stop the preview and return to the edit the sheet music."/>
 	<key id="$s_writemusic_tooltip_btn_help_storybook" value="&lt;FONT color='#FFD200' size='15' &gt;Composition Help&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nCompositions used in the grammar, written description of the storybook.\nIf you want to find out more 'Read more'Check out the page of posts."/>
 	<key id="$s_writemusic_tooltip_btn_help_webpage" value="&lt;FONT color='#FFD200' size='15' &gt;Read More&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nA how-to guide to composing postings page."/>
+	<key id="$s_writemusic_tooltip_btn_copy_to_clipboard" value="&lt;FONT color='#FFD200' size='15' &gt;To copy&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nMelody or chord to enter to the Clipboard.\nCopies the currently selected chord or melody only."/>
+	<key id="$s_writemusic_tooltip_btn_load_file" value="&lt;FONT color='#FFD200' size='15' &gt;Importing files&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n.ms2mmlAutomatically import the saved file as input."/>
+	<key id="$s_writemusic_tooltip_btn_save_file" value="&lt;FONT color='#FFD200' size='15' &gt;To save the file&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nThe current contents.ms2mml Save it to a file."/>
 	
 	<key id="$s_writemusic_tab_0" value="Melody"/>
 	<key id="$s_writemusic_tab_1" value="Chord A"/>
@@ -2033,4 +2040,14 @@
 	<key id="$s_writemusic_text_notice_during_play_music" value="You cannot preview while playing your musical score."/>
 
 	<key id="$s_talk_script_reward_exp" value="{0} EXP"/>
+	
+	<key id="$s_compact_control_title" value="Compact key"/>
+	<key id="$s_compact_control_rclick_menu_setting_tab" value="Tab settings"/>
+	<key id="$s_compact_control_rclick_menu_remove_tab" value="Delete this tab"/>
+	<key id="$s_compact_control_setting_hot_key" value="Hotkey settings"/>
+	<key id="$s_compact_control_hotkey_reset" value="Initialization"/>
+	<key id="$s_compact_control_hotkey_tooltip" value="Then you can specify shortcut keys."/>
+	<key id="$s_compact_control_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Compact key&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nPress and hold the shortcut key is set to compact\nThe selected skills will be used automatically.\nCompact key, you can set up to three."/>
+	<key id="$s_compact_control_main_tooltip" value="&lt;FONT color='#FFD200'&gt;Compact key&lt;/FONT&gt;\nPress and hold the shortcut key is set to compact \nThe selected skills will be used automatically."/>
+	
 </ms2>

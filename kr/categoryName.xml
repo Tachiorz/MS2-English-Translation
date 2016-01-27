@@ -298,13 +298,22 @@
 	
 	<key id="39000" name="Other"/>		
 	<key id="39006" name="Potion"/>		
-	<key id="39014" name="Mount"/>		
-	<key id="39008" name="Action"/>		
-	<key id="39021" name="Storybook"/>	
+	<key id="39008" name="Action"/>	
 	<key id="39009" name="ETC"/>	
-	<key id="39010" name="All"/>		
+	<key id="39010" name="All"/>
+	<key id="39014" name="Mount"/>		
+	<key id="39015" name="Mounts"/>		
+	<key id="39016" name="Ride package"/>		
+	
+	<key id="39021" name="Storybook"/>	
 
-<!--Premium shop-->
+
+  <key id="42000" name="Pet"/>
+  <key id="42001" name="Pet Capsule"/>
+  <key id="42002" name="Pet Food"/>
+
+
+  <!--Premium shop-->
 	<key id="40000" name="Blank Design"/>		
 	<key id="40001" name="Special Sale"/>		
 	<key id="40002" name="Construction"/>
@@ -332,12 +341,8 @@
 	<key id="40700" name="Mount"/>	
 	<key id="40800" name="Action Emote"/>	
 	<key id="40900" name="Action Skillbook"/>		
-	
 	<key id="41000" name="Consume, ETC"/>
 	<key id="41100" name="Badge"/>
-	
-	<key id="42000" name="Pet"/>
-	<key id="42001" name="Pet Capsule"/>
-	<key id="42002" name="Pet Food"/>
-	
-	</ms2>
+  <key id="41200" name="Instrument"/>
+
+</ms2>

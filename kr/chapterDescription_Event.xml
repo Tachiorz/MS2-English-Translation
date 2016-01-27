@@ -2,4 +2,5 @@
 <!-- Parsing this data used do not directly modify the -->
 <ms2>
 	<chapter id="8000" name="A very special gift" isTutorial="" regionID=""/>
+	<chapter id="8001" name="Happy! Valentine~!" isTutorial="" regionID=""/>
 </ms2>

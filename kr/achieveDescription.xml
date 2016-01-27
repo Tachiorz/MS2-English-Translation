@@ -789,6 +789,7 @@
 	<achieve id="22200373" desc="Kar Kar Ireland map {0}Explore dogs" complete="Until now, Kar Kar Ireland map {0}Explore dogs" manualDesc="" manualComplete=""/>
 	<achieve id="22200374" desc="(Dungeon) &quot;$dungeonTitle:02000355$&quot;In $npc:24002202$ {0}Time to kill" complete="(Dungeon) &quot;$dungeonTitle:02000355$&quot;In $npc:24002202$ {0}Once Church" manualDesc="" manualComplete=""/>
 	<achieve id="22200375" desc="(Dungeon) &quot;$dungeonTitle:02010049$&quot;The water in the prison {0}Once confined to folding" complete="So far &quot;$dungeonTitle:02010049$&quot;The water in the prison {0}Once entrapment" manualDesc="" manualComplete=""/>
+	<achieve id="22200376" desc="" complete="" manualDesc="$map:52010021$Of $npc:11001495$ Meet 'Ye also shall be light' To complete the quest" manualComplete="$map:52010021$Of $npc:11001495$ Meet 'Ye also shall be light' Quest complete!"/>
 	<achieve id="22300001" desc="Quest {0}Complete" complete="So far the quest {0}Complete" manualDesc="" manualComplete=""/>
 	<achieve id="22300002" desc="" complete="" manualDesc="$map:02000146$Of $npc:11000076$ Meet 'The dark entity' To complete the quest" manualComplete="$map:02000146$Of $npc:11000076$ Meet 'The dark entity' Quest complete!">
 		<reward grade="1" uiDesc="" notifyIcon="" notifyString=""/>
@@ -1037,6 +1038,9 @@
 	<achieve id="23100165" desc="-Chuck vaglia {0}Annual fishing machine" complete="So far-Chuck vaglia {0}Annual fishing well" manualDesc="" manualComplete=""/>
 	<achieve id="23100166" desc="-Chuck p LAT {0}Annual fishing machine" complete="So far-Chuck p LAT {0}Annual fishing well" manualDesc="" manualComplete=""/>
 	<achieve id="23100167" desc="-Chuck Pharaoh seahorse {0}Annual fishing machine" complete="So far-pretending to be Pharaoh seahorse {0}Annual fishing well" manualDesc="" manualComplete=""/>
+	<achieve id="23100168" desc="Clarinet played by skill level {0}Raise up" complete="Clarinet played by skill level {0}Upload up to complete" manualDesc="" manualComplete=""/>
+	<achieve id="23100169" desc="Harp playing skills {0}Raise up" complete="Harp playing skills {0}Upload up to complete" manualDesc="" manualComplete=""/>
+	<achieve id="23100170" desc="Timpani played by skill level {0}Raise up" complete="Timpani played by skill level {0}Upload up to complete" manualDesc="" manualComplete=""/>
 	<achieve id="23200001" desc="{0}Megan cow to pick" complete="So far {0}Megan picked up a cow obtained" manualDesc="" manualComplete="">
 		<reward grade="8" uiDesc="$item:50600033$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600033$ Purchase permission obtained"/>
 	</achieve>

@@ -114,7 +114,8 @@
 	<key id="s_mail_delete_list" value="Do you want to delete all the selected mail?"/>
 	<key id="s_mail_receive_list" value="Do you want to receive all the attachments of the selected mail?"/>
 	<key id="s_mail_delete_list_received_mail" value="Do you want to delete the mail with the attachments?"/>
-	<key id="s_mail_delete_list_attached_mail" value="This mail includes an attachment. Are you sure you want to delete it?"/>
+	<key id="s_mail_delete_list_attached_mail" value="This mail includes an attachment.\nAre you sure you want to delete it?"/>
+	<key id="s_mail_delete_list_attached_mail_checkbox" value="Also delete the article it is attached to the mail"/>
 
 	<!-- [Move] -->
 	<key id="s_change_ch_err_field" value="You cannot move channels."/>
@@ -162,6 +163,7 @@
 	<key id="s_ugcmap_no_home" value="Who owns the House. Try to buy my house."/> <!--When there is no real estate owned by the-->
 	<key id="s_ugcmap_buy_realestate" value="Buy New House."/>
 	<key id="s_ugcmap_sell_realestate" value="Real estate was to terminate the contract."/>
+	<key id="s_ugcmap_use_sale_coupon_to_buy" value="Coupon use has a contract for a House."/>
 
 
 	<!--UGC The construction mode, the item setup/Recall-related message-->
@@ -223,7 +225,7 @@
 
 	<key id="s_ugcmap_package_name" value="[{0}] The item will be used."/>
 	<key id="s_ugcmap_package_description" value="&lt;FONT color='#C0C0C0'&gt;The use of the item, you cannot revert to the item that contains the belongings as construction areas. Filled with belongings in case the movers will be kept in the storehouse, in this case, the storage period, the item will be deleted. &lt;/FONT&gt; &lt;FONT color='#FF5F5F'&gt;However, if you get out of the House during construction of the Interior is interrupted.&lt;/FONT&gt;"/>
-	<key id="s_ugcmap_package_build_condition" value="[Terms of use]"/>
+	<key id="s_ugcmap_package_build_condition" value="[Automatic installation conditions.]"/>
 	<key id="s_ugcmap_package_build_description" value="{0} Indoor only\nIn the absence of a construction item placed in indoor only\n "/>
 
 
@@ -287,7 +289,9 @@
 	<key id="s_ugcmap_package_automatic_creation_suspended" value="Interior construction Kwon stopped automatic installation."/>
 	<key id="s_ugcmap_package_automatic_removal_suspended" value="Indoor zeroing has stopped."/>
 	<key id="s_ugcmap_package_automatic_creation_skip" value="With the exception of items not required for installation later."/>
-
+	<key id="s_ugcmap_package_open_package_when_indoor_size_is_different" value="&lt;FONT color='#FF5F5F'&gt;Interior size cannot be the automatic installation does not fit.&lt;/Font&gt;\nAuto-receive items without installation?"/>
+	<key id="s_ugcmap_package_open_package_when_indoor_is_empty" value="&lt;FONT color='#FF5F5F'&gt;Indoors they are unable to do a silent install is not.&lt;/Font&gt;\nAuto-receive items without installation?"/>
+	
 	<!--[Friends]-->
 	<key id="s_buddy_err_unknown" value="System Error : Community"/>
 
@@ -2256,6 +2260,8 @@
 	<key id="s_minimap_tooltip_quest_progress" value="{0} &lt;FONT color='#909090'&gt;{1:2d}Level {2}&lt;/FONT&gt;"/> <!--Icon XXLevel quest name -->
 	<key id="s_minimap_tooltip_quest_ablenow" value="{0} {1:2d}Level {2}"/> <!--Icon XXLevel quest name -->
 	<key id="s_minimap_tooltip_quest_ableupper" value="{0} &lt;FONT color='#909090'&gt;{1:2d}Level {2}&lt;/FONT&gt;"/> <!--Icon XXLevel quest name -->
+	
+	<key id="s_minimap_tooltip_field_info" value="{0} / {1}Level"/> <!--Icon XXLevel quest name -->
 
 
 	<!--The ToolTip for the party online + s_tooltip_party_ch -->
@@ -2673,6 +2679,7 @@
 	<key id="s_meratmarket_error_common" value="System error : Merit market is not available. Code = {0}"/>
 	<key id="s_meratmarket_error_already_sale" value="You cannot delete the item."/>
 	<key id="s_meratmarket_error_not_sale" value="Does not sell products."/>
+	<key id="s_meratmarket_error_not_sale_expired" value="Sell expired items."/>
 	<key id="s_meratmarket_error_search_result_empty" value="'{0}'Search results for.\nIn other words search."/>
 	<key id="s_meratmarket_error_search_result_empty_by_itemlink" value="Item link[Merit market:{0}]Search results for.\nCurrently not for sale."/>
 	<key id="s_meratmarket_error_search_result_empty_by_banner" value="The results of the search."/>
@@ -2681,7 +2688,6 @@
 	<key id="s_meratmarket_error_buy_soldout" value="The sale is being prepared."/>
 	<key id="s_meratmarket_error_buy_soldout_premium_buylimit" value="Cannot be purchased anymore."/>
 	<key id="s_meratmarket_error_add_basket_by_buylimit" value="Limited sale items are only available to buy immediately."/>
-
 
 	<key id="s_meratmarket_bookmark_add_complete" value="{0} You have registered your favorite Designer."/>
 	<key id="s_meratmarket_bookmark_limit_maxcount" value="Max {0}People can register to Favorites only.\nPlease try again after you have wiped the Favorites list."/>
@@ -2855,10 +2861,8 @@
 	<key id="s_worldchat_use_coupon" value="You have used your World Chat coupon."/>
 	<key id="s_channelchat_use_coupon" value="You have used your Channel Chat coupon."/>
 	<key id="s_revival_use_coupon" value="You have used your Resurrection coupon."/>
-
 	<key id="s_alreadyloginuser_request_kick" value="The game is accessed through another computer.\nThis current connection will be shutdown.."/>
 	<key id="s_alreadyloginuser_response_kick" value="Access to the game on a different computer I've had to shut down the existing connection. Please try the connection again. \nTry repeatedly to access does not work \n5Minutes later, try again or contact customer service."/>
-
 	<key id="s_pcbang_play_time1" value="Connected for {0}h {1}m"/>
 	<key id="s_pcbang_play_time2" value="Connected for {0}m"/>
 	<key id="s_pcbang_cant_tutorial_field" value="You can receive after the end of the tutorial."/>
@@ -2867,15 +2871,11 @@
 	<key id="s_pcbang_get_play_item" value="{0}\n&lt;font color='#FFD200'&gt;PCRoom access time event gift in the mail has arrived.&lt;/font&gt;"/>
 
 	<!-- Play time notification-->
-	<key id="s_play_warnning" value="&lt;FONT color='#FF5F5F'&gt;{0} hour(s) of game time has elapsed.\nExcessive use of games can negatively affect your daily life.&lt;/FONT&gt;"/>
-	<key id="s_play_warnning_1hour" value="Play time is 1 hour."/>
-	<key id="s_play_warnning_2hour" value="Play time 2 hours."/>
-	<key id="s_play_warnning_3hour" value="Play time is three hours."/>
-	<key id="s_play_warnning_3hour_30min" value="Play time is 3 hours and 30 minutes."/>
-	<key id="s_play_warnning_4hour" value="Play time 4 hours."/>
-	<key id="s_play_warnning_4hour_30min" value="Play time 4 hours and 30 minutes."/>
-	<key id="s_play_warnning_5hour" value="Play time is 5 hours."/>
-	<key id="s_play_warnning_every_15min" value="Play time 5 timed out."/>
+	<key id="s_play_time_warnning" value="Game time {0}Time lapse."/>
+	<key id="s_play_time_warnning_fatigue_half_begin" value="The game reached a cumulative time limit time use.\nAll games will be reduced to 50% of the normal profits.\nExcessive use of normal everyday life interfere with the game."/>
+	<key id="s_play_time_warnning_fatigue_half" value="Every game has a time limit has elapsed and the game profits reduced to 50% of the normal state.\nExcessive use of normal everyday life interfere with the game."/>
+	<key id="s_play_time_warnning_fatigue_max" value="The game has a time limit to reach its maximum use.\nAll games will be reduced to 0% of the normal profits.\nThe game ends after five hours later in can be the game normally."/>
+	<key id="s_play_time_warnning_chat" value="&lt;FONT color='#FF5F5F'&gt;Game time {0}Time lapse.\nExcessive use of normal everyday life interfere with the game.&lt;/FONT&gt;"/>
 
 	<key id="s_nametag_symbol_none" value="No Mark"/>
 	<key id="s_nametag_symbol_enchant" value="Power Enchanter"/>
@@ -2886,7 +2886,6 @@
 	<key id="s_nametag_symbol_musician" value="Musician"/>
 	<key id="s_nametag_symbol_fisher" value="Fishing King"/>
 	<key id="s_nametag_symbol_balrog" value="The evil conqueror"/>
-
 	<key id="s_nametag_symbol_enchant_desc" value="Displays when equipping an Excellent +12 or higher equipment"/>
 	<key id="s_nametag_symbol_seller_desc" value="Displays when obtaining the Top Designer title"/>
 	<key id="s_nametag_symbol_guild_desc" value="Displays when obtaining the True Champion title"/>
@@ -2895,7 +2894,6 @@
 	<key id="s_nametag_symbol_musician_desc" value="Displays after obtaining the [Dreaming Musician] achievement"/>
 	<key id="s_nametag_symbol_fisher_desc" value="Displays after obtaining the [Another Big Fish!] achievement"/>
 	<key id="s_nametag_symbol_balrog_desc" value="The evil conqueror acquired the title of show"/>
-
 	<key id="s_attend_play_gift_slot" value="{0}\n{1}h connected:"/>
 	<key id="s_attend_play_gift_received" value="Mailing Complete : You've received all the gifts for today."/>
 	<key id="s_attend_play_gift_can_receive" value="Sending mail."/>
@@ -2903,16 +2901,10 @@
 	<key id="s_attend_play_time2" value="{0} minutes left"/>
 	<key id="s_attend_play_time3" value="Less than a minute remaining"/>
 	<key id="s_attend_play_gift_event_date" value="Enjoy the honey one time items paid for the weekend!"/>
-
 	<key id="s_fieldboss_reward_assistbonus_notify" value="Actively participating in combat {0} Christchurch, New Zealand."/>
-
 	<key id="s_macro_penalty_reward_notify" value="Repeat in the same area of experience and compensation as a result of the acquisition of a limited hunt."/>
-
-
 	<key id="s_user_trigger_item_tooltip_enable_trigger_control" value="{0}\nYou can control the behavior of the trigger controller."/>
 	<key id="s_user_trigger_item_tooltip_state_change_action_permission" value="{0}\nHome owners can investigate."/>
-
-
 	<key id="s_user_trigger_over_max_length" value="The trigger was the maximum length that can be set in the editor.\nReduce the contents of the set."/>
 	<key id="s_user_trigger_over_max_state" value="&lt;FONT color='#FF5F5F'&gt;You cannot add any more conditions.&lt;/FONT&gt;\nStatus (State)You can set up a maximum of 10."/><!-- The largest State (in which you can createState) The count has been exceeded.-->
 	<key id="s_user_trigger_over_max_enter_action" value="&lt;FONT color='#FF5F5F'&gt;OnEnterYou cannot add any more on the action.&lt;/FONT&gt;\nYou can set up to three only."/><!--Status (State)The launch of the phase (OnEnter)You can set the maximum number of actions has been exceeded.-->
@@ -3064,6 +3056,8 @@
 
 	<!-- Inn Chen Trois scroll -->
 	<key id="s_enchantscroll_desc_enchant" value="&lt;FONT color='#ffd200'&gt;{0}&lt;/Font&gt;Used.\nDue to the success which Chan Tran Chan Tran option is changed.\nAfter you have used the item cannot be reversed."/> <!-- {1} : Your chances of success-->
+	<key id="s_enchantscroll_desc_random_enchant" value="&lt;FONT color='#ffd200'&gt;{0}&lt;/Font&gt;Used.\nThe use of the item, which Chan Tran step {1} Among the steps the random changes.\nAfter you have used the item cannot be reversed."/>
+	
 	<key id="s_enchantscroll_desc_restore" value="&lt;FONT color='#ffd200'&gt;{0}&lt;/Font&gt;Used.\nThe use of the item, which Chan Tran step {1} Possible state change, Chan Tran.\nAfter you have used the item cannot be reversed."/> <!-- {1} : Your chances of success-->
 	<key id="s_enchantscroll_limit" value="&lt;p align='center'&gt;&lt;font color='#ffd200'&gt;{0}&lt;/Font&gt;&lt;FONT color='#c909090'&gt;Level&lt;/Font&gt; &lt;/Font&gt;&lt;FONT color='#ffd200'&gt;{1}&lt;/Font&gt; &lt;FONT color='#c909090'&gt;Rating\nThe weapon, a jacket, HA, it is possible to use a bee equipment&lt;/font&gt;&lt;/p&gt;"/> <!-- {2} : Write down one handful of slots-->
 	<key id="s_enchantscroll_itemname" value="&lt;font color='{0}'&gt;+{1} {2}&lt;/font&gt;"/>
@@ -3089,6 +3083,10 @@
 	<key id="s_function_cube_error_invalid_pos" value="The distance is far away, you cannot work."/>
 	<key id="s_function_cube_error_invalid_summon_user" value="Currently, only the characters that you can summon it indoors."/>
 
+	<key id="s_enchant_fail_desc_enchant" value=""/> <!--Notes on the failure of which Chan Tran scroll-->
+	<key id="s_enchant_fail_desc_restore" value="&lt;FONT color='#FF5F5F'&gt;You can only use the damaged equipment.&lt;/FONT&gt;"/> <!--Notes on the failure of which Chan Tran scroll-->
+	<key id="s_enchant_fail_desc_random" value="&lt;FONT color='#FF5F5F'&gt;Due to Chan Tran steps {0}~{1} One of the changes.&lt;/FONT&gt;"/> <!--Notes on the failure of which Chan Tran scroll-->
+	
 	<!-- Fishing skill-->
 	<key id="s_fishing_grade_Lv1" value="Beginner Stage 1"/>
 	<key id="s_fishing_grade_Lv2" value="Beginner Stage 2"/>
@@ -3211,7 +3209,7 @@
 	<key id="s_msg_tooltip_musicscore_writer" value="Composed by {0}"/>
 	
 	<key id="s_play_instrument_ui_score_info_writer" value="Composed By : {0}"/>
-	<key id="s_play_instrument_ui_score_play_duration" value="Playing Time : {0}"/>
+	<key id="s_play_instrument_ui_score_play_duration" value="{0}"/>
 	<key id="s_play_instrument_ui_score_info_title" value="[Musical Score] {0}"/>
 	<key id="s_play_instrument_ui_score_info_instrument" value="Featured Instrument : {0}"/>
 	<key id="s_play_instrument_ui_ask_close_while_playing_score" value="&lt;FONT color='#FF5f5f'&gt;Closing the window will stop the play.&lt;/font&gt;\nAre you sure you want to close this window?"/>
@@ -3223,6 +3221,9 @@
 	<key id="s_play_instrument_ui_button_stop_ensemble" value="Stop"/>
 	<key id="s_play_instrument_ui_need_score" value="There is no musical score to play with.\nPlace a musical score from your inventory."/>
 	<key id="s_play_instrument_ui_need_party_for_ensemble" value="&lt;FONT color='#FF5f5f'&gt;If you want to party, you must subscribe to the sum weeks.&lt;/font&gt;\nWhen you start patijangi ensemble\nNear ready to party with the ensemble in the ensemble."/>	
+	<key id="s_play_instrument_ui_unfold_solo_text" value="[Soloist of the] {0}"/>
+	<key id="s_play_instrument_ui_unfold_ensemble_text" value="[The sum of the week] {0}"/> 
+	
 	<key id="s_play_instrument_invalid_instrument" value="This instrument is invalid."/>
 	<key id="s_play_instrument_invalid_music_score" value="This musical score is invalid."/>
 	<key id="s_play_instrument_mastery" value="Your music mastery has been increased by {0}."/>	
@@ -3252,12 +3253,24 @@
 	<key id="s_writemusic_error_play_empty_score" value="The contents of your musical score is empty.\nPlease enter the contents."/>
 	<key id="s_writemusic_error_play_zero_time" value="The playing time is 0 seconds.\nEnter the contents after checking Composition Help."/>
 	<key id="s_writemusic_error_add_tab_maxcount" value="You've exceeded the maximum number of tabs allowed."/>
+	<key id="s_writemusic_error_loadfile_ask_during_edit" value="Sheet music that is being edited.\nAfter you load the contents you are editing different files.\nAre you sure you want to continue?"/>
+	<key id="s_writemusic_error_loadfile_maxlength" value="(Sometimes called the useful life of the letters of the imported sheet music{0}Now)\nLimits the number of characters (the sheet music{1}More than now)\nExcept for some content to be displayed."/>
+	<key id="s_writemusic_error_loadfile_wrong_xml" value="Does not support the file type or the\nCannot load grammar does not fit."/>
+	<key id="s_writemusic_error_loadfile_not_exist_melody_tag" value="I don&amp;#8217;t have the file bulreooneunde melody, failed."/>
+	<key id="s_writemusic_error_savefile_empty_score" value="Sheet music content is empty and cannot be saved."/>
+	<key id="s_writemusic_error_savefile" value="Failed to save the sheet music.\nClose the window, please back to making music."/>
 	
 	<key id="s_writemusic_msg_ask_close" value="The entered contents will disappear if you close this window.\nDo you want to stop composing?"/>
 	<key id="s_writemusic_msg_ask_remove_tab" value="The entered chords will disappear if you close this tab.\nAre you sure you want to delete it?"/>
 	
 	<key id="s_writemusic_text_playtimer_total" value="({0:02d}:{1:02d})"/>
 	<key id="s_writemusic_text_playtimer_cur" value="{0:02d}:{1:02d}"/>
+	
+	<key id="s_writemusic_error_cant_write_when_viewscore" value="Among the composers score view."/>
+	<key id="s_writemusic_error_cant_viewscore_when_write" value="You can view the sheet music of the composer."/>
+	<key id="s_writemusic_error_cant_know_writer" value="Composer information unknown."/>
+	<key id="s_writemusic_error_not_write_myself" value="It&amp;#8217;s not a song I composed."/>
+	
 	<!-- -->
 	<key id="s_anti_addiction_cannot_receive" value="You cannot launch the game during fatigue hours."/>
 
@@ -3287,6 +3300,7 @@
   <key id="s_pet_itemuse_cannot_same_condition" value="Each potion must be assigned to a different condition."/>
   <key id="s_pet_itemuse_cannot_notexist_condition" value="Please select a condition to use the potion."/>
   <key id="s_pet_itemuse_cannot_drag_user_inventory" value="Pet bag containing the items can be registered."/>
+  <key id="s_pet_error_summon_potion" value="In these locations, you cannot summon the pet."/>
 
   <key id="s_pet_extension_ontarget" value="Feed pets please."/>
   <key id="s_pet_extension_period" value="Pet's eye Lantern lanterns glow.\nPet food to eat your next meal time\n{0}As long as it has been extended."/>
@@ -3297,28 +3311,17 @@
   <key id="s_pet_cant_summon_state_play_instrument" value="Can summon a pet during play."/>
   <key id="s_pet_cant_summon_state_fishing" value="Fishing is not able to summon the pet."/>
 
-  <key id="s_usercommanddescription_user" value="[Chat Commands]
-World Chat : /w, /world, /ㅈ, /월, /월드, /월드확성기
-Channel Chat : /c, /channel, /ㅊ, /채, /채널, /채널확성기
-Area Chat : /s, /space, /ㄴ, /지, /지역
-Party Chat : /p, /party, /ㅔ, /파, /파티
-Guild Chat : /g, /guild, /ㅎ, /길, /길드
-Whisper : /r, /ㄱ, /귓, /귓말, /귓속말, /whisper
-- [How to Whisper] /r Username Text
-Party Invite : /파티초대, /partyinvite, /pinvite
-- [How to Party Invite] /pinvite Username
-Party Leave : /파티탈퇴, /partyleave, /pleave
-Guild Invite : /길드초대, /guildinvite, /ginvite
-- [How to Guild Invite] /ginvite Username
-Maview Search : /검색, /search
-- [How to Maview Search] /search Keyword
-Switch Channel : /채널이동
-- [How to Switch Channels] /채널이동"/>
-  
+  <key id="s_usercommanddescription_user" value="[Chat Commands] World Chat : /w, /world, /ㅈ, /월, /월드, /월드확성기 Channel Chat : /c, /channel, /ㅊ, /채, /채널, /채널확성기 Area Chat : /s, /space, /ㄴ, /지, /지역 Party Chat : /p, /party, /ㅔ, /파, /파티 Guild Chat : /g, /guild, /ㅎ, /길, /길드 Whisper : /r, /ㄱ, /귓, /귓말, /귓속말, /whisper - [How to Whisper] /r Username Text Party Invite : /파티초대, /partyinvite, /pinvite - [How to Party Invite] /pinvite Username Party Leave : /파티탈퇴, /partyleave, /pleave Guild Invite : /길드초대, /guildinvite, /ginvite - [How to Guild Invite] /ginvite Username Maview Search : /검색, /search - [How to Maview Search] /search Keyword Switch Channel : /채널이동 - [How to Switch Channels] /채널이동"/>
+
   <key id="s_timeevent_common_1" value="Let's play together! Come to the Cave of Runes in Amherst!"/>
   <key id="s_timeevent_common_4" value="Event in Queenstown is in progress."/>
   <key id="s_timeevent_common_7" value="Event in Queenstown is in progress."/>
   
   <key id="s_timestring_am" value="AM"/>
   <key id="s_timestring_pm" value="PM"/>
+  
+  <key id="s_skill_compact_control_add_tab" value="Do you want to add a new compact key?\nEnter the name of the key or the Compact."/>
+  <key id="s_skill_compact_control_rename_tab" value="Enter the name of the new compact key."/>
+  <key id="s_skill_compact_control_same_tabname" value="The same name cannot be changed."/>
+  <key id="s_skill_compact_control_default_tabname" value="Compact key"/>
 </ms2>

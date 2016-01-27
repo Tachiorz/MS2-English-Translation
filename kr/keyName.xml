@@ -76,5 +76,9 @@
   <key id="500022" name="Quick Slot 22"/>
 
   <key id="600001" name="MODE"/>
+  
+  <key id="700001" name="Compact key {0}"/>
+  <key id="700002" name="Compact key {0}"/>
+  <key id="700003" name="Compact key {0}"/>
 
  </ms2>
