@@ -723,9 +723,9 @@
 	<key id="03000174" name="Fire ants square"/>
 	<key id="03000175" name="Dark Hound Hall"/>
 	<key id="03000176" name="Spinner 7 circles"/>
-	<key id="03000177" name="03000177"/>
-	<key id="03000178" name="03000178"/>
-	<key id="03000179" name="03000179"/>
+	<key id="03000177" name="Empty map (tentative)"/>
+	<key id="03000178" name="Empty map (tentative)"/>
+	<key id="03000179" name="Empty map (tentative)"/>
 	<key id="03000180" name="Trampled garden"/>
 	<key id="03000181" name="Castle desert"/>
 	<key id="03000182" name="The hell of despair"/>
@@ -753,6 +753,7 @@
 	<key id="03000263" name="Black tear Lake"/>
 	<key id="03000264" name="Darkness Hill"/>
 	<key id="03000265" name="Dark Ning core Valley"/>
+	<key id="03000266" name="Empty map (tentative)"/>
 	<key id="03000267" name="Scream Gorge"/>
 	<key id="03000268" name="The dark magma Gorge"/>
 	<key id="03000269" name="Metal coma experiment bunker"/>
@@ -859,7 +860,7 @@
 	<key id="61000005" name="Wipers live Rune cave"/>
 	<key id="61000006" name="Crazy Runner 7"/>
 	<key id="61000007" name="Spring Beach"/>
-	<key id="61000008" name="Empty map (tentative)"/>
+	<key id="61000008" name="Dance Dance-stop"/>
 	<key id="61000009" name="Empty map (tentative)"/>
 	<key id="61000010" name="Empty map (tentative)"/>
 	<key id="61000011" name="Empty map (tentative)"/>
@@ -992,6 +993,16 @@
 	<key id="65000003" name="Barvaux of treasure island"/>
 	<key id="65000004" name="Empty map (tentative)"/>
 	<key id="65000005" name="Empty map (tentative)"/>
+	<key id="65010001" name="Woodbury square"/>
+	<key id="65010002" name="Reese on the waterfront"/>
+	<key id="65010003" name="Elin falls"/>
+	<key id="65010004" name="Lou Delhi dual arena"/>
+	<key id="65010005" name="Mina-Le-desert"/>
+	<key id="65010006" name="Empty map (tentative)"/>
+	<key id="65010007" name="Empty map (tentative)"/>
+	<key id="65010008" name="Empty map (tentative)"/>
+	<key id="65010009" name="Empty map (tentative)"/>
+	<key id="65010010" name="Empty map (tentative)"/>
 	<key id="80000000" name="Empty map (tentative)"/>
 	<key id="80000001" name="Shattered Rudy v Liam"/>
 	<key id="80000002" name="Empty map (tentative)"/>

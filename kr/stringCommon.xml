@@ -3184,12 +3184,12 @@
 	<key id="s_tooltip_itemoption_kinds_title" value="&lt;font color='#84ffef'&gt;\n{0}&lt;/font&gt;"/> <!--Disable-->
 	<key id="s_tooltip_itemoption_kinds_space" value="&lt;font size='3'&gt;\n&lt;/font&gt;"/>
 	<key id="s_tooltip_itemoption_enchant" value="&lt;font color='#ffd200'&gt;Enchant Effects\n{0}&lt;/font&gt;"/>
-	<key id="s_tooltip_itemoption_stat_row" value=" &amp;nbsp;&amp;nbsp;ㆍ{0}\n"/>
+	<key id="s_tooltip_itemoption_stat_row" value=" &nbsp;&nbsp;ㆍ{0}\n"/>
 
 	<key id="s_tooltip_itemoption_setitem_name" value="&lt;font color='#00d205'&gt;{0} ({1}/{2})\n&lt;/font&gt;"/>
-	<key id="s_tooltip_itemoption_setitem_set_title" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color='#{0:x}'&gt;{1} Set\n&lt;/font&gt;"/>
-	<key id="s_tooltip_itemoption_setitem_name_row" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color='#{0:x}'&gt;{1}\n&lt;/font&gt;"/>
-	<key id="s_tooltip_itemoption_setitem_stat_row" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color='#{0:x}'&gt;ㆍ{1}\n&lt;/font&gt;"/>
+	<key id="s_tooltip_itemoption_setitem_set_title" value="&nbsp;&nbsp;&nbsp;&lt;font color='#{0:x}'&gt;{1} Set\n&lt;/font&gt;"/>
+	<key id="s_tooltip_itemoption_setitem_name_row" value="&nbsp;&nbsp;&nbsp;&lt;font color='#{0:x}'&gt;{1}\n&lt;/font&gt;"/>
+	<key id="s_tooltip_itemoption_setitem_stat_row" value="&nbsp;&nbsp;&nbsp;&lt;font color='#{0:x}'&gt;ㆍ{1}\n&lt;/font&gt;"/>
 
 	<!--Playing an instrument proficiency -->
 	<key id="s_play_instrument_grade_Lv1" value="Novice Performer"/>
@@ -3198,7 +3198,7 @@
 	<key id="s_play_instrument_grade_Lv4" value="Professional Performer"/>	
 	
 	<!--Playing an instrument -->	
-	<key id="s_msg_tooltip_musicscore_enable_playcount" value="&lt;FONT color='#FFD200'&gt;Able to play {0} times&lt;/font&gt;\nYou can play this by using a instrument."/>
+	<key id="s_msg_tooltip_musicscore_enable_playcount" value="&lt;FONT color='#FFD200'&gt;{0}Times available for playing&lt;/font&gt;\nYou can play by using the instrument."/>
 	<key id="s_msg_tooltip_musicscore_disable_playcount" value="&lt;FONT color='#FF4040'&gt;Unable to play anymore&lt;/font&gt;"/>
 	<key id="s_msg_tooltip_musicscore_enable_playcount_custom_empty" value="&lt;FONT color='#FFD200'&gt;Able to play {0} times when created&lt;/font&gt;"/>
 
@@ -3219,7 +3219,7 @@
 	<key id="s_play_instrument_ui_button_stop_solo" value="Stop"/>
 	<key id="s_play_instrument_ui_button_stop_ready_ensemble" value="Ensemble Unprepared"/>
 	<key id="s_play_instrument_ui_button_stop_ensemble" value="Stop"/>
-	<key id="s_play_instrument_ui_need_score" value="There is no musical score to play with.\nPlace a musical score from your inventory."/>
+	<key id="s_play_instrument_ui_need_score" value="There is no sheet music to play.\nPlease put up the sheet music to play on your belongings."/>
 	<key id="s_play_instrument_ui_need_party_for_ensemble" value="&lt;FONT color='#FF5f5f'&gt;If you want to party, you must subscribe to the sum weeks.&lt;/font&gt;\nWhen you start patijangi ensemble\nNear ready to party with the ensemble in the ensemble."/>	
 	<key id="s_play_instrument_ui_unfold_solo_text" value="[Soloist of the] {0}"/>
 	<key id="s_play_instrument_ui_unfold_ensemble_text" value="[The sum of the week] {0}"/> 
@@ -3256,7 +3256,7 @@
 	<key id="s_writemusic_error_loadfile_ask_during_edit" value="Sheet music that is being edited.\nAfter you load the contents you are editing different files.\nAre you sure you want to continue?"/>
 	<key id="s_writemusic_error_loadfile_maxlength" value="(Sometimes called the useful life of the letters of the imported sheet music{0}Now)\nLimits the number of characters (the sheet music{1}More than now)\nExcept for some content to be displayed."/>
 	<key id="s_writemusic_error_loadfile_wrong_xml" value="Does not support the file type or the\nCannot load grammar does not fit."/>
-	<key id="s_writemusic_error_loadfile_not_exist_melody_tag" value="I don&amp;#8217;t have the file bulreooneunde melody, failed."/>
+	<key id="s_writemusic_error_loadfile_not_exist_melody_tag" value="I don't have the file bulreooneunde melody, failed."/>
 	<key id="s_writemusic_error_savefile_empty_score" value="Sheet music content is empty and cannot be saved."/>
 	<key id="s_writemusic_error_savefile" value="Failed to save the sheet music.\nClose the window, please back to making music."/>
 	
@@ -3269,7 +3269,7 @@
 	<key id="s_writemusic_error_cant_write_when_viewscore" value="Among the composers score view."/>
 	<key id="s_writemusic_error_cant_viewscore_when_write" value="You can view the sheet music of the composer."/>
 	<key id="s_writemusic_error_cant_know_writer" value="Composer information unknown."/>
-	<key id="s_writemusic_error_not_write_myself" value="It&amp;#8217;s not a song I composed."/>
+	<key id="s_writemusic_error_not_write_myself" value="It's not a song I composed."/>
 	
 	<!-- -->
 	<key id="s_anti_addiction_cannot_receive" value="You cannot launch the game during fatigue hours."/>
@@ -3340,4 +3340,9 @@ Switch Channel : /채널이동
   <key id="s_skill_compact_control_rename_tab" value="Enter the name of the new compact key."/>
   <key id="s_skill_compact_control_same_tabname" value="The same name cannot be changed."/>
   <key id="s_skill_compact_control_default_tabname" value="Compact key"/>
+  
+  <key id="s_skill_level_max" value="max"/>
+
+  <!-- Maplestory Title Name -->
+  <key id="s_window_title_name" value="MapleStory2 - A New Beginning"/>
 </ms2>

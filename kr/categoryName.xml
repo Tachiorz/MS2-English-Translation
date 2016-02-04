@@ -307,12 +307,6 @@
 	
 	<key id="39021" name="Storybook"/>	
 
-
-  <key id="42000" name="Pet"/>
-  <key id="42001" name="Pet Capsule"/>
-  <key id="42002" name="Pet Food"/>
-
-
   <!--Premium shop-->
 	<key id="40000" name="Blank Design"/>		
 	<key id="40001" name="Special Sale"/>		
@@ -343,6 +337,15 @@
 	<key id="40900" name="Action Skillbook"/>		
 	<key id="41000" name="Consume, ETC"/>
 	<key id="41100" name="Badge"/>
-  <key id="41200" name="Instrument"/>
+    <key id="41200" name="Instrument"/>
+  
+    <key id="42000" name="Pet"/>
+    <key id="42001" name="Pet Capsule"/>
+    <key id="42002" name="Pet Food"/>
 
+    <key id="43000" name="Skin"/>
+    <key id="43001" name="Skin package"/>
+  
+  
+  
 </ms2>

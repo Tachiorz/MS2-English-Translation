@@ -779,10 +779,18 @@
 	<achieve id="22200363" desc="" complete="" manualDesc="$map:02010022$ Here and there a golden treasure chest all open view" manualComplete="$map:02010022$The Golden treasure chest all spring!"/>
 	<achieve id="22200364" desc="" complete="" manualDesc="$map:02010028$ Here and there a golden treasure chest all open view" manualComplete="$map:02010028$The Golden treasure chest all spring!"/>
 	<achieve id="22200365" desc="" complete="" manualDesc="$map:02010026$ Here and there a golden treasure chest all open view" manualComplete="$map:02010026$The Golden treasure chest all spring!"/>
-	<achieve id="22200366" desc="(Dungeon) &quot;$dungeonTitle:02010054$&quot; {0}Time to complete" complete="(Dungeon) &quot;$dungeonTitle:02010054$&quot; {0}Once completed" manualDesc="" manualComplete=""/>
-	<achieve id="22200367" desc="(Dungeon) &quot;$dungeonTitle:02010070$&quot; {0}Time to complete" complete="(Dungeon) &quot;$dungeonTitle:02010070$&quot; {0}Once completed" manualDesc="" manualComplete=""/>
-	<achieve id="22200368" desc="(Dungeon) &quot;$dungeonTitle:02010049$&quot; {0}Time to complete" complete="(Dungeon) &quot;$dungeonTitle:02010049$&quot; {0}Once completed" manualDesc="" manualComplete=""/>
-	<achieve id="22200369" desc="(Dungeon) &quot;$dungeonTitle:02010069$&quot; {0}Time to complete" complete="(Dungeon) &quot;$dungeonTitle:02010069$&quot; {0}Once completed" manualDesc="" manualComplete=""/>
+	<achieve id="22200366" desc="(Dungeon) &quot;$dungeonTitle:02010054$&quot; {0}Time to complete" complete="(Dungeon) &quot;$dungeonTitle:02010054$&quot; {0}Once completed" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730030$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730030$ Purchase permission obtained"/>
+	</achieve>
+	<achieve id="22200367" desc="(Dungeon) &quot;$dungeonTitle:02010070$&quot; {0}Time to complete" complete="(Dungeon) &quot;$dungeonTitle:02010070$&quot; {0}Once completed" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730032$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730032$ Purchase permission obtained"/>
+	</achieve>
+	<achieve id="22200368" desc="(Dungeon) &quot;$dungeonTitle:02010049$&quot; {0}Time to complete" complete="(Dungeon) &quot;$dungeonTitle:02010049$&quot; {0}Once completed" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740033$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740033$ Purchase permission obtained"/>
+	</achieve>
+	<achieve id="22200369" desc="(Dungeon) &quot;$dungeonTitle:02010069$&quot; {0}Time to complete" complete="(Dungeon) &quot;$dungeonTitle:02010069$&quot; {0}Once completed" manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730029$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730029$ Purchase permission obtained"/>
+	</achieve>
 	<achieve id="22200370" desc="(Dungeon) &quot;$dungeonTitle:02010069$&quot;A bridge from the drop {0}Time to complete" complete="(Dungeon) &quot;$dungeonTitle:02010069$&quot;A bridge from the drop {0}Once completed" manualDesc="" manualComplete=""/>
 	<achieve id="22200371" desc="Through a swirl of space $map:80000012$ {0}Times to enter" complete="So far, through the swirl of space $map:80000012$ {0}Visits" manualDesc="" manualComplete=""/>
 	<achieve id="22200372" desc="Through a swirl of space $map:80000013$ {0}Times to enter" complete="So far, through the swirl of space $map:80000013$ {0}Visits" manualDesc="" manualComplete=""/>
@@ -832,19 +840,19 @@
 		<reward grade="1" uiDesc="&quot;$dungeonTitle:02000037$&quot; Dungeon entry permission" notifyIcon="./Data/Resource/Image/ETC/field_enterance.png" notifyString="&quot;$dungeonTitle:02000037$&quot; Dungeon entry permission"/>
 	</achieve>
 	<achieve id="22300031" desc="" complete="" manualDesc="&quot;The curiosity of explorers&quot; To complete the quest" manualComplete="&quot;The curiosity of explorers&quot; Complete quests">
-		<reward grade="1" uiDesc="Equipment trader $npc:11001062$Buy permissions for some of the items in the sale of" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="Equipment trader $npc:11001062$Buy permissions for some of the items in the sale of acquired"/>
+		<reward grade="1" uiDesc="Equipment trader $npcName:11001062$Buy permissions for some of the items in the sale of" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="Equipment trader $npcName:11001062$Buy permissions for some of the items in the sale of acquired"/>
 	</achieve>
 	<achieve id="22300032" desc="" complete="" manualDesc="&quot;The curiosity of an adventurer&quot; To complete the quest" manualComplete="&quot;The curiosity of an adventurer&quot; Complete quests">
-		<reward grade="1" uiDesc="Equipment trader $npc:11001062$Buy permissions for some of the items in the sale of" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="Equipment trader $npc:11001062$Buy permissions for some of the items in the sale of acquired"/>
+		<reward grade="1" uiDesc="Equipment trader $npcName:11001062$Buy permissions for some of the items in the sale of" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="Equipment trader $npcName:11001062$Buy permissions for some of the items in the sale of acquired"/>
 	</achieve>
 	<achieve id="22300033" desc="" complete="" manualDesc="&quot;Water-based reason&quot; To complete the quest" manualComplete="&quot;Water-based reason&quot; Complete quests">
-		<reward grade="1" uiDesc="Equipment trader $npc:11001062$Buy permissions for some of the items in the sale of" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="Equipment trader $npc:11001062$Buy permissions for some of the items in the sale of acquired"/>
+		<reward grade="1" uiDesc="Equipment trader $npcName:11001062$Buy permissions for some of the items in the sale of" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="Equipment trader $npcName:11001062$Buy permissions for some of the items in the sale of acquired"/>
 	</achieve>
 	<achieve id="22300034" desc="" complete="" manualDesc="&quot;Flinch is a martial arts&quot; To complete the quest" manualComplete="&quot;Flinch is a martial arts&quot; Complete quests">
-		<reward grade="1" uiDesc="Equipment trader $npc:11001062$Buy permissions for some of the items in the sale of" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="Equipment trader $npc:11001062$Buy permissions for some of the items in the sale of acquired"/>
+		<reward grade="1" uiDesc="Equipment trader $npcName:11001062$Buy permissions for some of the items in the sale of" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="Equipment trader $npcName:11001062$Buy permissions for some of the items in the sale of acquired"/>
 	</achieve>
 	<achieve id="22300035" desc="" complete="" manualDesc="&quot;That's no big deal, but going to?&quot; To complete the quest" manualComplete="&quot;That's no big deal, but going to?&quot; Complete quests">
-		<reward grade="1" uiDesc="Equipment trader $npc:11001062$Buy permissions for some of the items in the sale of" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="Equipment trader $npc:11001062$Buy permissions for some of the items in the sale of acquired"/>
+		<reward grade="1" uiDesc="Equipment trader $npcName:11001062$Buy permissions for some of the items in the sale of" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="Equipment trader $npcName:11001062$Buy permissions for some of the items in the sale of acquired"/>
 	</achieve>
 	<achieve id="22300036" desc="" complete="" manualDesc="Epic quests 'Aspirations, hade' To complete the" manualComplete="Epic quests 'Aspirations, hade' Complete"/>
 	<achieve id="22300037" desc="Daily quests {0}Complete" complete="So far, the daily quests {0}Complete" manualDesc="" manualComplete=""/>
@@ -1041,6 +1049,11 @@
 	<achieve id="23100168" desc="Clarinet played by skill level {0}Raise up" complete="Clarinet played by skill level {0}Upload up to complete" manualDesc="" manualComplete=""/>
 	<achieve id="23100169" desc="Harp playing skills {0}Raise up" complete="Harp playing skills {0}Upload up to complete" manualDesc="" manualComplete=""/>
 	<achieve id="23100170" desc="Timpani played by skill level {0}Raise up" complete="Timpani played by skill level {0}Upload up to complete" manualDesc="" manualComplete=""/>
+	<achieve id="23100171" desc="" complete="" manualDesc="In my house or someone else's home $item:50400117$ To take advantage of" manualComplete="In my house or someone else's home $item:50400117$ Use"/>
+	<achieve id="23100172" desc="" complete="" manualDesc="In my house or someone else's home $item:50400118$ To take advantage of" manualComplete="In my house or someone else's home $item:50400118$ Use"/>
+	<achieve id="23100173" desc="" complete="" manualDesc="In my house or someone else's home $item:50400119$ To take advantage of" manualComplete="In my house or someone else's home $item:50400119$ Use"/>
+	<achieve id="23100174" desc="" complete="" manualDesc="In my house or someone else's home $item:50400120$ To take advantage of" manualComplete="In my house or someone else's home $item:50400120$ Use"/>
+	<achieve id="23100175" desc="" complete="" manualDesc="In my house or someone else's home $item:50400121$ To take advantage of" manualComplete="In my house or someone else's home $item:50400121$ Use"/>
 	<achieve id="23200001" desc="{0}Megan cow to pick" complete="So far {0}Megan picked up a cow obtained" manualDesc="" manualComplete="">
 		<reward grade="8" uiDesc="$item:50600033$ Buy permissions" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600033$ Purchase permission obtained"/>
 	</achieve>

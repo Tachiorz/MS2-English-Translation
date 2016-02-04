@@ -2242,7 +2242,7 @@
 	<key id="0831180407002187" npc="The Mademoiselle Lou" name="What is going on?"/>
 	<key id="1217012607005228" npc="The Mademoiselle Lou" name="Well ... This is a ... Gothic?"/>
 	<key id="1217012607005229" npc="The Mademoiselle Lou" name="Baroque-style ... I beg to differ ... I beg to differ ... "/>
-	<key id="1217012607005230" npc="The Mademoiselle Lou" name="This land is. .. Well ... What the heck ... Groovy place. &#10;Very rich and colorful but ... That's been bouncing around a wind to write this month's ... &#10;The hotel is beautiful and classy, but ... Dare approach me out the window, not even regular residents and beyond.&#10;Something ... I can't reach the world very close to heck ...?"/>
+	<key id="1217012607005230" npc="The Mademoiselle Lou" name="This land is. .. Well ... What the heck ... Groovy place. &#10;Very rich and colorful but ... He's been bouncing around in the dismal wind this month ... &#10;The hotel is beautiful and classy, but ... Dare approach me even beyond the ordinary residents out of the window &#10;Do not. Something ... I can't reach the world very close to heck ...?"/>
 	<key id="0831180407002188" npc="The black crusade operatives" name="What is happening?"/>
 	<key id="0831180407002189" npc="The black crusade operatives" name="Is turned off, the to-be ... "/>
 	<key id="0831180407002190" npc="The black crusade operatives" name="You what?&#10;Don't be a bother."/>
@@ -5272,6 +5272,13 @@
 	<key id="1223165107005557" npc="Town residents teeth v" name="Rainbow Trout soup favors?&#10;I put my Special spice now simmering in Rainbow Trout soup to beat our best in Mina&#10;Delicious food is LAU!"/>
 	<key id="1223165107005558" npc="Town residents teeth v" name="Listening seems pretty tasty food, says."/>
 	<key id="1223165107005559" npc="Town residents teeth v" name="When the opportunity comes to hang out at our House. &#10;Well it'll Cook~ HO HO HO."/>
+	<key id="0201104007005858" npc="Town residents teeth v" name="AW, thats who! $MyPCName$! That's good news. Listen to it. &#10;Not long ago, $npcName:11001396$ $npc:11001443$ Did look at me with.&#10;They have gathered the villagers, &lt;font color=&quot;#ffd200&quot;&gt;$map:02010005$The symptoms of the people in the&lt;/font&gt;In &#10;That's exactly what started to talk about research. As far as the materials handed out and prepared."/>
+	<key id="0201133107005859" npc="Town residents teeth v" name="Difficult to say, but the key is &lt;font color=&quot;#ffd200&quot;&gt;&quot;The disease is also epidemic nor a curse&quot;&lt;/font&gt; Was Wu.&#10;$MyPCName$, There was also a very healthy and going out a lot&#10;Sometimes I went there $npc:11001443$ Having never had to prove too sick."/>
+	<key id="0201104007005859" npc="Town residents teeth v" name="Still smarting from people not only don't have sensitive, &#10;No longer an old medium, you should not neglect the patients seem to be of the opinion that collected in the&#10;Some of the village people's home and the doctor tried to relocate patients the amount of accommodation."/>
+	<key id="0201104007005860" npc="Town residents teeth v" name="&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001391$ $npcName:11001392$&lt;/font&gt; Where it went, &amp;quot;asks."/>
+	<key id="0201104007005861" npc="Town residents teeth v" name="The day after, I'm relieved. &lt;font color=&quot;#ffd200&quot;&gt;Our House&lt;/font&gt;Have been brought in. &#10;Why was my non-kids walking away from ... In the meantime, look how hard d.&#10;Now, if a bottle of delicious things to eat well, too, I'm sure. So don't worry too much. "/>
+	<key id="0201104007005862" npc="Town residents teeth v" name="I was going to get blessed well wishing."/>
+	<key id="0201104007005863" npc="Town residents teeth v" name="Wow ...! Not that I get blessed &lt;font color=&quot;#ffd200&quot;&gt;$MyPCName$&lt;/font&gt;, It's out there. &#10;For those who do not know a complete stranger tried so hard to move me. &#10;Such &lt;font color=&quot;#ffd200&quot;&gt;The spacious mind&lt;/font&gt;And &lt;font color=&quot;#ffd200&quot;&gt;Exceptional ability&lt;/font&gt;If you're going to be fine, even if you do in the future. HO HO. "/>
 	<key id="1217193307005389" npc="Residents of the town of Dhahran" name="What worries so many ..."/>
 	<key id="1223165107005560" npc="Residents of the town of Dhahran" name="Enjoy your life~"/>
 	<key id="1223165107005561" npc="Residents of the town of Dhahran" name="I wish Megan falls from the sky, a whole bunch of Sona~"/>
@@ -5294,12 +5301,14 @@
 	<key id="1223165107005575" npc="The patient's d." name="Leave us to leave. Was cursed with the horse ...&#10;Remember that you don't want to remember much."/>
 	<key id="1223165107005576" npc="The patient's d." name="Now I have a $npcName:11001392$ It's going to keep.&#10;Under the sky $npcName:11001392$ Because to me, there is only two ..."/>
 	<key id="1227015507005606" npc="The patient's d." name="$npcName:11001392$, This brother is wrong because now what to try ... Sobbing ..."/>
+	<key id="0201104007005864" npc="The patient's d." name="$npcName:11001392$, It's a good thing ...! Sobbing ..."/>
 	<key id="1217193307005392" npc="Patient haran" name="Brother, don't have a comforting look ..."/>
 	<key id="1223165107005577" npc="Patient haran" name="… …"/>
 	<key id="1223165107005579" npc="Patient haran" name="Brother is sick, I guess.&#10;I'm glad to take care of my brother is decent though ... My brother ..."/>
 	<key id="1223165107005580" npc="Patient haran" name="Parents ask where your notice of assessment."/>
 	<key id="1223165107005581" npc="Patient haran" name="Mom, Dad, I don't know where it went. &#10;My brother knows don't ask, I'll say it looks like. "/>
 	<key id="1227015507005607" npc="Patient haran" name="… …&#10;&lt;font color=&quot;#909090&quot;&gt;($npcName:11001392$ Bemused look draw distance is only bite bung)&lt;/font&gt;"/>
+	<key id="0201104007005865" npc="Patient haran" name="Thanks a lot ... $MyPCName$SAMA ...!"/>
 	<key id="1217193307005393" npc="I fell in love with the beggars Dar par" name="Huh ..."/>
 	<key id="1217193307005394" npc="Meerkats Scouts 63" name="What did work!"/>
 	<key id="1217193307005395" npc="Meerkats Scouts 64 trillion" name="What did work!"/>
@@ -5314,6 +5323,7 @@
 	<key id="1226235907005597" npc="Genius girl I Villa" name="It was not the intention."/>
 	<key id="1226235907005598" npc="Genius girl I Villa" name="If it's not."/>
 	<key id="1227015507005608" npc="Genius girl I Villa" name="All ... My fault ..."/>
+	<key id="0201104007005866" npc="Genius girl I Villa" name="In the future, never complacent, or would never rush. &#10;Carefully approaching ... Meticulously to make sure. &#10;Thanks for your help, $MyPCName$The Lord!"/>
 	<key id="1217193307005397" npc="Morrow Papa tribe aka Moro" name="What's new?"/>
 	<key id="1226235907005599" npc="Morrow Papa tribe aka Moro" name="Hmm ...&#10;Too quiet so good"/>
 	<key id="1226235907005600" npc="Morrow Papa tribe aka Moro" name="It is only my hobby will crave knowledge"/>
@@ -5450,7 +5460,7 @@
 	<key id="1222203907005513" npc="Glow Fox Luce" name="And then ..."/>
 	<key id="1222203907005514" npc="Glow Fox Luce" name="Hmm ..."/>
 	<key id="1222203907005515" npc="Glow Fox Luce" name="It's weird ..."/>
-	<key id="1222203907005516" npc="Glow Fox Luce" name="… …"/>
+	<key id="1222203907005516" npc="Glow Fox Luce" name="……"/>
 	<key id="1222203907005517" npc="Glow Fox Luce" name="People had to say."/>
 	<key id="1222203907005518" npc="Glow Fox Luce" name="&lt;font color=&quot;#909090&quot;&gt;($npc:11001431$ Sounds.)&lt;/font&gt;"/>
 	<key id="1222203907005519" npc="Glow Fox Luce" name="Going wrong ..."/>
@@ -5576,12 +5586,11 @@
 	<key id="0106111607005779" npc="Coward Moore" name="Ah ... Pero ... That's what Dami ..."/>
 	<key id="0106111607005780" npc="Coward Moore" name="Mi-Jung! Mi-Jung! Here the temple is so scary ...&#10;Not even friends with Captain ... The dark and ... Mi-Jung ..."/>
 	<key id="0106111607005781" npc="Coward Moore" name="Here is a ... Here's me in front of the door ... M?&#10;Acton ... That seems to be what happened in the u.s. ... Frightening melting ..."/>
-	<key id="0106111607005782" npc="Event planner Lil Leah" name="Come find me?"/>
-	<key id="0106111607005783" npc="Event planner Lil Leah" name="Happiness is not far away!"/>
-	<key id="0106111607005784" npc="Event planner Lil Leah" name="One day I'm going to let you bring good luck!"/>
-	<key id="0106111607005785" npc="Event planner Lil Leah" name="$item:20300133$ Did you receive? $item:20300133$ $item:30000512$You can only open it as!"/>
-	<key id="0106111607005786" npc="Event planner Lil Leah" name="$item:30000512$ Ask if you can get."/>
-	<key id="0106111607005787" npc="Event planner Lil Leah" name="Appeared in the field &lt;font color=&quot;#ffd200&quot;&gt;Elite Monster&lt;/font&gt;As to the &lt;font color=&quot;#ffd200&quot;&gt;Lucky golden key&lt;/font&gt;Could save ...&#10;Did you ever find out?"/>
+	<key id="0201104307005858" npc="Event planner Lil Leah" name="Come find me?"/>
+	<key id="0201104307005859" npc="Event planner Lil Leah" name="Happiness is not far away!"/>
+	<key id="0201104307005860" npc="Event planner Lil Leah" name="One day I'm going to let you bring good luck!"/>
+	<key id="0201104307005861" npc="Event planner Lil Leah" name="Wonder if any event?&#10;I am wondering when the event please me."/>
+	<key id="0201104607005858" npc="Event planner Lil Leah" name="I know if I tell you more information about the event~"/>
 	<key id="0106143407005788" npc="Sorcerer Oh rock of the Sith" name="Well ... What brings?"/>
 	<key id="0106143407005789" npc="Sorcerer Oh rock of the Sith" name="The research on the devil, indeed, ought not the end ..."/>
 	<key id="0106143407005790" npc="Sorcerer Oh rock of the Sith" name="The devil, humans ... It's an issue of military"/>

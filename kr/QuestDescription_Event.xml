@@ -2,5 +2,7 @@
 <!-- Parsing this data used do not directly modify the -->
 <ms2>
 	<quest questID="80000001" name="Best of luck to open the box!" desc="Every time you can acquire $item:20300133$ $item:30000512$Just as I could. $item:30000512$ If you lack the elite monsters on the field to try and kill $npc:11001484$ Tipping. Not only that, but she $item:20300133$ 50Times set aside a special gift to give to your recovery. So come on, let's verify the box." manual="$item:30000512$As $item:20300133$ Open" complete="$map:02000064$In $npc:11001484$ To communicate" count="1"/>
-	<quest questID="80000002" name="Delicious chocolate" desc="To commemorate Valentine day $npc:11000508$ Bittersweet chocolate ready. $npc:11000508$ Why not visit." manual="$item:30000512$As $item:20300133$ Open" complete="$map:02000064$In $npc:11001484$ To communicate" count="1"/>
+	<quest questID="80000002" name="Delicious chocolate" desc="In celebration of Valentine's day $npc:11000508$ Bittersweet chocolate ready. $npc:11000508$ Why not visit." manual="$npc:11000508$ Only ten minutes away." complete="$npc:11000508$ Clean rooms" count="1"/>
+	<quest questID="80000003" name="Unveil the colorful pouch" desc="Let's use a colorful bag to collect 30. Colorful pockets can get daily access: 3 teaspoons, Additionally, the holiday season can be obtained through quests." manual="$item:20300144$ To use" complete="$map:02000064$In $npc:11001484$ To communicate" count="1"/>
+	<quest questID="80000004" name="Editorial personnel to give" desc="Greet the holiday season with stand $npc:11000001$ Go editorial greeting." manual="$npc:11000001$ Only ten minutes away." complete="$npc:11000001$ Clean rooms" count="1"/>
 </ms2>

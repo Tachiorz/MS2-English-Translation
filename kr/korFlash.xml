@@ -48,7 +48,8 @@
 	<key id="$s_saletag_event" value="EVENT"/>
 	<key id="$s_saletag_hot" value="HOT"/>
 	<key id="$s_saletag_special" value="Special Sale"/>
-
+	
+	<key id="$s_saletag_category_sale" value="SALE"/>
 	<!--talkpanelsetting-->
 	<key id="$s_talkpanelsetting_title" value="Chat Tab Settings"/>
 	<key id="$s_talkpanelsetting_initialize" value="Reset"/>
@@ -1291,6 +1292,12 @@
 	<!-- Ex- -->
 	<key id="$s_jobchange_difficulty" value="Difficulty :"/>
 	<key id="$s_jobchange_mainskill" value="Main Skill"/>
+	<key id="$s_jobchange_str" value="STR"/>
+   	<key id="$s_jobchange_dex" value="DEX"/>
+	<key id="$s_jobchange_int" value="INT"/>
+	<key id="$s_jobchange_luck" value="LUCK"/>
+	<key id="$s_jobchange_def" value="DEF"/>
+	<key id="$s_jobchange_range" value="RANGE"/>
 
 
 	<!-- Report Report -->
@@ -1466,6 +1473,7 @@
 	<key id="$s_guild_search_accept_request_join" value="Accept"/>
 	<key id="$s_guild_search_reject_request_join" value="Decline"/>
 	<key id="$s_guild_search_accept_join_tooltip" value="&lt;FONT color='#FFD200'&gt;Allows the Guild to join&lt;/FONT&gt;\nGuild information set up in the Guild activity will be exposed to search results, depending on the inclination.\nIf checked, searches for people who sign up application of the Guild.\nIf you turn off the check does not apply to join the Guild."/>
+	<key id="$s_guild_search_propensity_title" value="Please check the Guild activity tendencies."/>
 	<key id="$s_guild_search_propensity_type1" value="Fellowship"/>
 	<key id="$s_guild_search_propensity_type2" value="Party Hunting"/>
 	<key id="$s_guild_search_propensity_type3" value="Trophy"/>
@@ -1561,6 +1569,7 @@
 	<key id="$s_enchant_fail_desc1" value="&lt;FONT color='#FF5F5F'&gt;Failure (Drop) Chance.&lt;/FONT&gt;"/> <!--Failure to drop-->
 	<key id="$s_enchant_fail_desc2" value="&lt;FONT color='#FF5F5F'&gt;Your equipment has been damaged because your enchant stage dropped to 0.\nDamaged equipment can no longer be enchanted.&lt;/FONT&gt;"/> <!--Failure damage-->
 	<key id="$s_enchant_success_desc" value="The enchant option changed because you've successfully enchanted."/>
+	<key id="$s_enchant_item_select" value="Please select an item to enhance."/>
 
 	<!-- Smart recommendations -->
 	<key id="$s_smart_recommend_close" value="Next"/>
@@ -1928,8 +1937,22 @@
 	<key id="$s_dark_stream_result_out" value="Exit"/>
 	<key id="$s_dark_stream_result_exp" value="{0} EXP"/>
 
+	<key id="$s_dark_stream_result_challenge" value="Challenge results"/>
+	<key id="$s_dark_stream_result_best_score" value="My top score"/>
+	<key id="$s_dark_stream_result_reward" value="Compensation"/>
+  
+	<key id="$s_talk_script_reward_exp" value="{0} EXP"/>
+	
+	<key id="$s_massiveevent_moviecounter_stage" value="Step"/>
+	<key id="$s_massiveevent_moviecounter_start" value="Start"/>
+	<key id="$s_massiveevent_moviecounter_count" value="Seconds ago"/>
+  
+	<!--MainPlayerInfo-->
+	<key id="$s_mainplayerinfo_hp" value="HP"/>
+	<key id="$s_mainplayerinfo_sp" value="SP"/>
+
 	<key id="$s_notice_dialog_title" value="Events in Progress"/>
-	<key id="$s_notice_dialog_footer" value="※ Inferno special package!!"/>
+	<key id="$s_notice_dialog_footer" value="※ New year's day and greet the &quot;lucky bag&quot; appeared! Hit the jackpot or 2016!"/>
 
 	<!-- Change options for an item (Arial) -->
 	<key id="$s_itemremakeoption_title" value="Change options for adding items"/>

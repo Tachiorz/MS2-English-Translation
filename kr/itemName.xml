@@ -284,6 +284,9 @@
 	<key id="11050029" name="After Ruth by the foot"/>
 	<key id="11050030" name="After Ruth by the foot"/>
 	<key id="11050031" name="After Ruth by the foot"/>
+	<key id="11050032" name="Petal"/>
+	<key id="11050033" name="Blades of grass"/>
+	<key id="11050034" name="Blackmail nipple"/>
 	<key id="11099999" name="Transparent function_Face decorations"/>
 	<key id="11150001" name="Neat horns Te glasses"/>
 	<key id="11150002" name="Stylish Hopi Plaid glasses"/>
@@ -2640,6 +2643,10 @@
 	<key id="11850045" name="Platinum fairy wing"/>
 	<key id="11850046" name="Frozen glitter wings"/>
 	<key id="11850047" name="Lucky red monkey bag"/>
+	<key id="11850048" name="Crystal butterfly wings"/>
+	<key id="11850049" name="Soft Faerie wings"/>
+	<key id="11850050" name="Rust tees eyes wing"/>
+	<key id="11850051" name="Spiral spring wing"/>
 	<key id="11899999" name="Transparent function_Capes"/>
 	<key id="11900001" name="Power pendant"/>
 	<key id="11900002" name="Pendant of the Jinn"/>
@@ -4793,6 +4800,9 @@
 	<key id="19000011" name="Plump whale fishing pole saw"/>
 	<key id="19000012" name="Cube Angel saw the fishing rod"/>
 	<key id="19000013" name="Expert demo I saw Nick fishing rod"/>
+	<key id="19000016" name="Rose saw the fishing rod"/>
+	<key id="19000017" name="Butterfly fishing rod saw"/>
+	<key id="19000018" name="Sora saw a fishing pole"/>
 	<key id="19100001" name="Fun acoustic guitar (main)"/>
 	<key id="19100002" name="Practice the clarinet (main)"/>
 	<key id="19100003" name="Fun harp (pattern)"/>
@@ -5024,6 +5034,7 @@
 	<key id="20200029" name="Action course steam : Pointe dance"/>
 	<key id="20200030" name="Action course steam : Twitching twitching dance"/>
 	<key id="20200031" name="Action course steam : Singing"/>
+	<key id="20200032" name="Action course steam : To"/>
 	<key id="20300001" name="Maple Coupon"/>
 	<key id="20300002" name="777 Welcome Pack"/>
 	<key id="20300003" name="Lotus Walkie-Talkie"/>
@@ -5158,16 +5169,19 @@
 	<key id="20300132" name="Megan Barrett pouch : 300Megan Barrett"/>
 	<key id="20300133" name="Good luck-of-the-box"/>
 	<key id="20300134" name="Inferno weapons coupon"/>
-	<key id="20300135" name="Lucky bags"/>
+	<key id="20300135" name="Lucky red bags"/>
 	<key id="20300136" name="Premium Lotus walkie-talkie : 25Dog"/>
 	<key id="20300137" name="Premium Lotus walkie-talkie : 50Dog"/>
 	<key id="20300138" name="Premium Lotus walkie-talkie : 150Dog"/>
 	<key id="20300139" name="Lotus walkie-talkie : 10Dog"/>
-	<key id="20300140" name="Lucky bags : OSU CAL"/>
-	<key id="20300141" name="Lucky bags : Issue La"/>
+	<key id="20300140" name="OSU CAL's lucky grab bag"/>
+	<key id="20300141" name="The issue of a lucky grab bag"/>
 	<key id="20300142" name="Meredith small pouch : 1500000 Meredith small"/>
 	<key id="20300143" name="Free home ownership"/>
 	<key id="20300144" name="Colorful pockets"/>
+	<key id="20300145" name="Blue Star box"/>
+	<key id="20300146" name="Red Star box"/>
+	<key id="20300147" name="Lucky blue bags"/>
 	<key id="20400001" name="Olga Nick companion cookie 7kg"/>
 	<key id="20400002" name="Olga Nick companion cookies 30kg"/>
 	<key id="20400003" name="Olga Nick companion cookie 90kg"/>
@@ -5690,6 +5704,8 @@
 	<key id="30000517" name="The number of additional volumes obtained the Dungeon rewards"/>
 	<key id="30000518" name="Add the number of books acquired the advanced dungeons compensated"/>
 	<key id="30000519" name="Top of the line, add the number of acquired rights the Dungeon rewards"/>
+	<key id="30000520" name="Aka Moreau's syrup"/>
+	<key id="30000521" name="Dagger Chi soup lunches"/>
 	<key id="31000001" name="1Level which Chan Tran order form"/>
 	<key id="31000002" name="2Level which Chan Tran order form"/>
 	<key id="31000003" name="3Level which Chan Tran order form"/>
@@ -5841,14 +5857,14 @@
 	<key id="31000149" name="7Intermediate steps which Chan Tran order form"/>
 	<key id="31000150" name="5Step classy Chan Tran order form"/>
 	<key id="31000151" name="Damaged equipment repair order (event)"/>
-	<key id="31000152" name="Damaged equipment repair order form (Excel)"/>
+	<key id="31000152" name="Damaged equipment repair order form (new)"/>
 	<key id="31000153" name="5Step classy Chan Tran order form"/>
 	<key id="31000154" name="8Step classy Chan Tran order form"/>
 	<key id="31000155" name="9Step classy Chan Tran order form"/>
 	<key id="31000156" name="10Step classy Chan Tran order form"/>
 	<key id="31000157" name="Damaged equipment repair order (event)"/>
-	<key id="31000158" name="Damaged equipment repair order (legend)"/>
-	<key id="31000159" name="Random Chan Tran order form (Excel)"/>
+	<key id="31000158" name="Damaged equipment repair order (legend and more)"/>
+	<key id="31000159" name="Random Chan Tran order form (new)"/>
 	<key id="31000160" name="10Step classy Chan Tran order form"/>
 	<key id="31000161" name="11Step classy Chan Tran order form"/>
 	<key id="31000162" name="8Step classy Chan Tran order form"/>
@@ -5868,9 +5884,9 @@
 	<key id="32000013" name="Expert demo Nick fishing rods"/>
 	<key id="32000014" name="Cube Angel fishing rods"/>
 	<key id="32000015" name="Cube Angel fishing rods"/>
-	<key id="32000016" name="Rose fishing rods"/>
-	<key id="32000017" name="Butterfly fishing rod"/>
-	<key id="32000018" name="Sora fishing rods"/>
+	<key id="32000016" name="A red, red rose fishing rods"/>
+	<key id="32000017" name="Glass Butterfly fishing rod"/>
+	<key id="32000018" name="Starlight cow fishing rods"/>
 	<key id="34000001" name="Fun digital piano"/>
 	<key id="34000002" name="Fun acoustic guitar"/>
 	<key id="34000003" name="Fun digital piano"/>
@@ -6408,6 +6424,12 @@
 	<key id="50100371" name="Winter tree wall"/>
 	<key id="50100372" name="Green eyes flowers pattern wall"/>
 	<key id="50100373" name="The thicker the steel stairs"/>
+	<key id="50100374" name="Glyph stone-walled cube"/>
+	<key id="50100375" name="Stone wall cube"/>
+	<key id="50100376" name="Matting cube"/>
+	<key id="50100377" name="The main floor of the cube"/>
+	<key id="50100378" name="Tile a cube"/>
+	<key id="50100379" name="Tile roof cube"/>
 	<key id="50200001" name="Wooden bench"/>
 	<key id="50200002" name="Wooden crate"/>
 	<key id="50200003" name="White flowers"/>
@@ -7085,6 +7107,18 @@
 	<key id="50200675" name="The magic of the monument"/>
 	<key id="50200676" name="Armor showcase"/>
 	<key id="50200677" name="Weapons showcase"/>
+	<key id="50200678" name="Thin stone wall partition"/>
+	<key id="50200679" name="Tile stone wall partition"/>
+	<key id="50200680" name="A fingerprint partition"/>
+	<key id="50200681" name="Glyph of a fingerprint in the partition"/>
+	<key id="50200682" name="Turn award"/>
+	<key id="50200683" name="Traditional cushion Chair"/>
+	<key id="50200684" name="Incense stick just"/>
+	<key id="50200685" name="Blue-and-white porcelain"/>
+	<key id="50200686" name="Bamboo picture folding screen"/>
+	<key id="50200687" name="Superb picture folding screen"/>
+	<key id="50200688" name="Stone flower bed"/>
+	<key id="50200689" name="Stone pond"/>
 	<key id="50300001" name="Steel spike trap"/>
 	<key id="50300002" name="Red hermit crab trap"/>
 	<key id="50300003" name="Silver hermit crab trap"/>
@@ -7204,6 +7238,11 @@
 	<key id="50400114" name="White tree"/>
 	<key id="50400115" name="Yellow star candy stand"/>
 	<key id="50400116" name="Behold the star candy stand"/>
+	<key id="50400117" name="Glyph of hanji stand"/>
+	<key id="50400118" name="Traditional wood seesaw"/>
+	<key id="50400119" name="Mortar"/>
+	<key id="50400120" name="Sweet hearth"/>
+	<key id="50400121" name="Seats, etc."/>
 	<key id="50500001" name="Sling Monster box"/>
 	<key id="50500002" name="PIM Monster box"/>
 	<key id="50500003" name="Stone rock monster box"/>
@@ -7340,6 +7379,8 @@
 	<key id="50600124" name="Round round snowman"/>
 	<key id="50600125" name="The accompanying red fairy"/>
 	<key id="50600126" name="Inferno nightmare Gunma"/>
+	<key id="50600127" name="My love issue La cushion"/>
+	<key id="50600128" name="I love OSU Carl cushion"/>
 	<key id="50700004" name="The Rev my statue"/>
 	<key id="50700005" name="Carl David Blake lime statues"/>
 	<key id="50700006" name="Matthew Voinovich statues"/>
@@ -7723,6 +7764,10 @@
 	<key id="59200209" name="Inferno armor package (m)"/>
 	<key id="59200210" name="Inferno armor package (female)"/>
 	<key id="59200211" name="Sealed Inferno nightmare Gunma"/>
+	<key id="59200212" name="Packaged saekdong hanbok package (m)"/>
+	<key id="59200213" name="Packaged saekdong hanbok package (female)"/>
+	<key id="59200214" name="Packed my love issue La cushion"/>
+	<key id="59200215" name="Packed my love Oh skål cushion"/>
 	<key id="59300001" name="Happy House interior construction volumes"/>
 	<key id="59300002" name="Happy House interior construction volumes"/>
 	<key id="59300003" name="Snowy cabin interior construction volumes"/>
