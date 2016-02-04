@@ -1817,4 +1817,5 @@
 	<key id="90200050" level="1" uiDescription="포인트 댄스를 춥니다." tooltipDescription="포인트 댄스를 춥니다." />
 	<key id="90200051" level="1" uiDescription="꿈틀꿈틀 댄스를 춥니다." tooltipDescription="꿈틀꿈틀 댄스를 춥니다." />
 	<key id="90200052" level="1" uiDescription="주변을 바라보며 노래를 부릅니다." tooltipDescription="주변을 바라보며 노래를 부릅니다." />
+	<key id="90200053" level="1" uiDescription="공손하게 절을 합니다." tooltipDescription="공손하게 절을 합니다." />
 </ms2>

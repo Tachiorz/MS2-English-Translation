@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ms2>
     <key id="1" name="초보자" />
     <key id="10" name="나이트" />
@@ -10,5 +10,6 @@
     <key id="70" name="시프" />
     <key id="80" name="어쌔신" />
 	<key id="90" name="룬 블레이더" />
+	<key id="100" name="" />	
     <key id="999" name="GM" />
 </ms2>

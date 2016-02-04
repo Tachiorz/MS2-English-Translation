@@ -1293,6 +1293,7 @@
 	<key id="90000278" level="1" name="용맹의 증거" tooltipDescription="(카오스) 달빛선장의 요새, 그림자 군단의 제단\n(노멀) 바라스카 얼음굴, 푸른 그림자 동굴\n카사 델 루나, 피라타로스, 미궁의 집회당에서\n물리/마법 대미지 10% 증가" />
 	<key id="90000281" level="1" name="마그넷 미끼" tooltipDescription="게임 장비 아이템을 낚을 수 있음\n노멀, 레어 물고기 낚시 성공 확률 10% 증가" />
 	<key id="90000282" level="1" name="강력 마그넷 미끼" tooltipDescription="게임 장비 아이템을 보다 잘 낚을 수 있음\n노멀, 레어 물고기 낚시 성공 확률 10% 증가" />
+	<key id="90000283" level="1" name="발렌타인 초콜릿" tooltipDescription="물리, 마법 공격력 3% 증가, 최대 HP 5% 증가, 이동속도 5% 증가" />
 	<key id="90001001" level="1" name="트라이아에서 이동속도 5% 증가" tooltipDescription="트라이아에서 이동속도 5% 증가" />
 	<key id="90001002" level="1" name="투쟁의 의지" tooltipDescription="HP 증가, 유저간 전투에서 경직에 면역\nPvP 시 장비의 인챈트 효과 보정" />
 	<key id="90001005" level="1" name="1번입니다" tooltipDescription="1번입니다" />

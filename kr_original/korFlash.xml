@@ -48,7 +48,8 @@
 	<key id="$s_saletag_event" value="EVENT"/>
 	<key id="$s_saletag_hot" value="HOT"/>
 	<key id="$s_saletag_special" value="특별판매"/>
-
+	
+	<key id="$s_saletag_category_sale" value="SALE"/>
 	<!--talkpanelsetting-->
 	<key id="$s_talkpanelsetting_title" value="채팅 탭 설정"/>
 	<key id="$s_talkpanelsetting_initialize" value="초기화"/>
@@ -1291,6 +1292,12 @@
 	<!-- 전직 -->
 	<key id="$s_jobchange_difficulty" value="조작 난이도 :"/>
 	<key id="$s_jobchange_mainskill" value="주요스킬"/>
+	<key id="$s_jobchange_str" value="STR"/>
+   	<key id="$s_jobchange_dex" value="DEX"/>
+	<key id="$s_jobchange_int" value="INT"/>
+	<key id="$s_jobchange_luck" value="LUCK"/>
+	<key id="$s_jobchange_def" value="DEF"/>
+	<key id="$s_jobchange_range" value="RANGE"/>
 
 
 	<!-- 신고 Report -->
@@ -1466,6 +1473,7 @@
 	<key id="$s_guild_search_accept_request_join" value="수락" />
 	<key id="$s_guild_search_reject_request_join" value="거절" />
 	<key id="$s_guild_search_accept_join_tooltip" value="&lt;FONT color='#FFD200'&gt;길드 가입 허용&lt;/FONT&gt;\n길드 정보에서 설정한 길드 활동 성향에 따라 검색 결과에 노출됩니다.\n체크하면 길드를 검색한 사람들의 가입 신청을 받을 수 있습니다.\n체크를 해제하면 길드 가입 신청을 받지 않습니다." />
+	<key id="$s_guild_search_propensity_title" value="길드 활동 성향을 체크해주세요." />
 	<key id="$s_guild_search_propensity_type1" value="친목" />
 	<key id="$s_guild_search_propensity_type2" value="파티 사냥" />
 	<key id="$s_guild_search_propensity_type3" value="트로피" />
@@ -1561,6 +1569,7 @@
 	<key id="$s_enchant_fail_desc1" value="&lt;FONT color='#FF5F5F'&gt;실패 시 인챈트 단계가 하락합니다.&lt;/FONT&gt;" /> <!--실패 시 하락-->
 	<key id="$s_enchant_fail_desc2" value="&lt;FONT color='#FF5F5F'&gt;실패 시 인챈트 단계가 0이 되고 장비가 손상됩니다.\n손상된 장비는 더 이상 인챈트 할 수 없습니다.&lt;/FONT&gt;" /> <!--실패 시 손상-->
 	<key id="$s_enchant_success_desc" value="인챈트 성공 시 인챈트 옵션이 변경 됩니다." />
+	<key id="$s_enchant_item_select" value="강화 할 아이템을 선택하세요." />
 
 	<!-- 스마트 추천 -->
 	<key id="$s_smart_recommend_close" value="다음에" />
@@ -1928,8 +1937,22 @@
 	<key id="$s_dark_stream_result_out" value="나가기" />
 	<key id="$s_dark_stream_result_exp" value="{0} EXP" />
 
+	<key id="$s_dark_stream_result_challenge" value="도전 결과" />
+	<key id="$s_dark_stream_result_best_score" value="내 최고 점수" />
+	<key id="$s_dark_stream_result_reward" value="보상" />
+  
+	<key id="$s_talk_script_reward_exp" value="{0} EXP" />
+	
+	<key id="$s_massiveevent_moviecounter_stage" value="단계" />
+	<key id="$s_massiveevent_moviecounter_start" value="시작" />
+	<key id="$s_massiveevent_moviecounter_count" value="초전" />
+  
+	<!--MainPlayerInfo-->
+	<key id="$s_mainplayerinfo_hp" value="HP" />
+	<key id="$s_mainplayerinfo_sp" value="SP" />
+
 	<key id="$s_notice_dialog_title" value="진행중인 이벤트" />
-	<key id="$s_notice_dialog_footer" value="※ 인페르노 스페셜 패키지 등장!!" />
+	<key id="$s_notice_dialog_footer" value="※ 설날맞이 “행운의 복주머니” 등장! 2016년 대박 나세요!" />
 
 	<!-- 아이템 옵션 변경(재굴림) -->
 	<key id="$s_itemremakeoption_title" value="아이템 추가 옵션 변경"/>

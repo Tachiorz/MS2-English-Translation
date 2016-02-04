@@ -779,10 +779,18 @@
 	<achieve id="22200363" desc="" complete="" manualDesc="$map:02010022$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:02010022$에 있는 황금 보물 상자 모두 열어 봄!" />
 	<achieve id="22200364" desc="" complete="" manualDesc="$map:02010028$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:02010028$에 있는 황금 보물 상자 모두 열어 봄!" />
 	<achieve id="22200365" desc="" complete="" manualDesc="$map:02010026$ 이곳저곳에 있는 황금 보물 상자 모두 열어보기" manualComplete="$map:02010026$에 있는 황금 보물 상자 모두 열어 봄!" />
-	<achieve id="22200366" desc='(던전) &quot;$dungeonTitle:02010054$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02010054$&quot; {0}번 완료' manualDesc="" manualComplete="" />
-	<achieve id="22200367" desc='(던전) &quot;$dungeonTitle:02010070$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02010070$&quot; {0}번 완료' manualDesc="" manualComplete="" />
-	<achieve id="22200368" desc='(던전) &quot;$dungeonTitle:02010049$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02010049$&quot; {0}번 완료' manualDesc="" manualComplete="" />
-	<achieve id="22200369" desc='(던전) &quot;$dungeonTitle:02010069$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02010069$&quot; {0}번 완료' manualDesc="" manualComplete="" />
+	<achieve id="22200366" desc='(던전) &quot;$dungeonTitle:02010054$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02010054$&quot; {0}번 완료' manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730030$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730030$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="22200367" desc='(던전) &quot;$dungeonTitle:02010070$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02010070$&quot; {0}번 완료' manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730032$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730032$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="22200368" desc='(던전) &quot;$dungeonTitle:02010049$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02010049$&quot; {0}번 완료' manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50740033$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50740033$ 구매 권한 획득" />
+	</achieve>
+	<achieve id="22200369" desc='(던전) &quot;$dungeonTitle:02010069$&quot; {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02010069$&quot; {0}번 완료' manualDesc="" manualComplete="">
+		<reward grade="2" uiDesc="$item:50730029$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50730029$ 구매 권한 획득" />
+	</achieve>
 	<achieve id="22200370" desc='(던전) &quot;$dungeonTitle:02010069$&quot;에서 다리 놓기 {0}번 완료하기' complete='(던전) &quot;$dungeonTitle:02010069$&quot;에서 다리 놓기 {0}번 완료' manualDesc="" manualComplete="" />
 	<achieve id="22200371" desc="공간의 소용돌이를 통해 $map:80000012$ {0}회 들어가기" complete="지금까지 공간의 소용돌이를 통해 $map:80000012$ {0}회 방문" manualDesc="" manualComplete="" />
 	<achieve id="22200372" desc="공간의 소용돌이를 통해 $map:80000013$ {0}회 들어가기" complete="지금까지 공간의 소용돌이를 통해 $map:80000013$ {0}회 방문" manualDesc="" manualComplete="" />
@@ -832,19 +840,19 @@
 		<reward grade="1" uiDesc='&quot;$dungeonTitle:02000037$&quot; 던전 입장 권한' notifyIcon="./Data/Resource/Image/ETC/field_enterance.png" notifyString='&quot;$dungeonTitle:02000037$&quot; 던전 입장 권한' />
 	</achieve>
 	<achieve id="22300031" desc="" complete="" manualDesc='&quot;탐험가의 호기심&quot; 퀘스트 완료하기' manualComplete='&quot;탐험가의 호기심&quot; 퀘스트 완료'>
-		<reward grade="1" uiDesc="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
+		<reward grade="1" uiDesc="장비 상인 $npcName:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npcName:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
 	</achieve>
 	<achieve id="22300032" desc="" complete="" manualDesc='&quot;모험가의 호기심&quot; 퀘스트 완료하기' manualComplete='&quot;모험가의 호기심&quot; 퀘스트 완료'>
-		<reward grade="1" uiDesc="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
+		<reward grade="1" uiDesc="장비 상인 $npcName:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npcName:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
 	</achieve>
 	<achieve id="22300033" desc="" complete="" manualDesc='&quot;수련을 쌓는 이유&quot; 퀘스트 완료하기' manualComplete='&quot;수련을 쌓는 이유&quot; 퀘스트 완료'>
-		<reward grade="1" uiDesc="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
+		<reward grade="1" uiDesc="장비 상인 $npcName:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npcName:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
 	</achieve>
 	<achieve id="22300034" desc="" complete="" manualDesc='&quot;움찔하는 무도인&quot; 퀘스트 완료하기' manualComplete='&quot;움찔하는 무도인&quot; 퀘스트 완료'>
-		<reward grade="1" uiDesc="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
+		<reward grade="1" uiDesc="장비 상인 $npcName:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npcName:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
 	</achieve>
 	<achieve id="22300035" desc="" complete="" manualDesc='&quot;그까짓 거 일도 아니지?&quot; 퀘스트 완료하기' manualComplete='&quot;그까짓 거 일도 아니지?&quot; 퀘스트 완료'>
-		<reward grade="1" uiDesc="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npc:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
+		<reward grade="1" uiDesc="장비 상인 $npcName:11001062$의 판매 아이템 일부에 대한 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="장비 상인 $npcName:11001062$의 판매 아이템 일부에 대한 구매 권한 획득" />
 	</achieve>
 	<achieve id="22300036" desc="" complete="" manualDesc="에픽 퀘스트 &apos;염원을 이루다&apos; 완료하기" manualComplete="에픽 퀘스트 &apos;염원을 이루다&apos; 완료" />
 	<achieve id="22300037" desc="일일퀘스트 {0}개 완료" complete="지금까지 일일퀘스트 {0}개 완료" manualDesc="" manualComplete="" />
@@ -1041,6 +1049,11 @@
 	<achieve id="23100168" desc="클라리넷 연주로 숙련도 {0}까지 올리기" complete="클라리넷 연주로 숙련도 {0}까지 올리기 완료" manualDesc="" manualComplete="" />
 	<achieve id="23100169" desc="하프 연주로 숙련도 {0}까지 올리기" complete="하프 연주로 숙련도 {0}까지 올리기 완료" manualDesc="" manualComplete="" />
 	<achieve id="23100170" desc="팀파니 연주로 숙련도 {0}까지 올리기" complete="팀파니 연주로 숙련도 {0}까지 올리기 완료" manualDesc="" manualComplete="" />
+	<achieve id="23100171" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400117$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400117$ 이용" />
+	<achieve id="23100172" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400118$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400118$ 이용" />
+	<achieve id="23100173" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400119$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400119$ 이용" />
+	<achieve id="23100174" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400120$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400120$ 이용" />
+	<achieve id="23100175" desc="" complete="" manualDesc="내 집 또는 다른 사람의 집에서 $item:50400121$ 이용하기" manualComplete="내 집 또는 다른 사람의 집에서 $item:50400121$ 이용" />
 	<achieve id="23200001" desc="{0}메소 주워서 획득하기" complete="지금까지 {0}메소 주워서 획득" manualDesc="" manualComplete="">
 		<reward grade="8" uiDesc="$item:50600033$ 구매 권한" notifyIcon="./Data/Resource/Image/ETC/shop_unlock.png" notifyString="$item:50600033$ 구매 권한 획득" />
 	</achieve>
