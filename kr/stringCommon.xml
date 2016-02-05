@@ -3184,12 +3184,12 @@
 	<key id="s_tooltip_itemoption_kinds_title" value="&lt;font color='#84ffef'&gt;\n{0}&lt;/font&gt;"/> <!--Disable-->
 	<key id="s_tooltip_itemoption_kinds_space" value="&lt;font size='3'&gt;\n&lt;/font&gt;"/>
 	<key id="s_tooltip_itemoption_enchant" value="&lt;font color='#ffd200'&gt;Enchant Effects\n{0}&lt;/font&gt;"/>
-	<key id="s_tooltip_itemoption_stat_row" value=" &nbsp;&nbsp;ㆍ{0}\n"/>
+	<key id="s_tooltip_itemoption_stat_row" value=" &amp;nbsp;&amp;nbsp;ㆍ{0}\n"/>
 
 	<key id="s_tooltip_itemoption_setitem_name" value="&lt;font color='#00d205'&gt;{0} ({1}/{2})\n&lt;/font&gt;"/>
-	<key id="s_tooltip_itemoption_setitem_set_title" value="&nbsp;&nbsp;&nbsp;&lt;font color='#{0:x}'&gt;{1} Set\n&lt;/font&gt;"/>
-	<key id="s_tooltip_itemoption_setitem_name_row" value="&nbsp;&nbsp;&nbsp;&lt;font color='#{0:x}'&gt;{1}\n&lt;/font&gt;"/>
-	<key id="s_tooltip_itemoption_setitem_stat_row" value="&nbsp;&nbsp;&nbsp;&lt;font color='#{0:x}'&gt;ㆍ{1}\n&lt;/font&gt;"/>
+	<key id="s_tooltip_itemoption_setitem_set_title" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color='#{0:x}'&gt;{1} Set\n&lt;/font&gt;"/>
+	<key id="s_tooltip_itemoption_setitem_name_row" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color='#{0:x}'&gt;{1}\n&lt;/font&gt;"/>
+	<key id="s_tooltip_itemoption_setitem_stat_row" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color='#{0:x}'&gt;ㆍ{1}\n&lt;/font&gt;"/>
 
 	<!--Playing an instrument proficiency -->
 	<key id="s_play_instrument_grade_Lv1" value="Novice Performer"/>
