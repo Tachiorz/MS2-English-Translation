@@ -2508,7 +2508,7 @@
 	<key id="s_shadowworld_safezone_chat_msg" value="You have entered a safe zone. You cannot battle with other players."/>
 	<key id="s_shadowworld_pkzone_allert" value="Players can battle against one another in lawless zones. \nAre you sure you want to &lt;FONT color='#FFD200'&gt;enter the lawless zone&lt;/FONT&gt;?"/>
 
-	<key id="s_shadowworld_kill_log_die" value="{0} was taken down."/>
+	<key id="s_shadowworld_kill_log_die" value="You have been taken down by {0}."/>
 	<key id="s_shadowworld_kill_log_kill" value="You took {0} down."/>
 
 	<key id="s_bill_format_sumprice" value="{0} &lt;Img Src='export_common_icon_merat' vspace='-4'&gt;&lt;/Img&gt;"/>
